@@ -1,6 +1,6 @@
 {
   "description": "Euphoric drum & bass tracks for raving in the sunshine!\n",
-  "num_followers": 78725,
+  "num_followers": 78743,
   "original_name": "Sunny dnb",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/0OPyTNn3jKPWpKWRdTNUcf"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/2FL4b35Fvy1LRSEaqrvgte"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
         "name": "96 (feat. Shapes & Dada Jones)",
         "url": "https://open.spotify.com/album/7hyrq5IHLwnjBLvo9ZV7Cx"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 150408,
       "name": "96 (feat. Shapes & Dada Jones)",
       "url": "https://open.spotify.com/track/7dYnsb6ZIhKaxcrxgLnpHR"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
-        "name": "Avalanche",
-        "url": "https://open.spotify.com/album/0OPyTNn3jKPWpKWRdTNUcf"
-      },
-      "artists": [
-        {
-          "name": "Hybrid Minds",
-          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/2FL4b35Fvy1LRSEaqrvgte"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -739,26 +739,6 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4bjnv5gOW5PXWe7Fp4oLq6"
-      },
-      "artists": [
-        {
-          "name": "Harriet Jaxxon",
-          "url": "https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu"
-        },
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 158742,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/75HR9SahNi9NxHtR3ZZtGV"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
         "name": "Risk It All (feat. Maverick Sabre)",
         "url": "https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 211200,
       "name": "Risk It All (feat. Maverick Sabre)",
       "url": "https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4bjnv5gOW5PXWe7Fp4oLq6"
+      },
+      "artists": [
+        {
+          "name": "Harriet Jaxxon",
+          "url": "https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu"
+        },
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 158742,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/75HR9SahNi9NxHtR3ZZtGV"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
-        "name": "Fun in the Sun",
-        "url": "https://open.spotify.com/album/2galUcRqce0LWecrsJgb3w"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Harry Bee",
-          "url": "https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "Fun in the Sun",
-      "url": "https://open.spotify.com/track/3H0u4i0rnjVYnaYlT6hIw1"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
         "name": "Didn't Wanna Know",
         "url": "https://open.spotify.com/album/0q0zgzjWc0CJG2aBEWLU3D"
       },
@@ -1031,6 +1011,46 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
+        "name": "Fun in the Sun",
+        "url": "https://open.spotify.com/album/2galUcRqce0LWecrsJgb3w"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Harry Bee",
+          "url": "https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "Fun in the Sun",
+      "url": "https://open.spotify.com/track/3H0u4i0rnjVYnaYlT6hIw1"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/1olN41ilLwcgf8egALwSvu"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        },
+        {
+          "name": "shadxwgirl",
+          "url": "https://open.spotify.com/artist/0VI8OJAF4LWfSHukdALwia"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/0D5qWqcQzcWOsmUi8jAkgw"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
         "name": "Say Less (ft. IRAH & Mr Williamz)",
         "url": "https://open.spotify.com/album/2QiJUFp6OKSVMocPV863yH"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 196250,
       "name": "Say Less (ft. IRAH & Mr Williamz)",
       "url": "https://open.spotify.com/track/6lBEl5Y8I0UyQG5TdM3ScV"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/1olN41ilLwcgf8egALwSvu"
-      },
-      "artists": [
-        {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
-        },
-        {
-          "name": "shadxwgirl",
-          "url": "https://open.spotify.com/artist/0VI8OJAF4LWfSHukdALwia"
-        }
-      ],
-      "duration_ms": 204827,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/0D5qWqcQzcWOsmUi8jAkgw"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
-        "name": "Inbetween",
-        "url": "https://open.spotify.com/album/4cQoJVXYcZ9xpjpqUEK5Ds"
-      },
-      "artists": [
-        {
-          "name": "Burt Cope",
-          "url": "https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Inbetween",
-      "url": "https://open.spotify.com/track/258dZAUO52hG9gC6MNIg8s"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
         "name": "Favela",
         "url": "https://open.spotify.com/album/2BPl2kILbhjnb4VKJQnyDT"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 161961,
       "name": "Favela",
       "url": "https://open.spotify.com/track/2ijL261X405FDR88YzpmIv"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
+        "name": "Inbetween",
+        "url": "https://open.spotify.com/album/4cQoJVXYcZ9xpjpqUEK5Ds"
+      },
+      "artists": [
+        {
+          "name": "Burt Cope",
+          "url": "https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Inbetween",
+      "url": "https://open.spotify.com/track/258dZAUO52hG9gC6MNIg8s"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/4yzoYL0O0VSACgnOytIqS5"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "ARTAN",
-          "url": "https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2"
-        }
-      ],
-      "duration_ms": 201071,
-      "name": "Curtain Call",
-      "url": "https://open.spotify.com/track/2FpKhOSjXEIsML61zNDibJ"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
         "name": "Sweet Disposition",
         "url": "https://open.spotify.com/album/7cfYN8LMqIRkPyLI22ZXtd"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 171034,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/6fJDlL9VnTedF9NBPF3DYO"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/4yzoYL0O0VSACgnOytIqS5"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "ARTAN",
+          "url": "https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2"
+        }
+      ],
+      "duration_ms": 201071,
+      "name": "Curtain Call",
+      "url": "https://open.spotify.com/track/2FpKhOSjXEIsML61zNDibJ"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1435,6 +1435,30 @@
       "duration_ms": 211004,
       "name": "Low Can U Go",
       "url": "https://open.spotify.com/track/1HI4SW3MkyoVW2blKqxGZR"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
+        "name": "Murdah",
+        "url": "https://open.spotify.com/album/6UBbiZ6P485g4IioSnBvhi"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        },
+        {
+          "name": "CW Jones",
+          "url": "https://open.spotify.com/artist/6gT1TeOp1bLrvKkJt3vtwI"
+        }
+      ],
+      "duration_ms": 177257,
+      "name": "Murdah",
+      "url": "https://open.spotify.com/track/3OxXvzgTWByimQ9CRFbqfB"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1503,30 +1527,6 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
-        "name": "Murdah",
-        "url": "https://open.spotify.com/album/6UBbiZ6P485g4IioSnBvhi"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
-        },
-        {
-          "name": "CW Jones",
-          "url": "https://open.spotify.com/artist/6gT1TeOp1bLrvKkJt3vtwI"
-        }
-      ],
-      "duration_ms": 177257,
-      "name": "Murdah",
-      "url": "https://open.spotify.com/track/3OxXvzgTWByimQ9CRFbqfB"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/5OoEgzQw9LsTwJYnyrDkLF"
       },
@@ -1543,26 +1543,6 @@
       "duration_ms": 191303,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1k8XXzYfFYfFYpH7roV0na"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
-        "name": "10FOOT",
-        "url": "https://open.spotify.com/album/2z8D6lR0gWhwhNKI8V0o5Y"
-      },
-      "artists": [
-        {
-          "name": "Catching Cairo",
-          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
-        },
-        {
-          "name": "CLIPZ",
-          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
-        }
-      ],
-      "duration_ms": 115813,
-      "name": "10FOOT",
-      "url": "https://open.spotify.com/track/3srphY2g3R6HwNnL9oNdC4"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1587,6 +1567,26 @@
       "duration_ms": 194471,
       "name": "Area Code",
       "url": "https://open.spotify.com/track/04YHC7lSLrX3Ar1VbcCYIs"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
+        "name": "10FOOT",
+        "url": "https://open.spotify.com/album/2z8D6lR0gWhwhNKI8V0o5Y"
+      },
+      "artists": [
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        },
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        }
+      ],
+      "duration_ms": 115813,
+      "name": "10FOOT",
+      "url": "https://open.spotify.com/track/3srphY2g3R6HwNnL9oNdC4"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
-        "name": "Soundboy Johnny",
-        "url": "https://open.spotify.com/album/4qup8Jq6TdMvFy7fam9lz8"
-      },
-      "artists": [
-        {
-          "name": "Conducta",
-          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Soundboy Johnny",
-      "url": "https://open.spotify.com/track/3LQqxvd3CxGhZPHjUNepKI"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
         "name": "Southwark",
         "url": "https://open.spotify.com/album/1UNGxOhYLpyjEPWqVAKneh"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 231824,
       "name": "Southwark",
       "url": "https://open.spotify.com/track/5jhL4cFcAzraDweCvLSreL"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
+        "name": "Soundboy Johnny",
+        "url": "https://open.spotify.com/album/4qup8Jq6TdMvFy7fam9lz8"
+      },
+      "artists": [
+        {
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Soundboy Johnny",
+      "url": "https://open.spotify.com/track/3LQqxvd3CxGhZPHjUNepKI"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
+        "name": "Amnesia (Bring It Back)",
+        "url": "https://open.spotify.com/album/4E5UQLD87nGuaEfrphtLVe"
+      },
+      "artists": [
+        {
+          "name": "Krakota",
+          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Amnesia (Bring It Back)",
+      "url": "https://open.spotify.com/track/2rtt376bLjO6W2XpvGVgcR"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/7Bs9BUD605jQ02RltD8wE2"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 199711,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3xoiviBXaSfvJqltuO0O6v"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
-        "name": "Amnesia (Bring It Back)",
-        "url": "https://open.spotify.com/album/4E5UQLD87nGuaEfrphtLVe"
-      },
-      "artists": [
-        {
-          "name": "Krakota",
-          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Amnesia (Bring It Back)",
-      "url": "https://open.spotify.com/track/2rtt376bLjO6W2XpvGVgcR"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1935,6 +1935,26 @@
       "duration_ms": 229344,
       "name": "Heavy Handed",
       "url": "https://open.spotify.com/track/0nftfQ8AJruSvZomh1v1Bp"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/0NdWdBW0KWrKsqlEe5BQnO"
+      },
+      "artists": [
+        {
+          "name": "Crate Classics",
+          "url": "https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx"
+        },
+        {
+          "name": "FEMME",
+          "url": "https://open.spotify.com/artist/2lcT6qkYGkmQQ3KCU5BW9K"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/40WOqqydIlVzhbCHYsXejk"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1975,26 +1995,6 @@
       "duration_ms": 204137,
       "name": "Business Minded",
       "url": "https://open.spotify.com/track/1gtk11NNGXEtOZsBYDBwI6"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/0NdWdBW0KWrKsqlEe5BQnO"
-      },
-      "artists": [
-        {
-          "name": "Crate Classics",
-          "url": "https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx"
-        },
-        {
-          "name": "FEMME",
-          "url": "https://open.spotify.com/artist/2lcT6qkYGkmQQ3KCU5BW9K"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/40WOqqydIlVzhbCHYsXejk"
     },
     {
       "added_at": "2026-07-23 23:00:34",

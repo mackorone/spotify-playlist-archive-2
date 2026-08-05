@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Check out the Latest Romance Tracks.\nCover : Idhayam Murali",
+  "description": "Check out the Latest Romance Tracks.\nCover : Vishwanath & Sons",
   "name": "Latest Love Tamil",
   "tracks": [
     {
@@ -538,7 +538,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 206065,
       "name": "Aiyo Kadhaley (From \"With Love\")",
       "url": "https://open.spotify.com/track/3yE2T5Di3k3URoRySJSqdm"
@@ -1832,6 +1832,32 @@
       "duration_ms": 269154,
       "name": "Edhukku Dhan Indha Kaadhal",
       "url": "https://open.spotify.com/track/7AgTsP87xw1OpQ3lmeDf6Z"
+    },
+    {
+      "album": {
+        "name": "Ekavali (From \"Renigunta 2\")",
+        "url": "https://open.spotify.com/album/2LJ7GlCrPSBiD7v6wMDggV"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        },
+        {
+          "name": "Manu Ravichandran",
+          "url": "https://open.spotify.com/artist/0NLYyExvd65GY4HepMwfFR"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258993,
+      "name": "Ekavali (From \"Renigunta 2\")",
+      "url": "https://open.spotify.com/track/40rsaNsQOa4jFd15CvdUFX"
     },
     {
       "album": {
@@ -3172,6 +3198,36 @@
       "duration_ms": 208833,
       "name": "Kadhavai Thirandhaye - From \"Sweetheart\"",
       "url": "https://open.spotify.com/track/3rVWPGAaN5Q5leWWa7CrRu"
+    },
+    {
+      "album": {
+        "name": "Kalavaadum Kanna (From \"Address\")",
+        "url": "https://open.spotify.com/album/6PXSnEjMXKw73lKdflpA06"
+      },
+      "artists": [
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Padmalatha",
+          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
+        },
+        {
+          "name": "Girishh G",
+          "url": "https://open.spotify.com/artist/5VvulDYNoxmP3ey1yGddvB"
+        },
+        {
+          "name": "Snehan",
+          "url": "https://open.spotify.com/artist/1CURJzNK4YUlml7srBvsVh"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270170,
+      "name": "Kalavaadum Kanna (From \"Address\")",
+      "url": "https://open.spotify.com/track/4vquOZENvQPaacx5xKLpKq"
     },
     {
       "album": {
@@ -4534,7 +4590,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 197684,
       "name": "Marandhu Poche (From \"With Love\")",
       "url": "https://open.spotify.com/track/4tSRdwTJTfIqDIMYAh23eD"
@@ -4996,7 +5052,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 257142,
       "name": "Muthaarame",
       "url": "https://open.spotify.com/track/19PjjsiIzeUzPXCgdzaiPa"
@@ -7289,6 +7345,32 @@
     },
     {
       "album": {
+        "name": "Sengathiye (From \"Delivery Boy\")",
+        "url": "https://open.spotify.com/album/5IaIierEuvYfgTWGR2d49N"
+      },
+      "artists": [
+        {
+          "name": "Sundaramurthy K.S.",
+          "url": "https://open.spotify.com/artist/5jX2iG007T8zGsQiuuJY40"
+        },
+        {
+          "name": "VishnuRam",
+          "url": "https://open.spotify.com/artist/6nn1eFpW3VbPzdolibrVrW"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Sengathiye (From \"Delivery Boy\")",
+      "url": "https://open.spotify.com/track/3vj0s7dBf0WmYQONf3iRs0"
+    },
+    {
+      "album": {
         "name": "Senthamaraiye",
         "url": "https://open.spotify.com/album/1T2eofe6BDiUgv5XIRA5Mg"
       },
@@ -8586,7 +8668,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 216162,
       "name": "Un Paarvai (From \"Kadhal Reset Repeat\")",
       "url": "https://open.spotify.com/track/28EaDij6IMhUBPl9zrhsLB"
@@ -9230,6 +9312,32 @@
       "duration_ms": 277439,
       "name": "Vaan Vaan - From \"Idhayam Murali\"",
       "url": "https://open.spotify.com/track/5N2Z9rGyhSfUgTQ1eI3lPT"
+    },
+    {
+      "album": {
+        "name": "Vaane Vaane (From \"Sri Sri\") (Tamil)",
+        "url": "https://open.spotify.com/album/3vv0xo6Xm84VaCYRJLQltg"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "K.R.Dharan",
+          "url": "https://open.spotify.com/artist/3waLs3SAMAcObbCUrAoGxQ"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203883,
+      "name": "Vaane Vaane (From \"Sri Sri\") (Tamil)",
+      "url": "https://open.spotify.com/track/7qWI3Fal0CaD9ZEqCOuVS3"
     },
     {
       "album": {

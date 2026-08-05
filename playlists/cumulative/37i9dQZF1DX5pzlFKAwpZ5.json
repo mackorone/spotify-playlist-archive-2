@@ -4890,7 +4890,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 448789,
       "name": "Refu",
       "url": "https://open.spotify.com/track/0nr7iWQZW0bHDeK4SiuZnD"
@@ -5304,6 +5304,24 @@
       "duration_ms": 96813,
       "name": "SERENE",
       "url": "https://open.spotify.com/track/2HJSIyXM8ToAcWSrAEGSFP"
+    },
+    {
+      "album": {
+        "name": "Tsuioku",
+        "url": "https://open.spotify.com/album/6BzDJ1MYLVmBDTYZTpmOGF"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Bedroom Orchestra",
+          "url": "https://open.spotify.com/artist/6H68wWhNdzqOsJseTU5Nxr"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Setsurei",
+      "url": "https://open.spotify.com/track/72G1ra72WWayqf4W9jUstG"
     },
     {
       "album": {

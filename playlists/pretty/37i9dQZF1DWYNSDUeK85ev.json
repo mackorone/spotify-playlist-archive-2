@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696677,
+  "num_followers": 696572,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -531,30 +531,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Ya No M\u00e1s",
-        "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "Santiago Saez",
-          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
-        }
-      ],
-      "duration_ms": 158447,
-      "name": "Ya No M\u00e1s",
-      "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "POSEIDON",
         "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
       },
@@ -599,6 +575,30 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Ya No M\u00e1s",
+        "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Santiago Saez",
+          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
+        }
+      ],
+      "duration_ms": 158447,
+      "name": "Ya No M\u00e1s",
+      "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "El Mismo Aire",
         "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
       },
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 160212,
-      "name": "Bar",
-      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "P\u00c9GATE",
         "url": "https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 137331,
       "name": "P\u00c9GATE",
       "url": "https://open.spotify.com/track/3YZWI2eI7X2B0xuSHNFCc2"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 160212,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Vida Gangster",
+        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "duration_ms": 170058,
+      "name": "Vida Gangster",
+      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "No Aguanto M\u00e1s",
         "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Vida Gangster",
-        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        }
-      ],
-      "duration_ms": 170058,
-      "name": "Vida Gangster",
-      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "Se Fue Viral",
         "url": "https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 180213,
       "name": "Se Fue Viral",
       "url": "https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Baila Sola",
+      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "Auto Al Piso",
         "url": "https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 174580,
       "name": "Auto Al Piso",
       "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Baila Sola",
-      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Ojitos Chiquititos",
-        "url": "https://open.spotify.com/album/0qDTsPJg1GZhUmRj3m7udK"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 135069,
-      "name": "Ojitos Chiquititos",
-      "url": "https://open.spotify.com/track/2bGEoSwvtIi5el0jyeLbmn"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "LATI2",
         "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
       },
@@ -1271,6 +1247,30 @@
       "duration_ms": 204146,
       "name": "LATI2",
       "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Ojitos Chiquititos",
+        "url": "https://open.spotify.com/album/0qDTsPJg1GZhUmRj3m7udK"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 135069,
+      "name": "Ojitos Chiquititos",
+      "url": "https://open.spotify.com/track/2bGEoSwvtIi5el0jyeLbmn"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "DJ ALEX, ALEJO ISAKK - INDIQUEN | E3",
+        "url": "https://open.spotify.com/album/0tR8VEP2fcNDGdQFEOpfAo"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "DJ ALEX, ALEJO ISAKK - INDIQUEN | E3",
+      "url": "https://open.spotify.com/track/0mrioCB3wq09Zz7YN3Q4C4"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "Mix Los Palmeras - (Fer Palacio Remix)",
         "url": "https://open.spotify.com/album/23uaZbNiaoyRW3ajEQaP4G"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 593909,
       "name": "Mix Los Palmeras (Fer Palacio Remix) El Bomb\u00f3n/ El Embrujo/ Perra/ La Cola/ Ll\u00e9vame Contigo/ Qu\u00e9 Quiere La Chola/ Sabalero",
       "url": "https://open.spotify.com/track/2K23Qshovdda3cgSRbHQKu"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "DJ ALEX, ALEJO ISAKK - INDIQUEN | E3",
-        "url": "https://open.spotify.com/album/0tR8VEP2fcNDGdQFEOpfAo"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "DJ ALEX, ALEJO ISAKK - INDIQUEN | E3",
-      "url": "https://open.spotify.com/track/0mrioCB3wq09Zz7YN3Q4C4"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Te Vas - Guaracha",
+        "url": "https://open.spotify.com/album/4kupmdYVj25p0q3PZWVTCV"
+      },
+      "artists": [
+        {
+          "name": "DJ Cuba",
+          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
+        },
+        {
+          "name": "Pity DJ",
+          "url": "https://open.spotify.com/artist/5g97L1SY9pc0tHrgvDG29a"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Te Vas - Guaracha",
+      "url": "https://open.spotify.com/track/7amwHhFhSdeDbeNtSllcsP"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "Pistola Remix",
         "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 136806,
       "name": "Pistola Remix",
       "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Te Vas - Guaracha",
-        "url": "https://open.spotify.com/album/4kupmdYVj25p0q3PZWVTCV"
-      },
-      "artists": [
-        {
-          "name": "DJ Cuba",
-          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
-        },
-        {
-          "name": "Pity DJ",
-          "url": "https://open.spotify.com/artist/5g97L1SY9pc0tHrgvDG29a"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Te Vas - Guaracha",
-      "url": "https://open.spotify.com/track/7amwHhFhSdeDbeNtSllcsP"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Kaleb Di Masi: RKT SESSION #4",
-        "url": "https://open.spotify.com/album/5u8hNZSa0vta5X8bVWtD5H"
-      },
-      "artists": [
-        {
-          "name": "Papu DJ",
-          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
-        },
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        }
-      ],
-      "duration_ms": 205234,
-      "name": "Kaleb Di Masi: RKT SESSION #4",
-      "url": "https://open.spotify.com/track/6tHv7TJRAIazETTRMaqSzV"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "Obsesion (Guaracha)",
         "url": "https://open.spotify.com/album/26qDBQFOm6EJJbIetZIIHb"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 107460,
       "name": "Obsesion (Guaracha)",
       "url": "https://open.spotify.com/track/2QTKoIZKP8Y8pmisdmFx89"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Kaleb Di Masi: RKT SESSION #4",
+        "url": "https://open.spotify.com/album/5u8hNZSa0vta5X8bVWtD5H"
+      },
+      "artists": [
+        {
+          "name": "Papu DJ",
+          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        }
+      ],
+      "duration_ms": 205234,
+      "name": "Kaleb Di Masi: RKT SESSION #4",
+      "url": "https://open.spotify.com/track/6tHv7TJRAIazETTRMaqSzV"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Retumbando la Bocina #2 (Set Remix)",
+        "url": "https://open.spotify.com/album/633PenwOj1jpbHbGDSw8lH"
+      },
+      "artists": [
+        {
+          "name": "Lea in the Mix",
+          "url": "https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP"
+        }
+      ],
+      "duration_ms": 1079142,
+      "name": "Retumbando la Bocina #2 - Set Remix",
+      "url": "https://open.spotify.com/track/2EI9zwvbsXb2hDXUxnnjsl"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "El Dia de Mi Suerte (Guaracha)",
         "url": "https://open.spotify.com/album/619f11g93vnIAbxjiNh1qa"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 145511,
       "name": "El Dia de Mi Suerte - Guaracha",
       "url": "https://open.spotify.com/track/6jkSYIxKp9dq5cUV3AVxHe"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Retumbando la Bocina #2 (Set Remix)",
-        "url": "https://open.spotify.com/album/633PenwOj1jpbHbGDSw8lH"
-      },
-      "artists": [
-        {
-          "name": "Lea in the Mix",
-          "url": "https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP"
-        }
-      ],
-      "duration_ms": 1079142,
-      "name": "Retumbando la Bocina #2 - Set Remix",
-      "url": "https://open.spotify.com/track/2EI9zwvbsXb2hDXUxnnjsl"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Ritmo, Vol. 1",
-        "url": "https://open.spotify.com/album/061ey5iAc8evXtWdY3CSwk"
-      },
-      "artists": [
-        {
-          "name": "Rkt",
-          "url": "https://open.spotify.com/artist/79IqrR42sN3ALgtibYWsaL"
-        }
-      ],
-      "duration_ms": 219211,
-      "name": "En el Party",
-      "url": "https://open.spotify.com/track/0yljGoheC8WIvdFx8W7eH9"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "Quiero Verte Bailar (DJ Alex Remix)",
         "url": "https://open.spotify.com/album/4oSOrj6okXZ4M4hOyLQbcf"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 171764,
       "name": "Quiero Verte Bailar - DJ Alex Remix",
       "url": "https://open.spotify.com/track/0li8QfMCtq5hg6qB67E4U1"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Ritmo, Vol. 1",
+        "url": "https://open.spotify.com/album/061ey5iAc8evXtWdY3CSwk"
+      },
+      "artists": [
+        {
+          "name": "Rkt",
+          "url": "https://open.spotify.com/artist/79IqrR42sN3ALgtibYWsaL"
+        }
+      ],
+      "duration_ms": 219211,
+      "name": "En el Party",
+      "url": "https://open.spotify.com/track/0yljGoheC8WIvdFx8W7eH9"
     },
     {
       "added_at": "2026-06-19 03:00:21",

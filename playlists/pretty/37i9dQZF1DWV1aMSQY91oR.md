@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Lou Phelps
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,345 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,361 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 33 | [We Wildin](https://open.spotify.com/track/3cMNglRsVgTJLzr8I5bcPr) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [We Wildin](https://open.spotify.com/album/3Rc3vM31ctiN1TjRdySEkK) | 2:45 |
 | 34 | [YOU CAN ALWAYS COME BACK HOME](https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [YOU CAN ALWAYS COME BACK HOME](https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q) | 3:51 |
 | 35 | [Trap 4 a Year II](https://open.spotify.com/track/6ZTPxJSyLNbrBy2jyF5lJF) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [Trap 4 a Year II](https://open.spotify.com/album/4DuESzDuDknm7FSzzGz4iB) | 2:35 |
-| 36 | [4 Profit](https://open.spotify.com/track/7mpTnV6VDwo5VkXjOIBJW6) | [a4](https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [4 Profit](https://open.spotify.com/album/3ziNEp7pikNOdQwIeVv8IM) | 1:49 |
+| 36 | [4 Profit](https://open.spotify.com/track/7mpTnV6VDwo5VkXjOIBJW6) | [a4](https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Rvei Rvei](https://open.spotify.com/artist/6VQSb04anFvduhdyjpURkc) | [4 Profit](https://open.spotify.com/album/3ziNEp7pikNOdQwIeVv8IM) | 1:49 |
 | 37 | [Leave Right Now](https://open.spotify.com/track/3xA724VgSVn5wMJFoyxfeS) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX), [niceboy](https://open.spotify.com/artist/4tREJFA4PibtXSyFi17Tqg), [Ofra Haza](https://open.spotify.com/artist/6tOL5L1TlmBLdFMeEoXgae) | [Leave Right Now](https://open.spotify.com/album/6A9MGL9FVOo0c8T9OsgkXk) | 3:02 |
 | 38 | [Calling My Phone](https://open.spotify.com/track/0HvdYJi1hLwYp7PoOipBJz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Calling My Phone](https://open.spotify.com/album/0n7PIBSF3vgcnaRUu9iXQh) | 2:09 |
 | 39 | [Piece of Mind](https://open.spotify.com/track/4u9cC6bAuMqvyOsLHLJlBy) | [Jboogz](https://open.spotify.com/artist/6qCCbx2dsKhC8ho5M1xcOq), [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP) | [Piece of Mind](https://open.spotify.com/album/1nCfFkzf3lCuIrJV1K6HNR) | 3:07 |

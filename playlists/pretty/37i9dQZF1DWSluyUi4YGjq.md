@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: deary
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,357 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,390 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 30 | [Perfectly Blue \(feat\. Winter\)](https://open.spotify.com/track/1yTIls3wv8W1XscrAR00Iy) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Perfectly Blue \(feat\. Winter\)](https://open.spotify.com/album/65gzOnTds7R6w4Pvej8Brq) | 3:23 |
 | 31 | [Malibu Beach House](https://open.spotify.com/track/404jLVCRjZXEQ3p8DqjN4e) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [I'll Drown On This Earth](https://open.spotify.com/album/6OVBEav1yV2tl07wTlPozK) | 4:01 |
 | 32 | [Born In Early May](https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Together We Are One, You and I](https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3) | 5:12 |
-| 33 | [nuclear](https://open.spotify.com/track/3sS5EHvZrM7XqTRh3wdxRx) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [nuclear](https://open.spotify.com/album/34OS4k4RcL6LjVxWoZ4ick) | 5:45 |
+| 33 | [nuclear](https://open.spotify.com/track/3sS5EHvZrM7XqTRh3wdxRx) | [mieke?](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [nuclear](https://open.spotify.com/album/34OS4k4RcL6LjVxWoZ4ick) | 5:45 |
 | 34 | [Fade](https://open.spotify.com/track/5KvOtoYiImvhfbT1uXAuae) | [Blackwater Holylight](https://open.spotify.com/artist/2fqEhs5dZBrDLUqHvWRtBc) | [Not Here Not Gone](https://open.spotify.com/album/55jaQmtN4s05nDUqqrmXkw) | 5:37 |
 | 35 | [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 |
 | 36 | [Bullet Train](https://open.spotify.com/track/6exAuvSEakkp85fAcCimGp) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Bullet Train](https://open.spotify.com/album/0NyY9p77V8aKXbY1OAObcV) | 2:45 |

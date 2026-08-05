@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: TRADE L)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221866,
+  "num_followers": 221869,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,26 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "On the street",
-        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
       },
       "artists": [
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "Yorch",
+          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
         },
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
         }
       ],
-      "duration_ms": 209154,
-      "name": "On the street (Feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+      "duration_ms": 215000,
+      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
+      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -607,6 +611,42 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "IITE COOL",
+        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 214813,
+      "name": "Summer Tights",
+      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
         "name": "Dingo X H1GHR MUSIC",
         "url": "https://open.spotify.com/album/2t5fdLTQu0xX89rDf4NMNX"
       },
@@ -631,46 +671,6 @@
       "duration_ms": 259982,
       "name": "iffy (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/4q9JLlC3HIhN4CDC6KlpYK"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Summer Tights",
-      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "Blow Your Mind",
-        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
-      },
-      "artists": [
-        {
-          "name": "Yorch",
-          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Bryan Chase",
-          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
-      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -731,8 +731,8 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "Stuck (Feat. Yerin Baek)",
-        "url": "https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko"
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr"
       },
       "artists": [
         {
@@ -740,13 +740,13 @@
           "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
         },
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Stuck (Feat. Yerin Baek)",
-      "url": "https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx"
+      "duration_ms": 121000,
+      "name": "Heartfall",
+      "url": "https://open.spotify.com/track/4WiQs8PBO76tHBaGMQ5jms"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "HANDS",
-        "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jung Zi So",
-          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Life Is A Movie (Feat. Jung Zi So)",
-      "url": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
         "name": "H.A.L.F (Have.A.Little.Fun)",
         "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
       },
@@ -831,8 +811,28 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "HBK",
-        "url": "https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr"
+        "name": "HANDS",
+        "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jung Zi So",
+          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Life Is A Movie (Feat. Jung Zi So)",
+      "url": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "Stuck (Feat. Yerin Baek)",
+        "url": "https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko"
       },
       "artists": [
         {
@@ -840,13 +840,13 @@
           "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
         },
         {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 121000,
-      "name": "Heartfall",
-      "url": "https://open.spotify.com/track/4WiQs8PBO76tHBaGMQ5jms"
+      "duration_ms": 168000,
+      "name": "Stuck (Feat. Yerin Baek)",
+      "url": "https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "LIVE FAST DIE SKRT",
-        "url": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR"
-      },
-      "artists": [
-        {
-          "name": "BILL STAX",
-          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "You're So Fine",
-      "url": "https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
         "name": "UNSTEADY",
         "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 184840,
       "name": "I BE LIKE (Feat. SOLE)",
       "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "LIVE FAST DIE SKRT",
+        "url": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR"
+      },
+      "artists": [
+        {
+          "name": "BILL STAX",
+          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "You're So Fine",
+      "url": "https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "NAMU!",
-        "url": "https://open.spotify.com/album/4P0gl1yPbph5fkA6hu1KHd"
-      },
-      "artists": [
-        {
-          "name": "PAAK",
-          "url": "https://open.spotify.com/artist/03sYskre0oa1U6nuso7EEL"
-        },
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        }
-      ],
-      "duration_ms": 162658,
-      "name": "COT (feat. MILLI)",
-      "url": "https://open.spotify.com/track/3vAte5domSgArlZsXlPFhC"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
         "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
         "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 189720,
       "name": "Baby",
       "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "NAMU!",
+        "url": "https://open.spotify.com/album/4P0gl1yPbph5fkA6hu1KHd"
+      },
+      "artists": [
+        {
+          "name": "PAAK",
+          "url": "https://open.spotify.com/artist/03sYskre0oa1U6nuso7EEL"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "duration_ms": 162658,
+      "name": "COT (feat. MILLI)",
+      "url": "https://open.spotify.com/track/3vAte5domSgArlZsXlPFhC"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1411,22 +1411,6 @@
       "duration_ms": 227560,
       "name": "NG (Feat. pH-1, Jay Park)",
       "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "milli",
-        "url": "https://open.spotify.com/album/3RZG9BV5a2GCxOe9OLjM8K"
-      },
-      "artists": [
-        {
-          "name": "MilliMax",
-          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "INSTAGRAM",
-      "url": "https://open.spotify.com/track/7FLQ0h6DKO9s29WLzzHnVe"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
+        "name": "milli",
+        "url": "https://open.spotify.com/album/3RZG9BV5a2GCxOe9OLjM8K"
+      },
+      "artists": [
+        {
+          "name": "MilliMax",
+          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "INSTAGRAM",
+      "url": "https://open.spotify.com/track/7FLQ0h6DKO9s29WLzzHnVe"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
         "name": "LOVESICK",
         "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
       },
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
+        "name": "I Am Yours",
+        "url": "https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "duration_ms": 211640,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
         "name": "AMBITION 5/10",
         "url": "https://open.spotify.com/album/3etqC5rZJlcAwxgmditKP4"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 166666,
       "name": "Show Must Go On",
       "url": "https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "I Am Yours",
-        "url": "https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 211640,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "If tomorrow never comes",
-        "url": "https://open.spotify.com/album/4gP2KiYoDIr1PuwmdWeuao"
-      },
-      "artists": [
-        {
-          "name": "BANG YONGGUK",
-          "url": "https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "If tomorrow never comes",
-      "url": "https://open.spotify.com/track/5gFiPXCW1r4G96kwvmFxsr"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
         "name": "Wait A Minute !",
         "url": "https://open.spotify.com/album/59Vc3Ij1sz6fQmgfv5ANtD"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 194500,
       "name": "Wait A Minute ! (Feat. \ud669\uc138\ud604(h3hyeon))",
       "url": "https://open.spotify.com/track/30kEjqFheQPomQcf2kZM7H"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "If tomorrow never comes",
+        "url": "https://open.spotify.com/album/4gP2KiYoDIr1PuwmdWeuao"
+      },
+      "artists": [
+        {
+          "name": "BANG YONGGUK",
+          "url": "https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "If tomorrow never comes",
+      "url": "https://open.spotify.com/track/5gFiPXCW1r4G96kwvmFxsr"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
+        "name": "Is Anybody Out There?",
+        "url": "https://open.spotify.com/album/7zYpUyqdyfgQlYu9GjMoWT"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/3kjolpJ50jPf9Huqc3Y7jh"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
         "name": "DTLA",
         "url": "https://open.spotify.com/album/3xVYQ9dMfPMKTBgjzrEjzf"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 174552,
       "name": "DTLA",
       "url": "https://open.spotify.com/track/6eG44JiWp5Sk5wil9Yc7vw"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "Is Anybody Out There?",
-        "url": "https://open.spotify.com/album/7zYpUyqdyfgQlYu9GjMoWT"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/3kjolpJ50jPf9Huqc3Y7jh"
     },
     {
       "added_at": "2026-07-22 13:51:42",

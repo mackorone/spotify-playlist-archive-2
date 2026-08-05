@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/012oKUlmu9qA84z4kYrOAj"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187868,
+      "name": "1.1_3-oneor0.wma",
+      "url": "https://open.spotify.com/track/66LSGgGsvhqvnDP0inq4pw"
+    },
+    {
+      "album": {
         "name": "Origins Soundtrack",
         "url": "https://open.spotify.com/album/004VMMAKhGnFcep6ymPqS1"
       },

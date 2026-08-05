@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Ariana Grande, TRIANGLE DES BERMUDES x Tiakola and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,782 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,784 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 19 | [DNH](https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [DNH](https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN) | 2:27 |
 | 20 | [Love Sober](https://open.spotify.com/track/1lj4EO2WRo0czCVSlTOWjD) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Love Sober](https://open.spotify.com/album/6HLXeD1wFZuGvygw6iXO0C) | 2:55 |
 | 21 | [Lifestyle](https://open.spotify.com/track/0HZGRSHaegYZnZOGz8e7QL) | [Ramzi](https://open.spotify.com/artist/0b1QRmllg4XbtsIsos2haR) | [Lifestyle](https://open.spotify.com/album/2G8kRGXgwkS8DW5qv8VJTe) | 2:53 |
-| 22 | [Can't Take My Eyes Off You](https://open.spotify.com/track/5sIq3rVUmDvNs77b6wIqFh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Boys Town Gang](https://open.spotify.com/artist/0yrScqagPyABiZeoNHHe3H) | [Can't Take My Eyes Off Of You](https://open.spotify.com/album/0lPkvjJ7FnyY4rkeagpOKm) | 3:25 |
+| 22 | [Can't Take My Eyes Off You](https://open.spotify.com/track/5sIq3rVUmDvNs77b6wIqFh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Boys Town Gang](https://open.spotify.com/artist/0yrScqagPyABiZeoNHHe3H) | [Can't Take My Eyes Off You](https://open.spotify.com/album/0lPkvjJ7FnyY4rkeagpOKm) | 3:25 |
 | 23 | [Dirty Dancing](https://open.spotify.com/track/4wvwjkFb1P9TWBEBfyEYmb) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI) | [Dirty Dancing](https://open.spotify.com/album/1NMRhpmzfhFr0teSyTOhrA) | 3:27 |
 | 24 | [Twiggy](https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Twiggy](https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb) | 3:29 |
 | 25 | [Line Up](https://open.spotify.com/track/4ImREwu4LD5sd3nc9ubtj2) | [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) | [Line Up](https://open.spotify.com/album/6S9qsE8NkX0ZWOEzyRfE5j) | 2:10 |

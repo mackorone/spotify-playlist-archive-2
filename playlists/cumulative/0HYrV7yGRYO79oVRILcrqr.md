@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-666 songs - 1 day 17 hr 25 min
+669 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [The Endless Line](https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Endless Line](https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup) | 2:28 | 2025-11-20 | 2025-12-17 |
 | [The Ghost Of You \- Epic Rock Version](https://open.spotify.com/track/1A6zCKYRn7QlIkMh0izWjW) | [Jordi Martijnse](https://open.spotify.com/artist/5Z0G3YfqBlb7LaqJDhKv5p) | [Ascend](https://open.spotify.com/album/7HBJCsmEoPOBmV043hkXCr) | 2:41 | 2025-11-05 | 2025-12-17 |
 | [The Gladiator \(2025 Remastered Version\)](https://open.spotify.com/track/22AfA3lC9hksGyG2KEVHHT) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [The Gladiator \(2025 Remastered Version\)](https://open.spotify.com/album/3E9TobEFd1wXM42E0FFZrk) | 2:30 | 2026-01-22 | 2026-03-18 |
+| [The Horizon](https://open.spotify.com/track/435lQao69KWGTGd5hMVqUc) | [Stu White](https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ) | [The Horizon](https://open.spotify.com/album/4ByWJZBZrY2Y719qmRKPIZ) | 3:31 | 2026-08-04 |  |
 | [The Journey](https://open.spotify.com/track/6DuE0g8y4OVukEVoYI3frf) | [Modarn](https://open.spotify.com/artist/21dNZRQ8rilyedhVEXFjkU) | [Dive In](https://open.spotify.com/album/4KaFd9rQ7YC0PWpNS14w99) | 4:09 | 2026-03-16 | 2026-04-21 |
 | [The Last Hangman](https://open.spotify.com/track/0frN7FOhhgB0iiZyTA8nmQ) | [AJ Rock](https://open.spotify.com/artist/7xEm9fb76CTAOBOWQK1dL8) | [Spitfire](https://open.spotify.com/album/0O45ZFG71upJqEQUT0C5dt) | 6:24 | 2026-01-23 | 2026-03-18 |
 | [The Last Thing That I Do](https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Chasing Ghosts](https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq) | 4:33 | 2026-06-01 | 2026-06-18 |
@@ -649,6 +650,7 @@
 | [Whisky na Mesa](https://open.spotify.com/track/4OTt9dzu7ZoXA0dQdE62CM) | [Nathan Duarte](https://open.spotify.com/artist/7F0B4cSHBlNqwdmxGDKHim) | [Whisky na Mesa](https://open.spotify.com/album/5xBXS5LXB0k0bD8lgy064b) | 2:12 | 2026-04-18 | 2026-06-25 |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-12-08 | 2026-04-21 |
 | [White Tiger Chronicles 2024](https://open.spotify.com/track/504hlNAOuRyHUNvCwS3npu) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [White Tiger Chronicles 2024](https://open.spotify.com/album/5RSm9WADXmIjIztIGvzNEg) | 4:42 | 2026-02-05 | 2026-03-18 |
+| [Why Don't They Care?](https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Why Don't They Care?](https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM) | 3:04 | 2026-08-04 |  |
 | [Widespread Coma](https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Widespread Coma](https://open.spotify.com/album/4m3ONm2GFVHif9n78nNh5d) | 3:40 | 2026-03-07 | 2026-05-31 |
 | [Wild Time](https://open.spotify.com/track/3g1kVvfuzqqQtwrR6jyTyZ) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Wild Time](https://open.spotify.com/album/2xUDxS8dnszV9XvAUTNUxb) | 1:42 | 2026-06-02 | 2026-06-18 |
 | [Wilt](https://open.spotify.com/track/0w7KcJg2E5rId9GnWwt9eI) | [Hard Softee](https://open.spotify.com/artist/4F1IzLLPomRL7g3IlrefEy) | [Silent Screams and Little Things](https://open.spotify.com/album/3RxepldlbmSJa3XxKJ7Y52) | 2:50 | 2026-04-02 | 2026-04-21 |
@@ -669,6 +671,7 @@
 | [You're a Friend of Mine \(feat\. Narada Michael Walden\)](https://open.spotify.com/track/2x04VP8T1xXpqIlM5b09Hv) | [Dan Ashley](https://open.spotify.com/artist/4cVwoNjVVoOzFWX4wBlk4p), [Narada Michael Walden](https://open.spotify.com/artist/37WGztoQRbNgo55GQCw75B) | [You're a Friend of Mine \(feat\. Narada Michael Walden\)](https://open.spotify.com/album/03PVk8Dk3pOMkwdBXwlhcM) | 4:56 | 2025-10-08 | 2025-11-28 |
 | [YOUR PAIN](https://open.spotify.com/track/5PIQLaJ46BXWEJnaEmy3vS) | [StellaGhost](https://open.spotify.com/artist/1BoO43MiUvsIDpAIsNUUE3), [SUNAIRAPPER](https://open.spotify.com/artist/45DkBg9P60otTaU9aC7Nya) | [EMPTINESS](https://open.spotify.com/album/43IcvRV7gCD7J3sGsa3uGk) | 3:36 | 2026-05-20 | 2026-06-18 |
 | [You’re never been my mistake](https://open.spotify.com/track/1cjyeqZEhUC8u4pwoe9MIS) | [John Elburg](https://open.spotify.com/artist/1hwt8ZrBctVjNcp8jYDExX) | [The world of Blues](https://open.spotify.com/album/2zUP0v3nY4BidvDuTH9F9Y) | 3:29 | 2025-11-08 | 2025-12-17 |
+| [Zäme](https://open.spotify.com/track/3138PLDl4FJywh7QfQDy4K) | [Plouderi](https://open.spotify.com/artist/2cxFZYsHbjN2abjxd4ACv8) | [Putzt u Gschträut](https://open.spotify.com/album/3xqW0lJECZbCk6Jdu4rLgw) | 3:35 | 2026-08-04 |  |
 | [État des lieux](https://open.spotify.com/track/1GQAQBdQoRuOtkFpdQwE7f) | [JESS ROGUE](https://open.spotify.com/artist/0OEZOb0EuhFa48QMKCvwYD) | [État des lieux](https://open.spotify.com/album/0n7aScRjf9Mja14dpTQBM4) | 3:34 | 2026-04-06 | 2026-04-21 |
 | [Золотом](https://open.spotify.com/track/5WvI8UliUjXmDLudsTwxlN) | [Маша Яблокова](https://open.spotify.com/artist/4sB4FO6pJwDMBwRJC8ntrq) | [Золотом](https://open.spotify.com/album/0Yc22TF8FZ8r8IqtG98LRM) | 3:53 | 2026-04-06 | 2026-04-21 |
 | [Магеллани](https://open.spotify.com/track/0vzLHz2n2BNjmO8LYQqmdL) | [Ретровай](https://open.spotify.com/artist/1CtJwth1WytrNQOo5DItA1) | [Магеллани](https://open.spotify.com/album/7djdPXZ65EKCdl1r1idR3a) | 2:15 | 2025-09-28 | 2025-12-17 |

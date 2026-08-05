@@ -1,12 +1,12 @@
 {
   "description": "This is Chxrry. The essential tracks, all in one playlist.",
-  "num_followers": 667,
+  "num_followers": 670,
   "original_name": "This Is Chxrry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAAA1ZucEXTngrigiNlaoGg94",
+  "snapshot_id": "am/aAAAAAABMw+rpMF9uXiT7KbYHT+3O",
   "tracks": [
     {
       "added_at": null,
@@ -18,11 +18,15 @@
         {
           "name": "Chxrry",
           "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 162043,
-      "name": "U, Me & My Ego",
-      "url": "https://open.spotify.com/track/4lQcSUqt6n6OMaZvS4UChJ"
+      "duration_ms": 205714,
+      "name": "Bottles & Lights",
+      "url": "https://open.spotify.com/track/5SmgfoGrzf8y6FWvQtBhlt"
     },
     {
       "added_at": null,
@@ -86,15 +90,11 @@
         {
           "name": "Chxrry",
           "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Bottles & Lights",
-      "url": "https://open.spotify.com/track/5SmgfoGrzf8y6FWvQtBhlt"
+      "duration_ms": 162043,
+      "name": "U, Me & My Ego",
+      "url": "https://open.spotify.com/track/4lQcSUqt6n6OMaZvS4UChJ"
     },
     {
       "added_at": null,

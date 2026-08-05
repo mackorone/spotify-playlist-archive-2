@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Parimal Shais, MC Couper, The Imbachi, Dabzee
 
-552 songs - 1 day 4 hr 23 min
+553 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Scene Mone \(From "RDX"\)](https://open.spotify.com/track/1d7vMtlpp0T6IhDe4cog3t) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Scene Mone \(From "Rdx"\)](https://open.spotify.com/album/78W11DytRChbuWspZygdyi) | 3:26 | 2023-08-17 | 2023-09-01 |
 | [Scene Mone \(From "RDX"\)](https://open.spotify.com/track/0OvNPwqO7vtruEZx88qUy3) | [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Scene Mone \(From "RDX"\)](https://open.spotify.com/album/3jWqNbSWuLPtCtyIuDIpth) | 3:26 | 2023-08-17 | 2023-08-19 |
 | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/track/6M3b5IenACOTvOfvEUoTPb) | [Vivek Radhakrishnan](https://open.spotify.com/artist/6gJZryVxqQCRpTAQh4yq8d), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/album/3G5wGjpeEa0kmuT8golvUA) | 2:30 | 2022-06-23 | 2025-01-31 |
+| [Seythaane](https://open.spotify.com/track/2YlAyXR9Mx92lDUHJ3rH7N) | [ERI](https://open.spotify.com/artist/4VQHHsSCQERlJCKrdrSdYB), [Ashok Ponnappan](https://open.spotify.com/artist/2cg5eHSpzL6fjY6ingZ2RX) | [Seythaane](https://open.spotify.com/album/4FPlSNIgUA6JEULFZuLKyr) | 2:50 | 2026-08-04 |  |
 | [Sherifkante Chayakada](https://open.spotify.com/track/56vwyV0VgmBac81kZrXZOx) | [Mufaz Mazoodh](https://open.spotify.com/artist/3NRQFz2FXMgwmFSVZarjeL), [Hashim Azeez](https://open.spotify.com/artist/5bkSNzOpTyAdAKWIgg83OO) | [Sherifkante Chayakada](https://open.spotify.com/album/1413nRXSio7CuXk0s47muS) | 2:31 | 2025-08-11 | 2025-10-08 |
 | [SHERIYA](https://open.spotify.com/track/3mpHzsOufcQoVMjpZPc2Kd) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [SHERIYA](https://open.spotify.com/album/2nRL1WRRHLRvBQf0k4afL6) | 3:11 | 2025-08-18 | 2026-07-07 |
 | [Shoka Mookam \(From "Lokah \- Chapter 1: Chandra"\)](https://open.spotify.com/track/2kpfmXe5dI5ePEc5SUO7xJ) | [JK](https://open.spotify.com/artist/0CS2KzsuCXswXNnu7Up7b9), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Pranavam Sasi](https://open.spotify.com/artist/7vi3MHqgN9oJYXCC4gne6R), [J'mymah](https://open.spotify.com/artist/7mSZcWRisV5SjhJesvrpyv), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Shoka Mookam \(From "Lokah \- Chapter 1: Chandra"\)](https://open.spotify.com/album/5UsIrkHj3EXL4bvh8FMvRk) | 4:08 | 2025-09-04 | 2025-09-19 |

@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 90 | [ESTÁN VIENDO](https://open.spotify.com/track/7A4iJgkr15ijTbjLKv0l82) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 2:43 |
 | 91 | [Último Aviso](https://open.spotify.com/track/1AAq8oRKRz1sNtK2cPXyiH) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [¿Qué Pasaría?](https://open.spotify.com/album/0vXUz7B7Oq0NsAwK27ZQyk) | 3:06 |
 | 92 | [ADIVINEN](https://open.spotify.com/track/17in5rJq9EZpI7REwnqkTo) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Bolela](https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 3:01 |
-| 93 | [Ya Convéncete](https://open.spotify.com/track/02hdSPNDvFWBjyJreepoLk) | [Cesar Arturo Navarro](https://open.spotify.com/artist/2Iq6ZunH7OSvgbsdFdvGSO) | [Ya Convéncete](https://open.spotify.com/album/1adWURSBFV4SgogIZfkGxb) | 2:40 |
-| 94 | [No Que No](https://open.spotify.com/track/78q10Y9lwhzLnq2LOliaTU) | [Edicion Exclusivo](https://open.spotify.com/artist/6l1lRPATMypxpuQwkUQyyd) | [No Que No](https://open.spotify.com/album/7yFxuFzZ25DIaN2wHYMdJn) | 2:35 |
+| 93 | [No Que No](https://open.spotify.com/track/78q10Y9lwhzLnq2LOliaTU) | [Edicion Exclusivo](https://open.spotify.com/artist/6l1lRPATMypxpuQwkUQyyd) | [No Que No](https://open.spotify.com/album/7yFxuFzZ25DIaN2wHYMdJn) | 2:35 |
+| 94 | [Ya Convéncete](https://open.spotify.com/track/02hdSPNDvFWBjyJreepoLk) | [Cesar Arturo Navarro](https://open.spotify.com/artist/2Iq6ZunH7OSvgbsdFdvGSO) | [Ya Convéncete](https://open.spotify.com/album/1adWURSBFV4SgogIZfkGxb) | 2:40 |
 | 95 | [Algo Bien](https://open.spotify.com/track/1zfpy39kSjhxxsVpBdZLd6) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:44 |
 | 96 | [TERCIA DE REINAS](https://open.spotify.com/track/5hplZBdE6niMvT5Ltlag1m) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 3:09 |
 | 97 | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4) | 3:19 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 109 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 110 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `AcYn6AAAAADGKHKhClPkg2KzbJxVjF3+`
+Snapshot ID: `AcYtkgAAAACz5XWlw/hFbUcDNWSAuVJ5`

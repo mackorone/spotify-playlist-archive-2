@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28805,
+  "num_followers": 28812,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAABUNeuYHMo+977W10S7XmfS",
+  "snapshot_id": "am/aAAAAAACgDVk6XGwLj1Ax1oL3j4qU",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "Drank My Wife Away",
-      "url": "https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "David Allan Coe - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
@@ -707,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D.A.C.",
-        "url": "https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1"
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV"
       },
       "artists": [
         {
@@ -716,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 150173,
-      "name": "Whiskey, Whiskey (Take My Mind)",
-      "url": "https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB"
+      "duration_ms": 197826,
+      "name": "Drank My Wife Away",
+      "url": "https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf"
     },
     {
       "added_at": null,
@@ -739,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once Upon a Rhyme",
-        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
+        "name": "D.A.C.",
+        "url": "https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1"
       },
       "artists": [
         {
@@ -748,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 182026,
-      "name": "Sweet Vibrations (Some Folks Call It Love)",
-      "url": "https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6"
+      "duration_ms": 150173,
+      "name": "Whiskey, Whiskey (Take My Mind)",
+      "url": "https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 162293,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once Upon a Rhyme",
+        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Sweet Vibrations (Some Folks Call It Love)",
+      "url": "https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6"
     },
     {
       "added_at": null,

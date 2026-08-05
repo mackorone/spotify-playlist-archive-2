@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 283 songs - 14 hr 57 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 298 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -291,5 +291,20 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 281 | [Celestial](https://open.spotify.com/track/5gcoaokLTC7ZdJEYwYtQJS) | [Assey](https://open.spotify.com/artist/2xeEHeQMEqevIxTnHp2OCN) | [Celestial](https://open.spotify.com/album/0Fpdy4Owrkflqt1VoDrrd9) | 2:47 |
 | 282 | [Excluxive](https://open.spotify.com/track/2JkTAL3pCmwYtFqhzBlou1) | [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Excluxive](https://open.spotify.com/album/33UYXfMD1q46GGiShatDNr) | 2:25 |
 | 283 | [Yo quiero ser rico](https://open.spotify.com/track/30PpjvLUzJHpovp9Na4Z5H) | [draco boss](https://open.spotify.com/artist/08GHLzYQVYYf0ayA4u3cGp) | [Yo quiero ser rico](https://open.spotify.com/album/3IG1jsGSSYanpypTwngNod) | 3:07 |
+| 284 | [End Credits \(for a Spy Movie\)](https://open.spotify.com/track/4CqBeC110JaIt0URDNnLYq) | [overscored](https://open.spotify.com/artist/4Y7bte48dBbZA5ePVRcRhr) | [End Credits \(for a Spy Movie\)](https://open.spotify.com/album/3ZkxIe7KTMPljkCpGoKWeq) | 2:38 |
+| 285 | [Weird Kid](https://open.spotify.com/track/28P1Zn2MA2Af5L0MIa8fQx) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Weird Kid](https://open.spotify.com/album/3J1FrMBOBnoDjin6Xg0JIi) | 2:25 |
+| 286 | [The Art of Sinking](https://open.spotify.com/track/550DPoFnDQOEBkqDVShJ25) | [Brasco](https://open.spotify.com/artist/0fhsezU1oGycfZ8hZnqf06) | [The Art of Sinking](https://open.spotify.com/album/0es5Ek0jXawyp6AHXRPDeF) | 3:22 |
+| 287 | [King Snake](https://open.spotify.com/track/0zOiY6FlpHHJdIfq4yWEqh) | [Glamper](https://open.spotify.com/artist/0NPC0DRRoLvrD8POr0lbdo) | [King Snake](https://open.spotify.com/album/7GGquGBNAmj3a83b1eHfVR) | 3:25 |
+| 288 | [Island Girl](https://open.spotify.com/track/25GhqETfnSIN21c7sAVPa1) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S), [Lady Leshurr](https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF) | [Legacy](https://open.spotify.com/album/6WwMeanUTVkhZwkeu5Ap4E) | 2:53 |
+| 289 | [Llueve a las 3 de la mañana](https://open.spotify.com/track/5jWQXuWUFN4b4lhYZsk4HD) | [No Hana](https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT) | [Llueve a las 3 de la mañana](https://open.spotify.com/album/1Ek1TXnz4Fs68b7lkbrTeI) | 2:11 |
+| 290 | [Mindreader](https://open.spotify.com/track/6IQWPjuXYJPvrGKaP5Y3Ar) | [Orrin](https://open.spotify.com/artist/57MSCk9ocHFyzO9phFgPt0) | [Yours Truly](https://open.spotify.com/album/0bYqPoVtVz6H4QFB45jkt5) | 2:37 |
+| 291 | [Mercy Me](https://open.spotify.com/track/760a31S7yZU6t14pzQAUki) | [Herald K](https://open.spotify.com/artist/1rG4pmrcpdK5cmkqFDVXRk) | [Mythologies](https://open.spotify.com/album/4kxNO2xUxABCx3RP6CgpSb) | 4:42 |
+| 292 | [Te Vas Conmigo](https://open.spotify.com/track/6mJleCesjUDGipyrveyvGJ) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [Tente](https://open.spotify.com/artist/1LAGbvUX2QG5pAtnVhwl2M) | [Te Vas Conmigo](https://open.spotify.com/album/1BibFYsBgKyqnodYUQtCys) | 2:55 |
+| 293 | [paradise \(Intro\)](https://open.spotify.com/track/0oiEec3fiHGvCigfcZgtdr) | [Kiro's Stigma](https://open.spotify.com/artist/6rwMxVrw0WMBtwxiiXW5Qg) | [VEIL.](https://open.spotify.com/album/76C3rZbaD5qVeXZn3XuWCu) | 2:10 |
+| 294 | [Moving to Texas](https://open.spotify.com/track/78o1O6LcHo2wfJRWuzCvXZ) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [Moving to Texas](https://open.spotify.com/album/0UsrULV6sHykPhDQ0CeCNN) | 3:50 |
+| 295 | [Why Don't They Care?](https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Why Don't They Care?](https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM) | 3:04 |
+| 296 | [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 |
+| 297 | [Body Party](https://open.spotify.com/track/6zlLeBm2IBiFaYwckiq8Hs) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Body Party](https://open.spotify.com/album/2ZHrT8qKtovOZuEE9gKdye) | 2:47 |
+| 298 | [New Coat of Paint](https://open.spotify.com/track/0km6LmWEBCRpdU8ey7e7dW) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Stephen Cole](https://open.spotify.com/artist/76iXJt5FHxefmr6S8wPi6g) | [Jazz Me up!, Vol\. 1](https://open.spotify.com/album/1kOCeKNNKP19NWYTCcjmJK) | 3:29 |
 
-Snapshot ID: `AAAWIUzu+y5A03WKhM2Q+NUoLSFr5vrB`
+Snapshot ID: `AAAWMArG1BfhIb8CwDwGlo+8UoiiaGYv`

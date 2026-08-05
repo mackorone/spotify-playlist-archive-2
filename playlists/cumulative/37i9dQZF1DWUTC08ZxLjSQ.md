@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Veintiuno\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: ASER B\. Artwork: Isu Kim
 
-539 songs - 1 day 4 hr 15 min
+540 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [Revenge](https://open.spotify.com/track/5uuCn3kSNvbog2DKc8m9En) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Revenge](https://open.spotify.com/album/2hNO1BNJazh2NcggpWr5yg) | 2:53 | 2025-02-10 | 2025-11-05 |
 | [Runaway](https://open.spotify.com/track/0F2pGe4qohDKXtvwEeMV7l) | [Fonzo](https://open.spotify.com/artist/4n2TYibag10VGUrfO7rQoF) | [Runaway](https://open.spotify.com/album/0QLX3k01xXv49q31TXZqlL) | 7:20 | 2023-08-01 | 2024-05-01 |
 | [Sabba7 Sabba7 \- صبح صبح](https://open.spotify.com/track/7sMJXgBb0ArDsXNIwTkO0t) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP), [Mahib Sleat](https://open.spotify.com/artist/6MmPo4vru1QVS2uWhTQHT4) | [Sabba7 Sabba7 \(صبح صبح\)](https://open.spotify.com/album/0NGKUsDTyyoBnwGJNk9UVp) | 2:29 | 2022-11-01 | 2023-01-18 |
-| [Saheb El Aaraf](https://open.spotify.com/track/5q2pUOsoUeMxsaox3vce8b) | [Mr\. H](https://open.spotify.com/artist/1GUPC6ruZ3VXpLc0C0UOSL), [Khateeb](https://open.spotify.com/artist/1m6jdeBwe3zUQKl5hof9ib) | [Saheb El Aaraf](https://open.spotify.com/album/02bCHp1Q6PyfhnlRo84pgK) | 2:56 | 2026-03-04 |  |
+| [Saheb El Aaraf](https://open.spotify.com/track/5q2pUOsoUeMxsaox3vce8b) | [Mr\. H](https://open.spotify.com/artist/1GUPC6ruZ3VXpLc0C0UOSL), [Khateeb](https://open.spotify.com/artist/1m6jdeBwe3zUQKl5hof9ib) | [Saheb El Aaraf](https://open.spotify.com/album/02bCHp1Q6PyfhnlRo84pgK) | 2:56 | 2026-03-04 | 2026-08-05 |
 | [SALAM](https://open.spotify.com/track/4clgQErEXEPKollpEHNMbJ) | [Mariam Elkholy](https://open.spotify.com/artist/4a3Ek4zUYiRY0YWe5L5qlV), [van Goh](https://open.spotify.com/artist/2hD0KuByyzCjO2rR3k21xJ) | [SALAM](https://open.spotify.com/album/3rzWREYTOp7jEIBhO3yKZL) | 3:25 | 2025-12-24 | 2026-02-11 |
 | [Salam aleykoum](https://open.spotify.com/track/5YBYZlNvyikesrSmpDSOpX) | [Driss Lahlou](https://open.spotify.com/artist/2ubqk2IdJTM5QUhuskBjp9), [Amanar](https://open.spotify.com/artist/2LW1fReOfFs7DTz55eNR6E) | [Salam Aleykum](https://open.spotify.com/album/0gW4OVmh63retRi8vSINHZ) | 3:48 | 2024-09-11 | 2025-01-23 |
 | [Sami Khedira](https://open.spotify.com/track/4HcVDgbzBtzrvzDFaui3Op) | [El Batsh](https://open.spotify.com/artist/0bDjrJ7Jy8Dx0vumq98wTk), [8ight](https://open.spotify.com/artist/0R6EyWUEFnAzrWvDat1mgO) | [3al Zamer](https://open.spotify.com/album/3RtcEf9VR0A2HYOdMSAa5g) | 3:30 | 2022-09-20 | 2022-11-16 |
@@ -512,6 +512,7 @@
 | [الورود](https://open.spotify.com/track/4stva5wFGdHPxaWPEk1zHS) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [ELWOROUD](https://open.spotify.com/album/0i3CGbhBMbx72GSv4vLZnR) | 2:22 | 2023-03-07 | 2023-03-15 |
 | [انا بعيد](https://open.spotify.com/track/7MaHcIjcqR7lGxmZDXAhDO) | [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP) | [انا بعيد](https://open.spotify.com/album/4THTNtqBn0ux8S5GBBTDLg) | 3:34 | 2023-03-07 | 2023-05-24 |
 | [انا وانت](https://open.spotify.com/track/14JgycDjp70uvPpebq7Ijq) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k), [Badran](https://open.spotify.com/artist/00OR5zC9Om6wu6xRg2WGqP) | [انا وانت](https://open.spotify.com/album/7gLVh02tmLj3XfCxn15jc3) | 3:19 | 2025-05-28 | 2025-12-18 |
+| [باشتاق](https://open.spotify.com/track/5u3vUsTapCf1dW0pTQxSWF) | [ASER B](https://open.spotify.com/artist/62bhH1mzK5U8z5TZoN8ZlP), [Júnior T](https://open.spotify.com/artist/1MYUszmFEtNVSEZ2UC92Sd) | [باشتاق](https://open.spotify.com/album/4Tl8Hs9DQJGgiAgIQpVLlG) | 3:00 | 2026-08-04 |  |
 | [برقص عل احزان](https://open.spotify.com/track/701o32JXLUpsioqlsBGC9G) | [Qetoo](https://open.spotify.com/artist/6XnHQclydV6kIVoBClncdF) | [برقص عل احزان](https://open.spotify.com/album/0fYArJcRhUrpU4YYZ1ihqw) | 1:52 | 2025-05-20 | 2025-12-18 |
 | [بسيط ايفكتڤ](https://open.spotify.com/track/0AHVNC8und8XJU61876q0o) | [Dattune](https://open.spotify.com/artist/7KV81tK9fACDT7gCl4pFmj), [DZEEZ دزيز](https://open.spotify.com/artist/0NwIwzq4fV5i0LNEC7Vtwg) | [بسيط ايفكتڤ](https://open.spotify.com/album/4Gf35Uc9uEEi5M9qWKGA5c) | 1:35 | 2022-09-20 | 2022-09-28 |
 | [بطل اللّيل](https://open.spotify.com/track/5EkZW0pGpwaVkPomonWYsd) | [Nour Yamm](https://open.spotify.com/artist/0DiKAWOh13CGK5v0f8KyXR) | [بطل اللّيل](https://open.spotify.com/album/6O9WlkU4z1lN6zH0BfvILZ) | 3:20 | 2025-01-22 | 2025-08-21 |

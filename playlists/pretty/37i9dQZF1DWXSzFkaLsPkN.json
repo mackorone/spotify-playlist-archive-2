@@ -1,6 +1,6 @@
 {
   "description": "Hindi hai, Indie hai! Cover- AtharvaMusic\n",
-  "num_followers": 135235,
+  "num_followers": 135233,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-07-29 09:28:29",
       "album": {
-        "name": "Baarish Mein Phir",
-        "url": "https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv"
-      },
-      "artists": [
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        }
-      ],
-      "duration_ms": 176954,
-      "name": "Baarish Mein Phir",
-      "url": "https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw"
-    },
-    {
-      "added_at": "2026-07-29 09:28:29",
-      "album": {
         "name": "Kaahe Mose",
         "url": "https://open.spotify.com/album/5A8RUsECb6rmFAFeMwZXVT"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 219097,
       "name": "Kaahe Mose",
       "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz"
+    },
+    {
+      "added_at": "2026-07-29 09:28:29",
+      "album": {
+        "name": "Baarish Mein Phir",
+        "url": "https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "duration_ms": 176954,
+      "name": "Baarish Mein Phir",
+      "url": "https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw"
     },
     {
       "added_at": "2026-07-29 09:28:29",
@@ -667,18 +667,26 @@
     {
       "added_at": "2026-07-29 09:28:29",
       "album": {
-        "name": "Baawra Mann",
-        "url": "https://open.spotify.com/album/7h2nzvqLaUZnMqwbDTreRN"
+        "name": "Kithe Jawan (From \"UR Debut\")",
+        "url": "https://open.spotify.com/album/0uGDPyWdO8IhEJ1Md8xixj"
       },
       "artists": [
         {
-          "name": "Shunya",
-          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
+          "name": "Bhoomi",
+          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
         }
       ],
-      "duration_ms": 252717,
-      "name": "Baawra Mann",
-      "url": "https://open.spotify.com/track/1PYbrx8dVS1fpbjPWILEzG"
+      "duration_ms": 179693,
+      "name": "Kithe Jawan (From \"UR Debut\")",
+      "url": "https://open.spotify.com/track/4f0PM72QRUVgpNPw6lCGbw"
     },
     {
       "added_at": "2026-07-29 09:28:29",
@@ -707,30 +715,6 @@
     {
       "added_at": "2026-07-29 09:28:29",
       "album": {
-        "name": "Kithe Jawan (From \"UR Debut\")",
-        "url": "https://open.spotify.com/album/0uGDPyWdO8IhEJ1Md8xixj"
-      },
-      "artists": [
-        {
-          "name": "Bhoomi",
-          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
-        },
-        {
-          "name": "Saaheal",
-          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
-        },
-        {
-          "name": "Naaz",
-          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Kithe Jawan (From \"UR Debut\")",
-      "url": "https://open.spotify.com/track/4f0PM72QRUVgpNPw6lCGbw"
-    },
-    {
-      "added_at": "2026-07-29 09:28:29",
-      "album": {
         "name": "Sukoon",
         "url": "https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 186393,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"
+    },
+    {
+      "added_at": "2026-07-29 09:28:29",
+      "album": {
+        "name": "Baawra Mann",
+        "url": "https://open.spotify.com/album/7h2nzvqLaUZnMqwbDTreRN"
+      },
+      "artists": [
+        {
+          "name": "Shunya",
+          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
+        }
+      ],
+      "duration_ms": 252717,
+      "name": "Baawra Mann",
+      "url": "https://open.spotify.com/track/1PYbrx8dVS1fpbjPWILEzG"
     },
     {
       "added_at": "2026-07-29 09:28:29",
@@ -1179,22 +1179,22 @@
     {
       "added_at": "2026-07-29 09:28:29",
       "album": {
-        "name": "Safar Khoobsurat",
-        "url": "https://open.spotify.com/album/6NwRJuYVUW4ZDrLRJWOVkV"
+        "name": "Stay Vol. 1",
+        "url": "https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql"
       },
       "artists": [
         {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+          "name": "Taaruk Raina",
+          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
         },
         {
-          "name": "Shubham Agrawal",
-          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Safar Khoobsurat",
-      "url": "https://open.spotify.com/track/1nLdJESOIbG7zeq7n2J82G"
+      "duration_ms": 174773,
+      "name": "Tere Gaon",
+      "url": "https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9"
     },
     {
       "added_at": "2026-07-29 09:28:29",
@@ -1223,22 +1223,22 @@
     {
       "added_at": "2026-07-29 09:28:29",
       "album": {
-        "name": "Stay Vol. 1",
-        "url": "https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql"
+        "name": "Safar Khoobsurat",
+        "url": "https://open.spotify.com/album/6NwRJuYVUW4ZDrLRJWOVkV"
       },
       "artists": [
         {
-          "name": "Taaruk Raina",
-          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
         },
         {
-          "name": "Charan",
-          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+          "name": "Shubham Agrawal",
+          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
         }
       ],
-      "duration_ms": 174773,
-      "name": "Tere Gaon",
-      "url": "https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9"
+      "duration_ms": 176571,
+      "name": "Safar Khoobsurat",
+      "url": "https://open.spotify.com/track/1nLdJESOIbG7zeq7n2J82G"
     },
     {
       "added_at": "2026-07-29 09:28:29",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-07-29 09:28:29",
       "album": {
-        "name": "Khota",
-        "url": "https://open.spotify.com/album/0alinKnUVspdYqQiMhHr6X"
-      },
-      "artists": [
-        {
-          "name": "Janisht Joshi",
-          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
-        },
-        {
-          "name": "Ramil Ganjoo",
-          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Khota",
-      "url": "https://open.spotify.com/track/44e9k4IgN9HjKbZfPMBRQC"
-    },
-    {
-      "added_at": "2026-07-29 09:28:29",
-      "album": {
         "name": "Muskaan",
         "url": "https://open.spotify.com/album/6fwV58bBjVf6ar8wEGiUab"
       },
@@ -1299,22 +1279,22 @@
     {
       "added_at": "2026-07-29 09:28:29",
       "album": {
-        "name": "Daira",
-        "url": "https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM"
+        "name": "Khota",
+        "url": "https://open.spotify.com/album/0alinKnUVspdYqQiMhHr6X"
       },
       "artists": [
         {
-          "name": "Sanjeeta Bhattacharya",
-          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
         },
         {
-          "name": "Ankur Tewari",
-          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
         }
       ],
-      "duration_ms": 162105,
-      "name": "Daira",
-      "url": "https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa"
+      "duration_ms": 213640,
+      "name": "Khota",
+      "url": "https://open.spotify.com/track/44e9k4IgN9HjKbZfPMBRQC"
     },
     {
       "added_at": "2026-07-29 09:28:29",
@@ -1351,6 +1331,26 @@
       "duration_ms": 217692,
       "name": "Aadhi Chai",
       "url": "https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr"
+    },
+    {
+      "added_at": "2026-07-29 09:28:29",
+      "album": {
+        "name": "Daira",
+        "url": "https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM"
+      },
+      "artists": [
+        {
+          "name": "Sanjeeta Bhattacharya",
+          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "duration_ms": 162105,
+      "name": "Daira",
+      "url": "https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa"
     },
     {
       "added_at": "2026-07-29 09:28:29",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-07-29 09:28:29",
       "album": {
-        "name": "Farak Nahi Padta",
-        "url": "https://open.spotify.com/album/2SsLNVEZfLuZz0ZgC3EtrZ"
-      },
-      "artists": [
-        {
-          "name": "KhoslaRaghu",
-          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
-        }
-      ],
-      "duration_ms": 139312,
-      "name": "Farak Nahi Padta",
-      "url": "https://open.spotify.com/track/1J9c9T2OJr84swGCXu1TEH"
-    },
-    {
-      "added_at": "2026-07-29 09:28:29",
-      "album": {
         "name": "Maan Jao",
         "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 154616,
       "name": "Maan Jao",
       "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
+    },
+    {
+      "added_at": "2026-07-29 09:28:29",
+      "album": {
+        "name": "Aaye Re",
+        "url": "https://open.spotify.com/album/4Qm6trjMbavUh99TWCdHAp"
+      },
+      "artists": [
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        }
+      ],
+      "duration_ms": 240116,
+      "name": "Aaye Re",
+      "url": "https://open.spotify.com/track/7hEJ4dnjlebJZVxWsfZH7n"
     }
   ],
   "unique_name": "hIndies",

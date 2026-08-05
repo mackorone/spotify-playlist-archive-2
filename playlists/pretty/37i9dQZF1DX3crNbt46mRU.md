@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ariana Grande, Luciano, Jazeek, Selena Gomez, Chapo102  & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,764 likes - 94 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,760 likes - 94 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 2 | [WER BIST DU DENN?](https://open.spotify.com/track/0gKGWokeCq8WkXQB66ZSTw) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [WER BIST DU DENN?](https://open.spotify.com/album/4gHPTOO5l0tylL3GDBeOAB) | 2:27 |
 | 3 | [Stay](https://open.spotify.com/track/1DdmIbutzUGXkktMTkyWYh) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Stay](https://open.spotify.com/album/1w9B74tuel6NHRQplSYx3a) | 2:56 |
 | 4 | [Spinner](https://open.spotify.com/track/3NhKr4kZuGJR4MDoBDBtEE) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Spinner](https://open.spotify.com/album/2XO5AuTlMQke9lMKsYHaHH) | 2:08 |
-| 5 | [¿Como te llamas?](https://open.spotify.com/track/4ixnbMTCUuWOfP1FzBigUX) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [¿Como te llamas?](https://open.spotify.com/album/3nYQqBipUirqEUugRekMFl) | 2:36 |
+| 5 | [¿Cómo te llamas?](https://open.spotify.com/track/4ixnbMTCUuWOfP1FzBigUX) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [¿Cómo te llamas?](https://open.spotify.com/album/3nYQqBipUirqEUugRekMFl) | 2:36 |
 | 6 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 |
 | 7 | [Tell Everybody \(feat\. Leon Thomas\)](https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:30 |
 | 8 | [Biberon](https://open.spotify.com/track/5R8Aq8FMvOpwYfJM7m2QJ2) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Biberon](https://open.spotify.com/album/3sCaCqHePrFjGv0thq30MX) | 3:07 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 44 | [SWAGGER](https://open.spotify.com/track/4J0vRdLrMZxr4svgC9olrf) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [SWAGGER](https://open.spotify.com/album/431cOcJZLoFDJz5k1BYCfO) | 2:34 |
 | 45 | [Twins](https://open.spotify.com/track/6aiWDSV8tNbtdVRL1yAJkK) | [OVE](https://open.spotify.com/artist/42RwQlOWDVzGRQVa61O8VV), [RAPK](https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D) | [Twins](https://open.spotify.com/album/0HMCqg3gG23oQMIopqgNc4) | 1:52 |
 | 46 | [Alien Lovers](https://open.spotify.com/track/69i7A4DhIgKKJBss6ZtB1r) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY) | [Alien Raver](https://open.spotify.com/album/2iiXtqixS2LnoWti4xIcb2) | 3:41 |
-| 47 | [Track 1](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 0:00 |
+| 47 | [Hurt](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 3:24 |
 | 48 | [LA VAR](https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w) | [Supremnova](https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR), [Jemma's Palace](https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ) | [LA VAR](https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7) | 1:42 |
 | 49 | [Rockstar](https://open.spotify.com/track/0kzADurpbuuRCZBz6QyBkA) | [STR808 SQUAD](https://open.spotify.com/artist/36hAYz2UaKBcXJe5PA0h63), [Lito](https://open.spotify.com/artist/5p7WeIH4Nyj6AbyNd1VtYS), [criticalrabbit](https://open.spotify.com/artist/4xUDZgKKFIxneju37wgr8Z) | [Fallschirm](https://open.spotify.com/album/3mFnErB04klyV7u8HIY9N8) | 1:59 |
 | 50 | [Mad Dog in the Fog](https://open.spotify.com/track/3bxVPDBmH6eIJaxe3FnNVJ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Mad Dog in the Fog](https://open.spotify.com/album/5k6bVjojHQOCux6plgLwia) | 3:47 |

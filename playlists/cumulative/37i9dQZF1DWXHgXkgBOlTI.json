@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u4e0b\u4e2d\u6d0b\u4ecb",
+  "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Still Caravan",
   "name": "Jazz Fusion Japan",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 323975,
       "name": "ARISTOTELES",
       "url": "https://open.spotify.com/track/7AYVvhSHziAX3Myjr1glEp"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 296346,
       "name": "ASAYAKE",
       "url": "https://open.spotify.com/track/4PIeBIHVlS9rPoJBTbUPpy"
@@ -1016,6 +1016,24 @@
       "duration_ms": 219200,
       "name": "Hale no sola sita -LA YELLOW SAMBA-",
       "url": "https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z"
+    },
+    {
+      "album": {
+        "name": "Converge",
+        "url": "https://open.spotify.com/album/44h8qzfOx8ggPhglolrNjY"
+      },
+      "artists": [
+        {
+          "name": "Still Caravan",
+          "url": "https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Hammond Hunt",
+      "url": "https://open.spotify.com/track/4FcX2VUrfo6X5XbPcebwkk"
     },
     {
       "album": {
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 267000,
       "name": "Thrust",
       "url": "https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2"

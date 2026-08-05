@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: THE DO
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,461 likes - 29 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,519 likes - 29 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 14 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 |
 | 15 | [Pity](https://open.spotify.com/track/5SY2CcJNvfvgKnZMm8XrdT) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Pity](https://open.spotify.com/album/0ogQlLcNvyYWwZAgR5PdBG) | 2:57 |
 | 16 | [NYC](https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Hunna G](https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP) | [NYC](https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93) | 2:05 |
-| 17 | [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 |
-| 18 | [I Need You](https://open.spotify.com/track/67z3fb8LD3tB6RnudTT7gg) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [I Need You](https://open.spotify.com/album/0UzzUwust9tYgU5oxj9e3I) | 3:09 |
-| 19 | [stupid cupid luv!](https://open.spotify.com/track/21VVtTcXYq2ZWjJyptnLDS) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [stupid cupid luv!](https://open.spotify.com/album/09wOvte9tt0c4XXtQVI1ny) | 2:32 |
+| 17 | [I Need You](https://open.spotify.com/track/67z3fb8LD3tB6RnudTT7gg) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [I Need You](https://open.spotify.com/album/0UzzUwust9tYgU5oxj9e3I) | 3:09 |
+| 18 | [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 |
+| 19 | [Speed](https://open.spotify.com/track/62UDdS1BuZ30tJFbBasLN4) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Speed](https://open.spotify.com/album/2HEMlzGu6QXi75lilR5m2S) | 2:25 |
 | 20 | [Bury It](https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Bury It](https://open.spotify.com/album/33W0mcGpZis0alt3swinMu) | 3:08 |
-| 21 | [Speed](https://open.spotify.com/track/62UDdS1BuZ30tJFbBasLN4) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Speed](https://open.spotify.com/album/2HEMlzGu6QXi75lilR5m2S) | 2:25 |
+| 21 | [stupid cupid luv!](https://open.spotify.com/track/21VVtTcXYq2ZWjJyptnLDS) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [stupid cupid luv!](https://open.spotify.com/album/09wOvte9tt0c4XXtQVI1ny) | 2:32 |
 | 22 | [Camila](https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila](https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8) | 2:03 |
 | 23 | [Lonely](https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [Lonely](https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR) | 2:56 |
 | 24 | [Something Out Of Nothing](https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Something Out Of Nothing](https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2) | 3:26 |

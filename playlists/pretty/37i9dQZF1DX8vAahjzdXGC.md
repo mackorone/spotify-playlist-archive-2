@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Ariana Grande, Cardi B, CORTIS , no na, eńau, Momo, For Revenge dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,247 likes - 127 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,700 likes - 127 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

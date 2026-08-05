@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Releases from Ariana Grande, Cameron Whitcomb, Shaboozey, Slayyyter, Cardi B, KAROL G, and  more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,829 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,424 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 80 | [Broke Bitch I'm Industry](https://open.spotify.com/track/4aaFJEVWaUaDy11TP69iCS) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY), [CHÉRI](https://open.spotify.com/artist/2ueYa1egeXuQXK4QPfd3cF) | [Broke Bitch I'm Industry](https://open.spotify.com/album/5HJkxq4uKLfnAXQwdsEvpa) | 3:06 |
 | 81 | [Bad Girl](https://open.spotify.com/track/5YMdRD2koM5OnM3nbsRJ6K) | [Misdemeanor](https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu) | [Bad Girl](https://open.spotify.com/album/1WhkwyTu3REq1WmW4jQTsF) | 2:30 |
 | 82 | [Other Girls](https://open.spotify.com/track/4xYrKRjvtJOcEkXM8ZO8K5) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Other Girls](https://open.spotify.com/album/21worPka1o8CXJSPMxtBmi) | 2:24 |
-| 83 | [4 Profit](https://open.spotify.com/track/7mpTnV6VDwo5VkXjOIBJW6) | [a4](https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [4 Profit](https://open.spotify.com/album/3ziNEp7pikNOdQwIeVv8IM) | 1:49 |
+| 83 | [4 Profit](https://open.spotify.com/track/7mpTnV6VDwo5VkXjOIBJW6) | [a4](https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Rvei Rvei](https://open.spotify.com/artist/6VQSb04anFvduhdyjpURkc) | [4 Profit](https://open.spotify.com/album/3ziNEp7pikNOdQwIeVv8IM) | 1:49 |
 | 84 | [BAD](https://open.spotify.com/track/52g8mKaXcECey2oIgGdA8m) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [BAD](https://open.spotify.com/album/4RM94DhLi3Nwr3Znzh9UqV) | 2:38 |
 | 85 | [Blue Stained Glass](https://open.spotify.com/track/1PzX46fVtrCzJiaopKwu3h) | [Al Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu), [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [Blue Stained Glass](https://open.spotify.com/album/6BZx64F9oGZjasmpGKrn1w) | 3:24 |
 | 86 | [a girl like me](https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [a girl like me](https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP) | 2:49 |

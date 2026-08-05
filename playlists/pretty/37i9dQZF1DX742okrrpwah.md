@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Ariana Grande, TRIANGLE DES BERMUDES et Tiakola au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,262 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,065 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 10 | [Biberon](https://open.spotify.com/track/5R8Aq8FMvOpwYfJM7m2QJ2) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Biberon](https://open.spotify.com/album/3sCaCqHePrFjGv0thq30MX) | 3:07 |
 | 11 | [AH HA](https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AH HA](https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe) | 2:55 |
 | 12 | [DNH](https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [DNH](https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN) | 2:27 |
-| 13 | [Can't Take My Eyes Off You](https://open.spotify.com/track/5sIq3rVUmDvNs77b6wIqFh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Boys Town Gang](https://open.spotify.com/artist/0yrScqagPyABiZeoNHHe3H) | [Can't Take My Eyes Off Of You](https://open.spotify.com/album/0lPkvjJ7FnyY4rkeagpOKm) | 3:25 |
+| 13 | [Can't Take My Eyes Off You](https://open.spotify.com/track/5sIq3rVUmDvNs77b6wIqFh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Boys Town Gang](https://open.spotify.com/artist/0yrScqagPyABiZeoNHHe3H) | [Can't Take My Eyes Off You](https://open.spotify.com/album/0lPkvjJ7FnyY4rkeagpOKm) | 3:25 |
 | 14 | [Twiggy](https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Twiggy](https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb) | 3:29 |
 | 15 | [Now We Can't Be Friends](https://open.spotify.com/track/3s1mRFy9QxkQUqEx8tVGLs) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Now We Can't Be Friends](https://open.spotify.com/album/2P5tdiMwQUxV5Q0SGsU0K0) | 3:29 |
 | 16 | [Tequila & Ibiza](https://open.spotify.com/track/19txbPBxw2UAX5OaFattUc) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [BESH.](https://open.spotify.com/artist/5JRnZxSb8XULQul9lyb2Yy) | [Tequila & Ibiza](https://open.spotify.com/album/5JJocmovUqPUBYPPv5wy8k) | 2:55 |

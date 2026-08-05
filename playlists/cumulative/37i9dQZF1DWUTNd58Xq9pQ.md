@@ -2,7 +2,7 @@
 
 ### [False Idols](https://open.spotify.com/playlist/37i9dQZF1DWUTNd58Xq9pQ)
 
-> Relive False Idols at Drumsheds 2024!
+> Sign up for False Idols at Drumsheds <a href="https://register.broadwicklive.com/false\-idols\-london?ref=dsweb">here</a>
 
 53 songs - 3 hr 34 min
 

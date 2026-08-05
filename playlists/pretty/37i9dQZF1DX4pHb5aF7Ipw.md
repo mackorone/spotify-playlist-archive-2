@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Gagg E, Bhallwaan, Luv and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,886 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,894 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 8 | [Drive By](https://open.spotify.com/track/3zntbVbzItUKvOrZZjL6Mj) | [Manu Ramgarhia](https://open.spotify.com/artist/2FBDJY1qubXoP69bjgSECK), [Jack Ameen](https://open.spotify.com/artist/3wzFv1QvOuTQljrsbSGDKW), [Jeewan Malhi](https://open.spotify.com/artist/4goa5Owm9HU8ZNCVaGZZmU), [Dev Ocean](https://open.spotify.com/artist/0m6PgLqa6qgmEzKk1FS6eX) | [Drive By](https://open.spotify.com/album/5S3JxtNYXGAHJrKCbY8t4k) | 3:27 |
 | 9 | [Protostar](https://open.spotify.com/track/3s4Hc7kUbmQlGQnUhZjPRU) | [Aaryan Sekhon](https://open.spotify.com/artist/1noVAZK2UjaZmqF0e8FXDs) | [VERSA](https://open.spotify.com/album/0LRIIFZgH6vzE4dSeUj94Z) | 2:19 |
 | 10 | [PHILOSOPHER](https://open.spotify.com/track/4f8QXc4JCZEpXRmfeyyviQ) | [Rangrez Sidhu](https://open.spotify.com/artist/3cDu4bMjtFHdCvDD93cDUN), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [PHILOSOPHER](https://open.spotify.com/album/3yvJOmVW5Yzw9aQ4BZF388) | 2:25 |
-| 11 | [BAGAWAT](https://open.spotify.com/track/797jtIYMStbuex30I6TONX) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [kxnng](https://open.spotify.com/artist/22ibxQFsg0OrIXh0ECrz49) | [BAGAWAT](https://open.spotify.com/album/4Y17HY3B38TAm8qpm24eGk) | 3:27 |
+| 11 | [BAGAWAT](https://open.spotify.com/track/797jtIYMStbuex30I6TONX) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [kxnng](https://open.spotify.com/artist/22ibxQFsg0OrIXh0ECrz49), [Xyroo](https://open.spotify.com/artist/1geR0FSv1H03sGsdnbdMvo) | [BAGAWAT](https://open.spotify.com/album/4Y17HY3B38TAm8qpm24eGk) | 3:24 |
 | 12 | [Jugni](https://open.spotify.com/track/1RdyekpHOarbVSg4xw9Wtn) | [Mandeep Goldy](https://open.spotify.com/artist/6GCji83osbKvLfO32WArm3), [Rinku Dhand](https://open.spotify.com/artist/00ZPCYYDT3LcrS7JAQBazu) | [Jugni](https://open.spotify.com/album/7gBtYCs8NVDSyrv0q1WZno) | 3:38 |
 | 13 | [Pind To La](https://open.spotify.com/track/77YvOvEKmeyEaiaUv8SkMn) | [Sevak Sandhu](https://open.spotify.com/artist/0rYoSRr8FUKJk4btrBokyy) | [Lets Begin](https://open.spotify.com/album/2akmVU4qlpdzxKv5y5FWTg) | 3:12 |
 | 14 | [Spiritual Killer](https://open.spotify.com/track/5Q0z9CkmasoLXC9gUMPz6g) | [Akbar Brar](https://open.spotify.com/artist/4VQq85qGslnhmrR1sIVjd1), [NOXI](https://open.spotify.com/artist/4YYeJI6EgxUxiSqfeDhS8U) | [Spiritual Killer](https://open.spotify.com/album/57GanioclXPhFOb4yOBceK) | 2:27 |

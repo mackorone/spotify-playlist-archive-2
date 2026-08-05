@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,337 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,277 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [La Bolsita](https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw) | [Omar Cardenas](https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Vida y Libertad](https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ) | 2:37 |
 | 50 | [No Fue Suficiente](https://open.spotify.com/track/49BlbuGvUpwLXY4648UP1P) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Aroma a Alcohol](https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm) | 3:01 |
 
-Snapshot ID: `am6IgAAAAADDLVx/pbyj1kKBsJyOZG17`
+Snapshot ID: `am/aAAAAAABjfwdBn/Xgye+7u1KMtMDr`

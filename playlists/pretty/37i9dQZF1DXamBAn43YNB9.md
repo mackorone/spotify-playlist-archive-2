@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,649 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,665 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 21 | [Bells & Whistles \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/71uKhNSaUogUkjMRw5jiw7) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:55 |
 | 22 | [TIME TO BURN](https://open.spotify.com/track/0gj89L0a40ALeEAf7Nx2lS) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60), [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [TIME TO BURN](https://open.spotify.com/album/4Z4hUGOxGshg0KeMZHu4Xk) | 3:09 |
 | 23 | [I'm In Love with a Man](https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [I'm In Love with a Man](https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ) | 3:01 |
-| 24 | [If I Don't Leave I'm Gonna Stay](https://open.spotify.com/track/5RehL4XyHKmmOvBwADqYt9) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If I Don't Leave I'm Gonna Stay](https://open.spotify.com/album/70if0dAxjMSroh1m6It9LZ) | 3:32 |
+| 24 | [If I Don't Leave I’m Gonna Stay](https://open.spotify.com/track/5RehL4XyHKmmOvBwADqYt9) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If I Don't Leave I'm Gonna Stay](https://open.spotify.com/album/70if0dAxjMSroh1m6It9LZ) | 3:32 |
 | 25 | [Backwards](https://open.spotify.com/track/7gSfFlfC5w2JjqChH8P8mv) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Backwards](https://open.spotify.com/album/0QNhRJish7FMRUczyetfmi) | 3:17 |
 | 26 | [GIRL](https://open.spotify.com/track/2gLVbKSR69BMzsO8QtrSCL) | [Bella Mackenzie](https://open.spotify.com/artist/19RYEYplXisan3jUoqtBZL) | [GIRL](https://open.spotify.com/album/1J3qIsUTkBxrLgse4xcGsV) | 2:58 |
 | 27 | [Running](https://open.spotify.com/track/6AOJuGF8ySvVY5uBsRcd8a) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Running](https://open.spotify.com/album/3pHeFHjnx0tgQXosGsPM0c) | 2:38 |

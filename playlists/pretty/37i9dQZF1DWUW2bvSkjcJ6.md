@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Ariana Grande, Luciano, Jazeek, Selena Gomez, Chapo102 & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,143 likes - 93 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,921 likes - 93 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 2 | [WER BIST DU DENN?](https://open.spotify.com/track/0gKGWokeCq8WkXQB66ZSTw) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [WER BIST DU DENN?](https://open.spotify.com/album/4gHPTOO5l0tylL3GDBeOAB) | 2:27 |
 | 3 | [Stay](https://open.spotify.com/track/1DdmIbutzUGXkktMTkyWYh) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Stay](https://open.spotify.com/album/1w9B74tuel6NHRQplSYx3a) | 2:56 |
 | 4 | [Spinner](https://open.spotify.com/track/3NhKr4kZuGJR4MDoBDBtEE) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Spinner](https://open.spotify.com/album/2XO5AuTlMQke9lMKsYHaHH) | 2:08 |
-| 5 | [¿Como te llamas?](https://open.spotify.com/track/4ixnbMTCUuWOfP1FzBigUX) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [¿Como te llamas?](https://open.spotify.com/album/3nYQqBipUirqEUugRekMFl) | 2:36 |
+| 5 | [¿Cómo te llamas?](https://open.spotify.com/track/4ixnbMTCUuWOfP1FzBigUX) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [¿Cómo te llamas?](https://open.spotify.com/album/3nYQqBipUirqEUugRekMFl) | 2:36 |
 | 6 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 |
 | 7 | [Tell Everybody \(feat\. Leon Thomas\)](https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:30 |
 | 8 | [Ballon d'Or](https://open.spotify.com/track/27ozli2KWtDzTt86BuaRBq) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Ballon d'Or](https://open.spotify.com/album/6m5qtGdEimUmtcLiDNKPEe) | 1:52 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 38 | [SWAGGER](https://open.spotify.com/track/4J0vRdLrMZxr4svgC9olrf) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [SWAGGER](https://open.spotify.com/album/431cOcJZLoFDJz5k1BYCfO) | 2:34 |
 | 39 | [Pow Pow Pow](https://open.spotify.com/track/2BgY39sTpWzXOFl84Qo9fe) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Pow Pow Pow](https://open.spotify.com/album/4G71TmPCiTzVN0YdrVs6fe) | 3:10 |
 | 40 | [Reza Braba](https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 3:24 |
-| 41 | [Track 1](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 0:00 |
+| 41 | [Hurt](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 3:24 |
 | 42 | [ME VS ME FREESTYLE](https://open.spotify.com/track/19NfUYsvx6AwSZf6VYJIku) | [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [ME VS ME FREESTYLE](https://open.spotify.com/album/3OCLc6dXkGbSuX8CYrRhrl) | 2:08 |
 | 43 | [Mad Dog in the Fog](https://open.spotify.com/track/3bxVPDBmH6eIJaxe3FnNVJ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Mad Dog in the Fog](https://open.spotify.com/album/5k6bVjojHQOCux6plgLwia) | 3:47 |
 | 44 | [Runaway](https://open.spotify.com/track/4nLr5bhxYmHOKmlPzY1oH2) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [Runaway](https://open.spotify.com/album/4Wd1HXIzjUDhGlig4vDRx5) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,648 songs - 10 day 9 hr 29 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,656 songs - 10 day 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4656,5 +4656,13 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4646 | [Cut Me Down to Size](https://open.spotify.com/track/5ZRkevvQxGto6eP71Teft8) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [Cut Me Down to Size](https://open.spotify.com/album/0oTtC46dVij7iYYAIaF6C7) | 3:44 |
 | 4647 | [Velvet Sky](https://open.spotify.com/track/0xIgta9Q5wBNZAr4adiyo6) | [Becker](https://open.spotify.com/artist/1JBAK5V2WNlY6lFqztPcbh) | [Velvet Sky](https://open.spotify.com/album/68IJnapBanCWmdMcGIVESn) | 3:33 |
 | 4648 | [Decay for silence](https://open.spotify.com/track/0fCmyg0l2VDo57tCzzjCiH) | [アニングスドラゴン](https://open.spotify.com/artist/0nbrD5mGsTeWQFyXKBSx3r) | [約束の地](https://open.spotify.com/album/5f7HkfplGdBOXjlCQlJDos) | 5:55 |
+| 4649 | [Amor De Colibri](https://open.spotify.com/track/0gcRV9Pisdajbr9QJ3fkxF) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Amor De Colibri](https://open.spotify.com/album/5XIzszaozbGkP4zotxfxek) | 4:30 |
+| 4650 | [Armonia Divina](https://open.spotify.com/track/3rjUSxcInEpLWdRl4hRwxx) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Armonia Divina](https://open.spotify.com/album/2TqZcCZGmxzOrSdfOk2X6G) | 4:30 |
+| 4651 | [Espejismo de Amor](https://open.spotify.com/track/2oGpsA0hjIGz39hsJyYXWd) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Espejismo de Amor](https://open.spotify.com/album/1GLeAdMFA8tteklDctCo3M) | 5:24 |
+| 4652 | [Izalco](https://open.spotify.com/track/3ck21HgTpcoKfh6ryogSHD) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Izalco](https://open.spotify.com/album/0iufKnWIpESH1qofkeZ5Zb) | 4:35 |
+| 4653 | [Que Diera Yo](https://open.spotify.com/track/58AnFojEozCK0Za162nlPU) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Que Diera Yo](https://open.spotify.com/album/2YPZ32vSnAfOnuHP3e8qKV) | 4:07 |
+| 4654 | [Sombras Negras](https://open.spotify.com/track/7HUyiCCwjDbV5oMPhorYqD) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Sombras Negras](https://open.spotify.com/album/61pnSrf31BRV6DC7CmhPkB) | 4:31 |
+| 4655 | [Let Us Fall Apart](https://open.spotify.com/track/5wXtTD2AmPufUFjWJKo45m) | [Get Through](https://open.spotify.com/artist/5gF3q9VRL3x0zOyba99xIT) | [Let Us Fall Apart](https://open.spotify.com/album/2k8rsr0YfZCqg0HO6MJUP4) | 4:08 |
+| 4656 | [Mitwa Tere Bina](https://open.spotify.com/track/2EDgCVfxupZN9Sk4DApy9N) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Mitwa Tere Bina](https://open.spotify.com/album/6aA1oRLgyradWRPoMSWGQW) | 3:11 |
 
-Snapshot ID: `AAAJeK7ZQu4+5+UERcwgPGD9ptUPP6k/`
+Snapshot ID: `AAAJgBWtzN7OT9c3nq9p3B6tpD+n7igX`

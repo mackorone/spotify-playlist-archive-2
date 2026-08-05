@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: pszona, Nita",
-  "num_followers": 26334,
+  "num_followers": 26337,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "PARANOJA",
-        "url": "https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz"
-      },
-      "artists": [
-        {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
-        }
-      ],
-      "duration_ms": 116885,
-      "name": "PARANOJA",
-      "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
-    },
-    {
-      "added_at": "2026-07-30 22:01:43",
-      "album": {
         "name": "Tracimy tylko czas",
         "url": "https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 181463,
       "name": "Tracimy tylko czas",
       "url": "https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n"
+    },
+    {
+      "added_at": "2026-07-30 22:01:43",
+      "album": {
+        "name": "PARANOJA",
+        "url": "https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "duration_ms": 116885,
+      "name": "PARANOJA",
+      "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
+        "name": "Echo Echo",
+        "url": "https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI"
+      },
+      "artists": [
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        }
+      ],
+      "duration_ms": 133987,
+      "name": "Echo Echo",
+      "url": "https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0"
+    },
+    {
+      "added_at": "2026-07-30 22:01:43",
+      "album": {
         "name": "SAJGON",
         "url": "https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 166315,
       "name": "Wo\u0142am",
       "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
-    },
-    {
-      "added_at": "2026-07-30 22:01:43",
-      "album": {
-        "name": "Echo Echo",
-        "url": "https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI"
-      },
-      "artists": [
-        {
-          "name": "bryska",
-          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
-        }
-      ],
-      "duration_ms": 133987,
-      "name": "Echo Echo",
-      "url": "https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
+        "name": "Tylko My",
+        "url": "https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "duration_ms": 130039,
+      "name": "Tylko My",
+      "url": "https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn"
+    },
+    {
+      "added_at": "2026-07-30 22:01:43",
+      "album": {
         "name": "z tob\u0105 nie my\u015bl\u0119 o ex",
         "url": "https://open.spotify.com/album/6a6JfOMttbeVYsCaKN5Ruo"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "Tylko My",
-        "url": "https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl"
-      },
-      "artists": [
-        {
-          "name": "Jeremi Sikorski",
-          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
-        }
-      ],
-      "duration_ms": 130039,
-      "name": "Tylko My",
-      "url": "https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn"
-    },
-    {
-      "added_at": "2026-07-30 22:01:43",
-      "album": {
         "name": "Ile?",
         "url": "https://open.spotify.com/album/1VSFrjY2T84viVWqVqtJox"
       },
@@ -471,26 +471,6 @@
       "duration_ms": 167000,
       "name": "Ile?",
       "url": "https://open.spotify.com/track/0XJvZK2nhyVwfwhwMF1Z8L"
-    },
-    {
-      "added_at": "2026-07-30 22:01:43",
-      "album": {
-        "name": "dancefloor?",
-        "url": "https://open.spotify.com/album/3i5O62x02dnd85CGy3vdSw"
-      },
-      "artists": [
-        {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        },
-        {
-          "name": "kurtis baker",
-          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
-        }
-      ],
-      "duration_ms": 201688,
-      "name": "dancefloor?",
-      "url": "https://open.spotify.com/track/5GV9AMBtRstMTBuWaS55rn"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -535,18 +515,22 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "ADA",
-        "url": "https://open.spotify.com/album/6eHTt0NphxjV4cGoclBjfd"
+        "name": "dancefloor?",
+        "url": "https://open.spotify.com/album/3i5O62x02dnd85CGy3vdSw"
       },
       "artists": [
         {
-          "name": "Jeremi Sikorski",
-          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        },
+        {
+          "name": "kurtis baker",
+          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
         }
       ],
-      "duration_ms": 153531,
-      "name": "ADA",
-      "url": "https://open.spotify.com/track/4TxgjXRNWI6IlKc1wRxjDg"
+      "duration_ms": 201688,
+      "name": "dancefloor?",
+      "url": "https://open.spotify.com/track/5GV9AMBtRstMTBuWaS55rn"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -563,6 +547,38 @@
       "duration_ms": 205641,
       "name": "To jest to!",
       "url": "https://open.spotify.com/track/1I7nEa7aWULffUDCJrkhVp"
+    },
+    {
+      "added_at": "2026-07-30 22:01:43",
+      "album": {
+        "name": "ADA",
+        "url": "https://open.spotify.com/album/6eHTt0NphxjV4cGoclBjfd"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "duration_ms": 153531,
+      "name": "ADA",
+      "url": "https://open.spotify.com/track/4TxgjXRNWI6IlKc1wRxjDg"
+    },
+    {
+      "added_at": "2026-07-30 22:01:43",
+      "album": {
+        "name": "hyperl\u00f8ve",
+        "url": "https://open.spotify.com/album/5o3OssxepuFDEanRLOmZX6"
+      },
+      "artists": [
+        {
+          "name": "Crazy Oliwka",
+          "url": "https://open.spotify.com/artist/1iHUXA1Wbqfdw26OmA3X57"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "hyperl\u00f8ve",
+      "url": "https://open.spotify.com/track/3gN55NN5HOAxpqaR8Cwvqz"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -587,18 +603,18 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "hyperl\u00f8ve",
-        "url": "https://open.spotify.com/album/5o3OssxepuFDEanRLOmZX6"
+        "name": "Esmeralda (we wsp\u00f3\u0142pracy z PZU)",
+        "url": "https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl"
       },
       "artists": [
         {
-          "name": "Crazy Oliwka",
-          "url": "https://open.spotify.com/artist/1iHUXA1Wbqfdw26OmA3X57"
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
         }
       ],
-      "duration_ms": 157714,
-      "name": "hyperl\u00f8ve",
-      "url": "https://open.spotify.com/track/3gN55NN5HOAxpqaR8Cwvqz"
+      "duration_ms": 171516,
+      "name": "Esmeralda - we wsp\u00f3\u0142pracy z PZU",
+      "url": "https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -639,18 +655,18 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "Esmeralda (we wsp\u00f3\u0142pracy z PZU)",
-        "url": "https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl"
+        "name": "disco polo",
+        "url": "https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P"
       },
       "artists": [
         {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
         }
       ],
-      "duration_ms": 171516,
-      "name": "Esmeralda - we wsp\u00f3\u0142pracy z PZU",
-      "url": "https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P"
+      "duration_ms": 184472,
+      "name": "disco polo",
+      "url": "https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -691,22 +707,6 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "disco polo",
-        "url": "https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 184472,
-      "name": "disco polo",
-      "url": "https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx"
-    },
-    {
-      "added_at": "2026-07-30 22:01:43",
-      "album": {
         "name": "Mi\u0119dzy s\u0142owami",
         "url": "https://open.spotify.com/album/7H594gTYomUcEtTL08ZRtr"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 202218,
       "name": "Aparat",
       "url": "https://open.spotify.com/track/4RGV9aOG8RG9Wu8Vyg9x7p"
-    },
-    {
-      "added_at": "2026-07-30 22:01:43",
-      "album": {
-        "name": "WODA Z LODEM",
-        "url": "https://open.spotify.com/album/4DZQhpDNPnwN15Cs8dF623"
-      },
-      "artists": [
-        {
-          "name": "Patryk Skoczy\u0144ski",
-          "url": "https://open.spotify.com/artist/6EvOzqemUOfdlCglrH23L8"
-        }
-      ],
-      "duration_ms": 150272,
-      "name": "WODA Z LODEM",
-      "url": "https://open.spotify.com/track/54G8tGLnsGr9uXaTVSMLyi"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -775,6 +759,22 @@
       "duration_ms": 246614,
       "name": "K\u0141AM",
       "url": "https://open.spotify.com/track/4WK2n2mPPOlqYFNMpgdifZ"
+    },
+    {
+      "added_at": "2026-07-30 22:01:43",
+      "album": {
+        "name": "WODA Z LODEM",
+        "url": "https://open.spotify.com/album/4DZQhpDNPnwN15Cs8dF623"
+      },
+      "artists": [
+        {
+          "name": "Patryk Skoczy\u0144ski",
+          "url": "https://open.spotify.com/artist/6EvOzqemUOfdlCglrH23L8"
+        }
+      ],
+      "duration_ms": 150272,
+      "name": "WODA Z LODEM",
+      "url": "https://open.spotify.com/track/54G8tGLnsGr9uXaTVSMLyi"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
+        "name": "Miodowe lata",
+        "url": "https://open.spotify.com/album/2KXbj2rHdMkluZn7EEy78C"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "duration_ms": 211196,
+      "name": "Miodowe lata",
+      "url": "https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv"
+    },
+    {
+      "added_at": "2026-07-30 22:01:43",
+      "album": {
         "name": "ZACHODY",
         "url": "https://open.spotify.com/album/0M1USMtW623pgbrZ0iLHPi"
       },
@@ -859,34 +875,18 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "Miodowe lata",
-        "url": "https://open.spotify.com/album/2KXbj2rHdMkluZn7EEy78C"
+        "name": "Po nocach",
+        "url": "https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC"
       },
       "artists": [
         {
-          "name": "Zuta",
-          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+          "name": "Natalia Zast\u0119pa",
+          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
         }
       ],
-      "duration_ms": 211196,
-      "name": "Miodowe lata",
-      "url": "https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv"
-    },
-    {
-      "added_at": "2026-07-30 22:01:43",
-      "album": {
-        "name": "SPOK\u00d3J",
-        "url": "https://open.spotify.com/album/3jRpk7Mhai8Zsv8TOtNAvi"
-      },
-      "artists": [
-        {
-          "name": "Janek Szynal",
-          "url": "https://open.spotify.com/artist/0zfMLxMTUG0TdQ6t90yHfA"
-        }
-      ],
-      "duration_ms": 163687,
-      "name": "SPOK\u00d3J",
-      "url": "https://open.spotify.com/track/2G072HrgSDTCDkf66aXPZl"
+      "duration_ms": 211732,
+      "name": "Po nocach",
+      "url": "https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -907,22 +907,18 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "Bez por\u00f3wna\u0144",
-        "url": "https://open.spotify.com/album/1MjltZhGjBpiaALMeN9t8p"
+        "name": "SPOK\u00d3J",
+        "url": "https://open.spotify.com/album/3jRpk7Mhai8Zsv8TOtNAvi"
       },
       "artists": [
         {
-          "name": "Faustyna Maciejczuk",
-          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
-        },
-        {
-          "name": "Rubens",
-          "url": "https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7"
+          "name": "Janek Szynal",
+          "url": "https://open.spotify.com/artist/0zfMLxMTUG0TdQ6t90yHfA"
         }
       ],
-      "duration_ms": 171111,
-      "name": "Bez por\u00f3wna\u0144",
-      "url": "https://open.spotify.com/track/2SRLhPy43D13cVR4qewxy2"
+      "duration_ms": 163687,
+      "name": "SPOK\u00d3J",
+      "url": "https://open.spotify.com/track/2G072HrgSDTCDkf66aXPZl"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -939,6 +935,26 @@
       "duration_ms": 117120,
       "name": "bez s\u0142\u00f3w",
       "url": "https://open.spotify.com/track/3Mf0raiHbeCis8RpJG1Aiq"
+    },
+    {
+      "added_at": "2026-07-30 22:01:43",
+      "album": {
+        "name": "Bez por\u00f3wna\u0144",
+        "url": "https://open.spotify.com/album/1MjltZhGjBpiaALMeN9t8p"
+      },
+      "artists": [
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        },
+        {
+          "name": "Rubens",
+          "url": "https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7"
+        }
+      ],
+      "duration_ms": 171111,
+      "name": "Bez por\u00f3wna\u0144",
+      "url": "https://open.spotify.com/track/2SRLhPy43D13cVR4qewxy2"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -1003,26 +1019,6 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "ELEMENTY",
-        "url": "https://open.spotify.com/album/6dBtBtn9rCuRMDGvl7H8ES"
-      },
-      "artists": [
-        {
-          "name": "Faustyna Maciejczuk",
-          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
-        },
-        {
-          "name": "Timone",
-          "url": "https://open.spotify.com/artist/5arjvbDpl6pfPCJK3FTGVy"
-        }
-      ],
-      "duration_ms": 177313,
-      "name": "ZIEMIA_ARDHI",
-      "url": "https://open.spotify.com/track/7e6kfmfl84bOdlUeg80CYp"
-    },
-    {
-      "added_at": "2026-07-30 22:01:43",
-      "album": {
         "name": "O mi\u0142o\u015bci, nie ten czas",
         "url": "https://open.spotify.com/album/0M2gGwhhvMpcqJB7wJWwMM"
       },
@@ -1039,18 +1035,22 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/4aAj4Yqm2aOclpJN1yWD6D"
+        "name": "ELEMENTY",
+        "url": "https://open.spotify.com/album/6dBtBtn9rCuRMDGvl7H8ES"
       },
       "artists": [
         {
-          "name": "Iga Kumka",
-          "url": "https://open.spotify.com/artist/59nH7LKqK561XQ2xfLnXeL"
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        },
+        {
+          "name": "Timone",
+          "url": "https://open.spotify.com/artist/5arjvbDpl6pfPCJK3FTGVy"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Oscars",
-      "url": "https://open.spotify.com/track/0oU8WJdc3UDxSjgcdNcYAd"
+      "duration_ms": 177313,
+      "name": "ZIEMIA_ARDHI",
+      "url": "https://open.spotify.com/track/7e6kfmfl84bOdlUeg80CYp"
     },
     {
       "added_at": "2026-07-30 22:01:43",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "STILL PRETTY WHEN I CRY",
-        "url": "https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX"
-      },
-      "artists": [
-        {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
-        }
-      ],
-      "duration_ms": 159473,
-      "name": "STILL PRETTY WHEN I CRY",
-      "url": "https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h"
-    },
-    {
-      "added_at": "2026-07-30 22:01:43",
-      "album": {
         "name": "Glitch",
         "url": "https://open.spotify.com/album/4SVBHo8owk0YwvxiP9SJpa"
       },
@@ -1107,34 +1091,54 @@
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "Do Ciebie",
-        "url": "https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG"
+        "name": "STILL PRETTY WHEN I CRY",
+        "url": "https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX"
       },
       "artists": [
         {
-          "name": "Natalia Marczuk",
-          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
         }
       ],
-      "duration_ms": 222252,
-      "name": "Do Ciebie",
-      "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
+      "duration_ms": 159473,
+      "name": "STILL PRETTY WHEN I CRY",
+      "url": "https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h"
     },
     {
       "added_at": "2026-07-30 22:01:43",
       "album": {
-        "name": "Po nocach",
-        "url": "https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/4aAj4Yqm2aOclpJN1yWD6D"
       },
       "artists": [
         {
-          "name": "Natalia Zast\u0119pa",
-          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
+          "name": "Iga Kumka",
+          "url": "https://open.spotify.com/artist/59nH7LKqK561XQ2xfLnXeL"
         }
       ],
-      "duration_ms": 211732,
-      "name": "Po nocach",
-      "url": "https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy"
+      "duration_ms": 160000,
+      "name": "Oscars",
+      "url": "https://open.spotify.com/track/0oU8WJdc3UDxSjgcdNcYAd"
+    },
+    {
+      "added_at": "2026-07-30 22:01:43",
+      "album": {
+        "name": "jutro spoczniemy na dnie odleg\u0142ego morza",
+        "url": "https://open.spotify.com/album/26ko8YSiHDYAyoanRXJ1Gl"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        },
+        {
+          "name": "stas",
+          "url": "https://open.spotify.com/artist/72Vq7ugNRnMWOnFZkvj3zd"
+        }
+      ],
+      "duration_ms": 277509,
+      "name": "jutro spoczniemy na dnie odleg\u0142ego morza",
+      "url": "https://open.spotify.com/track/6fAjclJ49KZBzgOwhkpTqH"
     }
   ],
   "unique_name": "up next",

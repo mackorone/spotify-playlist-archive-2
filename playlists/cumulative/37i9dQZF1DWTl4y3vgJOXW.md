@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jonquel Jones
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Olivia Miles
 
 928 songs - 1 day 23 hr 6 min
 

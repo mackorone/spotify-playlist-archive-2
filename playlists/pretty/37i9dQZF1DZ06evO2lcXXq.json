@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 369041,
+  "num_followers": 369000,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAACvIlwK5pyivWl7dS7O0hny",
+  "snapshot_id": "am/aAAAAAABlin6n7aCLvBilrW4LNgBT",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Alive: Live from the CentricWorship Retreat",
+        "url": "https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "You Have My Surrender (Live)",
+      "url": "https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Won't Let You Go",
         "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 247422,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Alive: Live from the CentricWorship Retreat",
-        "url": "https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "You Have My Surrender (Live)",
-      "url": "https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9"
     },
     {
       "added_at": null,

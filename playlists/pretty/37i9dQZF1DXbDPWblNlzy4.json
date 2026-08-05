@@ -1,13 +1,29 @@
 {
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Fabian y ROBI.",
-  "num_followers": 68205,
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Aitana",
+  "num_followers": 68193,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGLxSGNJHIpZpInp0uqkTd22LG0x",
+  "snapshot_id": "AAAAAGoxF5jwW/Emqn/dRYULLZ8Uv7kC",
   "tracks": [
+    {
+      "added_at": "2026-04-21 23:32:30",
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
     {
       "added_at": "2026-07-17 04:59:06",
       "album": {
@@ -75,22 +91,6 @@
       "duration_ms": 185728,
       "name": "A La Ni\u00f1a Que Fui",
       "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
-    },
-    {
-      "added_at": "2026-04-21 23:32:30",
-      "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "SUPERESTRELLA",
-      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
       "added_at": "2026-06-19 04:59:07",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-03-26 18:25:59",
       "album": {
-        "name": "Volverte a Querer",
-        "url": "https://open.spotify.com/album/33rki7QSD9lUoefJ7Yer9O"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Volverte a Querer",
-      "url": "https://open.spotify.com/track/6118gUtirfjFpTPWyDwMbj"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
         "name": "SECO",
         "url": "https://open.spotify.com/album/2r03AVsnOvc0bZ1TzYqXuD"
       },
@@ -775,22 +759,6 @@
       "duration_ms": 205293,
       "name": "CANTO A LA VIDA",
       "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
-        "name": "REFLEXA",
-        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149255,
-      "name": "Si no no",
-      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
     },
     {
       "added_at": "2026-03-26 18:25:59",

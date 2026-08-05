@@ -121,6 +121,28 @@
     },
     {
       "album": {
+        "name": "Aaja Raja (From \"KH x RK Reunion\")",
+        "url": "https://open.spotify.com/album/5NGHCyeSDYkhIY4kIHF8fz"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Chintu",
+          "url": "https://open.spotify.com/artist/4GbARQ6FEQHOhK0WrnBSWj"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128031,
+      "name": "Aaja Raja (From \"KH x RK Reunion\")",
+      "url": "https://open.spotify.com/track/5yKz9IRNzuWJiwXERpfVY3"
+    },
+    {
+      "album": {
         "name": "Aalapikkey Ummak (From \"Vaa Vaathiyaar\")",
         "url": "https://open.spotify.com/album/5bM9W8cn6lvI2gHfZNVlUv"
       },
@@ -3640,7 +3662,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 224469,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/7jphNi0vBkfNrbBq7sURiz"
@@ -4597,6 +4619,32 @@
     },
     {
       "album": {
+        "name": "Jana Nayagan",
+        "url": "https://open.spotify.com/album/3cCMiFqRYcra7j50I1uVso"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235107,
+      "name": "Oru Pere Varalaaru",
+      "url": "https://open.spotify.com/track/22hxaCwPIoNU6AGJtV5Q7X"
+    },
+    {
+      "album": {
         "name": "Oru Pere Varalaaru (From \"Jana Nayagan\")",
         "url": "https://open.spotify.com/album/4tTHztAkrW6JTBODjNURNz"
       },
@@ -4616,7 +4664,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 235107,
       "name": "Oru Pere Varalaaru (From \"Jana Nayagan\")",
       "url": "https://open.spotify.com/track/6afuHWt45FEdNM9pkmVbgN"
@@ -4772,7 +4820,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 220156,
       "name": "Pandi Muni Varaan (From \"Vadam\")",
       "url": "https://open.spotify.com/track/2lrUcw7nHm01o1vbnlZ8CW"
@@ -5382,6 +5430,28 @@
       "duration_ms": 243491,
       "name": "Raavana Kottathula",
       "url": "https://open.spotify.com/track/7bCo86nA52IUWcJsuNu81F"
+    },
+    {
+      "album": {
+        "name": "Jana Nayagan",
+        "url": "https://open.spotify.com/album/3cCMiFqRYcra7j50I1uVso"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107036,
+      "name": "Raavana Mavandaa",
+      "url": "https://open.spotify.com/track/0uwCHmQINLQI1cuGvHKCt3"
     },
     {
       "album": {
@@ -6272,7 +6342,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 110288,
       "name": "Storm - The Moonwalk Anthem",
       "url": "https://open.spotify.com/track/62t8oiIoFuwiOVMezknW9M"
@@ -6457,6 +6527,32 @@
     },
     {
       "album": {
+        "name": "Jana Nayagan",
+        "url": "https://open.spotify.com/album/3cCMiFqRYcra7j50I1uVso"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Thalapathy Vijay",
+          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197104,
+      "name": "Thalapathy Kacheri",
+      "url": "https://open.spotify.com/track/2aOioO7gjZGXLy4bmkkVat"
+    },
+    {
+      "album": {
         "name": "Thalapathy Kacheri (From \"Jana Nayagan\")",
         "url": "https://open.spotify.com/album/0TthxobhZuRUVweIhTUwuc"
       },
@@ -6510,7 +6606,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 182760,
       "name": "Thangarathinamey (From \"Manithan Deivamagalam\")",
       "url": "https://open.spotify.com/track/53qYRSzDVci8J2NDkLjRsV"
@@ -6532,7 +6628,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 259363,
       "name": "Thannila Kandam - Vengeance",
       "url": "https://open.spotify.com/track/0rBS6dyYZ0WVG54rw5qPO6"
@@ -6566,6 +6662,28 @@
       "duration_ms": 239110,
       "name": "The One",
       "url": "https://open.spotify.com/track/12zT7djETGfDeL6JIVjM2b"
+    },
+    {
+      "album": {
+        "name": "The One Rule (From \"Vishwanath & Sons\")(Tamil)",
+        "url": "https://open.spotify.com/album/52Z06Ge8h2W81NXpy7Ijea"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Gana Kadhar",
+          "url": "https://open.spotify.com/artist/0T487EE91kx2O8oGPO8Krh"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "The One Rule (From \"Vishwanath & Sons\")(Tamil)",
+      "url": "https://open.spotify.com/track/71IDXVZlzz3dBCewIUmqfI"
     },
     {
       "album": {
@@ -6750,7 +6868,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 219146,
       "name": "Tinga",
       "url": "https://open.spotify.com/track/14sujM131HjaOZ6xaoCx4u"

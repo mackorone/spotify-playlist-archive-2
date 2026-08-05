@@ -189663,6 +189663,24 @@
     },
     {
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/48kNSC9VNag007n2cdI374"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204483,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o"
+    },
+    {
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/7d1Awz6mDIcbBzFU1cZmut"
       },
@@ -415507,24 +415525,6 @@
     },
     {
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/48kNSC9VNag007n2cdI374"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "date_added": "2026-07-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o"
-    },
-    {
-      "album": {
         "name": "Track Team",
         "url": "https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL"
       },
@@ -468609,7 +468609,7 @@
     },
     {
       "album": {
-        "name": "\u00bfComo te llamas?",
+        "name": "\u00bfC\u00f3mo te llamas?",
         "url": "https://open.spotify.com/album/3nYQqBipUirqEUugRekMFl"
       },
       "artists": [
@@ -468626,7 +468626,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156810,
-      "name": "\u00bfComo te llamas?",
+      "name": "\u00bfC\u00f3mo te llamas?",
       "url": "https://open.spotify.com/track/4ixnbMTCUuWOfP1FzBigUX"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Lo más pegado, lo más random, lo más 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,835 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,822 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 32 | [Para La Gilada \- Remix](https://open.spotify.com/track/7oRXN6etpQGWG2yAnQFzVB) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Para La Gilada \(Remix\)](https://open.spotify.com/album/27r4d2S6tSMdRxkou6ZCyU) | 2:56 |
 | 33 | [Doma](https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:08 |
 | 34 | [Pensamientos](https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
-| 35 | [Friendzone :\(](https://open.spotify.com/track/7B2hUSC5sb8tJIRkXvktu9) | [slimesanti](https://open.spotify.com/artist/7m6juwK6xeE8csPoZ5MGK6), [Slurgwurf](https://open.spotify.com/artist/1ruGNNrOEDDDP6hgi8a12q) | [Friendzone :\(](https://open.spotify.com/album/4G18IcvRUvmo2sFZh598ka) | 1:42 |
+| 35 | [Friendzone :\(](https://open.spotify.com/track/7B2hUSC5sb8tJIRkXvktu9) | [slimesanti](https://open.spotify.com/artist/7m6juwK6xeE8csPoZ5MGK6), [Slurgwurf](https://open.spotify.com/artist/1ruGNNrOEDDDP6hgi8a12q) | [Takedown](https://open.spotify.com/album/4G18IcvRUvmo2sFZh598ka) | 1:42 |
 | 36 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 |
 | 37 | [La Scaloneta Ya Llegó](https://open.spotify.com/track/2ZbpxhwSEGIE39dKKEtv2W) | [Taro](https://open.spotify.com/artist/30CANtrdDz8RPQQVb07f48) | [La Scaloneta Ya Llegó](https://open.spotify.com/album/4qBoOHg8X65jHs1ePR2wIu) | 2:12 |
 | 38 | [La Cuarta Estrella \(Versión Hinchada\)](https://open.spotify.com/track/1QPjHLJWBXvE5Ymck4wtfW) | [PALMITO](https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v) | [La Cuarta Estrella \(Versión Hinchada\)](https://open.spotify.com/album/3u1Qtnb3qTJmnRxCxxUtNi) | 2:15 |

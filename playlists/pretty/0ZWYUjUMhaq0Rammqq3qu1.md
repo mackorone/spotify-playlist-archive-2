@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Your back to school soundtrack is here: lots of fun, a little bit of sass, &amp; a ton of heart to keep students motivated and power you through all the usage of brainpower \- and ALL the feelings \- to start the new year of learning ahead! For students of all ages: it's the 2026 Back To School playlist!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 110,374 likes - 93 songs - 5 hr 25 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 110,322 likes - 93 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 85 | [Linger](https://open.spotify.com/track/3HHehSGzW9dhs2V7Sod4jX) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 4:34 |
 | 86 | [Closet](https://open.spotify.com/track/6Cpj8OetrNgBF5uYcl1pDM) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Valley Girl Problems](https://open.spotify.com/album/5BSyuV0fBxz7BcQre3nlgc) | 2:26 |
 | 87 | [Funkytown \- Single Version](https://open.spotify.com/track/571HXOyjpcQzZz9Edv2Jdx) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Shrek 2](https://open.spotify.com/album/33uUYGGvdWXvBkQMQq9d9N) | 3:59 |
-| 88 | [Kung Fu Fighting](https://open.spotify.com/track/7eGAQnxbIHHFtS1p9rmAZ0) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Kung Fu Fighting](https://open.spotify.com/album/1e1TXaL2BLrWwtLD3vteNo) | 2:29 |
+| 88 | [Kung Fu Fighting \- From "Kung Fu Panda"](https://open.spotify.com/track/7eGAQnxbIHHFtS1p9rmAZ0) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Kung Fu Fighting \(From "Kung Fu Panda"\)](https://open.spotify.com/album/1e1TXaL2BLrWwtLD3vteNo) | 2:29 |
 | 89 | [Hello, Goodbye \- Remastered 2015](https://open.spotify.com/track/0hqjsgWRfMBf2s8xsvRq1M) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 3:27 |
 | 90 | [Life Is A Highway](https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT) | 4:26 |
 | 91 | [Not Afraid](https://open.spotify.com/track/2JXlRVBgLHqhfphmjXyVBZ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/2bn6QpvG94QJkQTETzjTCs) | 4:08 |

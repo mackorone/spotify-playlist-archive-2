@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,441 songs - 5 day 23 hr 43 min
+2,443 songs - 5 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Been There And Seen \- Wosui Dub](https://open.spotify.com/track/2qDxFC5BMXnwQTbIQLZiyY) | [Dutchie Gold](https://open.spotify.com/artist/5hIqf3o1Afan5hS7pPx2uA), [Kaleya](https://open.spotify.com/artist/7qAqzv8beYvBi6bn1WP2D9), [Wosui](https://open.spotify.com/artist/6wcPfV502r7pJOhVQECfXG) | [Been There And Seen](https://open.spotify.com/album/1uT83Mwp7VzNBoFRLxUa2k) | 5:34 | 2024-03-23 |  |
 | [Been There And Seen \- Wosui Remix](https://open.spotify.com/track/5hG5ccbm37G7iN221ylgsH) | [Dutchie Gold](https://open.spotify.com/artist/5hIqf3o1Afan5hS7pPx2uA), [Kaleya](https://open.spotify.com/artist/7qAqzv8beYvBi6bn1WP2D9), [Wosui](https://open.spotify.com/artist/6wcPfV502r7pJOhVQECfXG) | [Been There And Seen](https://open.spotify.com/album/1uT83Mwp7VzNBoFRLxUa2k) | 5:34 | 2024-03-23 |  |
 | [Beg For Me \- JADE Remix](https://open.spotify.com/track/0JNVnPAXsNDG3Rayv0FQEZ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Beg For Me \(Remix\)](https://open.spotify.com/album/0HBQFvlAP6dpbqrh8hNjmA) | 2:50 | 2026-05-29 |  |
+| [Behind You, Beside You](https://open.spotify.com/track/1gutdX4YwZVzpU03CxCvj0) | [Seven AM](https://open.spotify.com/artist/6QF8DtTiM1u89alH5DboWv) | [Behind You, Beside You](https://open.spotify.com/album/2hUhWRjmhRza1rqC0UnAYj) | 5:07 | 2026-08-04 |  |
 | [Belabongo](https://open.spotify.com/track/1Lk3RW8aOFFcCLqUbPbBdK) | [Ant Sant](https://open.spotify.com/artist/6egoPfyBDT6F1noXAVmmVj) | [Belabongo](https://open.spotify.com/album/0kt0BNN7lLbb1VUd27XVpI) | 2:30 | 2025-04-25 |  |
 | [Belencito](https://open.spotify.com/track/15uX8L4ugnQChKkDGapuwe) | [Dani y Magneto](https://open.spotify.com/artist/7im3qrPSEoYCVWVThJnzgj), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Los Nenes de Medellín](https://open.spotify.com/album/0o5Q283iwVtgfnojIPGLSs) | 3:20 | 2025-10-19 |  |
 | [Believe](https://open.spotify.com/track/2qfdber3ZLz2p522sTYxWM) | [Dubcitium](https://open.spotify.com/artist/3vb7BXwVSGwsLCmNnqL4AV) | [Drifter's Mind EP](https://open.spotify.com/album/58wdujL0AZOYkc0723H5Kc) | 4:43 | 2024-06-30 |  |
@@ -2412,6 +2413,7 @@
 | [Буду с тобой](https://open.spotify.com/track/59IGh75jcZX5dytjWQ6zHX) | [ΛNZZ](https://open.spotify.com/artist/3TWeuhaLtXwVABFag0rOLK) | [Буду с тобой](https://open.spotify.com/album/0PuSC7RFOlqwUkw6r0nNhd) | 2:18 | 2025-05-16 |  |
 | [Вдыхая](https://open.spotify.com/track/5wCJdxThWor3Zt8JP7jEOf) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Вдыхая](https://open.spotify.com/album/135EW2AzzOC1uUHc7AXasA) | 3:03 | 2025-07-01 |  |
 | [Выше неба](https://open.spotify.com/track/4IUuIxX8oZW2uNZejjcSwc) | [moon room 7](https://open.spotify.com/artist/5lut5OhjID1T8whViZB34G) | [Выше неба](https://open.spotify.com/album/7drQndRFdIijm0bneXB48s) | 3:29 | 2025-05-12 |  |
+| [Дождь](https://open.spotify.com/track/0Nc8Dz4CeakHfHNJiTGbSC) | [The Atlant](https://open.spotify.com/artist/3tETwPIWyOJTBwJ0dgOS1X) | [Дождь](https://open.spotify.com/album/4BDdK99tGiHflIIMndceMw) | 3:38 | 2026-08-04 |  |
 | [Доля захисників](https://open.spotify.com/track/2zKfUnKigpUkyxONpTExev) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Доля захисників](https://open.spotify.com/album/5EEfpr8epng3N8NHHkrVyt) | 3:40 | 2025-10-05 |  |
 | [Дороги снегом замело](https://open.spotify.com/track/74xgU9bqvu9nbvzhkLmZkU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:59 | 2026-03-31 |  |
 | [Дышать](https://open.spotify.com/track/4R5bbmS5OoFrgbLk8tRoY8) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [Дышать](https://open.spotify.com/album/4WnGAdmmXihQC1WKsOmw4I) | 1:02 | 2026-06-23 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Kings Elliot",
-  "num_followers": 37627,
+  "num_followers": 37632,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "Different Life",
-        "url": "https://open.spotify.com/album/5mtQu06hYUMsUJEQgsZZ4E"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 163318,
-      "name": "Different Life",
-      "url": "https://open.spotify.com/track/0LSCQ77vPmT2uCg7FkpFtt"
-    },
-    {
-      "added_at": "2026-07-30 22:01:09",
-      "album": {
         "name": "Full 180",
         "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
       },
@@ -303,18 +287,18 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "Je ne reviendrai pas",
-        "url": "https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE"
+        "name": "Different Life",
+        "url": "https://open.spotify.com/album/5mtQu06hYUMsUJEQgsZZ4E"
       },
       "artists": [
         {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 163933,
-      "name": "Je ne reviendrai pas",
-      "url": "https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7"
+      "duration_ms": 163318,
+      "name": "Different Life",
+      "url": "https://open.spotify.com/track/0LSCQ77vPmT2uCg7FkpFtt"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -335,6 +319,22 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
+        "name": "Je ne reviendrai pas",
+        "url": "https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Je ne reviendrai pas",
+      "url": "https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7"
+    },
+    {
+      "added_at": "2026-07-30 22:01:09",
+      "album": {
         "name": "The One That Got Away",
         "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 227613,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
-    },
-    {
-      "added_at": "2026-07-30 22:01:09",
-      "album": {
-        "name": "Half A Soul",
-        "url": "https://open.spotify.com/album/3Uf2lt6QP5EQvDS0CBUzzt"
-      },
-      "artists": [
-        {
-          "name": "SOLEROY",
-          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
-        }
-      ],
-      "duration_ms": 169071,
-      "name": "Half A Soul",
-      "url": "https://open.spotify.com/track/0Ib3i3BJCKW3VBCdYNVUDD"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -395,6 +379,22 @@
       "duration_ms": 169500,
       "name": "River",
       "url": "https://open.spotify.com/track/4rhnAszHuZWU0237E7cdlI"
+    },
+    {
+      "added_at": "2026-07-30 22:01:09",
+      "album": {
+        "name": "Half A Soul",
+        "url": "https://open.spotify.com/album/3Uf2lt6QP5EQvDS0CBUzzt"
+      },
+      "artists": [
+        {
+          "name": "SOLEROY",
+          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
+        }
+      ],
+      "duration_ms": 169071,
+      "name": "Half A Soul",
+      "url": "https://open.spotify.com/track/0Ib3i3BJCKW3VBCdYNVUDD"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 167847,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
-    },
-    {
-      "added_at": "2026-07-30 22:01:09",
-      "album": {
         "name": "Stories of the XXI",
         "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 167847,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
+    },
+    {
+      "added_at": "2026-07-30 22:01:09",
+      "album": {
         "name": "Softly Speaking",
         "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 226334,
       "name": "Softly Speaking",
       "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+    },
+    {
+      "added_at": "2026-07-30 22:01:09",
+      "album": {
+        "name": "mistaken for a while (OST Hundertdreizehn)",
+        "url": "https://open.spotify.com/album/6j5RVTiV6OQZCGiumQiz5Z"
+      },
+      "artists": [
+        {
+          "name": "The Gardener & The Tree",
+          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
+        }
+      ],
+      "duration_ms": 310489,
+      "name": "mistaken for a while - OST Hundertdreizehn",
+      "url": "https://open.spotify.com/track/4TecP7nifEow1WTBQaKuhh"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -619,22 +635,6 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "mistaken for a while (OST Hundertdreizehn)",
-        "url": "https://open.spotify.com/album/6j5RVTiV6OQZCGiumQiz5Z"
-      },
-      "artists": [
-        {
-          "name": "The Gardener & The Tree",
-          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
-        }
-      ],
-      "duration_ms": 310489,
-      "name": "mistaken for a while - OST Hundertdreizehn",
-      "url": "https://open.spotify.com/track/4TecP7nifEow1WTBQaKuhh"
-    },
-    {
-      "added_at": "2026-07-30 22:01:09",
-      "album": {
         "name": "House of Glass",
         "url": "https://open.spotify.com/album/46ICgDFCoxTgciq5BtyDPk"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
+        "name": "Hot Girl Summer",
+        "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162781,
+      "name": "Hot Girl Summer",
+      "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
+    },
+    {
+      "added_at": "2026-07-30 22:01:09",
+      "album": {
         "name": "Don't Let Him Go",
         "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 167026,
       "name": "What\u2019s a Girl Gotta Do?",
       "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
-    },
-    {
-      "added_at": "2026-07-30 22:01:09",
-      "album": {
-        "name": "Hot Girl Summer",
-        "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162781,
-      "name": "Hot Girl Summer",
-      "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "As I Am",
-        "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 207307,
-      "name": "As I Am",
-      "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
-    },
-    {
-      "added_at": "2026-07-30 22:01:09",
-      "album": {
         "name": "There For You",
         "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 205755,
       "name": "There For You",
       "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
+    },
+    {
+      "added_at": "2026-07-30 22:01:09",
+      "album": {
+        "name": "As I Am",
+        "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 207307,
+      "name": "As I Am",
+      "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -911,22 +911,18 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
+        "name": "Dancing Alone Again",
+        "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
       },
       "artists": [
         {
-          "name": "Tobias Jensen",
-          "url": "https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK"
-        },
-        {
-          "name": "Tobias Carshey",
-          "url": "https://open.spotify.com/artist/1fmlzagVqokRcqqNrdueqo"
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
         }
       ],
-      "duration_ms": 151250,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
+      "duration_ms": 191432,
+      "name": "Dancing Alone Again",
+      "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -947,22 +943,6 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "Dancing Alone Again",
-        "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 191432,
-      "name": "Dancing Alone Again",
-      "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
-    },
-    {
-      "added_at": "2026-07-30 22:01:09",
-      "album": {
         "name": "Damaged By Their Silence",
         "url": "https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 271680,
       "name": "Therapist",
       "url": "https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5"
+    },
+    {
+      "added_at": "2026-07-30 22:01:09",
+      "album": {
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
+      },
+      "artists": [
+        {
+          "name": "Tobias Jensen",
+          "url": "https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK"
+        },
+        {
+          "name": "Tobias Carshey",
+          "url": "https://open.spotify.com/artist/1fmlzagVqokRcqqNrdueqo"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 161340,
-      "name": "Low Tide",
-      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
-    },
-    {
-      "added_at": "2026-07-30 22:01:09",
-      "album": {
         "name": "This I Know",
         "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 173302,
       "name": "This I Know",
       "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
+    },
+    {
+      "added_at": "2026-07-30 22:01:09",
+      "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "duration_ms": 161340,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "Take Me Dancing",
-        "url": "https://open.spotify.com/album/1ty0U2RfIWdaZFF62AEyVW"
+        "name": "Change You",
+        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
       },
       "artists": [
         {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        },
-        {
-          "name": "CRIMER",
-          "url": "https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX"
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
         }
       ],
-      "duration_ms": 163231,
-      "name": "Take Me Dancing",
-      "url": "https://open.spotify.com/track/5inN55cH5BKn3Okb2Owouc"
+      "duration_ms": 266105,
+      "name": "Change You",
+      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -1295,6 +1291,26 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
+        "name": "Take Me Dancing",
+        "url": "https://open.spotify.com/album/1ty0U2RfIWdaZFF62AEyVW"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        },
+        {
+          "name": "CRIMER",
+          "url": "https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX"
+        }
+      ],
+      "duration_ms": 163231,
+      "name": "Take Me Dancing",
+      "url": "https://open.spotify.com/track/5inN55cH5BKn3Okb2Owouc"
+    },
+    {
+      "added_at": "2026-07-30 22:01:09",
+      "album": {
         "name": "Type Of Way",
         "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 194750,
       "name": "Type Of Way",
       "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
-    },
-    {
-      "added_at": "2026-07-30 22:01:09",
-      "album": {
-        "name": "Change You",
-        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
-      },
-      "artists": [
-        {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
-        }
-      ],
-      "duration_ms": 266105,
-      "name": "Change You",
-      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "I've Got Everything",
-        "url": "https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F"
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
       },
       "artists": [
         {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
         }
       ],
-      "duration_ms": 181891,
-      "name": "I've Got Everything",
-      "url": "https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X"
+      "duration_ms": 163712,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "MAGAZINE",
-        "url": "https://open.spotify.com/album/0cYqVU16YGVkCxA7MDkwLZ"
+        "name": "I've Got Everything",
+        "url": "https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F"
       },
       "artists": [
         {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
         }
       ],
-      "duration_ms": 192157,
-      "name": "MAGAZINE",
-      "url": "https://open.spotify.com/track/2dPRivcJCUxhlV1PfS4cxV"
+      "duration_ms": 181891,
+      "name": "I've Got Everything",
+      "url": "https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
+        "name": "MAGAZINE",
+        "url": "https://open.spotify.com/album/0cYqVU16YGVkCxA7MDkwLZ"
       },
       "artists": [
         {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
         }
       ],
-      "duration_ms": 163712,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
+      "duration_ms": 192157,
+      "name": "MAGAZINE",
+      "url": "https://open.spotify.com/track/2dPRivcJCUxhlV1PfS4cxV"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "Lost In You",
-        "url": "https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Benedek",
-          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
-        }
-      ],
-      "duration_ms": 122410,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA"
-    },
-    {
-      "added_at": "2026-07-30 22:01:09",
-      "album": {
         "name": "Devil On My Back",
         "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 194741,
       "name": "Devil On My Back",
       "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
+    },
+    {
+      "added_at": "2026-07-30 22:01:09",
+      "album": {
+        "name": "Lost In You",
+        "url": "https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+        }
+      ],
+      "duration_ms": 122410,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA"
     },
     {
       "added_at": "2026-07-30 22:01:09",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-07-30 22:01:09",
       "album": {
-        "name": "Superpower",
-        "url": "https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Superpower",
-      "url": "https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp"
-    },
-    {
-      "added_at": "2026-07-30 22:01:09",
-      "album": {
         "name": "Flatline",
         "url": "https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 165867,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz"
+    },
+    {
+      "added_at": "2026-07-30 22:01:09",
+      "album": {
+        "name": "Superpower",
+        "url": "https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Superpower",
+      "url": "https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp"
     }
   ],
   "unique_name": "Swiss Made",

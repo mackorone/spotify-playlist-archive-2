@@ -1,6 +1,6 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 215701,
+  "num_followers": 215625,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-12-18 21:46:21",
       "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/6wurDqEmcCcIoria5SRmom"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 175249,
-      "name": "Forgotten",
-      "url": "https://open.spotify.com/track/0ZZCltcOacjI1kY4BnVDjt"
-    },
-    {
-      "added_at": "2025-12-18 21:46:21",
-      "album": {
         "name": "The Sin and the Sentence",
         "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 243853,
       "name": "The Heart from Your Hate",
       "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
+    },
+    {
+      "added_at": "2025-12-18 21:46:21",
+      "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/6wurDqEmcCcIoria5SRmom"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 175249,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/0ZZCltcOacjI1kY4BnVDjt"
     },
     {
       "added_at": "2025-12-18 21:46:21",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-12-18 21:46:21",
       "album": {
-        "name": "Purge",
-        "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
-      },
-      "artists": [
-        {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
-        }
-      ],
-      "duration_ms": 282909,
-      "name": "Purge",
-      "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
-    },
-    {
-      "added_at": "2025-12-18 21:46:21",
-      "album": {
         "name": "Of Truth And Sacrifice",
         "url": "https://open.spotify.com/album/75nIP8284NK6VM5mCQCq36"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 326803,
       "name": "Protector",
       "url": "https://open.spotify.com/track/4wDUS58qIKWEgpJKlbfWqp"
+    },
+    {
+      "added_at": "2025-12-18 21:46:21",
+      "album": {
+        "name": "Purge",
+        "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
+      },
+      "artists": [
+        {
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        }
+      ],
+      "duration_ms": 282909,
+      "name": "Purge",
+      "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
     },
     {
       "added_at": "2025-12-18 21:46:21",

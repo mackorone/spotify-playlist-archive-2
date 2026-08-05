@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Carolina Bubbico
 
-571 songs - 1 day 18 hr 22 min
+572 songs - 1 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [How Do We Know We're Alive](https://open.spotify.com/track/1TWaQhJl64imsWiRRh8BlP) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Kuni](https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM) | 3:51 | 2024-04-26 | 2025-05-05 |
 | [How Do We Know We're Alive](https://open.spotify.com/track/1zFMvBk0MCRSUU2gxNFlZz) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 3:51 | 2022-11-02 | 2022-12-06 |
 | [How Do We Know We're Alive](https://open.spotify.com/track/2ZU2uV7bH48wu7auFnw2Qy) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [How Do We Know We're Alive](https://open.spotify.com/album/3DaFZoTxOJxdxvFFbO2qZy) | 3:51 | 2022-11-07 | 2022-11-14 |
-| [How Far Can You Fly? \(Ladder\) \- Original Version](https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t) | [Luca Flores](https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O) | [For Those I Never Knew](https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2) | 4:29 | 2024-03-28 |  |
+| [How Far Can You Fly? \(Ladder\) \- Original Version](https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t) | [Luca Flores](https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O) | [For Those I Never Knew](https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2) | 4:29 | 2024-03-28 | 2026-08-05 |
 | [Howls](https://open.spotify.com/track/0h51tz4qtVPvygXm291ceN) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Afrobeat Makers, Vol\. 3 \(The Tony Allen Experiments\)](https://open.spotify.com/album/1GjbremREcqamlsdqM3gEI) | 4:01 | 2022-11-02 |  |
 | [Hula Om](https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz) | [Raul Lovisoni](https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48), [Francesco Messina](https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj) | [Prati Bagnati Del Monte Analogo](https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB) | 9:26 | 2022-09-30 |  |
 | [Hypermnesia \- \(Album Version\)](https://open.spotify.com/track/2kuj7UgWG37nOOSpvdfybm) | [Kidd Mojo](https://open.spotify.com/artist/6YD6OHFh82LSUzmnbmpwFR) | [Dionysia](https://open.spotify.com/album/5vZuXWCLv1U3uBL6Es50OX) | 2:53 | 2022-11-02 | 2022-12-06 |
@@ -539,6 +539,7 @@
 | [Tuareg](https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU) | [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ), [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0) | [La Strada Invisibile](https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD) | 4:48 | 2023-01-30 |  |
 | [Tunnel](https://open.spotify.com/track/0DBV5Pe201bmncX6xwsTkc) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Notturno](https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw) | 2:51 | 2025-05-08 |  |
 | [Twist into any shape](https://open.spotify.com/track/5PfkURlOCU3WOcwvXri6B3) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Twist into any shape](https://open.spotify.com/album/54IB25ZxxXA0vCBicZKc5j) | 3:20 | 2022-09-30 | 2022-11-03 |
+| [Ultime Volontà](https://open.spotify.com/track/11mYkqQauLwXwig8JeDQkd) | [Deaf Kaki Chumpy](https://open.spotify.com/artist/0k0vUXKkuCfkRZQwuceR9A) | [Agàpe](https://open.spotify.com/album/2kz9cGAchH8pMYlZEOjBjo) | 9:22 | 2026-08-04 |  |
 | [Ultimo amore](https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [L'indispensabile](https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9) | 6:47 | 2024-03-28 |  |
 | [Uma Rosa E Um Bordado](https://open.spotify.com/track/64wGTjfRUE49KxtIiL0OlM) | [Carolina Bubbico](https://open.spotify.com/artist/0HWrWCAD8nN3DnbR02wVxW), [Mari Jasca](https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp) | [Uma Rosa E Um Bordado](https://open.spotify.com/album/5RRfPFHQ35b8wfLldKDegn) | 2:53 | 2026-03-05 | 2026-04-10 |
 | [Un anno d'amore](https://open.spotify.com/track/6XIRnYnwcuh5BcrswVeLht) | [Greta Panettieri](https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw) | [Non gioco più](https://open.spotify.com/album/4z1vnv7CBSR5f3Y675RgFw) | 7:53 | 2022-08-31 | 2022-10-01 |

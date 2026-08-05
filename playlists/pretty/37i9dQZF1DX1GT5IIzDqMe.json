@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 104552,
+  "num_followers": 104560,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,26 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Waveform Transmission Vol. 2",
+        "url": "https://open.spotify.com/album/0BmR9AfixKN0QsrkEHIXL2"
+      },
+      "artists": [
+        {
+          "name": "The Vision",
+          "url": "https://open.spotify.com/artist/1IvqVCBOoWeuz2jj5fXYs5"
+        },
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 208177,
+      "name": "The Protector",
+      "url": "https://open.spotify.com/track/0Gmv7RQPrem1m4Amdc4Hhk"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
         "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 190947,
       "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
       "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Waveform Transmission Vol. 2",
-        "url": "https://open.spotify.com/album/0BmR9AfixKN0QsrkEHIXL2"
-      },
-      "artists": [
-        {
-          "name": "The Vision",
-          "url": "https://open.spotify.com/artist/1IvqVCBOoWeuz2jj5fXYs5"
-        },
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 208177,
-      "name": "The Protector",
-      "url": "https://open.spotify.com/track/0Gmv7RQPrem1m4Amdc4Hhk"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -523,6 +523,26 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "ZebrA OctobrA",
+          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
+        }
+      ],
+      "duration_ms": 188225,
+      "name": "SoundwaveZ",
+      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Can You Feel It (Kevin Saunderson Remix)",
         "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 208210,
       "name": "Can You Feel It - Kevin Saunderson Remix",
       "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        }
-      ],
-      "duration_ms": 352599,
-      "name": "We All Move Together - Album Mix",
-      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -619,6 +619,26 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 352599,
+      "name": "We All Move Together - Album Mix",
+      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Faith, Hope & Clarity",
         "url": "https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 346413,
       "name": "The Color of Love - Reese Deep Mix",
       "url": "https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "ZebrA OctobrA",
-          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
-        }
-      ],
-      "duration_ms": 188225,
-      "name": "SoundwaveZ",
-      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -775,22 +775,18 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp"
+        "name": "Legendary Adventures Of A Filter King",
+        "url": "https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6"
       },
       "artists": [
         {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        },
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+          "name": "69",
+          "url": "https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg"
         }
       ],
-      "duration_ms": 554692,
-      "name": "Riod",
-      "url": "https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD"
+      "duration_ms": 387371,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -811,18 +807,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Legendary Adventures Of A Filter King",
-        "url": "https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6"
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp"
       },
       "artists": [
         {
-          "name": "69",
-          "url": "https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg"
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
         }
       ],
-      "duration_ms": 387371,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq"
+      "duration_ms": 554692,
+      "name": "Riod",
+      "url": "https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD"
     },
     {
       "added_at": "2025-08-29 04:00:36",

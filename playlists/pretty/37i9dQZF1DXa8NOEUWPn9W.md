@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring The Martinez Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,983,951 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,984,090 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 21 | [Wo, man \- Edit](https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Wo, man \(Edit\)](https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax) | 3:20 |
 | 22 | [On Your Mind](https://open.spotify.com/track/3ZYnpgImdmlKvOXLMm9dMX) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [On Your Mind](https://open.spotify.com/album/5pK4zjoOm6dpoplv7iOyqP) | 3:17 |
 | 23 | [Take You There](https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Take You There](https://open.spotify.com/album/4EdMwpLJIKhipUrX5tdaGk) | 2:52 |
-| 24 | [Oracle \(feat\. Jem Cooke\)](https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Oracle \(feat\. Jem Cooke\)](https://open.spotify.com/album/3nv9EFzVzjQToty0Nq6I9D) | 3:37 |
+| 24 | [Oracle](https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Oracle](https://open.spotify.com/album/3nv9EFzVzjQToty0Nq6I9D) | 3:37 |
 | 25 | [State Of Mind](https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [State Of Mind](https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe) | 3:04 |
 | 26 | [My Life Is A Disco \(In The Mix\)](https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi), [Mixmasters](https://open.spotify.com/artist/4ccqZWdI5OZP6twQ3c8GV9) | [My Life Is A Disco \(In The Mix\)](https://open.spotify.com/album/5Ewcwq6g95vO2qXiXN1AKc) | 2:55 |
 | 27 | [Work It](https://open.spotify.com/track/3xcgtqFTfz0KX3JiOvooJM) | [SEBS](https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv) | [Work It](https://open.spotify.com/album/26EnkGvk5z5hqA3RE9QQJr) | 2:38 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65690,
+  "num_followers": 65689,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAABC5U8jIOiye1kKcCqln6V6",
+  "snapshot_id": "am/aAAAAAABqp1fgdF5oRH8HfgdtMTjb",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollow Lover",
-        "url": "https://open.spotify.com/album/7hKTlT6GObMqemap6iBa5Q"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Hollow Lover",
-      "url": "https://open.spotify.com/track/4IGKuHwRCzLU72OcKVewrA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bedroom Gospel",
         "url": "https://open.spotify.com/album/32j8bm1yPKT5Ge05KwcIqt"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 227000,
       "name": "Wonderful God",
       "url": "https://open.spotify.com/track/5j8MZ7TfLqBMfkZLUDE9UL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hollow Lover",
+        "url": "https://open.spotify.com/album/7hKTlT6GObMqemap6iBa5Q"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Hollow Lover",
+      "url": "https://open.spotify.com/track/4IGKuHwRCzLU72OcKVewrA"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 162000,
-      "name": "I'd Do Anything For You",
-      "url": "https://open.spotify.com/track/781598Nn95TxDrkXny42A8"
+      "duration_ms": 100000,
+      "name": "If Only I Could Tell You (T.S.S.R. Piano Edit)",
+      "url": "https://open.spotify.com/track/0dXUlj0Jj1rPdUi5r1GTKG"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 100000,
-      "name": "If Only I Could Tell You (T.S.S.R. Piano Edit)",
-      "url": "https://open.spotify.com/track/0dXUlj0Jj1rPdUi5r1GTKG"
+      "duration_ms": 162000,
+      "name": "I'd Do Anything For You",
+      "url": "https://open.spotify.com/track/781598Nn95TxDrkXny42A8"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 80945,
+      "name": "God or The Devil?",
+      "url": "https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 235500,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 80945,
-      "name": "God or The Devil?",
-      "url": "https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G"
     },
     {
       "added_at": null,

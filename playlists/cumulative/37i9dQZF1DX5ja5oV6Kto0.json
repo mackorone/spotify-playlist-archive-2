@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 222545,
       "name": "BAD BITCH SYNDROME PART II",
       "url": "https://open.spotify.com/track/207AeXyxFVvM96DrhALUx3"
@@ -15896,7 +15896,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 147744,
       "name": "Para Para",
       "url": "https://open.spotify.com/track/2hsEI2Au5dxV6xIi2fDZbu"
@@ -17342,7 +17342,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 174267,
       "name": "Regular Shmegular Girl",
       "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
@@ -23112,6 +23112,24 @@
       "duration_ms": 176326,
       "name": "Whine Am",
       "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
+    },
+    {
+      "album": {
+        "name": "Whiskey & a Blunt",
+        "url": "https://open.spotify.com/album/6ejb87TbQintXVwaH86EUB"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Whiskey & a Blunt",
+      "url": "https://open.spotify.com/track/5mTGjHrAin8zH1TEmSnfHu"
     },
     {
       "album": {

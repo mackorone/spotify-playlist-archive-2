@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: NPD
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,693 likes - 112 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,702 likes - 112 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

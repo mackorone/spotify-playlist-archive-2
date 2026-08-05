@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 156891,
       "name": "Apaixonei",
       "url": "https://open.spotify.com/track/4jl0RKABd9LWwsqAc7lk9f"
@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 177110,
       "name": "Biri Bam Bam",
       "url": "https://open.spotify.com/track/7cBpp7L46vwX7MZ40pQp4A"
@@ -4330,6 +4330,24 @@
       "duration_ms": 194550,
       "name": "CHOOSE YOUR PLAYA",
       "url": "https://open.spotify.com/track/4FcuUAbRwQPnwp2bCnrehM"
+    },
+    {
+      "album": {
+        "name": "Chora por Mim",
+        "url": "https://open.spotify.com/album/5vPgEuCnIpm6l19h5JIuLk"
+      },
+      "artists": [
+        {
+          "name": "Sara Megre",
+          "url": "https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160571,
+      "name": "Chora por Mim",
+      "url": "https://open.spotify.com/track/3BvhfmeTSPTEGBJBV8YYlj"
     },
     {
       "album": {
@@ -6043,6 +6061,28 @@
     },
     {
       "album": {
+        "name": "Deixa Ir",
+        "url": "https://open.spotify.com/album/23DgcPiShxuHQdG185SVb3"
+      },
+      "artists": [
+        {
+          "name": "Nayra Mirella",
+          "url": "https://open.spotify.com/artist/2I7XfmIcxcr0mVB2llZNb1"
+        },
+        {
+          "name": "Karen Serena",
+          "url": "https://open.spotify.com/artist/2SjERTHmEHVCmjpFue0VBB"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Deixa Ir",
+      "url": "https://open.spotify.com/track/0qMrUlIyYpTVuFcjcklKer"
+    },
+    {
+      "album": {
         "name": "Deixa L\u00e1 Estar",
         "url": "https://open.spotify.com/album/2yyc1V0vrRLQbHvOrJLiX4"
       },
@@ -6340,7 +6380,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 166170,
       "name": "Deserto",
       "url": "https://open.spotify.com/track/1WudA9HqWMZjrZOvKQ9CeN"
@@ -6564,6 +6604,24 @@
       "duration_ms": 255476,
       "name": "Dia de Feira",
       "url": "https://open.spotify.com/track/60WEjV3JKQCUq5f0MlVpWS"
+    },
+    {
+      "album": {
+        "name": "Dias de Chuva",
+        "url": "https://open.spotify.com/album/1S06zd5hrGe5ePMQXkqWzY"
+      },
+      "artists": [
+        {
+          "name": "Josy Feij\u00f3",
+          "url": "https://open.spotify.com/artist/6etUj9gUt2bSideMcGmrHf"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Dias de Chuva",
+      "url": "https://open.spotify.com/track/36RHIygu2nWfnNRqVCOblK"
     },
     {
       "album": {
@@ -7766,7 +7824,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 245118,
       "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
       "url": "https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb"
@@ -15020,7 +15078,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 225810,
       "name": "M\u00e3e",
       "url": "https://open.spotify.com/track/7LROtokzjUIWF3pepHHg0y"
@@ -15862,7 +15920,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 189500,
       "name": "No Meu Tempo de Escola",
       "url": "https://open.spotify.com/track/5FtjPXgQF57T6H9hM8CJck"
@@ -16681,6 +16739,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Quero Ser Chiclete",
+        "url": "https://open.spotify.com/album/44ZzEUOaOAhqY5YnAqXUlf"
+      },
+      "artists": [
+        {
+          "name": "Tanya",
+          "url": "https://open.spotify.com/artist/7qI3exZT75Xgr4uTGmEIaT"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214392,
+      "name": "N\u00e3o Quero Ser Chiclete",
+      "url": "https://open.spotify.com/track/0A45YHOHjBUdGxUPOp4U0V"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Sei Quantas Almas Tenho",
         "url": "https://open.spotify.com/album/3cp1uRy1SZRuQm8Hc5ZZ7q"
       },
@@ -16996,7 +17072,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 193700,
       "name": "o amor existe",
       "url": "https://open.spotify.com/track/4xFAjC2SSS0q5gwVqvI75f"
@@ -17848,7 +17924,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 170731,
       "name": "Onde Andas",
       "url": "https://open.spotify.com/track/1JPt39zcrLBOO1DbPKgTQk"
@@ -21607,6 +21683,24 @@
     },
     {
       "album": {
+        "name": "Saudade Bateu",
+        "url": "https://open.spotify.com/album/12PERcKcO8IaMRR7IoEYZW"
+      },
+      "artists": [
+        {
+          "name": "Margarida Vasconcelos",
+          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Saudade Bateu",
+      "url": "https://open.spotify.com/track/2Kyt03AjDjFsfRJkAO1c80"
+    },
+    {
+      "album": {
         "name": "Festival Da Can\u00e7\u00e3o 2022",
         "url": "https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx"
       },
@@ -21864,7 +21958,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 176938,
       "name": "Se Ligares, Atendo",
       "url": "https://open.spotify.com/track/2Y0rfdWOsCkWBH6paSbAgQ"
@@ -22414,6 +22508,28 @@
       "duration_ms": 206071,
       "name": "Ser Mulher",
       "url": "https://open.spotify.com/track/30oVq7DYscRKPts5ry5CFs"
+    },
+    {
+      "album": {
+        "name": "Serei Algu\u00e9m",
+        "url": "https://open.spotify.com/album/61WHRE53kG43xcTjRwYNRH"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e1udia Pascoal",
+          "url": "https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ"
+        },
+        {
+          "name": "Cl\u00e1udinhas",
+          "url": "https://open.spotify.com/artist/7Lnc28YAy6LZWDOuaPGywo"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190540,
+      "name": "Serei Algu\u00e9m",
+      "url": "https://open.spotify.com/track/1o6BRR3sBSAwFXe0PX6bbD"
     },
     {
       "album": {
@@ -23000,7 +23116,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 160615,
       "name": "Solta Solta",
       "url": "https://open.spotify.com/track/3gezx5SqlEr0lnA3JKZoUb"
@@ -23105,6 +23221,24 @@
     },
     {
       "album": {
+        "name": "sonhos cor-de-rosa",
+        "url": "https://open.spotify.com/album/0KFf84WCaDlUnnfJrYuyCp"
+      },
+      "artists": [
+        {
+          "name": "PIPA DE MA$$A",
+          "url": "https://open.spotify.com/artist/5sCKZggbMGwCxzQoc6juPf"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195010,
+      "name": "sonhos cor-de-rosa",
+      "url": "https://open.spotify.com/track/6dGlTgRsYZylz0xwb6ufef"
+    },
+    {
+      "album": {
         "name": "Sorte A Nossa",
         "url": "https://open.spotify.com/album/2J3ytCn71wcAZhHCiYtoAI"
       },
@@ -23120,6 +23254,24 @@
       "duration_ms": 146666,
       "name": "Sorte A Nossa",
       "url": "https://open.spotify.com/track/5N25pJmDbR4TRX20PC8bIG"
+    },
+    {
+      "album": {
+        "name": "Sou Daquela Rua",
+        "url": "https://open.spotify.com/album/3UtXmviRFDOHF5Eiik0m9Y"
+      },
+      "artists": [
+        {
+          "name": "Maria Jo\u00e3o",
+          "url": "https://open.spotify.com/artist/39TZ1gFaBL6VCk8yQ6sGPy"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Sou Daquela Rua",
+      "url": "https://open.spotify.com/track/5AzTpNsV2Lja9CUC6q7d1y"
     },
     {
       "album": {
@@ -23994,6 +24146,24 @@
       "duration_ms": 160799,
       "name": "Tem l\u00e1 uma tristeza",
       "url": "https://open.spotify.com/track/3QjkUHKTlsbiKsROCPYZF2"
+    },
+    {
+      "album": {
+        "name": "Tem o Teu Nome",
+        "url": "https://open.spotify.com/album/5znat6RYcLP3yPEkQ0MLxe"
+      },
+      "artists": [
+        {
+          "name": "Carolina Cardetas",
+          "url": "https://open.spotify.com/artist/2b8cXmYwRjGxE2snPkSFRI"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Tem o Teu Nome",
+      "url": "https://open.spotify.com/track/7ro5MGsbFGJ5NKMAv8HH7S"
     },
     {
       "album": {
@@ -26012,6 +26182,24 @@
       "duration_ms": 164216,
       "name": "Verdade e Mentira",
       "url": "https://open.spotify.com/track/3gAxeBNjwfZCXxzDaEWfqV"
+    },
+    {
+      "album": {
+        "name": "Verdade E Vida",
+        "url": "https://open.spotify.com/album/6ecakHq1Me9XbcFo4xOpJT"
+      },
+      "artists": [
+        {
+          "name": "\u00c9LL\u00c0H",
+          "url": "https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Verdade E Vida",
+      "url": "https://open.spotify.com/track/4D7Y31l38c7w9fxfTBpYZT"
     },
     {
       "album": {

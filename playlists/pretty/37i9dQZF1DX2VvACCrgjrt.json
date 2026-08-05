@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1312507,
+  "num_followers": 1312256,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA8k2CvEzCtevkg62HpfCgIj5Ruz",
+  "snapshot_id": "AAAAAFYWz7IEVn+TBO7Ocvk5xWJrSaei",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:19",
@@ -345,20 +345,24 @@
       "url": "https://open.spotify.com/track/45qX16FOpNQL98LOp2LOHl"
     },
     {
-      "added_at": "2026-07-24 04:02:19",
+      "added_at": "2026-08-04 14:38:07",
       "album": {
-        "name": "Got That",
-        "url": "https://open.spotify.com/album/3t0crTyLIJz2xhZTCFTF4o"
+        "name": "Blas\u00e9 (Bryce Alakai Remix)",
+        "url": "https://open.spotify.com/album/7sV70LG1giH908uDH409Fc"
       },
       "artists": [
         {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Bryce Alakai",
+          "url": "https://open.spotify.com/artist/6xq5N3jccoYOrN19UUbo8B"
         }
       ],
-      "duration_ms": 156796,
-      "name": "Got That",
-      "url": "https://open.spotify.com/track/7qmjvVlqF8hkCHY8CSnqEM"
+      "duration_ms": 196363,
+      "name": "Blas\u00e9 (Bryce Alakai Remix)",
+      "url": "https://open.spotify.com/track/3HvFhvZPgQOPUOTpDi1fZU"
     },
     {
       "added_at": "2026-05-01 04:01:35",
@@ -1005,20 +1009,20 @@
       "url": "https://open.spotify.com/track/0Huo7gmgMKfwcWFqcm2pRX"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-07-24 04:02:19",
       "album": {
-        "name": "I Got Feelings",
-        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
+        "name": "Got That",
+        "url": "https://open.spotify.com/album/3t0crTyLIJz2xhZTCFTF4o"
       },
       "artists": [
         {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
         }
       ],
-      "duration_ms": 153321,
-      "name": "I Got Feelings",
-      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
+      "duration_ms": 156796,
+      "name": "Got That",
+      "url": "https://open.spotify.com/track/7qmjvVlqF8hkCHY8CSnqEM"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1059,6 +1063,22 @@
       "duration_ms": 325714,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/7fUkcKa2TbiKWlC2UCGWP5"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "I Got Feelings",
+        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 153321,
+      "name": "I Got Feelings",
+      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
     },
     {
       "added_at": "2026-07-10 04:01:45",
@@ -1293,26 +1313,6 @@
       "url": "https://open.spotify.com/track/2DqGfTYbejCSIe0DGsqClz"
     },
     {
-      "added_at": "2026-06-15 17:48:38",
-      "album": {
-        "name": "Watch Where You Walk (Sidewalk Talk)",
-        "url": "https://open.spotify.com/album/4mIsFxcSTgfwWZtsygXJas"
-      },
-      "artists": [
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "Sven Lochenhoer",
-          "url": "https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Watch Where You Walk (Sidewalk Talk)",
-      "url": "https://open.spotify.com/track/1ycJm1sa3w203quK3tHx25"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Fuck It Up",
@@ -1335,6 +1335,26 @@
       "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
+    },
+    {
+      "added_at": "2026-06-15 17:48:38",
+      "album": {
+        "name": "Watch Where You Walk (Sidewalk Talk)",
+        "url": "https://open.spotify.com/album/4mIsFxcSTgfwWZtsygXJas"
+      },
+      "artists": [
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "Sven Lochenhoer",
+          "url": "https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Watch Where You Walk (Sidewalk Talk)",
+      "url": "https://open.spotify.com/track/1ycJm1sa3w203quK3tHx25"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1361,22 +1381,6 @@
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
-    },
-    {
       "added_at": "2026-07-17 04:01:08",
       "album": {
         "name": "No Bite",
@@ -1391,6 +1395,22 @@
       "duration_ms": 181417,
       "name": "No Bite",
       "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1531,6 +1551,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "About To Lose It",
+        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 195942,
+      "name": "About To Lose It",
+      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Grove St. Party",
         "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
       },
@@ -1547,22 +1583,6 @@
       "duration_ms": 170307,
       "name": "Grove St. Party",
       "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "About To Lose It",
-        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "About To Lose It",
-      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1853,6 +1873,26 @@
       "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Count On You",
+        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "duration_ms": 165923,
+      "name": "Count On You",
+      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
+    },
+    {
       "added_at": "2026-03-06 05:00:10",
       "album": {
         "name": "Fast Money",
@@ -1891,26 +1931,6 @@
       "duration_ms": 181384,
       "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
       "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Count On You",
-        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Sian-Lee",
-          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
-        }
-      ],
-      "duration_ms": 165923,
-      "name": "Count On You",
-      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
     },
     {
       "added_at": "2026-04-10 04:02:08",
@@ -1973,26 +1993,6 @@
       "url": "https://open.spotify.com/track/29qf4tjIsZbpjXCfLa6UWf"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
-    },
-    {
       "added_at": "2026-07-10 04:01:45",
       "album": {
         "name": "Sexy Mami",
@@ -2011,6 +2011,26 @@
       "duration_ms": 193846,
       "name": "Sexy Mami",
       "url": "https://open.spotify.com/track/34csoWNqakXDkiKzm6eisn"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2125,6 +2145,22 @@
       "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
+      "added_at": "2026-06-12 04:01:37",
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/0DqWCkK1d1l9521Qc1Y2iq"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 168578,
+      "name": "Confessions",
+      "url": "https://open.spotify.com/track/0vJh9MCniJ6z9Tj1zoVw9Q"
+    },
+    {
       "added_at": "2026-05-22 04:01:19",
       "album": {
         "name": "The Heat",
@@ -2157,20 +2193,20 @@
       "url": "https://open.spotify.com/track/5ZYBV9QhE0Yv4NrZKmALLe"
     },
     {
-      "added_at": "2026-06-12 04:01:37",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/0DqWCkK1d1l9521Qc1Y2iq"
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/2pQQGWXI5ucqaKmIWUthng"
       },
       "artists": [
         {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
         }
       ],
-      "duration_ms": 168578,
-      "name": "Confessions",
-      "url": "https://open.spotify.com/track/0vJh9MCniJ6z9Tj1zoVw9Q"
+      "duration_ms": 145846,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/3PZbnISrk8qy51tmreL5Hc"
     },
     {
       "added_at": "2026-02-06 05:00:42",
@@ -2193,20 +2229,20 @@
       "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-04-10 04:02:08",
       "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/2pQQGWXI5ucqaKmIWUthng"
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
       },
       "artists": [
         {
-          "name": "Juos",
-          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
         }
       ],
-      "duration_ms": 145846,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/3PZbnISrk8qy51tmreL5Hc"
+      "duration_ms": 204242,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2249,42 +2285,6 @@
       "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
     },
     {
-      "added_at": "2026-04-10 04:02:08",
-      "album": {
-        "name": "Keeper",
-        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 204242,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Deeper Underground",
-        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Deeper Underground",
-      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
-    },
-    {
       "added_at": "2026-06-19 04:01:19",
       "album": {
         "name": "Function",
@@ -2307,22 +2307,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/61pX8HxPi9OleVRgi2W0Cu"
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         },
         {
-          "name": "Chester Young",
-          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 174755,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/1ZgUkVgUcgzAyzMjtErXGE"
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
       "added_at": "2026-01-30 05:00:51",
@@ -2345,6 +2345,26 @@
       "url": "https://open.spotify.com/track/3F1VvVCelweDci1v0aJ6bV"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/61pX8HxPi9OleVRgi2W0Cu"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Chester Young",
+          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
+        }
+      ],
+      "duration_ms": 174755,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/1ZgUkVgUcgzAyzMjtErXGE"
+    },
+    {
       "added_at": "2026-04-17 04:02:12",
       "album": {
         "name": "SHAKEUP",
@@ -2359,6 +2379,22 @@
       "duration_ms": 213913,
       "name": "SHAKEUP",
       "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Off The Hook",
+        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        }
+      ],
+      "duration_ms": 154384,
+      "name": "Off The Hook",
+      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
     },
     {
       "added_at": "2026-06-19 04:01:19",
@@ -2379,38 +2415,6 @@
       "duration_ms": 201081,
       "name": "Mine",
       "url": "https://open.spotify.com/track/64L1sPpYqPRz5hrV0tw4DJ"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Off The Hook",
-        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
-        }
-      ],
-      "duration_ms": 154384,
-      "name": "Off The Hook",
-      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 200610,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
     },
     {
       "added_at": "2026-01-09 16:39:37",

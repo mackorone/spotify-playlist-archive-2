@@ -3193,6 +3193,24 @@
     },
     {
       "album": {
+        "name": "BOUNCE!",
+        "url": "https://open.spotify.com/album/5kPiyAr5J4PJHXGYFhEWjR"
+      },
+      "artists": [
+        {
+          "name": "Vizzen",
+          "url": "https://open.spotify.com/artist/0EKwbldduMcVWub0o2V5e5"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164347,
+      "name": "BOUNCE!",
+      "url": "https://open.spotify.com/track/4IDjNRErY1jfeAeTfu8NaJ"
+    },
+    {
+      "album": {
         "name": "Brain Busta",
         "url": "https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1"
       },

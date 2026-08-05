@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: Julia Takada",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: LANA",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 247978,
       "name": "COLORATURA",
       "url": "https://open.spotify.com/track/3jIGteplWR9tMpqsH06J83"
@@ -3566,6 +3566,24 @@
       "duration_ms": 223122,
       "name": "could it be magic?",
       "url": "https://open.spotify.com/track/6CNh1flfKkPFTS2dnueiCs"
+    },
+    {
+      "album": {
+        "name": "crazy journey",
+        "url": "https://open.spotify.com/album/0wrfZgNABT6rBJyJr6oI5A"
+      },
+      "artists": [
+        {
+          "name": "AKKOGORILLA",
+          "url": "https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207762,
+      "name": "crazy journey",
+      "url": "https://open.spotify.com/track/54tW87US34M0BNiB3hUrZ0"
     },
     {
       "album": {
@@ -12349,6 +12367,28 @@
     },
     {
       "album": {
+        "name": "Moshi Moshi Frenemy",
+        "url": "https://open.spotify.com/album/4b2dO3ms5aW8ejvCQ1pRo0"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd"
+        },
+        {
+          "name": "3Li\u00a5en",
+          "url": "https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194302,
+      "name": "Moshi Moshi Frenemy",
+      "url": "https://open.spotify.com/track/3VQQ0ImVRyWVIwDSTqlyS9"
+    },
+    {
+      "album": {
         "name": "\u7fe1\u7fe0 ( hisui )",
         "url": "https://open.spotify.com/album/2jwl1zSw7jRfVNbgXa1tU8"
       },
@@ -15872,7 +15912,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 240000,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/6BalsiCFqTdPx0HfeAsgUN"
@@ -19907,6 +19947,24 @@
     },
     {
       "album": {
+        "name": "Truth in the dark",
+        "url": "https://open.spotify.com/album/4cVVeSZj5DgYvOQiyh34vB"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180905,
+      "name": "Truth in the dark",
+      "url": "https://open.spotify.com/track/10sGZWOddZT9TSYM2iz8pq"
+    },
+    {
+      "album": {
         "name": "What is \"LAGHEADS\"?",
         "url": "https://open.spotify.com/album/6GpwkizewH7V8VMNJEaYkh"
       },
@@ -20360,7 +20418,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 269797,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/5LfvepSIF8IWxYbEVyXtiy"
@@ -28319,6 +28377,24 @@
     },
     {
       "album": {
+        "name": "\u6674\u3005",
+        "url": "https://open.spotify.com/album/2MlZJtGX2q8z2MKqRAQpX5"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "\u6674\u3005",
+      "url": "https://open.spotify.com/track/0rlxx7HySKpl2LwyOfg2zR"
+    },
+    {
+      "album": {
         "name": "\u6674\u308b\u304f",
         "url": "https://open.spotify.com/album/4Iyw7ua7k3iciFvTzf56RW"
       },
@@ -29712,7 +29788,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 242603,
       "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
       "url": "https://open.spotify.com/track/03pAYCtkK1l7D8rQ5rvc89"

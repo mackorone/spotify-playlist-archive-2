@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 355329,
+  "num_followers": 355295,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -283,26 +283,6 @@
     {
       "added_at": "2026-07-31 03:03:24",
       "album": {
-        "name": "Drop It",
-        "url": "https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Drop It",
-      "url": "https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7"
-    },
-    {
-      "added_at": "2026-07-31 03:03:24",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4gP5HYqMorQT7rSoSPPfIF"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 183934,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/36wm1WBVArEbnIgtkT3abj"
+    },
+    {
+      "added_at": "2026-07-31 03:03:24",
+      "album": {
+        "name": "Drop It",
+        "url": "https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Drop It",
+      "url": "https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7"
     },
     {
       "added_at": "2026-07-31 03:03:24",
@@ -611,6 +611,30 @@
     {
       "added_at": "2026-07-31 03:03:24",
       "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/49MDmoQm7bf30Gg2uEANnt"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        },
+        {
+          "name": "Faiolli",
+          "url": "https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO"
+        }
+      ],
+      "duration_ms": 179531,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/26N0VniacJgjiY0AidM1RZ"
+    },
+    {
+      "added_at": "2026-07-31 03:03:24",
+      "album": {
         "name": "New Memories",
         "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
       },
@@ -627,46 +651,6 @@
       "duration_ms": 194655,
       "name": "New Memories",
       "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
-    },
-    {
-      "added_at": "2026-07-31 03:03:24",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
-    },
-    {
-      "added_at": "2026-07-31 03:03:24",
-      "album": {
-        "name": "Pitbull",
-        "url": "https://open.spotify.com/album/6d64y1tKfi0XZMZC4EmFcE"
-      },
-      "artists": [
-        {
-          "name": "Mad Dogz",
-          "url": "https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP"
-        },
-        {
-          "name": "Lowderz",
-          "url": "https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq"
-        }
-      ],
-      "duration_ms": 162090,
-      "name": "Pitbull",
-      "url": "https://open.spotify.com/track/6CYIVGVhbxgjyyMq6XrM1s"
     },
     {
       "added_at": "2026-07-31 03:03:24",
@@ -695,46 +679,42 @@
     {
       "added_at": "2026-07-31 03:03:24",
       "album": {
-        "name": "California Dreamin'",
-        "url": "https://open.spotify.com/album/49MDmoQm7bf30Gg2uEANnt"
+        "name": "Pitbull",
+        "url": "https://open.spotify.com/album/6d64y1tKfi0XZMZC4EmFcE"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Mad Dogz",
+          "url": "https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP"
         },
         {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        },
-        {
-          "name": "Faiolli",
-          "url": "https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO"
+          "name": "Lowderz",
+          "url": "https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq"
         }
       ],
-      "duration_ms": 179531,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/26N0VniacJgjiY0AidM1RZ"
+      "duration_ms": 162090,
+      "name": "Pitbull",
+      "url": "https://open.spotify.com/track/6CYIVGVhbxgjyyMq6XrM1s"
     },
     {
       "added_at": "2026-07-31 03:03:24",
       "album": {
-        "name": "Doin Nottin",
-        "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby"
       },
       "artists": [
         {
-          "name": "FatSync",
-          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "GIU",
-          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 146538,
-      "name": "Doin Nottin",
-      "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
+      "duration_ms": 146090,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
     },
     {
       "added_at": "2026-07-31 03:03:24",
@@ -783,6 +763,26 @@
       "duration_ms": 185238,
       "name": "Baile DF",
       "url": "https://open.spotify.com/track/6DN8RUpeHortTh008NC7GT"
+    },
+    {
+      "added_at": "2026-07-31 03:03:24",
+      "album": {
+        "name": "Doin Nottin",
+        "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
+      },
+      "artists": [
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        },
+        {
+          "name": "GIU",
+          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Doin Nottin",
+      "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
     },
     {
       "added_at": "2026-07-31 03:03:24",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-07-31 03:03:24",
       "album": {
+        "name": "Won't Back Down",
+        "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
+      },
+      "artists": [
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Won't Back Down",
+      "url": "https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx"
+    },
+    {
+      "added_at": "2026-07-31 03:03:24",
+      "album": {
         "name": "Stay Mine",
         "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 178010,
       "name": "Stay Mine",
       "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
-    },
-    {
-      "added_at": "2026-07-31 03:03:24",
-      "album": {
-        "name": "Won't Back Down",
-        "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
-      },
-      "artists": [
-        {
-          "name": "PRINSH",
-          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Won't Back Down",
-      "url": "https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

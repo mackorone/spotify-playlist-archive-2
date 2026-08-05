@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 featuring Matroda + San Pacho
 
-1,424 songs - 2 day 23 hr 34 min
+1,425 songs - 2 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Action](https://open.spotify.com/track/0F7sWS1Pi9m6baE9lU759k) | [Alannys Weber](https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu) | [Action](https://open.spotify.com/album/0wsAJB0c8RzBqY2Pt0LTtT) | 2:43 | 2024-10-25 | 2025-02-22 |
 | [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK) | 2:44 | 2024-09-30 | 2025-04-06 |
 | [Aha](https://open.spotify.com/track/7ylQkGefddsF4zTriGgv2A) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [RELOVA](https://open.spotify.com/artist/2Q5CZXc158WHwKp1rYOfSn) | [Aha](https://open.spotify.com/album/5dg5Ze2A0Qi0BhJEiAS2cs) | 3:35 | 2025-11-07 | 2026-05-30 |
-| [Alcoholic](https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD) | [Matt Faulk](https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x) | [Alcoholic](https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX) | 3:20 | 2025-03-24 |  |
+| [Alcoholic](https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD) | [Matt Faulk](https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x) | [Alcoholic](https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX) | 3:20 | 2025-03-24 | 2026-08-05 |
 | [ALIEN](https://open.spotify.com/track/4fci3f54oN8iJl75OZLm7r) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [ALIEN](https://open.spotify.com/album/3NEiRqKazY4kENtQhKOw4q) | 2:46 | 2022-08-12 | 2022-10-06 |
 | [Alive](https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Alive](https://open.spotify.com/album/3jhwepWxLRw5QQSVcr9zOV) | 3:03 | 2024-08-09 | 2025-01-18 |
 | [All About U](https://open.spotify.com/track/1xoUL5CDpAB66vB8qZzMXY) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All About U](https://open.spotify.com/album/4BoLtiThigu3dTXSRCDsW9) | 2:51 | 2021-10-29 | 2021-12-30 |
@@ -168,6 +168,7 @@
 | [Bite](https://open.spotify.com/track/5m4RtoYq9DYg3lojdW5tqW) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Bite](https://open.spotify.com/album/3PBWBOWJxmjdwZUuhiL32U) | 4:23 | 2021-10-29 | 2022-03-16 |
 | [Black Suede](https://open.spotify.com/track/54wmMYk0uxF7UabA6DTiG7) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Black Suede](https://open.spotify.com/album/2YwXQ7eOVhsx34XoU6gvqZ) | 2:55 | 2021-10-29 | 2021-12-30 |
 | [Blacked Out](https://open.spotify.com/track/0v06s5ISTc1mkO4K0GKrQp) | [Fly With Us](https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL), [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Blacked Out](https://open.spotify.com/album/59UCvfCtvPJvsX1UIhI58F) | 3:41 | 2024-10-25 | 2025-05-16 |
+| [Blasé \(Bryce Alakai Remix\)](https://open.spotify.com/track/3HvFhvZPgQOPUOTpDi1fZU) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Bryce Alakai](https://open.spotify.com/artist/6xq5N3jccoYOrN19UUbo8B) | [Blasé \(Bryce Alakai Remix\)](https://open.spotify.com/album/7sV70LG1giH908uDH409Fc) | 3:16 | 2026-08-04 |  |
 | [BLEEP BLOOP](https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [BLEEP BLOOP](https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY) | 2:32 | 2023-06-09 | 2024-03-09 |
 | [Blow](https://open.spotify.com/track/4gCFPxvdS84KFwSsprB12K) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Blow](https://open.spotify.com/album/6J5g8rg1KJag4xQ08F53AR) | 2:09 | 2022-09-09 | 2023-05-28 |
 | [BLOW](https://open.spotify.com/track/0V9R1lBK1zfnnJoP67ooWS) | [CRASKIN](https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz), [THODE](https://open.spotify.com/artist/5VIf3wqHaZNvHCQ89yapqD) | [BLOW](https://open.spotify.com/album/0sLpFf1UpMTngNnO85zNof) | 2:18 | 2025-01-10 | 2025-05-10 |

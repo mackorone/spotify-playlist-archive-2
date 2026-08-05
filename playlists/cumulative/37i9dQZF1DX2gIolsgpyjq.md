@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: Astral Weeks
+> The best new music by independent artists in the Nordics\. Cover: Monkeys with Internet
 
-1,679 songs - 3 day 16 hr 20 min
+1,681 songs - 3 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Crawford](https://open.spotify.com/track/6SmUE2qxra4VtpIsJKzVIO) | [Cockhouse](https://open.spotify.com/artist/5nkUzSkAxBlloQPjRLzyJG) | [You're Crazy and I Love It](https://open.spotify.com/album/4nF3gVD7lvACu1lFqPLNux) | 5:41 | 2025-11-06 | 2026-02-06 |
 | [Crazy Young And Wild](https://open.spotify.com/track/66WdoaGA1GG3WCosRL8riO) | [Stella](https://open.spotify.com/artist/2Ic6MYMc3DrPW8z8DHFoWS) | [Crazy Young And Wild](https://open.spotify.com/album/6ZBNfa0TacppWCfwT0Vwn8) | 2:17 | 2025-10-16 | 2026-01-16 |
 | [Crocodile Tears](https://open.spotify.com/track/7ieXRAw83EVCel0W3VUuLw) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Crocodile Tears](https://open.spotify.com/album/2i06Wiq7zC13KxsHkPjGfC) | 2:43 | 2024-11-21 | 2024-12-05 |
+| [crooked shape](https://open.spotify.com/track/2TICfwMqwTg2XZZvbmr7Pm) | [soki yue](https://open.spotify.com/artist/3pSvLi87jU6OWr1zk8lBj9) | [crooked shape](https://open.spotify.com/album/2wNjC7Smoc8oFOkwQVcML6) | 2:49 | 2026-08-04 |  |
 | [Crossfire](https://open.spotify.com/track/6Bwoy1JlqL9aG1GxeLH8SA) | [Lilly Avelin](https://open.spotify.com/artist/4qDpZVenSxs2xv1SN590wb) | [Crossfire](https://open.spotify.com/album/6qltTYbGBeAsxmCOmksnpZ) | 3:19 | 2026-02-26 | 2026-05-13 |
 | [Crowdpleaser](https://open.spotify.com/track/1YiodS6xaQbDG75fx50N7D) | [Twang](https://open.spotify.com/artist/4EbOGW93oXxtjtKDoc9j9I) | [Crowdpleaser](https://open.spotify.com/album/05BeaiYq6MH6heetHOA5K0) | 3:38 | 2024-02-08 | 2024-02-16 |
 | [CU SHINE](https://open.spotify.com/track/4cbHHU2HeafdUgdF50wXVH) | [OKARO](https://open.spotify.com/artist/768oWAbPZ3zDTuARKBThtC) | [DREAM GORA](https://open.spotify.com/album/2GjbJtBWoXCxcSoPPCsqBT) | 3:22 | 2024-10-17 | 2024-11-29 |
@@ -710,7 +711,7 @@
 | [I WON'T](https://open.spotify.com/track/48FSlw3vp5GkqrsqXYCwcd) | [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib), [BASHI](https://open.spotify.com/artist/07QJwDYIjFFW2RhRUO3DPg), [Nick Bonin](https://open.spotify.com/artist/6kFCeHJQ1sK1fgBrqMK3G9) | [I WON'T](https://open.spotify.com/album/3umr3VtXHa8HrSC8kjgK1j) | 3:04 | 2025-01-09 | 2025-02-14 |
 | [I'd love to be a star](https://open.spotify.com/track/1iSXI8IPkPMxtITODa0mTg) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [I'd love to be a star, but I'm tired as fuck](https://open.spotify.com/album/1eBcNO07bb58jDOx4UJ9oi) | 3:35 | 2026-05-19 |  |
 | [I'll be fine](https://open.spotify.com/track/34JnZt7LU9dKbkbopyFu1G) | [FRANKIE OCTOBER](https://open.spotify.com/artist/40DZ0XYPJCrVu76o6nzyHw) | [I'll be fine](https://open.spotify.com/album/49MrsIN3l1vn2TtQJ3ilqt) | 2:22 | 2025-05-08 | 2025-06-13 |
-| [i'll quit quitting](https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [i'll quit quitting](https://open.spotify.com/album/6uCjsjUW7XE64ag0bTUvZk) | 3:18 | 2026-05-12 |  |
+| [i'll quit quitting](https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [i'll quit quitting](https://open.spotify.com/album/6uCjsjUW7XE64ag0bTUvZk) | 3:18 | 2026-05-12 | 2026-08-05 |
 | [I'm Not A Writer](https://open.spotify.com/track/7bOMnJ2zzJsNU0xDidaDrO) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [I Will Not Be Like That](https://open.spotify.com/album/7DNdEgb7ZLRQCYwQEHcfWV) | 2:36 | 2025-10-02 | 2025-12-04 |
 | [I'm Only Boggin'](https://open.spotify.com/track/5yqFZvV4aUF6rMHhlcDcGG) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 1:27 | 2025-01-23 | 2025-04-11 |
 | [I'm Ready for Love](https://open.spotify.com/track/6bAHE9IuISQLImsUMO6Jgw) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [I'm Ready for Love](https://open.spotify.com/album/0IEWIBmD1A5asUlxclmrX5) | 3:38 | 2025-04-03 | 2025-05-02 |
@@ -984,7 +985,7 @@
 | [Mustang Woman](https://open.spotify.com/track/2lk5JOnhslpoW0pic9PD1v) | [Veneda Terry](https://open.spotify.com/artist/6zGtbySTcFcwW2bm9rUgsy) | [Mustang Woman](https://open.spotify.com/album/0eiLFyOzvDdefvkAV9pRK0) | 2:20 | 2025-06-26 | 2025-08-22 |
 | [My Dazed Friend](https://open.spotify.com/track/097wfbHE5h2rHtTA0KWIar) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [KLŌ](https://open.spotify.com/artist/04PGhfooPK0YQZPAj3itqo) | [My Dazed Friend](https://open.spotify.com/album/4tpuNsHzxBcuA0ZWuSHM8Y) | 4:56 | 2024-08-22 | 2024-11-08 |
 | [My Friends](https://open.spotify.com/track/5aol6iiozhnF1K7XVG54tZ) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv), [Viggo Dyst](https://open.spotify.com/artist/2ErTCR7vHeYoB6Z81O8WT2) | [My Friends](https://open.spotify.com/album/3uY7N4aGm4cXuKDey2JJHg) | 3:52 | 2026-02-05 | 2026-04-02 |
-| [my heart was good \(you never knew\)](https://open.spotify.com/track/182pZBYrPgjBRVHSzSyWsw) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [my heart was good \(you never knew\)](https://open.spotify.com/album/5i3RwhZsSWtyM6Ppp9JrLO) | 3:21 | 2026-05-05 |  |
+| [my heart was good \(you never knew\)](https://open.spotify.com/track/182pZBYrPgjBRVHSzSyWsw) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [my heart was good \(you never knew\)](https://open.spotify.com/album/5i3RwhZsSWtyM6Ppp9JrLO) | 3:21 | 2026-05-05 | 2026-08-05 |
 | [My Love For You](https://open.spotify.com/track/5ElJFlJEdBvbEELykWdZki) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [My Love For You](https://open.spotify.com/album/6X32ulqze4sMDuHf6fx3Bg) | 5:37 | 2024-04-25 | 2024-06-28 |
 | [My Mistake](https://open.spotify.com/track/73tV41H3LM5YBMpdR02fkX) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [My Mistake](https://open.spotify.com/album/6X8iXth9vVhK1Dblubg5fP) | 2:40 | 2024-10-24 | 2024-12-05 |
 | [My Path](https://open.spotify.com/track/26fPPYgpEBLCmPuMXUezsD) | [BLADË](https://open.spotify.com/artist/2IU0KXU1L7fIfAqzG4VcgC) | [My Path](https://open.spotify.com/album/780jdgiFqVQ1wGYJNxA0hk) | 7:08 | 2025-03-06 | 2025-04-18 |
@@ -1104,6 +1105,7 @@
 | [Orange Wine](https://open.spotify.com/track/6pEAkrgr8ov4vFD24iWQhz) | [Alessandro Cabrini](https://open.spotify.com/artist/4hsjAbpSiJGodVYEvNjL7s) | [Orange Wine](https://open.spotify.com/album/0zJCZZ1YHtcRzB2keVrV9m) | 2:27 | 2025-07-10 | 2025-09-05 |
 | [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Orbit](https://open.spotify.com/album/02N4GkYrEAl9NocCEgBbsm) | 4:29 | 2025-09-18 | 2025-12-04 |
 | [Ordinary](https://open.spotify.com/track/5rSD2j94sMRi5jnzN0VKzW) | [dark0wa](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53) | [Paradise](https://open.spotify.com/album/3aJ5kDrZmVKtcOnmdTYOtE) | 2:30 | 2025-04-10 | 2025-05-17 |
+| [Oslo city summer](https://open.spotify.com/track/4o9bPb9sTN7cm7SpjfCBjU) | [Kacper](https://open.spotify.com/artist/6V7Y2lvsEbWx1DitjPjtHY), [Lasse Lokøy](https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv) | [Oslo city summer](https://open.spotify.com/album/62FrctQ5KdfgdHNJvNMULT) | 1:48 | 2026-08-04 |  |
 | [Other Side](https://open.spotify.com/track/3WHI9kxRAJKjGcDRnQkWOQ) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [Other Side](https://open.spotify.com/album/7sCoIkdXurYnLVYwa2OEYd) | 4:20 | 2024-07-25 | 2024-09-06 |
 | [Out of My Mind](https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Out of My Mind](https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f) | 3:37 | 2024-06-27 | 2025-01-03 |
 | [Over](https://open.spotify.com/track/68hMlnUaIdjJfpFogolkUG) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo), [Bathrobe Tony](https://open.spotify.com/artist/6ytnNrgYq2i0hz3rLjLkkb), [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57) | [Over](https://open.spotify.com/album/11c8AO04I8gh34Oc6ycFJ6) | 3:15 | 2024-02-08 | 2024-03-08 |
@@ -1416,7 +1418,7 @@
 | [superman](https://open.spotify.com/track/2iA7Folk5b5AWlJqUMcUZj) | [REYA](https://open.spotify.com/artist/5UZpstjG63lGYQLT8qXPyE) | [superman](https://open.spotify.com/album/79yZpW14bQzljaKpGX2L5m) | 3:17 | 2024-10-24 | 2024-12-05 |
 | [Supernatural](https://open.spotify.com/track/3q0IdZJinV2b3tiTPcMZ9N) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Supernatural](https://open.spotify.com/album/5UBUBrAte5AwoW3aBZRqmN) | 3:02 | 2025-10-23 | 2026-02-13 |
 | [Superstar](https://open.spotify.com/track/2MTRtuB5vV8q15F67cAjNE) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Superstar](https://open.spotify.com/album/4ilpauwxfRpHy7rEy8lycU) | 2:31 | 2025-02-13 | 2025-03-14 |
-| [SUPERVILLAIN](https://open.spotify.com/track/1zMJ040MrRczDREAdsJQYI) | [Kape Yeel](https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH) | [SUPERVILLAIN](https://open.spotify.com/album/2c1py1rEGjkPhOPglkmhuk) | 2:54 | 2026-04-28 |  |
+| [SUPERVILLAIN](https://open.spotify.com/track/1zMJ040MrRczDREAdsJQYI) | [Kape Yeel](https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH) | [SUPERVILLAIN](https://open.spotify.com/album/2c1py1rEGjkPhOPglkmhuk) | 2:54 | 2026-04-28 | 2026-08-05 |
 | [Surf Through](https://open.spotify.com/track/4eVY5xSBJlySt71uOyY2OH) | [Fred Soila](https://open.spotify.com/artist/7ngrF0C7lWTaTI8Ei0ja8E) | [Surf Through](https://open.spotify.com/album/7ADVrbqLnzDsJ4qLsqI76B) | 2:49 | 2025-06-26 | 2025-09-02 |
 | [Surface](https://open.spotify.com/track/6IXXt8w0QHyD6D3YI0mqE1) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Surface](https://open.spotify.com/album/7e0mKBPbOkOnSG1vghevn9) | 1:27 | 2025-02-27 | 2026-01-01 |
 | [Susan](https://open.spotify.com/track/0WXK5gHuLdVDW4ZHvUS4TO) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Susan](https://open.spotify.com/album/5U1OdMZOnDeKJs7a3beIC0) | 3:18 | 2024-02-08 | 2024-03-01 |

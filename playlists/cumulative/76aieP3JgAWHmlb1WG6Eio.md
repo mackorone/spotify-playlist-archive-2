@@ -4,10 +4,11 @@
 
 > 
 
-193 songs - 12 hr 59 min
+194 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1.1\_3\-oneor0.wma](https://open.spotify.com/track/66LSGgGsvhqvnDP0inq4pw) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Mr\. Robot, Vol\. 1 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/012oKUlmu9qA84z4kYrOAj) | 3:07 | 2026-08-04 |  |
 | [115 \(Remaster\)](https://open.spotify.com/track/4Yggt5XlzJMvrSuxH5F0wh) | [Treyarch](https://open.spotify.com/artist/40LhqyLxAdaQBBXZ1P8Ga9) | [Origins Soundtrack](https://open.spotify.com/album/004VMMAKhGnFcep6ymPqS1) | 3:48 | 2021-01-19 |  |
 | [2049](https://open.spotify.com/track/0UWa0AdUscdQUI7mjjx6G1) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Blade Runner 2049 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kSUsy5FU3Wcxd4DBvXFm4) | 3:37 | 2021-09-23 |  |
 | [3.9\_3\-wo\-ai\-ni.0cc](https://open.spotify.com/track/3QYMI8fq8og5dbVzZlWeuH) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Mr\. Robot, Vol\. 6 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/6rbUY75BYHK2BPWeW7NCP7) | 5:19 | 2021-04-22 |  |

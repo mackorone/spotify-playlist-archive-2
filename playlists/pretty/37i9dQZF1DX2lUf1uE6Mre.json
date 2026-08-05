@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Luciano, Jazeek",
-  "num_followers": 909700,
+  "num_followers": 909415,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -235,26 +235,6 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
-        "name": "Vermisse",
-        "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
-        }
-      ],
-      "duration_ms": 154653,
-      "name": "Vermisse",
-      "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
-    },
-    {
-      "added_at": "2026-08-03 12:10:49",
-      "album": {
         "name": "KRISTALL",
         "url": "https://open.spotify.com/album/6Erf1V9IXZsN2oY2AO5g0g"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 164937,
       "name": "Alors (feat. CAPO)",
       "url": "https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb"
+    },
+    {
+      "added_at": "2026-08-03 12:10:49",
+      "album": {
+        "name": "Vermisse",
+        "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "duration_ms": 154653,
+      "name": "Vermisse",
+      "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -351,18 +351,18 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
-        "name": "COMEBACCC",
-        "url": "https://open.spotify.com/album/7GsKv3Qm0Q0TiaXwJbtxGP"
+        "name": "BANGBANGBANG",
+        "url": "https://open.spotify.com/album/0qH4jwehlxPZ1iujCmcBaX"
       },
       "artists": [
         {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
         }
       ],
-      "duration_ms": 234280,
-      "name": "COMEBACCC",
-      "url": "https://open.spotify.com/track/1n7Z2V4TgFMmNLejaDj9rm"
+      "duration_ms": 132186,
+      "name": "BANGBANGBANG",
+      "url": "https://open.spotify.com/track/2V8HuXQLm9RaHJdfGLYnym"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
-        "name": "BANGBANGBANG",
-        "url": "https://open.spotify.com/album/0qH4jwehlxPZ1iujCmcBaX"
+        "name": "COMEBACCC",
+        "url": "https://open.spotify.com/album/7GsKv3Qm0Q0TiaXwJbtxGP"
       },
       "artists": [
         {
-          "name": "CANEY030",
-          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
         }
       ],
-      "duration_ms": 132186,
-      "name": "BANGBANGBANG",
-      "url": "https://open.spotify.com/track/2V8HuXQLm9RaHJdfGLYnym"
+      "duration_ms": 234280,
+      "name": "COMEBACCC",
+      "url": "https://open.spotify.com/track/1n7Z2V4TgFMmNLejaDj9rm"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -431,42 +431,6 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
-        "name": "Mungu",
-        "url": "https://open.spotify.com/album/02PvRwFugzKFW86LVW5zgJ"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
-        }
-      ],
-      "duration_ms": 144080,
-      "name": "Mungu",
-      "url": "https://open.spotify.com/track/3tEQit2qjqSVcjeiXEm75A"
-    },
-    {
-      "added_at": "2026-08-03 12:10:49",
-      "album": {
-        "name": "Lounge Musik",
-        "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 118211,
-      "name": "Lounge City",
-      "url": "https://open.spotify.com/track/77edDDeo7gh25s1YUEenxX"
-    },
-    {
-      "added_at": "2026-08-03 12:10:49",
-      "album": {
         "name": "DRINNE",
         "url": "https://open.spotify.com/album/3qMw3v7ShGsbIuszgZKExI"
       },
@@ -487,6 +451,42 @@
       "duration_ms": 168000,
       "name": "DRINNE",
       "url": "https://open.spotify.com/track/1QZ1Rm9H5ytBhukQbZpaXx"
+    },
+    {
+      "added_at": "2026-08-03 12:10:49",
+      "album": {
+        "name": "Lounge Musik",
+        "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 118211,
+      "name": "Lounge City",
+      "url": "https://open.spotify.com/track/77edDDeo7gh25s1YUEenxX"
+    },
+    {
+      "added_at": "2026-08-03 12:10:49",
+      "album": {
+        "name": "Mungu",
+        "url": "https://open.spotify.com/album/02PvRwFugzKFW86LVW5zgJ"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "duration_ms": 144080,
+      "name": "Mungu",
+      "url": "https://open.spotify.com/track/3tEQit2qjqSVcjeiXEm75A"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
+        "name": "Glastisch",
+        "url": "https://open.spotify.com/album/1K1XiAVE0qOwZQBFaYQpcw"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "duration_ms": 171537,
+      "name": "Glastisch",
+      "url": "https://open.spotify.com/track/0h6Rex3lPLTAGotD2I6ZcS"
+    },
+    {
+      "added_at": "2026-08-03 12:10:49",
+      "album": {
         "name": "ONLY ONE",
         "url": "https://open.spotify.com/album/5zXhvrrQM6oKOSsdijTNf9"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 191062,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/46pK7XhpU1xGsuyy2lJXGx"
-    },
-    {
-      "added_at": "2026-08-03 12:10:49",
-      "album": {
-        "name": "Glastisch",
-        "url": "https://open.spotify.com/album/1K1XiAVE0qOwZQBFaYQpcw"
-      },
-      "artists": [
-        {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
-        }
-      ],
-      "duration_ms": 171537,
-      "name": "Glastisch",
-      "url": "https://open.spotify.com/track/0h6Rex3lPLTAGotD2I6ZcS"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
+        "name": "Gold & Eis",
+        "url": "https://open.spotify.com/album/2YkTzSnKZ7Ri6OqUopVUxa"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Gold & Eis",
+      "url": "https://open.spotify.com/track/6IBgJ6GAEYTGWo4rk2rg6N"
+    },
+    {
+      "added_at": "2026-08-03 12:10:49",
+      "album": {
         "name": "Sommernacht",
         "url": "https://open.spotify.com/album/4Oxf9aFjAzv40XBaeUyaxw"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
-        "name": "Gold & Eis",
-        "url": "https://open.spotify.com/album/2YkTzSnKZ7Ri6OqUopVUxa"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Gold & Eis",
-      "url": "https://open.spotify.com/track/6IBgJ6GAEYTGWo4rk2rg6N"
-    },
-    {
-      "added_at": "2026-08-03 12:10:49",
-      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/5C1Sd7q6rTVcgBTb8ObWEg"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 136800,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/4mGjBB9Kfn0Znah2TIlYNG"
-    },
-    {
-      "added_at": "2026-08-03 12:10:49",
-      "album": {
-        "name": "VILLAIN / EXCITING",
-        "url": "https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df"
-      },
-      "artists": [
-        {
-          "name": "marlon",
-          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "VILLAIN",
-      "url": "https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -883,6 +867,22 @@
       "duration_ms": 167153,
       "name": "BLN",
       "url": "https://open.spotify.com/track/1KoBWUdvepu0vL98o8mSTN"
+    },
+    {
+      "added_at": "2026-08-03 12:10:49",
+      "album": {
+        "name": "VILLAIN / EXCITING",
+        "url": "https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df"
+      },
+      "artists": [
+        {
+          "name": "marlon",
+          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "VILLAIN",
+      "url": "https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
-        "name": "4LAP",
-        "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 141934,
-      "name": "304",
-      "url": "https://open.spotify.com/track/2qxKLomkyezYTpbohE2atr"
-    },
-    {
-      "added_at": "2026-08-03 12:10:49",
-      "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 169004,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/6vHWANJBLPKJLxo3hc4JlA"
+    },
+    {
+      "added_at": "2026-08-03 12:10:49",
+      "album": {
+        "name": "4LAP",
+        "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 141934,
+      "name": "304",
+      "url": "https://open.spotify.com/track/2qxKLomkyezYTpbohE2atr"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
-        "name": "Aladin",
-        "url": "https://open.spotify.com/album/3q4PDQhnNKNrJa2Hwy4Z7F"
-      },
-      "artists": [
-        {
-          "name": "Ch\u00e9 Salah",
-          "url": "https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT"
-        },
-        {
-          "name": "Nimo",
-          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
-        }
-      ],
-      "duration_ms": 170655,
-      "name": "Aladin",
-      "url": "https://open.spotify.com/track/3OfWj0eUj76k3Hz9HKD6uA"
-    },
-    {
-      "added_at": "2026-08-03 12:10:49",
-      "album": {
         "name": "Highlight",
         "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
       },
@@ -1487,18 +1467,22 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
-        "name": "Flightmode",
-        "url": "https://open.spotify.com/album/5NRWsp4JhVijiEaT6c52j7"
+        "name": "Aladin",
+        "url": "https://open.spotify.com/album/3q4PDQhnNKNrJa2Hwy4Z7F"
       },
       "artists": [
         {
-          "name": "Lyno Nine8",
-          "url": "https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh"
+          "name": "Ch\u00e9 Salah",
+          "url": "https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
         }
       ],
-      "duration_ms": 130909,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6GwOZTqKF9IphoTTvKIgpD"
+      "duration_ms": 170655,
+      "name": "Aladin",
+      "url": "https://open.spotify.com/track/3OfWj0eUj76k3Hz9HKD6uA"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -1519,6 +1503,22 @@
       "duration_ms": 158000,
       "name": "ME GUSTA",
       "url": "https://open.spotify.com/track/4zxKZC3ekRDXocz4ccdVj5"
+    },
+    {
+      "added_at": "2026-08-03 12:10:49",
+      "album": {
+        "name": "Flightmode",
+        "url": "https://open.spotify.com/album/5NRWsp4JhVijiEaT6c52j7"
+      },
+      "artists": [
+        {
+          "name": "Lyno Nine8",
+          "url": "https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6GwOZTqKF9IphoTTvKIgpD"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj"
-      },
-      "artists": [
-        {
-          "name": "Farid Bang",
-          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
-        },
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "Show",
-      "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
-    },
-    {
-      "added_at": "2026-08-03 12:10:49",
-      "album": {
         "name": "Late Night",
         "url": "https://open.spotify.com/album/66LP7glcrs50BYphCws0Jv"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 169180,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/3wRejxNrmV3gumjMqzPGG3"
+    },
+    {
+      "added_at": "2026-08-03 12:10:49",
+      "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
+        "name": "REDE",
+        "url": "https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        },
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "duration_ms": 118986,
+      "name": "REDE",
+      "url": "https://open.spotify.com/track/3zR8rYW1CHE72cdGarr6t2"
+    },
+    {
+      "added_at": "2026-08-03 12:10:49",
+      "album": {
         "name": "Nasibi",
         "url": "https://open.spotify.com/album/6iEuRly5MXXah6gzgE78wN"
       },
@@ -1695,22 +1715,18 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
-        "name": "REDE",
-        "url": "https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU"
+        "name": "Day N Nite",
+        "url": "https://open.spotify.com/album/6dldeOwW0wqxeiRA7wBK8e"
       },
       "artists": [
         {
-          "name": "ZAH1DE",
-          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
-        },
-        {
-          "name": "benno!",
-          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
         }
       ],
-      "duration_ms": 118986,
-      "name": "REDE",
-      "url": "https://open.spotify.com/track/3zR8rYW1CHE72cdGarr6t2"
+      "duration_ms": 143578,
+      "name": "Day N Nite",
+      "url": "https://open.spotify.com/track/7tx8VNPnyTIX8nfehbbdha"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -1727,22 +1743,6 @@
       "duration_ms": 132850,
       "name": "BLOCKBABY",
       "url": "https://open.spotify.com/track/6U5tba39rJaXsFmknp2ONd"
-    },
-    {
-      "added_at": "2026-08-03 12:10:49",
-      "album": {
-        "name": "Day N Nite",
-        "url": "https://open.spotify.com/album/6dldeOwW0wqxeiRA7wBK8e"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        }
-      ],
-      "duration_ms": 143578,
-      "name": "Day N Nite",
-      "url": "https://open.spotify.com/track/7tx8VNPnyTIX8nfehbbdha"
     },
     {
       "added_at": "2026-08-03 12:10:49",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-08-03 12:10:49",
       "album": {
-        "name": "GETRENNTE SOMMERNACHT",
-        "url": "https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl"
-      },
-      "artists": [
-        {
-          "name": "OMAR",
-          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
-        }
-      ],
-      "duration_ms": 161642,
-      "name": "GETRENNTE SOMMERNACHT",
-      "url": "https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh"
-    },
-    {
-      "added_at": "2026-08-03 12:10:49",
-      "album": {
         "name": "Heavyweight",
         "url": "https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 95049,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM"
+    },
+    {
+      "added_at": "2026-08-03 12:10:49",
+      "album": {
+        "name": "GETRENNTE SOMMERNACHT",
+        "url": "https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl"
+      },
+      "artists": [
+        {
+          "name": "OMAR",
+          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+        }
+      ],
+      "duration_ms": 161642,
+      "name": "GETRENNTE SOMMERNACHT",
+      "url": "https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh"
     }
   ],
   "unique_name": "Shisha Club",

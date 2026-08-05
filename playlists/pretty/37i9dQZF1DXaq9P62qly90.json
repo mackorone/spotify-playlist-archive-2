@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 15938,
+  "num_followers": 15940,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "I Was Just Leaving",
-        "url": "https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        }
-      ],
-      "duration_ms": 178614,
-      "name": "I Was Just Leaving",
-      "url": "https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Sunday Vibe",
         "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 186760,
       "name": "Sunday Vibe",
       "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "I Was Just Leaving",
+        "url": "https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        }
+      ],
+      "duration_ms": 178614,
+      "name": "I Was Just Leaving",
+      "url": "https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "KALA",
-        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 331372,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/3eVI3IOrq5u8NPOKWSiFlP"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "You Ain't Going Nowhere",
         "url": "https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 145404,
       "name": "You Ain't Going Nowhere",
       "url": "https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "KALA",
+        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 331372,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/3eVI3IOrq5u8NPOKWSiFlP"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "The Story of You",
-        "url": "https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx"
-      },
-      "artists": [
-        {
-          "name": "Satsang",
-          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 262174,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "The Story of You",
+        "url": "https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx"
+      },
+      "artists": [
+        {
+          "name": "Satsang",
+          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8"
     },
     {
       "added_at": "2024-03-25 16:49:10",

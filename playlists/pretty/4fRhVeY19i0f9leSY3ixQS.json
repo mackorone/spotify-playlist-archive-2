@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1632,
+  "num_followers": 1644,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAASjvUEWQrwNwebjycyTt4uiijQfJqm",
+  "snapshot_id": "AAASmk0dOL80B9DC0Ty5vFiHQaD0uE+8",
   "tracks": [
     {
       "added_at": "2026-07-14 13:59:29",
@@ -607,7 +607,7 @@
     {
       "added_at": "2026-07-17 06:13:11",
       "album": {
-        "name": "Persuasion",
+        "name": "persuasion",
         "url": "https://open.spotify.com/album/4kTLUzjBGEp7YkZ5pc9BPG"
       },
       "artists": [
@@ -617,7 +617,7 @@
         }
       ],
       "duration_ms": 192517,
-      "name": "Persuasion",
+      "name": "persuasion",
       "url": "https://open.spotify.com/track/7CHGWOTCeSBwmOVrUCJxgd"
     },
     {
@@ -5004,7 +5004,7 @@
           "url": "https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj"
         }
       ],
-      "duration_ms": 183760,
+      "duration_ms": 182117,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/3T58BJnFyvohsJ812qL2lw"
     },
@@ -5151,6 +5151,202 @@
       "duration_ms": 240000,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/2pIvsXURw64kbuAyUmQCHs"
+    },
+    {
+      "added_at": "2026-08-04 11:55:24",
+      "album": {
+        "name": "Despu\u00e9s de la Luz (Remastered)",
+        "url": "https://open.spotify.com/album/2nIkGEVas0sImcN9zdY9n0"
+      },
+      "artists": [
+        {
+          "name": "Peak Level",
+          "url": "https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss"
+        }
+      ],
+      "duration_ms": 509142,
+      "name": "The Last Mile (Remastered)",
+      "url": "https://open.spotify.com/track/35LRXLxymf8XWNmbaTU2JE"
+    },
+    {
+      "added_at": "2026-08-04 11:57:19",
+      "album": {
+        "name": "Saturday Song For Sunday",
+        "url": "https://open.spotify.com/album/2DZ2ODLdvjpmDTuAz5WZQU"
+      },
+      "artists": [
+        {
+          "name": "X-Rated 1994",
+          "url": "https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0"
+        }
+      ],
+      "duration_ms": 204896,
+      "name": "Saturday Song For Sunday",
+      "url": "https://open.spotify.com/track/32gEVbIyWbLOb8pjJND4fr"
+    },
+    {
+      "added_at": "2026-08-04 11:57:44",
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "duration_ms": 188083,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5"
+    },
+    {
+      "added_at": "2026-08-04 11:58:45",
+      "album": {
+        "name": "Ceiling Fan",
+        "url": "https://open.spotify.com/album/1dRizi069vsOrdg40IVQ35"
+      },
+      "artists": [
+        {
+          "name": "The Greaves",
+          "url": "https://open.spotify.com/artist/1LbPmFpsLPcwQ1RcOzPBkJ"
+        }
+      ],
+      "duration_ms": 243810,
+      "name": "Ceiling Fan",
+      "url": "https://open.spotify.com/track/0ysvp22dPCPUyNC8e573NK"
+    },
+    {
+      "added_at": "2026-08-04 11:58:59",
+      "album": {
+        "name": "Time Makes This Time",
+        "url": "https://open.spotify.com/album/6fr4mXhXoKMG6EtHROVWMK"
+      },
+      "artists": [
+        {
+          "name": "Aleh Adler",
+          "url": "https://open.spotify.com/artist/72DDskr88TncEyULAdgSkK"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Time Makes This Time",
+      "url": "https://open.spotify.com/track/4eIIyW0QzC2jlTFyOTE4c7"
+    },
+    {
+      "added_at": "2026-08-04 13:10:30",
+      "album": {
+        "name": "Bittersweet Coming Of Age",
+        "url": "https://open.spotify.com/album/2ExvwN1euXuTvZaUH2I7gB"
+      },
+      "artists": [
+        {
+          "name": "Ten Eighty Trees",
+          "url": "https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD"
+        }
+      ],
+      "duration_ms": 194486,
+      "name": "Bittersweet Coming Of Age",
+      "url": "https://open.spotify.com/track/2Sp4dEhMiE81nqNMUhCmA2"
+    },
+    {
+      "added_at": "2026-08-04 13:10:55",
+      "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/4xh6tIrwnMUuOCCyvceBcP"
+      },
+      "artists": [
+        {
+          "name": "The Ratskins",
+          "url": "https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V"
+        }
+      ],
+      "duration_ms": 125998,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/7dNNncnaQ8cr5ECcujXd3H"
+    },
+    {
+      "added_at": "2026-08-04 13:11:15",
+      "album": {
+        "name": "Stand Up & Be Counted",
+        "url": "https://open.spotify.com/album/1Yq6WXlcFcTgksdh0UP9Ig"
+      },
+      "artists": [
+        {
+          "name": "Elysium",
+          "url": "https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "Stand Up & Be Counted",
+      "url": "https://open.spotify.com/track/1PQ0PlBi5kLbr5KwWgSQTL"
+    },
+    {
+      "added_at": "2026-08-04 13:12:38",
+      "album": {
+        "name": "PISS! PEAS! PEACE!",
+        "url": "https://open.spotify.com/album/1JQEawqqWequOQOz2i72HZ"
+      },
+      "artists": [
+        {
+          "name": "Lovvb\u00f6mbing!",
+          "url": "https://open.spotify.com/artist/2fCM484FPEFRbjqqpU1sjt"
+        }
+      ],
+      "duration_ms": 290048,
+      "name": "James Pond",
+      "url": "https://open.spotify.com/track/0bjJlbqMg6vZAsL0B3O6Sl"
+    },
+    {
+      "added_at": "2026-08-04 13:14:52",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2ehRby9OP2wbq0uN7QYX4w"
+      },
+      "artists": [
+        {
+          "name": "SEY.MOUR.",
+          "url": "https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE"
+        },
+        {
+          "name": "The Misses",
+          "url": "https://open.spotify.com/artist/0RyOXijFeQAqqfNms0RoA8"
+        }
+      ],
+      "duration_ms": 142195,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2pAephI8rAz9wXCjEmIKtm"
+    },
+    {
+      "added_at": "2026-08-04 13:48:47",
+      "album": {
+        "name": "EL DIABLO",
+        "url": "https://open.spotify.com/album/446hwj8FbwM0R6XECjBbed"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/5yvFvBNNtlQLLiV6QZOreL"
+        }
+      ],
+      "duration_ms": 168949,
+      "name": "Berezin",
+      "url": "https://open.spotify.com/track/10SrNbg6O4aIFaim1YkjpP"
+    },
+    {
+      "added_at": "2026-08-04 13:50:29",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/7sqy34kAW0gLFJwdLSMMnA"
+      },
+      "artists": [
+        {
+          "name": "Em Armstrong",
+          "url": "https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh"
+        }
+      ],
+      "duration_ms": 168767,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9"
     }
   ],
   "unique_name": "Spotify Radio",

@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-233 songs - 11 hr 7 min
+234 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Hyuranots Meditation](https://open.spotify.com/track/4HmhUuCMVmfO3HHYgMHQ1h) | [Posonium](https://open.spotify.com/artist/7l4B7Abe0HI1MYCCEyDVFW) | [Hyuranots Meditation](https://open.spotify.com/album/2GtDPNumQnJt5cz36m2w8t) | 3:53 | 2026-06-12 |  |
 | [Ijevan](https://open.spotify.com/track/4PEUq8eJu7ApR2xRiZqLeU) | [Flowing Light](https://open.spotify.com/artist/3cQywPCPFCA8A8CFfZ1d3H) | [Ijevan](https://open.spotify.com/album/36gScMCmvklqRa2xyPlLzi) | 3:41 | 2026-02-27 |  |
 | [In Balance By The Shore](https://open.spotify.com/track/617Vt95JDL9ZyBiiALl2e1) | [Leo Lindholm](https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h) | [In Balance By The Shore](https://open.spotify.com/album/4fpMCLNlFUE9slr3RDc1PO) | 2:53 | 2025-06-23 |  |
+| [Index 03](https://open.spotify.com/track/37e1CG9mdVYIPBgbNuM3d7) | [Aunne](https://open.spotify.com/artist/3jfNU0jKzzDazZOxMU8wXc) | [Index 03](https://open.spotify.com/album/02sMfGunFk0I3ygF59cuz4) | 2:29 | 2026-06-12 |  |
 | [Indigo Glow](https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S) | [Xoj Litran](https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ) | [Indigo Glow](https://open.spotify.com/album/2dcJP15Nrxd66yV6aEVJi9) | 2:32 | 2023-10-26 | 2025-01-16 |
 | [Infinite Homelands](https://open.spotify.com/track/3pRow3lwTX36GWRDKGo5Fg) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [Infinite Homelands](https://open.spotify.com/album/3HWr3rTCjDrxMshUaOgZWw) | 3:35 | 2026-02-27 | 2026-06-13 |
 | [Inner Stream](https://open.spotify.com/track/1zIevefvM7u2XZzEbHkSKA) | [I thought about time](https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8) | [Inner Stream](https://open.spotify.com/album/6WlNdLtXenVk8jrphSEL50) | 2:21 | 2026-02-27 |  |
@@ -225,7 +226,7 @@
 | [Träumend \(Sound Bath\)](https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo) | [Kaspar Hahn](https://open.spotify.com/artist/3P4ASeb4sRWkWtOSDa36GX) | [Träumend \(Sound Bath\)](https://open.spotify.com/album/7tDKtuP1BNoPQdwSDWWNKS) | 2:17 | 2023-11-24 | 2025-04-14 |
 | [Vakandi \(Sound Bath\)](https://open.spotify.com/track/1cipDwJ3Ck65zMWqpaC1Zn) | [Toninn](https://open.spotify.com/artist/5K7zhN8cue1f54j0vVFsZR) | [Vakandi \(Sound Bath\)](https://open.spotify.com/album/0PppRLpAnKS1i8o9Ie8GzV) | 2:30 | 2023-10-23 | 2025-12-22 |
 | [Ventoria](https://open.spotify.com/track/1pHMechTWV7HkPb1Qc5KxH) | [Deep Enormo](https://open.spotify.com/artist/5WPDgFz2Kcisbx0Esczaf5) | [Ventoria](https://open.spotify.com/album/7IF0BTagV3BKYmUX3TRx4W) | 2:40 | 2025-12-17 |  |
-| [Venus Beach](https://open.spotify.com/track/5YjawZBUOTnv8TZHC3ybTj) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Venus](https://open.spotify.com/album/7293b3ELIM6qa5akPQZQgQ) | 2:43 | 2023-11-24 |  |
+| [Venus Beach](https://open.spotify.com/track/5YjawZBUOTnv8TZHC3ybTj) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Venus](https://open.spotify.com/album/7293b3ELIM6qa5akPQZQgQ) | 2:43 | 2023-11-24 | 2026-08-05 |
 | [Walk Along The Ocean](https://open.spotify.com/track/5ABusCPxzgAShqK5wkInOo) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Walk Along The Ocean](https://open.spotify.com/album/28ODbPuwRuIQr5RZOL3GFp) | 2:52 | 2023-10-23 |  |
 | [Warm Sandy Beaches](https://open.spotify.com/track/0KhOTvGKDNSP2fNmzbpNJX) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Warm Sandy Beaches](https://open.spotify.com/album/5a6OSIShhRhtxoWGULsFBU) | 3:02 | 2023-10-26 |  |
 | [Warm Wind](https://open.spotify.com/track/2vVWDG7IxZPmInVMbEr9Su) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Warm Wind](https://open.spotify.com/album/5Rx7auDEDHNCEGVdNB5Hi4) | 2:58 | 2025-02-18 |  |

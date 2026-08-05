@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1052010,
+  "num_followers": 1051800,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Yours Truly (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt"
-      },
-      "artists": [
-        {
-          "name": "Sublime With Rome",
-          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Take It or Leave It",
-      "url": "https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "There I Go",
         "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 202172,
       "name": "There I Go",
       "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Yours Truly (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt"
+      },
+      "artists": [
+        {
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Take It or Leave It",
+      "url": "https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Back In Time",
-        "url": "https://open.spotify.com/album/7j7veXNQ1S2osH702kj9G9"
-      },
-      "artists": [
-        {
-          "name": "Rebelution",
-          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
-        }
-      ],
-      "duration_ms": 226975,
-      "name": "Back In Time",
-      "url": "https://open.spotify.com/track/24jFWFLmoThMx6qjOhE8Ua"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Set Yourself Free",
         "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 169911,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/5Yfvo0NueXP0DiveWmH3Za"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Back In Time",
+        "url": "https://open.spotify.com/album/7j7veXNQ1S2osH702kj9G9"
+      },
+      "artists": [
+        {
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+        }
+      ],
+      "duration_ms": 226975,
+      "name": "Back In Time",
+      "url": "https://open.spotify.com/track/24jFWFLmoThMx6qjOhE8Ua"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -863,18 +863,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/4kUcJe4ZMdK6zz4zovWHTB"
+        "name": "Sunday Vibe",
+        "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
       },
       "artists": [
         {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
         }
       ],
-      "duration_ms": 211061,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/7IlH1aO95KHenk0e8kZ6Vc"
+      "duration_ms": 186760,
+      "name": "Sunday Vibe",
+      "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -915,22 +919,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Sunday Vibe",
-        "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/4kUcJe4ZMdK6zz4zovWHTB"
       },
       "artists": [
         {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
         }
       ],
-      "duration_ms": 186760,
-      "name": "Sunday Vibe",
-      "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
+      "duration_ms": 211061,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/7IlH1aO95KHenk0e8kZ6Vc"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1003,30 +1003,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Sun Come",
-        "url": "https://open.spotify.com/album/6mFn5fKcLOH3vHhmkgBj6u"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1"
       },
       "artists": [
         {
-          "name": "DENM",
-          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
-        },
-        {
-          "name": "Landon McNamara",
-          "url": "https://open.spotify.com/artist/4Ph46wgsWTC0UEANb4mjaF"
-        },
-        {
-          "name": "Jesse James Pariah",
-          "url": "https://open.spotify.com/artist/6xbSxBrmjoxo4GrhC3vbVk"
-        },
-        {
-          "name": "Benny Ranks",
-          "url": "https://open.spotify.com/artist/0OYwqyQkRTCbGcg2SZN82W"
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
         }
       ],
-      "duration_ms": 210909,
-      "name": "Sun Come",
-      "url": "https://open.spotify.com/track/5LaUxca9oRFy0xPgxsxpeE"
+      "duration_ms": 138466,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1067,18 +1055,30 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1"
+        "name": "Sun Come",
+        "url": "https://open.spotify.com/album/6mFn5fKcLOH3vHhmkgBj6u"
       },
       "artists": [
         {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+          "name": "DENM",
+          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
+        },
+        {
+          "name": "Landon McNamara",
+          "url": "https://open.spotify.com/artist/4Ph46wgsWTC0UEANb4mjaF"
+        },
+        {
+          "name": "Jesse James Pariah",
+          "url": "https://open.spotify.com/artist/6xbSxBrmjoxo4GrhC3vbVk"
+        },
+        {
+          "name": "Benny Ranks",
+          "url": "https://open.spotify.com/artist/0OYwqyQkRTCbGcg2SZN82W"
         }
       ],
-      "duration_ms": 138466,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw"
+      "duration_ms": 210909,
+      "name": "Sun Come",
+      "url": "https://open.spotify.com/track/5LaUxca9oRFy0xPgxsxpeE"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 176399,
-      "name": "Moon Palace",
-      "url": "https://open.spotify.com/track/6kYKKpUZYlbDveoRsB1jTD"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Brighter Day",
         "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
       },
@@ -1171,22 +1155,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "All The Colors",
-        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
       },
       "artists": [
         {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 189094,
-      "name": "Free Your Mind (with Surfer Girl)",
-      "url": "https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c"
+      "duration_ms": 176399,
+      "name": "Moon Palace",
+      "url": "https://open.spotify.com/track/6kYKKpUZYlbDveoRsB1jTD"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1219,6 +1199,26 @@
       "duration_ms": 254906,
       "name": "Sounds of Summer (with Slightly Stoopid & J Boog) - Remix",
       "url": "https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "All The Colors",
+        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 189094,
+      "name": "Free Your Mind (with Surfer Girl)",
+      "url": "https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "30 Million",
+        "url": "https://open.spotify.com/album/6OEA1W5LBibGaEUjDUUayP"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 218988,
+      "name": "30 Million",
+      "url": "https://open.spotify.com/track/2wQIm4WBXSSERoV1vANaLa"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Tell Me I'm Ok (feat. Jared Watson of Dirty Heads)",
         "url": "https://open.spotify.com/album/592WXDHttlFbqJIpYUbDiK"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 164000,
       "name": "Tell Me I'm Ok (feat. Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/5FnqGGSJz7wccw4dywNfZI"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "30 Million",
-        "url": "https://open.spotify.com/album/6OEA1W5LBibGaEUjDUUayP"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 218988,
-      "name": "30 Million",
-      "url": "https://open.spotify.com/track/2wQIm4WBXSSERoV1vANaLa"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "Good Times (Roll On)",
+        "url": "https://open.spotify.com/album/3LtJPCK7WNy3e4c6pI4gQk"
+      },
+      "artists": [
+        {
+          "name": "Fortunate Youth",
+          "url": "https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB"
+        }
+      ],
+      "duration_ms": 225371,
+      "name": "Good Times (Roll On)",
+      "url": "https://open.spotify.com/track/0ghN5Z1pNRnSHkMwSzgpck"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Setting Out for the Sun",
         "url": "https://open.spotify.com/album/28BjvlMeCTBtGJbkwZNfCm"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 270228,
       "name": "Setting Out for the Sun",
       "url": "https://open.spotify.com/track/40LcGCfPY6eYPL3dJ7lll1"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Good Times (Roll On)",
-        "url": "https://open.spotify.com/album/3LtJPCK7WNy3e4c6pI4gQk"
-      },
-      "artists": [
-        {
-          "name": "Fortunate Youth",
-          "url": "https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB"
-        }
-      ],
-      "duration_ms": 225371,
-      "name": "Good Times (Roll On)",
-      "url": "https://open.spotify.com/track/0ghN5Z1pNRnSHkMwSzgpck"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2283,22 +2283,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Single for the Summer (with Bryce Vine)",
-        "url": "https://open.spotify.com/album/335Htm2TTZzCmRT1kNz2gr"
+        "name": "More Than Love",
+        "url": "https://open.spotify.com/album/7nNNLTwL1f8V2abRrHMZi0"
       },
       "artists": [
         {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
-        },
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
         }
       ],
-      "duration_ms": 159490,
-      "name": "Single for the Summer (with Bryce Vine)",
-      "url": "https://open.spotify.com/track/2sphXfRDZstuYuQF7eZuYC"
+      "duration_ms": 260390,
+      "name": "More Than Love",
+      "url": "https://open.spotify.com/track/1QgFffVgIDUn10DNnswi3G"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2327,18 +2323,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "More Than Love",
-        "url": "https://open.spotify.com/album/7nNNLTwL1f8V2abRrHMZi0"
+        "name": "Single for the Summer (with Bryce Vine)",
+        "url": "https://open.spotify.com/album/335Htm2TTZzCmRT1kNz2gr"
       },
       "artists": [
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
         }
       ],
-      "duration_ms": 260390,
-      "name": "More Than Love",
-      "url": "https://open.spotify.com/track/1QgFffVgIDUn10DNnswi3G"
+      "duration_ms": 159490,
+      "name": "Single for the Summer (with Bryce Vine)",
+      "url": "https://open.spotify.com/track/2sphXfRDZstuYuQF7eZuYC"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Welcome to Florida",
-        "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
-      },
-      "artists": [
-        {
-          "name": "Artikal Sound System",
-          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
-        }
-      ],
-      "duration_ms": 170608,
-      "name": "Stayed",
-      "url": "https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Shwaycation",
         "url": "https://open.spotify.com/album/6UJlSwpYKNIOWwRWIHZopF"
       },
@@ -2527,18 +2511,34 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "I OWE THE IRS 60K DOLLARS (DEMOS)",
-        "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
+        "name": "Welcome to Florida",
+        "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
       },
       "artists": [
         {
-          "name": "The Holdup",
-          "url": "https://open.spotify.com/artist/1gwTohHbTpE3qdPyDvnOEu"
+          "name": "Artikal Sound System",
+          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
         }
       ],
-      "duration_ms": 217177,
-      "name": "COMING WITH GUNS",
-      "url": "https://open.spotify.com/track/0oRqwcPxxu59pX5mZZe3Lz"
+      "duration_ms": 170608,
+      "name": "Stayed",
+      "url": "https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Yellow Jacket",
+        "url": "https://open.spotify.com/album/2E3VwzxiXny51DOCEa7X0v"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Yellow Jacket",
+      "url": "https://open.spotify.com/track/04zkg6ydYJYdjAm7Dt3Et9"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2563,18 +2563,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Yellow Jacket",
-        "url": "https://open.spotify.com/album/2E3VwzxiXny51DOCEa7X0v"
+        "name": "I OWE THE IRS 60K DOLLARS (DEMOS)",
+        "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
       },
       "artists": [
         {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+          "name": "The Holdup",
+          "url": "https://open.spotify.com/artist/1gwTohHbTpE3qdPyDvnOEu"
         }
       ],
-      "duration_ms": 208440,
-      "name": "Yellow Jacket",
-      "url": "https://open.spotify.com/track/04zkg6ydYJYdjAm7Dt3Et9"
+      "duration_ms": 217177,
+      "name": "COMING WITH GUNS",
+      "url": "https://open.spotify.com/track/0oRqwcPxxu59pX5mZZe3Lz"
     },
     {
       "added_at": "2026-07-17 15:52:29",

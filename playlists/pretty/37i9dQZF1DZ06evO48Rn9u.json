@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 156562,
+  "num_followers": 156573,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAAC6rNguTsuVJMsgv0NXU4xy",
+  "snapshot_id": "am/aAAAAAAD4l54cm4BNxQWTb0W1aTbb",
   "tracks": [
     {
       "added_at": null,
@@ -190,11 +190,15 @@
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Middle of Nowhere",
-      "url": "https://open.spotify.com/track/3kABshsEtLKsJpi8Oh0Wr4"
+      "duration_ms": 213382,
+      "name": "Uncertain, TX (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/5TiQigVz1QEdGp7blCbYLQ"
     },
     {
       "added_at": null,
@@ -258,15 +262,11 @@
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 213382,
-      "name": "Uncertain, TX (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/5TiQigVz1QEdGp7blCbYLQ"
+      "duration_ms": 156973,
+      "name": "Middle of Nowhere",
+      "url": "https://open.spotify.com/track/3kABshsEtLKsJpi8Oh0Wr4"
     },
     {
       "added_at": null,

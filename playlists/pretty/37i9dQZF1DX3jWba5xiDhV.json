@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 419775,
+  "num_followers": 419968,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,50 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
+        "name": "Volpe",
+        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
+      },
+      "artists": [
+        {
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+        },
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "duration_ms": 467869,
+      "name": "Volpi Polari",
+      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
+        "name": "Baciami",
+        "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo_BITW",
+          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
+        },
+        {
+          "name": "Produkkt",
+          "url": "https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b"
+        },
+        {
+          "name": "Giorgi",
+          "url": "https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN"
+        }
+      ],
+      "duration_ms": 176063,
+      "name": "Baciami",
+      "url": "https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
         "name": "Croccante",
         "url": "https://open.spotify.com/album/0K95zImK465Wa8M0AZLcPJ"
       },
@@ -1231,26 +1275,6 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Volpe",
-        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
-      },
-      "artists": [
-        {
-          "name": "Skateb\u00e5rd",
-          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
-        },
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        }
-      ],
-      "duration_ms": 467869,
-      "name": "Volpi Polari",
-      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
         "name": "Kapote presents Italomania Vol. 3",
         "url": "https://open.spotify.com/album/5ZD6dHZ3XudQGMhFDrKFrY"
       },
@@ -1263,30 +1287,6 @@
       "duration_ms": 234000,
       "name": "La Notte Infinita",
       "url": "https://open.spotify.com/track/6JZEpNCioYdAeWOyAgni3d"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "Baciami",
-        "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo_BITW",
-          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
-        },
-        {
-          "name": "Produkkt",
-          "url": "https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b"
-        },
-        {
-          "name": "Giorgi",
-          "url": "https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN"
-        }
-      ],
-      "duration_ms": 176063,
-      "name": "Baciami",
-      "url": "https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs"
     },
     {
       "added_at": "2026-07-30 22:02:37",

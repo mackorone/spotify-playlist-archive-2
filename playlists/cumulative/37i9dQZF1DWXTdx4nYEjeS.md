@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,054 songs - 2 day 16 hr 1 min
+1,055 songs - 2 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [GUARACHA](https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [GUARACHA](https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy) | 2:37 | 2022-03-24 | 2022-04-20 |
 | [Habits \(Stay High\)](https://open.spotify.com/track/4VQHuBY2hLAxkMyHbyXAWt) | [Darnell Smith](https://open.spotify.com/artist/7gkveLkFiXBA2Pqp4NEWkv) | [Habits \(Stay High\)](https://open.spotify.com/album/4rVe6pzPmrZEiyZe1XG5ti) | 3:11 | 2022-04-13 | 2022-04-20 |
 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 | 2022-04-01 |  |
+| [HABLAR DE TI \(...\)](https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [HABLAR DE TI \(...\)](https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub) | 3:38 | 2026-08-03 |  |
 | [Hacer un puente](https://open.spotify.com/track/18Q3WTfyWX1tdS1cp42NhA) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Hacer Un Puente](https://open.spotify.com/album/06HEYHOCM5fZXKhp3ox9ld) | 4:42 | 2021-12-24 |  |
 | [Hang with Me](https://open.spotify.com/track/5wMeDEn5Jt84L94MZQDBWg) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Hang With Me](https://open.spotify.com/album/3mhn3exUlPK5cIrS6szdCQ) | 3:07 | 2022-03-24 | 2022-04-05 |
 | [Happy Now \- Acoustic](https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Happy Now \(Acoustic Version\)](https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm) | 3:33 | 2022-04-01 | 2022-04-16 |
@@ -863,7 +864,7 @@
 | [Si No Es Muy Tarde \- En Vivo](https://open.spotify.com/track/3jCYY3kbVgAKPZuylGkYZD) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Si No Es Muy Tarde \(En Vivo Luna Park / 2016\)](https://open.spotify.com/album/4wEk2JY7CJ6KxrKV5jhYYZ) | 4:06 | 2022-03-24 | 2022-04-14 |
 | [Si No Estás para Mi](https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 3:26 | 2022-04-01 | 2022-04-21 |
 | [Si Se Trata de Ella](https://open.spotify.com/track/4LccsIadxqxJoBQ9X6LNBY) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Si Se Trata de Ella](https://open.spotify.com/album/6VNjDi6Fu1GRSbd47QS1qU) | 2:57 | 2025-02-14 | 2025-07-19 |
-| [Si Supieras \- En Vivo en el Luna Park](https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:58 | 2022-04-01 |  |
+| [Si Supieras \- En Vivo en el Luna Park](https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:58 | 2022-04-01 | 2026-08-05 |
 | [Si Te Atreves \- Canción Original De La Película "Los Japón"](https://open.spotify.com/track/1VYdx50j4dHw3fca2EpNNx) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Si Te Atreves \(Canción Original De La Película "Los Japón"\)](https://open.spotify.com/album/7KaeMY7vw3MU7qBIVuAM1K) | 2:44 | 2022-03-24 | 2022-03-28 |
 | [Siempre Caigo Lento](https://open.spotify.com/track/66BltpMnEX76xirh6HuDJY) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Siempre Caigo Lento](https://open.spotify.com/album/4jXLUcVBPnQXtaT9fOiedG) | 5:02 | 2022-04-01 | 2022-04-19 |
 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 | 2022-03-28 |  |

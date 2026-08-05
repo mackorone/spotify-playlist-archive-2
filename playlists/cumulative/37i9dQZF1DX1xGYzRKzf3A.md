@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-479 songs - 1 day 3 hr 52 min
+480 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Mary Lee](https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:10 | 2023-06-16 |  |
 | [Marybel \- Remix](https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg) | [Dj Aza](https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Gaelo](https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm) | [Marybel \(Remix\)](https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU) | 3:38 | 2025-11-09 | 2026-06-09 |
 | [Materia Gris](https://open.spotify.com/track/6dUdzcJRYT2uvPZxKptycR) | [El Riqué](https://open.spotify.com/artist/5LxT7DrG2qyNr8YYC3RMEG) | [Scratch De Versos](https://open.spotify.com/album/7sRbfBmwb0jFdmyUJEJh28) | 3:00 | 2025-11-09 | 2026-06-09 |
-| [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 | 2025-06-17 |  |
+| [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 | 2025-06-17 | 2026-08-05 |
 | [Me Gustas](https://open.spotify.com/track/0JfsIu62NVXNQl2s7ATN37) | [Young Tender](https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx) | [Rotos](https://open.spotify.com/album/1jRStAl5pbm9EpHLQsNnKz) | 3:22 | 2025-11-09 | 2026-06-09 |
 | [Me Llega Me Llega](https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:33 | 2024-07-15 | 2025-06-18 |
 | [Mi Bebesita](https://open.spotify.com/track/0MLrtHu0ymaxaV6NEappv8) | [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [De La Calle Pa Tu Cora](https://open.spotify.com/album/3UXH6Yk3zm7s87fXASKvnV) | 3:09 | 2025-11-09 | 2026-06-09 |
@@ -432,6 +432,7 @@
 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 | 2023-06-16 |  |
 | [Te Ame](https://open.spotify.com/track/3srbe35RDBvPvAR7HjOm24) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [30 Mejores](https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M) | 4:32 | 2023-06-16 | 2024-07-03 |
 | [Te Amo](https://open.spotify.com/track/5N6l5fBKD1XcbayM3Q8K3c) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Bordada a Mano](https://open.spotify.com/album/1dyd7hJkMWDJnU10UGKphB) | 2:55 | 2025-06-17 |  |
+| [Te Aprovechas](https://open.spotify.com/track/6I2Dm0ugr3FjypPGtWpjgR) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [20 Kilates 20 Éxitos](https://open.spotify.com/album/3slelG6vLz4PIyjlO4Q8su) | 3:06 | 2026-06-08 |  |
 | [Te Están Matando los Años](https://open.spotify.com/track/3o6WfL7wMC52XvoJI6fGLE) | [Lucho Cuadros](https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK), [Eliecer Ochoa](https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP) | [Vuelven los Clásicos de Balneario \(Vol\. 4\)](https://open.spotify.com/album/6EkZ3nDkAXow1mwEzBwPof) | 3:34 | 2023-11-08 | 2025-06-18 |
 | [Te He Prometido](https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:12 | 2025-06-17 | 2026-07-09 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/29abLTf6kqg1j1HMUBzJ0o) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/4qbIKGbmkRRu5MEdIGKM56) | 3:13 | 2025-11-09 | 2026-06-09 |

@@ -1,13 +1,37 @@
 {
-  "description": "Finest collection of Tamil Music from the past 10 years\nCover : Dude",
-  "num_followers": 713642,
+  "description": "Finest collection of Tamil Music from the past 10 years\nCover : Karuppu",
+  "num_followers": 713744,
   "original_name": "Kollywood Cream",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA/q2Iy771mn6BOwEQKXWcMQIe5K",
+  "snapshot_id": "AAAAAM76zjdjNrDN6uIhzDqVZd4n3UHl",
   "tracks": [
+    {
+      "added_at": "2026-08-04 08:31:01",
+      "album": {
+        "name": "Karuppu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Gana Muthu",
+          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "duration_ms": 240264,
+      "name": "God Mode",
+      "url": "https://open.spotify.com/track/5IA1BVN8OKwpCxkgeOR8YM"
+    },
     {
       "added_at": "2026-01-06 17:54:07",
       "album": {
@@ -37,26 +61,6 @@
       "url": "https://open.spotify.com/track/4pCXTYAPgdzMTCsDdDwjy3"
     },
     {
-      "added_at": "2026-05-15 07:37:15",
-      "album": {
-        "name": "Raavana Mavandaa (From \"Jana Nayagan\")",
-        "url": "https://open.spotify.com/album/6rkRdUGexViTQYuk2XkqhC"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 107036,
-      "name": "Raavana Mavandaa (From \"Jana Nayagan\")",
-      "url": "https://open.spotify.com/track/7MP6jngkoEGUXKdpVeTXAT"
-    },
-    {
       "added_at": "2026-04-06 06:05:45",
       "album": {
         "name": "Aura 10/10 (From \"Meesaya Murukku 2\")",
@@ -77,10 +81,10 @@
       "url": "https://open.spotify.com/track/0xYYUicaDPp0VPyL0z7xzB"
     },
     {
-      "added_at": "2025-11-19 09:18:18",
+      "added_at": "2026-08-04 08:31:01",
       "album": {
-        "name": "Thalapathy Kacheri (From \"Jana Nayagan\")",
-        "url": "https://open.spotify.com/album/0TthxobhZuRUVweIhTUwuc"
+        "name": "Jana Nayagan",
+        "url": "https://open.spotify.com/album/3cCMiFqRYcra7j50I1uVso"
       },
       "artists": [
         {
@@ -97,8 +101,8 @@
         }
       ],
       "duration_ms": 197104,
-      "name": "Thalapathy Kacheri (From \"Jana Nayagan\")",
-      "url": "https://open.spotify.com/track/28keFvZn4UVRi4I8Rj4GjY"
+      "name": "Thalapathy Kacheri",
+      "url": "https://open.spotify.com/track/2aOioO7gjZGXLy4bmkkVat"
     },
     {
       "added_at": "2026-02-18 16:02:38",
@@ -149,6 +153,26 @@
       "url": "https://open.spotify.com/track/3GNlsHDf3OH7V3LgccGAFc"
     },
     {
+      "added_at": "2026-08-04 08:31:01",
+      "album": {
+        "name": "Jana Nayagan",
+        "url": "https://open.spotify.com/album/3cCMiFqRYcra7j50I1uVso"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 107036,
+      "name": "Raavana Mavandaa",
+      "url": "https://open.spotify.com/track/0uwCHmQINLQI1cuGvHKCt3"
+    },
+    {
       "added_at": "2026-01-06 17:54:07",
       "album": {
         "name": "Dude (Original Motion Picture Soundtrack)",
@@ -175,6 +199,30 @@
       "duration_ms": 208000,
       "name": "Singari",
       "url": "https://open.spotify.com/track/0pxE2MKJnBMR9c0giy7v5J"
+    },
+    {
+      "added_at": "2026-08-04 08:31:01",
+      "album": {
+        "name": "Karuppu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "Pa. Vijay",
+          "url": "https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Karuppa Kooda Va",
+      "url": "https://open.spotify.com/track/0otC5nlgJZ27Q38AA8z6zj"
     },
     {
       "added_at": "2025-08-28 09:58:07",
@@ -229,6 +277,26 @@
       "url": "https://open.spotify.com/track/4VYd5d5nr3vDMhpx76SkFf"
     },
     {
+      "added_at": "2026-08-04 08:31:01",
+      "album": {
+        "name": "Love Insurance Kompany (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/05M6vAqjgC8YC7RV29AKqE"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Dheema",
+      "url": "https://open.spotify.com/track/7tbCtSE51CsYyTmAEfnxFm"
+    },
+    {
       "added_at": "2026-02-18 16:02:38",
       "album": {
         "name": "Bison Kaalamaadan (Original Motion Picture Soundtrack)",
@@ -247,6 +315,30 @@
       "duration_ms": 364651,
       "name": "Theekkoluthi",
       "url": "https://open.spotify.com/track/4HAJQk7bvl5wuKnUI9QXXg"
+    },
+    {
+      "added_at": "2026-08-04 08:31:01",
+      "album": {
+        "name": "Jana Nayagan",
+        "url": "https://open.spotify.com/album/3cCMiFqRYcra7j50I1uVso"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 235107,
+      "name": "Oru Pere Varalaaru",
+      "url": "https://open.spotify.com/track/22hxaCwPIoNU6AGJtV5Q7X"
     },
     {
       "added_at": "2025-03-27 11:24:53",
@@ -277,6 +369,30 @@
       "url": "https://open.spotify.com/track/7dIovld3QsNhYseLcwMJHj"
     },
     {
+      "added_at": "2026-08-04 08:31:01",
+      "album": {
+        "name": "Karuppu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Arun Srinivasan",
+          "url": "https://open.spotify.com/artist/6zk7r7UylV6GHjWmhCDw9K"
+        }
+      ],
+      "duration_ms": 260660,
+      "name": "Verappa - Extended",
+      "url": "https://open.spotify.com/track/3FDZKPorPuhOZYw9WileCl"
+    },
+    {
       "added_at": "2025-08-28 09:58:07",
       "album": {
         "name": "Coolie (Original Motion Picture Soundtrack)",
@@ -295,6 +411,30 @@
       "duration_ms": 206627,
       "name": "Powerhouse",
       "url": "https://open.spotify.com/track/3JC5Xx48KqzYYlbTr6weCv"
+    },
+    {
+      "added_at": "2026-08-04 08:31:01",
+      "album": {
+        "name": "With Love (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4o1kT6L2yEINJ1OR2o4phN"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Vijaynarain",
+          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 206065,
+      "name": "Aiyo Kadhaley",
+      "url": "https://open.spotify.com/track/6PgUh29KzuIcI5QhK452Mb"
     },
     {
       "added_at": "2025-06-26 09:40:32",
@@ -367,62 +507,6 @@
       "duration_ms": 273793,
       "name": "Kannukulla",
       "url": "https://open.spotify.com/track/2k4JdMWCH2PIZiGPVsznE5"
-    },
-    {
-      "added_at": "2025-09-15 14:25:30",
-      "album": {
-        "name": "Thug Life (Tamil)",
-        "url": "https://open.spotify.com/album/1q6GzjsUS9kyQmEDH7D1Ak"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Siva Ananth",
-          "url": "https://open.spotify.com/artist/5fZe0ixZMgYwu5BLCNvMDC"
-        }
-      ],
-      "duration_ms": 240264,
-      "name": "Muththa Mazhai (Reprise)",
-      "url": "https://open.spotify.com/track/0nrJ7jsUFR0pDHV6NvKJje"
-    },
-    {
-      "added_at": "2025-09-15 14:25:30",
-      "album": {
-        "name": "Jinguchaa (From \"Thug Life\") (Tamil)",
-        "url": "https://open.spotify.com/album/5ROLhzeNs1qAN2SwAD4Ukp"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Kamal Haasan",
-          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
-        },
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        }
-      ],
-      "duration_ms": 260314,
-      "name": "Jinguchaa (From \"Thug Life\") (Tamil)",
-      "url": "https://open.spotify.com/track/3hZg8oiTOWFZWaFudFi610"
     },
     {
       "added_at": "2025-01-17 04:13:04",
@@ -613,62 +697,6 @@
       "url": "https://open.spotify.com/track/6g3pwMsCrqV5HcxF6p99GB"
     },
     {
-      "added_at": "2025-08-28 09:58:07",
-      "album": {
-        "name": "Good Bad Ugly [TAMIL]",
-        "url": "https://open.spotify.com/album/2HGpHw3UR9kqSeiVyjO0MC"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Paal Dabba",
-          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
-        },
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Rokesh",
-          "url": "https://open.spotify.com/artist/00LxYZ7wjuOneFyYMFB8n0"
-        }
-      ],
-      "duration_ms": 240224,
-      "name": "God Bless U",
-      "url": "https://open.spotify.com/track/29LS3SQD2KdQDRqYCP0yS5"
-    },
-    {
-      "added_at": "2025-01-17 04:13:04",
-      "album": {
-        "name": "Amaran (Tamil)",
-        "url": "https://open.spotify.com/album/1xONf0eKTmlbuy13uaStDJ"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Rakshita Suresh",
-          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
-        },
-        {
-          "name": "Yugabharathi",
-          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Vennilavu Saaral",
-      "url": "https://open.spotify.com/track/79Aa3LFIeZpMWTXs8y3Qgk"
-    },
-    {
       "added_at": "2024-09-30 07:16:04",
       "album": {
         "name": "Brother (Original Motion Picture Soundtrack)",
@@ -691,50 +719,6 @@
       "duration_ms": 254228,
       "name": "Makkamishi",
       "url": "https://open.spotify.com/track/0EvlR7AONHr9BcsFp1QOGE"
-    },
-    {
-      "added_at": "2025-01-17 04:13:04",
-      "album": {
-        "name": "Dheema (From \"Love Insurance Kompany\")",
-        "url": "https://open.spotify.com/album/5eqQtQhwXiBhZEzrbdDOXQ"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vignesh Shivan",
-          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "Dheema (From \"Love Insurance Kompany\")",
-      "url": "https://open.spotify.com/track/6CvW7N8JjBHmwEfGz2Yxhk"
-    },
-    {
-      "added_at": "2024-12-20 13:08:45",
-      "album": {
-        "name": "Beer Song (From \"Diesel\")",
-        "url": "https://open.spotify.com/album/26Iofa6BdXi6xDA7Z7hEIz"
-      },
-      "artists": [
-        {
-          "name": "Dhibu Ninan Thomas",
-          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
-        },
-        {
-          "name": "Gana Guna",
-          "url": "https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW"
-        },
-        {
-          "name": "Rokesh",
-          "url": "https://open.spotify.com/artist/00LxYZ7wjuOneFyYMFB8n0"
-        }
-      ],
-      "duration_ms": 196431,
-      "name": "Beer Song - From \"Diesel\"",
-      "url": "https://open.spotify.com/track/6uHuw5ynf6PFpJ2adWprxu"
     },
     {
       "added_at": "2024-05-22 11:39:30",

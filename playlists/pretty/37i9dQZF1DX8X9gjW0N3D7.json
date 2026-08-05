@@ -1,6 +1,6 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: A Girl Named Sue",
-  "num_followers": 70019,
+  "num_followers": 70026,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Tout ce qui d\u00e9passe",
-        "url": "https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc"
-      },
-      "artists": [
-        {
-          "name": "Colin L\u00e9o",
-          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
-        }
-      ],
-      "duration_ms": 170693,
-      "name": "Tout ce qui d\u00e9passe",
-      "url": "https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
         "name": "Feel '26",
         "url": "https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 343733,
       "name": "Feel '26",
       "url": "https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "Tout ce qui d\u00e9passe",
+        "url": "https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc"
+      },
+      "artists": [
+        {
+          "name": "Colin L\u00e9o",
+          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
+        }
+      ],
+      "duration_ms": 170693,
+      "name": "Tout ce qui d\u00e9passe",
+      "url": "https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Todas mis amigas",
-        "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
+        "name": "Oiseaux de Paradis",
+        "url": "https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt"
       },
       "artists": [
         {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
         }
       ],
-      "duration_ms": 228786,
-      "name": "Todas mis amigas",
-      "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
+      "duration_ms": 124214,
+      "name": "Oiseaux de Paradis",
+      "url": "https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -775,18 +775,18 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Oiseaux de Paradis",
-        "url": "https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt"
+        "name": "Todas mis amigas",
+        "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
       },
       "artists": [
         {
-          "name": "Lewis Dice",
-          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
         }
       ],
-      "duration_ms": 124214,
-      "name": "Oiseaux de Paradis",
-      "url": "https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii"
+      "duration_ms": 228786,
+      "name": "Todas mis amigas",
+      "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -807,22 +807,18 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Demain \u00e7a ira",
-        "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
+        "name": "Courtside",
+        "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
       },
       "artists": [
         {
-          "name": "Mah\u00e9ja",
-          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
-        },
-        {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+          "name": "Luis Clavis",
+          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
         }
       ],
-      "duration_ms": 163374,
-      "name": "Demain \u00e7a ira",
-      "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
+      "duration_ms": 182961,
+      "name": "Courtside",
+      "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -843,34 +839,22 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Courtside",
-        "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
+        "name": "Demain \u00e7a ira",
+        "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
       },
       "artists": [
         {
-          "name": "Luis Clavis",
-          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
-        }
-      ],
-      "duration_ms": 182961,
-      "name": "Courtside",
-      "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
-        "name": "Les serpents dans l'eau",
-        "url": "https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge"
-      },
-      "artists": [
+          "name": "Mah\u00e9ja",
+          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+        },
         {
-          "name": "c\u00e9cile",
-          "url": "https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH"
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
         }
       ],
-      "duration_ms": 217046,
-      "name": "Les serpents dans l'eau",
-      "url": "https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu"
+      "duration_ms": 163374,
+      "name": "Demain \u00e7a ira",
+      "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -900,9 +884,25 @@
           "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
         }
       ],
-      "duration_ms": 334005,
+      "duration_ms": 331520,
       "name": "Je t'aime - take 2",
       "url": "https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "Les serpents dans l'eau",
+        "url": "https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9cile",
+          "url": "https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH"
+        }
+      ],
+      "duration_ms": 217046,
+      "name": "Les serpents dans l'eau",
+      "url": "https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
+        "name": "Revenir",
+        "url": "https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ"
+      },
+      "artists": [
+        {
+          "name": "Rick Pagano",
+          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
+        }
+      ],
+      "duration_ms": 156079,
+      "name": "Revenir",
+      "url": "https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
         "name": "Sanzaru",
         "url": "https://open.spotify.com/album/1ekuOtDRjg5ZGVyS8W4xzB"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 253710,
       "name": "r\u00eaves en hd",
       "url": "https://open.spotify.com/track/0YSTWkVtb5OBefIZSt5Xc5"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
-        "name": "Revenir",
-        "url": "https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ"
-      },
-      "artists": [
-        {
-          "name": "Rick Pagano",
-          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
-        }
-      ],
-      "duration_ms": 156079,
-      "name": "Revenir",
-      "url": "https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
+        "name": "Que ta lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 232319,
+      "name": "Que ta lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
         "name": "Not on the Run",
         "url": "https://open.spotify.com/album/3drm7P3ddFJldy10G0hhAp"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 231861,
       "name": "Not on the Run",
       "url": "https://open.spotify.com/track/3sKzGE1NqzMV96BqacsEm6"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Personne",
-          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
-        }
-      ],
-      "duration_ms": 337719,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Que ta lumi\u00e8re",
-        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 232319,
-      "name": "Que ta lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
         "name": "L'Empreinte",
         "url": "https://open.spotify.com/album/2hkItHjREBQK4IsEJpH55R"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 182105,
       "name": "Psychanalyse",
       "url": "https://open.spotify.com/track/14pKbv6P2phFoRd1Lz0vw0"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "duration_ms": 337719,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1219,34 +1219,42 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Tour \u00e0 tour",
-        "url": "https://open.spotify.com/album/1orARXhhwh1AGCnjJU42MU"
+        "name": "L'avalanche",
+        "url": "https://open.spotify.com/album/1eQGR0F4cMZTIg5Xj6wjVO"
       },
       "artists": [
         {
-          "name": "Miro Chino",
-          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
+          "name": "Moses Belanger",
+          "url": "https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd"
         }
       ],
-      "duration_ms": 244320,
-      "name": "Tour \u00e0 tour",
-      "url": "https://open.spotify.com/track/4j4tyrrwdc0YLwhxxVDv6D"
+      "duration_ms": 204444,
+      "name": "L'avalanche",
+      "url": "https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi"
     },
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+        "name": "Quel tourment !",
+        "url": "https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO"
       },
       "artists": [
         {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        },
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        },
+        {
+          "name": "Ponteix",
+          "url": "https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl"
         }
       ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+      "duration_ms": 202821,
+      "name": "Quel tourment !",
+      "url": "https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7"
     }
   ],
   "unique_name": "Qu\u00e9b\u00e9cois Contemporain",

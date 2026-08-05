@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Fisong",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: ziproom",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "A*",
+        "url": "https://open.spotify.com/album/51Ka8VL0h0kEwSaOzCgdbC"
+      },
+      "artists": [
+        {
+          "name": "ENEL",
+          "url": "https://open.spotify.com/artist/5UyerN25hRt7bD2tnAvxdg"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258722,
+      "name": "A*",
+      "url": "https://open.spotify.com/track/1rymy3ACryEJUQuasMcBj1"
+    },
+    {
+      "album": {
         "name": "Different Shyne",
         "url": "https://open.spotify.com/album/5G2zHO1L4ih57VUnbojw15"
       },
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 198287,
       "name": "Alright",
       "url": "https://open.spotify.com/track/0RYrw0JrmwzPgXSZstvlj5"
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 187599,
       "name": "Best Choice (feat. MEGA-G)",
       "url": "https://open.spotify.com/track/09Pit6SwlugKsvTkiQRGFw"
@@ -3626,6 +3644,24 @@
       "duration_ms": 249909,
       "name": "BeTBeT",
       "url": "https://open.spotify.com/track/26YjEvQkETqhO0Mskf7P50"
+    },
+    {
+      "album": {
+        "name": "BETMAN",
+        "url": "https://open.spotify.com/album/7MFQ7qTjpk22vFl1rRtDQE"
+      },
+      "artists": [
+        {
+          "name": "RICHMAN",
+          "url": "https://open.spotify.com/artist/3ZvCnJCDfKjWaKJC8x0ors"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133689,
+      "name": "BETMAN",
+      "url": "https://open.spotify.com/track/5bvWP1zuTloXfTnL3qD88l"
     },
     {
       "album": {
@@ -4503,6 +4539,24 @@
     },
     {
       "album": {
+        "name": "HUNGER",
+        "url": "https://open.spotify.com/album/79HNDwipvZvNjMypcHf300"
+      },
+      "artists": [
+        {
+          "name": "Will Support",
+          "url": "https://open.spotify.com/artist/2EM6vlLvBitmQnERk6cUNt"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146363,
+      "name": "BOSSY",
+      "url": "https://open.spotify.com/track/5wOxQF8gCRiuQqmiJgqw6O"
+    },
+    {
+      "album": {
         "name": "bottom",
         "url": "https://open.spotify.com/album/2arKpCgheIOaMs7milShBO"
       },
@@ -4991,6 +5045,32 @@
     },
     {
       "album": {
+        "name": "Businessman (feat. haku SaKaGaMi) [Remix]",
+        "url": "https://open.spotify.com/album/2lb4zmD2R7nPjy0XBvwsg3"
+      },
+      "artists": [
+        {
+          "name": "T-Bobo",
+          "url": "https://open.spotify.com/artist/40NK4mGLUjuQ4Gx5EASzXK"
+        },
+        {
+          "name": "VEINTI4",
+          "url": "https://open.spotify.com/artist/4o7vyB4AfcMinZMlhs5zDw"
+        },
+        {
+          "name": "haku SaKaGaMi",
+          "url": "https://open.spotify.com/artist/70FEUWgbefQljDZUGjzjgd"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Businessman (feat. haku SaKaGaMi) - Remix",
+      "url": "https://open.spotify.com/track/7C7pEbWC3HWNuwmTjK8vvQ"
+    },
+    {
+      "album": {
         "name": "Bussin'",
         "url": "https://open.spotify.com/album/28dsx2yP9sMU55mlfX6W1V"
       },
@@ -5146,6 +5226,32 @@
       "duration_ms": 212584,
       "name": "Bye Emotion (feat. 11)",
       "url": "https://open.spotify.com/track/18Guabmt8uB8DJ6EkQwKca"
+    },
+    {
+      "album": {
+        "name": "C*MEL MENTHOL",
+        "url": "https://open.spotify.com/album/7fy0G2tHVOEHCGOmBi2Usr"
+      },
+      "artists": [
+        {
+          "name": "ENEL",
+          "url": "https://open.spotify.com/artist/7ArQ4BDikahaxGAjIDWz2p"
+        },
+        {
+          "name": "SKy NET",
+          "url": "https://open.spotify.com/artist/12CQFj2xEAEN0azb830zbP"
+        },
+        {
+          "name": "HARKA",
+          "url": "https://open.spotify.com/artist/5eTA8p8iZQtDKHW2QZucxx"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "C*MEL MENTHOL",
+      "url": "https://open.spotify.com/track/5izv4NQWAnvw1xq2zGFV1P"
     },
     {
       "album": {
@@ -5552,6 +5658,24 @@
       "duration_ms": 166753,
       "name": "Chang Pong (feat. Jinmenusagi)",
       "url": "https://open.spotify.com/track/7xnO0HQ4GGdwdCiEdR8KVU"
+    },
+    {
+      "album": {
+        "name": "CHANGE MY LIFE",
+        "url": "https://open.spotify.com/album/7a6KboTiP6kgDoqefO7pCV"
+      },
+      "artists": [
+        {
+          "name": "\u95a2\u8c37\u62f3\u56db\u90ce",
+          "url": "https://open.spotify.com/artist/4vw8u8lnueJjSQlySU3XmL"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178858,
+      "name": "CHANGE MY LIFE",
+      "url": "https://open.spotify.com/track/1gbcaZoC1FBtas9BGf48Ki"
     },
     {
       "album": {
@@ -6016,6 +6140,32 @@
     {
       "album": {
         "name": "i hate summer",
+        "url": "https://open.spotify.com/album/3uAM7dL9W3l2TYgQaKoo9d"
+      },
+      "artists": [
+        {
+          "name": "lymph",
+          "url": "https://open.spotify.com/artist/79lQmcuNH3IzsBdl0Q8KX3"
+        },
+        {
+          "name": "flexmadeit",
+          "url": "https://open.spotify.com/artist/7ifyrJ8F1IxHbaEWly0bZI"
+        },
+        {
+          "name": "Saren",
+          "url": "https://open.spotify.com/artist/5tbzr5nor6qJPUEryD7oZK"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Cmon \u00a3lex (feat. Saren)",
+      "url": "https://open.spotify.com/track/0OFSmb23zn4TlM096bHYqp"
+    },
+    {
+      "album": {
+        "name": "i hate summer",
         "url": "https://open.spotify.com/album/6jE5Q0r6gTWmnx8R2zg44f"
       },
       "artists": [
@@ -6034,7 +6184,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 176000,
       "name": "Cmon \u00a3lex (feat. Saren)",
       "url": "https://open.spotify.com/track/4fpqhpqmxstPh8DeXRzKPJ"
@@ -7927,6 +8077,42 @@
     },
     {
       "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/4gLHzFkoCEU6c3OcvSu32x"
+      },
+      "artists": [
+        {
+          "name": "Sitissy luvit",
+          "url": "https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128421,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/7mc2F0T4YvRbHdqyAf43aW"
+    },
+    {
+      "album": {
+        "name": "Emotional Bento",
+        "url": "https://open.spotify.com/album/16X3EmBP6MZI8nKHAawFeF"
+      },
+      "artists": [
+        {
+          "name": "Hanemii",
+          "url": "https://open.spotify.com/artist/7un3CBibLdJpaUssEQ0eny"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147036,
+      "name": "DOPESHIT",
+      "url": "https://open.spotify.com/track/6v1m00r0X44PyjntGXkXOr"
+    },
+    {
+      "album": {
         "name": "Doremi",
         "url": "https://open.spotify.com/album/3OO1VFZKJqR04u6xtIo552"
       },
@@ -8264,7 +8450,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 155869,
       "name": "Driving",
       "url": "https://open.spotify.com/track/5sWtchuJsOQFmX0SDn3ai1"
@@ -8478,6 +8664,24 @@
       "duration_ms": 192000,
       "name": "Each Other",
       "url": "https://open.spotify.com/track/12TPEMRL0k1NLSM8kgs7jm"
+    },
+    {
+      "album": {
+        "name": "NEW GAME",
+        "url": "https://open.spotify.com/album/2eLo3cwxRPeG88U5NN1eI8"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169795,
+      "name": "early nose",
+      "url": "https://open.spotify.com/track/4eOSZFou6GFcg5kdGUoMDo"
     },
     {
       "album": {
@@ -9275,6 +9479,28 @@
     },
     {
       "album": {
+        "name": "2018",
+        "url": "https://open.spotify.com/album/7EMcu9GVNdSTmSLLVaBQoB"
+      },
+      "artists": [
+        {
+          "name": "nowyoumakemeup",
+          "url": "https://open.spotify.com/artist/6jfLIDaCUgExUmt243cQ3F"
+        },
+        {
+          "name": "Libra albert",
+          "url": "https://open.spotify.com/artist/0RHsSBpJ1vc6NKm8gbzVOz"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139644,
+      "name": "facin' off (feat. Libra albert)",
+      "url": "https://open.spotify.com/track/56Qcb16js95VdAk0wQznIx"
+    },
+    {
+      "album": {
         "name": "Fadeout",
         "url": "https://open.spotify.com/album/2wt18ArJSb1b8t36iXf2f2"
       },
@@ -9520,7 +9746,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 119401,
       "name": "FASHION KILLA",
       "url": "https://open.spotify.com/track/5Tvk6ASKmUOOyfUim31Kxv"
@@ -10434,6 +10660,32 @@
       "duration_ms": 111421,
       "name": "FOREVER YOUNG",
       "url": "https://open.spotify.com/track/3u9bea99tLSrCgwrO6hY5b"
+    },
+    {
+      "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/63bJYDFcpJNLkuw9cDTDZw"
+      },
+      "artists": [
+        {
+          "name": "Yatt",
+          "url": "https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken"
+        },
+        {
+          "name": "NeS",
+          "url": "https://open.spotify.com/artist/6Yc7exkczFuGRwaCdVA3pN"
+        },
+        {
+          "name": "RICHMAN",
+          "url": "https://open.spotify.com/artist/3ZvCnJCDfKjWaKJC8x0ors"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231904,
+      "name": "Forever Young (feat. RICHMAN)",
+      "url": "https://open.spotify.com/track/4QwwwX2D2ZVwNbQecJKSJT"
     },
     {
       "album": {
@@ -11496,7 +11748,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 123380,
       "name": "Go up (feat. will away)",
       "url": "https://open.spotify.com/track/4kz8AyafQVJM3N9lgTDuJg"
@@ -13938,7 +14190,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 81129,
       "name": "i-i-i need draco cuz shoot for u",
       "url": "https://open.spotify.com/track/2na0KRynEBvO6b5jRHAwzV"
@@ -15014,6 +15266,24 @@
       "duration_ms": 171468,
       "name": "Jimmy Choo",
       "url": "https://open.spotify.com/track/7sjMVTwRPodZm1uBmGDp5f"
+    },
+    {
+      "album": {
+        "name": "JIMOTO",
+        "url": "https://open.spotify.com/album/1uw7pWwVM3aG5R9cjb5p4t"
+      },
+      "artists": [
+        {
+          "name": "5Leaf",
+          "url": "https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121813,
+      "name": "JIMOTO",
+      "url": "https://open.spotify.com/track/4RlUWu8KSLMPJCkhMW6htZ"
     },
     {
       "album": {
@@ -17938,7 +18208,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 172000,
       "name": "MainCha",
       "url": "https://open.spotify.com/track/1CHZ2IxYMP9m32B4EPGPa6"
@@ -19051,6 +19321,28 @@
     },
     {
       "album": {
+        "name": "Moshi Moshi Frenemy",
+        "url": "https://open.spotify.com/album/4b2dO3ms5aW8ejvCQ1pRo0"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd"
+        },
+        {
+          "name": "3Li\u00a5en",
+          "url": "https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194302,
+      "name": "Moshi Moshi Frenemy",
+      "url": "https://open.spotify.com/track/3VQQ0ImVRyWVIwDSTqlyS9"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/71qr6MJGkwMw9RmNV63kte"
       },
@@ -19096,7 +19388,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 129172,
       "name": "Move Buddy (feat. Zaddy)",
       "url": "https://open.spotify.com/track/70KOAbI8WL2FWoBBMoSWzU"
@@ -20590,7 +20882,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 130257,
       "name": "No Debt (Dirty)",
       "url": "https://open.spotify.com/track/5w3rnvAE55xh48AQPv3pdJ"
@@ -22122,7 +22414,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 151629,
       "name": "OYAJIGAIUTOTTA",
       "url": "https://open.spotify.com/track/4JA18IHg2b5VPt56yqSrix"
@@ -22534,7 +22826,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 153600,
       "name": "Pay me up",
       "url": "https://open.spotify.com/track/0u4wYYshST5D14Ex30sZtL"
@@ -24013,6 +24305,28 @@
     },
     {
       "album": {
+        "name": "Real Move",
+        "url": "https://open.spotify.com/album/4Vsv7fZKVEDEKCfiUnAdvh"
+      },
+      "artists": [
+        {
+          "name": "9for",
+          "url": "https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl"
+        },
+        {
+          "name": "NEMLAND",
+          "url": "https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148226,
+      "name": "Real Move",
+      "url": "https://open.spotify.com/track/6UXtRpX6dCgC9fvghVsdHL"
+    },
+    {
+      "album": {
         "name": "Real Talk!!",
         "url": "https://open.spotify.com/album/0Bbhf9TiqtmlJ2wP0yth4o"
       },
@@ -24458,7 +24772,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 157860,
       "name": "Rich Woo",
       "url": "https://open.spotify.com/track/7uFFYC3nUVkBsueMGrdBEG"
@@ -26209,6 +26523,24 @@
     },
     {
       "album": {
+        "name": "SHIAWASE",
+        "url": "https://open.spotify.com/album/1DFY5UMDxZVKLanWXCxt4A"
+      },
+      "artists": [
+        {
+          "name": "ICHIRO",
+          "url": "https://open.spotify.com/artist/1qvOEw96vi7XFjSxSusni2"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147570,
+      "name": "SHIAWASE",
+      "url": "https://open.spotify.com/track/26QFSnxkDkPSMDOyHmuCRw"
+    },
+    {
+      "album": {
         "name": "SHIBUSHO",
         "url": "https://open.spotify.com/album/2RjMP0EbxN7Yq5A3aClR78"
       },
@@ -26812,7 +27144,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 136094,
       "name": "Skeletonkey",
       "url": "https://open.spotify.com/track/2I6cPjhnjT178nDADVhepU"
@@ -27366,7 +27698,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 114474,
       "name": "SPACESHIP",
       "url": "https://open.spotify.com/track/6dmL1iz7P5wUzEAqNcUgOI"
@@ -29186,6 +29518,24 @@
       "duration_ms": 225135,
       "name": "Theory of Art",
       "url": "https://open.spotify.com/track/0jkh1pACPgITZzFYz5mmd4"
+    },
+    {
+      "album": {
+        "name": "they be like tryin so hard",
+        "url": "https://open.spotify.com/album/3PIg6wNw2SRQJc3Dj16wPE"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "they be like tryin so hard",
+      "url": "https://open.spotify.com/track/1AARgXUSkuvk726ii5wco9"
     },
     {
       "album": {
@@ -31660,7 +32010,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 131500,
       "name": "What's Good?",
       "url": "https://open.spotify.com/track/3BjRqc7drwZcMtcSF5ShoU"
@@ -33992,7 +34342,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 85563,
       "name": "\u30de\u30b8\u3067\u91d1\u6301\u3061",
       "url": "https://open.spotify.com/track/3UTfHo043DCAuuAL8kRelX"

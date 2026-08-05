@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:36GKpvoEgJCwtYR7tmSBGL\">Angelo Kras</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:5mzvaN29YKtfK4wmctgEqv\">MEZZANERA</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 175084,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/1gryOS3Zdi0lUJoXdbvgOu"
@@ -2701,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6ZGbVIMdWHzwRzQxTpyniI"
+      },
+      "artists": [
+        {
+          "name": "catera",
+          "url": "https://open.spotify.com/artist/1HqolIuWDd0nNNXfHQabWm"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272807,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/63S7LSlwS53jXGHabrRSGE"
+    },
+    {
+      "album": {
         "name": "An Encounter",
         "url": "https://open.spotify.com/album/6wn3wH1RgQBplTOqPzWHHy"
       },
@@ -3332,6 +3350,24 @@
       "duration_ms": 188437,
       "name": "Arance del sud",
       "url": "https://open.spotify.com/track/5yB5nn07taFP1lleKvzBYC"
+    },
+    {
+      "album": {
+        "name": "Arancia",
+        "url": "https://open.spotify.com/album/1oQENihemOTNuYhP3f8g8R"
+      },
+      "artists": [
+        {
+          "name": "Joe Elle",
+          "url": "https://open.spotify.com/artist/2Xwx1kR7nPcZlhuHCMTHQO"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Arancia",
+      "url": "https://open.spotify.com/track/2jqmxMelum8kqDMWaoLEAV"
     },
     {
       "album": {
@@ -15434,7 +15470,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 228387,
       "name": "grata",
       "url": "https://open.spotify.com/track/0Ly8bOOATjWLjtWsyIMKG4"
@@ -16920,7 +16956,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 256157,
       "name": "Il molo degli Inglesi",
       "url": "https://open.spotify.com/track/7jImJTbZYgHMilqt9BPN3D"
@@ -21704,6 +21740,24 @@
       "duration_ms": 197542,
       "name": "Maggio",
       "url": "https://open.spotify.com/track/6wg2JoLd5YmoU2wANbDEpk"
+    },
+    {
+      "album": {
+        "name": "Maggio",
+        "url": "https://open.spotify.com/album/4ZCoLoIyORK6eHv06eJQnS"
+      },
+      "artists": [
+        {
+          "name": "Eleonora Toscani",
+          "url": "https://open.spotify.com/artist/77d3usyZLz9TS7PBxGRVaD"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228223,
+      "name": "Maggio",
+      "url": "https://open.spotify.com/track/6rEB5luZKJ3O7h1ykx1RFU"
     },
     {
       "album": {
@@ -29277,6 +29331,24 @@
     },
     {
       "album": {
+        "name": "Pezzo di Te",
+        "url": "https://open.spotify.com/album/1unhM83rN0P0JicIiX7bIP"
+      },
+      "artists": [
+        {
+          "name": "Primo Amore",
+          "url": "https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Pezzo di Te",
+      "url": "https://open.spotify.com/track/2IMhdu29rZM8Swmb7VUFAB"
+    },
+    {
+      "album": {
         "name": "Emotional Phases / Fasi Emotive",
         "url": "https://open.spotify.com/album/7cDzkluTZ5HTF5GPGNkxCa"
       },
@@ -31966,6 +32038,24 @@
       "duration_ms": 179882,
       "name": "Revolver",
       "url": "https://open.spotify.com/track/5l0X6rFDo4hKZzs7cJTRqA"
+    },
+    {
+      "album": {
+        "name": "ribelle",
+        "url": "https://open.spotify.com/album/5pnTkn0GLPg2ADO8s3oXGa"
+      },
+      "artists": [
+        {
+          "name": "kimori",
+          "url": "https://open.spotify.com/artist/1Ry25dXtTBXrHleJl71Ikn"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "ribelle",
+      "url": "https://open.spotify.com/track/1OUPwuzOBWxywKt5fp2Y5Z"
     },
     {
       "album": {
@@ -36756,7 +36846,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 199024,
       "name": "Strada di casa",
       "url": "https://open.spotify.com/track/11HCLEq94qomWlF5LIJYUA"
@@ -39174,7 +39264,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 269718,
       "name": "tutta aggrovigliata",
       "url": "https://open.spotify.com/track/6RRIGE36lI16mKi56epMBo"
@@ -39742,6 +39832,24 @@
       "duration_ms": 143250,
       "name": "Un drink pi\u00f9 deciso",
       "url": "https://open.spotify.com/track/5LdrXyHptMz49GWlCj2r6g"
+    },
+    {
+      "album": {
+        "name": "Un istante (From \"Zitto e guida\")",
+        "url": "https://open.spotify.com/album/2b60g9jFeFJlflkdZTt1th"
+      },
+      "artists": [
+        {
+          "name": "Elisa Benetti",
+          "url": "https://open.spotify.com/artist/6X4GKXwvYRDPVzIKYdCpil"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128597,
+      "name": "Un istante (From \"Zitto e Guida)",
+      "url": "https://open.spotify.com/track/3mW762ED5aZ38ZBtNng9Hi"
     },
     {
       "album": {
@@ -40616,7 +40724,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 266669,
       "name": "Veleno",
       "url": "https://open.spotify.com/track/7vtem6XK15JdfDGLSriXmb"
@@ -40638,6 +40746,24 @@
       "duration_ms": 137000,
       "name": "VENERE",
       "url": "https://open.spotify.com/track/056jYB4VJ8j4YbwRniD4Hr"
+    },
+    {
+      "album": {
+        "name": "Venere e Marte",
+        "url": "https://open.spotify.com/album/4Vo0p0NEpvPhhEgKOwWSFK"
+      },
+      "artists": [
+        {
+          "name": "MEZZANERA",
+          "url": "https://open.spotify.com/artist/5mzvaN29YKtfK4wmctgEqv"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167392,
+      "name": "Venere e Marte",
+      "url": "https://open.spotify.com/track/4YCZ5YGfcmVoUvii20xPRw"
     },
     {
       "album": {
@@ -41436,7 +41562,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 135172,
       "name": "vuoto di senso",
       "url": "https://open.spotify.com/track/0wV8I54mMeLY6PxwD4VQs0"

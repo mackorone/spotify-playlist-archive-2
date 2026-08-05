@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,964 likes - 77 songs - 4 hr 21 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,962 likes - 78 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 75 | [Change](https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Change](https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs) | 3:27 |
 | 76 | [Ciarán](https://open.spotify.com/track/12HUsLAZlYzwI24TpczV9h) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Ciarán](https://open.spotify.com/album/6u0FN3VqOTZFsfOc6WTzXK) | 3:38 |
 | 77 | [Together \- Demo](https://open.spotify.com/track/12oojIBWdPlhjtUt4ZoJOE) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Together \(Demo\)](https://open.spotify.com/album/2TmxBiotCcrugUnPPqOA0d) | 4:34 |
+| 78 | [Can’t Take My Eyes Off You](https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Can’t Take My Eyes Off You](https://open.spotify.com/album/5qaeuy8IGvzIbWxemcfYv2) | 2:30 |
 
-Snapshot ID: `AAAR3Hs4Fv491XMvFrahhSiVMaJpxAd8`
+Snapshot ID: `AAAR3QDLHryZmKJZUCyFbow1koy+avwN`

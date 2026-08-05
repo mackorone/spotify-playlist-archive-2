@@ -674,7 +674,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 200610,
       "name": "Alcoholic",
       "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
@@ -3334,6 +3334,28 @@
       "duration_ms": 221682,
       "name": "Blacked Out",
       "url": "https://open.spotify.com/track/0v06s5ISTc1mkO4K0GKrQp"
+    },
+    {
+      "album": {
+        "name": "Blas\u00e9 (Bryce Alakai Remix)",
+        "url": "https://open.spotify.com/album/7sV70LG1giH908uDH409Fc"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Bryce Alakai",
+          "url": "https://open.spotify.com/artist/6xq5N3jccoYOrN19UUbo8B"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Blas\u00e9 (Bryce Alakai Remix)",
+      "url": "https://open.spotify.com/track/3HvFhvZPgQOPUOTpDi1fZU"
     },
     {
       "album": {

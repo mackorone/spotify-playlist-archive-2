@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73065,
+  "num_followers": 73066,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-07-17 17:14:54",
       "album": {
-        "name": "Abre Alas",
-        "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
-      },
-      "artists": [
-        {
-          "name": "Patricia Marx",
-          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 311811,
-      "name": "Abre Alas",
-      "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
-    },
-    {
-      "added_at": "2026-07-17 17:14:54",
-      "album": {
         "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 198101,
       "name": "Aprendi a Viver S\u00f3",
       "url": "https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy"
+    },
+    {
+      "added_at": "2026-07-17 17:14:54",
+      "album": {
+        "name": "Abre Alas",
+        "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
+      },
+      "artists": [
+        {
+          "name": "Patricia Marx",
+          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 311811,
+      "name": "Abre Alas",
+      "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
     },
     {
       "added_at": "2026-07-17 17:14:54",

@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 22 | [poltergeist](https://open.spotify.com/track/3vp3r5tiCAHDNHtqhBk6rv) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:33 |
 | 23 | [Hedonistic](https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:39 |
 | 24 | [American in Paris](https://open.spotify.com/track/0qmiXuQjdromX08E2ZjZ4j) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j) | 2:44 |
-| 25 | [Cool 4 U](https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG) | 2:19 |
-| 26 | [guitar center](https://open.spotify.com/track/2KL350smdGutz70FYGjVkP) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp) | 3:07 |
+| 25 | [guitar center](https://open.spotify.com/track/2KL350smdGutz70FYGjVkP) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp) | 3:07 |
+| 26 | [Cool 4 U](https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG) | 2:19 |
 | 27 | [Who Not to Love](https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw) | 3:05 |
 | 28 | [Because of Me](https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j) | 3:02 |
 
-Snapshot ID: `am6IgAAAAABmgGUK2bXK5Z2Ikl6sL5CM`
+Snapshot ID: `am/aAAAAAAC1aGKV85hshf6eURxMi5Uz`

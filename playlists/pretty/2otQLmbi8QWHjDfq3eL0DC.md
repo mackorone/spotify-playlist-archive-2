@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > Get ready to dance with the best House Music! Featuring pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Fred Again.\. and more\. Perfect for clubbing, parties or just vibing\. Deep House, Tech House, Progressive House &amp; Disco House\. Updated Weekly! Like &amp; Save.
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,310,071 likes - 100 songs - 5 hr 6 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,309,580 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 49 | [State Of Mind](https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [State Of Mind](https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe) | 3:04 |
 | 50 | [Feel This Way](https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Feel This Way](https://open.spotify.com/album/0BVGCcx3DWdTu1ComULh5k) | 3:04 |
 | 51 | [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 |
-| 52 | [No White Lies](https://open.spotify.com/track/6In5HswjqM0V6uXlQnWelk) | [Jorden Dux](https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf) | [No White Lies](https://open.spotify.com/album/7LLxEDgQLmbbVvVxVNVNRy) | 3:02 |
+| 52 | [No White Lies](https://open.spotify.com/track/6In5HswjqM0V6uXlQnWelk) | [Jorden Dux](https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf), [Nicky d'Amuri](https://open.spotify.com/artist/5mKIPOmYukKPX33xzkQnLX) | [No White Lies](https://open.spotify.com/album/7LLxEDgQLmbbVvVxVNVNRy) | 3:02 |
 | 53 | [Time Dey Go](https://open.spotify.com/track/6GBGlnH0uguJ046B2hz6Qx) | [L¥O](https://open.spotify.com/artist/5ntG7VhN9iZ6Mg7K0x1EAr) | [Time Dey Go](https://open.spotify.com/album/5BCFaCodBxjFlc3T9ODyLx) | 3:06 |
 | 54 | [Come To Life](https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Come To Life](https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD) | 3:12 |
 | 55 | [pack up ya bags](https://open.spotify.com/track/7w5jefRiOIEs0M5udJxyhd) | [KTmelodies](https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd) | [pack up ya bags](https://open.spotify.com/album/0og4mtbbCk4n0oYcqFI3vC) | 2:12 |

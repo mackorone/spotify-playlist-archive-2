@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAWnN7U2uoyxSQxioIxXAN6pwey4T+a",
+  "snapshot_id": "AAAWpIWhsKgJpx2jRaUv2MT/m2oPoBfe",
   "tracks": [
     {
       "added_at": "2026-07-02 22:11:30",
@@ -2251,6 +2251,138 @@
       "duration_ms": 202564,
       "name": "Explore (Me)",
       "url": "https://open.spotify.com/track/0QlgCZaQDT2St7r0iA21Ks"
+    },
+    {
+      "added_at": "2026-08-04 08:14:38",
+      "album": {
+        "name": "Bells of Silver",
+        "url": "https://open.spotify.com/album/3kjhYsro9GvEOGGKIlLoVe"
+      },
+      "artists": [
+        {
+          "name": "Arn-Identified Flying Objects and Alien Friends",
+          "url": "https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD"
+        }
+      ],
+      "duration_ms": 248468,
+      "name": "Bells of Silver",
+      "url": "https://open.spotify.com/track/1XX3C3KiBmSuK4U3XCJmaz"
+    },
+    {
+      "added_at": "2026-08-04 08:14:40",
+      "album": {
+        "name": "I'm Asking",
+        "url": "https://open.spotify.com/album/1h16OO3LlozvuSE3snjib8"
+      },
+      "artists": [
+        {
+          "name": "Joe Scorza",
+          "url": "https://open.spotify.com/artist/6b5cTvps5wIFbHnFWAFixd"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "I'm Asking",
+      "url": "https://open.spotify.com/track/03Jv9vcDC0TEAIDuJ5Y2QF"
+    },
+    {
+      "added_at": "2026-08-04 08:14:45",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0nJDyF8cfAnldAbADTMemQ"
+      },
+      "artists": [
+        {
+          "name": "Denny Haze",
+          "url": "https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1"
+        }
+      ],
+      "duration_ms": 194839,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6fVTRZZeT9U4h3eX8On8qf"
+    },
+    {
+      "added_at": "2026-08-04 08:14:52",
+      "album": {
+        "name": "Vengo dal futuro",
+        "url": "https://open.spotify.com/album/0RNCXrBNPJuuyQlNbFuXOD"
+      },
+      "artists": [
+        {
+          "name": "FACE",
+          "url": "https://open.spotify.com/artist/5eIAMHm1cYwoAeoGbM96mI"
+        }
+      ],
+      "duration_ms": 223392,
+      "name": "Vengo dal futuro",
+      "url": "https://open.spotify.com/track/0Lae76Fx6pxzP5u1SHumLJ"
+    },
+    {
+      "added_at": "2026-08-04 08:15:01",
+      "album": {
+        "name": "Accroche toi",
+        "url": "https://open.spotify.com/album/16ppv7cPXmMdz8lB9hPKYg"
+      },
+      "artists": [
+        {
+          "name": "Eric Hartereau",
+          "url": "https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7"
+        }
+      ],
+      "duration_ms": 227664,
+      "name": "Accroche toi",
+      "url": "https://open.spotify.com/track/5eTiKImP9vTuJ1OGdiHJ0G"
+    },
+    {
+      "added_at": "2026-08-04 08:15:03",
+      "album": {
+        "name": "Entre O Sonho E O Acordado",
+        "url": "https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI"
+      },
+      "artists": [
+        {
+          "name": "The Jump Out Helicopters",
+          "url": "https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel"
+        }
+      ],
+      "duration_ms": 178169,
+      "name": "No Meio Termo",
+      "url": "https://open.spotify.com/track/6FaZX8fiSihP2gvWs42f0K"
+    },
+    {
+      "added_at": "2026-08-04 08:15:28",
+      "album": {
+        "name": "Why Don't They Care?",
+        "url": "https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "duration_ms": 184575,
+      "name": "Why Don't They Care?",
+      "url": "https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy"
+    },
+    {
+      "added_at": "2026-08-04 08:15:32",
+      "album": {
+        "name": "Senescence",
+        "url": "https://open.spotify.com/album/6QtciNI2kObVgNjlOcqy9Q"
+      },
+      "artists": [
+        {
+          "name": "Yenn",
+          "url": "https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp"
+        },
+        {
+          "name": "Breakestine",
+          "url": "https://open.spotify.com/artist/2rCvh2rrpCxd8mVD9seDNX"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "Senescence",
+      "url": "https://open.spotify.com/track/64Zz7p1BrUH9hlsHfJK3qi"
     }
   ],
   "unique_name": "New Indie Music",

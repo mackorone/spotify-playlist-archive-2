@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > meet renny conti 💌
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,463 likes - 122 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,490 likes - 122 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 40 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
 | 41 | [honeybee](https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:43 |
 | 42 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 |
-| 43 | [dad im scared to age](https://open.spotify.com/track/2pZwk0HqnTVPTHzUnFeI9R) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [dad im scared to age](https://open.spotify.com/album/22lSxuKjTVyrh1zz8t6Ld8) | 2:53 |
+| 43 | [dad im scared to age](https://open.spotify.com/track/2pZwk0HqnTVPTHzUnFeI9R) | [mieke?](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [dad im scared to age](https://open.spotify.com/album/22lSxuKjTVyrh1zz8t6Ld8) | 2:53 |
 | 44 | [My Love](https://open.spotify.com/track/34BOFpRdhkmFsVu2yUAgMY) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [My Love](https://open.spotify.com/album/5SQVlmRmuP89gnW6c12bfQ) | 3:23 |
 | 45 | [AMATEUR AT BEST](https://open.spotify.com/track/2ZlCllL9l6Xk3gGZFAUeU5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [AMATEUR AT BEST](https://open.spotify.com/album/11QFWsQoSk0qQzrndUokih) | 3:21 |
 | 46 | [Gretchen](https://open.spotify.com/track/255KD8LTcbK1sqJVqtYwpe) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Gretchen](https://open.spotify.com/album/0uB6srYMGEDsmgE4sMzZj0) | 2:51 |

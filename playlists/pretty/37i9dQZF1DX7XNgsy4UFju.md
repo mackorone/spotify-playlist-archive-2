@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ Dominique Way
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,645 likes - 102 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,522 likes - 102 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 64 | [You Will Go Far](https://open.spotify.com/track/5dpnx6spX7hdADSSH1UZFZ) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [You Will Go Far](https://open.spotify.com/album/7BE3IQNXdpI6cAyR1jYAxZ) | 3:25 |
 | 65 | [Enemies](https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Enemies](https://open.spotify.com/album/32mATjC51wowHBVY5rNlwC) | 2:46 |
 | 66 | [Photos Of The Reenactment](https://open.spotify.com/track/07PDGEQVBzUjZpmFEsff5G) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Photos of the Reenactment](https://open.spotify.com/album/2BrZ8S8v0fXxnpUW0XRDcH) | 3:03 |
-| 67 | [No Other \- Loukeman Mix](https://open.spotify.com/track/1aS3nGcaWxUfQHVm0vZ2QO) | [LST](https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU), [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [No Other \(Loukeman Mix\)](https://open.spotify.com/album/1avNa5wmoCHPrE5FGCrTwE) | 3:45 |
+| 67 | [No Other \- Loukeman Mix](https://open.spotify.com/track/1aS3nGcaWxUfQHVm0vZ2QO) | [LST](https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU) | [No Other \(Loukeman Mix\)](https://open.spotify.com/album/1avNa5wmoCHPrE5FGCrTwE) | 3:45 |
 | 68 | [Castles](https://open.spotify.com/track/4piUIPLzabTcVMcBYmd68Z) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [MULTISTATE](https://open.spotify.com/album/3CxcbLqwcFE8nvfupsRPnn) | 3:11 |
 | 69 | [Tilapia](https://open.spotify.com/track/6SkdgDwXuQlLPRyFKbmr1n) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Oxis 9](https://open.spotify.com/album/5awexwsI3WGjVeU5TmhG7p) | 2:14 |
 | 70 | [Follow](https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Fire From The Hip](https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri) | 3:24 |

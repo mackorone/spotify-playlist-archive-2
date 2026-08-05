@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > life too short love the one you got
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,115 songs - 2 day 15 hr 18 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,123 songs - 2 day 15 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1123,5 +1123,13 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1113 | [Black Balloons](https://open.spotify.com/track/0Yp6CHC41D5fQg5g8EOpsh) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/0YMNHZKlcuPWPe6hcArKzk) | 3:07 |
 | 1114 | [Three Months](https://open.spotify.com/track/6Xc2oXYio3m8uoB5IACBa3) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/0YMNHZKlcuPWPe6hcArKzk) | 4:30 |
 | 1115 | [Just In Time](https://open.spotify.com/track/1MDgaeWzE176RBsaLqWiw4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [NINA SIMONE INTEGRAL 1957\- 1962](https://open.spotify.com/album/1wVseZxXPYZfi2u2h07Yqr) | 6:36 |
+| 1116 | [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:37 |
+| 1117 | [Devotion](https://open.spotify.com/track/21p9K1RiiIHSvfJeK2wwnF) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP) | 2:20 |
+| 1118 | [After Hours](https://open.spotify.com/track/1lkdJUFURp7fLygyNRBKWW) | [Zeke Bleu](https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0) | [Before Bleu](https://open.spotify.com/album/2R9Bi5esA82U43CdRA7Gey) | 2:20 |
+| 1119 | [Video Fxx](https://open.spotify.com/track/078XQ2Mw9cleLVOgot6aH3) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [G3](https://open.spotify.com/artist/11LAQRsIwpKvZIFc5HZQxM), [Rae Rae](https://open.spotify.com/artist/0YxH1fSdQT6V7bPAhAb5By), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj), [Jammz](https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0) | [En Famille](https://open.spotify.com/album/4MZWyMMdAGA8jwa7rhZk7P) | 3:54 |
+| 1120 | [Answers \(Interlude\)](https://open.spotify.com/track/7HDiUHX7y9QQokGFsAzZUr) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Good Mourning](https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU) | 2:14 |
+| 1121 | [TELEPATHY LOVE \(feat\. Clara La Sun\)](https://open.spotify.com/track/4IAb6FY3p2FvLoXfCrPGCH) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 2:59 |
+| 1122 | [I'd Do Anything For You](https://open.spotify.com/track/781598Nn95TxDrkXny42A8) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP) | 2:42 |
+| 1123 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 
-Snapshot ID: `AAALUiAY5EXC3xxLtF4s1PpJX0KgoGCh`
+Snapshot ID: `AAALWo90xQHtxqrCeMWIoyolz20Tk6F7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 347 likes - 2,520 songs - 6 day 4 hr 12 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 347 likes - 2,522 songs - 6 day 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2528,5 +2528,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2518 | [Dawn Chorus](https://open.spotify.com/track/7Gy7xX4ZDCFinKUrK9WWcc) | [Hellykom](https://open.spotify.com/artist/4TNnchYcTeKxyA5bbhdVsS) | [Dawn Chorus](https://open.spotify.com/album/2SV3jrMGDmMmHw8afUwyHI) | 2:40 |
 | 2519 | [Those Who Fail](https://open.spotify.com/track/39Uw09gw3w49EcHhopHUnf) | [Medivh](https://open.spotify.com/artist/6H43kafh75INiZoNU3X8Dw) | [Those Who Fail](https://open.spotify.com/album/7eukTEXUan988Bv5O9qdDe) | 4:26 |
 | 2520 | [Ides Of March](https://open.spotify.com/track/4Rq5Ytad92LP8xHIf0WhKf) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [Morgan S Oteric](https://open.spotify.com/artist/0LvGEKR2OwTW2k6LDbxO7X) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:33 |
+| 2521 | [Behind You, Beside You](https://open.spotify.com/track/1gutdX4YwZVzpU03CxCvj0) | [Seven AM](https://open.spotify.com/artist/6QF8DtTiM1u89alH5DboWv) | [Behind You, Beside You](https://open.spotify.com/album/2hUhWRjmhRza1rqC0UnAYj) | 5:07 |
+| 2522 | [Дождь](https://open.spotify.com/track/0Nc8Dz4CeakHfHNJiTGbSC) | [The Atlant](https://open.spotify.com/artist/3tETwPIWyOJTBwJ0dgOS1X) | [Дождь](https://open.spotify.com/album/4BDdK99tGiHflIIMndceMw) | 3:38 |
 
-Snapshot ID: `AAAKsdRUf/VjMxvEM9fLgs32MTQuaVm9`
+Snapshot ID: `AAAKs0be5pRh18+KlPj7TNAVO2zbMeRe`

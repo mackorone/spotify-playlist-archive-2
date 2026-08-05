@@ -4,7 +4,7 @@
 
 > Fino y elegante como Karol G.
 
-471 songs - 1 day 0 hr 41 min
+472 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2026-07-10 | 2026-08-01 |
 | [La Culpa](https://open.spotify.com/track/1264AcPzl80W7AEM3pvUdQ) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [La Culpa](https://open.spotify.com/album/25lvksonPpljfU7eC2agbl) | 2:05 | 2026-05-01 | 2026-05-14 |
 | [La HP \- Spotify Singles](https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La HP \- Spotify Singles](https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB) | 3:06 | 2022-11-11 | 2022-12-10 |
+| [La Mamá de Dora](https://open.spotify.com/track/33TYe1fkcybaqnIV0fKlPh) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Bravvs](https://open.spotify.com/artist/2EstnBv92UlKvEoCLSPOOh) | [La Mamá de Dora](https://open.spotify.com/album/4KXwIGjfaImTnLAQMn5jAS) | 2:45 | 2026-08-04 |  |
 | [La mejor noche d mi vida <3](https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Dulcinea](https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb) | 3:15 | 2024-05-17 | 2024-07-27 |
 | [La Mentira Que Amamos](https://open.spotify.com/track/2gUMZd72NZRUnuanpr676W) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Mentira Que Amamos](https://open.spotify.com/album/5siXhc2xXfaWYE84VmUjrl) | 3:16 | 2026-03-18 | 2026-03-27 |
 | [La Monda](https://open.spotify.com/track/7cIyY45Uw7NIWkVt3QkbsH) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [La Monda](https://open.spotify.com/album/2Z4jEq2zHhWK9XagSRjnTV) | 2:56 | 2026-07-10 |  |

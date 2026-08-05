@@ -1,12 +1,12 @@
 {
   "description": "Los mejores \u00e9xitos de hoy en Colombia. Foto: Kris R.\n",
-  "num_followers": 927921,
+  "num_followers": 922495,
   "original_name": "\u00c9xitos Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI6GC0ZODIZ4fsalFV1DEUZrECs9",
+  "snapshot_id": "AAAAANw6ddGHPeLzuGavriVJnl6LXEX9",
   "tracks": [
     {
       "added_at": "2026-06-19 00:01:52",
@@ -333,26 +333,6 @@
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
     },
     {
-      "added_at": "2026-06-19 00:01:52",
-      "album": {
-        "name": "Las Mu\u00f1equitas",
-        "url": "https://open.spotify.com/album/7n15KecHJpMAvSLUpllKHu"
-      },
-      "artists": [
-        {
-          "name": "Mr Plata",
-          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
-        },
-        {
-          "name": "El Americano 4KT",
-          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Las Mu\u00f1equitas",
-      "url": "https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f"
-    },
-    {
       "added_at": "2026-07-03 04:59:17",
       "album": {
         "name": "EL PEOR HOMBRE DEL MUNDO",
@@ -377,6 +357,26 @@
       "url": "https://open.spotify.com/track/26wRv00loYD9urTl85LFbI"
     },
     {
+      "added_at": "2026-08-04 12:27:33",
+      "album": {
+        "name": "Las Mu\u00f1equitas",
+        "url": "https://open.spotify.com/album/2w7YR5gaVkKxrUMfnfEEnz"
+      },
+      "artists": [
+        {
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Las Mu\u00f1equitas",
+      "url": "https://open.spotify.com/track/3yidFe42tke37g3KP7wzZr"
+    },
+    {
       "added_at": "2026-06-19 00:01:52",
       "album": {
         "name": "Pal Agua",
@@ -395,6 +395,22 @@
       "duration_ms": 206296,
       "name": "Pal Agua",
       "url": "https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0"
+    },
+    {
+      "added_at": "2026-06-19 00:01:52",
+      "album": {
+        "name": "QU\u00c9 L\u00cdO",
+        "url": "https://open.spotify.com/album/6FXL5Y6vlq2nWuubKZymog"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 132827,
+      "name": "QU\u00c9 L\u00cdO",
+      "url": "https://open.spotify.com/track/5vDhrXCNTkyahObQwZOYL9"
     },
     {
       "added_at": "2026-06-19 00:01:52",
@@ -419,22 +435,6 @@
       "duration_ms": 335104,
       "name": "Te Entiendo - Remix",
       "url": "https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2"
-    },
-    {
-      "added_at": "2026-06-19 00:01:52",
-      "album": {
-        "name": "QU\u00c9 L\u00cdO",
-        "url": "https://open.spotify.com/album/6FXL5Y6vlq2nWuubKZymog"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 132827,
-      "name": "QU\u00c9 L\u00cdO",
-      "url": "https://open.spotify.com/track/5vDhrXCNTkyahObQwZOYL9"
     },
     {
       "added_at": "2026-06-26 16:24:44",

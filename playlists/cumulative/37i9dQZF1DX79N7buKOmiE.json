@@ -27,6 +27,32 @@
     },
     {
       "album": {
+        "name": "10\u00e9jszak\u00e1s kaland",
+        "url": "https://open.spotify.com/album/2UUR8J32nmvyUSvUNNKCyd"
+      },
+      "artists": [
+        {
+          "name": "Tolvai Reni",
+          "url": "https://open.spotify.com/artist/1o3h9A8UXmaPyz7nEXdJD4"
+        },
+        {
+          "name": "Szek\u00e9r Gerg\u0151",
+          "url": "https://open.spotify.com/artist/0asJOq10QQ4t0Repov7ALD"
+        },
+        {
+          "name": "AVENAR",
+          "url": "https://open.spotify.com/artist/5nTvgYuULkSnpVrzKrFg5o"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201285,
+      "name": "10\u00e9jszak\u00e1s kaland",
+      "url": "https://open.spotify.com/track/2LeTnbMh7KlK0yomFQ29hj"
+    },
+    {
+      "album": {
         "name": "11 (K\u00e9t Sz\u00e1l)",
         "url": "https://open.spotify.com/album/54PPiS0I8Bo9B3vklp2akb"
       },
@@ -128,7 +154,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 210752,
       "name": "A HAL",
       "url": "https://open.spotify.com/track/06mYv2UCNnUnkpn1d9Q3Dh"
@@ -182,7 +208,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 181121,
       "name": "A nyaral\u00f3 terasz\u00e1n",
       "url": "https://open.spotify.com/track/3ZWlG6uEp0wZldavExZVWG"
@@ -432,7 +458,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 189090,
       "name": "Angyal",
       "url": "https://open.spotify.com/track/6vhCKswUq3GLI8mLyTdiTr"
@@ -1716,7 +1742,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 211440,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/5pFdhjTBTnJNr0nfIXQSJJ"
@@ -1796,6 +1822,24 @@
       "duration_ms": 216457,
       "name": "Egy \u00f6lel\u00e9s a vil\u00e1g",
       "url": "https://open.spotify.com/track/0DomUrKdWGEmYiMJxvCiBp"
+    },
+    {
+      "album": {
+        "name": "Egyenes az \u00fat",
+        "url": "https://open.spotify.com/album/1TeZVPWPlGDC16r9gqTORP"
+      },
+      "artists": [
+        {
+          "name": "jaylenn",
+          "url": "https://open.spotify.com/artist/5hUkcECT7APNs5c0qVQkcx"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223578,
+      "name": "Egyenes az \u00fat",
+      "url": "https://open.spotify.com/track/5FidbfsfV9SRRZ0XpLwKA6"
     },
     {
       "album": {
@@ -2132,7 +2176,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 129374,
       "name": "Feel The Fire",
       "url": "https://open.spotify.com/track/4Bgr5oBpJWyEmvRjIb1QVJ"
@@ -2336,6 +2380,28 @@
       "duration_ms": 124285,
       "name": "Forog idebent",
       "url": "https://open.spotify.com/track/7KcNQAIwksvtj4kTk10oiZ"
+    },
+    {
+      "album": {
+        "name": "FORR\u00d3",
+        "url": "https://open.spotify.com/album/3h4yYeg7lRYd9mggcYKUKE"
+      },
+      "artists": [
+        {
+          "name": "GAB",
+          "url": "https://open.spotify.com/artist/6DaJdp4qyHYvopze0vQqjd"
+        },
+        {
+          "name": "ONE-AB",
+          "url": "https://open.spotify.com/artist/0oZ9vfu1t7As7kWZq6M3vl"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "FORR\u00d3",
+      "url": "https://open.spotify.com/track/3D2V6VA6EXBib9adkaIpBn"
     },
     {
       "album": {
@@ -2998,6 +3064,24 @@
       "duration_ms": 172571,
       "name": "Harmat lenn\u00e9k",
       "url": "https://open.spotify.com/track/5AZOc3g6cTPZ98qbh2Ekj7"
+    },
+    {
+      "album": {
+        "name": "Harmincvalah\u00e1ny",
+        "url": "https://open.spotify.com/album/48NeJ5HjTPHbp56HwP9dYW"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186021,
+      "name": "Harmincvalah\u00e1ny",
+      "url": "https://open.spotify.com/track/1YcmGlWobFYsT03A4I0kmE"
     },
     {
       "album": {
@@ -3695,6 +3779,24 @@
     },
     {
       "album": {
+        "name": "Kard",
+        "url": "https://open.spotify.com/album/7B4cRwWiJnk22tSF1mNxOr"
+      },
+      "artists": [
+        {
+          "name": "XOFYA",
+          "url": "https://open.spotify.com/artist/1T3mOzJ6O72nXS7HXcQqV1"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Kard",
+      "url": "https://open.spotify.com/track/07UgVvP3RDXETysPsvBZKN"
+    },
+    {
+      "album": {
         "name": "Kattos (Original)",
         "url": "https://open.spotify.com/album/1hGGWUTiZKoenoh8TDcWwy"
       },
@@ -4104,7 +4206,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 181271,
       "name": "k\u00e9k",
       "url": "https://open.spotify.com/track/70m0XDH55DdFSGfWcUa3Wz"
@@ -4697,6 +4799,42 @@
     },
     {
       "album": {
+        "name": "Main hoe",
+        "url": "https://open.spotify.com/album/0efK3caC1OsdoNdSc4hHqc"
+      },
+      "artists": [
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167172,
+      "name": "Main hoe",
+      "url": "https://open.spotify.com/track/1MXazdZm0ezYXeMsish3JZ"
+    },
+    {
+      "album": {
+        "name": "Majd Meg\u00e9rkezik",
+        "url": "https://open.spotify.com/album/4hSLuBvol6qDGuedX7dAET"
+      },
+      "artists": [
+        {
+          "name": "Amanna",
+          "url": "https://open.spotify.com/artist/54wEXl1f4JkIWqUdWOodxJ"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158797,
+      "name": "Majd Meg\u00e9rkezik",
+      "url": "https://open.spotify.com/track/3P0I35I77ftbqmJ39SWk0h"
+    },
+    {
+      "album": {
         "name": "Majdnem mindig baj van",
         "url": "https://open.spotify.com/album/2mZw7z6P4izsfEECt5FGT3"
       },
@@ -4910,7 +5048,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 170572,
       "name": "ments meg!",
       "url": "https://open.spotify.com/track/76oE6VSl2BSl7IcxHrW5zI"
@@ -4932,6 +5070,28 @@
       "duration_ms": 126947,
       "name": "MESS",
       "url": "https://open.spotify.com/track/2Ksy0mAH7hM5hh2TQSOyAx"
+    },
+    {
+      "album": {
+        "name": "mi lett volna ha",
+        "url": "https://open.spotify.com/album/5UQIcrtbA3OlOWRSv9ehUI"
+      },
+      "artists": [
+        {
+          "name": "fannisza",
+          "url": "https://open.spotify.com/artist/6tO7A1RuaqhmuVHgQIUcFD"
+        },
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/109sAHLhblz2Xq0YcJhyVb"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199283,
+      "name": "mi lett volna ha",
+      "url": "https://open.spotify.com/track/7xPWH0RQLUHyDS3ZE5Srhw"
     },
     {
       "album": {
@@ -5152,7 +5312,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 149728,
       "name": "Mondhatsz B\u00e1rmit",
       "url": "https://open.spotify.com/track/660ovD8ChH2od25eSVMZBk"
@@ -5336,7 +5496,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 150400,
       "name": "M\u00e9g egy kicsit",
       "url": "https://open.spotify.com/track/06RIvk744t5k7xQsKSwaeL"
@@ -6216,7 +6376,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 237312,
       "name": "PIROS FOLYAD\u00c9K",
       "url": "https://open.spotify.com/track/01lu7tlNWwa0YrNql1Ikjf"
@@ -6434,10 +6594,28 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 139345,
       "name": "Rabszolga",
       "url": "https://open.spotify.com/track/51IUF2k7kR8AtY3dPyg4jU"
+    },
+    {
+      "album": {
+        "name": "RAGADA",
+        "url": "https://open.spotify.com/album/1pVbI0RUr40QMP4qmeNC2p"
+      },
+      "artists": [
+        {
+          "name": "Paulina",
+          "url": "https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163910,
+      "name": "RAGADA",
+      "url": "https://open.spotify.com/track/7cNksWg6Ow7mlNRuBsWnUa"
     },
     {
       "album": {
@@ -6604,6 +6782,24 @@
       "duration_ms": 123726,
       "name": "rush",
       "url": "https://open.spotify.com/track/6BBx3QKmAxdiwSgxo5BTYb"
+    },
+    {
+      "album": {
+        "name": "R\u00e1d hallgatok",
+        "url": "https://open.spotify.com/album/2QDHhWdh2P6uzXFIEaL8QM"
+      },
+      "artists": [
+        {
+          "name": "Dallos Bogi",
+          "url": "https://open.spotify.com/artist/1MEHGQ0ZIRIhcVDV57QoNd"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168647,
+      "name": "R\u00e1d hallgatok",
+      "url": "https://open.spotify.com/track/5bsxObpbd5kzDxzUl6jlkk"
     },
     {
       "album": {
@@ -7009,6 +7205,24 @@
     },
     {
       "album": {
+        "name": "stay hydrated",
+        "url": "https://open.spotify.com/album/0nD2ltRIaXFrJCAmiKghJx"
+      },
+      "artists": [
+        {
+          "name": "Aidaya",
+          "url": "https://open.spotify.com/artist/7IS88x4iaDHIhzMTqmpet2"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "stay hydrated",
+      "url": "https://open.spotify.com/track/46rilmO6nCKulz1IZBOclI"
+    },
+    {
+      "album": {
         "name": "Stoned In Love (Remix)",
         "url": "https://open.spotify.com/album/65GXpHegCDpXCmdXuewrUm"
       },
@@ -7168,7 +7382,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 150000,
       "name": "Szellemek",
       "url": "https://open.spotify.com/track/0tYCr8lxJhlXI8bZv8Zgo4"
@@ -7664,7 +7878,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 69750,
       "name": "Tavasznak l\u00e1tlak",
       "url": "https://open.spotify.com/track/2Sxq4bLK3bukJObLV8nbqT"
@@ -7801,6 +8015,24 @@
     },
     {
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/527WThPElJ2zVD0SXN2wst"
+      },
+      "artists": [
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121512,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5B8GKNiAHjmlxtizWo58E3"
+    },
+    {
+      "album": {
         "name": "teszk\u00f3parkol\u00f3",
         "url": "https://open.spotify.com/album/38RzBOiYyG7WxioIuSGvp1"
       },
@@ -7856,6 +8088,24 @@
       "duration_ms": 211000,
       "name": "The Crow",
       "url": "https://open.spotify.com/track/18Pk2sCPSeHUIebhpW1rrm"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/1wY4wFEpFW4SJOtDTFHrQb"
+      },
+      "artists": [
+        {
+          "name": "ROSE MAY",
+          "url": "https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3BX8ngHfLNdEHGAiz1winC"
     },
     {
       "album": {
@@ -8279,6 +8529,24 @@
     },
     {
       "album": {
+        "name": "Unforgettable Affair",
+        "url": "https://open.spotify.com/album/4b5OuruhgdgsSVrRIDVXeM"
+      },
+      "artists": [
+        {
+          "name": "Anna Kornis",
+          "url": "https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158051,
+      "name": "Unforgettable Affair",
+      "url": "https://open.spotify.com/track/0JE6k5Y2Ff7RF6pz7Q5BHC"
+    },
+    {
+      "album": {
         "name": "Unnom k\u00e9ne",
         "url": "https://open.spotify.com/album/2wCElNNdcPBIH4pyTqKTVI"
       },
@@ -8360,6 +8628,28 @@
       "duration_ms": 154062,
       "name": "Vadmacska",
       "url": "https://open.spotify.com/track/4FtdNGkCmyuBER34QwSo5I"
+    },
+    {
+      "album": {
+        "name": "Vadvir\u00e1g",
+        "url": "https://open.spotify.com/album/1Gw3DCeIDdhIBPv3TtRdFV"
+      },
+      "artists": [
+        {
+          "name": "Korinna",
+          "url": "https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH"
+        },
+        {
+          "name": "UTAZ\u00d8",
+          "url": "https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225203,
+      "name": "Vadvir\u00e1g",
+      "url": "https://open.spotify.com/track/3KH2XUm2Zybsd5Nt1l6vjW"
     },
     {
       "album": {
@@ -8468,7 +8758,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 188800,
       "name": "Velem \u00c9g",
       "url": "https://open.spotify.com/track/32p6hZN0tIOqj25rHPTx3n"
@@ -8522,7 +8812,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 176538,
       "name": "Vihar ut\u00e1n",
       "url": "https://open.spotify.com/track/7w3dfGBZdIrTAXdYB0v06v"

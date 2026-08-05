@@ -1,12 +1,12 @@
 {
   "description": "Everything Broadway-adjacent. Cover:  Hamilton at the 2025 Tony Awards",
-  "num_followers": 19020,
+  "num_followers": 19037,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKYDAsW0/PjA42G3//B7tdsv/mB6",
+  "snapshot_id": "AAAAAA6F7+1Ijxr2ZiE6g2xjCDERfoU5",
   "tracks": [
     {
       "added_at": "2026-07-20 14:30:29",
@@ -95,6 +95,26 @@
       "duration_ms": 171040,
       "name": "How Far I'll Go",
       "url": "https://open.spotify.com/track/0L7dpG5vvfPxrhJnEZ5zg1"
+    },
+    {
+      "added_at": "2026-08-04 14:34:26",
+      "album": {
+        "name": "Beautiful Pain",
+        "url": "https://open.spotify.com/album/26KYVmaz8xGAPqN3FAdkYg"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Kraft",
+          "url": "https://open.spotify.com/artist/0KsQbuiOVohqwZQc1VsuOp"
+        },
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "duration_ms": 184725,
+      "name": "Beautiful Pain",
+      "url": "https://open.spotify.com/track/1wT7MaTl5DboZslKDZWH81"
     },
     {
       "added_at": "2026-07-20 14:30:29",
@@ -395,22 +415,6 @@
       "duration_ms": 113230,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij"
-    },
-    {
-      "added_at": "2026-07-20 14:30:29",
-      "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 231233,
-      "name": "No Place Like Home",
-      "url": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
     },
     {
       "added_at": "2026-07-20 14:30:29",

@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 186190,
+  "num_followers": 186126,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Kleber Lucas 30 anos - Ao vivo no Teatro Rival",
-        "url": "https://open.spotify.com/album/3eDeYVVTHzx7Yjc2KYblFq"
-      },
-      "artists": [
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
-        }
-      ],
-      "duration_ms": 266011,
-      "name": "Jeov\u00e1 \u00e9 o teu Cavaleiro (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2xtcFBJmzJcnhW7D4dqNqb"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Sonhos de Deus",
         "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 166200,
       "name": "N\u00e3o Pare de Crer",
       "url": "https://open.spotify.com/track/5c9H63Ch7zPugB36knsHmc"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Kleber Lucas 30 anos - Ao vivo no Teatro Rival",
+        "url": "https://open.spotify.com/album/3eDeYVVTHzx7Yjc2KYblFq"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "duration_ms": 266011,
+      "name": "Jeov\u00e1 \u00e9 o teu Cavaleiro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2xtcFBJmzJcnhW7D4dqNqb"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -231,22 +231,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "A Voz",
-        "url": "https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX"
+        "name": "Um Pedido",
+        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
       },
       "artists": [
         {
-          "name": "Hiago Klayton",
-          "url": "https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m"
-        },
-        {
-          "name": " CGM - Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
         }
       ],
-      "duration_ms": 260113,
-      "name": "A Voz",
-      "url": "https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4"
+      "duration_ms": 255568,
+      "name": "Um Pedido",
+      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -299,18 +295,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Um Pedido",
-        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
+        "name": "A Voz",
+        "url": "https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX"
       },
       "artists": [
         {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+          "name": "Hiago Klayton",
+          "url": "https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
         }
       ],
-      "duration_ms": 255568,
-      "name": "Um Pedido",
-      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
+      "duration_ms": 260113,
+      "name": "A Voz",
+      "url": "https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Por Amor a Ti",
+        "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
+      },
+      "artists": [
+        {
+          "name": "Luciano Claw",
+          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Medley: Dom Supremo",
+      "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Escolhi",
         "url": "https://open.spotify.com/album/77XH04CbZiCwKrhtbMoHa4"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 301545,
       "name": "Escolhi",
       "url": "https://open.spotify.com/track/2xgQfX3ZQah3fzQCMWkNR0"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Por Amor a Ti",
-        "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
-      },
-      "artists": [
-        {
-          "name": "Luciano Claw",
-          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Medley: Dom Supremo",
-      "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Quero Te Levar Comigo",
+        "url": "https://open.spotify.com/album/4kvKVOVwLkE1YYP0i7SIq6"
+      },
+      "artists": [
+        {
+          "name": "Bruno Cerqueira",
+          "url": "https://open.spotify.com/artist/2YKr7WRb3XjesJU0P7oC3D"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Quero Te Levar Comigo",
+      "url": "https://open.spotify.com/track/0ATKsRzQ4dQvN0m4sewCTB"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Ele Me Salvou",
         "url": "https://open.spotify.com/album/4YG8f8VlBecQsisfW9tBOz"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 177721,
       "name": "Ele Me Salvou",
       "url": "https://open.spotify.com/track/369AIQyJtYlpCythA4cC1d"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Quero Te Levar Comigo",
-        "url": "https://open.spotify.com/album/4kvKVOVwLkE1YYP0i7SIq6"
-      },
-      "artists": [
-        {
-          "name": "Bruno Cerqueira",
-          "url": "https://open.spotify.com/artist/2YKr7WRb3XjesJU0P7oC3D"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Quero Te Levar Comigo",
-      "url": "https://open.spotify.com/track/0ATKsRzQ4dQvN0m4sewCTB"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Aonde Est\u00e1 Deus?",
-        "url": "https://open.spotify.com/album/3CXe90GxZOBmxZidCtkwjY"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 239517,
-      "name": "Oh Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/3XXjak71y3Keeg7KPhpO2A"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Mem\u00f3ri4s Groove (Ao Vivo)",
         "url": "https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 277777,
       "name": "Santo, Santo, Santo - Ao Vivo",
       "url": "https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Aonde Est\u00e1 Deus?",
+        "url": "https://open.spotify.com/album/3CXe90GxZOBmxZidCtkwjY"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 239517,
+      "name": "Oh Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/3XXjak71y3Keeg7KPhpO2A"
     },
     {
       "added_at": "2026-06-12 03:01:51",

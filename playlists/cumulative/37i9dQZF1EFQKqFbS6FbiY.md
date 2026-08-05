@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-760 songs - 1 day 13 hr 0 min
+761 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [Pergunta Sem Resposta](https://open.spotify.com/track/3pNOWn79T8pVwcz6RYtmla) | [Augusto e Rafael](https://open.spotify.com/artist/1md31EhusZo6xEhEXVXbb3) | [Pergunta Sem Resposta](https://open.spotify.com/album/4665llKEi2zuNkSaneEqbb) | 3:01 | 2026-04-09 |  |
 | [Pergunta Sem Resposta](https://open.spotify.com/track/58XunJc0zDAUUIe2iTKLA0) | [Augusto e Rafael](https://open.spotify.com/artist/1md31EhusZo6xEhEXVXbb3) | [Pergunta Sem Resposta](https://open.spotify.com/album/5TmFYOwzFE8rbocdW81fkK) | 3:01 | 2023-12-30 | 2026-04-10 |
 | [Perguntas \- Ao Vivo](https://open.spotify.com/track/3vGtwUhJWPRNDt1z1Qfp94) | [Felipe Grilo](https://open.spotify.com/artist/0kBK89gG6KK0EerF62bfM3) | [Quebra Minha Promessa \(Ao Vivo\)](https://open.spotify.com/album/16SaOElwtj4swVNyxwYYo8) | 3:03 | 2023-12-30 | 2025-06-28 |
+| [Pessoalmente](https://open.spotify.com/track/2ayUo8UZVa9GX6RPmPQ256) | [Val Dornellas](https://open.spotify.com/artist/5fmSpn3Sfsg3ARxjWun59m) | [Pessoalmente](https://open.spotify.com/album/3TMYP6xi5jRFewRtT7g8Xj) | 2:31 | 2026-08-04 |  |
 | [Pezin na Rua](https://open.spotify.com/track/1DpHkJ32dBZStaZaNtLjyC) | [Bonde Dos PlayBoys E Sucesso E Moral](https://open.spotify.com/artist/7F2sxEYl0pDlaEoMNJy6mC), [Jucimar Fraga](https://open.spotify.com/artist/5Dq3HA6ZdnRhQDdNhOYa3K) | [A Pizadinha dos Vaqueiros](https://open.spotify.com/album/3N4L0bQPkQTCc6A6LozQMC) | 3:17 | 2025-07-09 | 2026-06-19 |
 | [Peão de Sorte](https://open.spotify.com/track/7EAxqSiZdDjs5soeGbdRMR) | [Pepê Figueiredo](https://open.spotify.com/artist/1mjXgySVuyBfkqyIjkVkZW) | [Peão de Sorte](https://open.spotify.com/album/6G1S7eKKNFLDX1wCZsgShw) | 3:06 | 2025-05-31 |  |
 | [Pinga e Rapariga](https://open.spotify.com/track/2gvAfUV7p4UWkbKF8hrFG3) | [Althaír & Alexandre](https://open.spotify.com/artist/6UtAd1rrgAMSdH8uF8AvqL) | [Composições](https://open.spotify.com/album/4WKb9ZZMwxzjIm64sM9kxs) | 2:45 | 2023-12-30 |  |

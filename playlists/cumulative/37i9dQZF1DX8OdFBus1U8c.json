@@ -10147,6 +10147,28 @@
     },
     {
       "album": {
+        "name": "Seythaane",
+        "url": "https://open.spotify.com/album/4FPlSNIgUA6JEULFZuLKyr"
+      },
+      "artists": [
+        {
+          "name": "ERI",
+          "url": "https://open.spotify.com/artist/4VQHHsSCQERlJCKrdrSdYB"
+        },
+        {
+          "name": "Ashok Ponnappan",
+          "url": "https://open.spotify.com/artist/2cg5eHSpzL6fjY6ingZ2RX"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170958,
+      "name": "Seythaane",
+      "url": "https://open.spotify.com/track/2YlAyXR9Mx92lDUHJ3rH7N"
+    },
+    {
+      "album": {
         "name": "Sherifkante Chayakada",
         "url": "https://open.spotify.com/album/1413nRXSio7CuXk0s47muS"
       },

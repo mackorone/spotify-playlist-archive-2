@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,483 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,483 likes - 75 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 53 | [EVOLUTION](https://open.spotify.com/track/0gUSRpLutcxzLYewLc7leg) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM 5th ANNIVERSARY 04](https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS) | 4:46 |
 | 54 | [いつかのトライアングル](https://open.spotify.com/track/1HFMjPsihGlVX4MiECVlgp) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D), [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 5:49 |
 | 55 | [POKER FAITH \-ポーカーフェイス\-](https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03](https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK) | 4:03 |
-| 56 | [VICTORY BELIEVER](https://open.spotify.com/track/5ltT1kT95shiznz2wQiZ3l) | [W](https://open.spotify.com/artist/6deIsG3p0GRcNITnDdk4ok) | [THE IDOLM@STER SideM ST@RTING LINE\-05 W](https://open.spotify.com/album/0l7nhxLWcTLIyY8zupFA4f) | 4:31 |
-| 57 | [Symphonic Brave](https://open.spotify.com/track/5PhOAlr6qATj51HFHOZMaw) | [Legenders](https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:46 |
+| 56 | [Symphonic Brave](https://open.spotify.com/track/5PhOAlr6qATj51HFHOZMaw) | [Legenders](https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:46 |
+| 57 | [VICTORY BELIEVER](https://open.spotify.com/track/5ltT1kT95shiznz2wQiZ3l) | [W](https://open.spotify.com/artist/6deIsG3p0GRcNITnDdk4ok) | [THE IDOLM@STER SideM ST@RTING LINE\-05 W](https://open.spotify.com/album/0l7nhxLWcTLIyY8zupFA4f) | 4:31 |
 | 58 | [サ・ヨ・ナ・ラ Summer Holiday](https://open.spotify.com/track/3GTuCwTQnwQwdDQF427hWN) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:29 |
 | 59 | [笑顔の祭りにゃ、福来る](https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 03](https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl) | 4:56 |
 | 60 | [RIGHT WAY, SOUL MATE](https://open.spotify.com/track/3DzukJkMEOPLkZc8P9dHJC) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 03](https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl) | 4:36 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 72 | [Pavé Étoiles](https://open.spotify.com/track/41WZEMDkuXUG4fmJJRJ5XP) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:07 |
 | 73 | [BRAND NEW FIELD](https://open.spotify.com/track/1NxXF8uyBimRd8uSiutGts) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D) | [THE IDOLM@STER SideM ST@RTING LINE\-01 Jupiter](https://open.spotify.com/album/22IQ39FuyEE3gXT8wAW9n1) | 6:02 |
 | 74 | [Yell Song](https://open.spotify.com/track/5qW0XtcObOGqgcnd5BOr3R) | [秋月 涼 \(CV.三瓶由布子\)](https://open.spotify.com/artist/1TwIAjt19YsW6wStKDfzcY) | [THE IDOLM@STER SideM 49 ELEMENTS \-10 F\-LAGS](https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh) | 4:05 |
-| 75 | [Multiple Entertainment Show!](https://open.spotify.com/track/2TntR07b85I4VG8htD397u) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM GROWING SIGN@L 13 S.E.M](https://open.spotify.com/album/0UGtgMGUTtpAGR0LdzXDWE) | 3:45 |
+| 75 | [ROAD TO THE FUTURE](https://open.spotify.com/track/3845SOwA3hXDHMijSX1caF) | [円城寺道流 \(CV.濱野大輝\)](https://open.spotify.com/artist/53qbQRpLiystrtb7ujOgmV) | [THE IDOLM@STER SideM ORIGIN@L PIECES 06](https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB) | 5:02 |
 
 Snapshot ID: `AAAAAJJXzQJYWeq15uYHgmTUTrM/rHB5`

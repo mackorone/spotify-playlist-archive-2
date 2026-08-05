@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAADIT06Kr86YsZdr4ODany/H",
+  "snapshot_id": "am/aAAAAAABqZuy1/XZG5rK9b5IUQsZ6",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 195760,
-      "name": "do it to myself",
-      "url": "https://open.spotify.com/track/05mZ4vAbzyGFAeiqGOJEKS"
+      "duration_ms": 181040,
+      "name": "bury you",
+      "url": "https://open.spotify.com/track/75kozyljpuhllnRfboXMEp"
     },
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 181040,
-      "name": "bury you",
-      "url": "https://open.spotify.com/track/75kozyljpuhllnRfboXMEp"
+      "duration_ms": 195760,
+      "name": "do it to myself",
+      "url": "https://open.spotify.com/track/05mZ4vAbzyGFAeiqGOJEKS"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 212026,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G"
+      "duration_ms": 219280,
+      "name": "First Kiss Feeling",
+      "url": "https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 219280,
-      "name": "First Kiss Feeling",
-      "url": "https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw"
+      "duration_ms": 212026,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 232078,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/2Jt31docTzpsvfouRxEwoX"
+      "duration_ms": 179383,
+      "name": "Pop Song",
+      "url": "https://open.spotify.com/track/5X8TmJVSztmMqT0kq2z6G3"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 179383,
-      "name": "Pop Song",
-      "url": "https://open.spotify.com/track/5X8TmJVSztmMqT0kq2z6G3"
+      "duration_ms": 232078,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/2Jt31docTzpsvfouRxEwoX"
     },
     {
       "added_at": null,
@@ -615,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shaking In The Water",
-        "url": "https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih"
+        "name": "Complicated (feat. Heights)",
+        "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
       },
       "artists": [
         {
           "name": "The XCERTS",
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        },
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
         }
       ],
-      "duration_ms": 230451,
-      "name": "North East Kid",
-      "url": "https://open.spotify.com/track/5Itxr5Pxr7Gm283MnkbcRv"
+      "duration_ms": 212399,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
     },
     {
       "added_at": null,
@@ -679,28 +683,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Complicated (feat. Heights)",
-        "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
+        "name": "Shaking In The Water",
+        "url": "https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih"
       },
       "artists": [
         {
           "name": "The XCERTS",
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        },
-        {
-          "name": "HEIGHTS",
-          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
         }
       ],
-      "duration_ms": 212399,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
+      "duration_ms": 230451,
+      "name": "North East Kid",
+      "url": "https://open.spotify.com/track/5Itxr5Pxr7Gm283MnkbcRv"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Wildheart Dreaming",
-        "url": "https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc"
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 192638,
-      "name": "Fight or Run",
-      "url": "https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q"
+      "duration_ms": 195066,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
       "duration_ms": 270706,
       "name": "Distant Memory",
       "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 317573,
-      "name": "Hurt with Me",
-      "url": "https://open.spotify.com/track/1jyz1bZTmvO1bfBK3f8sWk"
     }
   ],
   "unique_name": "This Is The XCERTS",

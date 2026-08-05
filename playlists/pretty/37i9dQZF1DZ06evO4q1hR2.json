@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 81866,
+  "num_followers": 81885,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAABbBv6SHfn90ankwSTf6y69",
+  "snapshot_id": "am/aAAAAAAB5vGXGULDsFQY1Wqv9H1HU",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Basico",
-        "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 145773,
-      "name": "El Amor No Tiene Edad",
-      "url": "https://open.spotify.com/track/1YLEL2AzuL2yIxadFhgFw8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Mazatl\u00e1n, Sinaloa (En Vivo)",
         "url": "https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 178202,
       "name": "Prohibido (En Vivo)",
       "url": "https://open.spotify.com/track/7bpZfP6LLBJF9YxTkMHbmx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Basico",
+        "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 145773,
+      "name": "El Amor No Tiene Edad",
+      "url": "https://open.spotify.com/track/1YLEL2AzuL2yIxadFhgFw8"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Es Lo Nuestro - 20 Exitos",
-        "url": "https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Profundamente",
-      "url": "https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Amor No Tiene Edad",
         "url": "https://open.spotify.com/album/5ld9ikvXhVrDJ0D3OwPY5K"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 189573,
       "name": "Pedro Avil\u00e9s",
       "url": "https://open.spotify.com/track/2O5PXvFcz0MrjLYdcDmyJS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esto Es Lo Nuestro - 20 Exitos",
+        "url": "https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB"
     },
     {
       "added_at": null,

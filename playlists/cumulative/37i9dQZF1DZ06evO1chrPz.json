@@ -619,6 +619,28 @@
     },
     {
       "album": {
+        "name": "Be Lifted High",
+        "url": "https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "William Matthews",
+          "url": "https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314480,
+      "name": "Deep Cries Out",
+      "url": "https://open.spotify.com/track/7slaRD6KI0uceNvGBih9yF"
+    },
+    {
+      "album": {
         "name": "Without Words: Genesis",
         "url": "https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2"
       },
@@ -1390,7 +1412,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 434745,
       "name": "Holy Hands - Live",
       "url": "https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp"

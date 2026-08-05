@@ -1,4 +1,4 @@
-## Playlists \(9300\)
+## Playlists \(9301\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - ["Wuthering Heights" Official Playlist](/playlists/pretty/37i9dQZF1DWXeFtiUMSxKD.md)
@@ -1429,6 +1429,7 @@
 - [City Pop: シティ・ポップの今](/playlists/pretty/37i9dQZF1DXdY5tVYFPWb2.md)
 - [City Sounds for Sleep](/playlists/pretty/37i9dQZF1DWZwRv0cVNFLv.md)
 - [City to City](/playlists/pretty/37i9dQZF1DWWIfrT204w7E.md)
+- [Claressa Shields' Taste](/playlists/pretty/37i9dQZF1DXc8N7D35YSFq.md)
 - [Clark Official Playlist](/playlists/pretty/37i9dQZF1DWXJ3uKRXjFdH.md)
 - [Classic Acoustic](/playlists/pretty/37i9dQZF1DX504r1DvyvxG.md)
 - [Classic Afropop](/playlists/pretty/37i9dQZF1DXcIme26eJxid.md)
@@ -4542,7 +4543,7 @@
 - [Office Garden](/playlists/pretty/37i9dQZF1DX00KQQMCcMxZ.md)
 - [Office Music \(New & Old Hits!\)](/playlists/pretty/4MGjsC9FFb2SlwoNuSdI9d.md)
 - [Office Offensive](/playlists/pretty/37i9dQZF1DXdEXmWwCHnI5.md)
-- [Offizielle Deutsche Streaming\-Charts KW 30.2026 / German Streaming\-Charts](/playlists/pretty/17yrHIa2wUkOVsqdruIy53.md)
+- [Offizielle Deutsche Streaming\-Charts KW 31.2026 / German Streaming\-Charts](/playlists/pretty/17yrHIa2wUkOVsqdruIy53.md)
 - [Old School Hip\-Hop House Party](/playlists/pretty/37i9dQZF1DX30w0JtSIv4j.md)
 - [Old School Metal](/playlists/pretty/37i9dQZF1DX2LTcinqsO68.md)
 - [Old School Reggaeton](/playlists/pretty/37i9dQZF1DX8SfyqmSFDwe.md)

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO?si=B1WHxFg5QECP2si9pOpKHA">Shad Mziki</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR?si=be4f643eccaa4571">Solana</a>\. Artwork: Isu Kim.
 
-1,499 songs - 3 day 3 hr 5 min
+1,501 songs - 3 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Bayakhala](https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Bayakhala](https://open.spotify.com/album/0X0kjZMbBYfMg00uuY6vkf) | 5:30 | 2022-09-02 | 2022-10-01 |
 | [Bayeke](https://open.spotify.com/track/1RToS6SXQxvpd04Oa4wfNK) | [LIINDOR](https://open.spotify.com/artist/5e90k29ru9oRYYYIVfbWOw) | [IS'QALO: THE BEGINNING](https://open.spotify.com/album/3zBdYBnWZUoXvgtjhzVNIp) | 2:35 | 2023-07-26 | 2023-09-27 |
 | [BBBBBB](https://open.spotify.com/track/2PrIK96A5GDg7GtbsCgJwg) | [MAUVEY](https://open.spotify.com/artist/6AdFoQsWjrVfWwi4BWYXCH), [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB) | [BEFORE THE ALBUM 2: a brief overview](https://open.spotify.com/album/2eYcC9osTDcUIIpqo1SgMd) | 2:48 | 2023-06-05 | 2023-06-28 |
+| [BE](https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [BE](https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP) | 2:34 | 2026-08-04 |  |
 | [Be Free](https://open.spotify.com/track/0gnZj2ZJIdSZ87W43RapTr) | [Dali Danger](https://open.spotify.com/artist/5uS7Vl0LAEz2Rj7oDeeM4Y), [ZULO](https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp) | [Be Free](https://open.spotify.com/album/0FZL0u9VZf4fmIP77dKtRV) | 4:28 | 2023-06-05 | 2023-06-28 |
 | [Be Free](https://open.spotify.com/track/6jT81iHttW5VwRV317yonX) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [Be Free](https://open.spotify.com/album/1KA8eKZjMX1tCiY0q4mKTe) | 5:17 | 2023-02-22 | 2023-03-30 |
 | [Be Like Me](https://open.spotify.com/track/2elLsa24WXo9GSPoBUsOxZ) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [Be Like Me](https://open.spotify.com/album/6LMO6nP1OFfF9QpN5Mtj4j) | 2:28 | 2024-02-06 | 2024-03-06 |
@@ -305,6 +306,7 @@
 | [Day One](https://open.spotify.com/track/3YzUIlfLuv53ssSn8YCtyQ) | [F3line](https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ) | [Day One](https://open.spotify.com/album/3H51Qj4Aty2rnlM7hHS0vY) | 3:11 | 2024-02-06 | 2024-03-06 |
 | [Dear Ex](https://open.spotify.com/track/7hAIX39HeD4wZZpThDOLUQ) | [Wiz Designer](https://open.spotify.com/artist/1yTEWhW1UidhRHDtRBsr2L) | [Dear Ex](https://open.spotify.com/album/0SenRgI2VCRXW4jHBa7dpO) | 2:33 | 2025-06-04 | 2026-03-18 |
 | [Dee](https://open.spotify.com/track/4DJdyqEbSMi8sN08lc4KpC) | [Ariel Wayz](https://open.spotify.com/artist/6vLTbWnzofdofLGkDfxODG) | [Hear to Stay](https://open.spotify.com/album/7yzD9pCNe2PWsWIoWTY6lY) | 3:25 | 2026-06-10 |  |
+| [Deeper Than Love](https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 2:57 | 2026-08-04 |  |
 | [Defeated](https://open.spotify.com/track/2Xh78GHN6dPyPjjuoytwLT) | [Soul Mannik](https://open.spotify.com/artist/31zOFFnpYOyCDdmJR4XAUd) | [Defeated](https://open.spotify.com/album/13OQQeQ5wkxyxip11dv9hC) | 3:23 | 2025-04-02 | 2025-06-05 |
 | [Defender](https://open.spotify.com/track/6qP0ZLEdVLpmbDlHS0nDue) | [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [Defender](https://open.spotify.com/album/6okCXo1o523wB4SmgIOVfF) | 3:12 | 2024-10-04 | 2024-11-07 |
 | [Democracy](https://open.spotify.com/track/4WigyPMkhWnHNiQ6XKEliJ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Democracy](https://open.spotify.com/album/732tN6BGjOC3z82e9qCxXA) | 2:42 | 2023-03-05 | 2023-03-10 |

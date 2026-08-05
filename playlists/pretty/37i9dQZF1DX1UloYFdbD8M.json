@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Gowry Lekshmi",
-  "num_followers": 41394,
+  "num_followers": 41503,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACVnGgYNTVsp8zGtNBHu5jNDPg4z",
+  "snapshot_id": "AAAAAHp5ATtCV52Be8VFpPb5J7s3SRPf",
   "tracks": [
     {
       "added_at": "2026-06-24 11:39:34",
@@ -211,6 +211,22 @@
       "duration_ms": 217100,
       "name": "Nattamthiri",
       "url": "https://open.spotify.com/track/08EvZ9JF4jwBfqiu9i4750"
+    },
+    {
+      "added_at": "2026-08-04 10:52:30",
+      "album": {
+        "name": "Ee Chandranum",
+        "url": "https://open.spotify.com/album/1XDwYmNWRUm0avH6OntfeW"
+      },
+      "artists": [
+        {
+          "name": "Malavika Anilkumar",
+          "url": "https://open.spotify.com/artist/1nroyCS1DFBkTcVvjHBgAh"
+        }
+      ],
+      "duration_ms": 190244,
+      "name": "Ee Chandranum",
+      "url": "https://open.spotify.com/track/2W9hWuajVBTGauBx3lJVkx"
     },
     {
       "added_at": "2026-06-26 05:54:07",
@@ -518,9 +534,17 @@
         {
           "name": "Anjana P S",
           "url": "https://open.spotify.com/artist/04gmNEiYQ7OGUWpWGQsFQR"
+        },
+        {
+          "name": "Karthik Sankar",
+          "url": "https://open.spotify.com/artist/0W0lwCpPYAyMhIVkQW2qQp"
+        },
+        {
+          "name": "Christina Alex",
+          "url": "https://open.spotify.com/artist/1QbGdXBBLEOBbmjM2E6SD3"
         }
       ],
-      "duration_ms": 221087,
+      "duration_ms": 218797,
       "name": "Life All The Days",
       "url": "https://open.spotify.com/track/0yGEYZGFlwov4UrLVnkv2g"
     },
@@ -1457,7 +1481,7 @@
         },
         {
           "name": "Anandhu Pradeep",
-          "url": "https://open.spotify.com/artist/2G1bWHthqfSpTclOPL9fMp"
+          "url": "https://open.spotify.com/artist/2wjjzWB4hoKBWBKQCjcc9e"
         }
       ],
       "duration_ms": 184324,

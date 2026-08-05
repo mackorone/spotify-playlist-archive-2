@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: kwacamolee\(과카몰리\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,299 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,215 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Comma](https://open.spotify.com/track/3gBs86VssqBzMq0QuAZEx1) | [He\_eul](https://open.spotify.com/artist/2wx6J4aRNCIg3294RBPLor), [Yeonwoo](https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq) | [Comma](https://open.spotify.com/album/5OZoXuYHdTbutzShXhsx5l) | 2:59 |
 | 50 | [Longtime Lovers](https://open.spotify.com/track/5tLxk8bnXhp5nIzENZnYb2) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [NEVER NEVER LAND](https://open.spotify.com/album/43IMYmpiKDrmE8ElTiSudS) | 3:49 |
 
-Snapshot ID: `AAAAAJz7xFT85o6YxYVL+1MGmJhgY/c3`
+Snapshot ID: `AAAAALlSs90shC9DKPXKdXTrOzvDAdVL`

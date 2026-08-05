@@ -4,7 +4,7 @@
 
 > Neue Musik von Ariana Grande, Luciano, Jazeek, Selena Gomez, Chapo102 & vielen mehr!
 
-10,016 songs - 20 day 10 hr 15 min
+10,016 songs - 20 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4108,6 +4108,7 @@
 | [Hunting Nirvana](https://open.spotify.com/track/6l6vsrPwhBdjKx0deIENXd) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [FESTIVAL SEASON](https://open.spotify.com/album/676Sf6nD4W2V9oV1QxzpPK) | 2:58 | 2025-02-20 | 2025-02-28 |
 | [HURRICANE](https://open.spotify.com/track/4GXHx58QSO2kvDe1T73Wbv) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [HURRICANE](https://open.spotify.com/album/3n7tr6aXcnufwhVg7vNDMu) | 3:52 | 2025-03-20 | 2025-03-28 |
 | [Hurricane](https://open.spotify.com/track/32J5dIL3ougXNls1bpxm0Y) | [SOLEROY](https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM) | [Hurricane](https://open.spotify.com/album/63obpfI1ml9lYY0MxFyvXI) | 3:01 | 2026-02-12 | 2026-02-20 |
+| [Hurt](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 3:24 | 2026-07-30 |  |
 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-04 | 2024-07-12 |
 | [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2024-05-02 | 2024-05-10 |
 | [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 | 2025-07-10 | 2025-07-18 |
@@ -8849,7 +8850,6 @@
 | [Toyota \(2016\)](https://open.spotify.com/track/6rdy1vGWSpfPxKnHujzMmY) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Toyota \(2016\)](https://open.spotify.com/album/6Wq84hoViqD2GBVqqVAaQJ) | 2:39 | 2025-01-02 | 2025-01-10 |
 | [TP](https://open.spotify.com/track/3rDYrvKA6bLhp6llXm9vOd) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [TP](https://open.spotify.com/album/32BZEkw7xTwB8zLnsm78ph) | 2:14 | 2025-01-23 | 2025-01-31 |
 | [Traces](https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Traces](https://open.spotify.com/album/0BY5Jbqjlr2cobJaTIScsM) | 3:20 | 2025-10-30 | 2025-11-07 |
-| [Track 1](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 0:00 | 2026-07-30 |  |
 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 | 2026-07-09 | 2026-07-17 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-07-19 |
@@ -10002,7 +10002,7 @@
 | [zähl die tage](https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [es ist okay, dass du fühlst](https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn) | 2:58 | 2026-05-21 | 2026-05-29 |
 | [Zärtlich werd ich dich verlassen](https://open.spotify.com/track/5CVsAe99DrWB3fLEwfpjjK) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp), [Die Heiterkeit](https://open.spotify.com/artist/3GB8VNVCarLSDdFbbDsQnF) | [Dunkle Magie](https://open.spotify.com/album/6eDh3KkzJoPcjZVHlCb6Gc) | 2:17 | 2025-12-11 | 2025-12-19 |
 | [Zünd dich an](https://open.spotify.com/track/7lzOCpmTo8qUTWjREC7VAi) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Von Liebe...](https://open.spotify.com/album/2G0PZsrO4SKcFpSnUPLPnS) | 2:06 | 2025-09-26 | 2025-10-03 |
-| [¿Como te llamas?](https://open.spotify.com/track/4ixnbMTCUuWOfP1FzBigUX) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [¿Como te llamas?](https://open.spotify.com/album/3nYQqBipUirqEUugRekMFl) | 2:36 | 2026-07-30 |  |
+| [¿Cómo te llamas?](https://open.spotify.com/track/4ixnbMTCUuWOfP1FzBigUX) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [¿Cómo te llamas?](https://open.spotify.com/album/3nYQqBipUirqEUugRekMFl) | 2:36 | 2026-07-30 |  |
 | [¿HOLA?](https://open.spotify.com/track/3kyzepSOLugF77kId9Ij7P) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Marlo](https://open.spotify.com/artist/6ioU7VVUMpOhlsD1b9A4xP) | [¿HOLA?](https://open.spotify.com/album/1T6XkJKmDJFkkRUZ2Cg8xL) | 2:19 | 2025-10-30 | 2025-11-07 |
 | [Älter als die Steine](https://open.spotify.com/track/2v5pTkSJlcBNxIsRweZipy) | [Jupiter Jones](https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL) | [Älter als die Steine](https://open.spotify.com/album/5Oq95gCyaL5M9cTI8KcpO4) | 2:34 | 2026-03-19 | 2026-03-27 |
 | [Ängste Haben Arme](https://open.spotify.com/track/2syhnkO2esqLFG7Mycl9jm) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Ängste Haben Arme](https://open.spotify.com/album/2SZVzyfI8TV5nALfSskU32) | 3:00 | 2024-05-16 | 2024-05-24 |

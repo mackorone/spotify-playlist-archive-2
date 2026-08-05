@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover:  Young Miko",
-  "num_followers": 65352,
+  "num_followers": 65351,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 154469,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
         "name": "I GO PUNK",
         "url": "https://open.spotify.com/album/40kLk6FTJoOegUy5Jv2YXW"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 128918,
       "name": "I GO PUNK",
       "url": "https://open.spotify.com/track/0kQ73pOA7ljlHkWYu3a52F"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
-      },
-      "artists": [
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 154469,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Ain't Over Me Yet",
-        "url": "https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 204897,
-      "name": "Ain't Over Me Yet",
-      "url": "https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Living Room Floor",
         "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 259435,
       "name": "Living Room Floor",
       "url": "https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Ain't Over Me Yet",
+        "url": "https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 204897,
+      "name": "Ain't Over Me Yet",
+      "url": "https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Night at the Opera",
-        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 208559,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/3mqC2nzHECZP4GLmdKOw2p"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Miss Michigan",
         "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 146738,
       "name": "Oops",
       "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 208559,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/3mqC2nzHECZP4GLmdKOw2p"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Fake Brave Life",
-        "url": "https://open.spotify.com/album/2sDJqorHBWS3QPm8WW5jeo"
-      },
-      "artists": [
-        {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
-        }
-      ],
-      "duration_ms": 147343,
-      "name": "Stars Stay Awake",
-      "url": "https://open.spotify.com/track/0655XrFPQT3Z4vgmDqgXEi"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Delicately",
         "url": "https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 200710,
       "name": "Delicately",
       "url": "https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Fake Brave Life",
+        "url": "https://open.spotify.com/album/2sDJqorHBWS3QPm8WW5jeo"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 147343,
+      "name": "Stars Stay Awake",
+      "url": "https://open.spotify.com/track/0655XrFPQT3Z4vgmDqgXEi"
     },
     {
       "added_at": "2026-07-01 04:00:23",

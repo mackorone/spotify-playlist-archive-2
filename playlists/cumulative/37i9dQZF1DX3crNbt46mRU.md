@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Ariana Grande, Luciano, Jazeek, Selena Gomez, Chapo102  & many more!
 
-23,599 songs - 48 day 18 hr 25 min
+23,599 songs - 48 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9543,6 +9543,7 @@
 | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/album/5QGih7kgYuAfmYJROylEX3) | 2:33 | 2022-03-31 | 2022-04-08 |
 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 | 2022-09-15 | 2022-09-23 |
 | [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 | 2024-03-07 | 2024-03-15 |
+| [Hurt](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 3:24 | 2026-07-30 |  |
 | [Hurt](https://open.spotify.com/track/7q9ES6K0IJNOySpcM6kjhN) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Hurt](https://open.spotify.com/album/7d1Awz6mDIcbBzFU1cZmut) | 3:44 | 2022-06-23 | 2022-07-01 |
 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-04 | 2024-07-12 |
 | [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2024-05-02 | 2024-05-10 |
@@ -20867,7 +20868,6 @@
 | [Tra Tra](https://open.spotify.com/track/0UFJLWij7K8AXM5sVDFCLj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Tra Tra](https://open.spotify.com/album/5CTxLQdrDgcvEXuqEFOnPt) | 2:06 | 2022-11-03 | 2022-11-11 |
 | [Trace the Cracks](https://open.spotify.com/track/5sFNjrHeyB4vjECaJxjUov) | [ANGER MGMT.](https://open.spotify.com/artist/2ivOTVGR8YstFMPLpyhxO4) | [Anger Is Eternal](https://open.spotify.com/album/3FrlbZe07ngEmRupjMHIWi) | 2:41 | 2026-04-23 | 2026-05-01 |
 | [Traces](https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Traces](https://open.spotify.com/album/0BY5Jbqjlr2cobJaTIScsM) | 3:20 | 2025-10-30 | 2025-11-07 |
-| [Track 1](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 0:00 | 2026-07-30 |  |
 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 | 2026-07-09 | 2026-07-17 |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Trackpants](https://open.spotify.com/track/42jivjDp82Ryxvz2OHWbaa) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [TM](https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7) | [Welcome to the Endzone](https://open.spotify.com/album/4tnzrbEQ1eNNA401dlmCAh) | 2:20 | 2024-04-25 | 2024-05-03 |
@@ -23544,7 +23544,7 @@
 | [Zürich](https://open.spotify.com/track/6dMTEGYnfL5TkkLYqAlxPq) | [Laurin Buser](https://open.spotify.com/artist/0rjivryTp9P7Ks1vQT5kG3), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe) | [Zürich](https://open.spotify.com/album/0QH5PeOfD7Eh0kaOFCAVPv) | 3:18 | 2023-11-16 | 2023-11-24 |
 | [\| ECLIPSE \|](https://open.spotify.com/track/0OXZeF81nOLkNJwiIMr97k) | [A.W.A](https://open.spotify.com/artist/6J8FZOUaWFW8rEdCG3RDjZ) | [\| ECLIPSE \|](https://open.spotify.com/album/7aOnRMhmYZnE2nBvtXhIst) | 3:44 | 2022-07-29 | 2022-08-05 |
 | [¾](https://open.spotify.com/track/6VCMa97WIhNB8oPp8dGct7) | [b3nn3t](https://open.spotify.com/artist/7pajHvUWNCnOPhDPyH4M6x) | [¾](https://open.spotify.com/album/2ZOx01iwCKE56RkxHAWFhM) | 2:46 | 2026-03-05 | 2026-03-13 |
-| [¿Como te llamas?](https://open.spotify.com/track/4ixnbMTCUuWOfP1FzBigUX) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [¿Como te llamas?](https://open.spotify.com/album/3nYQqBipUirqEUugRekMFl) | 2:36 | 2026-07-30 |  |
+| [¿Cómo te llamas?](https://open.spotify.com/track/4ixnbMTCUuWOfP1FzBigUX) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [¿Cómo te llamas?](https://open.spotify.com/album/3nYQqBipUirqEUugRekMFl) | 2:36 | 2026-07-30 |  |
 | [¿HOLA?](https://open.spotify.com/track/3kyzepSOLugF77kId9Ij7P) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Marlo](https://open.spotify.com/artist/6ioU7VVUMpOhlsD1b9A4xP) | [¿HOLA?](https://open.spotify.com/album/1T6XkJKmDJFkkRUZ2Cg8xL) | 2:19 | 2025-10-30 | 2025-11-07 |
 | [À Deux](https://open.spotify.com/track/4nLzsm83c3LkNJpr7jF7uW) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [À Deux](https://open.spotify.com/album/1DMDYEPsE4C2cIviqG7PES) | 2:22 | 2025-04-17 | 2025-04-25 |
 | [À deux \- Extrait de la Bande Originale du film « Les Déguns 2 »](https://open.spotify.com/track/2lTsd9ofFTLuOPj07J00aq) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [À deux \(Extrait de la Bande Originale du film « Les Déguns 2 »\)](https://open.spotify.com/album/0lccVcAosJkypnQzpJc96K) | 2:50 | 2023-08-10 | 2023-08-18 |

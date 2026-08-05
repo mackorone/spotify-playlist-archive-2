@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giannis Ploutarhos",
-  "num_followers": 39464,
+  "num_followers": 39460,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-07-30 21:00:53",
       "album": {
-        "name": "Etsi Exei Mathei",
-        "url": "https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG"
-      },
-      "artists": [
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 190148,
-      "name": "Etsi Exei Mathei",
-      "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
-    },
-    {
-      "added_at": "2026-07-30 21:00:53",
-      "album": {
         "name": "Xorepse",
         "url": "https://open.spotify.com/album/2FJpQ42IEy1G66GmbSuYUs"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 228977,
       "name": "Xorepse",
       "url": "https://open.spotify.com/track/3FNGcipuHWekU1KvhdrAwH"
+    },
+    {
+      "added_at": "2026-07-30 21:00:53",
+      "album": {
+        "name": "Etsi Exei Mathei",
+        "url": "https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 190148,
+      "name": "Etsi Exei Mathei",
+      "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
     },
     {
       "added_at": "2026-07-30 21:00:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-07-30 21:00:53",
       "album": {
-        "name": "Nero (Live Edition)",
-        "url": "https://open.spotify.com/album/3c1xLILpDuCXETrptwXeYR"
-      },
-      "artists": [
-        {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
-        }
-      ],
-      "duration_ms": 198444,
-      "name": "Nero - Live Edition",
-      "url": "https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds"
-    },
-    {
-      "added_at": "2026-07-30 21:00:53",
-      "album": {
         "name": "12 Tsigara",
         "url": "https://open.spotify.com/album/42cuv51ZSnng9JYeWwepQZ"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2026-07-30 21:00:53",
       "album": {
+        "name": "Nero (Live Edition)",
+        "url": "https://open.spotify.com/album/3c1xLILpDuCXETrptwXeYR"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        }
+      ],
+      "duration_ms": 198444,
+      "name": "Nero - Live Edition",
+      "url": "https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds"
+    },
+    {
+      "added_at": "2026-07-30 21:00:53",
+      "album": {
         "name": "Sto Mualo Sou",
         "url": "https://open.spotify.com/album/7a2mEJ3x05wd2yJiKIZu1l"
       },
@@ -767,38 +767,6 @@
       "duration_ms": 194202,
       "name": "Pigene Me Pali Piso Taxitzi",
       "url": "https://open.spotify.com/track/3ThFI7ukvQbAkMAjucye3G"
-    },
-    {
-      "added_at": "2026-07-30 21:00:53",
-      "album": {
-        "name": "Xereis Pollous?",
-        "url": "https://open.spotify.com/album/3C4tJiogHhaozSIjne9Tsh"
-      },
-      "artists": [
-        {
-          "name": "Panos Kiamos",
-          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
-        }
-      ],
-      "duration_ms": 226987,
-      "name": "Xereis Pollous?",
-      "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"
-    },
-    {
-      "added_at": "2026-07-30 21:00:53",
-      "album": {
-        "name": "Pare Repo",
-        "url": "https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o"
-      },
-      "artists": [
-        {
-          "name": "Andromache",
-          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Pare Repo",
-      "url": "https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq"
     },
     {
       "added_at": "2026-07-30 21:00:53",
@@ -831,6 +799,38 @@
       "duration_ms": 175147,
       "name": "Ta Parapona Mou",
       "url": "https://open.spotify.com/track/3RXBikhe617jBGLu7Rj8zL"
+    },
+    {
+      "added_at": "2026-07-30 21:00:53",
+      "album": {
+        "name": "Pare Repo",
+        "url": "https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o"
+      },
+      "artists": [
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Pare Repo",
+      "url": "https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq"
+    },
+    {
+      "added_at": "2026-07-30 21:00:53",
+      "album": {
+        "name": "Xereis Pollous?",
+        "url": "https://open.spotify.com/album/3C4tJiogHhaozSIjne9Tsh"
+      },
+      "artists": [
+        {
+          "name": "Panos Kiamos",
+          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+        }
+      ],
+      "duration_ms": 226987,
+      "name": "Xereis Pollous?",
+      "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"
     },
     {
       "added_at": "2026-07-30 21:00:53",

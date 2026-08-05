@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: R3HAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,121 likes - 83 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,125 likes - 83 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

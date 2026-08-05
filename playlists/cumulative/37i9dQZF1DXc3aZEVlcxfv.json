@@ -4733,6 +4733,28 @@
     },
     {
       "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/1DuFxJroz9nlmVRxqVoAmw"
+      },
+      "artists": [
+        {
+          "name": "Younggod",
+          "url": "https://open.spotify.com/artist/7fmf0V5T7xiIRjHS46hHiW"
+        },
+        {
+          "name": "Kelar Thrillz",
+          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196271,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
+    },
+    {
+      "album": {
         "name": "GOOD TO ME",
         "url": "https://open.spotify.com/album/60D5KfAsnacCxd6iDcjzia"
       },
@@ -6152,7 +6174,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 234500,
       "name": "If E No Be You Jesus",
       "url": "https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv"
@@ -7880,7 +7902,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 248054,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
@@ -11930,6 +11952,28 @@
       "duration_ms": 164745,
       "name": "This is the day",
       "url": "https://open.spotify.com/track/2TRKKi6T9EqjFGwRddxz5d"
+    },
+    {
+      "album": {
+        "name": "This Joy",
+        "url": "https://open.spotify.com/album/4W6pK9Jwm5Rt8WGXuZaMij"
+      },
+      "artists": [
+        {
+          "name": "God in This Music",
+          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
+        },
+        {
+          "name": "Seun Makay",
+          "url": "https://open.spotify.com/artist/6iTWmqUhTN5ig1UuD6lSQY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243692,
+      "name": "This Joy",
+      "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
     },
     {
       "album": {

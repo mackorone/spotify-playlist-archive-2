@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best underground club tracks ⚔️ starring deBasement ⚔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,980 likes - 120 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,019 likes - 120 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Taconeando](https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [XXXXX](https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql) | 2:18 |
 | 2 | [Shut Me Down](https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG) | [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC) | [Clammy](https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8) | 3:06 |
-| 3 | [Wvrst Regards](https://open.spotify.com/track/4r9xp7LoHhH0fAshlGXKGu) | [Aquarian](https://open.spotify.com/artist/5sr7enH1jsMhSe1LT0hSJ0) | [A Rush of Fat To The Head](https://open.spotify.com/album/6PFnACnbIiwdfwOd8osM20) | 5:02 |
+| 3 | [WVRST REGARDS](https://open.spotify.com/track/4r9xp7LoHhH0fAshlGXKGu) | [Aquarian](https://open.spotify.com/artist/5sr7enH1jsMhSe1LT0hSJ0) | [A RUSH OF FAT TO THE HEAD](https://open.spotify.com/album/6PFnACnbIiwdfwOd8osM20) | 5:02 |
 | 4 | [Through Sterile Appropriation](https://open.spotify.com/track/16C66rWnvK0XRdnx23XZ7y) | [Agazero](https://open.spotify.com/artist/3CmY3G8IVu7K8IOa5ivn4N) | [Dissidente](https://open.spotify.com/album/4mrmw6ilNZeyVfXVgzVorQ) | 2:48 |
 | 5 | [PRESS ON ME \(feat\. Miss Bashful\)](https://open.spotify.com/track/0nfUSkKozC4zohiPwkbDok) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [HARDBODY](https://open.spotify.com/album/3gN53UUAk7AalZAlEq29yS) | 2:45 |
 | 6 | [OPTION](https://open.spotify.com/track/6UgJhklY5LNzaRUHyFPKwD) | [Ineffekt](https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg) | [JELLY + OPTION](https://open.spotify.com/album/0FDQD9ZnmThaUNfSjB07JN) | 3:30 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 38 | [All Crews](https://open.spotify.com/track/3U56eB00ABNewSE8Jtb4ow) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [All Crews](https://open.spotify.com/album/5ejfUaxTlTuEqGcAF17IHO) | 6:38 |
 | 39 | [12 Tsuki](https://open.spotify.com/track/3RJRG34MYmh028ba4zUf7g) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV) | [12 Tsuki](https://open.spotify.com/album/3yBjBDj0e0D4ncaAFe1aEu) | 5:30 |
 | 40 | [Artificial](https://open.spotify.com/track/2DG2EhND9DmbXOsOJjOo5F) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [Talons](https://open.spotify.com/artist/0qiRTNQwfvA91BL30UBRu1) | [Attenuation EP](https://open.spotify.com/album/0Ha3XGv6XE8c0aODehJHuW) | 4:38 |
-| 41 | [A Rush of Fat to the Head](https://open.spotify.com/track/47urHvy2U4BWVkbB2aDQZU) | [Aquarian](https://open.spotify.com/artist/5sr7enH1jsMhSe1LT0hSJ0) | [A Rush of Fat To The Head](https://open.spotify.com/album/4m98z4MNhFJxQvTkN1Tk1l) | 4:33 |
+| 41 | [A RUSH OF FAT TO THE HEAD?](https://open.spotify.com/track/47urHvy2U4BWVkbB2aDQZU) | [Aquarian](https://open.spotify.com/artist/5sr7enH1jsMhSe1LT0hSJ0) | [A RUSH OF FAT TO THE HEAD?](https://open.spotify.com/album/4m98z4MNhFJxQvTkN1Tk1l) | 4:33 |
 | 42 | [X Amor](https://open.spotify.com/track/305MbndVqozM9u0GQ2RYsb) | [Matteo Just](https://open.spotify.com/artist/2MxSgR2qXs4xlLz6qRRR16) | [X Amor](https://open.spotify.com/album/3Yn76vi1U7llZplkGpbI1g) | 3:24 |
 | 43 | [HA HA HA](https://open.spotify.com/track/6MePkdJLUWUb6DY3ptvLXx) | [Kuzco](https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q) | [HA HA HA](https://open.spotify.com/album/4NX0ZjSayrZDwRKLu0yDdR) | 4:48 |
 | 44 | [S.C.M.](https://open.spotify.com/track/6lAqESDdO468t5psntzN8m) | [Evissimax](https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv), [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [S.C.M.](https://open.spotify.com/album/1Z3UIBxtnLAZ4qL2qwWy1O) | 2:06 |

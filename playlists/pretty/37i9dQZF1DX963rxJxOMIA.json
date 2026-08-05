@@ -1,12 +1,12 @@
 {
   "description": "Fino y elegante como Karol G.",
-  "num_followers": 222586,
+  "num_followers": 222539,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAES6tOUWlBRj8P71tfJUGI0SUCj3",
+  "snapshot_id": "AAAAAPHUDdcZiUiBMFXblKYJei3pmDZ7",
   "tracks": [
     {
       "added_at": "2026-07-31 04:59:17",
@@ -239,6 +239,26 @@
       "duration_ms": 186666,
       "name": "PROV\u00d3CATE",
       "url": "https://open.spotify.com/track/0dpV9WOqhZJqoFQDD9d9Eu"
+    },
+    {
+      "added_at": "2026-08-04 22:54:02",
+      "album": {
+        "name": "La Mam\u00e1 de Dora",
+        "url": "https://open.spotify.com/album/4KXwIGjfaImTnLAQMn5jAS"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Bravvs",
+          "url": "https://open.spotify.com/artist/2EstnBv92UlKvEoCLSPOOh"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "La Mam\u00e1 de Dora",
+      "url": "https://open.spotify.com/track/33TYe1fkcybaqnIV0fKlPh"
     },
     {
       "added_at": "2026-07-31 04:59:17",

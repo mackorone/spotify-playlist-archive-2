@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 103054,
+  "num_followers": 102976,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Splende",
-        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "Una finestra tra le stelle",
-      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "La genesi del tuo colore",
         "url": "https://open.spotify.com/album/7eIyCeIG5Y0v4Be4mhV2vu"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 228984,
       "name": "La genesi del tuo colore",
       "url": "https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Splende",
+        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "Una finestra tra le stelle",
+      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Vado al massimo (Remastered)",
-        "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Vado al massimo",
-      "url": "https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Il giorno in cui ho smesso di pensare",
         "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 200428,
       "name": "Ovunque Sarai",
       "url": "https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Vado al massimo (Remastered)",
+        "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Vado al massimo",
+      "url": "https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Sar\u00f2 Libera (Sanremo Edition)",
-        "url": "https://open.spotify.com/album/3IaZc3ERddM2fSGj9IOdOT"
-      },
-      "artists": [
-        {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
-        }
-      ],
-      "duration_ms": 225253,
-      "name": "Non E' L'Inferno",
-      "url": "https://open.spotify.com/track/7lx7ourd9AVFIBXFTCWXx8"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Miss Nostalgia",
         "url": "https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 244746,
       "name": "Un Giorno Mi Dirai",
       "url": "https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Sar\u00f2 Libera (Sanremo Edition)",
+        "url": "https://open.spotify.com/album/3IaZc3ERddM2fSGj9IOdOT"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "duration_ms": 225253,
+      "name": "Non E' L'Inferno",
+      "url": "https://open.spotify.com/track/7lx7ourd9AVFIBXFTCWXx8"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Mai Dire Mai (La Locura)",
-        "url": "https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu"
-      },
-      "artists": [
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        }
-      ],
-      "duration_ms": 208664,
-      "name": "Mai Dire Mai (La Locura)",
-      "url": "https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "I Grandi Successi",
         "url": "https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 240933,
       "name": "Ti lascer\u00f2",
       "url": "https://open.spotify.com/track/5BTBBUwbXB7AVTUd5maNee"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Mai Dire Mai (La Locura)",
+        "url": "https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu"
+      },
+      "artists": [
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "duration_ms": 208664,
+      "name": "Mai Dire Mai (La Locura)",
+      "url": "https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "L'ADDIO",
-        "url": "https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ"
-      },
-      "artists": [
-        {
-          "name": "Coma_Cose",
-          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "L'ADDIO",
-      "url": "https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Luigi Tenco - I Miti",
         "url": "https://open.spotify.com/album/1m1azdRUDmvSw5TcixliW3"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Ringo Starr",
-        "url": "https://open.spotify.com/album/7Li84Fi6QLiE5SAlsruDwS"
+        "name": "L'ADDIO",
+        "url": "https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Ringo Starr",
-      "url": "https://open.spotify.com/track/17j76Q3fmROd2eL4M7Vira"
+      "duration_ms": 207750,
+      "name": "L'ADDIO",
+      "url": "https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1395,6 +1379,22 @@
       "duration_ms": 190000,
       "name": "La musica e' finita",
       "url": "https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Ringo Starr",
+        "url": "https://open.spotify.com/album/7Li84Fi6QLiE5SAlsruDwS"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Ringo Starr",
+      "url": "https://open.spotify.com/track/17j76Q3fmROd2eL4M7Vira"
     },
     {
       "added_at": "2026-01-25 23:01:06",

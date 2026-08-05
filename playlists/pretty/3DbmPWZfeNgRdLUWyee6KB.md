@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,331 likes - 135 songs - 7 hr 45 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,331 likes - 143 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,13 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 133 | [À Britta](https://open.spotify.com/track/3fQydqrhKYKAxTnTfLD8M8) | [Virgil Segal](https://open.spotify.com/artist/6PDaVx1wgiv0IQeYtmq3Yy) | [Noir et blanc](https://open.spotify.com/album/4S88do91neHjL30FaUXFPA) | 3:28 |
 | 134 | [No Control](https://open.spotify.com/track/5AFFQlCim80cS5FvgNFFMC) | [Kon](https://open.spotify.com/artist/0Bgp4Jbe1OEqrn24HVKj9b) | [No Control](https://open.spotify.com/album/2p8DnORgLAvnKcY2xfBQjq) | 2:38 |
 | 135 | [Explore \(Me\)](https://open.spotify.com/track/0QlgCZaQDT2St7r0iA21Ks) | [ItsRosieQuartz](https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF) | [Explore \(Me\)](https://open.spotify.com/album/76JOPtgekvZZM2Ym7YPy5A) | 3:22 |
+| 136 | [Bells of Silver](https://open.spotify.com/track/1XX3C3KiBmSuK4U3XCJmaz) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [Bells of Silver](https://open.spotify.com/album/3kjhYsro9GvEOGGKIlLoVe) | 4:08 |
+| 137 | [I'm Asking](https://open.spotify.com/track/03Jv9vcDC0TEAIDuJ5Y2QF) | [Joe Scorza](https://open.spotify.com/artist/6b5cTvps5wIFbHnFWAFixd) | [I'm Asking](https://open.spotify.com/album/1h16OO3LlozvuSE3snjib8) | 3:27 |
+| 138 | [Imagine](https://open.spotify.com/track/6fVTRZZeT9U4h3eX8On8qf) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [Imagine](https://open.spotify.com/album/0nJDyF8cfAnldAbADTMemQ) | 3:14 |
+| 139 | [Vengo dal futuro](https://open.spotify.com/track/0Lae76Fx6pxzP5u1SHumLJ) | [FACE](https://open.spotify.com/artist/5eIAMHm1cYwoAeoGbM96mI) | [Vengo dal futuro](https://open.spotify.com/album/0RNCXrBNPJuuyQlNbFuXOD) | 3:43 |
+| 140 | [Accroche toi](https://open.spotify.com/track/5eTiKImP9vTuJ1OGdiHJ0G) | [Eric Hartereau](https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7) | [Accroche toi](https://open.spotify.com/album/16ppv7cPXmMdz8lB9hPKYg) | 3:47 |
+| 141 | [No Meio Termo](https://open.spotify.com/track/6FaZX8fiSihP2gvWs42f0K) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:58 |
+| 142 | [Why Don't They Care?](https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Why Don't They Care?](https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM) | 3:04 |
+| 143 | [Senescence](https://open.spotify.com/track/64Zz7p1BrUH9hlsHfJK3qi) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Breakestine](https://open.spotify.com/artist/2rCvh2rrpCxd8mVD9seDNX) | [Senescence](https://open.spotify.com/album/6QtciNI2kObVgNjlOcqy9Q) | 2:13 |
 
-Snapshot ID: `AAAWnN7U2uoyxSQxioIxXAN6pwey4T+a`
+Snapshot ID: `AAAWpIWhsKgJpx2jRaUv2MT/m2oPoBfe`

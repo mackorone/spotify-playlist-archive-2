@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Nico Moreno, Novah
 
-394 songs - 1 day 2 hr 25 min
+395 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Adagio For Strings](https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Adagio For Strings](https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O) | 6:00 | 2024-04-09 |  |
 | [Addicted to You](https://open.spotify.com/track/6MBCIz3ryX6INVwCXmMKHi) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [FLKN](https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww) | [Addicted to You](https://open.spotify.com/album/4YhgeoxIF0rz7hqRXhNcEm) | 3:15 | 2025-12-12 | 2026-04-04 |
 | [Adrenaline Assault](https://open.spotify.com/track/4pnmqNJxTQ1hICEv5rOKow) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [Adrenaline Assault \[HAK002\]](https://open.spotify.com/album/7kR5VLDFHCm8PMiHWnjHCr) | 5:07 | 2024-04-09 | 2024-08-30 |
+| [Afterlife](https://open.spotify.com/track/2qt1p3NHil24W9gd8IrEK5) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Afterlife](https://open.spotify.com/album/5ZP7RD3NOFLPg9wuq52C2q) | 4:00 | 2026-07-30 |  |
 | [All I Wanna](https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [Lex Ledu](https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl) | [All I Wanna](https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu) | 2:10 | 2024-10-24 | 2026-02-06 |
 | [All In This \- Original mix](https://open.spotify.com/track/3GzkcXSKpe34kAjkFCxo1z) | [MAHTAL](https://open.spotify.com/artist/36mDqPu7kZeSHyrmsy0d2I) | [Omnes EP](https://open.spotify.com/album/4TOVX0sDqNR1LYTYrBpwt1) | 4:49 | 2024-04-09 |  |
 | [alleswirdgut](https://open.spotify.com/track/2ucKoWiCS8eTk5IUwin4fq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:19 | 2024-08-05 | 2024-11-29 |
@@ -251,7 +252,7 @@
 | [Murdock](https://open.spotify.com/track/7nN21YXSaGR5mygpLIk76a) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [AXL](https://open.spotify.com/artist/3HvGktIqgqALPusQhtRtno), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Murdock](https://open.spotify.com/album/399a0712lFkePRqeJUANNY) | 5:15 | 2024-04-09 | 2024-05-23 |
 | [My Gasoline \- Hard Edit](https://open.spotify.com/track/2pmk8xGNKwmKrmQBK9Vwgf) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline \(Hard Edit\)](https://open.spotify.com/album/4spbKALzJWO1dHSz9k7P7P) | 4:03 | 2024-04-09 | 2026-02-27 |
 | [Mystic Blast](https://open.spotify.com/track/6X24jDDs8Hx1PuuGounCth) | [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX), [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [TM002](https://open.spotify.com/album/27d7ZMLhcyuaALVrjYK6rF) | 5:34 | 2024-06-14 | 2024-08-09 |
-| [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 | 2025-04-25 |  |
+| [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 | 2025-04-25 | 2026-08-05 |
 | [Naked Light \- Sara Landry Remix](https://open.spotify.com/track/0nVoVGIJd5EXGxy45MymFS) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Naked Light RMX](https://open.spotify.com/album/3ioBPxlY7vGOzgIOA3yjPu) | 5:18 | 2024-12-13 | 2025-02-10 |
 | [Never Enough](https://open.spotify.com/track/0g1UEsa2bqif2D0hlmxUfI) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR) | [Never Enough](https://open.spotify.com/album/301BTyjA0xlkTu8gDm3ToF) | 5:27 | 2024-04-09 | 2025-04-22 |
 | [Never Let Me Down](https://open.spotify.com/track/38MD66rssmeYXu3xwB36k5) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi), [∏EVER](https://open.spotify.com/artist/7hxEgJocKQ6HDMlpDYXPYf) | [Never Let Me Down](https://open.spotify.com/album/4OE2XbdrJb9q9cUflbOSv2) | 3:01 | 2024-05-03 | 2024-06-22 |

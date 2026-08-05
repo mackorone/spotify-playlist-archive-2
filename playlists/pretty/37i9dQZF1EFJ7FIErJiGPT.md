@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 92 | [I Go Ego](https://open.spotify.com/track/6AVaVofzVcFIIhh31M54NL) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/16oaTuuuBPHxviN8VA6iJ9) | 3:29 |
 | 93 | [Naked](https://open.spotify.com/track/692zUiY0W2zLVW4uOxZ32h) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Naked](https://open.spotify.com/album/2NBe0dHXbrQptDoD1xkck8) | 2:52 |
 | 94 | [Scripted Reality](https://open.spotify.com/track/2Wj5DMYpzDL525k0N9w7lm) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Scripted Reality](https://open.spotify.com/album/1jgsTuiJqAp38ymZpzcmRn) | 2:54 |
-| 95 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 |
-| 96 | [Roller Skater](https://open.spotify.com/track/6f9dDGRWfimvWMcKF7vnQ8) | [Chris Tall ](https://open.spotify.com/artist/67ncboRbwyEWfzLPCjgHKt) | [Roller Skater](https://open.spotify.com/album/6A3aYmLfTT1MfDGjVHAMUp) | 3:49 |
+| 95 | [Roller Skater](https://open.spotify.com/track/6f9dDGRWfimvWMcKF7vnQ8) | [Chris Tall ](https://open.spotify.com/artist/67ncboRbwyEWfzLPCjgHKt) | [Roller Skater](https://open.spotify.com/album/6A3aYmLfTT1MfDGjVHAMUp) | 3:49 |
+| 96 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 |
 | 97 | [Used To](https://open.spotify.com/track/6snoQjYyUESGuX6uAiHstG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say \- EP](https://open.spotify.com/album/05I0k7IIbI8gDc6ONo5E0E) | 3:44 |
 | 98 | [If You Love Me \- DJ Katch Remix](https://open.spotify.com/track/0cIB1uWdM2HtILlc2S6awi) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl) | [Turn on the Lights \(Remixes\)](https://open.spotify.com/album/3UFWBRvM74gPd5y4tPlpiW) | 3:26 |
 | 99 | [Boys will be Boys](https://open.spotify.com/track/0kqLJ1b7GlMjBEXb8yAQXK) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Boys will be Boys](https://open.spotify.com/album/5HJuTYYesC7B2ewqFf8zBV) | 2:49 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 107 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 108 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcYnrAAAAADhAevjxgL9eIgnD8X29xtW`
+Snapshot ID: `AcYtfgAAAACAN/Bgqg2liY9KYeAPOXs0`

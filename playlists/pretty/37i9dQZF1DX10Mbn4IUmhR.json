@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Tyla",
-  "num_followers": 6764,
+  "num_followers": 6762,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-07-24 13:33:59",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 215511,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
-    },
-    {
-      "added_at": "2026-07-24 13:33:59",
-      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 219628,
       "name": "MMS",
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
+      "added_at": "2026-07-24 13:33:59",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
     },
     {
       "added_at": "2026-07-24 13:33:59",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-07-24 13:33:59",
       "album": {
-        "name": "Something Beautiful",
-        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/6JLlSBC50bWGZhtZ8hYj5L"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
         }
       ],
-      "duration_ms": 294193,
-      "name": "Golden Burning Sun",
-      "url": "https://open.spotify.com/track/3MYz54tDi5fnEJjjCfPPlZ"
+      "duration_ms": 161066,
+      "name": "Head First",
+      "url": "https://open.spotify.com/track/4I5lKYfIKEpZNHZUZrrY65"
     },
     {
       "added_at": "2026-07-24 13:33:59",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-07-24 13:33:59",
       "album": {
-        "name": "Head First",
-        "url": "https://open.spotify.com/album/6JLlSBC50bWGZhtZ8hYj5L"
+        "name": "Something Beautiful",
+        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
       },
       "artists": [
         {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 161066,
-      "name": "Head First",
-      "url": "https://open.spotify.com/track/4I5lKYfIKEpZNHZUZrrY65"
+      "duration_ms": 294193,
+      "name": "Golden Burning Sun",
+      "url": "https://open.spotify.com/track/3MYz54tDi5fnEJjjCfPPlZ"
     },
     {
       "added_at": "2026-07-24 13:33:59",
@@ -907,6 +907,26 @@
     {
       "added_at": "2026-07-24 13:33:59",
       "album": {
+        "name": "RnBling",
+        "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "LE:GEND",
+          "url": "https://open.spotify.com/artist/1i0EEVYkm3H4GF8LccSAB2"
+        }
+      ],
+      "duration_ms": 142439,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/5IOpGrjpxIinJr0KqB3zqV"
+    },
+    {
+      "added_at": "2026-07-24 13:33:59",
+      "album": {
         "name": "What You Saying",
         "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
       },
@@ -919,22 +939,6 @@
       "duration_ms": 131729,
       "name": "What You Saying",
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "added_at": "2026-07-24 13:33:59",
-      "album": {
-        "name": "How To Be Human",
-        "url": "https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 205952,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/5FJ9s2pIXu7Efs37yfM3JO"
     },
     {
       "added_at": "2026-07-24 13:33:59",
@@ -955,22 +959,18 @@
     {
       "added_at": "2026-07-24 13:33:59",
       "album": {
-        "name": "RnBling",
-        "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
+        "name": "How To Be Human",
+        "url": "https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe"
       },
       "artists": [
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "LE:GEND",
-          "url": "https://open.spotify.com/artist/1i0EEVYkm3H4GF8LccSAB2"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 142439,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/5IOpGrjpxIinJr0KqB3zqV"
+      "duration_ms": 205952,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/5FJ9s2pIXu7Efs37yfM3JO"
     },
     {
       "added_at": "2026-07-24 13:33:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,272 likes - 90 songs - 12 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,301 likes - 90 songs - 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 35 | [The Garden \(Pt\. III\)](https://open.spotify.com/track/2ihAtyKtG6dPNKeDdt2RlQ) | [Tea Leaf Green](https://open.spotify.com/artist/4n3xlLBs7G1x9tJDXFD4G4) | [Taught to Be Proud](https://open.spotify.com/album/4IMSzS9zvPw7jSHlKFlA1f) | 4:01 |
 | 36 | [Franklin's Tower \(Live\)](https://open.spotify.com/track/7bMisliKEpEEwzcR2Vvpu6) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l), [Keller Wiliams](https://open.spotify.com/artist/3tjL3XZW9whCWYENGm3sPP) | [On the Road: San Francisco, CA \- 12/31/02](https://open.spotify.com/album/1Pcf8mx1yRLj1ILHptLjfq) | 8:45 |
 | 37 | [The Reprise \(Live\)](https://open.spotify.com/track/27cnOeOwEgcq0Jfsl9BPlD) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Live at the Drive\-In](https://open.spotify.com/album/5QjI51hjeUOgNlDVORpdRz) | 12:59 |
-| 38 | [The Harder They Come \(feat\. Béla Fleck\) \- Live](https://open.spotify.com/track/7LKpi9pOnm3m89jTO8MhJu) | [Jerry Garcia Band](https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN) | [GarciaLive Volume Two: August 5th, 1990 Greek Theatre](https://open.spotify.com/album/2zJpfHiO3VNEt2AcKtEoDs) | 10:45 |
+| 38 | [The Harder They Come \(feat\. Béla Fleck\) \- Live](https://open.spotify.com/track/7LKpi9pOnm3m89jTO8MhJu) | [Jerry Garcia Band](https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM), [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN) | [GarciaLive Volume Two: August 5th, 1990 Greek Theatre](https://open.spotify.com/album/2zJpfHiO3VNEt2AcKtEoDs) | 10:45 |
 | 39 | [Lost in the Cold \(Live\)](https://open.spotify.com/track/4e5tDZD2DTIcxa7EmJTUY0) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12) | [Live at House of Blues Boston \(12/31/2018\)](https://open.spotify.com/album/6FfVpYu80vNyLyT4mvl8HZ) | 7:10 |
 | 40 | [The Wheel / Uncle John’s Band \- Medley / Live](https://open.spotify.com/track/40UyZ0DIZeZrGRDMyqoS09) | [Phil Lesh & Communion](https://open.spotify.com/artist/1eK2zkZVf7KO6KXsYTgekm) | [Dear Jerry: Celebrating The Music Of Jerry Garcia \(Live\)](https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj) | 17:00 |
 | 41 | [Sand \- Live](https://open.spotify.com/track/1I475fQYlPiCgcsRqY7CCm) | [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Burn It Down \(Live\)](https://open.spotify.com/album/4JsU5vwVZEo36Ro5iAMtrD) | 10:17 |

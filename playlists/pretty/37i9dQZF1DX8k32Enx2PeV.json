@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17035,
+  "num_followers": 17041,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "PorquE Si Te QuedAs",
         "url": "https://open.spotify.com/album/54zZai5zPTfVxRxpi8i4R8"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 179166,
       "name": "PorquE Si Te QuedAs",
       "url": "https://open.spotify.com/track/32fkaxjxY0MXP5WyovCWC8"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/2lF2gHOxnRQkCThcx7NeJS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Playita",
-        "url": "https://open.spotify.com/album/1Abywyg2e2Vr8P1pPZUwzZ"
-      },
-      "artists": [
-        {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
-        }
-      ],
-      "duration_ms": 150588,
-      "name": "Playita",
-      "url": "https://open.spotify.com/track/2WowKsE6B5QEXiYTVCHogG"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Besos Ricos",
         "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 187715,
       "name": "Besos Ricos",
       "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Playita",
+        "url": "https://open.spotify.com/album/1Abywyg2e2Vr8P1pPZUwzZ"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 150588,
+      "name": "Playita",
+      "url": "https://open.spotify.com/track/2WowKsE6B5QEXiYTVCHogG"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Pailas Parcera",
-        "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
-      },
-      "artists": [
-        {
-          "name": "Slow Mike",
-          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
-        },
-        {
-          "name": "Luister La Voz",
-          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
-        }
-      ],
-      "duration_ms": 188936,
-      "name": "Pailas Parcera",
-      "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "R-A-B-I-A",
         "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 185210,
       "name": "No me opongo",
       "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Pailas Parcera",
+        "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
+      },
+      "artists": [
+        {
+          "name": "Slow Mike",
+          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
+        },
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "Pailas Parcera",
+      "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "B\u00faho",
-        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bleat",
-          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
-        }
-      ],
-      "duration_ms": 300338,
-      "name": "B\u00faho",
-      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "B\u00faho",
+        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bleat",
+          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
+        }
+      ],
+      "duration_ms": 300338,
+      "name": "B\u00faho",
+      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "BCN",
-        "url": "https://open.spotify.com/album/0Ao8K0FieTNrsTJO3Npdpl"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        },
-        {
-          "name": "Yexel",
-          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
-        }
-      ],
-      "duration_ms": 163119,
-      "name": "BCN",
-      "url": "https://open.spotify.com/track/3zNyqsJCrqXzgCWgD8zcd4"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Perdiendo el Control",
         "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 180652,
       "name": "Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "BCN",
+        "url": "https://open.spotify.com/album/0Ao8K0FieTNrsTJO3Npdpl"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        },
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "duration_ms": 163119,
+      "name": "BCN",
+      "url": "https://open.spotify.com/track/3zNyqsJCrqXzgCWgD8zcd4"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "Supernatural Love",
+        "url": "https://open.spotify.com/album/0m1LXn0YdEzzKfXN3Hvtsl"
+      },
+      "artists": [
+        {
+          "name": "Sidestepper",
+          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Fuego Que Te Llama",
+      "url": "https://open.spotify.com/track/31fZqDxIEk8qDa4Fi0BISL"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "El \u00c1lbum de las Ilusiones",
         "url": "https://open.spotify.com/album/7wTHrCoUQJNtkhQRFreDiW"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 261786,
       "name": "Conectar",
       "url": "https://open.spotify.com/track/4w95fyTD2dawHjWZCnV7Vk"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Supernatural Love",
-        "url": "https://open.spotify.com/album/0m1LXn0YdEzzKfXN3Hvtsl"
-      },
-      "artists": [
-        {
-          "name": "Sidestepper",
-          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Fuego Que Te Llama",
-      "url": "https://open.spotify.com/track/31fZqDxIEk8qDa4Fi0BISL"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Losken Roland",
-        "url": "https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 140955,
-      "name": "Losken Roland",
-      "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Sun a Shine",
         "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 172069,
       "name": "Sun a Shine",
       "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Losken Roland",
+        "url": "https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 140955,
+      "name": "Losken Roland",
+      "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Emocional",
-        "url": "https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Emocional",
-      "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Yo Quisiera",
         "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Emocional",
+        "url": "https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Emocional",
+      "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
     },
     {
       "added_at": "2026-06-19 04:59:04",

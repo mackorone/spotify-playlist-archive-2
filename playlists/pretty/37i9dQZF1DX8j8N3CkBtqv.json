@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring maahi, Outstation, TUSHAR JOSHI and other exciting artists.\n",
-  "num_followers": 115980,
+  "num_followers": 115968,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -115,26 +115,18 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Zakhmi",
-        "url": "https://open.spotify.com/album/2QNmjKyZnDB8ZsiKPReQhz"
+        "name": "Bewajah",
+        "url": "https://open.spotify.com/album/0UBpo1PhL1okCzOrMLHWgn"
       },
       "artists": [
         {
-          "name": "Samad - Bharath",
-          "url": "https://open.spotify.com/artist/5RzGM81zRc77CEAZVCWFxN"
-        },
-        {
-          "name": "Bharath",
-          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
-        },
-        {
-          "name": "Samad Khan",
-          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
         }
       ],
-      "duration_ms": 167390,
-      "name": "Zakhmi",
-      "url": "https://open.spotify.com/track/1rL4P9Rv4HyO9mLCWbAfHZ"
+      "duration_ms": 274000,
+      "name": "Bewajah",
+      "url": "https://open.spotify.com/track/6zhgpXx8L5JAUMsGUhrFO9"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -159,42 +151,50 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Bewajah",
-        "url": "https://open.spotify.com/album/0UBpo1PhL1okCzOrMLHWgn"
+        "name": "Zakhmi",
+        "url": "https://open.spotify.com/album/2QNmjKyZnDB8ZsiKPReQhz"
       },
       "artists": [
         {
-          "name": "KhoslaRaghu",
-          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+          "name": "Samad - Bharath",
+          "url": "https://open.spotify.com/artist/5RzGM81zRc77CEAZVCWFxN"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        },
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
         }
       ],
-      "duration_ms": 274000,
-      "name": "Bewajah",
-      "url": "https://open.spotify.com/track/6zhgpXx8L5JAUMsGUhrFO9"
+      "duration_ms": 167390,
+      "name": "Zakhmi",
+      "url": "https://open.spotify.com/track/1rL4P9Rv4HyO9mLCWbAfHZ"
     },
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Qaraar",
-        "url": "https://open.spotify.com/album/5ZgxkBhPJ25z0ty5hUVnYX"
+        "name": "O Piya",
+        "url": "https://open.spotify.com/album/4Xr1KqCvDm2KcS9i6bVIwL"
       },
       "artists": [
         {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+          "name": "Khan",
+          "url": "https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS"
         },
         {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm"
         },
         {
-          "name": "Dipti Misra",
-          "url": "https://open.spotify.com/artist/01uFaIgB0EWy8RIpi0LDQ8"
+          "name": "Raqib",
+          "url": "https://open.spotify.com/artist/59zGJREnuFBI2XxO7OXqIV"
         }
       ],
-      "duration_ms": 410625,
-      "name": "Qaraar",
-      "url": "https://open.spotify.com/track/3S31XTwTQFEG7R5DbDCMbc"
+      "duration_ms": 166534,
+      "name": "O Piya",
+      "url": "https://open.spotify.com/track/2VBz6QJFqhi497KuKvWgHl"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -251,6 +251,54 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
+        "name": "Qaraar",
+        "url": "https://open.spotify.com/album/5ZgxkBhPJ25z0ty5hUVnYX"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Dipti Misra",
+          "url": "https://open.spotify.com/artist/01uFaIgB0EWy8RIpi0LDQ8"
+        }
+      ],
+      "duration_ms": 410625,
+      "name": "Qaraar",
+      "url": "https://open.spotify.com/track/3S31XTwTQFEG7R5DbDCMbc"
+    },
+    {
+      "added_at": "2026-07-31 05:21:48",
+      "album": {
+        "name": "Dil Ke Mehmaan",
+        "url": "https://open.spotify.com/album/0gnqHxotNlOkRzwnCksbDA"
+      },
+      "artists": [
+        {
+          "name": "Samyak Prasana",
+          "url": "https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Rucha",
+          "url": "https://open.spotify.com/artist/0i0whoBGGN3c66BSz2jkPb"
+        }
+      ],
+      "duration_ms": 247578,
+      "name": "Dil Ke Mehmaan",
+      "url": "https://open.spotify.com/track/65nsOGtAE07uVTCtPP0x4i"
+    },
+    {
+      "added_at": "2026-07-31 05:21:48",
+      "album": {
         "name": "Sajna Ve",
         "url": "https://open.spotify.com/album/0ETznxgrTFVo8kvzhCbk5o"
       },
@@ -279,54 +327,6 @@
       "duration_ms": 384000,
       "name": "Kitni Dafaa",
       "url": "https://open.spotify.com/track/55X7yrhGv7sJ3oWG3GlGl3"
-    },
-    {
-      "added_at": "2026-07-31 05:21:48",
-      "album": {
-        "name": "O Piya",
-        "url": "https://open.spotify.com/album/4Xr1KqCvDm2KcS9i6bVIwL"
-      },
-      "artists": [
-        {
-          "name": "Khan",
-          "url": "https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS"
-        },
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm"
-        },
-        {
-          "name": "Raqib",
-          "url": "https://open.spotify.com/artist/59zGJREnuFBI2XxO7OXqIV"
-        }
-      ],
-      "duration_ms": 166534,
-      "name": "O Piya",
-      "url": "https://open.spotify.com/track/2VBz6QJFqhi497KuKvWgHl"
-    },
-    {
-      "added_at": "2026-07-31 05:21:48",
-      "album": {
-        "name": "Dil Ke Mehmaan",
-        "url": "https://open.spotify.com/album/0gnqHxotNlOkRzwnCksbDA"
-      },
-      "artists": [
-        {
-          "name": "Samyak Prasana",
-          "url": "https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY"
-        },
-        {
-          "name": "Mahendra Dhirajlal Kamdar",
-          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
-        },
-        {
-          "name": "Rucha",
-          "url": "https://open.spotify.com/artist/0i0whoBGGN3c66BSz2jkPb"
-        }
-      ],
-      "duration_ms": 247578,
-      "name": "Dil Ke Mehmaan",
-      "url": "https://open.spotify.com/track/65nsOGtAE07uVTCtPP0x4i"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/6BlYYjKLjE1FzoJFaftbXh"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Blush",
-      "url": "https://open.spotify.com/track/56Rdvp163gJ4Bn9v1UqMC2"
-    },
-    {
-      "added_at": "2026-07-31 05:21:48",
-      "album": {
         "name": "Chandni",
         "url": "https://open.spotify.com/album/0eXeInZLi8DMMtncmsk2w5"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 174545,
       "name": "Chandni",
       "url": "https://open.spotify.com/track/4TYSwFH0LcKo32RuWJiaao"
+    },
+    {
+      "added_at": "2026-07-31 05:21:48",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/6BlYYjKLjE1FzoJFaftbXh"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/56Rdvp163gJ4Bn9v1UqMC2"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -495,6 +495,50 @@
       "duration_ms": 160365,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/3OtCeLB2QjnhckmkdpTuUo"
+    },
+    {
+      "added_at": "2026-07-31 05:21:48",
+      "album": {
+        "name": "Meri Jagah",
+        "url": "https://open.spotify.com/album/4Ke9HX7WrMIGZeDy2eZsAY"
+      },
+      "artists": [
+        {
+          "name": "Prateek Harbola",
+          "url": "https://open.spotify.com/artist/4ClKqeMmijLcawoVzg8ZGC"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Meri Jagah",
+      "url": "https://open.spotify.com/track/232jlF7aML1WNSkhd0HY6E"
+    },
+    {
+      "added_at": "2026-07-31 05:21:48",
+      "album": {
+        "name": "Guzarne Lage",
+        "url": "https://open.spotify.com/album/2gHGcy1Y4q1vQMEXfshHOL"
+      },
+      "artists": [
+        {
+          "name": "Vibhor Parashar",
+          "url": "https://open.spotify.com/artist/6q2TUP4nBtVhI7wyRwKXxu"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        },
+        {
+          "name": "Akarshit",
+          "url": "https://open.spotify.com/artist/07xkHRmslprK6AAOjeGvZh"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Guzarne Lage",
+      "url": "https://open.spotify.com/track/3WVgDA2Iap6piKzyL02HVf"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -547,46 +591,30 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Guzarne Lage",
-        "url": "https://open.spotify.com/album/2gHGcy1Y4q1vQMEXfshHOL"
+        "name": "Jaan Nisar",
+        "url": "https://open.spotify.com/album/6fAKnK2SsMgnuM2BdI7Z0K"
       },
       "artists": [
         {
-          "name": "Vibhor Parashar",
-          "url": "https://open.spotify.com/artist/6q2TUP4nBtVhI7wyRwKXxu"
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
         },
         {
-          "name": "Arjit Srivastava",
-          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
         },
         {
-          "name": "Akarshit",
-          "url": "https://open.spotify.com/artist/07xkHRmslprK6AAOjeGvZh"
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "vivasvan",
+          "url": "https://open.spotify.com/artist/1aeAUpgdr1BjkKz8bzlt0l"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Guzarne Lage",
-      "url": "https://open.spotify.com/track/3WVgDA2Iap6piKzyL02HVf"
-    },
-    {
-      "added_at": "2026-07-31 05:21:48",
-      "album": {
-        "name": "Meri Jagah",
-        "url": "https://open.spotify.com/album/4Ke9HX7WrMIGZeDy2eZsAY"
-      },
-      "artists": [
-        {
-          "name": "Prateek Harbola",
-          "url": "https://open.spotify.com/artist/4ClKqeMmijLcawoVzg8ZGC"
-        },
-        {
-          "name": "Rajat Nagpal",
-          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Meri Jagah",
-      "url": "https://open.spotify.com/track/232jlF7aML1WNSkhd0HY6E"
+      "duration_ms": 159391,
+      "name": "Jaan Nisar",
+      "url": "https://open.spotify.com/track/4VRCFJuM93O7XU8oppf2w2"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -627,30 +655,18 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Jaan Nisar",
-        "url": "https://open.spotify.com/album/6fAKnK2SsMgnuM2BdI7Z0K"
+        "name": "Dekho Na",
+        "url": "https://open.spotify.com/album/4K9xegFgmuSTMcc8EGts0B"
       },
       "artists": [
         {
-          "name": "Suyash",
-          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
-        },
-        {
-          "name": "Danny",
-          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
-        },
-        {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
-        },
-        {
-          "name": "vivasvan",
-          "url": "https://open.spotify.com/artist/1aeAUpgdr1BjkKz8bzlt0l"
+          "name": "Sobit Tamang",
+          "url": "https://open.spotify.com/artist/5NuIxtRrRTJMaTn3oCZgyn"
         }
       ],
-      "duration_ms": 159391,
-      "name": "Jaan Nisar",
-      "url": "https://open.spotify.com/track/4VRCFJuM93O7XU8oppf2w2"
+      "duration_ms": 227773,
+      "name": "Dekho Na",
+      "url": "https://open.spotify.com/track/1tBFMrlbCnJIglzG9xroRp"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Dekho Na",
-        "url": "https://open.spotify.com/album/4K9xegFgmuSTMcc8EGts0B"
-      },
-      "artists": [
-        {
-          "name": "Sobit Tamang",
-          "url": "https://open.spotify.com/artist/5NuIxtRrRTJMaTn3oCZgyn"
-        }
-      ],
-      "duration_ms": 227773,
-      "name": "Dekho Na",
-      "url": "https://open.spotify.com/track/1tBFMrlbCnJIglzG9xroRp"
-    },
-    {
-      "added_at": "2026-07-31 05:21:48",
-      "album": {
         "name": "52 Bahane",
         "url": "https://open.spotify.com/album/41hXC7pNwnO4xIwBm0qTWL"
       },
@@ -699,26 +699,6 @@
       "duration_ms": 214080,
       "name": "52 Bahane",
       "url": "https://open.spotify.com/track/0k283RGI7J8o0FS5rJ20rv"
-    },
-    {
-      "added_at": "2026-07-31 05:21:48",
-      "album": {
-        "name": "Maheen Ishq",
-        "url": "https://open.spotify.com/album/42SUCYs5tZC5H6X62L9osC"
-      },
-      "artists": [
-        {
-          "name": "Ishaan Nigam",
-          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
-        },
-        {
-          "name": "Yashika Sikka",
-          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "Maheen Ishq",
-      "url": "https://open.spotify.com/track/5Ve0eDZhTFW0rgxsYNXHn1"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -747,18 +727,22 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "A Little Larger Than The Entire Universe",
-        "url": "https://open.spotify.com/album/6l66NGkulOLFL5HIwdnqZ2"
+        "name": "Maheen Ishq",
+        "url": "https://open.spotify.com/album/42SUCYs5tZC5H6X62L9osC"
       },
       "artists": [
         {
-          "name": "JBABE",
-          "url": "https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby"
+          "name": "Ishaan Nigam",
+          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
+        },
+        {
+          "name": "Yashika Sikka",
+          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
         }
       ],
-      "duration_ms": 181566,
-      "name": "Cries in Crocodile",
-      "url": "https://open.spotify.com/track/2FAsIE5rXnHFxLbVgQbxYa"
+      "duration_ms": 196375,
+      "name": "Maheen Ishq",
+      "url": "https://open.spotify.com/track/5Ve0eDZhTFW0rgxsYNXHn1"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -775,6 +759,38 @@
       "duration_ms": 143513,
       "name": "TU TU TU TU TU",
       "url": "https://open.spotify.com/track/14WPWMa9RVLe5nGiEzOkoo"
+    },
+    {
+      "added_at": "2026-07-31 05:21:48",
+      "album": {
+        "name": "A Little Larger Than The Entire Universe",
+        "url": "https://open.spotify.com/album/6l66NGkulOLFL5HIwdnqZ2"
+      },
+      "artists": [
+        {
+          "name": "JBABE",
+          "url": "https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby"
+        }
+      ],
+      "duration_ms": 181566,
+      "name": "Cries in Crocodile",
+      "url": "https://open.spotify.com/track/2FAsIE5rXnHFxLbVgQbxYa"
+    },
+    {
+      "added_at": "2026-07-31 05:21:48",
+      "album": {
+        "name": "Kone Kone",
+        "url": "https://open.spotify.com/album/2GtHmGNVe6gipd5JHSJqrK"
+      },
+      "artists": [
+        {
+          "name": "Ashwini Vocals",
+          "url": "https://open.spotify.com/artist/01qu7FisKSgdPhZ77gov1B"
+        }
+      ],
+      "duration_ms": 150523,
+      "name": "Kone Kone",
+      "url": "https://open.spotify.com/track/5QVRcPe3BoLWaoAugb1aRv"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -799,18 +815,42 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Kone Kone",
-        "url": "https://open.spotify.com/album/2GtHmGNVe6gipd5JHSJqrK"
+        "name": "Aayi Aayi",
+        "url": "https://open.spotify.com/album/0fblb84hXHfhZraXsEn45U"
       },
       "artists": [
         {
-          "name": "Ashwini Vocals",
-          "url": "https://open.spotify.com/artist/01qu7FisKSgdPhZ77gov1B"
+          "name": "Saptak Chatterjee",
+          "url": "https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc"
+        },
+        {
+          "name": "VNYK",
+          "url": "https://open.spotify.com/artist/3g49Buvx8KcA7dgXxpdUHt"
+        },
+        {
+          "name": "Shrikant Biswakarma",
+          "url": "https://open.spotify.com/artist/0WfSMKNv9ryVmHLpX3hWZh"
         }
       ],
-      "duration_ms": 150523,
-      "name": "Kone Kone",
-      "url": "https://open.spotify.com/track/5QVRcPe3BoLWaoAugb1aRv"
+      "duration_ms": 252265,
+      "name": "Aayi Aayi",
+      "url": "https://open.spotify.com/track/2Ybf9gwkTOcBRecd6NcxeS"
+    },
+    {
+      "added_at": "2026-07-31 05:21:48",
+      "album": {
+        "name": "zikr",
+        "url": "https://open.spotify.com/album/7thVjGi8ZSGXcZ8EH5NtqU"
+      },
+      "artists": [
+        {
+          "name": "Niyam",
+          "url": "https://open.spotify.com/artist/5gSTgaslwP1tp7SO8cHBYL"
+        }
+      ],
+      "duration_ms": 182681,
+      "name": "zikr",
+      "url": "https://open.spotify.com/track/5CzG3f4db3gGOWNriilxHC"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -835,30 +875,6 @@
       "duration_ms": 148163,
       "name": "Makaan Maalkin",
       "url": "https://open.spotify.com/track/3FKJkWYPJLw1h0x1Uhl9BE"
-    },
-    {
-      "added_at": "2026-07-31 05:21:48",
-      "album": {
-        "name": "Aayi Aayi",
-        "url": "https://open.spotify.com/album/0fblb84hXHfhZraXsEn45U"
-      },
-      "artists": [
-        {
-          "name": "Saptak Chatterjee",
-          "url": "https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc"
-        },
-        {
-          "name": "VNYK",
-          "url": "https://open.spotify.com/artist/3g49Buvx8KcA7dgXxpdUHt"
-        },
-        {
-          "name": "Shrikant Biswakarma",
-          "url": "https://open.spotify.com/artist/0WfSMKNv9ryVmHLpX3hWZh"
-        }
-      ],
-      "duration_ms": 252265,
-      "name": "Aayi Aayi",
-      "url": "https://open.spotify.com/track/2Ybf9gwkTOcBRecd6NcxeS"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -895,18 +911,18 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "zikr",
-        "url": "https://open.spotify.com/album/7thVjGi8ZSGXcZ8EH5NtqU"
+        "name": "Barsa",
+        "url": "https://open.spotify.com/album/45JKe1xmPgQ91MZd2kf08f"
       },
       "artists": [
         {
-          "name": "Niyam",
-          "url": "https://open.spotify.com/artist/5gSTgaslwP1tp7SO8cHBYL"
+          "name": "Achint",
+          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
         }
       ],
-      "duration_ms": 182681,
-      "name": "zikr",
-      "url": "https://open.spotify.com/track/5CzG3f4db3gGOWNriilxHC"
+      "duration_ms": 206088,
+      "name": "Barsa",
+      "url": "https://open.spotify.com/track/4Ylc8oP6UsoZqL3ubXYtoA"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -927,18 +943,22 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Barsa",
-        "url": "https://open.spotify.com/album/45JKe1xmPgQ91MZd2kf08f"
+        "name": "Dil Udta Phire",
+        "url": "https://open.spotify.com/album/3uRs5WeKYT0ArKTpVvKtNI"
       },
       "artists": [
         {
-          "name": "Achint",
-          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
+          "name": "Rishabh Anupam Sahay",
+          "url": "https://open.spotify.com/artist/62XfsmGZwzFFU4RPD8jtPj"
+        },
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
         }
       ],
-      "duration_ms": 206088,
-      "name": "Barsa",
-      "url": "https://open.spotify.com/track/4Ylc8oP6UsoZqL3ubXYtoA"
+      "duration_ms": 205662,
+      "name": "Dil Udta Phire",
+      "url": "https://open.spotify.com/track/5nZUNha3NMoRv1WprdkwDd"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -975,42 +995,6 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Dil Udta Phire",
-        "url": "https://open.spotify.com/album/3uRs5WeKYT0ArKTpVvKtNI"
-      },
-      "artists": [
-        {
-          "name": "Rishabh Anupam Sahay",
-          "url": "https://open.spotify.com/artist/62XfsmGZwzFFU4RPD8jtPj"
-        },
-        {
-          "name": "Raghav Kaushik",
-          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
-        }
-      ],
-      "duration_ms": 205662,
-      "name": "Dil Udta Phire",
-      "url": "https://open.spotify.com/track/5nZUNha3NMoRv1WprdkwDd"
-    },
-    {
-      "added_at": "2026-07-31 05:21:48",
-      "album": {
-        "name": "What\u2019s Love?",
-        "url": "https://open.spotify.com/album/2o4NvurXkAgNoSXFVQ5bJS"
-      },
-      "artists": [
-        {
-          "name": "Abhimanyu-Pragya",
-          "url": "https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "What\u2019s Love?",
-      "url": "https://open.spotify.com/track/1E16RREgD2Vrb5aqtS8Jwj"
-    },
-    {
-      "added_at": "2026-07-31 05:21:48",
-      "album": {
         "name": "Jeena Bekar",
         "url": "https://open.spotify.com/album/0l8XsL5BVLtN36NbypLmhp"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 203636,
       "name": "Jeena Bekar",
       "url": "https://open.spotify.com/track/1ZxNgEUVD70wDA0TANVnRB"
+    },
+    {
+      "added_at": "2026-07-31 05:21:48",
+      "album": {
+        "name": "What\u2019s Love?",
+        "url": "https://open.spotify.com/album/2o4NvurXkAgNoSXFVQ5bJS"
+      },
+      "artists": [
+        {
+          "name": "Abhimanyu-Pragya",
+          "url": "https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "What\u2019s Love?",
+      "url": "https://open.spotify.com/track/1E16RREgD2Vrb5aqtS8Jwj"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4S5vXq7RinhA32TReeehBu"
+      },
+      "artists": [
+        {
+          "name": "boys from marsss",
+          "url": "https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6Ti4NOxpbQecIR7y3qlMy1"
+    },
+    {
+      "added_at": "2026-07-31 05:21:48",
+      "album": {
         "name": "Aarzoo",
         "url": "https://open.spotify.com/album/2qzM5XQF0mtCBUpJndHtu7"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/4S5vXq7RinhA32TReeehBu"
+        "name": "Mil Ja Tu",
+        "url": "https://open.spotify.com/album/0Q9mwKVZjDoh7icpoLNa4Q"
       },
       "artists": [
         {
-          "name": "boys from marsss",
-          "url": "https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU"
+          "name": "Ankita Barwad",
+          "url": "https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/6Ti4NOxpbQecIR7y3qlMy1"
+      "duration_ms": 171533,
+      "name": "Mil Ja Tu",
+      "url": "https://open.spotify.com/track/1IdmjEkJ4VahCtEXcfnxXi"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -1135,18 +1151,22 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "homecoming",
-        "url": "https://open.spotify.com/album/5I6zfPUzoraFPx1hcAtXi1"
+        "name": "Baebo",
+        "url": "https://open.spotify.com/album/5YlMtNplWS8oMGlON23E5W"
       },
       "artists": [
         {
-          "name": "OutStation",
-          "url": "https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH"
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        },
+        {
+          "name": "Anmol Salh",
+          "url": "https://open.spotify.com/artist/3s4qjRqGggLI6gRiEefxDw"
         }
       ],
-      "duration_ms": 169090,
-      "name": "homecoming",
-      "url": "https://open.spotify.com/track/2SD38EjXODH6nhJ4SmeeD8"
+      "duration_ms": 195918,
+      "name": "Baebo",
+      "url": "https://open.spotify.com/track/4HYkpGxtJLYhnlJk3Uqa4Y"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -1175,22 +1195,18 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Baebo",
-        "url": "https://open.spotify.com/album/5YlMtNplWS8oMGlON23E5W"
+        "name": "homecoming",
+        "url": "https://open.spotify.com/album/5I6zfPUzoraFPx1hcAtXi1"
       },
       "artists": [
         {
-          "name": "Aditya Bhardwaj",
-          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
-        },
-        {
-          "name": "Anmol Salh",
-          "url": "https://open.spotify.com/artist/3s4qjRqGggLI6gRiEefxDw"
+          "name": "OutStation",
+          "url": "https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH"
         }
       ],
-      "duration_ms": 195918,
-      "name": "Baebo",
-      "url": "https://open.spotify.com/track/4HYkpGxtJLYhnlJk3Uqa4Y"
+      "duration_ms": 169090,
+      "name": "homecoming",
+      "url": "https://open.spotify.com/track/2SD38EjXODH6nhJ4SmeeD8"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -1211,62 +1227,6 @@
       "duration_ms": 200512,
       "name": "Dhoop",
       "url": "https://open.spotify.com/track/62XHNQFlRz62edjBpdoYt5"
-    },
-    {
-      "added_at": "2026-07-31 05:21:48",
-      "album": {
-        "name": "summerlovin",
-        "url": "https://open.spotify.com/album/1UeN3Df2rOP7hAgHDsfsLa"
-      },
-      "artists": [
-        {
-          "name": "Tarang Joseph",
-          "url": "https://open.spotify.com/artist/76Qn1AJEps9AcUgwIOHplM"
-        }
-      ],
-      "duration_ms": 276405,
-      "name": "summerlovin",
-      "url": "https://open.spotify.com/track/1py8E9GjG57eGeCOSt3IWP"
-    },
-    {
-      "added_at": "2026-07-31 05:21:48",
-      "album": {
-        "name": "Mil Ja Tu",
-        "url": "https://open.spotify.com/album/0Q9mwKVZjDoh7icpoLNa4Q"
-      },
-      "artists": [
-        {
-          "name": "Ankita Barwad",
-          "url": "https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Mil Ja Tu",
-      "url": "https://open.spotify.com/track/1IdmjEkJ4VahCtEXcfnxXi"
-    },
-    {
-      "added_at": "2026-07-31 05:21:48",
-      "album": {
-        "name": "Saasein Meri",
-        "url": "https://open.spotify.com/album/1Qlga96PXQ7ekMOgI0hejt"
-      },
-      "artists": [
-        {
-          "name": "Saurabh Verma",
-          "url": "https://open.spotify.com/artist/34i113bxc0TjAIi5rnyCQu"
-        },
-        {
-          "name": "Lakshay Kathayat",
-          "url": "https://open.spotify.com/artist/5o2jdHlY9RsfT7NT8CXxNb"
-        },
-        {
-          "name": "Adarsh Maurya",
-          "url": "https://open.spotify.com/artist/4vnnY54YLfL8XyDHbw5Xsr"
-        }
-      ],
-      "duration_ms": 196608,
-      "name": "Saasein Meri",
-      "url": "https://open.spotify.com/track/0xbxxGPHh72DO9tSPLSNv7"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -1307,26 +1267,42 @@
     {
       "added_at": "2026-07-31 05:21:48",
       "album": {
-        "name": "Jaane Jaana",
-        "url": "https://open.spotify.com/album/1I4l7iGK9CxSgedoVSCVi9"
+        "name": "Saasein Meri",
+        "url": "https://open.spotify.com/album/1Qlga96PXQ7ekMOgI0hejt"
       },
       "artists": [
         {
-          "name": "Sreehari K",
-          "url": "https://open.spotify.com/artist/4HEziz1lkW1kFRRMKJh2Kx"
+          "name": "Saurabh Verma",
+          "url": "https://open.spotify.com/artist/34i113bxc0TjAIi5rnyCQu"
         },
         {
-          "name": "Nithya Mammen",
-          "url": "https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P"
+          "name": "Lakshay Kathayat",
+          "url": "https://open.spotify.com/artist/5o2jdHlY9RsfT7NT8CXxNb"
         },
         {
-          "name": "Bhrigu Parashar",
-          "url": "https://open.spotify.com/artist/0N6B820enuBvVjGkeX0BlN"
+          "name": "Adarsh Maurya",
+          "url": "https://open.spotify.com/artist/4vnnY54YLfL8XyDHbw5Xsr"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Jaane Jaana",
-      "url": "https://open.spotify.com/track/29UbqMbxTL4j4b1ngud9eE"
+      "duration_ms": 196608,
+      "name": "Saasein Meri",
+      "url": "https://open.spotify.com/track/0xbxxGPHh72DO9tSPLSNv7"
+    },
+    {
+      "added_at": "2026-07-31 05:21:48",
+      "album": {
+        "name": "summerlovin",
+        "url": "https://open.spotify.com/album/1UeN3Df2rOP7hAgHDsfsLa"
+      },
+      "artists": [
+        {
+          "name": "Tarang Joseph",
+          "url": "https://open.spotify.com/artist/76Qn1AJEps9AcUgwIOHplM"
+        }
+      ],
+      "duration_ms": 276405,
+      "name": "summerlovin",
+      "url": "https://open.spotify.com/track/1py8E9GjG57eGeCOSt3IWP"
     },
     {
       "added_at": "2026-07-31 05:21:48",
@@ -1347,6 +1323,30 @@
       "duration_ms": 181436,
       "name": "Teri Yaadon Ke Saaye",
       "url": "https://open.spotify.com/track/3PwDRxbPUUWcS8KHej60IX"
+    },
+    {
+      "added_at": "2026-07-31 05:21:48",
+      "album": {
+        "name": "Jaane Jaana",
+        "url": "https://open.spotify.com/album/1I4l7iGK9CxSgedoVSCVi9"
+      },
+      "artists": [
+        {
+          "name": "Sreehari K",
+          "url": "https://open.spotify.com/artist/4HEziz1lkW1kFRRMKJh2Kx"
+        },
+        {
+          "name": "Nithya Mammen",
+          "url": "https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P"
+        },
+        {
+          "name": "Bhrigu Parashar",
+          "url": "https://open.spotify.com/artist/0N6B820enuBvVjGkeX0BlN"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Jaane Jaana",
+      "url": "https://open.spotify.com/track/29UbqMbxTL4j4b1ngud9eE"
     },
     {
       "added_at": "2026-07-31 05:21:48",

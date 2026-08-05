@@ -848,7 +848,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 188626,
       "name": "Badway",
       "url": "https://open.spotify.com/track/2xnolu3GnPG0Ohxa93yZVY"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 164560,
       "name": "Beat Me Up",
       "url": "https://open.spotify.com/track/6iQ6uu9FSWPbt6BuX0XsjU"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 174093,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7iT3p4EKVOjUohTul7aDf4"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 191140,
       "name": "Catapult",
       "url": "https://open.spotify.com/track/6akUUK3X6K49283AbwHJK4"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 158720,
       "name": "CEO OF MY FACE",
       "url": "https://open.spotify.com/track/4lx9KQP9qnHYarlnFp6Rqo"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 218066,
       "name": "Choking on the Truth",
       "url": "https://open.spotify.com/track/4sxoIgMLCc48N5gxkWxlkG"
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 230986,
       "name": "Coming On",
       "url": "https://open.spotify.com/track/0uIOEuZItY2Sau1RfO3ysv"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 187366,
       "name": "Damage Is Done",
       "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 220150,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/16d0yg7oUxPbVwipccQ2L2"
@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 240233,
       "name": "Democracy Don't Die Quiet",
       "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 238400,
       "name": "Do You Get High?",
       "url": "https://open.spotify.com/track/5J02D47G13XKef6HOfm3SQ"
@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 207438,
       "name": "Don't Wait Up For Me",
       "url": "https://open.spotify.com/track/6BfWe8EH9Dhb68F2trNvXx"
@@ -3189,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "ENFP\u4e4b\u6b4c (Chinese Version)",
+        "url": "https://open.spotify.com/album/6t2pjxqMoT3LpYGqZENTqW"
+      },
+      "artists": [
+        {
+          "name": "Tango Chung",
+          "url": "https://open.spotify.com/artist/7DJ8fNd58Ih0zFSkK5oa3l"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89373,
+      "name": "ENFP\u4e4b\u6b4c - Chinese Version",
+      "url": "https://open.spotify.com/track/2l3XdoQn2LqmiwJzJvlxuA"
+    },
+    {
+      "album": {
         "name": "No Retreat",
         "url": "https://open.spotify.com/album/64Y5Leqg4p1Vf6K0EOmJGh"
       },
@@ -3290,7 +3308,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -3752,7 +3770,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -3770,7 +3788,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 195146,
       "name": "Fuck You 2",
       "url": "https://open.spotify.com/track/3lOMHsQnZ5E6XXqz8fEMPD"
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 156683,
       "name": "Funeral Of A Good Grrl",
       "url": "https://open.spotify.com/track/2UOEWzQIGIwxxBdT64ZV8J"
@@ -4004,7 +4022,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 252596,
       "name": "Gimme Shelter",
       "url": "https://open.spotify.com/track/2QmtAJhBjuIKUfl4SlAb5Y"
@@ -4202,7 +4220,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 130245,
       "name": "Gravity Falls",
       "url": "https://open.spotify.com/track/2JtKoVYwMlmNsrhHZXyzCi"
@@ -4454,7 +4472,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -5182,7 +5200,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 131880,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1zFGHFw826rsYq9xlAX9Ox"
@@ -5720,7 +5738,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 189453,
       "name": "Kiss Your Mama!",
       "url": "https://open.spotify.com/track/7DSwyrYR8nHyVIZNsfs6ei"
@@ -5756,7 +5774,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -5918,7 +5936,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
@@ -5954,7 +5972,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -7450,7 +7468,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 244586,
       "name": "Not For Me",
       "url": "https://open.spotify.com/track/3DVDV4iMaFQrnej5Dwz7ww"
@@ -8664,7 +8682,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 218200,
       "name": "Rich and Filthy",
       "url": "https://open.spotify.com/track/5VEDnh2r5F5st6psB40wdf"
@@ -8718,7 +8736,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 245333,
       "name": "Rock It Till You Drop It",
       "url": "https://open.spotify.com/track/1FoyGRX4VLxEWiC7rOC7ZI"
@@ -9050,7 +9068,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 305233,
       "name": "She Don't Wanna",
       "url": "https://open.spotify.com/track/7GRdURVLqfjKlbxEx9OI9I"
@@ -9980,7 +9998,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 332138,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/6BqxVkHOdAaT8Ye1sY90KG"
@@ -10568,7 +10586,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 160732,
       "name": "Twenty Seven",
       "url": "https://open.spotify.com/track/6Y9nBNxMRXwL0JYvjsKbTN"
@@ -10856,7 +10874,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 115480,
       "name": "Watch Me Move",
       "url": "https://open.spotify.com/track/0E70YerfAQ1gbc6f7P2qdC"
@@ -11126,7 +11144,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 264333,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/5CeAbdD5YzaXkUDQG7J7oq"

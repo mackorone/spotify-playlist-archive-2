@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from New music from JAZZWRLD, Ariana Grande, Davido, MÖRDA,  Lusanda, MOLIY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,647 likes - 99 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,687 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 45 | [Trail Mix \(3pm\)](https://open.spotify.com/track/0nl0UQJrmmkxJx3kHKftpE) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [The Hours: High Noon](https://open.spotify.com/album/0nCFgJTknbfdfXiWBpREB3) | 2:24 |
 | 46 | [Civilisation](https://open.spotify.com/track/0EmeII6uRBlzfchQXdWeJ9) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Civilisation](https://open.spotify.com/album/175Vekp4nYNJyA3cJbfiTW) | 3:26 |
 | 47 | [lolufẹ́](https://open.spotify.com/track/3TwT6e9mPgojbWJBCvZVbL) | [Lodù](https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs) | [Wine & Honey](https://open.spotify.com/album/00XRrNFMcEYNDWCYGZawCd) | 2:08 |
-| 48 | [Third World Child \- \(Remake\)](https://open.spotify.com/track/77eZpR8sSF7OKG6SON6cwH) | [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [Scatterlings \(Johnny Clegg Reimagined\)](https://open.spotify.com/album/7f3nbz6bx26a15WKCzYQKT) | 4:55 |
+| 48 | [Third World Child](https://open.spotify.com/track/77eZpR8sSF7OKG6SON6cwH) | [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [Scatterlings \(Johnny Clegg Reimagined\)](https://open.spotify.com/album/7f3nbz6bx26a15WKCzYQKT) | 4:55 |
 | 49 | [Dream inside a dream...](https://open.spotify.com/track/646gVKNhqtIbOtTjys0Dzd) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Dream inside a dream…](https://open.spotify.com/album/11H0ggNORjbmX0LhZ9iK2d) | 2:36 |
 | 50 | [Better Wait](https://open.spotify.com/track/47ytW7FVxOdDbA4BkUrxUa) | [Rosey Gold](https://open.spotify.com/artist/5VzOCXUuAeHgbabXvn70DJ), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Better Wait](https://open.spotify.com/album/5Up6JD7aMmxOrMnjibpTjG) | 3:57 |
 | 51 | [Ez'bandayo](https://open.spotify.com/track/0NBvfQZsvquGPwc44bwUWj) | [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR), [Tiiger](https://open.spotify.com/artist/0vc0SFOu7AbFVRMq8U4CBv), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P) | [Ez'bandayo](https://open.spotify.com/album/5qtRFYu6PDYJkjeqJVCIt3) | 6:00 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 75 | [Rain On Me](https://open.spotify.com/track/109zzm19jWy5QiAVBTIYN0) | [BlackByrd](https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm) | [Rain On Me](https://open.spotify.com/album/6mxXfX5VwC2x6sLXaaOLJE) | 3:28 |
 | 76 | [Rubber Arm](https://open.spotify.com/track/365BKCUdOwuqKfuQCqL8Be) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [Rubber Arm](https://open.spotify.com/album/5njJwV34hj2cmva9Lq4KBb) | 3:25 |
 | 77 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 |
-| 78 | [Uyangihola](https://open.spotify.com/track/5vFYyRejC5HS4dv2SOmA5T) | [Beekay Monalayzzar](https://open.spotify.com/artist/4JWpONb9Zo8S3YBFCGKmgR), [Noex](https://open.spotify.com/artist/1RWPqByB4FdlcKT9nZV8f3), [Acidicloopz](https://open.spotify.com/artist/3WuhZzVa6eSodgq541Tdkw) | [Uyangihola](https://open.spotify.com/album/2Oy3Vdjau98kUxGnbC3UkY) | 8:00 |
+| 78 | [Uyangihola](https://open.spotify.com/track/5vFYyRejC5HS4dv2SOmA5T) | [Beekay Monalayzzar](https://open.spotify.com/artist/4JWpONb9Zo8S3YBFCGKmgR), [Noex](https://open.spotify.com/artist/1RWPqByB4FdlcKT9nZV8f3), [Acidicloopz](https://open.spotify.com/artist/4XNEqhjuBP9eVoL20n37FI) | [Uyangihola](https://open.spotify.com/album/2Oy3Vdjau98kUxGnbC3UkY) | 8:00 |
 | 79 | [dance til i die](https://open.spotify.com/track/2ZIcZ5RvzV1gnShFxC0UfE) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [dance til i die](https://open.spotify.com/album/72YpF62FQR3pcHjFDfyl4Q) | 2:59 |
 | 80 | [Masks](https://open.spotify.com/track/4LDW1h0BKYdDVZJnE3c9uP) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Masks](https://open.spotify.com/album/6r8fFRgqtWIHvNTK3LX29E) | 3:43 |
 | 81 | [Stay](https://open.spotify.com/track/1DdmIbutzUGXkktMTkyWYh) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Stay](https://open.spotify.com/album/1w9B74tuel6NHRQplSYx3a) | 2:56 |

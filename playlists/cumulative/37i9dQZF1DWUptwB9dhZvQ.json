@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Its time to relish the best themes of Kollywood!\nCover : KH X RK Reunion",
+  "description": "Its time to relish the best themes of Kollywood!\nCover : DC",
   "name": "Kollywood Themes",
   "tracks": [
     {
@@ -1142,6 +1142,24 @@
       "duration_ms": 62712,
       "name": "Dancing with Death",
       "url": "https://open.spotify.com/track/2cfU9I0toOXiBvPnaqUTPu"
+    },
+    {
+      "album": {
+        "name": "Dayangaram Swag (From \u201cDayangaram\")",
+        "url": "https://open.spotify.com/album/5AC5RUjcMlJW4gkUIYNdI2"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "Dayangaram Swag - (From \u201cDayangaram\")",
+      "url": "https://open.spotify.com/track/7eVeBXfYait7Ev2r31g6sz"
     },
     {
       "album": {
@@ -4212,7 +4230,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 82750,
       "name": "Varman Theme (From \"Jailer\")",
       "url": "https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg"

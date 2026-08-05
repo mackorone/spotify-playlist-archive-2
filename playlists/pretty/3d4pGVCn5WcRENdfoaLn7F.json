@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 816,
+  "num_followers": 818,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAD2FshC2ns4rLwz0gJMP5dpznP2zRW",
+  "snapshot_id": "AAAD2mKraYIRL2X/wSHBC0n/fLyBccnK",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1543,6 +1543,38 @@
       "duration_ms": 193438,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5ksHTPVHRiLAXsXnJPZbAF"
+    },
+    {
+      "added_at": "2026-08-04 21:08:10",
+      "album": {
+        "name": "Guardians of the Phallicy",
+        "url": "https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU"
+      },
+      "artists": [
+        {
+          "name": "AG Session",
+          "url": "https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy"
+        }
+      ],
+      "duration_ms": 152708,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy"
+    },
+    {
+      "added_at": "2026-08-04 21:18:56",
+      "album": {
+        "name": "Before Dawn",
+        "url": "https://open.spotify.com/album/1Go3wfxRNGAc870RqO2IHP"
+      },
+      "artists": [
+        {
+          "name": "Early Exit",
+          "url": "https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/4Rr8Ohu3YyBtrcqfRmP1GI"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

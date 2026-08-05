@@ -1621,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "BEYOND THE SKY",
+        "url": "https://open.spotify.com/album/3nVNNK8x7GHYuRB2vk0BnS"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "BEYOND THE SKY",
+      "url": "https://open.spotify.com/track/19MFBrZX4xZkfk5GE5kMGb"
+    },
+    {
+      "album": {
         "name": "BFX",
         "url": "https://open.spotify.com/album/6jkV59Memx1CaFLE7dd1vQ"
       },
@@ -3902,7 +3920,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 207033,
       "name": "Do Don PA!!",
       "url": "https://open.spotify.com/track/6CFDDU2je7z8G8ZUKFe3im"
@@ -6205,6 +6223,24 @@
     },
     {
       "album": {
+        "name": "Gotcha",
+        "url": "https://open.spotify.com/album/3iD5rjhlNPHA75DjykbJHF"
+      },
+      "artists": [
+        {
+          "name": "VIBY",
+          "url": "https://open.spotify.com/artist/6yEmYNNxZJSWa52gCezahN"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Gotcha",
+      "url": "https://open.spotify.com/track/4WoOmL3WaqPjJ3fVYeIf5x"
+    },
+    {
+      "album": {
         "name": "GOTH",
         "url": "https://open.spotify.com/album/7npJ0N1QE4dwfPKM6cT8Kr"
       },
@@ -6444,7 +6480,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 156000,
       "name": "HANAMARU",
       "url": "https://open.spotify.com/track/2ZWtv5EADTwWVWRMQpI4rE"
@@ -12578,7 +12614,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 220733,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/1ZdlRiJLciBb8zgGQAN28w"

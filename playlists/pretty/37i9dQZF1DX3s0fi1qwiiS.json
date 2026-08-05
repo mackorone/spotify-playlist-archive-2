@@ -1,6 +1,6 @@
 {
   "description": "The Detty December anthems over the years ",
-  "num_followers": 8246,
+  "num_followers": 8250,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 216699,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/0RqiNQYAB75utUwQF82MdY"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
         "name": "Energy (Stay Far Away)",
         "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 199521,
       "name": "Energy (Stay Far Away)",
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 216699,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/0RqiNQYAB75utUwQF82MdY"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -871,30 +871,26 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "AKWAABA",
-        "url": "https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj"
+        "name": "Wiase (Y3d3 Remix)",
+        "url": "https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x"
       },
       "artists": [
         {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
         },
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         },
         {
-          "name": "Patapaa",
-          "url": "https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9"
-        },
-        {
-          "name": "Pappy Kojo",
-          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+          "name": "Yung C",
+          "url": "https://open.spotify.com/artist/4AmyHrK5ftoTr4qYrFGTlW"
         }
       ],
-      "duration_ms": 206829,
-      "name": "AKWAABA",
-      "url": "https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa"
+      "duration_ms": 276401,
+      "name": "Wiase (Y3d3 Remix)",
+      "url": "https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -919,26 +915,30 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Wiase (Y3d3 Remix)",
-        "url": "https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x"
+        "name": "AKWAABA",
+        "url": "https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj"
       },
       "artists": [
         {
-          "name": "Quamina Mp",
-          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
         },
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Yung C",
-          "url": "https://open.spotify.com/artist/4AmyHrK5ftoTr4qYrFGTlW"
+          "name": "Patapaa",
+          "url": "https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9"
+        },
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
         }
       ],
-      "duration_ms": 276401,
-      "name": "Wiase (Y3d3 Remix)",
-      "url": "https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p"
+      "duration_ms": 206829,
+      "name": "AKWAABA",
+      "url": "https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
+        "name": "Adonai (Remix) [feat. Castro]",
+        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
+        }
+      ],
+      "duration_ms": 288130,
+      "name": "Adonai (Remix) [feat. Castro]",
+      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
         "name": "Ke Star (Remix)",
         "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 328766,
       "name": "Ke Star - Remix",
       "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
-        "name": "Adonai (Remix) [feat. Castro]",
-        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Castro",
-          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
-        }
-      ],
-      "duration_ms": 288130,
-      "name": "Adonai (Remix) [feat. Castro]",
-      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Pana",
-        "url": "https://open.spotify.com/album/0kWZevuaj7QcFXEoAfqzuV"
+        "name": "Oofeets",
+        "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Prince Bright",
+          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
         }
       ],
-      "duration_ms": 244885,
-      "name": "Pana",
-      "url": "https://open.spotify.com/track/0gP7Te7U3COCvn2d9kJMaT"
+      "duration_ms": 226666,
+      "name": "Oofeets",
+      "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
     }
   ],
   "unique_name": "Best of Detty December",

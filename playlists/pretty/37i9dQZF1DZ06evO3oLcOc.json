@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 229340,
+  "num_followers": 229223,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAAADg8u+mKzKZg5/q+52p7Me",
+  "snapshot_id": "am/aAAAAAADYXhyYCYNmGC69yvJ6gDVY",
   "tracks": [
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2POPS",
-        "url": "https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 122352,
-      "name": "2POPS",
-      "url": "https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real Deal - Single",
         "url": "https://open.spotify.com/album/4QHBlDKmCY3eY4vOwmkmB0"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 217286,
       "name": "Real Deal",
       "url": "https://open.spotify.com/track/5Rv4qhjI9MMJmLpM0iHIKV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2POPS",
+        "url": "https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 122352,
+      "name": "2POPS",
+      "url": "https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm"
     },
     {
       "added_at": null,

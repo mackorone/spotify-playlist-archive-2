@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con Karlo hasta el amanecer ",
-  "num_followers": 24550,
+  "num_followers": 24557,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "GANGTEL",
-        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 176645,
-      "name": "GANGTEL",
-      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "No Hay Nah",
         "url": "https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 188764,
       "name": "No Hay Nah",
       "url": "https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "GANGTEL",
+        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 176645,
+      "name": "GANGTEL",
+      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Ni\u00f1a Bien (SLS-007)",
-        "url": "https://open.spotify.com/album/7dKqAaRmVVghVq4iqSOnYa"
-      },
-      "artists": [
-        {
-          "name": "Sheeno",
-          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 133100,
-      "name": "Ni\u00f1a Bien (SLS-007)",
-      "url": "https://open.spotify.com/track/7yt5TPj7jGPs09iITMzAuw"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "Mi Droga",
         "url": "https://open.spotify.com/album/5RE7nniZDKaiF1WYMcaeiv"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 195389,
       "name": "Magia",
       "url": "https://open.spotify.com/track/6bbTjLQR2TmEApXj8QYhl8"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "Ni\u00f1a Bien (SLS-007)",
+        "url": "https://open.spotify.com/album/7dKqAaRmVVghVq4iqSOnYa"
+      },
+      "artists": [
+        {
+          "name": "Sheeno",
+          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 133100,
+      "name": "Ni\u00f1a Bien (SLS-007)",
+      "url": "https://open.spotify.com/track/7yt5TPj7jGPs09iITMzAuw"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "BOBOMENSOTONTO",
-      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "nueveonceamarillo",
         "url": "https://open.spotify.com/album/16khlP9Sq4I2Ksg7FpOv2s"
       },
@@ -887,6 +867,26 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "BOBOMENSOTONTO",
+      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "Ricota",
         "url": "https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Ella y YO",
-        "url": "https://open.spotify.com/album/7oH7ljF56F1y2m6CyXG31t"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 159961,
-      "name": "Ella y YO",
-      "url": "https://open.spotify.com/track/6IdamvWaWf1bhMcL2hPCng"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "Jenni Rivera",
         "url": "https://open.spotify.com/album/3TxgKrJOzELj9jp06lytkm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 156466,
       "name": "Jenni Rivera",
       "url": "https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "Ella y YO",
+        "url": "https://open.spotify.com/album/7oH7ljF56F1y2m6CyXG31t"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 159961,
+      "name": "Ella y YO",
+      "url": "https://open.spotify.com/track/6IdamvWaWf1bhMcL2hPCng"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Explicaci\u00f3n",
-        "url": "https://open.spotify.com/album/2nJGIhn24efI0YQVCvAxDp"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        },
-        {
-          "name": "PBJ",
-          "url": "https://open.spotify.com/artist/4dkYg7BkqHtFtAYb5JsDsP"
-        }
-      ],
-      "duration_ms": 162980,
-      "name": "Explicaci\u00f3n",
-      "url": "https://open.spotify.com/track/3EmPNpenfX19hm2eIBIsoe"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "nos keremos tanto",
         "url": "https://open.spotify.com/album/5LlYHGpfPOK8WN2TWUmXi1"
       },
@@ -1131,6 +1111,26 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "Explicaci\u00f3n",
+        "url": "https://open.spotify.com/album/2nJGIhn24efI0YQVCvAxDp"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
+        {
+          "name": "PBJ",
+          "url": "https://open.spotify.com/artist/4dkYg7BkqHtFtAYb5JsDsP"
+        }
+      ],
+      "duration_ms": 162980,
+      "name": "Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/3EmPNpenfX19hm2eIBIsoe"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "no somos iguales",
         "url": "https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI"
       },
@@ -1143,26 +1143,6 @@
       "duration_ms": 171533,
       "name": "incompatibles",
       "url": "https://open.spotify.com/track/4UuPW5pNUwY46OhmaxwrvN"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "DIME",
-        "url": "https://open.spotify.com/album/1DygHwEcUNLXePMmteh6g6"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "Baysec",
-          "url": "https://open.spotify.com/artist/5DylMz8kdzH19AwCLLXTeR"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "DIME",
-      "url": "https://open.spotify.com/track/76tAhDTUBolHxn2wOtxBlP"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1183,6 +1163,26 @@
       "duration_ms": 147586,
       "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
       "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "DIME",
+        "url": "https://open.spotify.com/album/1DygHwEcUNLXePMmteh6g6"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "Baysec",
+          "url": "https://open.spotify.com/artist/5DylMz8kdzH19AwCLLXTeR"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "DIME",
+      "url": "https://open.spotify.com/track/76tAhDTUBolHxn2wOtxBlP"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "Mirando La Luna",
+        "url": "https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm"
+      },
+      "artists": [
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Mirando La Luna",
+      "url": "https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "ENTE VIRTUAL",
         "url": "https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 129229,
       "name": "ENTE VIRTUAL",
       "url": "https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "Mirando La Luna",
-        "url": "https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm"
-      },
-      "artists": [
-        {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Mirando La Luna",
-      "url": "https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "raxets",
-        "url": "https://open.spotify.com/album/7E2h45zRGDsMo3hFLNhX4Z"
-      },
-      "artists": [
-        {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
-        },
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        }
-      ],
-      "duration_ms": 114893,
-      "name": "raxets",
-      "url": "https://open.spotify.com/track/2Qh4VZQvEuoR0rm6ZjKzar"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "Todav\u00eda No",
         "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
       },
@@ -1451,6 +1431,42 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "DESDE EL COMA",
+        "url": "https://open.spotify.com/album/7GlWfnHMjoxbS5qdbVpADR"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 123840,
+      "name": "F MY X (I'M A MESS)",
+      "url": "https://open.spotify.com/track/2NMz6woaCFgUDXnZOdNtwQ"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "raxets",
+        "url": "https://open.spotify.com/album/7E2h45zRGDsMo3hFLNhX4Z"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        },
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        }
+      ],
+      "duration_ms": 114893,
+      "name": "raxets",
+      "url": "https://open.spotify.com/track/2Qh4VZQvEuoR0rm6ZjKzar"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "claroscuro",
         "url": "https://open.spotify.com/album/4GD5Ef3IQRMcwF5cPNnESl"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 156891,
       "name": "claroscuro",
       "url": "https://open.spotify.com/track/24LLhRHvhaCSnhgoxc9CA6"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "DESDE EL COMA",
-        "url": "https://open.spotify.com/album/7GlWfnHMjoxbS5qdbVpADR"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 123840,
-      "name": "F MY X (I'M A MESS)",
-      "url": "https://open.spotify.com/track/2NMz6woaCFgUDXnZOdNtwQ"
     },
     {
       "added_at": "2026-06-26 06:00:38",

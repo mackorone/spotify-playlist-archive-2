@@ -492,7 +492,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 212000,
       "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
       "url": "https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2"
@@ -3714,7 +3714,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 205171,
       "name": "Bu\u00f4ng",
       "url": "https://open.spotify.com/track/2ZBi1KpCR0grEWRNgySqwg"
@@ -11022,7 +11022,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -16516,7 +16516,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 157306,
       "name": "MOTION (feat. Juicy J)",
       "url": "https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy"
@@ -17830,6 +17830,24 @@
       "duration_ms": 220434,
       "name": "NGONGIODEMQUATRANGSANGDEMNAY",
       "url": "https://open.spotify.com/track/3JKn7BN79L1WOPMYUCZg1m"
+    },
+    {
+      "album": {
+        "name": "HVL",
+        "url": "https://open.spotify.com/album/10mQeeht0bd9aZ5xaWB0Uy"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242144,
+      "name": "Nguy\u1ec5n V\u0103n M\u01b0\u1eddi",
+      "url": "https://open.spotify.com/track/0j94vdVS5r1b6FT2Yvz92C"
     },
     {
       "album": {
@@ -19986,7 +20004,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 305852,
       "name": "N\u1ee2 EM C\u1ea2 B\u1ea6U TR\u1edcI",
       "url": "https://open.spotify.com/track/1GvilcxzSotX6bFHuwCJiz"
@@ -21784,7 +21802,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 163001,
       "name": "REDRED",
       "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
@@ -27098,7 +27116,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"
@@ -28016,7 +28034,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"

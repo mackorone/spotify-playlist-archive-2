@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Loods
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,099 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,031 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 44 | [A Little Bit](https://open.spotify.com/track/4hQBMULTIvpG8yzAhvSffX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [A Little Bit](https://open.spotify.com/album/1tm5R0eFNxS6SjyJ5yg4fo) | 3:59 |
 | 45 | [Change](https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Change](https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs) | 3:27 |
 | 46 | [Way To High](https://open.spotify.com/track/3rixlwHQ2x3TvC1rgUrhWX) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Way To High](https://open.spotify.com/album/3Mq2t5PXB6M1Eb9kItdjed) | 3:55 |
-| 47 | [Oracle \(feat\. Jem Cooke\)](https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Oracle \(feat\. Jem Cooke\)](https://open.spotify.com/album/3nv9EFzVzjQToty0Nq6I9D) | 3:37 |
+| 47 | [Oracle](https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Oracle](https://open.spotify.com/album/3nv9EFzVzjQToty0Nq6I9D) | 3:37 |
 | 48 | [Dreams](https://open.spotify.com/track/7mbySnJHuwCzWvyljKL95H) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [IVANA](https://open.spotify.com/artist/7pn6Syh1RaJDbprpLFz58N) | [Dreams](https://open.spotify.com/album/6zC8ipWST1WD0kFZbbvSpF) | 2:44 |
 | 49 | [The Roof Is On Fire](https://open.spotify.com/track/0d6t6nq2DKkDVkStoQrzHL) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [The Roof Is On Fire](https://open.spotify.com/album/7hID8d1eOLXhWTiVFnlLpS) | 2:46 |
 | 50 | [My Way](https://open.spotify.com/track/3bstaL7RoXaTTRsT53OdVn) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [My Way](https://open.spotify.com/album/6zLvmGu1VnBkCZr6GmaXqD) | 3:24 |

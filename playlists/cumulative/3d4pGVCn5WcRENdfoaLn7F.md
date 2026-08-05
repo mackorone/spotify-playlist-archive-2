@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-413 songs - 1 day 0 hr 50 min
+415 songs - 1 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Predictable](https://open.spotify.com/track/58uPzPjEmM93usVWgvdezo) | [Jake Rouson](https://open.spotify.com/artist/2y9f6Ij6xnhBBjpyEl5hjH) | [Predictable](https://open.spotify.com/album/0yzYOpUWL4n1kF8sGJ7eM6) | 3:41 | 2025-11-02 | 2025-12-06 |
 | [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 | 2025-12-22 | 2026-01-21 |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-10-10 | 2026-03-05 |
+| [Pride](https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:32 | 2026-08-04 |  |
 | [Promise](https://open.spotify.com/track/4yf68yKUyaTUXcDJBZLxcq) | [AliveTeen](https://open.spotify.com/artist/3U04ccY2KO6Va35na7FX7R) | [Promise](https://open.spotify.com/album/3JLjeDF9JXTuUnrZyMMx2v) | 3:55 | 2025-11-01 | 2025-12-06 |
 | [PROVE YOUR LOVE](https://open.spotify.com/track/36itdBqD0DqGDoI45dh7Nd) | [Shadows Become Substance](https://open.spotify.com/artist/7D2Dx35nAzENA8TqOTeVUm) | [PROVE YOUR LOVE](https://open.spotify.com/album/3Hr5g5j91qMdfmCz50qMhF) | 4:03 | 2026-03-27 | 2026-06-14 |
 | [Psycho](https://open.spotify.com/track/5C4VAhll7W7LNMKB2rANkd) | [Weyward](https://open.spotify.com/artist/3qzChsvBEIPi9PBvoAnbr8) | [Psycho](https://open.spotify.com/album/4QpIxk7YqFvN7x7ieymSWy) | 3:31 | 2025-11-06 | 2025-12-06 |
@@ -323,6 +324,7 @@
 | [Space and Time](https://open.spotify.com/track/64BHgShtqVoY2OUoKBy13L) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Space and Time](https://open.spotify.com/album/4KQzRcZuLBQxYPdVnz0eNc) | 3:19 | 2026-07-08 |  |
 | [SPECKS](https://open.spotify.com/track/3MqmmpXA0BHiUthZJ7kMgH) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [HOLES](https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ) | 3:32 | 2026-02-28 | 2026-06-14 |
 | [Spent My Whole Life Loving You](https://open.spotify.com/track/3NeYvY7holTVNCpaQt8BH1) | [Alexandra Klee](https://open.spotify.com/artist/3SbQ1Fwzf6okKXEXfCkTLP), [Andreas Wallner](https://open.spotify.com/artist/02u2I6IenqojYw6JMPnat6) | [Spent My Whole Life Loving You](https://open.spotify.com/album/52Ac8NvHzJ6pxVDMvM23yC) | 3:14 | 2026-06-15 |  |
+| [Start Again](https://open.spotify.com/track/4Rr8Ohu3YyBtrcqfRmP1GI) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Before Dawn](https://open.spotify.com/album/1Go3wfxRNGAc870RqO2IHP) | 3:19 | 2026-08-04 |  |
 | [Stay Back](https://open.spotify.com/track/5Z8V6cOh37E7yNKaGlNcuC) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Stay Back](https://open.spotify.com/album/0RCSlDlgi70bepX0U1JlzJ) | 2:25 | 2026-03-27 | 2026-06-14 |
 | [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 | 2025-12-24 | 2026-01-21 |
 | [Step Back](https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ) | [Josiah Lee](https://open.spotify.com/artist/5JzpGMc1evn1FQqFSN5ba0) | [Step Back](https://open.spotify.com/album/4AsC6gnDD0rAQnWmgVe7dv) | 4:11 | 2025-09-07 | 2026-03-05 |

@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-30",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
@@ -2778,6 +2778,24 @@
       "duration_ms": 223080,
       "name": "Dope",
       "url": "https://open.spotify.com/track/55DuTmvSGwNQR4cBgqYuYL"
+    },
+    {
+      "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195818,
+      "name": "Down The Middle",
+      "url": "https://open.spotify.com/track/4Qso9aF5ZPpMOP9FKoBTEU"
     },
     {
       "album": {
@@ -8796,7 +8814,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 205320,
       "name": "original me (feat. dan reynolds of imagine dragons)",
       "url": "https://open.spotify.com/track/4KzOYxD4qIkUtZV9ZYakGu"
@@ -9445,6 +9463,24 @@
     },
     {
       "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204542,
+      "name": "Problematic",
+      "url": "https://open.spotify.com/track/74IV9ki3DphxwgUgbSChvf"
+    },
+    {
+      "album": {
         "name": "Just For Fun",
         "url": "https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi"
       },
@@ -9554,6 +9590,24 @@
       "duration_ms": 185949,
       "name": "Pyro",
       "url": "https://open.spotify.com/track/4bqosCAIpXVsOIHlnDWHff"
+    },
+    {
+      "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166413,
+      "name": "Quit My Life",
+      "url": "https://open.spotify.com/track/5vt1ysjL6f5u4woxChkCWq"
     },
     {
       "album": {
@@ -10208,6 +10262,24 @@
       "duration_ms": 217364,
       "name": "Say It",
       "url": "https://open.spotify.com/track/2iteg9Efsw7ERDjRHYQA4k"
+    },
+    {
+      "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190349,
+      "name": "Scary Little Thing",
+      "url": "https://open.spotify.com/track/4g8Gqzb6Oh3Zpa4h3aFB0f"
     },
     {
       "album": {

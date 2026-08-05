@@ -5159,6 +5159,24 @@
     },
     {
       "album": {
+        "name": "Not My Paradiso",
+        "url": "https://open.spotify.com/album/7zLpBQPxH9F6s9wexP6HKA"
+      },
+      "artists": [
+        {
+          "name": "Mili",
+          "url": "https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246826,
+      "name": "Not My Paradiso",
+      "url": "https://open.spotify.com/track/44u0inwWZaHRNr4XQSFG50"
+    },
+    {
+      "album": {
         "name": "\u30ec\u30a4\u30b8\u30e7\u30a2\u30cf\u30f3\u30ba!! \uff5eRaise Y/Our Hands!!\uff5e/O.C. \uff5eOptimum Combination\uff5e <TV\u30a2\u30cb\u30e1\u300c\u79c1\u306e\u63a8\u3057\u306f\u60aa\u5f79\u4ee4\u5b22\u3002\u300dOP/ED\u4e3b\u984c\u6b4c>",
         "url": "https://open.spotify.com/album/3gollbbYhL6QDjzfrxBRrM"
       },
@@ -9963,6 +9981,24 @@
     },
     {
       "album": {
+        "name": "\u30b0\u30c3\u30d0\u30a4\u30fb\u30e9\u30e9\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/7m7bX9ag4J9jpGjeez0m94"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u897f\u4e9c\u7396\u7483",
+          "url": "https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210053,
+      "name": "\u308f\u305f\u3057\u30b7\u30e5\u30ac\u30fc\u30b9\u30d1\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/3JmagYOBsOwYxhuKQA8NYZ"
+    },
+    {
+      "album": {
         "name": "vivid",
         "url": "https://open.spotify.com/album/26JskhfRwejJkH7w7vByLj"
       },
@@ -10126,7 +10162,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 185825,
       "name": "\u30a2\u30c9\u30ec\u30ca",
       "url": "https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs"
@@ -12473,6 +12509,28 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30d6\u30ab\u30eb\u30c1\u30e3\u30fc - LOVECULTURE",
+        "url": "https://open.spotify.com/album/5glMDIvbqjDYYB8La1UYhK"
+      },
+      "artists": [
+        {
+          "name": "GROTESQQQUE",
+          "url": "https://open.spotify.com/artist/1In8PNOPWYnzc6PCjisqCn"
+        },
+        {
+          "name": "\u306f\u3057\u30e1\u30ed",
+          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "\u30e9\u30d6\u30ab\u30eb\u30c1\u30e3\u30fc",
+      "url": "https://open.spotify.com/track/6NVb6b8PK625eLcKkZnrEx"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
         "url": "https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2"
       },
@@ -14382,7 +14440,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 228214,
       "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
       "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
@@ -16428,7 +16486,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 238253,
       "name": "\u96f6-zero-",
       "url": "https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u"

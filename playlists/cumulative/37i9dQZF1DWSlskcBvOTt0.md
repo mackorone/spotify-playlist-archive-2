@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,170 songs - 3 day 22 hr 55 min
+1,171 songs - 3 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Ascension](https://open.spotify.com/track/1d5J0Jhrq1t5KQAN5B7stF) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Ascension](https://open.spotify.com/album/5kPFmoFmWkHiwnq3s0ZaBJ) | 2:57 | 2024-04-12 | 2024-09-21 |
 | [Ascension Pt\. II](https://open.spotify.com/track/24mn5vRHLCoRehW3bZdeMh) | [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [Ascension Pt\. II](https://open.spotify.com/album/7qfIBGCYgjjlFFPyvaOOzm) | 6:06 | 2025-07-25 | 2026-01-15 |
 | [Ashes in the Wind](https://open.spotify.com/track/4PqD4wAf77OxpAiOODf1Rg) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Secrets EP](https://open.spotify.com/album/1aZ3SBhJnP4B8G4gQ65fT1) | 10:04 | 2021-04-21 | 2022-12-17 |
-| [Astralis](https://open.spotify.com/track/1jaA1jV5jzNnmhxqmo2VrO) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Astralis](https://open.spotify.com/album/22EWXSvxyPvbGHqh7Qfi93) | 3:42 | 2026-03-13 |  |
+| [Astralis](https://open.spotify.com/track/1jaA1jV5jzNnmhxqmo2VrO) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Astralis](https://open.spotify.com/album/22EWXSvxyPvbGHqh7Qfi93) | 3:42 | 2026-03-13 | 2026-08-05 |
 | [Atacama \- Edit](https://open.spotify.com/track/5EAyDXIe10FttSvVJOXX3r) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Atacama \(Edit\)](https://open.spotify.com/album/1Q9Y8JAfu1TQzx7BlDgjvX) | 3:57 | 2023-06-16 | 2024-01-25 |
 | [Attract](https://open.spotify.com/track/4ykK6tNnlu2fAAWPCxzvFc) | [Ajna](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Attract](https://open.spotify.com/album/30L1oRMIswC3hErbOQ5JO9) | 5:07 | 2026-06-19 |  |
 | [Audara](https://open.spotify.com/track/6YjQxa2wea38xj1ZUzjZR7) | [Lindahl](https://open.spotify.com/artist/5Tf9JeR6Ry2OQv6c4UucP1), [ATÉA](https://open.spotify.com/artist/2ldjUobIK4xXwGWqIW8el0) | [Audara EP](https://open.spotify.com/album/7BZdCphrUu99bBX8WeP9FZ) | 7:22 | 2021-04-21 | 2022-07-28 |
@@ -675,6 +675,7 @@
 | [Mirage](https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Mirage](https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU) | 4:39 | 2024-09-13 | 2025-08-10 |
 | [Mirage](https://open.spotify.com/track/63JXEbhoCRypjCULbjX8Qw) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreams At Dusk Part I \- Mirage](https://open.spotify.com/album/1qf6lnED6A9YmsNLXfzfLJ) | 3:37 | 2025-11-07 | 2025-12-06 |
 | [Mirage](https://open.spotify.com/track/5GDR8Wya0Zy5xCmeHc7m7P) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Ampermut](https://open.spotify.com/artist/3NfKPE32SVWXMM4T6HUKAa), [Gobi Desert Collective](https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp), [TEJA](https://open.spotify.com/artist/4DgCdCHRYRjMSYtH2nWu72) | [Mirage](https://open.spotify.com/album/1QFEurpNFobpWBTjSyo2di) | 3:42 | 2026-07-17 |  |
+| [Miss That \(Major League DJz & Piero Farho Remix\)](https://open.spotify.com/track/34IHtqjGPDBTpkR8Qq90LK) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Piero Farho](https://open.spotify.com/artist/52LDi8vYmgfoiEaTBWCWSh) | [Miss That \(Major League DJz & Piero Farho Remix\)](https://open.spotify.com/album/3ZfqTXWUvQNlVCXhmVdOlv) | 5:58 | 2026-07-31 |  |
 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 | 2023-04-07 | 2023-09-30 |
 | [Mockingbird](https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m) | [Mockingbird](https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig) | 4:11 | 2024-12-20 | 2026-03-14 |
 | [Mogolu \- Major Lazer Remix](https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Mogolu \(Major Lazer Remix\)](https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK) | 4:43 | 2024-09-27 | 2024-12-03 |

@@ -693,6 +693,28 @@
     },
     {
       "album": {
+        "name": "And the Hound",
+        "url": "https://open.spotify.com/album/0vBMdv93mFxqw3zIbKcVNr"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        },
+        {
+          "name": "Keath \u00d3sk",
+          "url": "https://open.spotify.com/artist/5nS4Ohh7IG844fp1Eu1GMI"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "And the Hound",
+      "url": "https://open.spotify.com/track/6Y685hzoT53MCP0siYsMKQ"
+    },
+    {
+      "album": {
         "name": "Angel Blonde (that's life!)",
         "url": "https://open.spotify.com/album/4FEZfwljIUtEk4MVPWk7bO"
       },
@@ -4330,7 +4352,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 170213,
       "name": "Dust in the Wind",
       "url": "https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0"
@@ -6292,7 +6314,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 233113,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
@@ -14050,7 +14072,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 182880,
       "name": "Song for the Messenger",
       "url": "https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3"

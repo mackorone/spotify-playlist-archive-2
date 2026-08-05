@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Joshua Aaron",
-  "num_followers": 20037,
+  "num_followers": 20039,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPlHXHqFxcga4tuJOKnlz2fFVL4",
+  "snapshot_id": "AAAAAA+nZB/t0Gcu9N766I2joOI4N29p",
   "tracks": [
     {
       "added_at": "2026-06-26 05:27:01",
@@ -29,26 +29,6 @@
       "url": "https://open.spotify.com/track/5aIc4lWWlx3YcPy3dCz7FO"
     },
     {
-      "added_at": "2026-06-08 11:47:18",
-      "album": {
-        "name": "Daavu",
-        "url": "https://open.spotify.com/album/38zcO3MVMaUVz2foHaAlHI"
-      },
-      "artists": [
-        {
-          "name": "Nilukshan",
-          "url": "https://open.spotify.com/artist/2hBjBVtnPvVJ8HycacP7EL"
-        },
-        {
-          "name": "Velan Udhayakumar",
-          "url": "https://open.spotify.com/artist/1aiY8n9nQ9hhBtqfl33EPG"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Daavu",
-      "url": "https://open.spotify.com/track/4Dmz2VjarNsfZf84nDGJMB"
-    },
-    {
       "added_at": "2026-06-10 10:19:16",
       "album": {
         "name": "IOIO",
@@ -69,68 +49,24 @@
       "url": "https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ"
     },
     {
-      "added_at": "2026-07-10 15:09:33",
+      "added_at": "2026-07-31 10:52:19",
       "album": {
-        "name": "Kanave",
-        "url": "https://open.spotify.com/album/3nGyeFmt5NcH44pRJilHhp"
+        "name": "Pesamale",
+        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
       },
       "artists": [
         {
-          "name": "Rama Priya Yegasivanathan",
-          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
         },
         {
-          "name": "Shibi Srinivasan",
-          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
-        },
-        {
-          "name": "Mirun Pradhap",
-          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+          "name": "Arra Aria Khayal",
+          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
         }
       ],
-      "duration_ms": 277333,
-      "name": "Kanave",
-      "url": "https://open.spotify.com/track/0aOcwV1NQhx2AKWXpPaNGa"
-    },
-    {
-      "added_at": "2026-06-12 13:35:00",
-      "album": {
-        "name": "Dubbuku Dubakuru",
-        "url": "https://open.spotify.com/album/31EtSaMTSKUc2SuRtPVqAg"
-      },
-      "artists": [
-        {
-          "name": "Alvin Bruno",
-          "url": "https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC"
-        },
-        {
-          "name": "Denzel George",
-          "url": "https://open.spotify.com/artist/5wl1x4rDNo22w2fCc2j1DB"
-        },
-        {
-          "name": "Christo G",
-          "url": "https://open.spotify.com/artist/3on7sLyR0SJ7guvcU47liT"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Dubbuku Dubakuru",
-      "url": "https://open.spotify.com/track/2vRnCXR37fbbUhrIfFOweD"
-    },
-    {
-      "added_at": "2026-06-24 12:12:33",
-      "album": {
-        "name": "Kuchi Udambu",
-        "url": "https://open.spotify.com/album/3KA0XyJR9nFIQ0qLvofD57"
-      },
-      "artists": [
-        {
-          "name": "M.Kapilan",
-          "url": "https://open.spotify.com/artist/3QSgLjnVKpllCs1jfw9Mra"
-        }
-      ],
-      "duration_ms": 206117,
-      "name": "Kuchi Udambu",
-      "url": "https://open.spotify.com/track/0b4VZPys5IkKEKT1cSdAz7"
+      "duration_ms": 178124,
+      "name": "Pesamale",
+      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
       "added_at": "2026-07-31 10:52:19",
@@ -161,6 +97,134 @@
       "url": "https://open.spotify.com/track/1yTDrGo2n2PizWQ3oHUZI5"
     },
     {
+      "added_at": "2026-07-10 15:09:33",
+      "album": {
+        "name": "Kanave",
+        "url": "https://open.spotify.com/album/3nGyeFmt5NcH44pRJilHhp"
+      },
+      "artists": [
+        {
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+        },
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Kanave",
+      "url": "https://open.spotify.com/track/0aOcwV1NQhx2AKWXpPaNGa"
+    },
+    {
+      "added_at": "2026-06-08 11:47:18",
+      "album": {
+        "name": "Daavu",
+        "url": "https://open.spotify.com/album/38zcO3MVMaUVz2foHaAlHI"
+      },
+      "artists": [
+        {
+          "name": "Nilukshan",
+          "url": "https://open.spotify.com/artist/2hBjBVtnPvVJ8HycacP7EL"
+        },
+        {
+          "name": "Velan Udhayakumar",
+          "url": "https://open.spotify.com/artist/1aiY8n9nQ9hhBtqfl33EPG"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Daavu",
+      "url": "https://open.spotify.com/track/4Dmz2VjarNsfZf84nDGJMB"
+    },
+    {
+      "added_at": "2026-08-04 15:43:55",
+      "album": {
+        "name": "Joker",
+        "url": "https://open.spotify.com/album/4RTaUjh2LLDJHzUgHU8TsM"
+      },
+      "artists": [
+        {
+          "name": "Krishpy",
+          "url": "https://open.spotify.com/artist/1jKmjC44MUhtHG00dSp90N"
+        },
+        {
+          "name": "Smile Tupakeys",
+          "url": "https://open.spotify.com/artist/43iTqp8IQG4uu2AurZiVbA"
+        },
+        {
+          "name": "S Arshad Khan",
+          "url": "https://open.spotify.com/artist/3lVZDSuFWv0gcZFdlCx9qH"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/5e6R23np1iwQxHVikdMzjv"
+    },
+    {
+      "added_at": "2026-06-12 13:35:00",
+      "album": {
+        "name": "Dubbuku Dubakuru",
+        "url": "https://open.spotify.com/album/31EtSaMTSKUc2SuRtPVqAg"
+      },
+      "artists": [
+        {
+          "name": "Alvin Bruno",
+          "url": "https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC"
+        },
+        {
+          "name": "Denzel George",
+          "url": "https://open.spotify.com/artist/5wl1x4rDNo22w2fCc2j1DB"
+        },
+        {
+          "name": "Christo G",
+          "url": "https://open.spotify.com/artist/3on7sLyR0SJ7guvcU47liT"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Dubbuku Dubakuru",
+      "url": "https://open.spotify.com/track/2vRnCXR37fbbUhrIfFOweD"
+    },
+    {
+      "added_at": "2026-08-04 06:47:01",
+      "album": {
+        "name": "I-Popstar Tamil | Ep 04",
+        "url": "https://open.spotify.com/album/0lgBHRvA0yhWe9KcylaCLJ"
+      },
+      "artists": [
+        {
+          "name": "Trinita Misha Das",
+          "url": "https://open.spotify.com/artist/5rKjQdErGg9xPNsz2Luydu"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 172031,
+      "name": "Uyir Kaadhale",
+      "url": "https://open.spotify.com/track/2ygQ0NGycUcKZNVpa53AJ6"
+    },
+    {
+      "added_at": "2026-06-24 12:12:33",
+      "album": {
+        "name": "Kuchi Udambu",
+        "url": "https://open.spotify.com/album/3KA0XyJR9nFIQ0qLvofD57"
+      },
+      "artists": [
+        {
+          "name": "M.Kapilan",
+          "url": "https://open.spotify.com/artist/3QSgLjnVKpllCs1jfw9Mra"
+        }
+      ],
+      "duration_ms": 206117,
+      "name": "Kuchi Udambu",
+      "url": "https://open.spotify.com/track/0b4VZPys5IkKEKT1cSdAz7"
+    },
+    {
       "added_at": "2026-04-23 06:49:33",
       "album": {
         "name": "Ey Pulla",
@@ -181,6 +245,46 @@
       "url": "https://open.spotify.com/track/1A81vwNeY6ghuNo6llNePU"
     },
     {
+      "added_at": "2026-08-04 15:12:42",
+      "album": {
+        "name": "I-Popstar Tamil | Ep 05",
+        "url": "https://open.spotify.com/album/57Yqhjk5FaALECoqOnmX5I"
+      },
+      "artists": [
+        {
+          "name": "Priya Jerson",
+          "url": "https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Ya Leili",
+      "url": "https://open.spotify.com/track/61cInGVHZSPeUaWXTUZfJl"
+    },
+    {
+      "added_at": "2026-08-04 16:15:23",
+      "album": {
+        "name": "Maman Ponnu",
+        "url": "https://open.spotify.com/album/2UEz3g4j97gsxZZfm5Q6Xs"
+      },
+      "artists": [
+        {
+          "name": "Anthakudi Ilayaraja",
+          "url": "https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d"
+        },
+        {
+          "name": "Kumuthini Paandiyan",
+          "url": "https://open.spotify.com/artist/1VsoLUjQgncpBJl8uC9aBD"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "Maman Ponnu",
+      "url": "https://open.spotify.com/track/0v8a07HBZk9PbmHT8ztBGc"
+    },
+    {
       "added_at": "2026-07-16 15:14:16",
       "album": {
         "name": "Superhero",
@@ -195,6 +299,26 @@
       "duration_ms": 156455,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/3LWzYA7qw4gbWyI148zLaf"
+    },
+    {
+      "added_at": "2026-08-04 06:47:01",
+      "album": {
+        "name": "I-Popstar Tamil | Ep 04",
+        "url": "https://open.spotify.com/album/0lgBHRvA0yhWe9KcylaCLJ"
+      },
+      "artists": [
+        {
+          "name": "Trend Gana Sanjay",
+          "url": "https://open.spotify.com/artist/1nd25HMG3vm12Srl2Rf3IB"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Pona Pottum",
+      "url": "https://open.spotify.com/track/4Aiha3P8OtqKaEvWzVg2eK"
     },
     {
       "added_at": "2026-06-30 11:25:01",
@@ -241,7 +365,7 @@
       "artists": [
         {
           "name": "Hemi",
-          "url": "https://open.spotify.com/artist/2MbAvke8Bf9bhqvc628qaN"
+          "url": "https://open.spotify.com/artist/7MP4gHewke7qLeU0Yqlhvi"
         },
         {
           "name": "Sathyaprakash",
@@ -260,17 +384,37 @@
       },
       "artists": [
         {
-          "name": "Marshall Robinson",
-          "url": "https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H"
-        },
-        {
           "name": "sachu Madrasi",
           "url": "https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN"
+        },
+        {
+          "name": "Marshall Robinson",
+          "url": "https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H"
         }
       ],
       "duration_ms": 189400,
       "name": "Thatti Utta",
       "url": "https://open.spotify.com/track/5n5rAjhMXmHDaHJc84zngQ"
+    },
+    {
+      "added_at": "2026-08-04 15:12:42",
+      "album": {
+        "name": "I-Popstar Tamil | Ep 06",
+        "url": "https://open.spotify.com/album/0B6ZIq0VOSosltTAlCZ68p"
+      },
+      "artists": [
+        {
+          "name": "Sai Prashob",
+          "url": "https://open.spotify.com/artist/4bDKaWnbN8ESEhZkFBd1wc"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 192291,
+      "name": "Ayiram Thalavali",
+      "url": "https://open.spotify.com/track/5o9i9eL6uvtOlpChzv3KL2"
     },
     {
       "added_at": "2026-07-31 10:52:19",
@@ -291,26 +435,6 @@
       "duration_ms": 160714,
       "name": "Sandaali",
       "url": "https://open.spotify.com/track/2RhsDyaoFoLOZ16NS0ItO5"
-    },
-    {
-      "added_at": "2026-07-31 10:52:19",
-      "album": {
-        "name": "Pesamale",
-        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
-      },
-      "artists": [
-        {
-          "name": "Siri Xander",
-          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
-        },
-        {
-          "name": "Arra Aria Khayal",
-          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Pesamale",
-      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
       "added_at": "2026-07-27 06:38:44",
@@ -471,6 +595,26 @@
       "duration_ms": 246537,
       "name": "Sambavam Startu",
       "url": "https://open.spotify.com/track/4W295YjbF0883qgI5WBFVD"
+    },
+    {
+      "added_at": "2026-08-04 15:12:42",
+      "album": {
+        "name": "I-Popstar Tamil | Ep 06",
+        "url": "https://open.spotify.com/album/0B6ZIq0VOSosltTAlCZ68p"
+      },
+      "artists": [
+        {
+          "name": "Rockzane",
+          "url": "https://open.spotify.com/artist/6yEdB2QEKNpCfhSmBfSxD1"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/3fXIx5zXNUSPoaEQF9TSDi"
     },
     {
       "added_at": "2026-06-12 13:44:44",

@@ -2337,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Ee Chandranum",
+        "url": "https://open.spotify.com/album/1XDwYmNWRUm0avH6OntfeW"
+      },
+      "artists": [
+        {
+          "name": "Malavika Anilkumar",
+          "url": "https://open.spotify.com/artist/1nroyCS1DFBkTcVvjHBgAh"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190244,
+      "name": "Ee Chandranum",
+      "url": "https://open.spotify.com/track/2W9hWuajVBTGauBx3lJVkx"
+    },
+    {
+      "album": {
         "name": "EE PENMANE",
         "url": "https://open.spotify.com/album/45PH6yjW0fbCe8hekBoDWa"
       },
@@ -2509,7 +2527,7 @@
         },
         {
           "name": "Anandhu Pradeep",
-          "url": "https://open.spotify.com/artist/2G1bWHthqfSpTclOPL9fMp"
+          "url": "https://open.spotify.com/artist/2wjjzWB4hoKBWBKQCjcc9e"
         }
       ],
       "date_added": "2026-04-15",
@@ -5232,12 +5250,20 @@
         {
           "name": "Anjana P S",
           "url": "https://open.spotify.com/artist/04gmNEiYQ7OGUWpWGQsFQR"
+        },
+        {
+          "name": "Karthik Sankar",
+          "url": "https://open.spotify.com/artist/0W0lwCpPYAyMhIVkQW2qQp"
+        },
+        {
+          "name": "Christina Alex",
+          "url": "https://open.spotify.com/artist/1QbGdXBBLEOBbmjM2E6SD3"
         }
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 221087,
+      "duration_ms": 218797,
       "name": "Life All The Days",
       "url": "https://open.spotify.com/track/0yGEYZGFlwov4UrLVnkv2g"
     },

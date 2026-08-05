@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,389 likes - 107 songs - 6 hr 28 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,388 likes - 107 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 106 | [Princess on the Run](https://open.spotify.com/track/4eAilAqbTxA9St4IwpWYfC) | [KATERINA.](https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c) | [Princess on the Run](https://open.spotify.com/album/5lBZZDm9Z45SI6YdWe1zlm) | 2:20 |
 | 107 | [Drifter](https://open.spotify.com/track/3JICKQlw5205xD5vja4zGP) | [Niamh Maclennan](https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv) | [Drifter](https://open.spotify.com/album/7y3zrURIBo1ErbNPvAIXPv) | 3:20 |
 
-Snapshot ID: `AAB9vJbvJ9fxqsW8hqar/BVbb+WklWPF`
+Snapshot ID: `AAB9vRUBCtlYAS1FgcT2pFMP40J7S2wE`

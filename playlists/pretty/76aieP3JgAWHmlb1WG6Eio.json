@@ -6,7 +6,7 @@
     "name": "Bram Bloemen",
     "url": "https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq"
   },
-  "snapshot_id": "AAAAl5YUMjB7mo5/dfIw7FpAzmdaMj/W",
+  "snapshot_id": "AAAAmGcDWPzstDJPwUw/tvh7UpTr9JfB",
   "tracks": [
     {
       "added_at": "2020-04-07 17:34:00",
@@ -3291,6 +3291,22 @@
       "duration_ms": 159853,
       "name": "A Dream Within a Dream",
       "url": "https://open.spotify.com/track/3bU0OB2KvbxjIWR6EsUx4G"
+    },
+    {
+      "added_at": "2026-08-04 15:24:27",
+      "album": {
+        "name": "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/012oKUlmu9qA84z4kYrOAj"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "duration_ms": 187868,
+      "name": "1.1_3-oneor0.wma",
+      "url": "https://open.spotify.com/track/66LSGgGsvhqvnDP0inq4pw"
     }
   ],
   "unique_name": "soundtracks",

@@ -2,7 +2,7 @@
 
 ### [GLOW US & Canada](https://open.spotify.com/playlist/37i9dQZF1DWVfhphOFdiHz)
 
-> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Next of Kin
+> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Sami Landri for Montreal Pride
 
 624 songs - 1 day 9 hr 18 min
 
@@ -29,7 +29,7 @@
 | [Apartment A](https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Apartment A](https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx) | 3:12 | 2024-02-02 | 2024-07-13 |
 | [ARCADE](https://open.spotify.com/track/4So3jKLjCLUMWty6Ooa6IS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [ARCADE](https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs) | 2:52 | 2026-06-02 |  |
 | [Armor](https://open.spotify.com/track/7mGwwtxzKB6ehgq6mcwB3N) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Armor](https://open.spotify.com/album/1zBqEegAnkQolF1pfCAjf4) | 2:42 | 2024-02-02 | 2025-05-31 |
-| [As\-tu des cigarettes](https://open.spotify.com/track/2RKK7gsT1oGk4Ftdmn2nMZ) | [Sami Landri](https://open.spotify.com/artist/6V2ZugS8D1vjYbyFy21EVq) | [As\-tu des cigarettes](https://open.spotify.com/album/7CwWoXviPTnEBBNHJMfkdY) | 2:36 | 2026-05-15 | 2026-07-04 |
+| [As\-tu des cigarettes](https://open.spotify.com/track/2RKK7gsT1oGk4Ftdmn2nMZ) | [Sami Landri](https://open.spotify.com/artist/6V2ZugS8D1vjYbyFy21EVq) | [As\-tu des cigarettes](https://open.spotify.com/album/7CwWoXviPTnEBBNHJMfkdY) | 2:36 | 2026-05-15 |  |
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-05-30 | 2025-11-01 |
 | [ATTENTION!](https://open.spotify.com/track/3roiUw3YFNlKE3u8qMmVmw) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [ATTENTION!](https://open.spotify.com/album/0pS9ssUJeUKdOD3hTrRhUM) | 3:28 | 2025-08-01 | 2025-12-06 |
 | [AUTOPILOT](https://open.spotify.com/track/07L9mnLhx2h7ou8KGzyNMM) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [I MISS YOUR LOVE](https://open.spotify.com/album/0iJxa8u12IwBPFvOHm47D3) | 3:06 | 2025-10-31 | 2026-02-14 |

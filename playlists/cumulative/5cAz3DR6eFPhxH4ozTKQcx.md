@@ -2,7 +2,7 @@
 
 ### [Summer Throwback Party ](https://open.spotify.com/playlist/5cAz3DR6eFPhxH4ozTKQcx)
 
-> The biggest hits from the 2000s and 2010s!
+> The biggest hits from the 2000s and 2010s! Cover: The Black Eyed Peas
 
 103 songs - 6 hr 26 min
 

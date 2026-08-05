@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Veintiuno. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: ASER B. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -7180,7 +7180,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 176640,
       "name": "Saheb El Aaraf",
       "url": "https://open.spotify.com/track/5q2pUOsoUeMxsaox3vce8b"
@@ -9566,6 +9566,28 @@
       "duration_ms": 199354,
       "name": "\u0627\u0646\u0627 \u0648\u0627\u0646\u062a",
       "url": "https://open.spotify.com/track/14JgycDjp70uvPpebq7Ijq"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0627\u0634\u062a\u0627\u0642",
+        "url": "https://open.spotify.com/album/4Tl8Hs9DQJGgiAgIQpVLlG"
+      },
+      "artists": [
+        {
+          "name": "ASER B",
+          "url": "https://open.spotify.com/artist/62bhH1mzK5U8z5TZoN8ZlP"
+        },
+        {
+          "name": "J\u00fanior T",
+          "url": "https://open.spotify.com/artist/1MYUszmFEtNVSEZ2UC92Sd"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180035,
+      "name": "\u0628\u0627\u0634\u062a\u0627\u0642",
+      "url": "https://open.spotify.com/track/5u3vUsTapCf1dW0pTQxSWF"
     },
     {
       "album": {

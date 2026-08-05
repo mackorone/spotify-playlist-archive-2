@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,677 likes - 102 songs - 5 hr 23 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,671 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,5 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 98 | [Creep](https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Tweaker Poem](https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx) | 4:00 |
 | 99 | [The Glen \- Levi Heron Edit \- Majestic Tribute to Uncle Mike Remix](https://open.spotify.com/track/0NfH5TudOb4uP4rPPZMs4J) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [The Glen \(Levi Heron Edit \- Majestic Tribute to Uncle Mike Remix\)](https://open.spotify.com/album/5hPq3pvXKMQ0p40LG4xCPP) | 2:47 |
 | 100 | [People Happy](https://open.spotify.com/track/7afcFEV1xMYlzeE4kyrYCH) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT) | [People Happy](https://open.spotify.com/album/0bjC4rvDNRzbMYSgaB5zBG) | 2:38 |
-| 101 | [Favour](https://open.spotify.com/track/4RDyVQz67trwTzT5R2omUt) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Favour](https://open.spotify.com/album/6GdjsKDvGS97oAdoSi2MSH) | 3:14 |
-| 102 | [Pearl \(Find My Way\)](https://open.spotify.com/track/5zYNenl8ZNSciONWgktPW5) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c) | [Pearl \(Find My Way\)](https://open.spotify.com/album/4KmQ0NiIS4bdQTcgTL85bJ) | 3:04 |
 
-Snapshot ID: `AAARBcVRDkIalAy1baQah3pObffY6VvA`
+Snapshot ID: `AAARBtbaepXcYwhmtqif19WAa5De9jZx`

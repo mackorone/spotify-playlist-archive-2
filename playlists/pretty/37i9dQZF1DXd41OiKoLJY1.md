@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Ian Penn\]\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,444 likes - 63 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,825 likes - 63 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 35 | [nananabik](https://open.spotify.com/track/2qYsF9Zao6aQ6TsuGDoUwz) | [Carousel Casualties](https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I) | [nananabik](https://open.spotify.com/album/4WwQ3SZ7zw5i8ibQ0XFBr4) | 3:45 |
 | 36 | [‘Di Minamadali](https://open.spotify.com/track/5XFp8MZEBW1loCtpdIQIj5) | [Trisha Denise](https://open.spotify.com/artist/70yDAMLz4y4zF3qRVJpabz), [Soc Villanueva](https://open.spotify.com/artist/6GKTPPsjdMWEsUDoRrfmNi), [Thyro Alfaro](https://open.spotify.com/artist/6UQ0UX0CUYmGvpae5nt5J0) | [‘Di Minamadali](https://open.spotify.com/album/1yBVGgcidle0Hoi8kg6Z58) | 3:37 |
 | 37 | [Already / Only](https://open.spotify.com/track/1juV1TCsmEqNL03TVk8k5x) | [Lucas Pison](https://open.spotify.com/artist/21WOme7150HFQGghQw1MeJ) | [Already / Only](https://open.spotify.com/album/74QbAsq9OyI7TQtm9BFMQJ) | 3:29 |
-| 38 | [DOET](https://open.spotify.com/track/3BUgSPP81wY0nTM7SKwqsI) | [Xaint](https://open.spotify.com/artist/76Fv5x1GEVrSXrsIHQxA4c), [Jeko Royo](https://open.spotify.com/artist/5HX42nUgvxmShHsxivaApm) | [DOET](https://open.spotify.com/album/3jCZqy3WXrOo73FI3rLLdO) | 3:15 |
+| 38 | [DOET](https://open.spotify.com/track/3BUgSPP81wY0nTM7SKwqsI) | [Xaint](https://open.spotify.com/artist/76Fv5x1GEVrSXrsIHQxA4c) | [DOET](https://open.spotify.com/album/3jCZqy3WXrOo73FI3rLLdO) | 3:15 |
 | 39 | [Pickleball State of Mind](https://open.spotify.com/track/2u3RFFQfCx6lyZiGenZ2mY) | [Wonggoys](https://open.spotify.com/artist/3uqQZK7zlTcszhNr8EPLuR) | [Pickleball State of Mind](https://open.spotify.com/album/7pUZv5cDQQlh9ZUHSUxO0y) | 3:05 |
 | 40 | [CR3W](https://open.spotify.com/track/5Tp2b3NBMLF2qm2nhxiSFc) | [Slick V](https://open.spotify.com/artist/1is3Qef9QssY4jS4Yfz8AM), [Matteyo](https://open.spotify.com/artist/6AOsrmODyI5Bt3jGhMOZqS), [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l) | [CR3W](https://open.spotify.com/album/77QmHN2ttnpdtCJ3deR3AD) | 3:18 |
 | 41 | [Nawawala't Bumabalik](https://open.spotify.com/track/7rITUdMlQdzbZvYYFAWfaV) | [Lynx](https://open.spotify.com/artist/4mQuTsax5ozo0Dg0unNLfC) | [Nawawala't Bumabalik](https://open.spotify.com/album/5E2tg04mcl5rrjjoY6tXDp) | 2:31 |

@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 74375,
+  "num_followers": 74429,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 198745,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "So So Good (Live)",
         "url": "https://open.spotify.com/album/37gaFi95mVqqxKOYVdyTv4"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 288766,
       "name": "So So Good - Live",
       "url": "https://open.spotify.com/track/1NfkApXza2Stn80T8vBGOq"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -335,26 +335,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "Thank You Lord",
-        "url": "https://open.spotify.com/album/3PfFTfC8a3ClTgTCOLdD7H"
-      },
-      "artists": [
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 297244,
-      "name": "Thank You Lord",
-      "url": "https://open.spotify.com/track/3f23uLcpKfNa4AMsNqfBpw"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "The Essential Hezekiah Walker",
         "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 415640,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/3PfFTfC8a3ClTgTCOLdD7H"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 297244,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/3f23uLcpKfNa4AMsNqfBpw"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "We Are Thankful",
-        "url": "https://open.spotify.com/album/1KKYYSgmg5879WhTpgEqBq"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 267223,
-      "name": "We Are Thankful",
-      "url": "https://open.spotify.com/track/2q6bIMUzRF7XmCAFixpNpp"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "That's How I Know",
-        "url": "https://open.spotify.com/album/2EikGiyM8b2kjcJD6CwEWU"
+        "name": "We Are Thankful",
+        "url": "https://open.spotify.com/album/1KKYYSgmg5879WhTpgEqBq"
       },
       "artists": [
         {
-          "name": "Bethany Wohrle",
-          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
         }
       ],
-      "duration_ms": 219836,
-      "name": "That's How I Know",
-      "url": "https://open.spotify.com/track/4FzI6hs5ZMg1F5euBkcZUr"
+      "duration_ms": 267223,
+      "name": "We Are Thankful",
+      "url": "https://open.spotify.com/track/2q6bIMUzRF7XmCAFixpNpp"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -587,6 +571,22 @@
       "duration_ms": 482013,
       "name": "Thank You Lord (feat. BJ Putnam)",
       "url": "https://open.spotify.com/track/56o9jizzI7tJKPUO0tUAnA"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "That's How I Know",
+        "url": "https://open.spotify.com/album/2EikGiyM8b2kjcJD6CwEWU"
+      },
+      "artists": [
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "duration_ms": 219836,
+      "name": "That's How I Know",
+      "url": "https://open.spotify.com/track/4FzI6hs5ZMg1F5euBkcZUr"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "simplicity",
         "url": "https://open.spotify.com/album/5SuCJyVXZNHggwXo5XKyH9"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 150313,
       "name": "thank you",
       "url": "https://open.spotify.com/track/6cf0agH2MqxT8t4ea1FSD7"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "All I Can Say",
-        "url": "https://open.spotify.com/album/64ifFrA1yrkEQGdTExRvbk"
-      },
-      "artists": [
-        {
-          "name": "MK Green",
-          "url": "https://open.spotify.com/artist/1NbqPxNpV0iJnmWWvKAc96"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "All I Can Say",
-      "url": "https://open.spotify.com/track/1SSSatPYMfoGhKF68qVti0"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "More Than Enough",
         "url": "https://open.spotify.com/album/0BCVRyseIXCf3cGj0OWKfR"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 298275,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/3vdzkdsNdOSm4DBdOUgjSX"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "All I Can Say",
+        "url": "https://open.spotify.com/album/64ifFrA1yrkEQGdTExRvbk"
+      },
+      "artists": [
+        {
+          "name": "MK Green",
+          "url": "https://open.spotify.com/artist/1NbqPxNpV0iJnmWWvKAc96"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "All I Can Say",
+      "url": "https://open.spotify.com/track/1SSSatPYMfoGhKF68qVti0"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "Thank The Lord",
-        "url": "https://open.spotify.com/album/7gjCfoCmp00bvGVYQzg8JB"
-      },
-      "artists": [
-        {
-          "name": "Madison Street Worship",
-          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
-        },
-        {
-          "name": "Noah Hinshaw",
-          "url": "https://open.spotify.com/artist/5G6xDPshmI9d5TObWw0VJM"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Thank The Lord",
-      "url": "https://open.spotify.com/track/17twfk8FZ0DX7obvyGyoS8"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 214158,
       "name": "Mo Wa Dupe (Thank You)",
       "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "Thank The Lord",
+        "url": "https://open.spotify.com/album/7gjCfoCmp00bvGVYQzg8JB"
+      },
+      "artists": [
+        {
+          "name": "Madison Street Worship",
+          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
+        },
+        {
+          "name": "Noah Hinshaw",
+          "url": "https://open.spotify.com/artist/5G6xDPshmI9d5TObWw0VJM"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Thank The Lord",
+      "url": "https://open.spotify.com/track/17twfk8FZ0DX7obvyGyoS8"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
         "name": "God of the Ages (Live At The Manor)",
         "url": "https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 256437,
       "name": "God of the Ages - Single Version - Live",
       "url": "https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/3imwjxNBk9xLjMPfXpEsh6"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/78yDIkJuxgsnI8Q8QZS7X5"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
         "name": "Thank You Lord",
         "url": "https://open.spotify.com/album/0BJntH21Xd65RJsLzlsipj"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 186000,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/5xPmU88ZnWOfPVFIlUogNk"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/3imwjxNBk9xLjMPfXpEsh6"
-      },
-      "artists": [
-        {
-          "name": "K-Anthony",
-          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
-        }
-      ],
-      "duration_ms": 186874,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/78yDIkJuxgsnI8Q8QZS7X5"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "Praise God For That",
-        "url": "https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 192273,
-      "name": "Praise God For That",
-      "url": "https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "Classic Gold: Best of Andrae: Andrae Crouch and the Disciples",
         "url": "https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 217786,
       "name": "My Tribute",
       "url": "https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "Praise God For That",
+        "url": "https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 192273,
+      "name": "Praise God For That",
+      "url": "https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "Thankful (7.6.19)",
-        "url": "https://open.spotify.com/album/18yQ0hBBSbzbX6sDwYt5yX"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Thankful (7.6.19)",
-      "url": "https://open.spotify.com/track/6HBHeStTx6pT5rMuu3O1T1"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "Thank You So Much Jesus",
         "url": "https://open.spotify.com/album/1yZ4Dt7Cpkc0f1jdud6ppH"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 249173,
       "name": "Thank You So Much Jesus",
       "url": "https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "Thankful (7.6.19)",
+        "url": "https://open.spotify.com/album/18yQ0hBBSbzbX6sDwYt5yX"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Thankful (7.6.19)",
+      "url": "https://open.spotify.com/track/6HBHeStTx6pT5rMuu3O1T1"
     },
     {
       "added_at": "2026-06-12 00:48:36",

@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 81354,
+  "num_followers": 81360,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAACD7PPFOOxXcPdFkrlXjRHl",
+  "snapshot_id": "am/aAAAAAABGqDPC6pHJWiAXNWQh1lAv",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 278666,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/5N9O4qRT4FJudc5m632T45"
+      "duration_ms": 241160,
+      "name": "As the Pages Burn",
+      "url": "https://open.spotify.com/track/3BkqtdD3Vc90C3JFtTTVqI"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 241160,
-      "name": "As the Pages Burn",
-      "url": "https://open.spotify.com/track/3BkqtdD3Vc90C3JFtTTVqI"
+      "duration_ms": 278666,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/5N9O4qRT4FJudc5m632T45"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 260680,
-      "name": "Liars & Thieves",
-      "url": "https://open.spotify.com/track/0ddMkwKUpd2ExFOLJlDoze"
+      "duration_ms": 235426,
+      "name": "Blood in the Water",
+      "url": "https://open.spotify.com/track/12pova27n3uHRQxrPnih9f"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 235426,
-      "name": "Blood in the Water",
-      "url": "https://open.spotify.com/track/12pova27n3uHRQxrPnih9f"
+      "duration_ms": 260680,
+      "name": "Liars & Thieves",
+      "url": "https://open.spotify.com/track/0ddMkwKUpd2ExFOLJlDoze"
     },
     {
       "added_at": null,

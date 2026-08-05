@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-695 songs - 1 day 23 hr 32 min
+696 songs - 1 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 | 2024-03-22 | 2025-05-03 |
 | [Blue Symphony](https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Blue Symphony](https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv) | 3:23 | 2025-01-17 |  |
 | [Blur](https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Blur](https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr) | 2:58 | 2023-10-06 | 2025-05-03 |
+| [Bounce Music](https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Bounce Music](https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G) | 3:50 | 2026-07-31 |  |
 | [Break The Loop](https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [Break The Loop](https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7) | 3:46 | 2026-03-20 |  |
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-02-25 | 2022-07-29 |
 | [Breathe Me In](https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Breathe Me In](https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc) | 2:58 | 2021-12-10 | 2024-04-13 |
@@ -232,7 +233,7 @@
 | [Give Into You](https://open.spotify.com/track/5GvdWteb7cK1tKP1GsNWZI) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [A New Day EP](https://open.spotify.com/album/6RTewADm1CSSTMzp3MnpfD) | 3:13 | 2021-05-07 | 2022-07-21 |
 | [Give Me Life](https://open.spotify.com/track/7sPxfj5B314N08j2SL1gtJ) | [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX), [Gadouh](https://open.spotify.com/artist/1MVX88tSkVXk7WGRG2aGT2) | [The Threshold](https://open.spotify.com/album/1dWrNQHEubZx5fz1rDU11h) | 2:28 | 2026-04-13 |  |
 | [God Don't Leave Me Alone](https://open.spotify.com/track/4hY0zYNaCIYvCm6f3QB6xQ) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Resurrection \(Act I\)](https://open.spotify.com/album/4rWi4MBcMopY0uK91ctO5x) | 3:37 | 2024-04-19 | 2025-02-22 |
-| [God In You](https://open.spotify.com/track/5MMEBxm1mliJlMZnydNYMA) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [God In You](https://open.spotify.com/album/4s8AliMdTeyAh5HgXqgsJw) | 5:37 | 2025-11-14 |  |
+| [God In You](https://open.spotify.com/track/5MMEBxm1mliJlMZnydNYMA) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [God In You](https://open.spotify.com/album/4s8AliMdTeyAh5HgXqgsJw) | 5:37 | 2025-11-14 | 2026-08-05 |
 | [Gold](https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Gold](https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y) | 3:40 | 2021-05-07 | 2023-04-02 |
 | [Golden \(feat\. Blondfire\)](https://open.spotify.com/track/1he0nibCzlDvB96EoJbbIZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Blondfire](https://open.spotify.com/artist/5ySYeIhqg4Rfs5tjteVMz3) | [Golden \(feat\. Blondfire\)](https://open.spotify.com/album/3lUeNPdccSYi4LK4pLvBiv) | 3:29 | 2021-05-07 | 2023-06-29 |
 | [Good God](https://open.spotify.com/track/3HDHvGyiCtenVenl5ZdB0g) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Good God](https://open.spotify.com/album/0bzF0VRjVTvqP7MHYUTbPI) | 3:15 | 2024-04-05 | 2024-07-18 |

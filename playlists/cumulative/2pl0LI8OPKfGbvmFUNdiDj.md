@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-553 songs - 1 day 7 hr 23 min
+554 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [In My Life](https://open.spotify.com/track/2gGcCQt9wtPhaNHQi20hm5) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [In My Life](https://open.spotify.com/album/5oZEd7DEOSHVlLqvrZurla) | 1:56 | 2026-05-31 | 2026-07-02 |
 | [In My Lowrider](https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6) | [Willie of Wilshire](https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS) | [A Day in LA](https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1) | 2:52 | 2025-12-01 | 2026-01-05 |
 | [In the Zone](https://open.spotify.com/track/4GQCB31mUj7IWjZWa2xyU6) | [Zoë Evans](https://open.spotify.com/artist/22WSFLmJCcJ6YvkfCaXWBo) | [In the Zone](https://open.spotify.com/album/5y5SUzLfH5GFst6dPosrZj) | 2:38 | 2026-02-08 |  |
+| [Intenté Olvidarte](https://open.spotify.com/track/3ksN7lVHRGcQaulNC24Z1w) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Intenté Olvidarte](https://open.spotify.com/album/7nMf1VS5aC6F7jPMiUpCje) | 3:47 | 2026-08-04 |  |
 | [Interest Free](https://open.spotify.com/track/04oLfpOdFBPSM7GJmwmGX4) | [Lost Trends](https://open.spotify.com/artist/6kZpNXyeuRmP1DkYDiNSbV) | [Interest Free](https://open.spotify.com/album/1aPNhzmMkxcFpppkxtKWqZ) | 2:37 | 2026-02-14 |  |
 | [Invisible](https://open.spotify.com/track/4wdDAHGHSVvjvgFUefA0He) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 2:05 | 2026-05-25 | 2026-07-02 |
 | [Is This Faith](https://open.spotify.com/track/0zrPGScONhWVuM4YIiyKGV) | [Sara Hecht](https://open.spotify.com/artist/5SdcJmxoUet8wPz869kAi8) | [Is This Faith](https://open.spotify.com/album/3Rv0xhrxY4Sb2BsoPfY50z) | 3:11 | 2026-05-19 | 2026-06-14 |

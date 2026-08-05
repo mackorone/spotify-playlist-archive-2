@@ -2,7 +2,7 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the center of innovation in electronic music\. Featuring Nia Archives & Jorja Smith.
+> Celebrating women at the center of innovation in electronic music\. Featuring Chloé Caillet .
 
 877 songs - 2 day 6 hr 7 min
 

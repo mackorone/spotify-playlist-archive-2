@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 627415,
+  "num_followers": 627760,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,22 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx"
       },
       "artists": [
         {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
         },
         {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 150613,
-      "name": "Garota De Ipanema",
-      "url": "https://open.spotify.com/track/13phYi072bj5ibxBx4VhQC"
+      "duration_ms": 229800,
+      "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/2MTrACUycdhqhQ9dYpxWJb"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -587,6 +587,26 @@
       "duration_ms": 118040,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Garota De Ipanema",
+      "url": "https://open.spotify.com/track/13phYi072bj5ibxBx4VhQC"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -659,6 +679,22 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
+        "name": "Baden Powell - A B\u00ean\u00e7\u00e3o Baden Powell",
+        "url": "https://open.spotify.com/album/6tfUEd0AHP0l3cqOdsREbf"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "duration_ms": 410186,
+      "name": "Samba Da Ben\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2dA7eKXUzw1Ndc78kKRefH"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
         "name": "20 Grandes Sucessos De Nara Leao",
         "url": "https://open.spotify.com/album/3szAhEAqI6a0L2INCE1IrJ"
       },
@@ -671,26 +707,6 @@
       "duration_ms": 185306,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/2oBiFDhFwbEHYaGOf1Mfrb"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
-        "name": "Elis & Tom",
-        "url": "https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/2MTrACUycdhqhQ9dYpxWJb"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -763,22 +779,6 @@
       "duration_ms": 54520,
       "name": "A Tonga Da Mironga Do Kabulet\u00ea",
       "url": "https://open.spotify.com/track/1xgiVKlkBQsBeDfImpQXYM"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
-        "name": "Baden Powell - A B\u00ean\u00e7\u00e3o Baden Powell",
-        "url": "https://open.spotify.com/album/6tfUEd0AHP0l3cqOdsREbf"
-      },
-      "artists": [
-        {
-          "name": "Vin\u00edcius de Moraes",
-          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
-        }
-      ],
-      "duration_ms": 410186,
-      "name": "Samba Da Ben\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2dA7eKXUzw1Ndc78kKRefH"
     },
     {
       "added_at": "2026-05-15 08:18:34",

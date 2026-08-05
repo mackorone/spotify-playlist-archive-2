@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Ambré
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Søren Torpegaard Lund
 
-1,873 songs - 4 day 5 hr 41 min
+1,875 songs - 4 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-03-12 | 2025-05-20 |
 | [djurdjura \(جبال جرجرة\)](https://open.spotify.com/track/0Y4JJwScd8AMPlmFuwsppx) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [UFO RELIGION](https://open.spotify.com/album/0qAOo3mr8RBN7ZNRf5TiAI) | 3:08 | 2024-11-12 | 2024-12-05 |
 | [dlaczego w tym mieście NIKT nie umarł z miłości?](https://open.spotify.com/track/7GNHldDKTddtGLNJSyGmu1) | [Kamil Hasselhoff](https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9) | [dlaczego w tym mieście NIKT nie umarł z miłości?](https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0) | 2:44 | 2023-08-08 | 2023-09-13 |
+| [DNH](https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [DNH](https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN) | 2:27 | 2026-08-04 |  |
 | [Do I Ever Cross Your Mind?](https://open.spotify.com/track/2Ai6GyZxG5gW3YCkdeXhNU) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Do I Ever Cross Your Mind?](https://open.spotify.com/album/6qkX5pBH2OE4ebSA7B9jKn) | 3:05 | 2023-03-07 | 2023-04-01 |
 | [do u really want to watch](https://open.spotify.com/track/7Khom2QJHwWKqsO4ug1jux) | [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV) | [do u really want to watch](https://open.spotify.com/album/1HGjv4VEYuVGXqP3NEINLG) | 2:43 | 2024-03-12 | 2024-04-17 |
 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 | 2025-12-03 | 2026-01-15 |
@@ -1161,7 +1162,7 @@
 | [Nobody](https://open.spotify.com/track/05PIVjVJ0o8CweX6P91GJ5) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Trophies](https://open.spotify.com/album/2AUBG0Hw2pJyULNK5xyDwC) | 3:09 | 2021-12-17 | 2022-01-29 |
 | [Nobody](https://open.spotify.com/track/6Uf3uDJDLTbXP6uQhwNdvl) | [Shane Stevens](https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr) | [Nobody](https://open.spotify.com/album/0Cu9LCJ8nhpNEtWsKrbhnQ) | 4:18 | 2025-09-09 | 2025-12-04 |
 | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/album/5Q4MnV0Phqr0R5eEM78Ycr) | 3:44 | 2022-04-29 | 2022-11-13 |
-| [Noite Inteira](https://open.spotify.com/track/56KqvI0JSmptWkM2XEG4sX) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Noite Inteira](https://open.spotify.com/album/5hMONTpUdT6sI1Q1HNAokt) | 3:02 | 2026-06-08 |  |
+| [Noite Inteira](https://open.spotify.com/track/56KqvI0JSmptWkM2XEG4sX) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Noite Inteira](https://open.spotify.com/album/5hMONTpUdT6sI1Q1HNAokt) | 3:02 | 2026-06-08 | 2026-08-05 |
 | [noktowizja](https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [TRYSK](https://open.spotify.com/album/5A5b9CLivXyFVXaaP4Uv4X) | 2:57 | 2026-07-14 |  |
 | [Non Stop](https://open.spotify.com/track/5MbwPk0XgFvKF1meetPKEt) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Non Stop](https://open.spotify.com/album/74aGXEGGfL7xaLKEeWlcZz) | 2:36 | 2025-04-29 | 2026-03-11 |
 | [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 | 2024-07-09 | 2025-02-12 |
@@ -1725,7 +1726,7 @@
 | [Violet](https://open.spotify.com/track/5CG8CTkZMnwGhJs1zHITOq) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Violet](https://open.spotify.com/album/2ogDDAPSPKeOpH2OcLEdoN) | 3:04 | 2022-05-13 | 2022-07-29 |
 | [VIP \(ninguém te conhece\)](https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [VIP \(ninguém te conhece\)](https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU) | 2:46 | 2026-03-24 | 2026-06-09 |
 | [Virgen de Magallón](https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Recardelino](https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H) | 2:31 | 2025-04-08 | 2025-06-05 |
-| [VITA'S HOUSE](https://open.spotify.com/track/4zwclBew35GU9UQjgH3r3R) | [Vita](https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO), [Mc Britney](https://open.spotify.com/artist/3MezXdDyJeOGIVUcfnVXXX), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [VITA'S HOUSE](https://open.spotify.com/album/5D6uIJOGZdsBvlbejGbdFr) | 3:57 | 2026-06-08 |  |
+| [VITA'S HOUSE](https://open.spotify.com/track/4zwclBew35GU9UQjgH3r3R) | [Vita](https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO), [Mc Britney](https://open.spotify.com/artist/3MezXdDyJeOGIVUcfnVXXX), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [VITA'S HOUSE](https://open.spotify.com/album/5D6uIJOGZdsBvlbejGbdFr) | 3:57 | 2026-06-08 | 2026-08-05 |
 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 | 2026-07-14 |  |
 | [Voices](https://open.spotify.com/track/101WWjTm2SfpftR03cGl06) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/6LFXb9bp8S1gnW0fOqTTmH) | 5:38 | 2025-10-14 | 2025-12-04 |
 | [W innym kolorze](https://open.spotify.com/track/1SKOsQeGx7heZSoylQfqzM) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df), [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [W innym kolorze](https://open.spotify.com/album/6QSIyBrOVK6poPpEebfPtn) | 3:22 | 2023-10-10 | 2023-11-14 |
@@ -1759,6 +1760,7 @@
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-24 | 2023-04-01 |
 | [Weirdo](https://open.spotify.com/track/0aIj36K0tuJIt6kpN4Jbtq) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Inside Voices / Outside Voices](https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM) | 3:45 | 2022-07-31 | 2022-11-23 |
 | [Weirdo](https://open.spotify.com/track/3GEcWJB535LBfwF1lyWGAD) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Weirdo](https://open.spotify.com/album/1R0W4HzWUdAMy9TuDH8x1Z) | 3:45 | 2021-12-17 | 2022-06-21 |
+| [Welcome To My Party](https://open.spotify.com/track/6hNMYhGYl45aYvqLFGqIkV) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Welcome To My Party](https://open.spotify.com/album/4cGz3exeViVHLl4FQBLwhN) | 2:53 | 2026-08-04 |  |
 | [Wesley Crusher](https://open.spotify.com/track/0kGkZJvaxBOLKitkRCS6Fh) | [Your Heart Breaks](https://open.spotify.com/artist/1NBJbUP8o1MfB27jl84eeP), [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Wesley Crusher](https://open.spotify.com/album/0mTaIfRLGVPQu9nbsynk0A) | 2:41 | 2023-03-31 | 2023-04-14 |
 | [WET](https://open.spotify.com/track/7q7Pc8oHXldntr7YKN4PFz) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [WET](https://open.spotify.com/album/6PmonSZBxYfIpW12oeCV3o) | 2:43 | 2022-10-28 | 2022-12-01 |
 | [WET DREAM](https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [WET DREAM](https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb) | 2:30 | 2024-06-05 | 2024-07-10 |

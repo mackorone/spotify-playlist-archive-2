@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1254103,
+  "num_followers": 1253940,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-07-31 04:01:56",
       "album": {
-        "name": "Love Is The Only Thing",
-        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Love Is The Only Thing",
-      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
-    },
-    {
-      "added_at": "2026-07-31 04:01:56",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 196923,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
+    },
+    {
+      "added_at": "2026-07-31 04:01:56",
+      "album": {
+        "name": "Love Is The Only Thing",
+        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Love Is The Only Thing",
+      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
     },
     {
       "added_at": "2026-07-31 04:01:56",
@@ -835,6 +835,26 @@
     {
       "added_at": "2026-07-31 04:01:56",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1w9B74tuel6NHRQplSYx3a"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1DdmIbutzUGXkktMTkyWYh"
+    },
+    {
+      "added_at": "2026-07-31 04:01:56",
+      "album": {
         "name": "Come Find Me (with Clementine Douglas)",
         "url": "https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 183934,
       "name": "Lost In The Woods",
       "url": "https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx"
-    },
-    {
-      "added_at": "2026-07-31 04:01:56",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1w9B74tuel6NHRQplSYx3a"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/1DdmIbutzUGXkktMTkyWYh"
     },
     {
       "added_at": "2026-07-31 04:01:56",
@@ -1123,22 +1123,26 @@
     {
       "added_at": "2026-07-31 04:01:56",
       "album": {
-        "name": "In My Arms",
-        "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
+        "name": "Flutters",
+        "url": "https://open.spotify.com/album/6uUmp5LDUJ1BV8ZEa7yV35"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
         },
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Audra Miller",
+          "url": "https://open.spotify.com/artist/7u3oRlaehXDcEJBMKjoe51"
         }
       ],
-      "duration_ms": 208000,
-      "name": "In My Arms",
-      "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
+      "duration_ms": 211200,
+      "name": "Flutters",
+      "url": "https://open.spotify.com/track/0J69znxsYGXhY7cvEhuTqo"
     },
     {
       "added_at": "2026-07-31 04:01:56",
@@ -1163,6 +1167,26 @@
       "duration_ms": 234086,
       "name": "Inside Our Hearts",
       "url": "https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH"
+    },
+    {
+      "added_at": "2026-07-31 04:01:56",
+      "album": {
+        "name": "In My Arms",
+        "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
     },
     {
       "added_at": "2026-07-31 04:01:56",
@@ -1199,30 +1223,6 @@
       "duration_ms": 139911,
       "name": "R U DOWN?",
       "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
-    },
-    {
-      "added_at": "2026-07-31 04:01:56",
-      "album": {
-        "name": "Flutters",
-        "url": "https://open.spotify.com/album/6uUmp5LDUJ1BV8ZEa7yV35"
-      },
-      "artists": [
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "Audra Miller",
-          "url": "https://open.spotify.com/artist/7u3oRlaehXDcEJBMKjoe51"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Flutters",
-      "url": "https://open.spotify.com/track/0J69znxsYGXhY7cvEhuTqo"
     },
     {
       "added_at": "2026-07-31 04:01:56",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-07-31 04:01:56",
       "album": {
-        "name": "AMi Vol. 1",
-        "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Miette Hope",
-          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Outline",
-      "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
-    },
-    {
-      "added_at": "2026-07-31 04:01:56",
-      "album": {
         "name": "Somebody Like You",
         "url": "https://open.spotify.com/album/7vA6ciINABuYjDPMkF2dxI"
       },
@@ -1699,22 +1679,22 @@
     {
       "added_at": "2026-07-31 04:01:56",
       "album": {
-        "name": "The Right",
-        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
+        "name": "AMi Vol. 1",
+        "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         },
         {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+          "name": "Miette Hope",
+          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
         }
       ],
-      "duration_ms": 234753,
-      "name": "The Right",
-      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
+      "duration_ms": 250533,
+      "name": "Outline",
+      "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
     },
     {
       "added_at": "2026-07-31 04:01:56",
@@ -1743,22 +1723,22 @@
     {
       "added_at": "2026-07-31 04:01:56",
       "album": {
-        "name": "Telos",
-        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
+        "name": "The Right",
+        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         },
         {
-          "name": "Bava",
-          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
         }
       ],
-      "duration_ms": 211313,
-      "name": "No Gravity (feat. Bava)",
-      "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
+      "duration_ms": 234753,
+      "name": "The Right",
+      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
     },
     {
       "added_at": "2026-07-31 04:01:56",
@@ -1783,6 +1763,26 @@
       "duration_ms": 318688,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/10yQfULdZ2BfoipahuFZ0z"
+    },
+    {
+      "added_at": "2026-07-31 04:01:56",
+      "album": {
+        "name": "Telos",
+        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Bava",
+          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+        }
+      ],
+      "duration_ms": 211313,
+      "name": "No Gravity (feat. Bava)",
+      "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
     },
     {
       "added_at": "2026-07-31 04:01:56",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2026-07-31 04:01:56",
       "album": {
-        "name": "Dancing In The Dark",
-        "url": "https://open.spotify.com/album/7omszKcmeM2AvJ61dGoAsT"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        },
-        {
-          "name": "Annaca",
-          "url": "https://open.spotify.com/artist/68bTh9UzHWFypy6Kt54NDZ"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/0v4y0mPJaLyCKOWC5khfmg"
-    },
-    {
-      "added_at": "2026-07-31 04:01:56",
-      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 219208,
       "name": "Feel",
       "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
+    },
+    {
+      "added_at": "2026-07-31 04:01:56",
+      "album": {
+        "name": "Dancing In The Dark",
+        "url": "https://open.spotify.com/album/7omszKcmeM2AvJ61dGoAsT"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Annaca",
+          "url": "https://open.spotify.com/artist/68bTh9UzHWFypy6Kt54NDZ"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/0v4y0mPJaLyCKOWC5khfmg"
     },
     {
       "added_at": "2026-07-31 04:01:56",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2026-07-31 04:01:56",
       "album": {
-        "name": "Everything U",
-        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 210294,
-      "name": "Everything U",
-      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
-    },
-    {
-      "added_at": "2026-07-31 04:01:56",
-      "album": {
         "name": "thinkin bout u",
         "url": "https://open.spotify.com/album/0F0x6VOHnHEWOiPhqAcEAK"
       },
@@ -2155,34 +2139,18 @@
     {
       "added_at": "2026-07-31 04:01:56",
       "album": {
-        "name": "Coin Toss",
-        "url": "https://open.spotify.com/album/54vTsluudqEoAOajxKoLwC"
+        "name": "Everything U",
+        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
       },
       "artists": [
         {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         }
       ],
-      "duration_ms": 133233,
-      "name": "Coin Toss",
-      "url": "https://open.spotify.com/track/4b8QGJe1GVyMxHXUonJIzE"
-    },
-    {
-      "added_at": "2026-07-31 04:01:56",
-      "album": {
-        "name": "HOME WAS ALWAYS ME",
-        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "midnight moon",
-      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
+      "duration_ms": 210294,
+      "name": "Everything U",
+      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
     },
     {
       "added_at": "2026-07-31 04:01:56",
@@ -2207,6 +2175,22 @@
     {
       "added_at": "2026-07-31 04:01:56",
       "album": {
+        "name": "Coin Toss",
+        "url": "https://open.spotify.com/album/54vTsluudqEoAOajxKoLwC"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 133233,
+      "name": "Coin Toss",
+      "url": "https://open.spotify.com/track/4b8QGJe1GVyMxHXUonJIzE"
+    },
+    {
+      "added_at": "2026-07-31 04:01:56",
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 195692,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
+    },
+    {
+      "added_at": "2026-07-31 04:01:56",
+      "album": {
+        "name": "HOME WAS ALWAYS ME",
+        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "midnight moon",
+      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
     },
     {
       "added_at": "2026-07-31 04:01:56",
@@ -2247,26 +2247,6 @@
     {
       "added_at": "2026-07-31 04:01:56",
       "album": {
-        "name": "You & Me (Always Forever)",
-        "url": "https://open.spotify.com/album/4C1eeJfuCEclF1gqK0jdij"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 172981,
-      "name": "You & Me (Always Forever)",
-      "url": "https://open.spotify.com/track/448c5dsSpQjL7bkRLNjocK"
-    },
-    {
-      "added_at": "2026-07-31 04:01:56",
-      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/6S8FOZlN0W1vWkgpBVXQdE"
       },
@@ -2283,6 +2263,26 @@
       "duration_ms": 205182,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/4XO2AIJyy8d5DOuVoFtBGE"
+    },
+    {
+      "added_at": "2026-07-31 04:01:56",
+      "album": {
+        "name": "You & Me (Always Forever)",
+        "url": "https://open.spotify.com/album/4C1eeJfuCEclF1gqK0jdij"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 172981,
+      "name": "You & Me (Always Forever)",
+      "url": "https://open.spotify.com/track/448c5dsSpQjL7bkRLNjocK"
     },
     {
       "added_at": "2026-07-31 04:01:56",

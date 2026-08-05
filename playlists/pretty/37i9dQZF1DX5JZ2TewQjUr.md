@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Jaime Cheung 張天穎
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,556 likes - 121 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,557 likes - 121 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

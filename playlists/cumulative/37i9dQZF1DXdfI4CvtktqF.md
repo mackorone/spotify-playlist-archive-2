@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Benz ดำ](https://open.spotify.com/track/3RPiQqgZbe4jFNMIZtGoaU) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 2:50 | 2026-04-29 |  |
-| [BF](https://open.spotify.com/track/36zlZYQZQ6QpXwSxnBRAa0) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/3d3g7HPFMX15civOSuEUra) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:33 | 2026-04-29 |  |
+| [BF](https://open.spotify.com/track/36zlZYQZQ6QpXwSxnBRAa0) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:33 | 2026-04-29 |  |
 | [DAY ONE](https://open.spotify.com/track/5QxNmQBXpLPemzpDvsuiLM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 4:31 | 2026-04-29 |  |
 | [Faded \- Special Version](https://open.spotify.com/track/5b2OC2aaioNReqHlQs1TbR) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Faded \(Special Version\)](https://open.spotify.com/album/7J06yijTctAn2FkYe4xZOI) | 3:49 | 2026-04-29 |  |
 | [FLY](https://open.spotify.com/track/3b6Z9R6qkXA56Ymen3MMjf) | [JUNG](https://open.spotify.com/artist/60YtQwBpzzFgsRpcYo7kIc), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ) | [FLY](https://open.spotify.com/album/6lKElQkCjcx8YKzKPFOsAh) | 3:07 | 2026-07-24 |  |

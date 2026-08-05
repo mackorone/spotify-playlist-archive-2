@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Moon Sujin, Wonstein(\ubb38\uc218\uc9c4, \uc6d0\uc288\ud0c0\uc778))",
-  "num_followers": 394229,
+  "num_followers": 393275,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-07-30 07:39:07",
       "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
-    },
-    {
-      "added_at": "2026-07-30 07:39:07",
-      "album": {
         "name": "Couple - Special Single",
         "url": "https://open.spotify.com/album/5w9TtiYrHhiJsfVDrE5vWx"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 216094,
       "name": "Couple",
       "url": "https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL"
+    },
+    {
+      "added_at": "2026-07-30 07:39:07",
+      "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2026-07-30 07:39:07",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-07-30 07:39:07",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Troll (Feat. DEAN)",
-      "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
-    },
-    {
-      "added_at": "2026-07-30 07:39:07",
-      "album": {
         "name": "Teenieping: Legend of the Whale Heartstone Special, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/22zTuvEyfwSfaJjTddc9ur"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 198034,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/1FIJa50mYmz220xeJi8YXy"
+    },
+    {
+      "added_at": "2026-07-30 07:39:07",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Troll (Feat. DEAN)",
+      "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
     },
     {
       "added_at": "2026-07-30 07:39:07",
@@ -451,6 +451,26 @@
     {
       "added_at": "2026-07-30 07:39:07",
       "album": {
+        "name": "Flower Language",
+        "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
+      },
+      "artists": [
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Freesia",
+      "url": "https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK"
+    },
+    {
+      "added_at": "2026-07-30 07:39:07",
+      "album": {
         "name": "A flower bookmark, Pt. 3",
         "url": "https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 198749,
       "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
       "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
-    },
-    {
-      "added_at": "2026-07-30 07:39:07",
-      "album": {
-        "name": "Flower Language",
-        "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
-      },
-      "artists": [
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        },
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Freesia",
-      "url": "https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK"
     },
     {
       "added_at": "2026-07-30 07:39:07",
@@ -695,6 +695,26 @@
     {
       "added_at": "2026-07-30 07:39:07",
       "album": {
+        "name": "Whats wrong with secretary kim OST Part.1",
+        "url": "https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR"
+      },
+      "artists": [
+        {
+          "name": "KIHYUN",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
+        },
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "duration_ms": 207056,
+      "name": "Love Virus",
+      "url": "https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG"
+    },
+    {
+      "added_at": "2026-07-30 07:39:07",
+      "album": {
         "name": "\uae34 \ubc24 (feat. GIRIBOY)",
         "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 228701,
       "name": "A Night Full of You",
       "url": "https://open.spotify.com/track/2KvLK4xXYmkubREnYbCX27"
-    },
-    {
-      "added_at": "2026-07-30 07:39:07",
-      "album": {
-        "name": "Whats wrong with secretary kim OST Part.1",
-        "url": "https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR"
-      },
-      "artists": [
-        {
-          "name": "KIHYUN",
-          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
-        },
-        {
-          "name": "SEOLA",
-          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
-        }
-      ],
-      "duration_ms": 207056,
-      "name": "Love Virus",
-      "url": "https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG"
     },
     {
       "added_at": "2026-07-30 07:39:07",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-07-30 07:39:07",
       "album": {
-        "name": "In my room.",
-        "url": "https://open.spotify.com/album/0PKO6PT9dVPmv0E7aEPYlV"
-      },
-      "artists": [
-        {
-          "name": "Suen",
-          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
-        },
-        {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "What Is This Feeling? (with BANG YEDAM)",
-      "url": "https://open.spotify.com/track/5i1JrZ25HK3J4ePjrGp8OZ"
-    },
-    {
-      "added_at": "2026-07-30 07:39:07",
-      "album": {
         "name": "Officially Cool",
         "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 177253,
       "name": "Officially Cool",
       "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
+    },
+    {
+      "added_at": "2026-07-30 07:39:07",
+      "album": {
+        "name": "In my room.",
+        "url": "https://open.spotify.com/album/0PKO6PT9dVPmv0E7aEPYlV"
+      },
+      "artists": [
+        {
+          "name": "Suen",
+          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
+        },
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "What Is This Feeling? (with BANG YEDAM)",
+      "url": "https://open.spotify.com/track/5i1JrZ25HK3J4ePjrGp8OZ"
     },
     {
       "added_at": "2026-07-30 07:39:07",
@@ -983,6 +983,26 @@
     {
       "added_at": "2026-07-30 07:39:07",
       "album": {
+        "name": "Never Gonna Dance Again : Act 2 - The 3rd Album",
+        "url": "https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Be Your Enemy",
+      "url": "https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T"
+    },
+    {
+      "added_at": "2026-07-30 07:39:07",
+      "album": {
         "name": "Lucky Me (feat. Wonstein)",
         "url": "https://open.spotify.com/album/4saGlb83ieD2u1cpyTWKTV"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 154533,
       "name": "Lucky Me (feat. Wonstein)",
       "url": "https://open.spotify.com/track/1a26vkT9m6IVfZAbW1hq4Y"
-    },
-    {
-      "added_at": "2026-07-30 07:39:07",
-      "album": {
-        "name": "You & Me",
-        "url": "https://open.spotify.com/album/6EI3flCxdtzr5oMIxdHWJe"
-      },
-      "artists": [
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "LEEHI",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/7j2HXqNaP7V5oOayUpU1rV"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

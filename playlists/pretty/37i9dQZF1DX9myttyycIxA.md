@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Trophy Wife
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,756 likes - 110 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,741 likes - 110 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 93 | [It Wasn't You, It Was The Feeling](https://open.spotify.com/track/26M3JzCSmSCfVv5PBXpf8v) | [Ok Cowgirl](https://open.spotify.com/artist/5foQBLMKT1paX8PAI12iH8) | [It Wasn't You, It Was The Feeling](https://open.spotify.com/album/64CGQNBqerg8LHTFNZaerx) | 4:00 |
 | 94 | [George](https://open.spotify.com/track/5P9OqilWan1wf9XCyM2Mg7) | [High.](https://open.spotify.com/artist/59LpxUqe2EStKGfpogJqxi), [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [George](https://open.spotify.com/album/28vY7PfZLx4RyGj96eG7oY) | 2:56 |
 | 95 | [pieces](https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX) | [thistle.](https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5) | [pieces](https://open.spotify.com/album/0HtKs3fzUYPQIjA0kXsCDk) | 3:22 |
-| 96 | [Crawl](https://open.spotify.com/track/5E4lPEA9KaRGZcTuT78BkR) | [Ken Park](https://open.spotify.com/artist/7AyoL7nBpOxuFWu706TN1J) | [Ken Park](https://open.spotify.com/album/55ltlA6HMeK1tQwLZPZF1Q) | 3:39 |
+| 96 | [Crawl](https://open.spotify.com/track/5E4lPEA9KaRGZcTuT78BkR) | [Liam Creamer](https://open.spotify.com/artist/1OgQ0kvZcMUVtWB71o0lkY) | [Ken Park](https://open.spotify.com/album/55ltlA6HMeK1tQwLZPZF1Q) | 3:39 |
 | 97 | [Quarter note rock](https://open.spotify.com/track/36Df5D2WsOPvI0n9o4NbnG) | [cootie catcher](https://open.spotify.com/artist/46ufOtURSipSKdxoz8KZzu) | [Quarter note rock](https://open.spotify.com/album/3RFIwf9BvE1BUJAwWpZ4Li) | 4:04 |
 | 98 | [I Think I'm Gonna Love You Forever](https://open.spotify.com/track/2wa37x2GB65RpxpKV3ch67) | [Tallulah Argue](https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd) | [Deer in the Headlights](https://open.spotify.com/album/5qeZSe0axVQt0roM9PqMJL) | 3:55 |
 | 99 | [she loves him](https://open.spotify.com/track/4OusHecqhG9DFlg9fyb2zA) | [rosevile sucks](https://open.spotify.com/artist/25Ko45jGJees0ZRFOYXlXi), [Masumi](https://open.spotify.com/artist/0Y0Ck10AraPy7sDNGrosuk) | [she loves him](https://open.spotify.com/album/5MNCq8CEyiBcDhpl99xxIR) | 2:50 |

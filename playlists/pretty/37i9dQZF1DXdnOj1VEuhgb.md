@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: ERAY067, Mansur
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,407,239 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,363 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 12 | [TEXAS](https://open.spotify.com/track/51TItWP9iMMhPraDoyB8h2) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [TEXAS](https://open.spotify.com/album/0MNphtXHSRaI9N7pwfVFoh) | 1:46 |
 | 13 | [BELVEDERE](https://open.spotify.com/track/1g1oJs0KhCeSDhT39TLR8k) | [D\-azy](https://open.spotify.com/artist/5xP5qr6ClCfcCk0kkp8OMJ), [Ender](https://open.spotify.com/artist/3IUOH0oicZnRCb8YLGj6s8) | [BELVEDERE](https://open.spotify.com/album/6TO4GVPTdEBCvKl05Mbdps) | 1:53 |
 | 14 | [ZEMINLER](https://open.spotify.com/track/5rh8bbSIAEuVbzIF7Ws6FM) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [ZEMINLER](https://open.spotify.com/album/4hTIhQoJN0bfnwJY1Cqhrl) | 2:40 |
-| 15 | [senle nefes alıyordum](https://open.spotify.com/track/5I3ngBnF9bDUGEsm2ClrqT) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [MINA](https://open.spotify.com/artist/6rW0K83kruVLqDTbxoyqBl) | [senle nefes alıyordum](https://open.spotify.com/album/7DEzFea4fPsbIlCNBPjYVD) | 2:14 |
+| 15 | [senle nefes alıyordum](https://open.spotify.com/track/5I3ngBnF9bDUGEsm2ClrqT) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [MINA](https://open.spotify.com/artist/2VVReeJKqmXKV9jbeCFNNs) | [senle nefes alıyordum](https://open.spotify.com/album/7DEzFea4fPsbIlCNBPjYVD) | 2:14 |
 | 16 | [Kaybeden](https://open.spotify.com/track/6XtYVT7q73CjAsHTLNrqkd) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Kaybeden](https://open.spotify.com/album/7Ae3Ud9M6m2hyK00CIT0U5) | 2:17 |
 | 17 | [kum gibi](https://open.spotify.com/track/2YHgSWFgmOt4GpueWvb841) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [kum gibi](https://open.spotify.com/album/2ShS01EyiYjADvsDDlnWrF) | 2:29 |
 | 18 | [Kör](https://open.spotify.com/track/2BPhlWoCR8ryI6bu1K42ZV) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kör](https://open.spotify.com/album/60swXqtAbCP7N83jR4M2Fr) | 2:24 |

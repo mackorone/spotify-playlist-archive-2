@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Cerramos Julio con las novedades de la semana, nos vemos en Agosto con mas música\. Siddhartha en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,216,515 likes - 59 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,870 likes - 59 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

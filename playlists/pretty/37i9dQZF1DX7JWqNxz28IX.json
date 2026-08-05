@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47158,
+  "num_followers": 47156,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "te non ci 6",
-        "url": "https://open.spotify.com/album/4QfRRjyC5y0b421M248kB5"
-      },
-      "artists": [
-        {
-          "name": "Gioac",
-          "url": "https://open.spotify.com/artist/4vA9K7BZzkqFAh9hQfXwiD"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "te non ci 6",
-      "url": "https://open.spotify.com/track/1DfOGGwDiLYPJVcdvXYV4H"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "PROLOGO",
         "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 193067,
       "name": "solo polvere.",
       "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "te non ci 6",
+        "url": "https://open.spotify.com/album/4QfRRjyC5y0b421M248kB5"
+      },
+      "artists": [
+        {
+          "name": "Gioac",
+          "url": "https://open.spotify.com/artist/4vA9K7BZzkqFAh9hQfXwiD"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "te non ci 6",
+      "url": "https://open.spotify.com/track/1DfOGGwDiLYPJVcdvXYV4H"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -975,18 +975,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Tatuaggi",
-        "url": "https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa"
+        "name": "FOTORICORDO",
+        "url": "https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE"
       },
       "artists": [
         {
           "name": "Sol\u00f8",
           "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        },
+        {
+          "name": "Luk3",
+          "url": "https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Tatuaggi",
-      "url": "https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw"
+      "duration_ms": 149671,
+      "name": "FOTORICORDO",
+      "url": "https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1059,22 +1063,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "FOTORICORDO",
-        "url": "https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE"
+        "name": "Tatuaggi",
+        "url": "https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa"
       },
       "artists": [
         {
           "name": "Sol\u00f8",
           "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        },
-        {
-          "name": "Luk3",
-          "url": "https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1"
         }
       ],
-      "duration_ms": 149671,
-      "name": "FOTORICORDO",
-      "url": "https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm"
+      "duration_ms": 202500,
+      "name": "Tatuaggi",
+      "url": "https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Ci siamo fatti male",
-        "url": "https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 170095,
-      "name": "Ci siamo fatti male",
-      "url": "https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "MUSICA ALTA E STRESS",
         "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 165714,
       "name": "SEMBREREMO DISTANTI",
       "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Ci siamo fatti male",
+        "url": "https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "Ci siamo fatti male",
+      "url": "https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "QUARTA DIMENSIONE",
-        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
+        "name": "sfacciati",
+        "url": "https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD"
       },
       "artists": [
         {
-          "name": "Carla Hero",
-          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+          "name": "UNK",
+          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
         }
       ],
-      "duration_ms": 121000,
-      "name": "CAMBIARE VITA",
-      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
+      "duration_ms": 145500,
+      "name": "sfacciati",
+      "url": "https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "sfacciati",
-        "url": "https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD"
+        "name": "QUARTA DIMENSIONE",
+        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
       },
       "artists": [
         {
-          "name": "UNK",
-          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
         }
       ],
-      "duration_ms": 145500,
-      "name": "sfacciati",
-      "url": "https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX"
+      "duration_ms": 121000,
+      "name": "CAMBIARE VITA",
+      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Acqua Fredda",
-        "url": "https://open.spotify.com/album/4AU5GCrPCn9DOyqS5XD36m"
-      },
-      "artists": [
-        {
-          "name": "Leevio",
-          "url": "https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Acqua Fredda",
-      "url": "https://open.spotify.com/track/56uVp5ERZsLrZyhUbMTmzb"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "Attacco di Panico",
         "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 145750,
       "name": "Attacco di Panico",
       "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Acqua Fredda",
+        "url": "https://open.spotify.com/album/4AU5GCrPCn9DOyqS5XD36m"
+      },
+      "artists": [
+        {
+          "name": "Leevio",
+          "url": "https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Acqua Fredda",
+      "url": "https://open.spotify.com/track/56uVp5ERZsLrZyhUbMTmzb"
     }
   ],
   "unique_name": "rimedi per cuori spezzati",

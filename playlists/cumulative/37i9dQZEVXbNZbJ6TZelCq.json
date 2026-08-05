@@ -4408,7 +4408,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 134399,
       "name": "Balans",
       "url": "https://open.spotify.com/track/0JK8MMdQNg1hHV51b2lsBA"
@@ -5936,7 +5936,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -8480,6 +8480,24 @@
       "duration_ms": 144000,
       "name": "Ce Te-as Suna",
       "url": "https://open.spotify.com/track/2yKgHHs4dWDd69H0rK1lqN"
+    },
+    {
+      "album": {
+        "name": "Ceai langa tine",
+        "url": "https://open.spotify.com/album/3mXZJCP3IYgC22xLx1OC0D"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Ceai langa tine",
+      "url": "https://open.spotify.com/track/4SWkUkMoq4sScbU9AOSFIT"
     },
     {
       "album": {
@@ -17738,7 +17756,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 142733,
       "name": "Frikicita",
       "url": "https://open.spotify.com/track/1y8q3Fe4tA2X3oi6Q2pU4p"
@@ -18096,7 +18114,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 186293,
       "name": "Gagicuta body show",
       "url": "https://open.spotify.com/track/0vJMLsjPvDTiryvIS7dIss"
@@ -35098,7 +35116,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 198837,
       "name": "Peter Parker - Balkanic Version",
       "url": "https://open.spotify.com/track/2j6msyUIiJMUgbcoWdXMZB"

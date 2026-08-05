@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAADvGSRHVCufqxL91NggMCOL",
+  "snapshot_id": "am/aAAAAAAChpX/oBhfpZwwo6oa1bbiR",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Ahora Volar\u00e9",
-      "url": "https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pagando el precio",
         "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 215076,
       "name": "Pagando el precio",
       "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Ahora Volar\u00e9",
+      "url": "https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 261213,
-      "name": "Salva Mi Mente",
-      "url": "https://open.spotify.com/track/7aLwfy4cq9U5b4GRThUacZ"
+      "duration_ms": 250920,
+      "name": "Dilo por M\u00ed",
+      "url": "https://open.spotify.com/track/2PCgkMqH1xERaQW3PstfF7"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Dilo por M\u00ed",
-      "url": "https://open.spotify.com/track/2PCgkMqH1xERaQW3PstfF7"
+      "duration_ms": 261213,
+      "name": "Salva Mi Mente",
+      "url": "https://open.spotify.com/track/7aLwfy4cq9U5b4GRThUacZ"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Sons para seu beb\u00ea dormir e relaxar / Sonidos para relajar a tu beb\u00e9",
-  "num_followers": 84778,
+  "num_followers": 84722,
   "original_name": "Nana Nen\u00ea",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
+        "name": "Teddy\u2019s Lullaby",
+        "url": "https://open.spotify.com/album/3ohlBKe89Dzx9jb6Jjk2ru"
+      },
+      "artists": [
+        {
+          "name": "Eli Amos",
+          "url": "https://open.spotify.com/artist/7KgM7NKmnBOCTCjNGPdBEs"
+        }
+      ],
+      "duration_ms": 103117,
+      "name": "Teddy\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/3TuNQGJdrebvxgOWUQXLoU"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
         "name": "Quiet Love",
         "url": "https://open.spotify.com/album/5USSIjBHs0LS48wAFYJv4r"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 82653,
       "name": "Under The Stars",
       "url": "https://open.spotify.com/track/5qMXXiKCzADHi1CAsTRo33"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
-        "name": "Teddy\u2019s Lullaby",
-        "url": "https://open.spotify.com/album/3ohlBKe89Dzx9jb6Jjk2ru"
-      },
-      "artists": [
-        {
-          "name": "Eli Amos",
-          "url": "https://open.spotify.com/artist/7KgM7NKmnBOCTCjNGPdBEs"
-        }
-      ],
-      "duration_ms": 103117,
-      "name": "Teddy\u2019s Lullaby",
-      "url": "https://open.spotify.com/track/3TuNQGJdrebvxgOWUQXLoU"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "Rainbow Dreams",
-        "url": "https://open.spotify.com/album/7JXk9082EpMIx5JKc4E6L9"
-      },
-      "artists": [
-        {
-          "name": "Franciscus Love",
-          "url": "https://open.spotify.com/artist/5rqMj8NroXxm0rH7yTo6TZ"
-        }
-      ],
-      "duration_ms": 88303,
-      "name": "Rainbow Dreams",
-      "url": "https://open.spotify.com/track/3l05k9kzrvNhjHb0uBoQMy"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "Nightingales",
         "url": "https://open.spotify.com/album/7gOBRAV2KjPCDCz146QZBD"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 85503,
       "name": "Boattrip with Mum and Dad",
       "url": "https://open.spotify.com/track/6oXlbel2qf1SWlkWiVFBZu"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Rainbow Dreams",
+        "url": "https://open.spotify.com/album/7JXk9082EpMIx5JKc4E6L9"
+      },
+      "artists": [
+        {
+          "name": "Franciscus Love",
+          "url": "https://open.spotify.com/artist/5rqMj8NroXxm0rH7yTo6TZ"
+        }
+      ],
+      "duration_ms": 88303,
+      "name": "Rainbow Dreams",
+      "url": "https://open.spotify.com/track/3l05k9kzrvNhjHb0uBoQMy"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "Dreamy Blue Skies",
-        "url": "https://open.spotify.com/album/72d9Ox5YwMRlrLAkjosNHA"
-      },
-      "artists": [
-        {
-          "name": "Anton De Ville",
-          "url": "https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt"
-        }
-      ],
-      "duration_ms": 99968,
-      "name": "Dreamy Blue Skies",
-      "url": "https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "The Ever So Elegant Elephant",
         "url": "https://open.spotify.com/album/4upvwQ7R9DzYCXXmzx5Pgn"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 79670,
       "name": "The Ever So Elegant Elephant",
       "url": "https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Dreamy Blue Skies",
+        "url": "https://open.spotify.com/album/72d9Ox5YwMRlrLAkjosNHA"
+      },
+      "artists": [
+        {
+          "name": "Anton De Ville",
+          "url": "https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt"
+        }
+      ],
+      "duration_ms": 99968,
+      "name": "Dreamy Blue Skies",
+      "url": "https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -663,22 +663,6 @@
       "duration_ms": 114706,
       "name": "Lights Down",
       "url": "https://open.spotify.com/track/6tet9ALh2ZiQrJilAJCjCz"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
-        "name": "Manx Lullaby",
-        "url": "https://open.spotify.com/album/4Q1h7NTRcjAXMZVpksUDYn"
-      },
-      "artists": [
-        {
-          "name": "Cael Everly",
-          "url": "https://open.spotify.com/artist/49Vs0LXPVMb2dMzke4prbd"
-        }
-      ],
-      "duration_ms": 83969,
-      "name": "Manx Lullaby",
-      "url": "https://open.spotify.com/track/7iqdqpdAXjxYWnznHWkC9I"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -743,6 +727,22 @@
       "duration_ms": 131753,
       "name": "Six Little Ducks",
       "url": "https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Manx Lullaby",
+        "url": "https://open.spotify.com/album/4Q1h7NTRcjAXMZVpksUDYn"
+      },
+      "artists": [
+        {
+          "name": "Cael Everly",
+          "url": "https://open.spotify.com/artist/49Vs0LXPVMb2dMzke4prbd"
+        }
+      ],
+      "duration_ms": 83969,
+      "name": "Manx Lullaby",
+      "url": "https://open.spotify.com/track/7iqdqpdAXjxYWnznHWkC9I"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "Turkey in the Straw",
-        "url": "https://open.spotify.com/album/5OtrZEtg3EpskPP5owAeiT"
-      },
-      "artists": [
-        {
-          "name": "Robin Colt",
-          "url": "https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH"
-        }
-      ],
-      "duration_ms": 140413,
-      "name": "Turkey in the Straw",
-      "url": "https://open.spotify.com/track/5bQUoJ84i2i6SntJXlylnw"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "Clouds In The Sky",
         "url": "https://open.spotify.com/album/6JjW4ufwIc7DJjDKrPzvhs"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 112000,
       "name": "Clouds In The Sky",
       "url": "https://open.spotify.com/track/2sQx2mxgTBjIthJ1ZTlJFX"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Turkey in the Straw",
+        "url": "https://open.spotify.com/album/5OtrZEtg3EpskPP5owAeiT"
+      },
+      "artists": [
+        {
+          "name": "Robin Colt",
+          "url": "https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH"
+        }
+      ],
+      "duration_ms": 140413,
+      "name": "Turkey in the Straw",
+      "url": "https://open.spotify.com/track/5bQUoJ84i2i6SntJXlylnw"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "A Curious Little Friend",
-        "url": "https://open.spotify.com/album/2QGHW3FOTRPMTV393SqM0X"
-      },
-      "artists": [
-        {
-          "name": "Jim Fauer",
-          "url": "https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG"
-        }
-      ],
-      "duration_ms": 133782,
-      "name": "A Curious Little Friend",
-      "url": "https://open.spotify.com/track/2UgUf29QyY9PNX6FmapgMC"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "One More, Mommy!",
         "url": "https://open.spotify.com/album/2WREGOUQDi9sAf4iwzSn05"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 118250,
       "name": "One More, Mommy!",
       "url": "https://open.spotify.com/track/1f7HZs5cKbpjbwIb51koAC"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "A Curious Little Friend",
+        "url": "https://open.spotify.com/album/2QGHW3FOTRPMTV393SqM0X"
+      },
+      "artists": [
+        {
+          "name": "Jim Fauer",
+          "url": "https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG"
+        }
+      ],
+      "duration_ms": 133782,
+      "name": "A Curious Little Friend",
+      "url": "https://open.spotify.com/track/2UgUf29QyY9PNX6FmapgMC"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "BINGO",
-        "url": "https://open.spotify.com/album/5K5boqEFKBxJDcHMNdjtNI"
-      },
-      "artists": [
-        {
-          "name": "Alexis Montague",
-          "url": "https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa"
-        }
-      ],
-      "duration_ms": 130933,
-      "name": "BINGO",
-      "url": "https://open.spotify.com/track/3iDlyTLMgkz5ytngqkdj9C"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "Golden Dreams",
         "url": "https://open.spotify.com/album/3lQYMVLKmjLqCFEwDCKgUW"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "To The Moon And Back",
-        "url": "https://open.spotify.com/album/7lSHuUiyH5oRdbmJ096zlz"
+        "name": "BINGO",
+        "url": "https://open.spotify.com/album/5K5boqEFKBxJDcHMNdjtNI"
       },
       "artists": [
         {
-          "name": "Eijah Nilson",
-          "url": "https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs"
+          "name": "Alexis Montague",
+          "url": "https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa"
         }
       ],
-      "duration_ms": 115958,
-      "name": "Bedtime Serenade",
-      "url": "https://open.spotify.com/track/6dUV7BamznIH4XkQvhpqZh"
+      "duration_ms": 130933,
+      "name": "BINGO",
+      "url": "https://open.spotify.com/track/3iDlyTLMgkz5ytngqkdj9C"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -1543,6 +1527,22 @@
       "duration_ms": 106000,
       "name": "You Can Close Your Eyes",
       "url": "https://open.spotify.com/track/17JdBU8XhaQHTSFVRUIXg5"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "To The Moon And Back",
+        "url": "https://open.spotify.com/album/7lSHuUiyH5oRdbmJ096zlz"
+      },
+      "artists": [
+        {
+          "name": "Eijah Nilson",
+          "url": "https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs"
+        }
+      ],
+      "duration_ms": 115958,
+      "name": "Bedtime Serenade",
+      "url": "https://open.spotify.com/track/6dUV7BamznIH4XkQvhpqZh"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
+        "name": "Tucked In Tight",
+        "url": "https://open.spotify.com/album/4uLBc4qsjOh6jxxUoqVxkP"
+      },
+      "artists": [
+        {
+          "name": "Little Mishka",
+          "url": "https://open.spotify.com/artist/5aWytEfJwLbprQOpAtGQ3n"
+        }
+      ],
+      "duration_ms": 101400,
+      "name": "Tucked In Tight",
+      "url": "https://open.spotify.com/track/5PzRql1K67CzFfWuYsRlNe"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
         "name": "The Rabbit And The Turtle",
         "url": "https://open.spotify.com/album/5EaxjxyMDgUUixjYKxuhMP"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 93695,
       "name": "Sweet Slumber",
       "url": "https://open.spotify.com/track/1iQnGjpwi75756UHViEqjN"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
-        "name": "Tucked In Tight",
-        "url": "https://open.spotify.com/album/4uLBc4qsjOh6jxxUoqVxkP"
-      },
-      "artists": [
-        {
-          "name": "Little Mishka",
-          "url": "https://open.spotify.com/artist/5aWytEfJwLbprQOpAtGQ3n"
-        }
-      ],
-      "duration_ms": 101400,
-      "name": "Tucked In Tight",
-      "url": "https://open.spotify.com/track/5PzRql1K67CzFfWuYsRlNe"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "Baby Miracle",
-        "url": "https://open.spotify.com/album/4SgtuuF2PuzM4NJKEh0FNi"
-      },
-      "artists": [
-        {
-          "name": "Nattkvisten",
-          "url": "https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe"
-        }
-      ],
-      "duration_ms": 111893,
-      "name": "Baby Miracle",
-      "url": "https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/6h7Psm9coLEenLZ5po1grF"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 74054,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6911enshoKYsen0CF2rLwq"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Baby Miracle",
+        "url": "https://open.spotify.com/album/4SgtuuF2PuzM4NJKEh0FNi"
+      },
+      "artists": [
+        {
+          "name": "Nattkvisten",
+          "url": "https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe"
+        }
+      ],
+      "duration_ms": 111893,
+      "name": "Baby Miracle",
+      "url": "https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec"
     },
     {
       "added_at": "2026-06-15 08:57:04",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-06-15 08:57:04",
       "album": {
-        "name": "Bedtime Melodies",
-        "url": "https://open.spotify.com/album/3tBxqFudcu4upFnwbsMEG3"
-      },
-      "artists": [
-        {
-          "name": "Isaac Tira",
-          "url": "https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7"
-        }
-      ],
-      "duration_ms": 105706,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/6Gkekn4vTkqR1leDE7hjs0"
-    },
-    {
-      "added_at": "2026-06-15 08:57:04",
-      "album": {
         "name": "Bedside Lamp",
         "url": "https://open.spotify.com/album/6JxxZ2GZVyaUVRRXxuEsS7"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 75567,
       "name": "Bedside Lamp",
       "url": "https://open.spotify.com/track/3XSiZolukB6iiNITmWLKbK"
+    },
+    {
+      "added_at": "2026-06-15 08:57:04",
+      "album": {
+        "name": "Bedtime Melodies",
+        "url": "https://open.spotify.com/album/3tBxqFudcu4upFnwbsMEG3"
+      },
+      "artists": [
+        {
+          "name": "Isaac Tira",
+          "url": "https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7"
+        }
+      ],
+      "duration_ms": 105706,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/6Gkekn4vTkqR1leDE7hjs0"
     },
     {
       "added_at": "2026-06-15 08:57:04",

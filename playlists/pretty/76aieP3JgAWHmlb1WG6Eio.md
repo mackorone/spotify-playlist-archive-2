@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76aieP3JgAWHmlb1WG6Eio.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 193 songs - 12 hr 59 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 194 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,5 +201,6 @@ pretty - [cumulative](/playlists/cumulative/76aieP3JgAWHmlb1WG6Eio.md) - [plain]
 | 191 | [Destroyer Of Worlds](https://open.spotify.com/track/3NQtYTbGk64fHf8ZIppj69) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 2:54 |
 | 192 | [Oppenheimer](https://open.spotify.com/track/6oJFUjqz8yKCBDunPRMQBX) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 2:16 |
 | 193 | [A Dream Within a Dream](https://open.spotify.com/track/3bU0OB2KvbxjIWR6EsUx4G) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 2:39 |
+| 194 | [1.1\_3\-oneor0.wma](https://open.spotify.com/track/66LSGgGsvhqvnDP0inq4pw) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Mr\. Robot, Vol\. 1 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/012oKUlmu9qA84z4kYrOAj) | 3:07 |
 
-Snapshot ID: `AAAAl5YUMjB7mo5/dfIw7FpAzmdaMj/W`
+Snapshot ID: `AAAAmGcDWPzstDJPwUw/tvh7UpTr9JfB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:4QVnoNeoWQkbb9oOG4Ce2f">Gloorp</a> on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,146 likes - 68 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,179 likes - 68 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

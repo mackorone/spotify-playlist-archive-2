@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem  Lauana Prado, KAROL G, Greta Van Fleet, Michele Andrade, Jão, Péricles com Ferrugem e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,309,810 likes - 83 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,305,957 likes - 83 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 47 | [Reza Braba](https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 3:24 |
 | 48 | [Pra Quem Não Gostava de Brega](https://open.spotify.com/track/6PVF7UaRecATdAovirpR6y) | [Silfarley o Rei da Seresta](https://open.spotify.com/artist/1VBoKHRz3tFd4H5abiCECH) | [Pra Quem Não Gostava de Brega](https://open.spotify.com/album/1CYOE1REJHN93wLleLIHNQ) | 2:33 |
 | 49 | [Sexxxy](https://open.spotify.com/track/4PC4ZRwhSAxItvqX50InKw) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Sexxxy](https://open.spotify.com/album/0RIqj1T4eWaWF75WqI48I4) | 2:25 |
-| 50 | [Concreto, Ferro e Saudade](https://open.spotify.com/track/5F93PvARHaMpnkzCdK7rkQ) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Bela Vista, 133](https://open.spotify.com/album/47l7dEphOlDIUb0anLNH0w) | 2:23 |
+| 50 | [Concreto, ferro e saudade](https://open.spotify.com/track/5F93PvARHaMpnkzCdK7rkQ) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Bela Vista, 133](https://open.spotify.com/album/47l7dEphOlDIUb0anLNH0w) | 2:23 |
 | 51 | [Má Sorte \- Ao Vivo](https://open.spotify.com/track/7jBdu9TF56J0tOqobNbr13) | [Nando Moreno](https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t), [Trio Remelexo Bom Demais](https://open.spotify.com/artist/6rheWNmSCp0OPrWzV6b1OT) | [Má Sorte \(Ao Vivo\)](https://open.spotify.com/album/0hPwIMfIHw5CPnFjw02g5n) | 3:11 |
 | 52 | [HABLAR DE TI \(...\)](https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [HABLAR DE TI \(...\)](https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub) | 3:38 |
 | 53 | [Aproveita Essa Cama \- Ao Vivo](https://open.spotify.com/track/7akxQq7gsv5Au7Lxx19IEB) | [Ana Clara](https://open.spotify.com/artist/0TtPqZpxJ9ui2gTjwgTOsr), [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Aproveita Essa Cama \(Ao Vivo\)](https://open.spotify.com/album/4vkFHwP3IILb5GbJOktKeq) | 2:24 |

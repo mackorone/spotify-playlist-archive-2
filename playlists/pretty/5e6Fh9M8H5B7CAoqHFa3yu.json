@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKsdRUf/VjMxvEM9fLgs32MTQuaVm9",
+  "snapshot_id": "AAAKs0be5pRh18+KlPj7TNAVO2zbMeRe",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -42803,6 +42803,38 @@
       "duration_ms": 213080,
       "name": "Ides Of March",
       "url": "https://open.spotify.com/track/4Rq5Ytad92LP8xHIf0WhKf"
+    },
+    {
+      "added_at": "2026-08-04 17:38:01",
+      "album": {
+        "name": "Behind You, Beside You",
+        "url": "https://open.spotify.com/album/2hUhWRjmhRza1rqC0UnAYj"
+      },
+      "artists": [
+        {
+          "name": "Seven AM",
+          "url": "https://open.spotify.com/artist/6QF8DtTiM1u89alH5DboWv"
+        }
+      ],
+      "duration_ms": 307902,
+      "name": "Behind You, Beside You",
+      "url": "https://open.spotify.com/track/1gutdX4YwZVzpU03CxCvj0"
+    },
+    {
+      "added_at": "2026-08-04 17:53:06",
+      "album": {
+        "name": "\u0414\u043e\u0436\u0434\u044c",
+        "url": "https://open.spotify.com/album/4BDdK99tGiHflIIMndceMw"
+      },
+      "artists": [
+        {
+          "name": "The Atlant",
+          "url": "https://open.spotify.com/artist/3tETwPIWyOJTBwJ0dgOS1X"
+        }
+      ],
+      "duration_ms": 218759,
+      "name": "\u0414\u043e\u0436\u0434\u044c",
+      "url": "https://open.spotify.com/track/0Nc8Dz4CeakHfHNJiTGbSC"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

@@ -9999,6 +9999,24 @@
     },
     {
       "album": {
+        "name": "Pessoalmente",
+        "url": "https://open.spotify.com/album/3TMYP6xi5jRFewRtT7g8Xj"
+      },
+      "artists": [
+        {
+          "name": "Val Dornellas",
+          "url": "https://open.spotify.com/artist/5fmSpn3Sfsg3ARxjWun59m"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151285,
+      "name": "Pessoalmente",
+      "url": "https://open.spotify.com/track/2ayUo8UZVa9GX6RPmPQ256"
+    },
+    {
+      "album": {
         "name": "A Pizadinha dos Vaqueiros",
         "url": "https://open.spotify.com/album/3N4L0bQPkQTCc6A6LozQMC"
       },

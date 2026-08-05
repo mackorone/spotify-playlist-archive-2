@@ -1,12 +1,12 @@
 {
   "description": "This is Little Jesus. The essential tracks, all in one playlist.",
-  "num_followers": 37233,
+  "num_followers": 37231,
   "original_name": "This Is Little Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAACa+RSziei+U33096IQcLzp",
+  "snapshot_id": "am/aAAAAAAAu6f76ZX9jQQgyceem4bBT",
   "tracks": [
     {
       "added_at": null,
@@ -363,38 +363,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "EV+",
-        "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
+        "name": "Rey Del Glam",
+        "url": "https://open.spotify.com/album/5woIUUe3VHDtI8L054tejM"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
         },
         {
           "name": "Little Jesus",
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 283408,
-      "name": "Qu\u00e9 Hacemos",
-      "url": "https://open.spotify.com/track/7DBRvlHX8PiPm3jm3K8UQD"
+      "duration_ms": 248040,
+      "name": "Rey Del Glam",
+      "url": "https://open.spotify.com/track/0SeIoEjhexEvtCxkQ0rQn1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+        "name": "Gran Turismo",
+        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
       "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
         {
           "name": "Little Jesus",
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Golden Choice",
-      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
+      "duration_ms": 175813,
+      "name": "Mi Droga Favorita",
+      "url": "https://open.spotify.com/track/0xVdc0ZjwBJRP3AY4ytaBP"
     },
     {
       "added_at": null,
@@ -435,42 +439,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gran Turismo",
-        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
+        "name": "EV+",
+        "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         },
         {
           "name": "Little Jesus",
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 175813,
-      "name": "Mi Droga Favorita",
-      "url": "https://open.spotify.com/track/0xVdc0ZjwBJRP3AY4ytaBP"
+      "duration_ms": 283408,
+      "name": "Qu\u00e9 Hacemos",
+      "url": "https://open.spotify.com/track/7DBRvlHX8PiPm3jm3K8UQD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Rey Del Glam",
-        "url": "https://open.spotify.com/album/5woIUUe3VHDtI8L054tejM"
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
       "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        },
         {
           "name": "Little Jesus",
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 248040,
-      "name": "Rey Del Glam",
-      "url": "https://open.spotify.com/track/0SeIoEjhexEvtCxkQ0rQn1"
+      "duration_ms": 228466,
+      "name": "Golden Choice",
+      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
       "duration_ms": 276906,
       "name": "Volver al Futuro",
       "url": "https://open.spotify.com/track/44Odnyqirhbo2mOGlUd2GZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 321200,
-      "name": "Mala Onda",
-      "url": "https://open.spotify.com/track/2rYHKN73hrtu3lb1OjFzzH"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Nuevo M\u00e9xico",
+      "url": "https://open.spotify.com/track/0PBHDqIm5rrlC4iln6pWsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redes Sociales",
         "url": "https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 190732,
       "name": "Los Esclavos",
       "url": "https://open.spotify.com/track/3rEwX4Ag28iVs3rcp5o952"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Nuevo M\u00e9xico",
-      "url": "https://open.spotify.com/track/0PBHDqIm5rrlC4iln6pWsY"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 321200,
+      "name": "Mala Onda",
+      "url": "https://open.spotify.com/track/2rYHKN73hrtu3lb1OjFzzH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo que necesitas es amor",
         "url": "https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 303920,
       "name": "Lo que necesitas es amor",
       "url": "https://open.spotify.com/track/1uFjS7vaCWrw9I3CiXOMdY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "Tr\u00e1game Tierra",
-      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 209480,
       "name": "Viaje Redondo",
       "url": "https://open.spotify.com/track/0fYZSKWg61Np03wbY4YuUW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 326040,
+      "name": "Tr\u00e1game Tierra",
+      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
     },
     {
       "added_at": null,

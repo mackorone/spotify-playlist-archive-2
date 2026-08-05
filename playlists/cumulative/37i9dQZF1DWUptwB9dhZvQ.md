@@ -2,9 +2,9 @@
 
 ### [Kollywood Themes](https://open.spotify.com/playlist/37i9dQZF1DWUptwB9dhZvQ)
 
-> Its time to relish the best themes of Kollywood!<br/>Cover : KH X RK Reunion
+> Its time to relish the best themes of Kollywood!<br/>Cover : DC
 
-235 songs - 7 hr 8 min
+236 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Dahaa Theme](https://open.spotify.com/track/60rFducKmBbMPC8R6D3DE3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Lalo Salamanca](https://open.spotify.com/artist/6slW8atwjY8d3XyvnlEBP2), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [Coolie \(Original Background Score\)](https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8) | 2:59 | 2025-09-10 | 2026-02-17 |
 | [Dahaa Theme \(From "Coolie"\)](https://open.spotify.com/track/0BginzzA6ngJECa9o4JwnG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Lalo Salamanca](https://open.spotify.com/artist/6slW8atwjY8d3XyvnlEBP2), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [Dahaa Theme \(From "Coolie"\)](https://open.spotify.com/album/0DmbvsQXiJCXOzWKq22VSK) | 2:59 | 2025-09-01 | 2025-09-11 |
 | [Dancing with Death](https://open.spotify.com/track/2cfU9I0toOXiBvPnaqUTPu) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Aaranya Kaandam \(Original Background Score\)](https://open.spotify.com/album/05sbJ0Hp4T5FDQPjI46ngi) | 1:02 | 2026-03-17 | 2026-04-01 |
+| [Dayangaram Swag \- \(From “Dayangaram"\)](https://open.spotify.com/track/7eVeBXfYait7Ev2r31g6sz) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9) | [Dayangaram Swag \(From “Dayangaram"\)](https://open.spotify.com/album/5AC5RUjcMlJW4gkUIYNdI2) | 1:20 | 2026-08-04 |  |
 | [Dhanush Kodi's Theme](https://open.spotify.com/track/415We0rxvC1bJ9yzXyfBa9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 1:55 | 2021-11-27 |  |
 | [Doctor Theme \- Background Score](https://open.spotify.com/track/2sW8zbqjQsOnwTcjC2JWBO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Doctor \(Original Background Score\)](https://open.spotify.com/album/57HnFkNaWMtqA3h7rrRIAh) | 0:43 | 2021-11-01 |  |
 | [Don't Leave me Alone](https://open.spotify.com/track/5nCrw9rLMNegzrl1KHAf9r) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Viduthalai \(Original Background Score\)](https://open.spotify.com/album/640AWcG0puLErrZs6J6uCd) | 1:29 | 2024-03-19 | 2024-05-16 |
@@ -224,7 +225,7 @@
 | [Uttama Villain Theme \- Instrumental Version](https://open.spotify.com/track/5O1Ra1nvyoqY3SwpOmJVqv) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Uttama Villain \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WIDaqmsGvA9cJQwFUy33p) | 1:19 | 2021-11-01 | 2024-11-08 |
 | [Vaathi Kabbadi \- Background Score](https://open.spotify.com/track/4U8wO7PDX3fz9L3Ne1U0eg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 3:26 | 2021-11-01 |  |
 | [Valimai Motion Poster Theme \(From "Valimai"\)](https://open.spotify.com/track/7rto8ANj8esy1YSfDekGSL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Valimai Motion Poster Theme \(From "Valimai"\)](https://open.spotify.com/album/2jz0ydxBSQm359To6I4XE4) | 1:27 | 2021-11-01 |  |
-| [Varman Theme \(From "Jailer"\)](https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/album/15MnhzQdz7up0CdGyozomY) | 1:22 | 2023-09-21 |  |
+| [Varman Theme \(From "Jailer"\)](https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/album/15MnhzQdz7up0CdGyozomY) | 1:22 | 2023-09-21 | 2026-08-05 |
 | [Veera Dheera Sooran Title Teaser Theme \- From "Veera Dheera Sooran"](https://open.spotify.com/track/1RjGHu2ZTCXAnzDPsfqzIK) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Veera Dheera Sooran Title Teaser Theme \(From "Veera Dheera Sooran"\)](https://open.spotify.com/album/2l7FCkag4OxHzEecVb3DH8) | 1:01 | 2024-04-26 |  |
 | [Veera Dheera Theme \- From "Veera Dheera Sooran"](https://open.spotify.com/track/6vf6elFw4xCnGrNpS30ztJ) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Veera Dheera Theme \(From "Veera Dheera Sooran"\)](https://open.spotify.com/album/74Kl743x5GWhcGMQ9Jf0iR) | 1:32 | 2024-12-16 | 2025-02-25 |
 | [Veeram](https://open.spotify.com/track/43tQTZ0Pg6TuaUS3Y7QX33) | [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Koushik](https://open.spotify.com/artist/7v78lEL8XMOgWod6Cp5Jya), [Deepak](https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3), [Jagadish](https://open.spotify.com/artist/5tUZe5gKJc12KkH5MZHnoE), [Santhosh](https://open.spotify.com/artist/1iZxszouU60Y4iU7STKgkj), [Senbagaraj](https://open.spotify.com/artist/6s9TSMCK36wxGo9CuJnhPu) | [Veeram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ikewHaQ3vBVEY9ASjPHTA) | 2:47 | 2021-11-01 | 2022-11-14 |

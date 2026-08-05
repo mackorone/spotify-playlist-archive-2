@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 30705,
+  "num_followers": 30711,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAAAHUByjdJADs9KaHcs2WxsB",
+  "snapshot_id": "am/aAAAAAABxuBEgZ2B6AkmD5qwDkepy",
   "tracks": [
     {
       "added_at": null,
@@ -170,19 +170,11 @@
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Pete & Bas",
-          "url": "https://open.spotify.com/artist/4if49KlQEdVNk97CQYSFvt"
-        },
-        {
-          "name": "JonRay",
-          "url": "https://open.spotify.com/artist/04xIuIcdIX6cp289fwiWaW"
         }
       ],
-      "duration_ms": 194782,
-      "name": "Kin (I\u2019m Outside) [with Pete & Bas and JonRay]",
-      "url": "https://open.spotify.com/track/00mcD1i8K8jBD4CSyk8w38"
+      "duration_ms": 153850,
+      "name": "A Crawl Through a Low Tide",
+      "url": "https://open.spotify.com/track/4ySj2WIkfOAJbKr8eSMVay"
     },
     {
       "added_at": null,
@@ -242,11 +234,19 @@
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Pete & Bas",
+          "url": "https://open.spotify.com/artist/4if49KlQEdVNk97CQYSFvt"
+        },
+        {
+          "name": "JonRay",
+          "url": "https://open.spotify.com/artist/04xIuIcdIX6cp289fwiWaW"
         }
       ],
-      "duration_ms": 153850,
-      "name": "A Crawl Through a Low Tide",
-      "url": "https://open.spotify.com/track/4ySj2WIkfOAJbKr8eSMVay"
+      "duration_ms": 194782,
+      "name": "Kin (I\u2019m Outside) [with Pete & Bas and JonRay]",
+      "url": "https://open.spotify.com/track/00mcD1i8K8jBD4CSyk8w38"
     },
     {
       "added_at": null,
@@ -479,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+        "name": "Gone Fishin",
+        "url": "https://open.spotify.com/album/7DYNAxMmjgVBxigzClZMEM"
       },
       "artists": [
+        {
+          "name": "Grieves",
+          "url": "https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE"
+        },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 257600,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6hZwGfbZLn5i8VTPhw9nZw"
+      "duration_ms": 117894,
+      "name": "Gone Fishin",
+      "url": "https://open.spotify.com/track/0MIIWaPAMSK4N0i26d1lqj"
     },
     {
       "added_at": null,
@@ -511,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Fishin",
-        "url": "https://open.spotify.com/album/7DYNAxMmjgVBxigzClZMEM"
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
       },
       "artists": [
-        {
-          "name": "Grieves",
-          "url": "https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE"
-        },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 117894,
-      "name": "Gone Fishin",
-      "url": "https://open.spotify.com/track/0MIIWaPAMSK4N0i26d1lqj"
+      "duration_ms": 257600,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6hZwGfbZLn5i8VTPhw9nZw"
     },
     {
       "added_at": null,

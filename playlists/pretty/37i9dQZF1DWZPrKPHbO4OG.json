@@ -1,15 +1,15 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38552,
+  "num_followers": 38572,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALn4mEiCIgTSXkALTSlHZsm16Sby",
+  "snapshot_id": "AAAAADuhGZCIEIzPPNMXz9XGcfIFr1Kx",
   "tracks": [
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Taambdi Chaamdi",
         "url": "https://open.spotify.com/album/1z1BAADazRIogvfkRqvl8w"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/14M0pSvqNEhPdByBNw159R"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Gulabi Sadi",
         "url": "https://open.spotify.com/album/5NDcb02xBpTu752ETxKuGN"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4ITtnvLQ6SOA8XhiqkLa24"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "YEDA YUNG",
         "url": "https://open.spotify.com/album/2iCtI3xT8CcPyiyEuVIR2h"
@@ -69,7 +69,27 @@
       "url": "https://open.spotify.com/track/7n5QRJlaXL5a3LCjOwsdcs"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Chandramukhi",
+        "url": "https://open.spotify.com/album/5R413h4nX1riddyX3fzhAD"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 315653,
+      "name": "Chandra",
+      "url": "https://open.spotify.com/track/3SDgHr72dJmr27JRvFUBZU"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Jatra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7yxiEuwgIxdPldUFVSKNGv"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/4fKxzNxlp8vsR8Lm0pPxAV"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Jau Dya Na Balasaheb (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3zRLneJPeKVFVGhJxGFLIK"
@@ -105,7 +125,39 @@
       "url": "https://open.spotify.com/track/0jKX3Y9SxdqBBFJ3oz2cyR"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Kaarte Nibaar",
+        "url": "https://open.spotify.com/album/0HNnUBVc98sYEzDMBnwVxJ"
+      },
+      "artists": [
+        {
+          "name": "SAMBATA",
+          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Kaarte Nibaar",
+      "url": "https://open.spotify.com/track/3u3CjdwU5kCT5JIWctnSfW"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Natarang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0bbVCC53O6wV2nMLHfoo8I"
+      },
+      "artists": [
+        {
+          "name": "Bela Shende",
+          "url": "https://open.spotify.com/artist/60f431EIEmwOfJJOJhdyQR"
+        }
+      ],
+      "duration_ms": 398080,
+      "name": "Wajle Ki Bara",
+      "url": "https://open.spotify.com/track/5se64jXNVjK96bNOBxBkX7"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Ved (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR"
@@ -129,23 +181,67 @@
       "url": "https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Kaarte Nibaar",
-        "url": "https://open.spotify.com/album/0HNnUBVc98sYEzDMBnwVxJ"
+        "name": "Madanmanjiri (From \"Phullwanti\")",
+        "url": "https://open.spotify.com/album/65IiH0e1yYb7dFzL9l4rEV"
       },
       "artists": [
         {
-          "name": "SAMBATA",
-          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
+          "name": "Vaishali Made",
+          "url": "https://open.spotify.com/artist/3eD8Whpe2NYdslFWQfKnQl"
+        },
+        {
+          "name": "Avinash Vishwajeet",
+          "url": "https://open.spotify.com/artist/2iwsLM6ElwZhvevHv4N6gg"
+        },
+        {
+          "name": "Vishwajeet Joshi",
+          "url": "https://open.spotify.com/artist/6pZC32UwCkacYrMSTOJY2B"
         }
       ],
-      "duration_ms": 183066,
-      "name": "Kaarte Nibaar",
-      "url": "https://open.spotify.com/track/3u3CjdwU5kCT5JIWctnSfW"
+      "duration_ms": 359848,
+      "name": "Madanmanjiri - From \"Phullwanti\"",
+      "url": "https://open.spotify.com/track/6kB4DcotytyuuwzJPIJpTb"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Top 30 Marathi Hit's",
+        "url": "https://open.spotify.com/album/0vTxBgQEYZ0xqAZvgqeW6m"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Londhe",
+          "url": "https://open.spotify.com/artist/22nw9IYsHI6TpbvuJuTtA0"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Shantabai",
+      "url": "https://open.spotify.com/track/4fsBQ3trBRsga19INrgFSf"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Ajay Gogavale Marathi Hits",
+        "url": "https://open.spotify.com/album/1yyZeTlOf1fPF188RD1oHV"
+      },
+      "artists": [
+        {
+          "name": "Atul Gogavale",
+          "url": "https://open.spotify.com/artist/2muHoS1rv7HcYG5hqW0Zob"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 226523,
+      "name": "Zingaat",
+      "url": "https://open.spotify.com/track/1Mi5Q2PMz4euXqJ3IwdFfX"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Rege (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP"
@@ -165,7 +261,7 @@
       "url": "https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Hey Pavlaay",
         "url": "https://open.spotify.com/album/3sgeiiKEmNqOW2A5uphB4P"
@@ -185,7 +281,7 @@
       "url": "https://open.spotify.com/track/35LJQhz82wUfSztjpHV4ss"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Govyachya Kinaryav",
         "url": "https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv"
@@ -209,7 +305,7 @@
       "url": "https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Angaat Aalaya - Zombivli",
         "url": "https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx"
@@ -229,7 +325,7 @@
       "url": "https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Koliwada Jhingla",
         "url": "https://open.spotify.com/album/6MApVLobvbC1PzRIVkouUo"
@@ -245,7 +341,7 @@
       "url": "https://open.spotify.com/track/3lhpuZdgqKdcX0WocldP8e"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Numberkari",
         "url": "https://open.spotify.com/album/2ajYzVGA7PC5TpZQfpSVsB"
@@ -273,7 +369,7 @@
       "url": "https://open.spotify.com/track/2RBSlozluCiLoguWs977VK"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Once More Laav",
         "url": "https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP"
@@ -289,7 +385,7 @@
       "url": "https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Angar Bhangar Nay Rr - Single",
         "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
@@ -305,7 +401,7 @@
       "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Majhi Baay Go",
         "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
@@ -337,7 +433,7 @@
       "url": "https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Koligeet Mashup 3",
         "url": "https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8"
@@ -353,7 +449,7 @@
       "url": "https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Pailwaan",
         "url": "https://open.spotify.com/album/3Zea6Fd6xXSBYGD5C8ckRG"
@@ -373,7 +469,63 @@
       "url": "https://open.spotify.com/track/0m2ka0jFqUkfv32FI990AS"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Morya",
+        "url": "https://open.spotify.com/album/3XsC9DdsoR70XpXdqmIuNm"
+      },
+      "artists": [
+        {
+          "name": "Janhavi Arora",
+          "url": "https://open.spotify.com/artist/07qG3AroF8Mx0q26F3Gmvw"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Email Kaal Internetvar Kela",
+      "url": "https://open.spotify.com/track/2hh7Pp6vIoSTXnSBsTesQ9"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Pachadlela (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5iQTSsJbAsXwrDveCmKh7T"
+      },
+      "artists": [
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        },
+        {
+          "name": "Hrishikesh",
+          "url": "https://open.spotify.com/artist/23y7sT3YJztGVJUMMYuxL4"
+        }
+      ],
+      "duration_ms": 303700,
+      "name": "Rupaan Dekhani",
+      "url": "https://open.spotify.com/track/5fAcWB4rIuUojHbmFmctU5"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Mamachya Gavala - Kratex Remix",
+        "url": "https://open.spotify.com/album/6BNKdnEmPOqzRauarspPCQ"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "duration_ms": 195234,
+      "name": "Mamachya Gavala - Kratex Remix",
+      "url": "https://open.spotify.com/track/2a0SIkpwz7tWP9fKrNrx07"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Kajwa",
         "url": "https://open.spotify.com/album/0agxxXxuHkbRoic1f6uYC0"
@@ -401,27 +553,7 @@
       "url": "https://open.spotify.com/track/7yW1U21NXBawQB8fdlE0vx"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
-        "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
-      },
-      "artists": [
-        {
-          "name": "Kratex",
-          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
-        },
-        {
-          "name": "PATYA THE DOC",
-          "url": "https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0"
-        }
-      ],
-      "duration_ms": 154137,
-      "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
-      "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Jaal Jaal (From \"Chowk\")",
         "url": "https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf"
@@ -445,7 +577,27 @@
       "url": "https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Chadhavila Patta Kamarevari (From \"Phulrani\")",
+        "url": "https://open.spotify.com/album/0vUwktZamgrFlxUVvxp8Jz"
+      },
+      "artists": [
+        {
+          "name": "Priyanka Barve",
+          "url": "https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P"
+        },
+        {
+          "name": "Sharayu Date",
+          "url": "https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC"
+        }
+      ],
+      "duration_ms": 248852,
+      "name": "Chadhavila Patta Kamarevari - From \"Phulrani\"",
+      "url": "https://open.spotify.com/track/5hYJX3JydlQlZu87Tcgmug"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Pushpa - The Rise",
         "url": "https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ"
@@ -465,7 +617,43 @@
       "url": "https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
+        "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "PATYA THE DOC",
+          "url": "https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0"
+        }
+      ],
+      "duration_ms": 154137,
+      "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
+      "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Halgi Original Mix 2021",
+        "url": "https://open.spotify.com/album/0e5VIf0iCEAXwMSrCq1sCO"
+      },
+      "artists": [
+        {
+          "name": "Dj Sagar Barshi",
+          "url": "https://open.spotify.com/artist/2xxMr85ClJANTBZzwqQrz6"
+        }
+      ],
+      "duration_ms": 253283,
+      "name": "Halgi Original Mix 2021",
+      "url": "https://open.spotify.com/track/65MsTGfDr0E3OyVYXqtugi"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Masuta (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a"
@@ -485,7 +673,7 @@
       "url": "https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Majhi Navri",
         "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
@@ -513,7 +701,7 @@
       "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Lai Bhari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
@@ -529,7 +717,7 @@
       "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Ajay - Atul Hits",
         "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
@@ -549,7 +737,47 @@
       "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Ghotala Ghotala Zala (From \"Partu\")",
+        "url": "https://open.spotify.com/album/5hIPPeiKwlJlVx9oPVWGZK"
+      },
+      "artists": [
+        {
+          "name": "Janhavi Prabhu Arora",
+          "url": "https://open.spotify.com/artist/0NbtAahNlx9au3aMjEoaOW"
+        },
+        {
+          "name": "Shashank Powar",
+          "url": "https://open.spotify.com/artist/4mtMl6gbwQAGF9UTggGuCt"
+        },
+        {
+          "name": "Guru Thakur",
+          "url": "https://open.spotify.com/artist/1NKmpPhLjRNBoFoc6TVH25"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Ghotala Ghotala Zala - From \"Partu\"",
+      "url": "https://open.spotify.com/track/6OAtCKHAwyxfUK3Jw8ggNw"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Luckdown Be Positive",
+        "url": "https://open.spotify.com/album/6c8ho7Qu44e0OUthXsdXiJ"
+      },
+      "artists": [
+        {
+          "name": "Maithili Panse-Joshi",
+          "url": "https://open.spotify.com/artist/2hP1VuPCm078aYFBG0okxf"
+        }
+      ],
+      "duration_ms": 205814,
+      "name": "Attaracha Faya",
+      "url": "https://open.spotify.com/track/7uh4DZJlZBPTYRSP3NXqre"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Mi Naadkhula",
         "url": "https://open.spotify.com/album/6m3N9YsnIcuut4zpsxKv2l"
@@ -581,7 +809,7 @@
       "url": "https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "O Sheth (DJ Remix)",
         "url": "https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK"
@@ -605,23 +833,7 @@
       "url": "https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Zindagi Virat",
-        "url": "https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra"
-      },
-      "artists": [
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        }
-      ],
-      "duration_ms": 249444,
-      "name": "Malhar",
-      "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Lagan",
         "url": "https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R"
@@ -637,7 +849,23 @@
       "url": "https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt"
     },
     {
-      "added_at": "2026-06-10 09:54:00",
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Zindagi Virat",
+        "url": "https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "duration_ms": 249444,
+      "name": "Malhar",
+      "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
       "album": {
         "name": "Girlz",
         "url": "https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd"
@@ -659,222 +887,6 @@
       "duration_ms": 216166,
       "name": "Aaichya Gavat",
       "url": "https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Chandramukhi",
-        "url": "https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 315653,
-      "name": "Chandra (Featuring. Shreya Ghoshal)",
-      "url": "https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Punyachi Maina",
-        "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
-      },
-      "artists": [
-        {
-          "name": "Dj Abhijeet",
-          "url": "https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH"
-        }
-      ],
-      "duration_ms": 96052,
-      "name": "Punyachi Maina",
-      "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Meri Madhubala",
-        "url": "https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9"
-      },
-      "artists": [
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        }
-      ],
-      "duration_ms": 238864,
-      "name": "Meri Madhubala",
-      "url": "https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Wat Mazi Baghatoy Rikshavala",
-        "url": "https://open.spotify.com/album/1oNTgjkByWIbvZhMeW5xbP"
-      },
-      "artists": [
-        {
-          "name": "Reshma Sonawane",
-          "url": "https://open.spotify.com/artist/0us5qLUz4waTwJ7hGoBrxl"
-        }
-      ],
-      "duration_ms": 226491,
-      "name": "Baghtoy Rikshawala Ga Waat Mazhi Baghatoy Rikshawala",
-      "url": "https://open.spotify.com/track/3l8vEUmm8vh4QNoF9TeMIp"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Marathi Dance Hits",
-        "url": "https://open.spotify.com/album/6R7H1X3c3mBXv5CnRvKASA"
-      },
-      "artists": [
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 296328,
-      "name": "Mast Challay Amcha",
-      "url": "https://open.spotify.com/track/6ldbYO3x98OBBePPUITiid"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Mauli (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7mZGc0WvyyQznsSo2L7Rwg"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 214669,
-      "name": "Dhuvun Taak",
-      "url": "https://open.spotify.com/track/6GWKXINigx4Pf7yuqRHgq3"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Pinnak",
-        "url": "https://open.spotify.com/album/2tmCxw86Ns8FiYzR8NYPSx"
-      },
-      "artists": [
-        {
-          "name": "SAMBATA",
-          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
-        }
-      ],
-      "duration_ms": 390321,
-      "name": "Pinnak",
-      "url": "https://open.spotify.com/track/4kw1Tl4ryNxjTtAdFJkD19"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Pawankhind",
-        "url": "https://open.spotify.com/album/3PSsr8LdIZTDoXSoHIj6em"
-      },
-      "artists": [
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        },
-        {
-          "name": "Devdutta Manisha Baji",
-          "url": "https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76"
-        }
-      ],
-      "duration_ms": 260943,
-      "name": "Raja Aala",
-      "url": "https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Maharashtra Shaheer",
-        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 223831,
-      "name": "Baharla Ha Madhumas",
-      "url": "https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Zenda (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3oCYJ9yh2VfLl5lBVfGeIq"
-      },
-      "artists": [
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Patil Aala",
-      "url": "https://open.spotify.com/track/6EdZ7a4LCQhKgiFLG0lzMu"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Ishkkachi Nauka - Single",
-        "url": "https://open.spotify.com/album/5w0D78j35PmXTQeEqUfNXI"
-      },
-      "artists": [
-        {
-          "name": "Keval Walanj",
-          "url": "https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4"
-        },
-        {
-          "name": "Shubhangii Kedar",
-          "url": "https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Ishkkachi Nauka",
-      "url": "https://open.spotify.com/track/2m03aJi8s6pE0LIVtICt1o"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Ringa Ringa",
-        "url": "https://open.spotify.com/album/0unnoqFH7KO7kXaDV68BvL"
-      },
-      "artists": [
-        {
-          "name": "Ajay",
-          "url": "https://open.spotify.com/artist/0cZUnZAl3WmjGJwEVcBqEH"
-        },
-        {
-          "name": "Atul Gogavale",
-          "url": "https://open.spotify.com/artist/2muHoS1rv7HcYG5hqW0Zob"
-        }
-      ],
-      "duration_ms": 272226,
-      "name": "Baaygo Baaygo",
-      "url": "https://open.spotify.com/track/5Hwba9pAPtFKrEPsupYmvM"
     }
   ],
   "unique_name": "Marathi Workout",

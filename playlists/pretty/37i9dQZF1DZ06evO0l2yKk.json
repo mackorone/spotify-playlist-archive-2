@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 206086,
+  "num_followers": 206100,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAACOV62hIBaxvQIKVR3Qy0eu",
+  "snapshot_id": "am/aAAAAAABJHrfcPF9y2uCkV0JBpL/a",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Coraz\u00f3n Necio",
-        "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Ya Lo S\u00e9",
-      "url": "https://open.spotify.com/track/1NA4zhZ9JXv1dXlSYaWTDN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Unas Horas",
         "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 181146,
       "name": "Amor De Unas Horas",
       "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Coraz\u00f3n Necio",
+        "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/1NA4zhZ9JXv1dXlSYaWTDN"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Quitan El Sombrero",
-        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 174920,
-      "name": "El Cari\u00f1o Que Perd\u00ed",
-      "url": "https://open.spotify.com/track/7qNOL12F5wmau4XjobGn9x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Unas Horas",
         "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 145986,
       "name": "La Pera Madura",
       "url": "https://open.spotify.com/track/3GPFDXIvn9QEgd3l06TskS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Quitan El Sombrero",
+        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 174920,
+      "name": "El Cari\u00f1o Que Perd\u00ed",
+      "url": "https://open.spotify.com/track/7qNOL12F5wmau4XjobGn9x"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espejo De Cantina",
-        "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/19Cjoyl4TH19XyyQ1gdbhh"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 324240,
-      "name": "Popurr\u00ed: Cardenaleando La Cumbia",
-      "url": "https://open.spotify.com/track/23I3R41lcBjbXC3J0oiThk"
+      "duration_ms": 191320,
+      "name": "Te Olvid\u00e9 - Cumbia",
+      "url": "https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/19Cjoyl4TH19XyyQ1gdbhh"
+        "name": "Espejo De Cantina",
+        "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 191320,
-      "name": "Te Olvid\u00e9 - Cumbia",
-      "url": "https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc"
+      "duration_ms": 324240,
+      "name": "Popurr\u00ed: Cardenaleando La Cumbia",
+      "url": "https://open.spotify.com/track/23I3R41lcBjbXC3J0oiThk"
     },
     {
       "added_at": null,

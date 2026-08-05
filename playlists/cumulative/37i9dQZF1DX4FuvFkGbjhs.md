@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: jigitz
 
-931 songs - 2 day 5 hr 38 min
+932 songs - 2 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [All To Myself](https://open.spotify.com/track/7GWcR2Rgy4R9cijG822n4J) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [All To Myself](https://open.spotify.com/album/2f9pAj2bXhTWM3Hl5JSChJ) | 2:27 | 2024-11-22 | 2025-03-21 |
 | [Allbarone](https://open.spotify.com/track/4c2aIzS237QA5qLwC53wds) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Allbarone](https://open.spotify.com/album/4TO7Aq1Rx4tHk9evwzxtUA) | 4:28 | 2025-05-08 | 2025-07-11 |
 | [Ama said](https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Ama said](https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ) | 2:55 | 2025-06-19 | 2025-08-15 |
+| [And the Hound](https://open.spotify.com/track/6Y685hzoT53MCP0siYsMKQ) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY), [Keath Ósk](https://open.spotify.com/artist/5nS4Ohh7IG844fp1Eu1GMI) | [And the Hound](https://open.spotify.com/album/0vBMdv93mFxqw3zIbKcVNr) | 3:43 | 2026-08-03 |  |
 | [Angel Blonde \(that's life!\)](https://open.spotify.com/track/6bjt5POsImUxhxLgt13Oxu) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Angel Blonde \(that's life!\)](https://open.spotify.com/album/4FEZfwljIUtEk4MVPWk7bO) | 3:10 | 2025-03-07 | 2025-06-06 |
 | [Angel Patience](https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Angel Patience](https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp) | 3:33 | 2025-05-01 | 2025-06-27 |
 | [Angels](https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Angels](https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA) | 3:49 | 2024-10-17 | 2025-02-21 |
@@ -233,7 +234,7 @@
 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-11 | 2026-02-20 |
 | [Drunk](https://open.spotify.com/track/0hd4HXtAwtIQq4kAlJySa0) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Drunk](https://open.spotify.com/album/55DFqfotSUPU7MSv6NuK8m) | 3:22 | 2024-11-01 | 2025-03-21 |
 | [Dudu](https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Dudu](https://open.spotify.com/album/69qGL5rzRs1VSxLSHOuVTB) | 3:06 | 2025-05-15 | 2025-08-08 |
-| [Dust in the Wind](https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Dust in the Wind](https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ) | 2:50 | 2026-05-28 |  |
+| [Dust in the Wind](https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Dust in the Wind](https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ) | 2:50 | 2026-05-28 | 2026-08-05 |
 | [ear to the cocoon](https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 4:18 | 2026-02-20 |  |
 | [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 | 2026-03-06 | 2026-07-26 |
 | [easy to forget.](https://open.spotify.com/track/518XVmTTgQSOfVCZoEoKnI) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [Luna, easy to forget.](https://open.spotify.com/album/3OkfFjLwS32ExZx6Y5rQR4) | 2:44 | 2025-08-21 | 2026-01-16 |
@@ -336,7 +337,7 @@
 | [Hallelujah!](https://open.spotify.com/track/7lbPVYxNxuQMdDpC4lwv5n) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Hallelujah!](https://open.spotify.com/album/5X6t1Y5kuS47gJSwfrAEH0) | 2:37 | 2024-08-08 | 2024-09-06 |
 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 | 2025-06-19 | 2025-06-27 |
 | [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 | 2026-04-16 |  |
-| [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 | 2026-03-20 |  |
+| [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 | 2026-03-20 | 2026-08-05 |
 | [Happy People](https://open.spotify.com/track/41wgHYaNAx7QAEaUvmpUBb) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Happy People](https://open.spotify.com/album/7K84PEN3LOZvwIigoIbJpy) | 3:20 | 2025-01-17 | 2025-05-02 |
 | [Happy Survival \(feat\. Khruangbin\)](https://open.spotify.com/track/0Ck3kW2KiRLjMOGiKzW3la) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:23 | 2024-07-18 | 2024-08-09 |
 | [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 3:34 | 2025-12-19 | 2026-07-10 |
@@ -739,7 +740,7 @@
 | [Something In The Way](https://open.spotify.com/track/4HKZaeJ4YByO1p6BQweGeP) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC) | [Viole\(n\)t Colour](https://open.spotify.com/album/4SY5NCLY3ykxmIrCEHYfh3) | 3:09 | 2025-05-29 | 2025-08-01 |
 | [Something Real \(feat\. Psweatpants\)](https://open.spotify.com/track/1lVKKIs57NBOnRc4kNuCoF) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm), [Psweatpants](https://open.spotify.com/artist/45qonKMyhaFMPywkQ5DDqR) | [Something Real \(feat\. Psweatpants\)](https://open.spotify.com/album/67K2vShfSWaL2ypzijGM1k) | 3:23 | 2025-07-31 | 2025-09-05 |
 | [Somewhere Only We Go](https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Somewhere Only We Go](https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm) | 3:39 | 2025-08-07 | 2025-10-24 |
-| [Song for the Messenger](https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Song for the Messenger](https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c) | 3:02 | 2026-04-30 | 2026-07-31 |
+| [Song for the Messenger](https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Song for the Messenger](https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c) | 3:02 | 2026-04-30 |  |
 | [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 | 2025-09-11 | 2025-10-24 |
 | [Sorted](https://open.spotify.com/track/4TDwUxtt0x4WGzvXJF2iNP) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0), [Banshee The Great](https://open.spotify.com/artist/6SPJid1jep9GWy3fDFSX8p) | [Sorted](https://open.spotify.com/album/1uuMcP0nxUbVGIShpYec21) | 3:47 | 2025-11-07 | 2025-12-20 |
 | [SOS](https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [POST HEAVEN](https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV) | 4:24 | 2025-04-11 | 2025-07-18 |

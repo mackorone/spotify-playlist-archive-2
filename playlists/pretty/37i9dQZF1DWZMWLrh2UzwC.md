@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ariana Grande, Cardi B, Exists, Faizal Tahir, DOLLA, F.Hero, Eric Chou and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,293 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,032 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

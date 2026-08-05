@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,632 likes - 316 songs - 17 hr 42 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,644 likes - 328 songs - 18 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 34 | [\|\|topAz\|\|](https://open.spotify.com/track/0p2WgVGOlepbm3zVVM5CUJ) | [Doll/Fangs](https://open.spotify.com/artist/7dZtF52fL4CrMPn94uS5bN) | [prIIsms](https://open.spotify.com/album/762KHNFCdoW7ILpay8Fc9D) | 3:18 |
 | 35 | [Train Of Reason](https://open.spotify.com/track/0GEFq9brd9rtwenKAHgtM1) | [Chapter 33](https://open.spotify.com/artist/1k1Rh3puUrjP5ZszwC5av3) | [Train Of Reason](https://open.spotify.com/album/3kGJTCcRxh0eSgcz55yoDG) | 4:10 |
 | 36 | [It's on us](https://open.spotify.com/track/4n2LSxojfQkGrWiApEVf1z) | [Old Sparky](https://open.spotify.com/artist/7bZmxm2fsWsb8vkDKXK44O) | [It's on us](https://open.spotify.com/album/7KFOniv4YDoy4OM0LMm06B) | 0:55 |
-| 37 | [Persuasion](https://open.spotify.com/track/7CHGWOTCeSBwmOVrUCJxgd) | [DUSTPONY](https://open.spotify.com/artist/3KvuOFDRHgSv5UiPAv3O9T) | [Persuasion](https://open.spotify.com/album/4kTLUzjBGEp7YkZ5pc9BPG) | 3:12 |
+| 37 | [persuasion](https://open.spotify.com/track/7CHGWOTCeSBwmOVrUCJxgd) | [DUSTPONY](https://open.spotify.com/artist/3KvuOFDRHgSv5UiPAv3O9T) | [persuasion](https://open.spotify.com/album/4kTLUzjBGEp7YkZ5pc9BPG) | 3:12 |
 | 38 | [Arrest & Relax](https://open.spotify.com/track/0EJ9yYWqv59z80Tel05PYK) | [FoXix](https://open.spotify.com/artist/1Ns9B9C2te0wKwfnFCDvkR) | [Arrest & Relax](https://open.spotify.com/album/3txSinZzEfaENX5qGtfVlz) | 3:14 |
 | 39 | [I Might Chug](https://open.spotify.com/track/1YyeD1kJ81fY8nvcF07X7H) | [Nap Time](https://open.spotify.com/artist/3l8iTwr6VKvj55OFI2hWVc) | [I Might Chug](https://open.spotify.com/album/4pvmIpRyvzUq9JZqqw62yE) | 4:06 |
 | 40 | [Satisfied Man \- reheat](https://open.spotify.com/track/7vWqXpXNOIT5IEEF3UKxhP) | [Porcus vs Equus](https://open.spotify.com/artist/0nQSxoEPKIpzEflBycGG2Y) | [Satisfied Man \(reheat\)](https://open.spotify.com/album/1TvXjgcFSUNboWEMNzHrBJ) | 3:19 |
@@ -314,7 +314,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 304 | [Black Knight](https://open.spotify.com/track/7GyRC1pPJtAPtXKNtm1xIF) | [Saved by Skarlet](https://open.spotify.com/artist/695H7ZBBO6pKUjuHEuyqsP) | [Creation and Crisis](https://open.spotify.com/album/6hIk4tz3pAtDOcb0F1StoX) | 3:53 |
 | 305 | [Scratch Radio](https://open.spotify.com/track/3Eh1KBLDT2bVvsITyqgWon) | [CherryBoyz](https://open.spotify.com/artist/1Rp1rAvqJjnyye9Fqk4f8o) | [CherryBoyz\(EP2\)](https://open.spotify.com/album/0XYwySh2pQq4vTFoo6lITD) | 3:07 |
 | 306 | [I Met a Boy](https://open.spotify.com/track/7z1GhI8x0n9ML4c9cX40Ft) | [The Felines](https://open.spotify.com/artist/1sY4Vkkl3smLzY7iNaajmB) | [I Just Can't Be Sure / I Met a Boy](https://open.spotify.com/album/3TvBPlYQ13Ln41ON9sSGPz) | 3:29 |
-| 307 | [Cannonball](https://open.spotify.com/track/3T58BJnFyvohsJ812qL2lw) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Cannonball](https://open.spotify.com/album/3OzJ90jsvp5OQ4cBAk7rPP) | 3:03 |
+| 307 | [Cannonball](https://open.spotify.com/track/3T58BJnFyvohsJ812qL2lw) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Cannonball](https://open.spotify.com/album/3OzJ90jsvp5OQ4cBAk7rPP) | 3:02 |
 | 308 | [what's good \(the anthem\)](https://open.spotify.com/track/4D8CeiP6uzffTlHONnXovz) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [what's good \(the anthem\)](https://open.spotify.com/album/6ALX5UAJlWb4wRrxqtbEud) | 2:43 |
 | 309 | [Lie of The Pharisees](https://open.spotify.com/track/56ftHMAoBVgtJqFZfbpVsG) | [Saved by Skarlet](https://open.spotify.com/artist/695H7ZBBO6pKUjuHEuyqsP) | [Lie of The Pharisees](https://open.spotify.com/album/2uMW4GKPuMkWaKEfTrsezJ) | 4:27 |
 | 310 | [Can't Get You Off My Mind](https://open.spotify.com/track/2wpWXzOBsM0uiEe0OxVh29) | [Maria Krauss](https://open.spotify.com/artist/2voazIy50xtxd794uJu5Fl) | [Can't Get You Off My Mind](https://open.spotify.com/album/0zWb4QXBOFnMquMk5pOspG) | 2:32 |
@@ -324,5 +324,17 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 314 | [Method](https://open.spotify.com/track/4HYaA98uqTpB3kkOfJAV27) | [ShadowTribe](https://open.spotify.com/artist/7CEalWbyS2IE4HGyOF2dvw) | [Method](https://open.spotify.com/album/6jJk0RbeTLkISDIGlL0ATo) | 3:00 |
 | 315 | [Closed Eyes](https://open.spotify.com/track/3lKTSjfhKL00IKGbgMEry7) | [Viridian](https://open.spotify.com/artist/2CHlThnXRU8qzwiSMPoZsb) | [Closed Eyes](https://open.spotify.com/album/2CAl9ARJN6DtXovGV4O3ZR) | 2:33 |
 | 316 | [Something About You](https://open.spotify.com/track/2pIvsXURw64kbuAyUmQCHs) | [Ethan Brown](https://open.spotify.com/artist/5W55dgAAq0SZRlnxQ6LGAI) | [Something About You](https://open.spotify.com/album/6gWp4YW0FYuFMMkwaB3xkm) | 4:00 |
+| 317 | [The Last Mile \(Remastered\)](https://open.spotify.com/track/35LRXLxymf8XWNmbaTU2JE) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [Después de la Luz \(Remastered\)](https://open.spotify.com/album/2nIkGEVas0sImcN9zdY9n0) | 8:29 |
+| 318 | [Saturday Song For Sunday](https://open.spotify.com/track/32gEVbIyWbLOb8pjJND4fr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Saturday Song For Sunday](https://open.spotify.com/album/2DZ2ODLdvjpmDTuAz5WZQU) | 3:24 |
+| 319 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 |
+| 320 | [Ceiling Fan](https://open.spotify.com/track/0ysvp22dPCPUyNC8e573NK) | [The Greaves](https://open.spotify.com/artist/1LbPmFpsLPcwQ1RcOzPBkJ) | [Ceiling Fan](https://open.spotify.com/album/1dRizi069vsOrdg40IVQ35) | 4:03 |
+| 321 | [Time Makes This Time](https://open.spotify.com/track/4eIIyW0QzC2jlTFyOTE4c7) | [Aleh Adler](https://open.spotify.com/artist/72DDskr88TncEyULAdgSkK) | [Time Makes This Time](https://open.spotify.com/album/6fr4mXhXoKMG6EtHROVWMK) | 2:49 |
+| 322 | [Bittersweet Coming Of Age](https://open.spotify.com/track/2Sp4dEhMiE81nqNMUhCmA2) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Bittersweet Coming Of Age](https://open.spotify.com/album/2ExvwN1euXuTvZaUH2I7gB) | 3:14 |
+| 323 | [Lockdown](https://open.spotify.com/track/7dNNncnaQ8cr5ECcujXd3H) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Lockdown](https://open.spotify.com/album/4xh6tIrwnMUuOCCyvceBcP) | 2:05 |
+| 324 | [Stand Up & Be Counted](https://open.spotify.com/track/1PQ0PlBi5kLbr5KwWgSQTL) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Stand Up & Be Counted](https://open.spotify.com/album/1Yq6WXlcFcTgksdh0UP9Ig) | 4:42 |
+| 325 | [James Pond](https://open.spotify.com/track/0bjJlbqMg6vZAsL0B3O6Sl) | [Lovvbömbing!](https://open.spotify.com/artist/2fCM484FPEFRbjqqpU1sjt) | [PISS! PEAS! PEACE!](https://open.spotify.com/album/1JQEawqqWequOQOz2i72HZ) | 4:50 |
+| 326 | [Drive](https://open.spotify.com/track/2pAephI8rAz9wXCjEmIKtm) | [SEY.MOUR.](https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE), [The Misses](https://open.spotify.com/artist/0RyOXijFeQAqqfNms0RoA8) | [Drive](https://open.spotify.com/album/2ehRby9OP2wbq0uN7QYX4w) | 2:22 |
+| 327 | [Berezin](https://open.spotify.com/track/10SrNbg6O4aIFaim1YkjpP) | [Crush](https://open.spotify.com/artist/5yvFvBNNtlQLLiV6QZOreL) | [EL DIABLO](https://open.spotify.com/album/446hwj8FbwM0R6XECjBbed) | 2:48 |
+| 328 | [Behind](https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9) | [Em Armstrong](https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh) | [Behind](https://open.spotify.com/album/7sqy34kAW0gLFJwdLSMMnA) | 2:48 |
 
-Snapshot ID: `AAASjvUEWQrwNwebjycyTt4uiijQfJqm`
+Snapshot ID: `AAASmk0dOL80B9DC0Ty5vFiHQaD0uE+8`

@@ -2,7 +2,7 @@
 
 ### [Frecuencia Pop](https://open.spotify.com/playlist/37i9dQZF1DXbDPWblNlzy4)
 
-> Los éxitos más POPulares en español los encuentras aquí\. Foto: Fabian y ROBI.
+> Los éxitos más POPulares en español los encuentras aquí\. Foto: Aitana
 
 590 songs - 1 day 6 hr 44 min
 
@@ -497,7 +497,7 @@
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 | 2024-11-16 |
 | [Si Biri Bop](https://open.spotify.com/track/2Od4ynLerbqcKtjAdbX16Q) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Si Biri Bop](https://open.spotify.com/album/6W64HOtZtKsCRarGz334y1) | 2:55 | 2023-03-17 | 2023-06-24 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-06 | 2024-05-04 |
-| [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 | 2024-05-10 |  |
+| [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 | 2024-05-10 | 2026-08-05 |
 | [SI TE PEGAS](https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:03 | 2023-07-07 | 2023-08-05 |
 | [Si Te Vas](https://open.spotify.com/track/4hfILr2sbGahUBpwvnESA3) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [Si Te Vas](https://open.spotify.com/album/5YPQjeKjqxmVEShaUUbd0i) | 2:49 | 2024-08-16 | 2024-11-30 |
 | [Si Te Vas](https://open.spotify.com/track/6lCtZKnixHj8wkdk3VvWJo) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [A Mala Hora](https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6) | 2:49 | 2026-03-18 | 2026-03-27 |
@@ -574,7 +574,7 @@
 | [Vino Rosé](https://open.spotify.com/track/4d7BNubjTRsyd5zCK3SJCl) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Vino Rosé](https://open.spotify.com/album/704jcoZrwyMFkjpnMS9sUC) | 2:37 | 2025-03-28 | 2026-06-13 |
 | [VISTO](https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [VISTO](https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR) | 2:43 | 2024-06-14 | 2024-07-19 |
 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 | 2026-03-18 | 2026-03-27 |
-| [Volverte a Querer](https://open.spotify.com/track/6118gUtirfjFpTPWyDwMbj) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Volverte a Querer](https://open.spotify.com/album/33rki7QSD9lUoefJ7Yer9O) | 3:27 | 2024-10-25 |  |
+| [Volverte a Querer](https://open.spotify.com/track/6118gUtirfjFpTPWyDwMbj) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Volverte a Querer](https://open.spotify.com/album/33rki7QSD9lUoefJ7Yer9O) | 3:27 | 2024-10-25 | 2026-08-05 |
 | [Vuela \- Acústico](https://open.spotify.com/track/5XCeOuCw12Mdu1NcVpkJVd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Mati Gómez](https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE) | [Vuela \(Acústico\)](https://open.spotify.com/album/2Q4WJj9Pm7kLHNGCWUYQal) | 3:11 | 2023-07-28 | 2023-09-02 |
 | [Vuelvo A Ti](https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Ya Es Mañana](https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO) | 3:06 | 2025-05-23 | 2026-01-31 |
 | [WhyWhyWhy](https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [WhyWhyWhy](https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS) | 2:39 | 2026-06-19 |  |

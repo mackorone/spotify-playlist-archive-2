@@ -4548,10 +4548,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 171066,
       "name": "Night Falls",
       "url": "https://open.spotify.com/track/6hnLfSOsjfa5xicvGmRoWe"
+    },
+    {
+      "album": {
+        "name": "Piano Dreamers Play the Music from Descendants (Instrumental)",
+        "url": "https://open.spotify.com/album/7fwLwGMZjxhbBKKLQEC2jd"
+      },
+      "artists": [
+        {
+          "name": "Piano Dreamers",
+          "url": "https://open.spotify.com/artist/4oRyLnxDdIzd2POQfX9Drd"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211893,
+      "name": "Night Falls - Instrumental",
+      "url": "https://open.spotify.com/track/12Mmpsq8t80lcA1WihSkwK"
     },
     {
       "album": {

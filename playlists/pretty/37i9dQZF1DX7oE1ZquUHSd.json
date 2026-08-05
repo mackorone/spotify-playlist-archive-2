@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 232314,
+  "num_followers": 232393,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Super Jon-Z (Residente Challenge)",
-        "url": "https://open.spotify.com/album/1BgkC6yXnfmAhJdnCwE7vs"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Duran The Coach",
-          "url": "https://open.spotify.com/artist/3pdwvqKNXC6mz3b0KpfUvA"
-        }
-      ],
-      "duration_ms": 487011,
-      "name": "Super Jon-Z (Residente Challenge)",
-      "url": "https://open.spotify.com/track/2LzpOIEFP862EHojyakCS6"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 262720,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Super Jon-Z (Residente Challenge)",
+        "url": "https://open.spotify.com/album/1BgkC6yXnfmAhJdnCwE7vs"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Duran The Coach",
+          "url": "https://open.spotify.com/artist/3pdwvqKNXC6mz3b0KpfUvA"
+        }
+      ],
+      "duration_ms": 487011,
+      "name": "Super Jon-Z (Residente Challenge)",
+      "url": "https://open.spotify.com/track/2LzpOIEFP862EHojyakCS6"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "R\u00e9plica",
-        "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
-      },
-      "artists": [
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 305454,
-      "name": "R\u00e9plica",
-      "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Desde",
         "url": "https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 277439,
       "name": "Desde",
       "url": "https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "R\u00e9plica",
+        "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 305454,
+      "name": "R\u00e9plica",
+      "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Mi Vicio",
-        "url": "https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Mi Vicio",
-      "url": "https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Verdugo",
         "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 176842,
       "name": "Verdugo",
       "url": "https://open.spotify.com/track/1zmPtZKrIxWRsdfk2yhH0k"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Mi Vicio",
+        "url": "https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Mi Vicio",
+      "url": "https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1367,24 +1367,8 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Alma Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
-      },
-      "artists": [
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Me\u00f1iques",
-      "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Nunca Vemos Nada",
-        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
+        "name": "Verdugo",
+        "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
       },
       "artists": [
         {
@@ -1392,9 +1376,9 @@
           "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
         }
       ],
-      "duration_ms": 195000,
-      "name": "El Mito de la Caverna",
-      "url": "https://open.spotify.com/track/0NiWrLr9wR2VkGXKKzhgQL"
+      "duration_ms": 224651,
+      "name": "Tratos Con el Diablo",
+      "url": "https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1411,6 +1395,22 @@
       "duration_ms": 790440,
       "name": "Anochece / Manifiesto",
       "url": "https://open.spotify.com/track/1EnpICfLSoEqih0r6wkUEx"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Alma Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
+      },
+      "artists": [
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Me\u00f1iques",
+      "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1455,28 +1455,8 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Dale Gas",
-        "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 212495,
-      "name": "Dale Gas",
-      "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Verdugo",
-        "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
+        "name": "Nunca Vemos Nada",
+        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
       },
       "artists": [
         {
@@ -1484,9 +1464,9 @@
           "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
         }
       ],
-      "duration_ms": 224651,
-      "name": "Tratos Con el Diablo",
-      "url": "https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th"
+      "duration_ms": 195000,
+      "name": "El Mito de la Caverna",
+      "url": "https://open.spotify.com/track/0NiWrLr9wR2VkGXKKzhgQL"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1503,6 +1483,26 @@
       "duration_ms": 456266,
       "name": "Los Zurdos Mueren Antes",
       "url": "https://open.spotify.com/track/5s16f3iVV9qJUykWsfOXiV"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Dale Gas",
+        "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 212495,
+      "name": "Dale Gas",
+      "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/5if6wXKwPFKHXfjA1TlkD5"
+      },
+      "artists": [
+        {
+          "name": "La Etnnia",
+          "url": "https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/6vmMbjKjcFWxE4eJvneNdQ"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Hecho En Mexico",
         "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
       },
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/5if6wXKwPFKHXfjA1TlkD5"
+        "name": "In Tha House",
+        "url": "https://open.spotify.com/album/6XtBrJHt6GPGt8gKVOh92N"
       },
       "artists": [
         {
-          "name": "La Etnnia",
-          "url": "https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H"
+          "name": "Cuarto Poder",
+          "url": "https://open.spotify.com/artist/2jZIvxOfIP6hhzthCqRmqI"
         }
       ],
-      "duration_ms": 252666,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/6vmMbjKjcFWxE4eJvneNdQ"
+      "duration_ms": 299613,
+      "name": "Arenita Playita (feat. Eska)",
+      "url": "https://open.spotify.com/track/0cpJGhd9GZbWw6ThPQ8Ic0"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1639,22 +1655,6 @@
       "duration_ms": 222673,
       "name": "Juicio / Canserbero",
       "url": "https://open.spotify.com/track/0gY8iJ7YHfbUs95wDHPeWD"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "In Tha House",
-        "url": "https://open.spotify.com/album/6XtBrJHt6GPGt8gKVOh92N"
-      },
-      "artists": [
-        {
-          "name": "Cuarto Poder",
-          "url": "https://open.spotify.com/artist/2jZIvxOfIP6hhzthCqRmqI"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "Arenita Playita (feat. Eska)",
-      "url": "https://open.spotify.com/track/0cpJGhd9GZbWw6ThPQ8Ic0"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "1 2 3",
-        "url": "https://open.spotify.com/album/08yuDkQCjkqFdNbhQIfaIe"
-      },
-      "artists": [
-        {
-          "name": "La Banda Baston",
-          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-        }
-      ],
-      "duration_ms": 124891,
-      "name": "1 2 3",
-      "url": "https://open.spotify.com/track/13t9ykBxwHHUYBcerRFFsQ"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Jorge",
         "url": "https://open.spotify.com/album/176ocuyDghIgtnqlRHl7lR"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 179417,
       "name": "Jaque Mate",
       "url": "https://open.spotify.com/track/1stk3OBhnMKfh45zZ4hjwB"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "1 2 3",
+        "url": "https://open.spotify.com/album/08yuDkQCjkqFdNbhQIfaIe"
+      },
+      "artists": [
+        {
+          "name": "La Banda Baston",
+          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+        }
+      ],
+      "duration_ms": 124891,
+      "name": "1 2 3",
+      "url": "https://open.spotify.com/track/13t9ykBxwHHUYBcerRFFsQ"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

@@ -86,7 +86,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 124720,
       "name": "7 Fantasien, Op. 116: No. 1, Capriccio in D Minor",
       "url": "https://open.spotify.com/track/0iETFwyIZZuaBizPqYa051"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 137106,
       "name": "Blow the Wind Southerly (Arr. Hough)",
       "url": "https://open.spotify.com/track/1nHQwSvpaSoLMRaer8w2Fh"
@@ -733,6 +733,28 @@
     },
     {
       "album": {
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/6nLttkyOq3hrynxwMehBt9"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111386,
+      "name": "Lyric Pieces Book 10, Op. 71: No. 7, Remembrances",
+      "url": "https://open.spotify.com/track/2eBojQhYOcz1aM79AIORXw"
+    },
+    {
+      "album": {
         "name": "\"A Summer Journey: Bach, Mozart & more\"",
         "url": "https://open.spotify.com/album/1RSf2iSHBdc2LfdYHlqNS8"
       },
@@ -1016,7 +1038,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 56933,
       "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 4",
       "url": "https://open.spotify.com/track/25t6b99XBBXivgSHHpr2il"
@@ -1130,7 +1152,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 347533,
       "name": "Nocturne No. 3 in B Major, Op. 9 No. 3",
       "url": "https://open.spotify.com/track/4XJN9TjefebndyPh03Ade4"
@@ -1510,7 +1532,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-05",
       "duration_ms": 129946,
       "name": "Solitude, Op. 73 No. 6 (Arr. Hough for Piano)",
       "url": "https://open.spotify.com/track/30f4xeRm9gwbgHwp4sCUsZ"

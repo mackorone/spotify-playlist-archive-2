@@ -7585,6 +7585,24 @@
     },
     {
       "album": {
+        "name": "c r e a t u r e s",
+        "url": "https://open.spotify.com/album/3iTHx4S0UyjWtpJmU40Jko"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227532,
+      "name": "tarmac",
+      "url": "https://open.spotify.com/track/5j7FkMakactsB2IGYqaVd2"
+    },
+    {
+      "album": {
         "name": "Signed to the Streets 2",
         "url": "https://open.spotify.com/album/7HYatzri59O5OrxJMCD695"
       },

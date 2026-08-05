@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Loreen",
-  "num_followers": 64209,
+  "num_followers": 64207,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
+        "name": "Rockefeller Street - Single",
+        "url": "https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4"
+      },
+      "artists": [
+        {
+          "name": "Getter Jaani",
+          "url": "https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf"
+        }
+      ],
+      "duration_ms": 192992,
+      "name": "Rockefeller Street",
+      "url": "https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
         "name": "Rise Like A Phoenix",
         "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 158440,
       "name": "Making Your Mind Up",
       "url": "https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
-        "name": "Rockefeller Street - Single",
-        "url": "https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4"
-      },
-      "artists": [
-        {
-          "name": "Getter Jaani",
-          "url": "https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "Rockefeller Street",
-      "url": "https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K"
     },
     {
       "added_at": "2025-03-14 16:58:53",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "Lipstick",
-        "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Lipstick - Radio Edit",
-      "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 180586,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
+      },
+      "artists": [
+        {
+          "name": "Jedward",
+          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Lipstick - Radio Edit",
+      "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
     },
     {
       "added_at": "2025-03-14 16:58:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Ne partez pas sans moi (Grand prix de L'Eurovision 1988)",
-      "url": "https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
         "name": "Precious",
         "url": "https://open.spotify.com/album/6OeH9eSf6GOu9sreWGDwlo"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 189640,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/0lI9LRra3k2RAYrNO0Htcc"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Ne partez pas sans moi (Grand prix de L'Eurovision 1988)",
+      "url": "https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe"
     },
     {
       "added_at": "2025-03-14 16:58:53",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "We Are the Winners",
-        "url": "https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9"
-      },
-      "artists": [
-        {
-          "name": "LT United",
-          "url": "https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "We Are the Winners - Original Version",
-      "url": "https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
         "name": "Charmed",
         "url": "https://open.spotify.com/album/1dl3hAtvGLmsuDJVzJcY9D"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 149573,
       "name": "Ding-A-Dong",
       "url": "https://open.spotify.com/track/1UrZB49sPYlTuNA7fdC0cb"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
+        "name": "We Are the Winners",
+        "url": "https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9"
+      },
+      "artists": [
+        {
+          "name": "LT United",
+          "url": "https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "We Are the Winners - Original Version",
+      "url": "https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02"
     },
     {
       "added_at": "2025-03-14 16:58:53",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "Toy",
-        "url": "https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF"
-      },
-      "artists": [
-        {
-          "name": "Netta",
-          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
-        }
-      ],
-      "duration_ms": 180230,
-      "name": "Toy",
-      "url": "https://open.spotify.com/track/6n2eIfLj0wOOUkUfNmYzlh"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
         "name": "You are the only one",
         "url": "https://open.spotify.com/album/5QN3qCVLPiedrjb6EOO9LO"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 186891,
       "name": "You are the only one",
       "url": "https://open.spotify.com/track/7cVXtwDpck4Kne4Ce8Ge6q"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
+        "name": "Toy",
+        "url": "https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF"
+      },
+      "artists": [
+        {
+          "name": "Netta",
+          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
+        }
+      ],
+      "duration_ms": 180230,
+      "name": "Toy",
+      "url": "https://open.spotify.com/track/6n2eIfLj0wOOUkUfNmYzlh"
     },
     {
       "added_at": "2025-03-14 16:58:53",

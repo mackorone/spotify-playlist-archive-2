@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am6IgAAAAADJ1ZJHrfvlCGIzpfPdwzOw",
+  "snapshot_id": "am/aAAAAAABp0oM7wyqq39a4p6e56iXD",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lou Rawls - The Very Best Of",
-        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "That Would Do It for Me",
-      "url": "https://open.spotify.com/track/018N2ZUUruZrwLHPDtuwj0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portrait Of The Blues",
         "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lou Rawls - The Very Best Of",
+        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "That Would Do It for Me",
+      "url": "https://open.spotify.com/track/018N2ZUUruZrwLHPDtuwj0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stormy Monday",
         "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lou Rawls - The Very Best Of",
-        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "Wind Beneath My Wings - Single Version",
-      "url": "https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Can't Make It Alone: The Axelrod Years",
         "url": "https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU"
       },
@@ -823,6 +807,26 @@
       "duration_ms": 156133,
       "name": "Evil Woman",
       "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 227387,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/0SaLWXbmp0B4fooqcvdcoT"
     }
   ],
   "unique_name": "This Is Lou Rawls",

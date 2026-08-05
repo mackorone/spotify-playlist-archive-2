@@ -4,7 +4,7 @@
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with KI/KI
 
-1,338 songs - 3 day 7 hr 45 min
+1,339 songs - 3 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Dancing In The Stars \(With You\)](https://open.spotify.com/track/4vEBzVmIAbKSGtSMP45AuR) | [Triode](https://open.spotify.com/artist/6PeUGjC4XaZD1XysuYogDG), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Dancing In The Stars \(With You\)](https://open.spotify.com/album/5ETpVy3DQjIf9z7AiOArsr) | 4:19 | 2023-06-30 | 2024-07-13 |
 | [Daring To Love \- Asteroid Remix](https://open.spotify.com/track/0wCHys665L3AYPLKFTsgn1) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf), [Asteroid](https://open.spotify.com/artist/7x3GRBRhJ7qQfDoOwVSoL4) | [Daring To Love \(Asteroid Remix\)](https://open.spotify.com/album/6NOjTC9X40RuF6uIq1BWkB) | 3:49 | 2023-02-10 | 2023-12-30 |
 | [Dark & Stormy](https://open.spotify.com/track/2RInAfucpwkL7daWgkkDak) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Dark & Stormy](https://open.spotify.com/album/2L34rnHuaw0PISekxAe9lw) | 3:02 | 2022-08-05 | 2023-06-10 |
-| [Dark Matter](https://open.spotify.com/track/1qIG0COjeSE8XwjN8GmJvX) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [Dark Matter](https://open.spotify.com/album/6M2tMvUL7JagQOKAk3UIJJ) | 3:50 | 2026-07-23 |  |
+| [Dark Matter](https://open.spotify.com/track/1qIG0COjeSE8XwjN8GmJvX) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [Dark Matter](https://open.spotify.com/album/6M2tMvUL7JagQOKAk3UIJJ) | 3:50 | 2026-07-23 | 2026-08-05 |
 | [Dark Space](https://open.spotify.com/track/6rhOHHZEI2HYeX0ITWyKsg) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Dark Space](https://open.spotify.com/album/0bDnGw5zMrfCED5vtPGcWB) | 3:32 | 2024-02-16 | 2024-07-27 |
 | [Darker Days](https://open.spotify.com/track/6nLRlcRKSTYzcGzCZyZVuI) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Darker Days](https://open.spotify.com/album/0VwKfzQt7vMGJUhADRyUye) | 2:57 | 2023-07-07 | 2023-12-09 |
 | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/track/6UOw9DxwNWBVpbuYshKzIl) | [Joint Operations Centre](https://open.spotify.com/artist/1yBLCDLlLunLE5pBDt2da7) | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/album/4fV05qypGMoHz5BR0FMXkt) | 3:23 | 2023-04-07 | 2023-06-10 |
@@ -882,6 +882,7 @@
 | [Paid For Love](https://open.spotify.com/track/5jCeNmOKugXGCKSVsZUolR) | [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Impulse](https://open.spotify.com/album/4x77t1XFY7p3DExQKB2vVT) | 4:36 | 2022-01-07 | 2022-02-26 |
 | [Panic Attack](https://open.spotify.com/track/5RRkoI3yLc1bx7MgI8OBYw) | [Shane 54](https://open.spotify.com/artist/2ITbqEgyp32vL3BxEFmQ1V), [Alex Sonata & TheRio](https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej) | [Panic Attack](https://open.spotify.com/album/6FIzYN5uJrPAqJPjSBRQ1g) | 3:05 | 2021-12-17 | 2022-02-26 |
 | [Pantheon](https://open.spotify.com/track/0BlAXvUWEmQhAZzHRE015V) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm) | [Pantheon](https://open.spotify.com/album/78FFKwVI6NhN3qbARP2MrI) | 3:31 | 2021-12-17 | 2023-01-14 |
+| [Papaye](https://open.spotify.com/track/5NWO87WOv9rDXcYmqxh7h5) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Papaye](https://open.spotify.com/album/3ItzPOTiOBnYfbqxisibyn) | 3:14 | 2026-07-30 |  |
 | [Paradise](https://open.spotify.com/track/0MD3uMPbhJiX4QTz0i9iqA) | [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn), [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn), [H.E.A.R.T.S.](https://open.spotify.com/artist/2LVnO7HXk285e9qqVVhtcd) | [Paradise](https://open.spotify.com/album/4OmLoF1baTfIw50x250ELm) | 4:20 | 2025-07-25 | 2026-07-31 |
 | [Paralize](https://open.spotify.com/track/1HtRzQneyXgSqsVdbQksHK) | [Claas Inc.](https://open.spotify.com/artist/60KLxF0Dx9bxAV4YjkN4fA), [Amin Salmee](https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy) | [Paralize](https://open.spotify.com/album/1eNiKOroUsS5ve4m4R9Ec2) | 3:45 | 2022-07-22 | 2022-09-24 |
 | [Party On](https://open.spotify.com/track/61HB6vZxCpL9wuaxyZn7yh) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Party On](https://open.spotify.com/album/4pbAf9YGHtyncoHiGnoIKe) | 3:22 | 2021-12-17 | 2023-02-25 |

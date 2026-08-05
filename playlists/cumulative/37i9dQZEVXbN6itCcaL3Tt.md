@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-2,918 songs - 6 day 4 hr 41 min
+2,919 songs - 6 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-08-13 | 2023-08-28 |
 | [BABY?](https://open.spotify.com/track/0tYT7BN5IYY8u5pjP1Sv79) | [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd), [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [BABY?](https://open.spotify.com/album/6nLb5cO1oeOypJhEwYijzy) | 2:38 | 2026-02-07 | 2026-04-27 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-02-11 | 2026-07-31 |
-| [Baciata](https://open.spotify.com/track/58JXOkFJ9P50s2L1pEOdPF) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Baciata](https://open.spotify.com/album/2Swgs4e19ysNnoRo0HC3Ru) | 2:12 | 2025-10-04 |  |
+| [Baciata](https://open.spotify.com/track/58JXOkFJ9P50s2L1pEOdPF) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Baciata](https://open.spotify.com/album/2Swgs4e19ysNnoRo0HC3Ru) | 2:12 | 2025-10-04 | 2026-08-05 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-31 | 2025-08-24 |
 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2025-08-23 | 2026-05-18 |
 | [BACK TO ME](https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:55 | 2024-02-12 | 2024-02-16 |
@@ -1342,6 +1342,7 @@
 | [Leje Wina](https://open.spotify.com/track/1feg6LWYEdvsjOLzAgWgDd) | [Pusher](https://open.spotify.com/artist/0fK8tIJvuUipbExfySWTVb), [GRACEK](https://open.spotify.com/artist/0KxPU8GtswxdbNoQTfJuQl), [Baba Hassan](https://open.spotify.com/artist/0bnklE4AY6Jf8Y3gfDSli4) | [Leje Wina](https://open.spotify.com/album/1K7wxUuiX3iAZaLuxeYyi8) | 2:22 | 2023-11-18 | 2024-03-09 |
 | [LEMURY](https://open.spotify.com/track/7rkieDw5Cj4DVxQvTBU6Rk) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Beka KSH](https://open.spotify.com/artist/5zGmfucY4y53SMOp3lAzW9) | [2039: ZŁOTE PIASKI](https://open.spotify.com/album/0kOoe3zE19AKMyYcCEFubt) | 1:56 | 2025-08-15 | 2025-08-18 |
 | [Lenistwo](https://open.spotify.com/track/0jbsFtAainW2Jsre4C9zgD) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5M5CGqYOPOJITfjFyrcch8) | 0:41 | 2023-12-02 | 2023-12-04 |
+| [LEPA](https://open.spotify.com/track/5V209N14zVkCdrL7AOUxx0) | [Per Dżinn](https://open.spotify.com/artist/1YBCQ1OTBgrHOX7wCTWvmM) | [LEPA](https://open.spotify.com/album/3JuelwyDev1dX7erPM5dMk) | 1:49 | 2026-08-04 |  |
 | [Lesbijki](https://open.spotify.com/track/06355fYZ3lya51yfOZlZF3) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG) | [Opowieści z Doliny Smoków](https://open.spotify.com/album/0zqVGKhttQF25HwPeNcknO) | 3:04 | 2025-11-29 | 2025-12-01 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2022-12-20 | 2023-02-01 |
 | [LET IT B](https://open.spotify.com/track/701KA2pM8TfqNksKwLCZHl) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [LET IT B](https://open.spotify.com/album/1Oy0ZSG5z3haMYb2dQFCk0) | 4:18 | 2026-03-14 | 2026-04-13 |

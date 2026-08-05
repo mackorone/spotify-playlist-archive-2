@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: After
 
-2,485 songs - 5 day 12 hr 30 min
+2,486 songs - 5 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1592,7 +1592,7 @@
 | [Obsessed \(Demo\)](https://open.spotify.com/track/6Hzp6CZ47onhS27yUepksV) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Obsessed \(Demo\)](https://open.spotify.com/album/585FbTBKq8HAaW7MmOQou0) | 2:25 | 2022-09-09 | 2022-09-24 |
 | [Obvious Guy](https://open.spotify.com/track/17Ro4GWa40Llz2VOEG5EtR) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Things I Thought Were Mine](https://open.spotify.com/album/6RMv7YvMivHcrnZuQrM8fq) | 3:21 | 2021-02-23 | 2021-03-23 |
 | [Occasional Stoner](https://open.spotify.com/track/43avjZf2deGDNuYnnSinij) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Occasional Stoner](https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl) | 3:03 | 2024-11-15 | 2025-01-31 |
-| [Occasionally](https://open.spotify.com/track/6hMeUPbEIxwM9iYnnqOGjc) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [This Is How You See Me Now](https://open.spotify.com/album/1XAXzsU82lf7y7hPuFaIJ6) | 3:52 | 2026-07-10 |  |
+| [Occasionally](https://open.spotify.com/track/6hMeUPbEIxwM9iYnnqOGjc) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [This Is How You See Me Now](https://open.spotify.com/album/1XAXzsU82lf7y7hPuFaIJ6) | 3:52 | 2026-07-10 | 2026-08-05 |
 | [Ocean](https://open.spotify.com/track/1MV2ab1Q81XpS8yCZYYFGN) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ) | [Ocean](https://open.spotify.com/album/5Eoz7NXXYEf4KnNWzkOKjO) | 2:30 | 2020-11-13 | 2021-02-28 |
 | [ocean view](https://open.spotify.com/track/7ossJoAkwNcV8pFzIyBb9j) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [ocean view](https://open.spotify.com/album/7xFL9NJq1twMOpD7XmIYQn) | 2:54 | 2021-06-03 | 2021-09-02 |
 | [Oceansize](https://open.spotify.com/track/3F3F2UtIm9wDUq6uPt42Jx) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/1bb0l92MxpV8hzI1xSomcS) | 3:43 | 2020-10-20 | 2021-06-03 |
@@ -1637,6 +1637,7 @@
 | [One Whole Me](https://open.spotify.com/track/1Kwt1626crESGcKlQWCQBz) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [One Whole Me](https://open.spotify.com/album/2UmBt4tfUYbxQcfPBK5MsQ) | 2:15 | 2022-01-21 | 2022-04-07 |
 | [One Woman](https://open.spotify.com/track/3WZ1LW2FwEWVLI3nf59WZb) | [STACEY](https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ) | [One Woman](https://open.spotify.com/album/2Ff611A1b4z7EtP3ohtz6s) | 3:40 | 2020-10-13\* | 2021-05-11 |
 | [Online Dating](https://open.spotify.com/track/7IcTNzulv3RLQUZV5sIT66) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Medicine](https://open.spotify.com/album/1T8VdjuxLqYJVJQ1WNFVqK) | 3:58 | 2020-11-13 | 2021-01-15 |
+| [only one way to know](https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [only one way to know](https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS) | 2:46 | 2026-07-31 |  |
 | [Only Time Makes It Human](https://open.spotify.com/track/1VpkwLKRFjxIw2elI7m1Oz) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Only Time Makes It Human](https://open.spotify.com/album/2ajgq2MfGz9zFMdtjZ5r0M) | 3:24 | 2020-10-20 | 2021-06-01 |
 | [Only You](https://open.spotify.com/track/5147NKHUT2KvPhmQBp4PHp) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Only You](https://open.spotify.com/album/4mBg8H35g1bajfKDR0AlOy) | 3:29 | 2024-08-30 | 2024-09-07 |
 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 | 2023-09-29 | 2024-05-18 |

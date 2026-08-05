@@ -6,7 +6,7 @@
     "name": "Evan",
     "url": "https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l"
   },
-  "snapshot_id": "AAAA74sRnNEnh/9UnCPJFE1bsxx1q0Aw",
+  "snapshot_id": "AAAA8TMq8SQUsBbkSIY9GeTTD9SAJG0/",
   "tracks": [
     {
       "added_at": "2021-12-01 17:59:34",
@@ -1789,22 +1789,6 @@
       "url": "https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw"
     },
     {
-      "added_at": "2026-01-15 17:23:04",
-      "album": {
-        "name": "F1 The Album",
-        "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 187396,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/0mLumCawWeaMSL5LAHFIo4"
-    },
-    {
       "added_at": "2026-01-16 23:59:43",
       "album": {
         "name": "The Bends",
@@ -2091,6 +2075,22 @@
       "duration_ms": 352453,
       "name": "Song For The Dead",
       "url": "https://open.spotify.com/track/37gG4GPeTRPKKdXYx3zTRC"
+    },
+    {
+      "added_at": "2026-08-04 19:24:31",
+      "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
     }
   ],
   "unique_name": "white girl indie",

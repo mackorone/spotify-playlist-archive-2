@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Liquideep
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,619 likes - 59 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,653 likes - 59 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

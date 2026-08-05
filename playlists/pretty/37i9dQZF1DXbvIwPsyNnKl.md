@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: kiddotin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,517,233 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,516,130 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 39 | [GRiND NG GRiND](https://open.spotify.com/track/7ljeSlwIjBRdwppyVKDoIv) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL) | [LiFT OFF MiXTAPE](https://open.spotify.com/album/6AcssXGgA6H1jYq2eTVMsZ) | 3:41 |
 | 40 | [The Helly What](https://open.spotify.com/track/1a4wNQKai7Z9zpybqmpcU8) | [Kartell'em](https://open.spotify.com/artist/4e4flHlMWdF3KOADVBTMXo), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29), [Wavyier](https://open.spotify.com/artist/5BiH3cDOIyyAQixJ0JcyNw), [Ne7in](https://open.spotify.com/artist/7xLdWx1ZNY9LnvPZo7BbS3), [Nickname](https://open.spotify.com/artist/7oPgFmJIfapueMliwOjBiH) | [The Helly What](https://open.spotify.com/album/7qCw3yKpSmKLx5C2uKIEEn) | 2:41 |
 | 41 | [CR3W](https://open.spotify.com/track/5Tp2b3NBMLF2qm2nhxiSFc) | [Slick V](https://open.spotify.com/artist/1is3Qef9QssY4jS4Yfz8AM), [Matteyo](https://open.spotify.com/artist/6AOsrmODyI5Bt3jGhMOZqS), [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l) | [CR3W](https://open.spotify.com/album/77QmHN2ttnpdtCJ3deR3AD) | 3:18 |
-| 42 | [DOET](https://open.spotify.com/track/3BUgSPP81wY0nTM7SKwqsI) | [Xaint](https://open.spotify.com/artist/76Fv5x1GEVrSXrsIHQxA4c), [Jeko Royo](https://open.spotify.com/artist/5HX42nUgvxmShHsxivaApm) | [DOET](https://open.spotify.com/album/3jCZqy3WXrOo73FI3rLLdO) | 3:15 |
+| 42 | [DOET](https://open.spotify.com/track/3BUgSPP81wY0nTM7SKwqsI) | [Xaint](https://open.spotify.com/artist/76Fv5x1GEVrSXrsIHQxA4c) | [DOET](https://open.spotify.com/album/3jCZqy3WXrOo73FI3rLLdO) | 3:15 |
 | 43 | [Depende](https://open.spotify.com/track/1sMuds6T60xhLtmdKikp6Z) | [Kiervy](https://open.spotify.com/artist/4XKd64nj9QAK4OfyhLgbTl), [Ram Millr](https://open.spotify.com/artist/6tbDwyyKJSKhpNpmRfpbiX), [iHATEMONDAYS](https://open.spotify.com/artist/09pellVEfvf6ifLsjSDmLP) | [Depende](https://open.spotify.com/album/7cIX8Xu7U062ZRYLb3qEL1) | 3:30 |
 | 44 | [Di Pa Yan Huli](https://open.spotify.com/track/7KW3vvnOans1lr9Pget1sN) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL) | [Di Pa Yan Huli](https://open.spotify.com/album/2euy1T1XyDOH2XutLRorHY) | 3:34 |
 | 45 | [Ako Naman](https://open.spotify.com/track/6DKHgB1AZH96TzSaLg2Wjb) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Ako Naman](https://open.spotify.com/album/2uygPKZ6FzyObA0h3XSgss) | 3:20 |

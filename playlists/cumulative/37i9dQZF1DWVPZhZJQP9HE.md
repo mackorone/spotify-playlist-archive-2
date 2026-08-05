@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sarah Black
 
-802 songs - 1 day 23 hr 9 min
+803 songs - 1 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Elley Loh](https://open.spotify.com/track/7yC4h7vt7rKqkUm5Xd5Fk6) | [Ram Nath RNB](https://open.spotify.com/artist/4ZhOflcedK9HGUVUeZzyWg) | [Elley Loh](https://open.spotify.com/album/5pp4p2QpfEVkZajZZVMWdw) | 3:11 | 2022-01-10 | 2022-07-18 |
 | [En Aalukku Birthday](https://open.spotify.com/track/721hBO1peW3fD2nK0D4cqL) | [Karthik Rajan](https://open.spotify.com/artist/4mHETCj5ZNgwCU5r2mO1sc), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [En Aalukku Birthday](https://open.spotify.com/album/7jXNMrkmGewfet27sHjIuF) | 4:01 | 2024-09-02 | 2024-09-20 |
 | [En Azhagi](https://open.spotify.com/track/3ELuzYrD4aGwelk2smuP7s) | [I Am SGS](https://open.spotify.com/artist/2gqbchIInZikLDhPMaWjee), [R Sivas](https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m) | [En Azhagi](https://open.spotify.com/album/0BwhWKqQzUkqii2y9pyOMw) | 4:16 | 2026-04-08 |  |
+| [en kadhali \- k\. remix](https://open.spotify.com/track/7s2jrNJVdS4nnfujXqJrmv) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d), [copiedthecat](https://open.spotify.com/artist/1t3dzWfQqSMa3uIziPcWBO), [k\. remix](https://open.spotify.com/artist/0aHv5YAfYdl5rehsTXMp2N) | [en kadhali \(k\. remix\)](https://open.spotify.com/album/7h5N6KlrjzCLJ1mIHBqolk) | 3:41 | 2026-08-04 |  |
 | [En kannadi](https://open.spotify.com/track/4GMGeCR4xu5gHs2DUIKO6p) | [Shangeerththan](https://open.spotify.com/artist/1Gn7YwjhMEyenRUcN4o5jt), [Sathurshana](https://open.spotify.com/artist/0PdJEgyoTPGKPiTjA4TdTr) | [Rose](https://open.spotify.com/album/2VqiAb5LyoLpNEjL5RW7ly) | 4:47 | 2024-12-05 | 2024-12-21 |
 | [En Kannae Pogathey](https://open.spotify.com/track/7mdGxqgNLZx98ZnBzSIm0D) | [Al Rufian](https://open.spotify.com/artist/57o1IPq5xCi32XkPLCDsjh), [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Rubesh Radhakrishnan](https://open.spotify.com/artist/2qIYXydYDYpTGiPBeh2eNx) | [En Kannae Pogathey](https://open.spotify.com/album/2U5qUOrOkAcp654GSBTlmW) | 4:40 | 2023-04-03 | 2024-11-21 |
 | [En Paathi Neethanadi](https://open.spotify.com/track/47NnHnmjhZKDHk2CfieWFQ) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [En Paathi Neethanadi](https://open.spotify.com/album/5F36QWvcT0HLaovulz4r6s) | 5:02 | 2022-07-05 | 2022-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1081,
+  "num_followers": 1086,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEMnkpN+auuPDQ3gpriQjdYTtN7xcx",
+  "snapshot_id": "AAAEMyagFsxSgn29tpFCoDzRTbn1xYjm",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1507,6 +1507,22 @@
       "duration_ms": 244281,
       "name": "untitled",
       "url": "https://open.spotify.com/track/0RVvZ8l6MFAEDLpVasrzYa"
+    },
+    {
+      "added_at": "2026-08-04 21:37:36",
+      "album": {
+        "name": "Intent\u00e9 Olvidarte",
+        "url": "https://open.spotify.com/album/7nMf1VS5aC6F7jPMiUpCje"
+      },
+      "artists": [
+        {
+          "name": "Nacho Sarmiento",
+          "url": "https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr"
+        }
+      ],
+      "duration_ms": 227363,
+      "name": "Intent\u00e9 Olvidarte",
+      "url": "https://open.spotify.com/track/3ksN7lVHRGcQaulNC24Z1w"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
