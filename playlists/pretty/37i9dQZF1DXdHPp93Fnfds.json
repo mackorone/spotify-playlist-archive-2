@@ -1,12 +1,12 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 135972,
+  "num_followers": 135943,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADI6iFt+C/L9A2QYA8sl/QPmszEM",
+  "snapshot_id": "AAAAAHEeBCMzm7Lyb9tjcG7Bl5gDiLr5",
   "tracks": [
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 157389,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "No hay m\u00e1s tiempo",
         "url": "https://open.spotify.com/album/5YYfTwT5Sap3rylvAXVedC"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 187786,
       "name": "No hay m\u00e1s tiempo",
       "url": "https://open.spotify.com/track/0PWr5qLY1jBYrD9oERVLwf"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 157389,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
     },
     {
       "added_at": "2025-07-17 22:42:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > amor é bom mas ninguém quer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,437,591 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,437,404 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 59 | [Ego \- th4ys Remix](https://open.spotify.com/track/0JQIFWq4KVdmYjaqyMfYuk) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Nego Bala](https://open.spotify.com/artist/5d3x6gaDHdVESZLO5tB6mP), [th4ys](https://open.spotify.com/artist/3LGFpNOWNjpvlkUmj304V3) | [Deekapz FM Remixes](https://open.spotify.com/album/7puIZzknO6IZie8NOSO5dH) | 1:47 |
 | 60 | [SEM PALA](https://open.spotify.com/track/4Lm84NyoIXijOHdNoTU5Ma) | [Deck9](https://open.spotify.com/artist/6Rbo9jVwd5k3ZFs6PEBEl9), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY) | [SEM PALA](https://open.spotify.com/album/7ibrH7cF754U6OZWs9APIB) | 3:34 |
 
-Snapshot ID: `AAAAAG/1Hu6KWKrmrAYMb79swIPhkQ/z`
+Snapshot ID: `AAAAABesvG3hOYsfy9TlgHhgv8V5OA7v`

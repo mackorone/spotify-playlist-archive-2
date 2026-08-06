@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover:  <a href="spotify:artist:4D2PCg640w5R8SGfAlO2ZR">Kuba Kamik</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,271 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,267 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 46 | [Czerwone ledy](https://open.spotify.com/track/6aKBfZoYih0qCrcU7xEJ57) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Czerwone ledy](https://open.spotify.com/album/44uLZXwWxJ14wqJe6o8OD7) | 4:21 |
 | 47 | [Miłości](https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [8 piosenek o miłości](https://open.spotify.com/album/3ahEDNAQfFCsUZqjRYaXcG) | 2:30 |
 | 48 | [Redflag](https://open.spotify.com/track/6R8q1aKY1brD36ZUiIhraf) | [Pan Mariuszek](https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9) | [Redflag](https://open.spotify.com/album/0XflPg1Qa2UR9dWV3wZg2s) | 3:04 |
-| 49 | [Drogie Ciuchy](https://open.spotify.com/track/2ID6W7vsOptcxlmZLzTsML) | [Bella Ćwir](https://open.spotify.com/artist/6OvHhxtifb9FdKtKlsgJUz) | [Lady Popular](https://open.spotify.com/album/7fcDhdjJKUS25To6O7o871) | 3:32 |
-| 50 | [Mam coś na bani](https://open.spotify.com/track/6OQcz9Z5GCBKyqGxKyHGra) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Mam coś na bani](https://open.spotify.com/album/0eXXm03YXNFZ6qM0DqjXni) | 4:35 |
+| 49 | [Mam coś na bani](https://open.spotify.com/track/6OQcz9Z5GCBKyqGxKyHGra) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Mam coś na bani](https://open.spotify.com/album/0eXXm03YXNFZ6qM0DqjXni) | 4:35 |
+| 50 | [Drogie Ciuchy](https://open.spotify.com/track/2ID6W7vsOptcxlmZLzTsML) | [Bella Ćwir](https://open.spotify.com/artist/6OvHhxtifb9FdKtKlsgJUz) | [Lady Popular](https://open.spotify.com/album/7fcDhdjJKUS25To6O7o871) | 3:32 |
 | 51 | [Tokio](https://open.spotify.com/track/0ucQtQ5vAKFhYc2jw7Y2dp) | [Aleksander Kępka](https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x) | [Tokio](https://open.spotify.com/album/4WptZEWjg7e4fzWXSv2M6g) | 2:35 |
 | 52 | [Są domy, do których nie da się wrócić](https://open.spotify.com/track/3EVixrZa0pAGaADt0NJy5T) | [Ganczarska](https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo) | [Są domy, do których nie da się wrócić](https://open.spotify.com/album/187Rzrr6xreWkAMRLMZhWK) | 4:12 |
 | 53 | [origami \(zagnę\)](https://open.spotify.com/track/3vTEkL1YUUfnSn4iR3Gqe1) | [villaz](https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp), [noffkoffska](https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt) | [origami \(zagnę\)](https://open.spotify.com/album/3YJdN0DEP0XbZPoVPhKOrk) | 3:10 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 59 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 |
 | 60 | [Odyssey](https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Odyssey](https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI) | 3:33 |
 | 61 | [Wracam](https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [Wracam](https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB) | 2:48 |
-| 62 | [DRAG!](https://open.spotify.com/track/3Vy4FBh39ntgHOlpEEmPNE) | [Rejsel](https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd), [Lagoona Aqua Pussy](https://open.spotify.com/artist/6Ojsq92nEtbRSNEgoHxaHe) | [DRAG!](https://open.spotify.com/album/51LcBrPFFnEZ3nzZutsko8) | 2:15 |
-| 63 | [sweet](https://open.spotify.com/track/5qhjxWM1KUzliZapFw3JQM) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [sweet](https://open.spotify.com/album/0qa3J0y5uJA60fMpsusIFB) | 2:11 |
-| 64 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 |
+| 62 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 |
+| 63 | [DRAG!](https://open.spotify.com/track/3Vy4FBh39ntgHOlpEEmPNE) | [Rejsel](https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd), [Lagoona Aqua Pussy](https://open.spotify.com/artist/6Ojsq92nEtbRSNEgoHxaHe) | [DRAG!](https://open.spotify.com/album/51LcBrPFFnEZ3nzZutsko8) | 2:15 |
+| 64 | [sweet](https://open.spotify.com/track/5qhjxWM1KUzliZapFw3JQM) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [sweet](https://open.spotify.com/album/0qa3J0y5uJA60fMpsusIFB) | 2:11 |
 | 65 | [Czerń](https://open.spotify.com/track/7vTpsYSIVBm4jZfQ1zUylm) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c), [Mikaela Sandell](https://open.spotify.com/artist/6i5ROojnKVF1TYprq27TgU), [metro](https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0) | [Czerń](https://open.spotify.com/album/09c4Tv3ZmwsUZqPSG2sOFG) | 2:36 |
-| 66 | [dlaczego w tym mieście NIKT nie umarł z miłości?](https://open.spotify.com/track/7GNHldDKTddtGLNJSyGmu1) | [Kamil Hasselhoff](https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9) | [dlaczego w tym mieście NIKT nie umarł z miłości?](https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0) | 2:44 |
-| 67 | [bulletproof](https://open.spotify.com/track/4DRVf1eh2KhaxdfiQFk5NG) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [bulletproof](https://open.spotify.com/album/5AnzlgR3wzsG7Yn4REMS5m) | 2:26 |
-| 68 | [Pani Baudelaire](https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Pani Baudelaire](https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6) | 2:57 |
+| 66 | [Pani Baudelaire](https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Pani Baudelaire](https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6) | 2:57 |
+| 67 | [dlaczego w tym mieście NIKT nie umarł z miłości?](https://open.spotify.com/track/7GNHldDKTddtGLNJSyGmu1) | [Kamil Hasselhoff](https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9) | [dlaczego w tym mieście NIKT nie umarł z miłości?](https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0) | 2:44 |
+| 68 | [bulletproof](https://open.spotify.com/track/4DRVf1eh2KhaxdfiQFk5NG) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [bulletproof](https://open.spotify.com/album/5AnzlgR3wzsG7Yn4REMS5m) | 2:26 |
 | 69 | [Lwia Skała](https://open.spotify.com/track/3BoUaFlHdlidP4l7ouMUrF) | [Ganczarska](https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo) | [Lwia Skała](https://open.spotify.com/album/4qifmnXuuY9NVOcphuy1Cr) | 5:04 |
 | 70 | [Sabotażysta](https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G) | 3:24 |
 | 71 | [Róża](https://open.spotify.com/track/6eMb3cPoLTEfa7u8w4TSrE) | [Kochliwa Magda](https://open.spotify.com/artist/2cVWL2Lcr1E38bdn265vaG), [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8), [Lulu](https://open.spotify.com/artist/4vobEJ4kSKRGljl6ih2ZRR) | [Róża](https://open.spotify.com/album/1DIiPl34Fbae4bvcrQ8RMr) | 3:24 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 89 | [ciszej](https://open.spotify.com/track/4mPZBA527PlYtLpyZzzQjY) | [villaz](https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp) | [nocami, do świtu](https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8) | 3:09 |
 | 90 | [April I](https://open.spotify.com/track/6lJm9RWKS4SlaPGkbKfZOb) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [April](https://open.spotify.com/album/1EAHV7js1kKeadDWMPX0lr) | 3:25 |
 | 91 | [rom\-com](https://open.spotify.com/track/0yRWI0NaGJKuRfFvQPXW1n) | [Meg Mell](https://open.spotify.com/artist/4HXy7mRjbdJwHHia5eG48k), [izdeb](https://open.spotify.com/artist/2qxZhFhW3LoxfSrXnm497e) | [rom\-com](https://open.spotify.com/album/5dXJyDYM8eXKRkAZYerKf8) | 4:28 |
-| 92 | [Drap mnie](https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb) | [DIMoN](https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM) | [Doskonale](https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7) | 3:02 |
-| 93 | [Kochany pamiętniku](https://open.spotify.com/track/0GQkW5gGaROjNDtnH0T6jj) | [Pan Mariuszek](https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9) | [Kochany pamiętniku](https://open.spotify.com/album/6XPu2NgsidR1zDdhi3VHOL) | 3:09 |
-| 94 | [Panienka](https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Panienka](https://open.spotify.com/album/0pXaZr73ujYW4B0QgUUZ4x) | 2:49 |
+| 92 | [Kochany pamiętniku](https://open.spotify.com/track/0GQkW5gGaROjNDtnH0T6jj) | [Pan Mariuszek](https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9) | [Kochany pamiętniku](https://open.spotify.com/album/6XPu2NgsidR1zDdhi3VHOL) | 3:09 |
+| 93 | [Panienka](https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Panienka](https://open.spotify.com/album/0pXaZr73ujYW4B0QgUUZ4x) | 2:49 |
+| 94 | [Drap mnie](https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb) | [DIMoN](https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM) | [Doskonale](https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7) | 3:02 |
 | 95 | [MVP](https://open.spotify.com/track/48Ar2VGFtVUglcn8UFkVM3) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [Born Like That](https://open.spotify.com/album/722UKDfrfO8MTByuk9I2oE) | 2:33 |
 | 96 | [glorious](https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2) | [Kuba Kluza](https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa) | [glorious](https://open.spotify.com/album/0ZpLYh6IYYig3Dc7jKTFv3) | 3:20 |
 | 97 | [piosenka o smutnych ludziach](https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [o smutnych ludziach](https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 99 | [Hikikomori](https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [Hikikomori](https://open.spotify.com/album/4ytOqAsRx90yR9LxF2zEHO) | 2:47 |
 | 100 | [Chwila](https://open.spotify.com/track/2Vz2OhuJWd1Pgn817daXWr) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Chwila](https://open.spotify.com/album/6eZDRKtNj3UI3TOkWI7LTt) | 6:04 |
 
-Snapshot ID: `AAAAAOVWiUn4wcEt4wTU6tidfynuoXe5`
+Snapshot ID: `AAAAAPSdcsztHG6VNZMzvZxw1vIH3Mca`

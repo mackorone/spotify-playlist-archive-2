@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,970 likes - 100 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,943 likes - 100 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [The Wire](https://open.spotify.com/track/3UWgetrlbddIwrWVmXhRov) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [The Wire](https://open.spotify.com/album/3ZxYa0OcfFwlgal3tCRlHY) | 2:10 |
 | 100 | [Marbella](https://open.spotify.com/track/3AbDGbg5CSyThIomPyiZjy) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Marbella](https://open.spotify.com/album/57uTp4n0QVCB0xdxlpoJ2n) | 2:31 |
 
-Snapshot ID: `AAAAABNjUsoGyvo8XvLATd7VHT2IyXQ6`
+Snapshot ID: `AAAAAElFpmEZXvkitU7EYeMe7u1ArWzv`

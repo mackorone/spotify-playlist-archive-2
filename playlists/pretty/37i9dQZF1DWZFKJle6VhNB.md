@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,032 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,020 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Mel da Sua Boca](https://open.spotify.com/track/5StjBn63VYSJtMJbNJAtA7) | [Copacabana Beat](https://open.spotify.com/artist/34lV7CHojNfi4zwwON7c0U) | [Copacabana Beat](https://open.spotify.com/album/4r7kqyelpSdylXNJwWnZth) | 4:02 |
 | 100 | [Eu Sei de Cor](https://open.spotify.com/track/3jhrqAIDFZWCsZa6skHTOV) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [A Força do Querer, Vol\. 1](https://open.spotify.com/album/5Bp6ahuhtJ08NaFPZLjTnB) | 2:54 |
 
-Snapshot ID: `AAAAAIyndqdakuEDVWxF/O9pNclfI+Ic`
+Snapshot ID: `AAAAAOzvpxXbOAHMGXaM3vkf36PDhGhp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The sound of the underground\. Cover: Imminence
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,114 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,055 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 99 | [Signs \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/6HtwU4e2LXZKD6xy3ZlsXK) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Signs \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/4YVUTbjKBUXaVV1h6RJTR8) | 4:18 |
 | 100 | [AFTERLIFE](https://open.spotify.com/track/4OAP0t2AbljWcYfHdAPBmb) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [AFTERLIFE](https://open.spotify.com/album/29EcAXVqyiawfFLxNAr7dG) | 3:36 |
 
-Snapshot ID: `AAAAAP1WDxTHI4NthGl/eIG9hh/M0GRz`
+Snapshot ID: `AAAAAE1y/iCzC2jka2YwAhUweCmiwJoV`

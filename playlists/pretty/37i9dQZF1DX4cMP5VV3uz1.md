@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,872 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,874 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 99 | [Count That](https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Count That](https://open.spotify.com/album/00pIU5WVxQYOR5xSNb96Xt) | 3:36 |
 | 100 | [Disappear](https://open.spotify.com/track/7m4kAkVUzGxvYJwRlxDZPI) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [Disappear](https://open.spotify.com/album/6Z6E12BZGBn1BYyF2PvT9E) | 3:13 |
 
-Snapshot ID: `AAAAAMOfF+MuG3ItBU7S4Owo5d1jSePZ`
+Snapshot ID: `AAAAAFko8WjdhNE8ZHxlrJPBR9ustBPB`

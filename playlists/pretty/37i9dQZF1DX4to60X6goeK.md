@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Kanine
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,297 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,306 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Inside The Rider \- TC & Original Sin 2000's Remix](https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV) | [Inside The Rider \(TC & Original Sin 2000's Remix\)](https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y) | 3:51 |
 | 55 | [Irresistible](https://open.spotify.com/track/7wGSVbWBbiLALD9Wst8tJs) | [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU), [Captain Bass](https://open.spotify.com/artist/1XS6lKOHQLnfn6HKRwU5VG) | [Irresistible](https://open.spotify.com/album/0lxsMYABOd6W5NGpDVP7R7) | 3:38 |
 
-Snapshot ID: `AAAAANHjO1cUAVsPBGtANjV1aNXln5tt`
+Snapshot ID: `AAAAAAhbhRjxTjJbZayBmgdj47ASqmoj`

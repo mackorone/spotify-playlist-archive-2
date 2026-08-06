@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,759 likes - 150 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,799 likes - 150 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 149 | [Up With The Birds](https://open.spotify.com/track/30EPNX0HMflT7w6IBGV0sA) | [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Up With The Birds](https://open.spotify.com/album/7FH29UTUol8xqMRl1wrAOm) | 2:44 |
 | 150 | [walk into the light](https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [interlude ellipsis](https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl) | 3:02 |
 
-Snapshot ID: `AAAAAB0U8nceF93v2bCjshZY13hvMUwQ`
+Snapshot ID: `AAAAACsphBwLdKYqwIu/L9RIQj2mAtiM`

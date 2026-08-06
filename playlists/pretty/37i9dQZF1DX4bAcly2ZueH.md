@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,152 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,163 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 28 | [Namikimichi](https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw) | [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Namikimichi](https://open.spotify.com/album/6GCOhJ4u43m3tJaNKkhErs) | 1:59 |
 | 29 | [Love](https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5) | [Kastorbeats](https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC) | [Love](https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe) | 2:18 |
 | 30 | [Two Breath](https://open.spotify.com/track/5BJZMtXqjsM8TzWlkR43yo) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Two Breath EP](https://open.spotify.com/album/3w1FAdL9TmDrcXsYGbriYi) | 3:53 |
-| 31 | [surf minimalism](https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [dear surfers](https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU) | 2:09 |
-| 32 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 |
+| 31 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 |
+| 32 | [surf minimalism](https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [dear surfers](https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU) | 2:09 |
 | 33 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 |
 | 34 | [The Next vacation](https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e) | [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [wave wave wave](https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP) | 4:54 |
 | 35 | [Goodbye Blurry Days](https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [So Long So Blue](https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ) | 3:45 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 40 | [qutie](https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI) | [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [qutie](https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1) | 2:29 |
 | 41 | [Day of the Moon](https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Day of the Moon](https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk) | 2:36 |
 | 42 | [おはなしのはじまり](https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [UP AND DOWN Original Soundtrack](https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6) | 3:09 |
-| 43 | [When We Were Small](https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8) | [Naomi Eno](https://open.spotify.com/artist/3ggj8CCCXXL0C9n6CLzifo), [mahiro iska](https://open.spotify.com/artist/68hHRIEDCPLajRFRa9J3fo) | [When We Were Small](https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm) | 2:13 |
-| 44 | [Reminisce](https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2) | [法斎Beats](https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia) | [Reminisce](https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso) | 2:52 |
+| 43 | [Reminisce](https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2) | [法斎Beats](https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia) | [Reminisce](https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso) | 2:52 |
+| 44 | [When We Were Small](https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8) | [Naomi Eno](https://open.spotify.com/artist/3ggj8CCCXXL0C9n6CLzifo), [mahiro iska](https://open.spotify.com/artist/68hHRIEDCPLajRFRa9J3fo) | [When We Were Small](https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm) | 2:13 |
 | 45 | [Cristo Redentor](https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chips & Chill](https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE) | 2:34 |
 | 46 | [KUMORI](https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [KUMORI](https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu) | 2:43 |
 | 47 | [Resting Place](https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Resting Place](https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka) | 3:09 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 55 | [hakubo](https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23) | [THE LIQUID RAY](https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja) | [hakubo](https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2) | 0:55 |
 | 56 | [bed \- rework](https://open.spotify.com/track/2KsL8zTHdhq9UCoQS828JR) | [横山起朗](https://open.spotify.com/artist/0vlT69d2LzCebohSPMktHr), [sorami](https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98) | [bed \(rework\)](https://open.spotify.com/album/55TlZbTAmCgXIS1aGdQgRS) | 3:55 |
 | 57 | [Let You Know](https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [The Color and the Light](https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8) | 4:55 |
-| 58 | [Touch the Sky](https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Gyrefunk](https://open.spotify.com/artist/7eQEQLV4hM1kD1K0tKjI9u) | [Touch the Sky](https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD) | 3:42 |
-| 59 | [SHIBUYA 246](https://open.spotify.com/track/5BGcu5bwV51odilErIUURl) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [SHIBUYA 246](https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U) | 2:51 |
+| 58 | [re: Sound Of Light](https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [Hitori](https://open.spotify.com/artist/1BLxupu4NPracLOtvGHYbl) | [re: Sound Of Light](https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0) | 2:24 |
+| 59 | [Touch the Sky](https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Gyrefunk](https://open.spotify.com/artist/7eQEQLV4hM1kD1K0tKjI9u) | [Touch the Sky](https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD) | 3:42 |
 | 60 | [Fantastic](https://open.spotify.com/track/28tdrDdSAkaQdf0EP7UAX6) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Fantastic](https://open.spotify.com/album/0wbQoBc4b2zu8dCHnl9ou0) | 3:15 |
-| 61 | [re: Sound Of Light](https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [Hitori](https://open.spotify.com/artist/1BLxupu4NPracLOtvGHYbl) | [re: Sound Of Light](https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0) | 2:24 |
+| 61 | [SHIBUYA 246](https://open.spotify.com/track/5BGcu5bwV51odilErIUURl) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [SHIBUYA 246](https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U) | 2:51 |
 | 62 | [fresh](https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm) | [sukima](https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc) | [fresh](https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6) | 4:23 |
 | 63 | [It Hurts to Love You \(it meant a lot\)](https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [It Hurts to Love You \(it meant a lot\)](https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T) | 1:57 |
 | 64 | [Colony](https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ) | [Otokaze](https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj) | [flowingtime](https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Lie](https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 4:07 |
 | 100 | [哀しい予感 / リリウム](https://open.spotify.com/track/0Ov5RZIZfDD8A2d9nOWUgQ) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/3iPvyiDqZv85VVHWqCSfjQ) | 4:05 |
 
-Snapshot ID: `AAAAAPrvUJ8tMH3mZYAHnJ5rrS3CkGfd`
+Snapshot ID: `AAAAAB9GKfM+AVkq/ITHJ43nN2ZB7Mz5`

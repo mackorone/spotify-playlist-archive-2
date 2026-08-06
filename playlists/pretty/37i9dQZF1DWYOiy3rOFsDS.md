@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance a la antigüita con Tuffic en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,948 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,810 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Empecemos a Empezar](https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki) | [Licenciado Cariño](https://open.spotify.com/artist/2uEHk08DPegu9Q5e0OoG1m), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Empecemos a Empezar](https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4) | 3:20 |
 | 100 | [qué triste, qué desastre \(bolero\)](https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [nomeolvides](https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT) | 2:59 |
 
-Snapshot ID: `AAAAAP6QYrWgbowbvVazovZEuAKpqSIo`
+Snapshot ID: `AAAAAIzgIT7+GpGMHvOj8iRxxHelrX8l`

@@ -1,13 +1,53 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Ancient Infinity Orchestra. Artwork: Joy Yamusangie.",
-  "num_followers": 243991,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Pritesh Walia. Artwork: Joy Yamusangie.",
+  "num_followers": 244030,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJNzB349QLIM772mI8qI90x7qtRN",
+  "snapshot_id": "AAAAAGn1WfcX6CRGWgS58oA6iZT1AVpq",
   "tracks": [
+    {
+      "added_at": "2026-08-05 15:06:49",
+      "album": {
+        "name": "Journey To Nowhere",
+        "url": "https://open.spotify.com/album/6SnNEBG38zzVaiYduXiFoz"
+      },
+      "artists": [
+        {
+          "name": "Pritesh Walia",
+          "url": "https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl"
+        },
+        {
+          "name": "Henry Godfrey Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/01InjZS4je8QpsAWJ3BuJ3"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 660415,
+      "name": "Journey To Nowhere",
+      "url": "https://open.spotify.com/track/2517uBZrNsu4GX7HQ85Tux"
+    },
+    {
+      "added_at": "2026-08-05 15:06:49",
+      "album": {
+        "name": "Terrible Driver",
+        "url": "https://open.spotify.com/album/3p7AuGYjqPCfYR6g86e04H"
+      },
+      "artists": [
+        {
+          "name": "Noah Kellman",
+          "url": "https://open.spotify.com/artist/0IAsPAh0paR3ITchGRbda0"
+        }
+      ],
+      "duration_ms": 134091,
+      "name": "Terrible Driver",
+      "url": "https://open.spotify.com/track/4ymVHNnHlbgVGMF0yrxZM5"
+    },
     {
       "added_at": "2026-07-29 14:14:40",
       "album": {
@@ -867,38 +907,6 @@
       "duration_ms": 296928,
       "name": "Arrakis",
       "url": "https://open.spotify.com/track/1Jy7Z4rnkbkzminfmHQYz1"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Jazz Report from the Hood",
-        "url": "https://open.spotify.com/album/2ys0XCprUDcTOQ0xM2I0mU"
-      },
-      "artists": [
-        {
-          "name": "Omasta",
-          "url": "https://open.spotify.com/artist/1pKSKHYzswJjPo6qLjx1qO"
-        }
-      ],
-      "duration_ms": 254670,
-      "name": "We Gonna Make It",
-      "url": "https://open.spotify.com/track/2zCFZsrwN2cMj2ZJ8CXUjP"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Make It Make Sense",
-        "url": "https://open.spotify.com/album/2KL2KR0XhcfcS0golQ8AY8"
-      },
-      "artists": [
-        {
-          "name": "Brintex Collective",
-          "url": "https://open.spotify.com/artist/5jS72nZgNklECz7m1Lj7zR"
-        }
-      ],
-      "duration_ms": 345119,
-      "name": "Monson Road",
-      "url": "https://open.spotify.com/track/1ja8uUjSfepMYOPN0kt9pl"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

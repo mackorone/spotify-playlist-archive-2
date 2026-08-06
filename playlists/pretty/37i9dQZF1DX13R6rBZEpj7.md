@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,578 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,610 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Lyrically Ill](https://open.spotify.com/track/4KDwVMAww2vyI08I9gwiHk) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Lyrically Ill](https://open.spotify.com/album/3y0EuLlQ2mYOls7yWycvlv) | 3:42 |
 | 70 | [I'm Not Deep in Love](https://open.spotify.com/track/5dHsal8Ud0vreWyCSOuNy7) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX) | [I'm Not Deep in Love](https://open.spotify.com/album/28ahczD4GBPIeeAd44DZ4H) | 2:33 |
 
-Snapshot ID: `AAAAABIasvQLhHlloqSq0c5qpl7AA6Nq`
+Snapshot ID: `AAAAAKthO8QbcuAONB+lNAoCSqqG8GdQ`

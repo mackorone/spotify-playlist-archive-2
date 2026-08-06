@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر! الغلاف: الباور العالي
+> أجمد المهرجانات في مصر! الغلاف: مصطفي الجن و هادي الصغير \- تيم الابداع
 
-398 songs - 1 day 0 hr 51 min
+399 songs - 1 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [فتره و هتعدي](https://open.spotify.com/track/0eAQPO9lxQqc7F4BOy85As) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [فتره و هتعدي](https://open.spotify.com/album/12sDRnt0r4O3pua8zStqni) | 3:51 | 2022-11-17 | 2023-08-21 |
 | [فتش فتش](https://open.spotify.com/track/6TuMXB9iHua2rzUmRtuwiY) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [فتش فتش](https://open.spotify.com/album/3CMjbLQe3GRt0SMh8r0Ycm) | 3:58 | 2022-07-19 | 2022-10-25 |
 | [فتش فتش](https://open.spotify.com/track/6xT8RMc5S88Rfs82YZwmXm) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [فتش فتش](https://open.spotify.com/album/78b0ANL8qcCLnUr39MK2bt) | 3:58 | 2021-12-16 | 2022-10-28 |
-| [فلوسي](https://open.spotify.com/track/5fFin42tRibTmLADteF1fv) | [Elpower El3aly](https://open.spotify.com/artist/7h4vmBjL6JkQDHe5BbZ5AY), [عدوية شعبان عبدالرحيم](https://open.spotify.com/artist/3WGUpjRhDaXJpmhCRpIMkX) | [طلعة](https://open.spotify.com/album/2BbOSpuiqS3M4jKrWzTegU) | 2:50 | 2026-07-28 |  |
+| [فلوسي](https://open.spotify.com/track/5fFin42tRibTmLADteF1fv) | [Elpower El3aly](https://open.spotify.com/artist/7h4vmBjL6JkQDHe5BbZ5AY), [عدوية شعبان عبدالرحيم](https://open.spotify.com/artist/3WGUpjRhDaXJpmhCRpIMkX) | [طلعة](https://open.spotify.com/album/2BbOSpuiqS3M4jKrWzTegU) | 2:50 | 2026-07-28 | 2026-08-06 |
 | [فى زنزانتى يانفسي تعبتى واتهانتى](https://open.spotify.com/track/7dJquFdunElI5hwj8HVnZ6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [فى زنزانتى يانفسي تعبتى واتهانتى](https://open.spotify.com/album/4XPO8gzXlXmUehFmOlw4Df) | 3:53 | 2025-04-07 | 2026-04-22 |
 | [في داهية](https://open.spotify.com/track/3MmWMJvNipkaHJYEGHM5j0) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk) | [في داهية](https://open.spotify.com/album/4xWr4AHJ1Y2h2P3bQA8uNz) | 2:39 | 2023-09-05 | 2024-02-01 |
 | [في منامي شوفت الموت](https://open.spotify.com/track/5fE1GyXfyrNze2FFNo8MnV) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [في منامي شوفت الموت](https://open.spotify.com/album/46fkyGCwA2geznOFnXYwEu) | 4:59 | 2023-09-14 | 2024-02-01 |
@@ -303,6 +303,7 @@
 | [كلو الابيض ع ناصيتو \- انا من بلد اسمها حلوان](https://open.spotify.com/track/3o4uPQzXyFwqYQsW4VUqh9) | [Mostafa Elgen](https://open.spotify.com/artist/6waWgmPILhG345nVwJfb4N), [ايهاب البوب](https://open.spotify.com/artist/6j2PfMIitA4oMDA1WISieO), [Hady El Soghayar](https://open.spotify.com/artist/60peYSKKIhlh480uUFP7yP) | [كلو الابيض ع ناصيتو \(انا من بلد اسمها حلوان\)](https://open.spotify.com/album/7fHyOTUtQSyQ0tPZsrEKeQ) | 4:44 | 2025-04-22 | 2025-05-08 |
 | [كليب قلبي ياللي كلامي عندك \- حوده بندق](https://open.spotify.com/track/4Em6pbLVY7UIUyP8W0JRmX) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [كليب قلبي ياللي كلامي عندك \- حوده بندق](https://open.spotify.com/album/6vCp0MMAZdZ2fcY8zYVNQH) | 3:23 | 2023-08-08 | 2023-08-25 |
 | [لبسي برندات \( مفيش غيرك انتي يا مامت حيما \)](https://open.spotify.com/track/4v1tiU3b6qASEpPHtL2q3Z) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [لبسي برندات \( مفيش غيرك انتي يا مامت حيما \)](https://open.spotify.com/album/5aNLP3rzLiEW323s5SQXNK) | 3:19 | 2026-01-12 | 2026-04-08 |
+| [لساني بلعب وانا فرداني \( عمها مين فيكو قال انتهي \)](https://open.spotify.com/track/4o1WoOrn31vvT5WKsvJd8p) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc), [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [لساني بلعب وانا فرداني \( عمها مين فيكو قال انتهي \)](https://open.spotify.com/album/2HJR9YWxsXiSIh40KW5Mhp) | 3:21 | 2026-08-05 |  |
 | [لسه وحدانى](https://open.spotify.com/track/41ljJk2xNQxrz92cOQPebP) | [Team Omda](https://open.spotify.com/artist/1wut91Z0aLx8JiFdEbaZNm) | [لسه وحدانى](https://open.spotify.com/album/6veW4n1hS0d0Jfm1bncQJK) | 2:37 | 2023-07-19 |  |
 | [لعبة شيطان](https://open.spotify.com/track/7IyjPiblGU4K3drFcYJ8NF) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [حمادة الاسمر](https://open.spotify.com/artist/5LsL02cuu57lW7AOmvO3ps), [مودى امين](https://open.spotify.com/artist/7Ejmt0gVeRtQ5CLaTkd8bv) | [لعبة شيطان](https://open.spotify.com/album/3m5miPVgYM3zHo4gHOuLsf) | 3:55 | 2021-12-16 | 2022-10-25 |
 | [ليه يا دمعه جريتي فعيوني \( اللي شاف الشده بعينو \)](https://open.spotify.com/track/0RKDnlg1t9mcrt9GaO5Xgq) | [Ahmed Moza](https://open.spotify.com/artist/6N2xIHu8PVL85xrFYUjwcM), [Hasan El Prince](https://open.spotify.com/artist/6wZ1MmVViC2MTOip7jVUQm) | [ليه يا دمعه جريتي فعيوني \( اللي شاف الشده بعينو \)](https://open.spotify.com/album/5NI2ibkPwhMWbirp7GIjHj) | 4:40 | 2025-05-20 | 2025-07-25 |

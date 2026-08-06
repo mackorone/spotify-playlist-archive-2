@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,835 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,843 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Se Fiel](https://open.spotify.com/track/6TpFPZAxWgy2hTOMEL9v0r) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Al Señor](https://open.spotify.com/album/3cSuxWfkJcGUiLUUmDxZ1E) | 3:17 |
 | 100 | [Examíname](https://open.spotify.com/track/1dx0pLQ2BjK0aCDPDmnuqP) | [Joseph Espinoza](https://open.spotify.com/artist/3ecc3WKGzs3ejPlL3M17R3) | [Examíname](https://open.spotify.com/album/6aKFGDWFBybgCCzx8b3PQy) | 4:02 |
 
-Snapshot ID: `AAAAAAWwbOdIZd5JfjTgw+IOYciPMipb`
+Snapshot ID: `AAAAACyLEiYE3obdDKPnrw9Rm8Yh3hpf`

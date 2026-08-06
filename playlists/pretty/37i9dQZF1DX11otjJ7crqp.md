@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Niko Rubio
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,532 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,798 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 149 | [4L](https://open.spotify.com/track/5rylK4OzVZA4Se5TM997rb) | [oktehya](https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw) | [4L](https://open.spotify.com/album/6xibxT71j595mgwTr3FASn) | 2:04 |
 | 150 | [Placebo effect](https://open.spotify.com/track/0AWIGwqHxkhlO1mRKf0aFM) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Placebo effect](https://open.spotify.com/album/4P6s1GGlKcN0iH03loYMkf) | 3:09 |
 
-Snapshot ID: `AAAAAEl6TDuuINmhbqeiHWuf9+SXvf48`
+Snapshot ID: `AAAAAPauqAEnd3eEkxFeYQpOxHYYiq/w`

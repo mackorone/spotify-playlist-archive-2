@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 雪国 Yukiguni
 
-3,720 songs - 9 day 19 hr 51 min
+3,721 songs - 9 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [fushigi \- URBAN VOLCANO SOUNDS Mysterious Boogie Remix](https://open.spotify.com/track/4izWh3S6IbaKO0pIRHdSxZ) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF), [URBAN VOLCANO SOUNDS](https://open.spotify.com/artist/7uKxxjykhehO0XETSo7Ahi) | [fushigi \(URBAN VOLCANO SOUNDS Mysterious Boogie Remix\)](https://open.spotify.com/album/1kLgYyA73inRosAynMsNHu) | 5:49 | 2023-08-22 | 2023-09-19 |
 | [Futari Wa Tobiorita](https://open.spotify.com/track/2hNl4RZC4tyQ8x0BhBjOuy) | [SUBARASHIKA](https://open.spotify.com/artist/6aNahzVflJNhU49Ttmvsq5) | [Futari Wa Tobiorita](https://open.spotify.com/album/5XKVLxolj7tjWXgD1HgBr5) | 3:57 | 2023-09-26 | 2023-10-04 |
 | [FUTASHIKANA SEKAI](https://open.spotify.com/track/45t69CLLKDwVlSRawFHxjl) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [MEMORIES](https://open.spotify.com/album/2rZWuJ521siMuP2TYUwP4W) | 3:42 | 2024-09-17 | 2024-09-25 |
+| [Future Heat feat\. Keagan Raphael](https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Keagan Raphael](https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo) | [MOMENT](https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS) | 3:40 | 2026-08-05 |  |
 | [FUTURE is](https://open.spotify.com/track/4tB3Wm9IZTmP4vIa30W27M) | [Nao☆](https://open.spotify.com/artist/4l3RPSnpTQowMlWZe34WBh) | [Observatory](https://open.spotify.com/album/11PPoWFOpX4G2RVKvGCtc9) | 4:10 | 2025-12-23 | 2026-01-15 |
 | [FUTURE STORY](https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy) | [FUTURE STORY](https://open.spotify.com/album/1xVNHk9hWTCM1yYoDwwIuN) | 2:44 | 2024-02-27 | 2024-04-10 |
 | [Fuwa Fuwa](https://open.spotify.com/track/0GJvDRvKMDEVN4eGCQ1Ts5) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Already](https://open.spotify.com/album/2IybN7u5SBV4yTORBHhrFb) | 3:26 | 2026-01-15 |  |
@@ -1437,7 +1438,7 @@
 | [noonoonoon](https://open.spotify.com/track/09Tsaaq09p1t5FXTAOoB58) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [noonoonoon](https://open.spotify.com/album/2zr8eIhuh8WXfW2GaJgp6p) | 2:47 | 2023-06-20 | 2023-06-28 |
 | [Not Bad](https://open.spotify.com/track/4lgb0ZbGN8cme2W8bDV10B) | [Verandah](https://open.spotify.com/artist/6beXhiFz00oHfw7Z3fu7j9) | [Not Bad](https://open.spotify.com/album/1Ohx16zY1YX3fc0zd5b4Vf) | 4:45 | 2024-01-16 | 2024-01-24 |
 | [Not Today](https://open.spotify.com/track/5l3XepLiCOHECoQOAgEJOO) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Not Today](https://open.spotify.com/album/1jBwkMa52mnMVjUSgDvZfy) | 3:31 | 2024-05-28 | 2024-06-05 |
-| [Note of Mothership](https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Note of Mothership](https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf) | 2:58 | 2026-07-14 |  |
+| [Note of Mothership](https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Note of Mothership](https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf) | 2:58 | 2026-07-14 | 2026-08-06 |
 | [Nothing \#2 \(feat\. Alex Siegel\)](https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [THE CHARM PARK II EXTRA](https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC) | 3:32 | 2023-12-07 | 2024-02-14 |
 | [Nothing Everywhere All at Once](https://open.spotify.com/track/652v6PojkRdrP7pw95Cj5t) | [Giallo](https://open.spotify.com/artist/2E6hghwHRFdhnjLlSLmBdA) | [Nothing Everywhere All at Once](https://open.spotify.com/album/6Ir9vEDYUGPjMlAwKVM37G) | 3:21 | 2026-03-03 | 2026-03-11 |
 | [nothing is but what is not](https://open.spotify.com/track/4Wj3RqE9qwe4YuSQlNRCTj) | [upandcoming](https://open.spotify.com/artist/099NoBugpikvf79ucbhhwA) | [NOTHING IS BUT WHAT IS NOT e.p.](https://open.spotify.com/album/1YltXscTXsfUbS1X2ri2X1) | 3:48 | 2026-03-03 | 2026-03-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,467 likes - 79 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,465 likes - 79 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 78 | [is it](https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ) | [Aga Derlak](https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l) | [neurodivergent](https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu) | 9:28 |
 | 79 | [Through The Hourglass](https://open.spotify.com/track/1qK1QaIsVwDGtpoEZO1nku) | [Grzegorz Masłowski](https://open.spotify.com/artist/0Niiwq7pOtjOiLHWgazzFf), [Marcin Kaletka](https://open.spotify.com/artist/3Nt9qGuEE62mfXix1olw8T), [Jarosław Bothur](https://open.spotify.com/artist/27py90o2nVmbxES4ZRD0G0), [Mateusz Pałka](https://open.spotify.com/artist/6xP0Vou9vkHkmiblCpoLgo), [Piotr Południak](https://open.spotify.com/artist/5crOp7ea1g8f6YHiqzL8UH) | [Through The Hourglass \(Acoustic\)](https://open.spotify.com/album/776qd7dIOzM2n4x9jO6IqE) | 9:10 |
 
-Snapshot ID: `AAAAAJCNzyD/LcbZ0mBgZvsQcqR8Q1Ly`
+Snapshot ID: `AAAAAN7b9RqTZmTuilYnBrR/PQM1rks3`

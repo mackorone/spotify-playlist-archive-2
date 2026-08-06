@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm4vT7WQxcD.md) - [plain]
 
 > Relax and let the hum of calming white noise box fans and air conditioner sounds lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,302 likes - 125 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,352 likes - 125 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm4vT7WQxcD.md) - [plain]
 | 124 | [Serene Slumber: Box Fan's Tranquil Tones](https://open.spotify.com/track/33LgHov3fTmVIanPy7CoTz) | [Outside White Noise](https://open.spotify.com/artist/5nHa2oeH3MYeyYSkB6hs9h) | [Box Fan Oasis: Serenade of Relaxation](https://open.spotify.com/album/5OcWj4JVBoQGfQGNCeGBKa) | 2:30 |
 | 125 | [Box Fan Harmony: Your Sleep Soundtrack](https://open.spotify.com/track/0fxHL19ZP1JsPugospqZHA) | [Elvine](https://open.spotify.com/artist/3udPu5UsIIGPmxUVqhjj2n) | [Box Fan Harmony: Your Sleep Soundtrack](https://open.spotify.com/album/78NIjsMPOVXu3m0f8RUPM9) | 2:26 |
 
-Snapshot ID: `AAAAAKK4n7puGgGrZQOk9ywTQj0Z4BB8`
+Snapshot ID: `AAAAADWP4WJ0ybK066Q3+ZHUTR6zUHec`

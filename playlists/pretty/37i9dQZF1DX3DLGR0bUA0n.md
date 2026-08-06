@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,247 likes - 125 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,275 likes - 125 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 124 | [Ojitos Negros](https://open.spotify.com/track/5pcL0RKxKYjfk6aCUT6QnL) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Ojitos Negros](https://open.spotify.com/album/2kQa0zqGpte9V3BepV3ChO) | 2:31 |
 | 125 | [Las Envidias, los Chismes y las Traiciones](https://open.spotify.com/track/7zqNRqTWEAxatMuV9ZWVu7) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Yo Soy de la Sierra](https://open.spotify.com/album/70MQXaxxkRlWUKcuYXgA9j) | 3:18 |
 
-Snapshot ID: `AAAAACBV+FkA569rNyWKDVl/In0zMp81`
+Snapshot ID: `AAAAAFkCV2jdMziQEkT2yfr30lPAT8SU`

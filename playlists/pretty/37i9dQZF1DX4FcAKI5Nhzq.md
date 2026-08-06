@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: NouerA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,796 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,714 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [Runaway](https://open.spotify.com/track/2oqZ4QuvbLyNwZ5H9FzzW1) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Runaway](https://open.spotify.com/album/7rGcnNoG09g5Meje4gPrwN) | 2:59 |
 | 50 | [AMAZING \(feat\. Sik\-K\)](https://open.spotify.com/track/0h97ZHSA2ZSw7Gfz1NKTDY) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FOREVER KIDS](https://open.spotify.com/album/3EhMtYhrnZ1XDJ7FyzmRLq) | 3:39 |
 
-Snapshot ID: `AAAAAE0yhbfi6hA/HrNSqYUZmy7nmtYg`
+Snapshot ID: `AAAAAGZ0Esy9GMnGWLTa3752LSluaP0k`

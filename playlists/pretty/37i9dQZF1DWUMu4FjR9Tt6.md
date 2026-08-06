@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 104 | [Sinnerman](https://open.spotify.com/track/3EIidirnGCYto1KtcNfttt) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Legendary Jazz Voices](https://open.spotify.com/album/5k62RQ9j9mk4AGYaZpLIWR) | 10:22 |
 | 105 | [Hello](https://open.spotify.com/track/2ij8uf754WwccftaYn3kay) | [My Kullsvik](https://open.spotify.com/artist/5URiHHxjOuaGuNZPmccofu) | [Hello \(Swedish Cover\)](https://open.spotify.com/album/4HyNWn0hioQ8zyLbJVLa3i) | 4:22 |
 
-Snapshot ID: `AAAAAAvHbNzKC16NnI8/jq94oZnuUT2F`
+Snapshot ID: `AAAAAFsbblAm93zLC0Jxp4ylGnRtKfsD`

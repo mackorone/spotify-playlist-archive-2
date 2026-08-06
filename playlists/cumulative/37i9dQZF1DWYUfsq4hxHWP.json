@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: McCall Chapin, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Lilly Moss, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -572,7 +572,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 213692,
       "name": "4th of July Darlin'",
       "url": "https://open.spotify.com/track/4VlXgu8bztsttp9i0IBm8t"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 183658,
       "name": "A Song for You",
       "url": "https://open.spotify.com/track/7lgei7Qfy2ItzgaEVMr3RC"
@@ -4988,7 +4988,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 185343,
       "name": "Beach Fire Embers",
       "url": "https://open.spotify.com/track/599TFLHeKErarQkqOIvlSF"
@@ -9464,6 +9464,24 @@
       "duration_ms": 205081,
       "name": "Can't Call You Beautiful",
       "url": "https://open.spotify.com/track/5JbwjJGfajXcvuR23N4chq"
+    },
+    {
+      "album": {
+        "name": "Can't Compete with Carolina",
+        "url": "https://open.spotify.com/album/2odNl43uXlhPKHnPaXbii4"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214577,
+      "name": "Can't Compete with Carolina",
+      "url": "https://open.spotify.com/track/5sJmMOjavPNgFrzarKKvMF"
     },
     {
       "album": {
@@ -14580,6 +14598,24 @@
       "duration_ms": 197874,
       "name": "Different Places",
       "url": "https://open.spotify.com/track/7F3geYTMZOvYfoLkBzrOh7"
+    },
+    {
+      "album": {
+        "name": "Dimestore Jesus",
+        "url": "https://open.spotify.com/album/3rLZ5UUHqXH0B9qHVJ5dco"
+      },
+      "artists": [
+        {
+          "name": "Next of Kin",
+          "url": "https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Dimestore Jesus",
+      "url": "https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn"
     },
     {
       "album": {
@@ -29260,6 +29296,24 @@
       "duration_ms": 177954,
       "name": "I See You",
       "url": "https://open.spotify.com/track/7IDetZHdCwlHgjMeCelWZI"
+    },
+    {
+      "album": {
+        "name": "I Should Want To",
+        "url": "https://open.spotify.com/album/641EZJUmmXEZFudXGm6YoW"
+      },
+      "artists": [
+        {
+          "name": "Avery Roberson",
+          "url": "https://open.spotify.com/artist/1NFcvAjVEYtn0ExV1O17oU"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231335,
+      "name": "I Should Want To",
+      "url": "https://open.spotify.com/track/1yMBYzgmdJCmBDYmW51Kg8"
     },
     {
       "album": {
@@ -44972,7 +45026,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 221227,
       "name": "Perfect Stranger",
       "url": "https://open.spotify.com/track/02ulBGJvONcFqJca2W0WkF"
@@ -45210,6 +45264,24 @@
       "duration_ms": 192840,
       "name": "Pigs Can't Fly",
       "url": "https://open.spotify.com/track/5SYeyel4Ab1HRsIUjhUhMK"
+    },
+    {
+      "album": {
+        "name": "Miracles Off Exit 17",
+        "url": "https://open.spotify.com/album/7qRqVV9u27obhUyzrEvtgi"
+      },
+      "artists": [
+        {
+          "name": "Colin Lynch",
+          "url": "https://open.spotify.com/artist/05SVbHynbrctQGdx22K45Z"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191686,
+      "name": "Pine Barren Heart",
+      "url": "https://open.spotify.com/track/05NocomOhqwmoFCdi55aHu"
     },
     {
       "album": {
@@ -52350,6 +52422,24 @@
       "duration_ms": 213841,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/3VkRJudXXWR4AXVmwHqQIe"
+    },
+    {
+      "album": {
+        "name": "Somebody Should",
+        "url": "https://open.spotify.com/album/4Plx6XdSIHuEylH89b5rgr"
+      },
+      "artists": [
+        {
+          "name": "Lilly Moss",
+          "url": "https://open.spotify.com/artist/5FOKKpkO9t13FKwScZGC18"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191553,
+      "name": "Somebody Should",
+      "url": "https://open.spotify.com/track/5bORc5boqKm5x3mMwUagTn"
     },
     {
       "album": {
@@ -59678,7 +59768,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 188031,
       "name": "Til Dawn",
       "url": "https://open.spotify.com/track/1PpYbP1ivDkMxoypN49LCu"
@@ -59934,6 +60024,24 @@
       "duration_ms": 183473,
       "name": "Tired of You",
       "url": "https://open.spotify.com/track/2TEm7ir4zuP0E2CtZpT2yn"
+    },
+    {
+      "album": {
+        "name": "Title Track",
+        "url": "https://open.spotify.com/album/6fAkkyE6Bbu1oXFK2pcgYx"
+      },
+      "artists": [
+        {
+          "name": "AUSTIN G",
+          "url": "https://open.spotify.com/artist/2MKu40myhUVlIgfsrw5Huq"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160156,
+      "name": "Title Track",
+      "url": "https://open.spotify.com/track/31W9mk30NYSZcuSkYi5Emd"
     },
     {
       "album": {

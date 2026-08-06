@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,137 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,159 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 141 | [I Touch Myself](https://open.spotify.com/track/5WAdxow8ofiTbUyt05Wiil) | [Scala & Kolacny Brothers](https://open.spotify.com/artist/5cXCuJjbyxee1uCILXatYZ) | [Dream On](https://open.spotify.com/album/4qjoXLZRCAtui4PWpoRosO) | 2:20 |
 | 142 | [Sexual Healing](https://open.spotify.com/track/4QqrDluEDwmuxnH4Y3H346) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Rock With the Hot 8](https://open.spotify.com/album/4Wt275jWR86DOTn7zgVWFR) | 8:53 |
 | 143 | [We Don't Have To Take Our Clothes Off \- 7'' Version](https://open.spotify.com/track/7y5oFt113JF0bnr4rKyLN8) | [Jermaine Stewart](https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3) | [Playlist: Dance](https://open.spotify.com/album/4Qy5iKJx5KyRfYkXLJVcnS) | 4:07 |
-| 144 | [Do Ya Think I'm Sexy](https://open.spotify.com/track/3wsPg2KrRYZFi0inIFa41x) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Do Ya Think I'm Sexy? / Scarred and Scared](https://open.spotify.com/album/5A6h58VvAuMEhrWK7XxGdh) | 5:25 |
+| 144 | [Da Ya Think I'm Sexy](https://open.spotify.com/track/3wsPg2KrRYZFi0inIFa41x) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Da Ya Think I'm Sexy? / Scarred and Scared](https://open.spotify.com/album/5A6h58VvAuMEhrWK7XxGdh) | 5:25 |
 | 145 | [Do It Again a Little Bit Slower](https://open.spotify.com/track/7rPAJTyiWsWrEAHr99mjjs) | [Jon & Robin](https://open.spotify.com/artist/1GdPCwrerFsj8OT1o7dkLS) | [The Soul of a Boy and Girl](https://open.spotify.com/album/37ZbRNJ5kTb6MIaaXGoTN3) | 2:33 |
 | 146 | [Two Tribes](https://open.spotify.com/track/5NN5MQyE3Lo91zAEHpGa7S) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 3:28 |
 | 147 | [Everywhere](https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:42 |
@@ -340,4 +340,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 330 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 331 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
 
-Snapshot ID: `AAAAACyEAtaytaPq2+GWMJriXm38E9uG`
+Snapshot ID: `AAAAAGe07Z2Xw3vJOKan9Ko4ykUg3ZXt`

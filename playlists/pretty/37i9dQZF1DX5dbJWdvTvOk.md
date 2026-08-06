@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,619 likes - 300 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,613 likes - 300 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 299 | [Algo Lento](https://open.spotify.com/track/7eDXi2Pu6Kx9Qxam7Rtn6V) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Algo Lento](https://open.spotify.com/album/1zq6QFxR7OhZbgKLWUDtMs) | 2:17 |
 | 300 | [Deep Waters](https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Deep Waters](https://open.spotify.com/album/2jFYCbPkXAN8JrOG93kXmt) | 2:19 |
 
-Snapshot ID: `AAAAACAg6wXU5eXFSkPmYTO9E9arkjx9`
+Snapshot ID: `AAAAADD20Rj+14MC+OtAhD9MH2lQbVL9`

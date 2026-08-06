@@ -1,13 +1,45 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Maya Donovan",
-  "num_followers": 100146,
+  "num_followers": 100234,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGzhpcF0i2splikBK9kRUVxk39YJ",
+  "snapshot_id": "AAAAAH21pJcmGRavptNSWYKWecKyTxhA",
   "tracks": [
+    {
+      "added_at": "2026-08-05 16:00:13",
+      "album": {
+        "name": "You Won't Get My Message but You'll Hear It",
+        "url": "https://open.spotify.com/album/5e3rEnZ6u57bMgXulTZ2xB"
+      },
+      "artists": [
+        {
+          "name": "Coco Smith",
+          "url": "https://open.spotify.com/artist/3vzRcCdJw5Sk24gJoaMB6E"
+        }
+      ],
+      "duration_ms": 198810,
+      "name": "Multiform",
+      "url": "https://open.spotify.com/track/2bmiqYmS6rhfbUEUCXKueV"
+    },
+    {
+      "added_at": "2026-08-05 16:00:13",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/18LbowdBwEYPyoHEBmkfp0"
+      },
+      "artists": [
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "duration_ms": 267560,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4SiojdReG8nXplUNGWSYN3"
+    },
     {
       "added_at": "2026-07-22 13:05:27",
       "album": {
@@ -23,6 +55,58 @@
       "duration_ms": 200730,
       "name": "The Ground Here",
       "url": "https://open.spotify.com/track/418czu4odsJIt9JabJYg2u"
+    },
+    {
+      "added_at": "2026-08-05 16:00:13",
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/75j249rBr9fqV6HwaDC2J1"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "duration_ms": 227774,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/7uPfQr3GC5BjXI3crF2YKB"
+    },
+    {
+      "added_at": "2026-08-05 16:00:13",
+      "album": {
+        "name": "Blue Stained Glass",
+        "url": "https://open.spotify.com/album/6BZx64F9oGZjasmpGKrn1w"
+      },
+      "artists": [
+        {
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        },
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Blue Stained Glass",
+      "url": "https://open.spotify.com/track/1PzX46fVtrCzJiaopKwu3h"
+    },
+    {
+      "added_at": "2026-08-05 16:00:13",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/784ntHZ8rOCR17Fi45OFSP"
+      },
+      "artists": [
+        {
+          "name": "RYMAN",
+          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
+        }
+      ],
+      "duration_ms": 194519,
+      "name": "Backroads",
+      "url": "https://open.spotify.com/track/7hThw8u62Hy5LLIGSyHyAe"
     },
     {
       "added_at": "2026-07-29 19:41:46",
@@ -91,6 +175,22 @@
       "duration_ms": 189869,
       "name": "coreshadow",
       "url": "https://open.spotify.com/track/1LpG1YWOoihZSi8LlXMExb"
+    },
+    {
+      "added_at": "2026-08-05 16:00:13",
+      "album": {
+        "name": "Diamond Ring",
+        "url": "https://open.spotify.com/album/1ynwfs7HD97ar6EzT5CHjN"
+      },
+      "artists": [
+        {
+          "name": "Kamran Khan",
+          "url": "https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA"
+        }
+      ],
+      "duration_ms": 218559,
+      "name": "Diamond Ring",
+      "url": "https://open.spotify.com/track/7x59f5TXOxDm5Kn1FUJdJ5"
     },
     {
       "added_at": "2026-07-29 19:41:46",
@@ -993,54 +1093,6 @@
       "url": "https://open.spotify.com/track/4NKSMuM0rG4FN6CwPjXHQM"
     },
     {
-      "added_at": "2026-04-29 18:31:34",
-      "album": {
-        "name": "We Swallowed The Sky",
-        "url": "https://open.spotify.com/album/2FTn24fXfckKGHhyt8R1ij"
-      },
-      "artists": [
-        {
-          "name": "Beatrix",
-          "url": "https://open.spotify.com/artist/70GG0H4aMaTD5kBzqUfSlh"
-        }
-      ],
-      "duration_ms": 231117,
-      "name": "Upstate",
-      "url": "https://open.spotify.com/track/6Swl911DmwTVxG8FtcVa25"
-    },
-    {
-      "added_at": "2026-05-06 16:16:56",
-      "album": {
-        "name": "On the Way Down",
-        "url": "https://open.spotify.com/album/31QcE7iZjychuryUBWuP8r"
-      },
-      "artists": [
-        {
-          "name": "Eliana Glass",
-          "url": "https://open.spotify.com/artist/1PJjW9Z03G2R0q6GM6QgFc"
-        }
-      ],
-      "duration_ms": 229750,
-      "name": "On the Way Down",
-      "url": "https://open.spotify.com/track/6Wq0hIfjLMvSAdK3adpp6c"
-    },
-    {
-      "added_at": "2026-05-06 16:16:56",
-      "album": {
-        "name": "Oh, Mama",
-        "url": "https://open.spotify.com/album/4DS4kETjtZQmTCwz1umHm6"
-      },
-      "artists": [
-        {
-          "name": "Atta Boy",
-          "url": "https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2"
-        }
-      ],
-      "duration_ms": 241816,
-      "name": "Oh, Mama",
-      "url": "https://open.spotify.com/track/16Ol6NyBhxU8lSKlxA0qMt"
-    },
-    {
       "added_at": "2026-05-06 16:16:56",
       "album": {
         "name": "This Is Our Life",
@@ -1103,54 +1155,6 @@
       "duration_ms": 266566,
       "name": "Flower",
       "url": "https://open.spotify.com/track/03zy9xJ8UnPLlfzn4bFF3B"
-    },
-    {
-      "added_at": "2026-05-06 16:16:56",
-      "album": {
-        "name": "Wet the Bed",
-        "url": "https://open.spotify.com/album/1g9Jp9THXPHno2rtt8LYZg"
-      },
-      "artists": [
-        {
-          "name": "face of ancient gallery",
-          "url": "https://open.spotify.com/artist/0ZGx5KuOeOamwoQ2384MUz"
-        }
-      ],
-      "duration_ms": 170255,
-      "name": "Wet the Bed",
-      "url": "https://open.spotify.com/track/4HodJ3HTljTZ6Tdmmb5MQc"
-    },
-    {
-      "added_at": "2026-04-29 18:31:34",
-      "album": {
-        "name": "oh child",
-        "url": "https://open.spotify.com/album/3Bs14xWCEsIEpYm03C7vQM"
-      },
-      "artists": [
-        {
-          "name": "kai devega",
-          "url": "https://open.spotify.com/artist/7LY06C4u9cUzboEkDvq5AY"
-        }
-      ],
-      "duration_ms": 122833,
-      "name": "oh child",
-      "url": "https://open.spotify.com/track/1vKojl7j8BBAZkNwXrBk7j"
-    },
-    {
-      "added_at": "2026-04-29 18:31:34",
-      "album": {
-        "name": "Nook",
-        "url": "https://open.spotify.com/album/09RHtXum96j7naqG60VJJ0"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
-        }
-      ],
-      "duration_ms": 294370,
-      "name": "Nook",
-      "url": "https://open.spotify.com/track/5Awkgzj016bUr6v9TeZ5QH"
     },
     {
       "added_at": "2026-04-15 17:14:04",

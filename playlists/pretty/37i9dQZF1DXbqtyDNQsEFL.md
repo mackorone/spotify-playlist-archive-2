@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Anna Makula
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,078 likes - 80 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,120 likes - 80 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Living Waters](https://open.spotify.com/track/6IFworJItnOJgbcI9vGnwV) | [Toprock Gospel](https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Living Waters](https://open.spotify.com/album/1oIpFIzGcakV6rnvVTWDjP) | 3:34 |
 | 80 | [Self](https://open.spotify.com/track/4eqDfX5jMdki9ZHWK1GiVk) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Dells TMX](https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r) | [Self](https://open.spotify.com/album/4aFskmoIwJi2rmMOIkFgaK) | 2:52 |
 
-Snapshot ID: `AAAAAOEXRPg+VZAGJxd4AoYPGJifdLpM`
+Snapshot ID: `AAAAAIZeMhe9egqMTG/Hen1QWE3Zdf4b`

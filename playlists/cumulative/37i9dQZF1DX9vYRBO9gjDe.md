@@ -2,7 +2,7 @@
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月3日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月4日付。
 
 7,898 songs - 19 day 14 hr 48 min
 
@@ -3228,7 +3228,7 @@
 | [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 | 2024-02-06 | 2024-02-09 |
 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-07-01 | 2025-07-05 |
 | [on my own way](https://open.spotify.com/track/1qZgUQJPeMNuaJoQzk5iz3) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [on my own way](https://open.spotify.com/album/20hSpkw0ZrWfUChApIeJXs) | 2:29 | 2025-10-21 | 2025-10-25 |
-| [On My Road](https://open.spotify.com/track/35j4pFuMcA3NEVvDZ6Rda5) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [陰ニモ日向ニモ](https://open.spotify.com/album/5ui1qswwdShabB5rWhc7hk) | 4:11 | 2026-04-23 |  |
+| [On My Road](https://open.spotify.com/track/35j4pFuMcA3NEVvDZ6Rda5) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [陰ニモ日向ニモ](https://open.spotify.com/album/5ui1qswwdShabB5rWhc7hk) | 4:11 | 2026-04-23 | 2026-08-06 |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-05 | 2023-03-18 |
 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 | 2024-10-16 | 2025-04-09 |
 | [One](https://open.spotify.com/track/0uKaL6p5igatyLtOKkHsEl) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [THE BEST 2020 \- 2025](https://open.spotify.com/album/4aAwZdP0gcG0WXPoFH5Tpp) | 3:42 | 2025-04-16 | 2025-04-17 |
@@ -5637,7 +5637,7 @@
 | [アンカー](https://open.spotify.com/track/5d7sKC9OOuQzimMOngprCw) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Running Through the Fire](https://open.spotify.com/album/6FhWmFVExZZrqvPudu8SCV) | 2:54 | 2025-09-09 | 2025-09-11 |
 | [アンスロポス](https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k) | [関ジャニ∞](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [アンスロポス](https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d) | 3:39 | 2024-01-26 | 2024-01-29 |
 | [アンゼンパイ](https://open.spotify.com/track/2rpnXsPsPV36V4HGnYhTdo) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Progressive](https://open.spotify.com/album/5KcY5VouJpaGlb4FZ383gl) | 4:26 | 2025-08-01 | 2025-08-02 |
-| [アンパンマンたいそう](https://open.spotify.com/track/1uet9g0vZZPACZ83oMDDe4) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン 恐竜ノッシーの大冒険](https://open.spotify.com/album/4KqNbhc7QjASUToxOaRlDo) | 4:34 | 2025-02-28 |  |
+| [アンパンマンたいそう](https://open.spotify.com/track/1uet9g0vZZPACZ83oMDDe4) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン 恐竜ノッシーの大冒険](https://open.spotify.com/album/4KqNbhc7QjASUToxOaRlDo) | 4:34 | 2025-02-28 | 2026-08-06 |
 | [アンパンマンのマーチ](https://open.spotify.com/track/1zWDvA65SyP3k2lqGmCvGZ) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン キラキラ星の涙](https://open.spotify.com/album/2GHqWKLw906drAsKQtQf64) | 2:50 | 2024-11-20 | 2026-07-24 |
 | [アンビシャス](https://open.spotify.com/track/7svD5Sa5WNmvEpflWbUkhR) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アンビシャス](https://open.spotify.com/album/7IUZ67rVQ6jOffOzVjrMTr) | 3:06 | 2023-05-01 | 2023-05-15 |
 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-01-22 | 2024-04-16 |
@@ -5741,7 +5741,7 @@
 | [ガラスの靴](https://open.spotify.com/track/66MlCCpGG1anZjSEG1003t) | [Ryosuke Yamada](https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q) | [Are You Red.Y?](https://open.spotify.com/album/0T9yfs2MfQk6kfgn4bnHfD) | 4:57 | 2026-05-22 | 2026-05-29 |
 | [ガラナ](https://open.spotify.com/track/5LkKDskuQzgzvE2lmt2QSn) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [ガラナ](https://open.spotify.com/album/6IgmxeNf03SMseyNEyRINr) | 3:40 | 2024-05-31 | 2024-06-03 |
 | [ガーデン](https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:49 | 2024-11-18 | 2026-02-12 |
-| [キケンナアソビ](https://open.spotify.com/track/2XvtKqNuL8vCkekyzmb8OJ) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [夜にしがみついて、朝で溶かして](https://open.spotify.com/album/2xXBLrS026lOtokTttSEm8) | 4:01 | 2025-01-10 | 2026-08-05 |
+| [キケンナアソビ](https://open.spotify.com/track/2XvtKqNuL8vCkekyzmb8OJ) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [夜にしがみついて、朝で溶かして](https://open.spotify.com/album/2xXBLrS026lOtokTttSEm8) | 4:01 | 2025-01-10 |  |
 | [キケンナアソビ](https://open.spotify.com/track/0YGiwqpEM6z2poUTqtLKAd) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [もしも生まれ変わったならそっとこんな声になって](https://open.spotify.com/album/3wdZ4kOQIdR0ppsj6oVG7R) | 3:56 | 2024-08-29 | 2024-09-17 |
 | [キスが苦い](https://open.spotify.com/track/4PaLKbIU8NvguxcrjMvHXh) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [The growing up train \(Special Edition\)](https://open.spotify.com/album/5beJvSa1ZMvGtChLMkT60i) | 3:03 | 2026-03-16 | 2026-03-18 |
 | [キスキツネ](https://open.spotify.com/track/2QUF03pcMAZxotBYviFocR) | [HIMEHINA](https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq) | [キスキツネ](https://open.spotify.com/album/5zVx6C3xC3MPjM439p5RQ1) | 2:54 | 2025-03-07 | 2025-03-13 |
@@ -6877,7 +6877,7 @@
 | [好きな人がいること](https://open.spotify.com/track/15HDH9up3Imdm8KtsGv9XD) | [JY](https://open.spotify.com/artist/5vO3b6n7tKXv7S9JWmeniF) | [Many Faces \-多面性\-](https://open.spotify.com/album/5AHNRu1ibpXQAnONhcpRlB) | 4:32 | 2024-10-11 | 2026-07-01 |
 | [好きになるクレッシェンド](https://open.spotify.com/track/2JTPCY0hGhFsYTAPQfhhUP) | [Hinatazaka46](https://open.spotify.com/artist/0eQSoTI7sQENREQM8Klp2j) | [好きになるクレッシェンド](https://open.spotify.com/album/6GVYLkkgQEh4EDQbg5NpsC) | 4:04 | 2026-01-29 | 2026-01-31 |
 | [好きになるクレッシェンド](https://open.spotify.com/track/3OaT1FZnlS6zK1YT5PkDaK) | [Hinatazaka46](https://open.spotify.com/artist/0eQSoTI7sQENREQM8Klp2j) | [クリフハンガー\(Special Edition\)](https://open.spotify.com/album/4ryladfbTfrKvqwQfss8to) | 4:04 | 2026-02-04 | 2026-02-07 |
-| [始まりのように](https://open.spotify.com/track/0E3u9s7dNh7obb6KkiEPxi) | [REN](https://open.spotify.com/artist/1Dg4sJ9R4oTCaA7fohHJmf) | [始まりのように](https://open.spotify.com/album/4mWl6OMuhepJlaWof3lobG) | 3:02 | 2025-08-20 | 2026-08-05 |
+| [始まりのように](https://open.spotify.com/track/0E3u9s7dNh7obb6KkiEPxi) | [REN](https://open.spotify.com/artist/1Dg4sJ9R4oTCaA7fohHJmf) | [始まりのように](https://open.spotify.com/album/4mWl6OMuhepJlaWof3lobG) | 3:02 | 2025-08-20 |  |
 | [嫌々](https://open.spotify.com/track/4oqUgyBXtbbJkeppHt8t2D) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [嫌々](https://open.spotify.com/album/6tmF9G7yL59bMCQ8eL20qg) | 3:04 | 2024-12-13 | 2025-10-15 |
 | [嫌嫌](https://open.spotify.com/track/73beY6Yn4Jg0CyfN8txrfz) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [嫌嫌](https://open.spotify.com/album/4Qw1FoecWUEh2PGbKYm7Sd) | 3:41 | 2023-03-18 | 2023-03-20 |
 | [存在](https://open.spotify.com/track/5WcHRHkksGn8gqQi9SpzJb) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [存在](https://open.spotify.com/album/3ICQhAMYIEHYzXieIepvO1) | 3:56 | 2025-03-10 | 2025-03-13 |

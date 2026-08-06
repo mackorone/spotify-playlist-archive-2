@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: 조수미\(Sumi Jo\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,781 likes - 100 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,783 likes - 100 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 99 | [Crying for Love](https://open.spotify.com/track/017DPfnKqKlln2ppPS6cQz) | [John Noh](https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13), [Ko Yeong Yeol](https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm) | [Cantar](https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s) | 4:53 |
 | 100 | [Blooming](https://open.spotify.com/track/3CHPzAuqAM2UBSSN42RSW3) | [Hong Jin Ho](https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3) | [Modern Cello](https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4) | 3:04 |
 
-Snapshot ID: `AAAAAMTI3ZEtH3pdGR1t7fnj5AJhFNkS`
+Snapshot ID: `AAAAAD2eS+pRDwtGD3Ku7C7jhwKtmqyu`

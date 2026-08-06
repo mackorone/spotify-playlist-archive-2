@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : RnBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,653 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,658 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [JAMAIS CHANGÉ](https://open.spotify.com/track/5Dp27TXunm7jCjeKU2tyPL) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [JAMAIS CHANGÉ](https://open.spotify.com/album/2QxbI7fOl6Bf90Mt7d8jJy) | 2:52 |
 | 40 | [Soko](https://open.spotify.com/track/6aEMbGeHmyih8FnAgoXQl1) | [Asnath](https://open.spotify.com/artist/4l79dXUdYJt2UJZlIeaxwx), [Negrito](https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K) | [Soko](https://open.spotify.com/album/2dBA1YHMK490XCnZ0NbP4Z) | 2:03 |
 
-Snapshot ID: `AAAAAL9Fkr2rSirW8K1gfNvdG3vfGrdY`
+Snapshot ID: `AAAAAHK0Dw9pkEAbXkj5dDygNt6AauES`

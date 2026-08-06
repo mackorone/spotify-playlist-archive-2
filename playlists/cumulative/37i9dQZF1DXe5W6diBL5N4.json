@@ -104653,7 +104653,25 @@
     },
     {
       "album": {
-        "name": "Hawaian couple",
+        "name": "21 Colorful (Remaster)",
+        "url": "https://open.spotify.com/album/53h1Vmb7UNXFVLTVLfo0sP"
+      },
+      "artists": [
+        {
+          "name": "YELLA",
+          "url": "https://open.spotify.com/artist/3mY5lOpRpnHu90zikCYuCw"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-23",
+      "duration_ms": 199493,
+      "name": "HAWAII - Remaster",
+      "url": "https://open.spotify.com/track/00BUYjfn30RNGvEESffAvs"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Couple",
         "url": "https://open.spotify.com/album/3qz6zIScb5cWu3GgDmrUSB"
       },
       "artists": [
@@ -104674,26 +104692,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171000,
-      "name": "Hawaian couple",
+      "name": "Hawaiian Couple",
       "url": "https://open.spotify.com/track/3uxqoQ88fUsp20vNR6Yz74"
-    },
-    {
-      "album": {
-        "name": "21 Colorful (Remaster)",
-        "url": "https://open.spotify.com/album/53h1Vmb7UNXFVLTVLfo0sP"
-      },
-      "artists": [
-        {
-          "name": "YELLA",
-          "url": "https://open.spotify.com/artist/3mY5lOpRpnHu90zikCYuCw"
-        }
-      ],
-      "date_added": "2022-04-19",
-      "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
-      "duration_ms": 199493,
-      "name": "HAWAII - Remaster",
-      "url": "https://open.spotify.com/track/00BUYjfn30RNGvEESffAvs"
     },
     {
       "album": {

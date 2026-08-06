@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 49 | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/track/5ZXrVNnQoKEMLcZ1s6Davv) | [Apryl Sashay](https://open.spotify.com/artist/4oqYiNYjquQyQbYShsS3lf) | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/album/6RA2KhowTm52zctoAWF90v) | 3:35 |
 | 50 | [How Do You Love Me](https://open.spotify.com/track/1ExAxTVymjFH7nMAFFoGG5) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Hours Spent Loving You](https://open.spotify.com/album/5gBmvBzVGoP96jbF4OfnKh) | 2:46 |
 
-Snapshot ID: `AAAAAJyvxUn0heVYYDsrQctTSDsBoqH0`
+Snapshot ID: `AAAAAJ8xAoYlXi32+8R3NV1ZYBv3SRqZ`

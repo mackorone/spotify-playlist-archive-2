@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر! الغلاف: الباور العالي
+> أجمد المهرجانات في مصر! الغلاف: مصطفي الجن و هادي الصغير \- تيم الابداع
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,383 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,643 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [فلوسي](https://open.spotify.com/track/5fFin42tRibTmLADteF1fv) | [Elpower El3aly](https://open.spotify.com/artist/7h4vmBjL6JkQDHe5BbZ5AY), [عدوية شعبان عبدالرحيم](https://open.spotify.com/artist/3WGUpjRhDaXJpmhCRpIMkX) | [طلعة](https://open.spotify.com/album/2BbOSpuiqS3M4jKrWzTegU) | 2:50 |
+| 1 | [لساني بلعب وانا فرداني \( عمها مين فيكو قال انتهي \)](https://open.spotify.com/track/4o1WoOrn31vvT5WKsvJd8p) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc), [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [لساني بلعب وانا فرداني \( عمها مين فيكو قال انتهي \)](https://open.spotify.com/album/2HJR9YWxsXiSIh40KW5Mhp) | 3:21 |
 | 2 | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/track/0EkXpiZTDd9EBb1BOCtjwF) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/album/22u0oYA3g04ts1Deuku5ae) | 3:12 |
 | 3 | [الولا حمو جه](https://open.spotify.com/track/4fxldwxdslbbrh9ZOwQCO5) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [الولا حمو جه](https://open.spotify.com/album/6HMgue4pJQWltjTPTUWuto) | 3:42 |
 | 4 | [عيال جديدة لانج](https://open.spotify.com/track/6iDTooZzJTkEGDei5M1R5e) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [عيال جديدة لانج](https://open.spotify.com/album/5MjhZcWxOgcTHNFJeyWnO3) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 49 | [العودة من بعد الغياب](https://open.spotify.com/track/4NRlZae2zcdVHGauLgJpHX) | [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5) | [العودة من بعد الغياب](https://open.spotify.com/album/1dDpWoqT9YSFfkXzeLzX5Y) | 3:55 |
 | 50 | [قاعد وبتفرج](https://open.spotify.com/track/45UhzjLtR3VMPgx7xO2plv) | [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [قاعد وبتفرج](https://open.spotify.com/album/0R5x0p6thoiMolIIHWhxKw) | 3:18 |
 
-Snapshot ID: `AAAAAKeGYVEAavPvah8FJs5eO85iOs/6`
+Snapshot ID: `AAAAAGeVY6xpa8G6AmnJyW9RCFkiso90`

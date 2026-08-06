@@ -2,7 +2,7 @@
 
 ### [Punjabi Pyaar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Diljit Dosanjh
+> The very best of Punjabi romance featuring Parmish Verma & Harman Brar
 
 1,184 songs - 2 day 15 hr 51 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,907 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,881 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 99 | [Nasty Girl \(feat\. Diddy, Nelly, Jagged Edge & Avery Storm\) \- 2005 Remaster](https://open.spotify.com/track/3NnUocBmP4PuEEe1eQkuwE) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Avery Storm](https://open.spotify.com/artist/79OSA519ScnPY0MVDpu8ZV), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nasty Girl \(feat\. Diddy, Nelly, Jagged Edge & Avery Storm\)](https://open.spotify.com/album/3sgDRuyfe42VX9rGDW7aBi) | 4:46 |
 | 100 | [Dip It Low](https://open.spotify.com/track/3CldFq28sCroIcmc42pRmZ) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Girls' Night Out](https://open.spotify.com/album/25akGACCyuW80OnWrv8kjJ) | 3:16 |
 
-Snapshot ID: `AAAAAP6PV+yntMr2EI2OK7hUR6z3eIfw`
+Snapshot ID: `AAAAAElr4eHrKh7ds1ORVmWeQlVJ2LKh`

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4BblKgmiu0DK.md) - [plain]
 
 ### [Renee Cassar Radio](https://open.spotify.com/playlist/37i9dQZF1E4BblKgmiu0DK)
 
-> With Die Mannequin, Jinx & The Royals, Rebel Rebel Barbie and more
+> With Bif Naked, Jinx & The Royals, Die Mannequin and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 6 likes - 50 songs - 2 hr 40 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4BblKgmiu0DK.md) - [plain]
 | 49 | [Beat Me Up](https://open.spotify.com/track/6iQ6uu9FSWPbt6BuX0XsjU) | [Allison Iraheta](https://open.spotify.com/artist/48E5csclQ92SrzSRQmEeC4) | [Just Like You](https://open.spotify.com/album/4CaDpxdeAQMrhuS5jBfEhE) | 2:44 |
 | 50 | [Kiss Your Mama!](https://open.spotify.com/track/7DSwyrYR8nHyVIZNsfs6ei) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [Somewhere In The Real World](https://open.spotify.com/album/5LzlBCGsQKZzAMpMPNM27a) | 3:09 |
 
-Snapshot ID: `AAAAAMCRu0HRUNRnEWc/KT6je9DHXZlC`
+Snapshot ID: `AAAAAMRXQMQL3jL/8HLpRiqipf5VPDnw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik bl.a\. fra D1MA, Zara Larsson & Robyn 🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,951 likes - 78 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,942 likes - 78 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 27 | [Careful](https://open.spotify.com/track/1kk2PNrO9mfMuwEGnAOipt) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Careful](https://open.spotify.com/album/524f63QHVObJQoDoYjqGPF) | 2:40 |
 | 28 | [Matadoren](https://open.spotify.com/track/7rorbMNPjLsuK2kNA8gVw3) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Matadoren](https://open.spotify.com/album/0gpZBMK8pkrJwk6mhAItG2) | 2:01 |
 | 29 | [bombesikker](https://open.spotify.com/track/5IqV5eRn11jgfOUkSsM48N) | [ELBA](https://open.spotify.com/artist/06nGqswwQ7xVDvC5r5mQL2) | [bombesikker](https://open.spotify.com/album/3ihM7MxPPTJZNvUPbgdT89) | 3:35 |
-| 30 | [Together \- Demo](https://open.spotify.com/track/12oojIBWdPlhjtUt4ZoJOE) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Together \(Demo\)](https://open.spotify.com/album/2TmxBiotCcrugUnPPqOA0d) | 4:34 |
+| 30 | [Together \- Demo](https://open.spotify.com/track/12oojIBWdPlhjtUt4ZoJOE) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Together \(Demo\)](https://open.spotify.com/album/2TmxBiotCcrugUnPPqOA0d) | 4:34 |
 | 31 | [Good Run](https://open.spotify.com/track/6DbRfIYcho6OCdzAAuvGAI) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Good Run](https://open.spotify.com/album/2f8t1TimRsjgQ4WCNG9vES) | 2:17 |
 | 32 | [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 |
 | 33 | [Beautiful Places](https://open.spotify.com/track/7iQF89GytzFLZE71qJa3Ky) | [Good Wild Gods](https://open.spotify.com/artist/6XY9ZdPBtDFSHv4bRUW1E3), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Beautiful Places](https://open.spotify.com/album/7ndZtkuMNMHfjffyz3I7Xr) | 3:29 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 77 | [loud](https://open.spotify.com/track/5RLkatJJ8F0myHX9fvRcFu) | [grasior](https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly) | [loud](https://open.spotify.com/album/3aqouCosWOy7EOluV8BRxY) | 2:07 |
 | 78 | [Seeking Something](https://open.spotify.com/track/7CWx9XtDhCb46XJIPdAd3H) | [Malin Andersson](https://open.spotify.com/artist/5jsCO40QvQDijky97Z8AK5) | [Seeking Something](https://open.spotify.com/album/3xwicl48JWX6ViXa2patx8) | 4:09 |
 
-Snapshot ID: `AAAAANCsawg9azbgz4kxs56fq0WtmxYV`
+Snapshot ID: `AAAAAI2vedUQxC3AYSq/AkgUrhv6GXzI`

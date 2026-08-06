@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,402 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,414 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 74 | [Circling the Drain](https://open.spotify.com/track/4lt6XYUxU6r5qUhGroEhQw) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Circling the Drain](https://open.spotify.com/album/0I1nAsqzVfsHdUcubvExCM) | 3:18 |
 | 75 | [Kentucky Highway](https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul) | [Williamson Branch](https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN) | [Kentucky Highway](https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET) | 3:39 |
 
-Snapshot ID: `AAAAAOVXjeDOMhfvFRUwP2yEucrbOFQx`
+Snapshot ID: `AAAAACSqfz3fO27Lrt558r9iU+dy6tGi`

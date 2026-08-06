@@ -3261,6 +3261,24 @@
     },
     {
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/552xwvOwJWHeO4j9aSTV3o"
+      },
+      "artists": [
+        {
+          "name": "Dear Doky",
+          "url": "https://open.spotify.com/artist/04Q5ZQFConUk1fKPYHzTKH"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188423,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6g9bLKT1QoeGwPmjYQ5cdN"
+    },
+    {
+      "album": {
         "name": "BLACK JESUS",
         "url": "https://open.spotify.com/album/0n3qYZ3A1D0VxrjHWWr2JK"
       },
@@ -24395,6 +24413,24 @@
     },
     {
       "album": {
+        "name": "Every Noise at Once",
+        "url": "https://open.spotify.com/album/5dtiaOmJcas10BtPy1NhjW"
+      },
+      "artists": [
+        {
+          "name": "Good Rifles",
+          "url": "https://open.spotify.com/artist/44Aq2HIdcKz37kU4ZwKbXG"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153102,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/3yeOxEljgsCVWMZmhD2lxg"
+    },
+    {
+      "album": {
         "name": "Punk Bunny Coffee",
         "url": "https://open.spotify.com/album/09oW8llvKkkAaGFUPchXRV"
       },
@@ -34374,6 +34410,28 @@
       "duration_ms": 148912,
       "name": "Vulcher",
       "url": "https://open.spotify.com/track/6XNM4vAz4TPnVcT9Pib2X3"
+    },
+    {
+      "album": {
+        "name": "Wait for Me",
+        "url": "https://open.spotify.com/album/3d6roabpYLwdJ9hp5rZZOH"
+      },
+      "artists": [
+        {
+          "name": "Divisionist",
+          "url": "https://open.spotify.com/artist/6YnhCX235cAmdjtefaWoax"
+        },
+        {
+          "name": "Alejandro Karo",
+          "url": "https://open.spotify.com/artist/7sGq5HEpX2hhJHrSI3SiC4"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254757,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/1Wh6fim34Wu66BXlUrIqST"
     },
     {
       "album": {

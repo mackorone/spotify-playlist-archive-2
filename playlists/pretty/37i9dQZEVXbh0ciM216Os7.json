@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACKLJv0NlA6qGUJfwrnL/GUTYS96",
+  "snapshot_id": "AAAAANZrJzJkwDl0Z76HKQXnbLkKtx2d",
   "tracks": [
     {
       "added_at": "2026-07-31 04:00:00",
@@ -179,6 +179,26 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
+        "name": "LVRS PARADISE (SIDE B)",
+        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "duration_ms": 50370,
+      "name": "BIG BOI SPEAKS",
+      "url": "https://open.spotify.com/track/1wxhZQPoURr9xpOKZ67nlo"
+    },
+    {
+      "added_at": "2026-07-31 04:00:00",
+      "album": {
         "name": "The Clock Don\u2019t Go Back",
         "url": "https://open.spotify.com/album/03Rtmq1Acm34vWhG6eOYd6"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 255045,
       "name": "You Gonna Learn Today (feat. Myles & Kamai, Georgia Anne Muldrow)",
       "url": "https://open.spotify.com/track/4baP0NvNpC6KHvo1Xa6nQ1"
-    },
-    {
-      "added_at": "2026-07-31 04:00:00",
-      "album": {
-        "name": "LVRS PARADISE (SIDE B)",
-        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
-        }
-      ],
-      "duration_ms": 50370,
-      "name": "BIG BOI SPEAKS",
-      "url": "https://open.spotify.com/track/1wxhZQPoURr9xpOKZ67nlo"
     },
     {
       "added_at": "2026-07-31 04:00:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
-        "name": "Tell Me More And More And Then Some (dublon Remix)",
-        "url": "https://open.spotify.com/album/4mX3k5E8iVScFeD6ghkalz"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 151260,
-      "name": "Tell Me More And More And Then Some - dublon Remix",
-      "url": "https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1"
-    },
-    {
-      "added_at": "2026-07-31 04:00:00",
-      "album": {
         "name": "Waiting For The Drugs To Kick In",
         "url": "https://open.spotify.com/album/4ehRUrvhpeZBQMvIuOiUO2"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 314200,
       "name": "Gjallarhorn",
       "url": "https://open.spotify.com/track/1rouZuMqJonxGcQcM1ZFRT"
+    },
+    {
+      "added_at": "2026-07-31 04:00:00",
+      "album": {
+        "name": "Tell Me More And More And Then Some (dublon Remix)",
+        "url": "https://open.spotify.com/album/4mX3k5E8iVScFeD6ghkalz"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 151260,
+      "name": "Tell Me More And More And Then Some - dublon Remix",
+      "url": "https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1"
     },
     {
       "added_at": "2026-07-31 04:00:00",
@@ -543,30 +543,6 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
-        "name": "Dem Goats",
-        "url": "https://open.spotify.com/album/2M0IQZnARm6zbyvYxtkQBh"
-      },
-      "artists": [
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 190043,
-      "name": "Wasting Time (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/2G4y316Kk8FNcH0pf3mjBY"
-    },
-    {
-      "added_at": "2026-07-31 04:00:00",
-      "album": {
         "name": "Summer Jazz: Thelonious Monk",
         "url": "https://open.spotify.com/album/7jdckKq9eMjAnXawjY8JwR"
       },
@@ -587,6 +563,22 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 222847,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI"
+    },
+    {
+      "added_at": "2026-07-31 04:00:00",
+      "album": {
         "name": "On Melancholy Hill",
         "url": "https://open.spotify.com/album/5Ju9F3H4rR3yRlSwUc2uO9"
       },
@@ -603,18 +595,26 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC"
+        "name": "Dem Goats",
+        "url": "https://open.spotify.com/album/2M0IQZnARm6zbyvYxtkQBh"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 222847,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI"
+      "duration_ms": 190043,
+      "name": "Wasting Time (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/2G4y316Kk8FNcH0pf3mjBY"
     },
     {
       "added_at": "2026-07-31 04:00:00",

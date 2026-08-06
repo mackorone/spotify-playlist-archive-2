@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Cigarettes @ Sunset
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,427 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,406 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Drive/Park](https://open.spotify.com/track/2nFYhi1w2aNyb4EcZQ5Jhx) | [Heathers](https://open.spotify.com/artist/4ece8MHBxffv0dw7gThk6M) | [Drive/Park](https://open.spotify.com/album/2bCd5sjRz4VmrdFTGFOYjn) | 2:36 |
 | 125 | [YES, I AM AN ANIMAL](https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl) | [tankerlow](https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ) | [YES, I AM AN ANIMAL](https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be) | 5:04 |
 
-Snapshot ID: `AAAAADh9TPxTI2r9rJMPuuDX0vmOixj5`
+Snapshot ID: `AAAAANut9IruPBzvctGXz2laMTcRl+++`

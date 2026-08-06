@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,682 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,710 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 99 | [Pretty Woman](https://open.spotify.com/track/3wITrtynoofk1CNLgy2XOh) | [Frank Solivan](https://open.spotify.com/artist/4G7z1AB9nKUdBBHxaHIfa9), [Del McCoury](https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv) | [Family, Friends & Heroes](https://open.spotify.com/album/4jEA27ToawCGCUH7GZUkH0) | 5:04 |
 | 100 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/7xDbOxIUd57NFyLG3lfmF7) | [Matt Carson](https://open.spotify.com/artist/48AugFFbt0pfxPoDV4l2k8), [Madilyn Carson](https://open.spotify.com/artist/4MzzNTvkKqpsJ8uowEEVK7) | [Jukebox](https://open.spotify.com/album/2yJmDsF4W09gny2QzDlftH) | 3:13 |
 
-Snapshot ID: `AAAAAKewpOo2NUYZDqb1X5u0cfu76dcG`
+Snapshot ID: `AAAAACqxYw+f999lyhvhWaRRNGyuLLgT`

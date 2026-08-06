@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > новинки українського андерґраунду\. обкладинка: Олександр Положинський, Sasha Chemerov, Hidden Element
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,159 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,171 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 79 | [соу хард](https://open.spotify.com/track/32Oyx638kXMoRNBKSdZiQO) | [headachee](https://open.spotify.com/artist/7FLnr6jif4euepPlgGtaJZ) | [соу хард](https://open.spotify.com/album/5688l4cRpxYTiwighTs0gR) | 3:13 |
 | 80 | [Ранок](https://open.spotify.com/track/1so87XUwmb0CHGmajeLfYK) | [Max Paragraph](https://open.spotify.com/artist/4C9jXTOhCkwYVDqiBChvSA) | [Десь тут](https://open.spotify.com/album/4pheAhPV1vcr1Vh39Apnux) | 3:01 |
 
-Snapshot ID: `AAAAANly7hGUJ1OKqSYGUIHDurKWU7UM`
+Snapshot ID: `AAAAAMp5jJV3YA4LG9cWlbxbe7KH6jVS`

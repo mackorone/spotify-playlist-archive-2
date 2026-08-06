@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Jaime Cheung 張天穎
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,557 likes - 121 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,559 likes - 121 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 120 | [No More Lonely Christmas](https://open.spotify.com/track/6tfM6NgaqAeyfOOvTGRZ5g) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [No More Lonely Christmas](https://open.spotify.com/album/3hNJMlLstTfNEfRDZkqjfu) | 3:26 |
 | 121 | [Martyr\#1](https://open.spotify.com/track/6cMAWahZmQfn57wmxGcxfM) | [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Martyr\#1](https://open.spotify.com/album/4x08OFLQ71g3UsVGpT3p0C) | 5:39 |
 
-Snapshot ID: `AAAAAGOABJivfaTm1YgWEmpuehBFZ268`
+Snapshot ID: `AAAAACXixbUjEb8VYG+/UhU5mpHHi48+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house 🔥🔥 featuring Matroda + San Pacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,312,256 likes - 125 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,312,200 likes - 125 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 124 | [Mine](https://open.spotify.com/track/64L1sPpYqPRz5hrV0tw4DJ) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [Mine](https://open.spotify.com/album/2yNQqnLlFhN1hIltm6tDAC) | 3:21 |
 | 125 | [Healing](https://open.spotify.com/track/0LPcQK0wDigAqAkgs939cK) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Healing](https://open.spotify.com/album/2XGeqtyh9puydn70atLZK5) | 2:59 |
 
-Snapshot ID: `AAAAAFYWz7IEVn+TBO7Ocvk5xWJrSaei`
+Snapshot ID: `AAAAAJUMxY9tZLSgSnja4S+RsBljQGhw`

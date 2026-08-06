@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,988 likes - 120 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,092 likes - 120 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [O Todo Poderoso \(Ao Vivo\)](https://open.spotify.com/track/53nvToiOVlcQdKpaWyv683) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [O Todo Poderoso \(Ao Vivo\)](https://open.spotify.com/album/30pY9er0htgnhkdiKuTkmg) | 4:21 |
 | 120 | [Tá Tudo Bem \- Ao Vivo](https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tá Tudo Bem \(Ao Vivo\)](https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu) | 4:02 |
 
-Snapshot ID: `AAAAAP+3/5Ni6xTLptDv7FQGb6Cn0BKT`
+Snapshot ID: `AAAAAPD2d6vSZtaSaumtp7KShGo5xr+/`

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With SPARKLEWOLF RADIO, UrvTek, Learke and more
+> With Learke, STYXVII, UrvTek and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 677 likes - 50 songs - 2 hr 13 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [I WAS SCARED OF U LOL](https://open.spotify.com/track/6fIyzpKCXtgpeR5YJY9jAq) | [D3s1ph3r](https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7) | [N0T 4B0UT U](https://open.spotify.com/album/4nmUiQ0ifEXH4QBrSGHvlx) | 2:48 |
 | 50 | [HORRIBLE TRUTH](https://open.spotify.com/track/429sQD0nz6qU1r7eviz0gb) | [rattlepate](https://open.spotify.com/artist/4XCl7D0wQ4GcmDxPlOJHVE) | [HORRIBLE TRUTH ABOUT RATTLEPATE](https://open.spotify.com/album/6OZZzj7eAk6jDTJruR7m3N) | 3:52 |
 
-Snapshot ID: `AAAAACnUA2lTgk1+N/OwoBWTgy5kyW5U`
+Snapshot ID: `AAAAAIrdLpzLM3ga6B9b5XlzlOiTzCoW`

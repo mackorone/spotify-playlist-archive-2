@@ -1,12 +1,12 @@
 {
   "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR?si=be4f643eccaa4571\">Solana</a>. Artwork: Isu Kim. ",
-  "num_followers": 25543,
+  "num_followers": 25546,
   "original_name": "Fresh Finds Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKtBnaKO0NphzLsxCyLkd2cLWCRU",
+  "snapshot_id": "AAAAAN3mIUSzP5VNNgNpAnklnun7ZuDA",
   "tracks": [
     {
       "added_at": "2026-08-04 22:00:30",
@@ -65,24 +65,20 @@
       "url": "https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED"
     },
     {
-      "added_at": "2026-08-04 22:00:30",
+      "added_at": "2026-08-05 11:35:17",
       "album": {
-        "name": "Dusk to Dawn",
-        "url": "https://open.spotify.com/album/0BotPpY6sS0Mi7qusHSv8A"
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/3fIkHOp4fsL4I8ReXAGia3"
       },
       "artists": [
         {
-          "name": "SERRO",
-          "url": "https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9"
-        },
-        {
-          "name": "Coster Ojwang",
-          "url": "https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J"
+          "name": "Itha",
+          "url": "https://open.spotify.com/artist/6HWsERr2RidXDuGI1viKtD"
         }
       ],
-      "duration_ms": 324000,
-      "name": "Ilomba",
-      "url": "https://open.spotify.com/track/7AgSNKgxbZng5O3YbvlsFc"
+      "duration_ms": 195381,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0Nk3N24fYgIN2zIpIlAacs"
     },
     {
       "added_at": "2026-08-04 22:00:30",
@@ -135,22 +131,6 @@
       "duration_ms": 142000,
       "name": "Escapism",
       "url": "https://open.spotify.com/track/5fW4iJMqmtsKtLn8YIlGEt"
-    },
-    {
-      "added_at": "2026-08-04 22:00:30",
-      "album": {
-        "name": "Zuzu (Kompa Edit)",
-        "url": "https://open.spotify.com/album/61Je6BNoJ8GjiRktsw1zuC"
-      },
-      "artists": [
-        {
-          "name": "Shad Mziki",
-          "url": "https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Zuzu (Kompa Edit)",
-      "url": "https://open.spotify.com/track/7bBozqP0QRlNyVADxLaelB"
     },
     {
       "added_at": "2026-08-04 22:00:30",
@@ -345,6 +325,22 @@
       "url": "https://open.spotify.com/track/0Ca74YE1XGRR6QcreQUDrq"
     },
     {
+      "added_at": "2026-08-05 11:35:17",
+      "album": {
+        "name": "Heri",
+        "url": "https://open.spotify.com/album/0jJs3OouMtskYLEJriZFaP"
+      },
+      "artists": [
+        {
+          "name": "Attara",
+          "url": "https://open.spotify.com/artist/7q9Oam3CwOj6bP7JfSPApN"
+        }
+      ],
+      "duration_ms": 126653,
+      "name": "Heri",
+      "url": "https://open.spotify.com/track/4Z02oNHC2HIeZs8fjMd5dz"
+    },
+    {
       "added_at": "2026-08-04 22:00:30",
       "album": {
         "name": "4PLAY",
@@ -395,6 +391,82 @@
       "duration_ms": 180923,
       "name": "Let Me Be",
       "url": "https://open.spotify.com/track/2osGCDZFpwhoBEvOaEwL9I"
+    },
+    {
+      "added_at": "2026-08-04 22:00:30",
+      "album": {
+        "name": "Dusk to Dawn",
+        "url": "https://open.spotify.com/album/0BotPpY6sS0Mi7qusHSv8A"
+      },
+      "artists": [
+        {
+          "name": "SERRO",
+          "url": "https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9"
+        },
+        {
+          "name": "Coster Ojwang",
+          "url": "https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Ilomba",
+      "url": "https://open.spotify.com/track/7AgSNKgxbZng5O3YbvlsFc"
+    },
+    {
+      "added_at": "2026-08-04 22:00:30",
+      "album": {
+        "name": "Zuzu (Kompa Edit)",
+        "url": "https://open.spotify.com/album/61Je6BNoJ8GjiRktsw1zuC"
+      },
+      "artists": [
+        {
+          "name": "Shad Mziki",
+          "url": "https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Zuzu (Kompa Edit)",
+      "url": "https://open.spotify.com/track/7bBozqP0QRlNyVADxLaelB"
+    },
+    {
+      "added_at": "2026-08-05 11:35:17",
+      "album": {
+        "name": "I'm in Love",
+        "url": "https://open.spotify.com/album/4feV3sKpFVCOSOoVGDetIM"
+      },
+      "artists": [
+        {
+          "name": "Aremon",
+          "url": "https://open.spotify.com/artist/6OLnFz4p4vaZ1jbOJI8Lls"
+        },
+        {
+          "name": "Upsetta",
+          "url": "https://open.spotify.com/artist/3GxJqUCvmNy4x4jCKInPpv"
+        }
+      ],
+      "duration_ms": 174961,
+      "name": "I'm in Love",
+      "url": "https://open.spotify.com/track/75p0UvD9pekGjUwUpXKLDv"
+    },
+    {
+      "added_at": "2026-08-05 11:35:17",
+      "album": {
+        "name": "TRAUMATIC HABITS",
+        "url": "https://open.spotify.com/album/2nFH2tP8tGuw2O9OhKc4HS"
+      },
+      "artists": [
+        {
+          "name": "MARDO",
+          "url": "https://open.spotify.com/artist/4zfr88yAmbtxojFgzFz7uQ"
+        },
+        {
+          "name": "Tee J",
+          "url": "https://open.spotify.com/artist/2KC4q2DkXcvCtx4jMEuck8"
+        }
+      ],
+      "duration_ms": 164997,
+      "name": "TRAUMATIC HABITS",
+      "url": "https://open.spotify.com/track/7jMmAGyFJD7UOnjraPCfBZ"
     },
     {
       "added_at": "2026-08-04 22:00:30",
@@ -461,6 +533,46 @@
       "url": "https://open.spotify.com/track/1hUQcaN5z13FvtnNhhPsoy"
     },
     {
+      "added_at": "2026-08-05 11:35:17",
+      "album": {
+        "name": "Baby boo",
+        "url": "https://open.spotify.com/album/013nzCjBv0O8VdU5WcPU4n"
+      },
+      "artists": [
+        {
+          "name": "Deyvion",
+          "url": "https://open.spotify.com/artist/0kVz4cmwQzS2VPiepCE11E"
+        },
+        {
+          "name": "UGYN",
+          "url": "https://open.spotify.com/artist/4ir54j2pLRmjVwseHuP79N"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Baby boo",
+      "url": "https://open.spotify.com/track/3COND6vH4unfiA7qn7dSsR"
+    },
+    {
+      "added_at": "2026-08-05 11:35:17",
+      "album": {
+        "name": "miles",
+        "url": "https://open.spotify.com/album/4KWaA5jgGnTDaIjtyVwxGA"
+      },
+      "artists": [
+        {
+          "name": "Roy Rutto",
+          "url": "https://open.spotify.com/artist/0qXdKNxrW6KNMGdDIIgRre"
+        },
+        {
+          "name": "Lundey",
+          "url": "https://open.spotify.com/artist/0RkMo0RCbU9heAf0qMJrwW"
+        }
+      ],
+      "duration_ms": 157801,
+      "name": "miles",
+      "url": "https://open.spotify.com/track/5AGk3gAmGbkRn2MJSzmpEu"
+    },
+    {
       "added_at": "2026-08-04 22:00:30",
       "album": {
         "name": "room of whoevers",
@@ -475,6 +587,42 @@
       "duration_ms": 127500,
       "name": "Small Town",
       "url": "https://open.spotify.com/track/5Xgq3fIqSug7ALemSaBxHO"
+    },
+    {
+      "added_at": "2026-08-05 11:35:17",
+      "album": {
+        "name": "Don't Rush",
+        "url": "https://open.spotify.com/album/2IBlpvkidmQhiUuu3SFttO"
+      },
+      "artists": [
+        {
+          "name": "Shaniah Bito",
+          "url": "https://open.spotify.com/artist/35dJwfpLTOdT4JHevIwZA0"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Don't Rush",
+      "url": "https://open.spotify.com/track/6vOjEdbys2CHui72u9C610"
+    },
+    {
+      "added_at": "2026-08-05 11:35:17",
+      "album": {
+        "name": "PULLA",
+        "url": "https://open.spotify.com/album/099fKOVLzMp6F1pljp8eLY"
+      },
+      "artists": [
+        {
+          "name": "Iddo WurLd",
+          "url": "https://open.spotify.com/artist/2J2Fy550EQH639CPpZkFKw"
+        },
+        {
+          "name": "BadmanQuba",
+          "url": "https://open.spotify.com/artist/6a878fm2eYAWD3stiITfxM"
+        }
+      ],
+      "duration_ms": 253125,
+      "name": "PULLA",
+      "url": "https://open.spotify.com/track/57GwduhtD6yMSGcojoWszh"
     },
     {
       "added_at": "2026-08-04 22:00:30",
@@ -507,6 +655,62 @@
       "duration_ms": 110000,
       "name": "UNFORGETTABLE",
       "url": "https://open.spotify.com/track/3J9h0mH4syTbYV1nzyOGKv"
+    },
+    {
+      "added_at": "2026-08-05 11:35:17",
+      "album": {
+        "name": "MAPENZI",
+        "url": "https://open.spotify.com/album/5AN16ZwzQR1j2OAkdLsPmF"
+      },
+      "artists": [
+        {
+          "name": "AYMA",
+          "url": "https://open.spotify.com/artist/45p8xCFhR0gkXgzyWW0Wos"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "MAPENZI",
+      "url": "https://open.spotify.com/track/5jEKeNbOBX0M4NEvp4X3SC"
+    },
+    {
+      "added_at": "2026-08-05 11:35:17",
+      "album": {
+        "name": "Nyumbani",
+        "url": "https://open.spotify.com/album/1HLuo5V0suNgBsyrIzB7J9"
+      },
+      "artists": [
+        {
+          "name": "DENO",
+          "url": "https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK"
+        },
+        {
+          "name": "ApodaSpark",
+          "url": "https://open.spotify.com/artist/09c4th0s8YMxstFXsHAbfz"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3LC92AHJEVtTV0X2wu9sWz"
+    },
+    {
+      "added_at": "2026-08-05 11:35:17",
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/3ZoUNcdPIqP0MbjDLZu1un"
+      },
+      "artists": [
+        {
+          "name": "Jamzzzo",
+          "url": "https://open.spotify.com/artist/38yr6rGLa7wpzGL0I1scnN"
+        },
+        {
+          "name": "Expect XHAVI",
+          "url": "https://open.spotify.com/artist/2UD1QtSxiIQHdWdDIXJPwT"
+        }
+      ],
+      "duration_ms": 173195,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/2sMfwiGVzbZRHfGIIJlpKm"
     },
     {
       "added_at": "2026-08-04 22:00:30",
@@ -591,22 +795,6 @@
     {
       "added_at": "2026-08-04 22:00:30",
       "album": {
-        "name": "Huyu",
-        "url": "https://open.spotify.com/album/1SdpIxkVgnlZCOjSIa8rPK"
-      },
-      "artists": [
-        {
-          "name": "Phany Love",
-          "url": "https://open.spotify.com/artist/1lmt7WTILm10srwXjf4F0M"
-        }
-      ],
-      "duration_ms": 143702,
-      "name": "Huyu",
-      "url": "https://open.spotify.com/track/5JAzcszRsbRkoL3nTccHCN"
-    },
-    {
-      "added_at": "2026-08-04 22:00:30",
-      "album": {
         "name": "Ikeja (No Go Thief)",
         "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
       },
@@ -619,38 +807,6 @@
       "duration_ms": 116585,
       "name": "Ikeja (No Go Thief)",
       "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
-    },
-    {
-      "added_at": "2026-08-04 22:00:30",
-      "album": {
-        "name": "Labor Of Love",
-        "url": "https://open.spotify.com/album/3qpsd3313heP97lFUi5klk"
-      },
-      "artists": [
-        {
-          "name": "Zaituni",
-          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
-        }
-      ],
-      "duration_ms": 315048,
-      "name": "Nipende",
-      "url": "https://open.spotify.com/track/1E7zvR5rjAQ8iXUzusdjZl"
-    },
-    {
-      "added_at": "2026-08-04 22:00:30",
-      "album": {
-        "name": "Kunsi",
-        "url": "https://open.spotify.com/album/1vLg88ntF2JvhGajvYGJEx"
-      },
-      "artists": [
-        {
-          "name": "Vyroota",
-          "url": "https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R"
-        }
-      ],
-      "duration_ms": 196620,
-      "name": "Kunsi",
-      "url": "https://open.spotify.com/track/1xzH5d9JY29iODeluAJI3c"
     },
     {
       "added_at": "2026-08-04 22:00:30",
@@ -687,22 +843,6 @@
       "duration_ms": 182556,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/07abqu5733SyqSf7zGzP5K"
-    },
-    {
-      "added_at": "2026-08-04 22:00:30",
-      "album": {
-        "name": "Freedom (Refix)",
-        "url": "https://open.spotify.com/album/6agPL3BoBDTbDbW0nrRgTM"
-      },
-      "artists": [
-        {
-          "name": "Liboi",
-          "url": "https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp"
-        }
-      ],
-      "duration_ms": 248780,
-      "name": "Freedom - Refix",
-      "url": "https://open.spotify.com/track/7DuvgTPwvVxCJ5IiYcugoh"
     },
     {
       "added_at": "2026-08-04 22:00:30",

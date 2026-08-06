@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Lô Borges
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,491 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,397 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 79 | [Será se eu vou achar?](https://open.spotify.com/track/3surQmzInpHtbsb8GEcTNg) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Será se eu vou achar?](https://open.spotify.com/album/47Z8c4qDEzvTHiwp4IRChT) | 1:52 |
 | 80 | [Nem Uma, Nem Duas, Nem Três](https://open.spotify.com/track/6CtJhfxODuGlf3atmAbki1) | [Marianna Leporace](https://open.spotify.com/artist/4SmsBUrTyDDdYkHZk6Zm13), [Cacala Carvalho](https://open.spotify.com/artist/0KBkqUI1URmoPd5FC6EGIp), [Sheila Zagury](https://open.spotify.com/artist/2K7tlKYuB14qPSpoluRz6H), [Guilherme Hermolin](https://open.spotify.com/artist/4XbiksDhpgOgBpIHINQQst), [Fernando Leporace](https://open.spotify.com/artist/5o8rayVoaQmS8m5bssWmii), [Luisinho Sobral](https://open.spotify.com/artist/6xcDIEtDsWdNSX5qJ6m0zn) | [Nem Uma, Nem Duas, Nem Três](https://open.spotify.com/album/2hvJJexRYmnsXWBaLLukU2) | 3:52 |
 | 81 | [SEM DRAMAS](https://open.spotify.com/track/7aYoAp3JEVSEpZHW0r06hw) | [João Bernardo](https://open.spotify.com/artist/29g5s8mPByIGhpfpGN7VfN), [Rubinho Jacobina](https://open.spotify.com/artist/25zJD6x6MLQ0mFBHDrfpDd) | [SEM DRAMAS](https://open.spotify.com/album/0Ijd5FTZoRGfsbqsTAKDrK) | 2:54 |
-| 82 | [Mulher Corvo](https://open.spotify.com/track/0J5C98ACNHQ5Dyl2sNvjp4) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Fervo Unboxing](https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia) | [Fervo Unboxing \- Mari Merenda](https://open.spotify.com/album/732IpAuN6tq7d0HoevmICq) | 4:53 |
-| 83 | [Medley Latino \- Ao Vivo](https://open.spotify.com/track/2aJKzqgQWPHl54LcoYc30N) | [Mari Jasca](https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp) | [Disparada Ao Vivo Em Búzios](https://open.spotify.com/album/0OiBMiXCve71eWjFR4fn4G) | 6:09 |
+| 82 | [Medley Latino \- Ao Vivo](https://open.spotify.com/track/2aJKzqgQWPHl54LcoYc30N) | [Mari Jasca](https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp) | [Disparada Ao Vivo Em Búzios](https://open.spotify.com/album/0OiBMiXCve71eWjFR4fn4G) | 6:09 |
+| 83 | [Mulher Corvo](https://open.spotify.com/track/0J5C98ACNHQ5Dyl2sNvjp4) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Fervo Unboxing](https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia) | [Fervo Unboxing \- Mari Merenda](https://open.spotify.com/album/732IpAuN6tq7d0HoevmICq) | 4:53 |
 | 84 | [Perdi Meu Rumo Na Sua Boca](https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw) | [Rafa Castro](https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0) | [Em Silêncio o Afeto Cresce](https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs) | 3:18 |
 | 85 | [Tua](https://open.spotify.com/track/7mQd6u3LBfpiRme11Pa4Yr) | [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt), [Mari Jasca](https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp) | [Tua](https://open.spotify.com/album/3zutfiNwGhY1TtHsChMzIT) | 2:45 |
 
-Snapshot ID: `AAAAAKc3NDiuLj5n5SVD+JQBcuvdDTKN`
+Snapshot ID: `AAAAAD9XGMHtYxYX4dyzHOgfH6aS64xQ`

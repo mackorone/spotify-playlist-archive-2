@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: Mercy Chinwo & Nathaniel Bassey
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,732 likes - 100 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,870 likes - 100 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [Who No Know](https://open.spotify.com/track/3GfKdhxFM0zlRWrpPomJRs) | [Alice Peters](https://open.spotify.com/artist/3QgTVlHmMjek7wGGRsvi6U) | [Who No Know](https://open.spotify.com/album/6ZJ1rAobORd9xXJ9z8m1sT) | 4:23 |
 | 100 | [You Are Worthy](https://open.spotify.com/track/0KvOZwao4GyQ1WZm56EFx0) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [You Are Worthy](https://open.spotify.com/album/6kKGBL4RrqvY1H3LZeDwqn) | 7:20 |
 
-Snapshot ID: `AAAAAJ/r5C0/dENaRJ9o1kdYWC2KBSrr`
+Snapshot ID: `AAAAAM2gyZNTms+kNSqDpaTPGu6lqaNw`

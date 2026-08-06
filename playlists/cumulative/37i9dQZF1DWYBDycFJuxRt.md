@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: 小袋成彬 & 5lack \*👉 <a href="https://spice.eplus.jp/articles/348059">連動記事</a>をSPICEでチェック!
 
-15,710 songs - 41 day 16 hr 44 min
+15,711 songs - 41 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9452,7 +9452,6 @@
 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 | 2024-02-27 | 2024-03-06 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-31 | 2026-04-08 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 | 2026-03-11 |
-| [Track 19](https://open.spotify.com/track/5j8Np84MJ0uUetSLEgdbhM) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [革命未遂の蝶が見る夢](https://open.spotify.com/album/7GsxQOuNna4DuY17bGpZG3) | 0:00 | 2026-08-04 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-05-29 |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-05-07 |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 | 2024-01-31 |
@@ -10241,6 +10240,7 @@
 | [WYLD](https://open.spotify.com/track/1VkT7cfI4GQPj5aBVWj7vU) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [WYLD \- The 1st Album](https://open.spotify.com/album/3MStQNoB6697D7M11xCqOl) | 2:41 | 2026-05-19 | 2026-05-27 |
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-04-04 | 2023-04-12 |
 | [X](https://open.spotify.com/track/2oZ2EKWo51eXQsn83pjNvj) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [blackout](https://open.spotify.com/album/10UGFED19zySy8M8bjI0rk) | 3:15 | 2025-11-11 | 2025-11-19 |
+| [X to Z \(Next to me\) \(Japanese ver.\)](https://open.spotify.com/track/7aQMHcPKeaYJ69sKVH3jom) | [AEN](https://open.spotify.com/artist/4FDIcy85KVTaLw8TCGFpJQ) | [A NEW ERA OF NOW](https://open.spotify.com/album/7guNJQC9dvSsuvCf8shTVQ) | 3:05 | 2026-08-04 |  |
 | [X\_AXIS](https://open.spotify.com/track/5RTnzxXdlqzSySbdtxP6lF) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [X\_AXIS](https://open.spotify.com/album/4BIRrr3mvcNUpTCzVGkAwW) | 3:01 | 2025-07-08 | 2025-07-16 |
 | [Xanadu](https://open.spotify.com/track/0PGFKpKkOyGjvAcozmZIiu) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ethereal Essence](https://open.spotify.com/album/3hWqkKqBR2OUNFdpdBuGFP) | 4:14 | 2024-06-25 | 2024-07-03 |
 | [XL \- Remix](https://open.spotify.com/track/79KCNeuYa7yGcOmyT8yf19) | [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp), [Gradis Nice](https://open.spotify.com/artist/2XKsSlSM70ukspdNBTSWBc), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [XL \(Remix\)](https://open.spotify.com/album/2uvMjUqJ18o1ECeGlA3cun) | 3:56 | 2026-07-28 | 2026-08-05 |
@@ -11555,6 +11555,7 @@
 | [エレキテルミー](https://open.spotify.com/track/1uuwomNyaOcczdE21N6CkB) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [あんみつ姫](https://open.spotify.com/artist/0ikvZDyjZjcgW3wUIXJlA2) | [エレキテルミー](https://open.spotify.com/album/596RIeYUVjEoGJwS5yBLt7) | 4:04 | 2024-07-23 | 2024-07-31 |
 | [エレクトリックパレード](https://open.spotify.com/track/19yBABt2127wYg1bZYJSko) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ユニバース](https://open.spotify.com/album/1ymib1eTYnGj0meS6iQrNr) | 3:13 | 2024-02-06 | 2024-02-08 |
 | [エレベーター](https://open.spotify.com/track/6qUb5tmz7ewgW3KaHfpiUT) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [エレベーター](https://open.spotify.com/album/6YLo7v782CA8ZlLlorCdiE) | 2:37 | 2025-10-22 | 2025-10-29 |
+| [エンジン](https://open.spotify.com/track/5j8Np84MJ0uUetSLEgdbhM) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [革命未遂の蝶が見る夢](https://open.spotify.com/album/7GsxQOuNna4DuY17bGpZG3) | 3:43 | 2026-08-04 |  |
 | [エンディング](https://open.spotify.com/track/1atXsbjY5Nx03MpaQfXt39) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [エンディング](https://open.spotify.com/album/1V1iuK3eu1VoQCZQ47ZMyt) | 2:02 | 2026-02-17 | 2026-02-25 |
 | [エンドレスサマー](https://open.spotify.com/track/68IfDjhHNu7ZWTJbc89UKs) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [エンドレスサマー](https://open.spotify.com/album/3NvLu5ZToQdTikFtVwHIGt) | 4:28 | 2025-10-08 | 2025-10-15 |
 | [エンドレスジャーニー](https://open.spotify.com/track/5VfJkGBRJdBpmkEiVOJI6y) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [START](https://open.spotify.com/album/2s1WUZU5oDyCa5q9nMuk2Z) | 3:04 | 2025-04-08 | 2025-04-16 |

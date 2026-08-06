@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 181704,
       "name": "Bawari",
       "url": "https://open.spotify.com/track/614p2ertmVVbTvbKPwMQGM"
@@ -5092,7 +5092,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 294705,
       "name": "Dil Pe Zakham",
       "url": "https://open.spotify.com/track/6aTBPgtPLm0lSFf5ugCF6I"
@@ -6446,7 +6446,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 168075,
       "name": "giraft",
       "url": "https://open.spotify.com/track/7xAAZ00Ijvf3sHQFjW39Nh"
@@ -8395,6 +8395,24 @@
     },
     {
       "album": {
+        "name": "Ishq Tamasha",
+        "url": "https://open.spotify.com/album/1KQNSPBTNMU1i2n1tDzQUa"
+      },
+      "artists": [
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289411,
+      "name": "Ishq Tamasha",
+      "url": "https://open.spotify.com/track/4xp2oaVZ4gjhV5wKepTilN"
+    },
+    {
+      "album": {
         "name": "Ishq Ya Tharak (From \"Metro ... In Dino\")",
         "url": "https://open.spotify.com/album/1UvxZGo6tRNWQzlUn6MFWt"
       },
@@ -8500,6 +8518,24 @@
       "duration_ms": 145350,
       "name": "Jaadu (From \"Hello Bachhon\")",
       "url": "https://open.spotify.com/track/1qNy6lumbs7h0Tx2oL8lZ2"
+    },
+    {
+      "album": {
+        "name": "Jaadugari",
+        "url": "https://open.spotify.com/album/0r6Tm9sQ4FEwryHcpsgZSt"
+      },
+      "artists": [
+        {
+          "name": "AMAN",
+          "url": "https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171932,
+      "name": "Jaadugari",
+      "url": "https://open.spotify.com/track/1EN4WMiQwUpEiuHkXzhKJk"
     },
     {
       "album": {
@@ -10758,6 +10794,24 @@
       "duration_ms": 246964,
       "name": "Khayaal Na Aaya - I-Popstar: Vol. 1",
       "url": "https://open.spotify.com/track/14K3tTCjpT6DAsxwvgDdC5"
+    },
+    {
+      "album": {
+        "name": "Kho Sa Gaya Hoon",
+        "url": "https://open.spotify.com/album/3QGif7T782Wl9lRA4Zx76N"
+      },
+      "artists": [
+        {
+          "name": "OutStation",
+          "url": "https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127578,
+      "name": "Kho Sa Gaya Hoon",
+      "url": "https://open.spotify.com/track/6f4j8tJbdca1JAjbxCpH3G"
     },
     {
       "album": {
@@ -13534,7 +13588,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 146048,
       "name": "Move Body",
       "url": "https://open.spotify.com/track/2FG5DfJDdyRbv18AE46XOP"
@@ -15484,6 +15538,32 @@
       "duration_ms": 184050,
       "name": "Piya",
       "url": "https://open.spotify.com/track/19G893hquKvFZNBQLkkagN"
+    },
+    {
+      "album": {
+        "name": "Piya Bedardi",
+        "url": "https://open.spotify.com/album/102HFBKjLWhjdPToQpOIBE"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Buddhaa M",
+          "url": "https://open.spotify.com/artist/78NOPLmBy6GWf6U7WcEZPC"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223578,
+      "name": "Piya Bedardi",
+      "url": "https://open.spotify.com/track/5hdztw08uTjf2HT7bj26zJ"
     },
     {
       "album": {
@@ -19693,6 +19773,24 @@
     },
     {
       "album": {
+        "name": "Tere Rang Mein",
+        "url": "https://open.spotify.com/album/3liqZRH0M6mmuIdiOg5JnG"
+      },
+      "artists": [
+        {
+          "name": "B SHOW",
+          "url": "https://open.spotify.com/artist/2M4UdEDub6MiGNuC9DluDa"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "Tere Rang Mein",
+      "url": "https://open.spotify.com/track/6gjS7ikstPxcjq8GyEwnAx"
+    },
+    {
+      "album": {
         "name": "Tere Sang (From \"Echoes Of Us\")",
         "url": "https://open.spotify.com/album/1GLH2yt6Y5Hk9TH5bX2hZa"
       },
@@ -20926,7 +21024,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 269711,
       "name": "Tum Hi Se Pyaar - From \"Tera Yaar Hoon Main\"",
       "url": "https://open.spotify.com/track/2OM5Da2HOpGAvzuyoVFxlE"

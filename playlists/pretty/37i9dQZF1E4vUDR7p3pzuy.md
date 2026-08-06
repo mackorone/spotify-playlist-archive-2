@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vUDR7p3pzuy.md) - [plain]
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With David Von Beahm, MIK's Reaction, Motor Ballet and more
+> With David Von Beahm, Motor Ballet, MIK's Reaction and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 8 likes - 50 songs - 3 hr 25 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vUDR7p3pzuy.md) - [plain]
 | 49 | [She's Got Rabies](https://open.spotify.com/track/1PZBjvZa8qgNl0jqRdLkrm) | [Ryan Lord](https://open.spotify.com/artist/3JYAoQz9q15sPpfCTMU4ww) | [Static Dream](https://open.spotify.com/album/5QBknVNuQHhBnIVVgK4wHb) | 3:35 |
 | 50 | [sharp knife!](https://open.spotify.com/track/5t5WtKIJrTUNQLdsjvqIEP) | [ZRVANI](https://open.spotify.com/artist/1DcEvngp6nkjhrw7rDpaJD) | [sharp knife!](https://open.spotify.com/album/7a7a2R1xco7q8RI6Zz51S9) | 2:26 |
 
-Snapshot ID: `AAAAAFP0aO42R/O0wzukqEChrK2THvKW`
+Snapshot ID: `AAAAAG8JEnTr1oAq8A4kalTZ3NLMEMMk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,833 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,832 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 49 | [Here We Go Again](https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:32 |
 | 50 | [U Make My Sun Shine \(feat\. Angie Stone\)](https://open.spotify.com/track/6ucOlSv5N8sa18vJIkE7lf) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Chocolate Invasion \(Trax From The NPG Music Club Volume One\)](https://open.spotify.com/album/1v48RtdtTRvnqYVOxsj2q3) | 7:05 |
 
-Snapshot ID: `am/aAAAAAAAbPTbSBPe5N8YiDUHN3Bmn`
+Snapshot ID: `am/aAAAAAABaBSWvo0VW+BHrZZH+0mPR`

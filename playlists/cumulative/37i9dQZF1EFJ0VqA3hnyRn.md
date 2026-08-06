@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-383 songs - 21 hr 56 min
+384 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Makeup](https://open.spotify.com/track/1yVsXwUiSuINsTBXIhAhCk) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Departure \- Recharged](https://open.spotify.com/album/2tDCfKFy2YW9N0IwNSRdOJ) | 3:51 | 2024-02-07 |  |
 | [Man Down](https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 4:27 | 2024-02-07 |  |
 | [Massacre](https://open.spotify.com/track/35TzX56MU1bvVRhLuLeqzz) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:26 | 2024-02-07 |  |
+| [Megamix](https://open.spotify.com/track/1EZprjfxjpyGlEFNQ0AZRZ) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo) | [The Time Is Now](https://open.spotify.com/album/4eap8Yo1FCts3yNTIFp9Nk) | 8:06 | 2026-08-05 |  |
 | [Melody \(feat\. James Francis\)](https://open.spotify.com/track/5w265FOnA3toapoiCSfEjo) | [The Boy Next Door](https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs), [Rino](https://open.spotify.com/artist/2dEmGZwc9RpOUnd1LGn7h5), [James Francis](https://open.spotify.com/artist/0JiTjLmtWcCosekkIJS5VA) | [Melody \(feat\. James Francis\)](https://open.spotify.com/album/7KFxF6CPgaNTv0cOUSV5KA) | 2:57 | 2025-01-09 | 2025-04-12 |
 | [Misses Glass](https://open.spotify.com/track/5rbbfmGWjHI3XoG3Y9wiSA) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:41 | 2024-02-07 |  |
 | [Monster Step](https://open.spotify.com/track/1cANRyFLbqA4M0C1oHa4gy) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:21 | 2026-05-12 |  |
@@ -370,7 +371,7 @@
 | [U Know U Want To](https://open.spotify.com/track/2u7YARIkovzhLheDX8RB04) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [M.O.](https://open.spotify.com/album/5JY8LOSVlqydub7b7W7MlE) | 3:50 | 2024-02-07 |  |
 | [Under Your Skin](https://open.spotify.com/track/3RB4mMjf2Ln4fDv3ylSoWI) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Under Your Skin](https://open.spotify.com/album/7kTa3EZsisqUfH9SA37oKe) | 3:08 | 2024-02-07 |  |
 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 | 2024-02-07 |  |
-| [Welcome to St\. Tropez \- DJ Antoine vs\. Mad Mark Radio Edit](https://open.spotify.com/track/5DZ78SHRkKVpgD6uhmqfZK) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Kalenna](https://open.spotify.com/artist/2NoFr6doacvN58q9p9EFky) | [WOW](https://open.spotify.com/album/1pzYoN3awhmtVLJsN3p69p) | 3:15 | 2024-02-07 |  |
+| [Welcome to St\. Tropez \- DJ Antoine vs\. Mad Mark Radio Edit](https://open.spotify.com/track/5DZ78SHRkKVpgD6uhmqfZK) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Kalenna](https://open.spotify.com/artist/2NoFr6doacvN58q9p9EFky) | [WOW](https://open.spotify.com/album/1pzYoN3awhmtVLJsN3p69p) | 3:15 | 2024-02-07 | 2026-08-06 |
 | [What Happens Here](https://open.spotify.com/track/17tuHcxhRbZADp4kU7Lrfs) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:19 | 2024-02-07 |  |
 | [When I Grow Up](https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination \(Deluxe\)](https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5) | 4:05 | 2024-02-07 |  |
 | [WICKED](https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 2:37 | 2025-09-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Evening Elephants
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,710 likes - 149 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,654 likes - 149 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 148 | [Run away with me](https://open.spotify.com/track/6LT3c2tVapQRzHQSne8gYI) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Run away with me](https://open.spotify.com/album/2ZOVj0KkuAxyKh9Dxonjof) | 3:58 |
 | 149 | [I Can't Die Like That](https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [I Can't Die Like That](https://open.spotify.com/album/313t051eeaMazltopmnbhm) | 2:31 |
 
-Snapshot ID: `AAAAAPHmvFb0lnKfilQ9c8QoB503ZBFz`
+Snapshot ID: `AAAAALZmG8LTnsp4D6YJwiSXDWDUE2sa`

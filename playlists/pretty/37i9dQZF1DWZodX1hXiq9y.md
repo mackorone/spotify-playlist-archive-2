@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,792 likes - 150 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,821 likes - 150 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 149 | [Yardbird Suite \- Remastered Version](https://open.spotify.com/track/3Q0nmzI0my2GaaYjdKHfQS) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Stitt Plays Bird](https://open.spotify.com/album/48Dk3O9drlrpiVaTti1EN9) | 4:49 |
 | 150 | [Countdown](https://open.spotify.com/track/35LAll8dgzkn42G8OPVbKR) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Deluxe Edition\)](https://open.spotify.com/album/3kxiL93hCFCIXkXJBLcYDi) | 2:25 |
 
-Snapshot ID: `AAAAADMFLacvsrZZJSRzRKBIKKr/PxkS`
+Snapshot ID: `AAAAAHd5uCA5mOp0mS/0QI398fMcx3oo`

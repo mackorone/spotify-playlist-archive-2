@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from New music from JAZZWRLD, Ariana Grande, Davido, MÖRDA,  Lusanda, MOLIY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,687 likes - 99 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,733 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 98 | [EDUZE](https://open.spotify.com/track/5jjtnOEUYPnjtUsihNU3Vt) | [Sakhile](https://open.spotify.com/artist/24q1SC842cNItRb6BYyCA4), [Small Keys](https://open.spotify.com/artist/5ORriHLiM3PGiUkri9feiu), [SigmaTee](https://open.spotify.com/artist/5Vso01PBv3jl9zlE99HSmZ), [INKINGA YOMHLABA](https://open.spotify.com/artist/7FpoORNr4iDEk6K7VhPb5l), [TJ Zulu](https://open.spotify.com/artist/1dmE7ncN8jUQiX37SvMWYE) | [KWASUKASUKELA.](https://open.spotify.com/album/4SDFB51mXGvLJEfYaZmipO) | 3:44 |
 | 99 | [Pitoria](https://open.spotify.com/track/68roQgQTxYgXrJAaxFGawu) | [Sizwe Nineteen](https://open.spotify.com/artist/2c3QieTCPiVSzFF3RnmiOU) | [The Prince of Pitori: Days Before Forever Nineteen](https://open.spotify.com/album/4wo3KPZDAeTJm8Ewpo4bZl) | 4:16 |
 
-Snapshot ID: `AAAAAPAXMKf4qkmtancIwOiXEdC+sH15`
+Snapshot ID: `AAAAAK2Es+sWMz4kxbX+m2xXgCa/zT9G`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 
 > Aktuell musik med etablerade och intressanta artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,824 likes - 89 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,816 likes - 89 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 88 | [Inner City Ghosts](https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ) | 3:49 |
 | 89 | [Bara trummor kvar](https://open.spotify.com/track/65R6XBsGQwS86rwzgybHH4) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Bara trummor kvar](https://open.spotify.com/album/6gs9deX2HzLigPK9WDIzSd) | 3:38 |
 
-Snapshot ID: `AAAAAI0yzZDUdxyEUW4bzHIOaze9Wj3+`
+Snapshot ID: `AAAAAKmEBJezC1L9XYz+2zOMRGzRwuRE`

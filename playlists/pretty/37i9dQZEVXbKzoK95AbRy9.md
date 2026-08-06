@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,147 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,205 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 44 | [Dois Gumes \(Ao Vivo\)](https://open.spotify.com/track/6Exec6nPRIwvAEu3N8pVnT) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Velhos Hábitos, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6Zvp9WWJTWzonuuAM9vA3L) | 3:11 |
 | 45 | [Bala Alojada](https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Bala Alojada](https://open.spotify.com/album/4mFeX8UBFJ1KAyvfboPI7d) | 3:38 |
 | 46 | [Não Me Cutuca](https://open.spotify.com/track/02BhbpQKWCVjqVBUsvOL7i) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 2:35 |
-| 47 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Diego](https://open.spotify.com/artist/79XD2aBNfCvTZLF9cnsxSB), [Victor Hugo](https://open.spotify.com/artist/0P5FjTy1hd0aSQGr5oRqPe) | [Ao Vivo Em Uberlândia](https://open.spotify.com/album/6QRuaVhphYKYRiydSRzQhX) | 2:42 |
+| 47 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Ao Vivo Em Uberlândia](https://open.spotify.com/album/6QRuaVhphYKYRiydSRzQhX) | 2:42 |
 | 48 | [Meu Silêncio \- Ao Vivo](https://open.spotify.com/track/0ycQtDnc4mOcefV6yyV6dm) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Meu Silêncio \(Ao Vivo\)](https://open.spotify.com/album/086Jke99gK8bDLMFkgzGaj) | 2:59 |
 | 49 | [Baqueado \- Ao Vivo](https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Panda Sem Moderação \(Ao Vivo\)](https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC) | 2:26 |
 | 50 | [Ponto G](https://open.spotify.com/track/2nFxi81mANa6dtAWR8admj) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Ponto G](https://open.spotify.com/album/7g5uhYNHJ07ZHuXTX3bu3R) | 2:43 |
 
-Snapshot ID: `MgVVoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MganIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,12 +1,12 @@
 {
   "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u5c0f\u888b\u6210\u5f6c & 5lack *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/348059\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
-  "num_followers": 256147,
+  "num_followers": 256101,
   "original_name": "New Music Wednesday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJ524eBVMNhVWMh0vRfxvldOPn5",
+  "snapshot_id": "AAAAAHDT1kH1wZ3Gxym0I1PK42+pIGyW",
   "tracks": [
     {
       "added_at": "2026-08-05 00:42:19",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-08-04 15:00:35",
       "album": {
+        "name": "A NEW ERA OF NOW",
+        "url": "https://open.spotify.com/album/7guNJQC9dvSsuvCf8shTVQ"
+      },
+      "artists": [
+        {
+          "name": "AEN",
+          "url": "https://open.spotify.com/artist/4FDIcy85KVTaLw8TCGFpJQ"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "X to Z (Next to me) (Japanese ver.)",
+      "url": "https://open.spotify.com/track/7aQMHcPKeaYJ69sKVH3jom"
+    },
+    {
+      "added_at": "2026-08-04 15:00:35",
+      "album": {
         "name": "FADED",
         "url": "https://open.spotify.com/album/04YUKGRMS3iQy9rgVLCPvc"
       },
@@ -1392,8 +1408,8 @@
           "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 19",
+      "duration_ms": 223957,
+      "name": "\u30a8\u30f3\u30b8\u30f3",
       "url": "https://open.spotify.com/track/5j8Np84MJ0uUetSLEgdbhM"
     },
     {

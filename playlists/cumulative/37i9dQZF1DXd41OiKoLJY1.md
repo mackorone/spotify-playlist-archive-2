@@ -4,7 +4,7 @@
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Ian Penn\]\. Artwork: Isu Kim.
 
-4,128 songs - 10 day 1 hr 10 min
+4,133 songs - 10 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [Chinese Restaurant](https://open.spotify.com/track/6lVZXQ6pqGNqHOIVuoedFc) | [Nicole Adeya](https://open.spotify.com/artist/0ovUS8AlEVS907KmT6bsAX) | [Chinese Restaurant](https://open.spotify.com/album/2eDydOY5y6yXucb8FG0ylR) | 3:09 | 2024-08-23 | 2024-09-20 |
 | [chismosa](https://open.spotify.com/track/1c4VEnyKZplsJ5ANtcanTK) | [buko boys](https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa) | [chismosa](https://open.spotify.com/album/4iOFJ2pvYhaBVsbUe859AO) | 2:47 | 2023-10-19 | 2023-11-11 |
 | [Chloe Ann](https://open.spotify.com/track/4HNXR994Z0oWXtgOhvAK0Y) | [MoonDream City](https://open.spotify.com/artist/2lyDS8Rxlclb12i1HN9HA2) | [Chloe Ann](https://open.spotify.com/album/3bQFfmkTVHltlOSVD0AjXB) | 4:31 | 2024-07-18 | 2024-08-16 |
+| [Chupoy Chupoy](https://open.spotify.com/track/0XpJitZkaCZx9N1eJhFjUz) | [Hoodlum!](https://open.spotify.com/artist/11wSIVDDczCVk5xCHalMQh) | [Hoodlum Debut Album](https://open.spotify.com/album/0qwt2mzKGv6lSQrdKc6Wbl) | 5:25 | 2026-08-05 |  |
 | [Cielo](https://open.spotify.com/track/3xw4Uiza8vEopvFi35q1vV) | [Giver Costibolo](https://open.spotify.com/artist/0At2D6BPXmV2MK6S6NSlaA) | [Cielo](https://open.spotify.com/album/18IX5wspo6ClgMEzuemvmN) | 3:40 | 2024-10-03 | 2024-11-23 |
 | [Cigarillo](https://open.spotify.com/track/3hddFRnmhs390gpp3CelUn) | [KOWBOI](https://open.spotify.com/artist/0nI7edOLwA4wCHw8FzUPve) | [Cigarillo](https://open.spotify.com/album/4bxFdceP4TuITy6WFfhXsy) | 4:17 | 2026-01-29 | 2026-03-20 |
 | [Cindy](https://open.spotify.com/track/5vPj59nm5FYS8gbW7yKddH) | [waltz](https://open.spotify.com/artist/6rmwd2stquWyzEngUOPFpS) | [Cindy](https://open.spotify.com/album/48s34Ce6CnNLdYVuCJcDpZ) | 3:56 | 2024-09-05 | 2024-10-04 |
@@ -1270,6 +1271,7 @@
 | [Gimme That Girl](https://open.spotify.com/track/6iiS7SxCjmpWyPydO6hhlf) | [Zync](https://open.spotify.com/artist/0VysruqTAcxwoltfSK7Yoc), [BJ Prowel](https://open.spotify.com/artist/4ReuIF15hD7MOW7C0qTd5u), [Creisler](https://open.spotify.com/artist/1DfGLrGIKc09qhgSEpzO50) | [Gimme That Girl](https://open.spotify.com/album/6QzDlKQsrNGkdlVc3Naale) | 3:41 | 2023-04-13 | 2023-04-28 |
 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/5VkdLZawWpc0WVL4ZMvKey) | [JARREN](https://open.spotify.com/artist/62RjmAwo3r78qWk5UQqiu3) | [JARREN](https://open.spotify.com/album/6zha0pCeKbyBmzYxxinunn) | 2:17 | 2025-02-06 | 2026-01-15 |
 | [Gin Bilog](https://open.spotify.com/track/3eBj9Hw9YeqvIuZj5tuk0Z) | [Kid Andromeda](https://open.spotify.com/artist/68rt24QJbFg2BvlgbF5l0k), [DZBY](https://open.spotify.com/artist/1UoRP4CodWnCjUP2nRBv1o) | [Gin Bilog](https://open.spotify.com/album/29Y2jsfCsRsrNNeazsBclq) | 4:39 | 2023-05-25 | 2023-06-16 |
+| [Gina G.](https://open.spotify.com/track/3zRX2m3wwGbaRGayqB5lcA) | [Uncle Bob's Funky Seven Club](https://open.spotify.com/artist/0UBLpatgPJe2v1theY0ftp) | [Gina G.](https://open.spotify.com/album/10xv43vh5q2BdnXFgWeHvi) | 3:01 | 2026-08-05 |  |
 | [girl so cool](https://open.spotify.com/track/0tdTwjUpVFbnOAxw6saoiF) | [dree](https://open.spotify.com/artist/5ikU74erwupGYJpTmzIVoD) | [girl so cool](https://open.spotify.com/album/3sOkKw598yUeE3XJAFqNJ7) | 3:25 | 2026-02-05 | 2026-05-07 |
 | [Gising](https://open.spotify.com/track/0f7KIN5qqHLCxTUqiwN9o5) | [Forgetting69](https://open.spotify.com/artist/5gLsbZl6mxu1L7fMlpcXGp) | [Gising](https://open.spotify.com/album/1D49LSwByTNMOGWhLwINNr) | 3:48 | 2023-08-31 | 2023-09-22 |
 | [Gising](https://open.spotify.com/track/7cghidWy2vmQAw2MNQ3xwA) | [jayty](https://open.spotify.com/artist/6bpZeAGxKY2TrxU6DEZZb5) | [Gising](https://open.spotify.com/album/5WIm8CRbtuiBU9T1BddFhU) | 4:02 | 2022-05-19 | 2022-07-01 |
@@ -3480,6 +3482,7 @@
 | [Strangers Again](https://open.spotify.com/track/7wBILUZ2QlbItlBokJVkAy) | [Sean de Castro](https://open.spotify.com/artist/0fvu33mHlFL0EpVlqHZ1hR) | [Strangers Again](https://open.spotify.com/album/3ydeKEMhrLxl2AnoKj96ZP) | 4:20 | 2025-02-20 | 2025-04-04 |
 | [Strawberry Sundae](https://open.spotify.com/track/6PM8LzFgpLxhewpZuQTnWQ) | [Rein](https://open.spotify.com/artist/3f6IslEvsvlBF1aXfYEfae) | [Strawberry Sundae](https://open.spotify.com/album/6FG6K8wQ4sWLA4fQfopJCV) | 3:17 | 2023-09-21 | 2023-10-13 |
 | [STREET$](https://open.spotify.com/track/18yCUsNUy1ejzUUdDGTFhF) | [Tuchi](https://open.spotify.com/artist/2CIkzUSkGv97LWWUW2zsuN), [Too $hine](https://open.spotify.com/artist/4TDaFNPiuLJYmyn0GcPmzD), [cole](https://open.spotify.com/artist/5JoLnpAiiuQQwFD6n3qUmw) | [STREET$](https://open.spotify.com/album/4GGxrheREWfCje5A5kgW9a) | 1:55 | 2025-07-31 | 2025-10-03 |
+| [Strip \(Don't Wanna Leave\)](https://open.spotify.com/track/50EKtmYmibqfzU8WP9ehek) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [CONCORD](https://open.spotify.com/album/6YnGa5urdpgr9w8BNo7XO9) | 2:53 | 2026-08-05 |  |
 | [Stuck In My Head](https://open.spotify.com/track/1YoYm28cO6sVwDopCKNd8Y) | [Valere](https://open.spotify.com/artist/5ZQF36w4zKY03Rq4zbYx88) | [Stuck In My Head](https://open.spotify.com/album/47Cr3XsoojeUKIDqowRfHl) | 2:50 | 2023-03-16 | 2023-04-07 |
 | [Stuckinthehouse](https://open.spotify.com/track/6DCzm209Uq1umf6FkyaSWm) | [aunt robert](https://open.spotify.com/artist/4FCZToYRNlXiC9nAxnnix9) | [Goodbyes Forever](https://open.spotify.com/album/0LmLX3kKkzhxLHEz5OUhPB) | 1:30 | 2025-09-25 | 2025-12-04 |
 | [STUFF IM DEALIN WITH](https://open.spotify.com/track/2e3vf9LaqijmrqK4AJbSmL) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [STUFF IM DEALIN WITH](https://open.spotify.com/album/2ZMiTkSDgvLWth7ioSPacp) | 2:41 | 2023-06-22 | 2023-07-14 |
@@ -3586,6 +3589,7 @@
 | [Tahimik](https://open.spotify.com/track/5gI2oPbzXYqldwrYePoBqD) | [ratavii](https://open.spotify.com/artist/31HuGWAnuuXxAQMKRlH4MY) | [Tahimik](https://open.spotify.com/album/4aKq6OFonHXWR5mGIWBPo4) | 4:31 | 2025-10-16 | 2025-12-04 |
 | [Takas](https://open.spotify.com/track/0v2BYNZnD9MwdxZDb8dekW) | [Maropok](https://open.spotify.com/artist/7zR09LIFOL2rpfGfW4iYCA) | [Takas](https://open.spotify.com/album/1kv5DzmbUTBd18ynCNTooy) | 3:21 | 2024-09-05 | 2024-09-27 |
 | [Takbo](https://open.spotify.com/track/4nsAx8h2rX1NvlkQ1nN0Tr) | [Carl Nolasco](https://open.spotify.com/artist/53jO3PUzrMCETKxBu5vRXk) | [Takbo](https://open.spotify.com/album/0uS1sxTOSsL8c3cxBtsZEy) | 4:22 | 2025-11-13 | 2026-02-06 |
+| [Takbo](https://open.spotify.com/track/1Olsl8INFvkcAvXAR31vDN) | [Tatz Maven](https://open.spotify.com/artist/6SATKmQLDhwHRDzc4yiSbp), [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Takbo](https://open.spotify.com/album/3NH0dcvmoJMds8AOi9GKZe) | 3:16 | 2026-08-05 |  |
 | [Take It All In](https://open.spotify.com/track/0oKBjYzvEYXuZ52fQC1Gov) | [L!FE](https://open.spotify.com/artist/1qasRfipyyyAbCsY7ZTg7C) | [Take It All In](https://open.spotify.com/album/67SPVA4Qm0kdej7WiGhcIN) | 1:52 | 2024-03-21 | 2024-04-26 |
 | [Take It Slow](https://open.spotify.com/track/5GQ6r3YElv36L779UCpMIH) | [hulyan](https://open.spotify.com/artist/4tcbuCIrmk3bpy20zCgSu1), [Uer](https://open.spotify.com/artist/1xN2pQm6MuumcXZunE1jTD) | [Take It Slow](https://open.spotify.com/album/3KY6tUMnAeZjfTKFvlkafY) | 3:19 | 2026-03-12 | 2026-05-07 |
 | [TAKE ME](https://open.spotify.com/track/25LH2Nbt2NprCrfxZkhm93) | [Ian](https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY) | [TAKE ME](https://open.spotify.com/album/1yGx57D5vKfXUiNldHt6hb) | 3:18 | 2025-08-28 | 2025-11-21 |
@@ -3866,6 +3870,7 @@
 | [Ur Luv](https://open.spotify.com/track/65nCR0E19cAG5ghmkyIa1r) | [Hijo](https://open.spotify.com/artist/5FKfbso0qRACpiLxHQ0Ad6) | [Ur Luv](https://open.spotify.com/album/01gK9iV52ZP0cUS5KxoR1G) | 2:49 | 2024-07-04 | 2024-08-09 |
 | [Ur Mine](https://open.spotify.com/track/2Kda82NXBTMETMulS4EIYu) | [SY8](https://open.spotify.com/artist/422yzMTfpgG1MY27ybR1IL), [Smurff](https://open.spotify.com/artist/0csDNIMOfL7qxrLz6OHxal) | [Ur Mine](https://open.spotify.com/album/3lOqTmFgnWksmf6p7HPech) | 3:43 | 2025-02-14 | 2025-04-04 |
 | [ur myn](https://open.spotify.com/track/7itjlBxT6fwX3FKjMYB57C) | [Marga Jayy](https://open.spotify.com/artist/04Bq2hRCsdZEQ9cKVDXN3R) | [ur myn](https://open.spotify.com/album/4J9TiLEhvKJhBRskzYbRpD) | 4:16 | 2023-07-20 | 2023-08-11 |
+| [Urong Sulong](https://open.spotify.com/track/069wBYuPG4AHBucoNW5StN) | [Paul Monserrate](https://open.spotify.com/artist/3sa2GW7TbeCFIYLacBk4kD) | [Urong Sulong](https://open.spotify.com/album/2NSPpIGvccI3sYQ5991e5o) | 3:34 | 2026-08-05 |  |
 | [Us Against the World](https://open.spotify.com/track/4ciGh5BSB6c9WvFlQ6H4Yh) | [Ronald Morrera](https://open.spotify.com/artist/3Ll7GLrmm0pdQq600a8lWj), [Maya St\. Jean](https://open.spotify.com/artist/4r3YxkuXgXkzblpgj5p3OA) | [Us Against the World](https://open.spotify.com/album/0tdAodpiMzslb41g6Ma9Zj) | 4:18 | 2022-07-28 | 2022-09-23 |
 | [Usok Alak](https://open.spotify.com/track/79HfuN8ThBOCpqDKfm8CkV) | [Cali Dynasty](https://open.spotify.com/artist/5xaQYk4yIjHNl3xbWb7ENC) | [Usok Alak](https://open.spotify.com/album/5MUijro6MbUS3mMThHimeG) | 3:26 | 2022-09-08 | 2022-11-25 |
 | [Usok at Kape](https://open.spotify.com/track/7DGhOGZTRHSlZTVoKofZCB) | [Marga Jayy](https://open.spotify.com/artist/04Bq2hRCsdZEQ9cKVDXN3R) | [Usok at Kape](https://open.spotify.com/album/6THmO01Id8fU8c333zA5Tw) | 3:49 | 2023-04-20 | 2023-05-05 |

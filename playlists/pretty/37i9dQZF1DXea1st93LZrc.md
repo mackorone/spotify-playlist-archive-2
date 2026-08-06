@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 
 > Οι καλλιτέχνες που ακούστηκαν περισσότερο μέσα στο 2025\. Εξώφυλλο: TOQUEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,429 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,430 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 | 23 | [Sto Finale](https://open.spotify.com/track/1HbuW6BOcXFJoeS0eeBxRm) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [Sto Finale](https://open.spotify.com/album/0BkqLnAiSjx98YoFojcRC8) | 3:10 |
 | 24 | [Fernw Trap](https://open.spotify.com/track/3fQpve3m3CpcRwRDUymqs0) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Billy Sio](https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc) | [Fernw Trap](https://open.spotify.com/album/1QOASIAga97R98RB7aHM6r) | 3:34 |
 | 25 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 |
-| 26 | [Mamacita](https://open.spotify.com/track/0sh8BOMXIJxPZW1pasio6P) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [O Xoros Tou Fy](https://open.spotify.com/album/5B7KNfCrSFSPJdZjJV8Xui) | 2:51 |
+| 26 | [Mamacita](https://open.spotify.com/track/0sh8BOMXIJxPZW1pasio6P) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [O Xoros Tou Fy](https://open.spotify.com/album/5B7KNfCrSFSPJdZjJV8Xui) | 2:51 |
 | 27 | [5G](https://open.spotify.com/track/1zFopnWXPb0lWocBU5eSnw) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK) | [5G](https://open.spotify.com/album/5PRrzJZQTL2KeYgLEvBruP) | 3:29 |
 | 28 | [Ola Gia Ola](https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Ola Gia Ola](https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo) | 4:41 |
 | 29 | [Isos Isoun Kiria](https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4) | [Pantelis Pantelidis](https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3) | [Alkoolikes I Nihtes](https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 | 49 | [Xorepse](https://open.spotify.com/track/3FNGcipuHWekU1KvhdrAwH) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A), [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [Xorepse](https://open.spotify.com/album/2FJpQ42IEy1G66GmbSuYUs) | 3:48 |
 | 50 | [ALEPOU](https://open.spotify.com/track/6tVxDRTL0EnSL4ITFbv97R) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [ALEPOU](https://open.spotify.com/album/03PfdPihxPMUX3HC8qcojr) | 3:34 |
 
-Snapshot ID: `AAAAAEd5fC5Brdgisn4453+Tytc3zFMH`
+Snapshot ID: `AAAAAOnR0jC1KqhTedkKx1Pmxxxw1P8u`

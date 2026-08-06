@@ -2,9 +2,9 @@
 
 ### [All The Way Up](https://open.spotify.com/playlist/4oCdiaZmiKLPpKUHlFjovZ)
 
-> Turn this playlist all the way up! Featuring T.I., Fenix Flexin, Shaboozey &amp; more.
+> Turn this playlist all the way up! Featuring SOB x RBE, T.I., Fenix Flexin, Shaboozey &amp; more.
 
-243 songs - 10 hr 52 min
+244 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Superstar](https://open.spotify.com/track/6AUKhuveLvni7f0o4dvou8) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Superstar](https://open.spotify.com/album/75Jix4is5wxklcCIZEGCLd) | 1:54 | 2026-04-22 | 2026-06-09 |
 | [swag it! \- Remix](https://open.spotify.com/track/5TH16toxd8LXyTKr35zQja) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [swag it! \(Remix\)](https://open.spotify.com/album/7KjmXSpjjhHctk0eyQNNEB) | 3:11 | 2024-05-20 | 2026-06-09 |
 | [Talkin Bout](https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Talkin Bout](https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx) | 1:57 | 2023-09-05 | 2024-05-21 |
+| [Ten Summers](https://open.spotify.com/track/3L2hQwHU9Sof8srRsgwrNu) | [SOB X RBE](https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [Yhung T.O.](https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l), [Slimmy B](https://open.spotify.com/artist/0BfxMYdkqRuwPXsSwEf5RE) | [Ten Summers](https://open.spotify.com/album/0Ynh3XpDbQScbiO1DMmTou) | 2:29 | 2026-08-05 |  |
 | [The Greatest](https://open.spotify.com/track/0yiP9YTs4J4eQVU5Zc42QL) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [The Greatest](https://open.spotify.com/album/4Zle90yBm3NjONDtmuutCX) | 2:14 | 2024-05-15 | 2025-02-01 |
 | [The Warm Up](https://open.spotify.com/track/6bLLiQAShrb742zp2sdoai) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [The Warm Up](https://open.spotify.com/album/3k8we0dTMGtINphGLPNNQe) | 2:35 | 2024-05-20 | 2025-03-05 |
 | [THUGGIN NOT CLUBBIN](https://open.spotify.com/track/5XKykbx4PClLewzOvlb2JX) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [THUGGIN NOT CLUBBIN](https://open.spotify.com/album/6XKQ5hbDwFImvujXhPwpKZ) | 2:29 | 2025-05-14 | 2025-07-31 |

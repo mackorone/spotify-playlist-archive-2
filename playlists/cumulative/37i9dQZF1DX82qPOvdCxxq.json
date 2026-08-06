@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Kodoku",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: MUCH MORE",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "When Did I Move The Goalposts?",
+        "url": "https://open.spotify.com/album/6Extj31OeHopAmUEcUVFw6"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217399,
+      "name": "And The Next Day",
+      "url": "https://open.spotify.com/track/4KHf4XGHNYjQq1MsTdejJC"
+    },
+    {
+      "album": {
         "name": "and when you look at the stars",
         "url": "https://open.spotify.com/album/1wq9Bn9K8RCYftBDDb2Wya"
       },
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 191401,
       "name": "Back To My Love",
       "url": "https://open.spotify.com/track/55ZFMluoPJOILQ7jHeKvmD"
@@ -2297,6 +2315,28 @@
     },
     {
       "album": {
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/6HiqTOa5ciafodCWohXvzn"
+      },
+      "artists": [
+        {
+          "name": "Robbie Ray",
+          "url": "https://open.spotify.com/artist/5ubbGqPguwPeb7kopswgbe"
+        },
+        {
+          "name": "J.Rob The Chief",
+          "url": "https://open.spotify.com/artist/3eFvhpLbVKTlhGWaazeeG6"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168283,
+      "name": "BLESSED",
+      "url": "https://open.spotify.com/track/6gq5UCChK8G99P6HZsTHt6"
+    },
+    {
+      "album": {
         "name": "blessed assurance",
         "url": "https://open.spotify.com/album/3jHJKRBkl1aDNJPHF9MG62"
       },
@@ -2848,7 +2888,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 158181,
       "name": "Call",
       "url": "https://open.spotify.com/track/5LODwNHXLkva3cPsOdslV0"
@@ -4554,6 +4594,24 @@
       "duration_ms": 123157,
       "name": "DESPITE",
       "url": "https://open.spotify.com/track/3QlNIyzlzkUIaxyERqhu3l"
+    },
+    {
+      "album": {
+        "name": "Devil In The Water",
+        "url": "https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O"
+      },
+      "artists": [
+        {
+          "name": "Hailey Hutcheson",
+          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176162,
+      "name": "Devil In The Water",
+      "url": "https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ"
     },
     {
       "album": {
@@ -7235,6 +7293,24 @@
     },
     {
       "album": {
+        "name": "God Saved My Life Through Music",
+        "url": "https://open.spotify.com/album/0T9F1eIh6nQFRwR4h9I91V"
+      },
+      "artists": [
+        {
+          "name": "Gifted Hands",
+          "url": "https://open.spotify.com/artist/39rx4zgUPeQQXZbD9xphK6"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198550,
+      "name": "God Saved My Life Through Music",
+      "url": "https://open.spotify.com/track/3eCGmQlTQe4uhCkzmRXCf1"
+    },
+    {
+      "album": {
         "name": "Songs About Jesus",
         "url": "https://open.spotify.com/album/2L0thC4nvrQ4yVRLxFzgCG"
       },
@@ -9268,7 +9344,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 163038,
       "name": "How The Story Goes",
       "url": "https://open.spotify.com/track/4NAsqMOlrIhWwDMHh3PL5m"
@@ -13186,7 +13262,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 158499,
       "name": "Mind",
       "url": "https://open.spotify.com/track/6I4VTUM4BcyKI3HcniKRSH"
@@ -15296,7 +15372,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 229376,
       "name": "Para Siempre - Soft Version",
       "url": "https://open.spotify.com/track/4lSTOOZY00j5vXFukUY2Xz"
@@ -18582,7 +18658,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 238500,
       "name": "Stand Firm",
       "url": "https://open.spotify.com/track/5RDpUuxLHALw7zJLLnWOEs"
@@ -19836,6 +19912,28 @@
       "duration_ms": 157714,
       "name": "The Answer",
       "url": "https://open.spotify.com/track/5iK2ieYt6CLuhZhWl2syFk"
+    },
+    {
+      "album": {
+        "name": "The Deeps",
+        "url": "https://open.spotify.com/album/4QWEHsujvOaRi9Vf1jnaq5"
+      },
+      "artists": [
+        {
+          "name": "Brogan Gaskill",
+          "url": "https://open.spotify.com/artist/61i3TetowOKS5rGy0vSUjN"
+        },
+        {
+          "name": "Ian Austin",
+          "url": "https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235304,
+      "name": "The Deeps",
+      "url": "https://open.spotify.com/track/5aD1dbCslbrws3C5WVRad8"
     },
     {
       "album": {
@@ -21100,7 +21198,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 194526,
       "name": "Under the Same Sky",
       "url": "https://open.spotify.com/track/062Rh6vIMkwEuksiWF6sKC"
@@ -21198,6 +21296,28 @@
       "duration_ms": 113382,
       "name": "Unworthy",
       "url": "https://open.spotify.com/track/5SSXDQqdrX7noCSyr19zdB"
+    },
+    {
+      "album": {
+        "name": "Up & In",
+        "url": "https://open.spotify.com/album/5zTuvlLYUxfOpPkAmf1gSC"
+      },
+      "artists": [
+        {
+          "name": "John Stratton",
+          "url": "https://open.spotify.com/artist/75ydR1NjUwvF6P4DYcCsub"
+        },
+        {
+          "name": "Marina Stratton",
+          "url": "https://open.spotify.com/artist/07MiNqp9CHA9mDBUirgCGe"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274140,
+      "name": "Up & In",
+      "url": "https://open.spotify.com/track/2dW26thqdjK6GnXBksUbHd"
     },
     {
       "album": {
@@ -21451,6 +21571,24 @@
     },
     {
       "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/2UoLasRfV9awshTDVOhRJi"
+      },
+      "artists": [
+        {
+          "name": "Kachi Annuncia",
+          "url": "https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158124,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/4uoEm9ukfqrTRouykfI5Ve"
+    },
+    {
+      "album": {
         "name": "Wait For The Dawn",
         "url": "https://open.spotify.com/album/51JfkMN3NDLGHJYpmlZpDa"
       },
@@ -21632,7 +21770,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 169846,
       "name": "WALKING IN THIS WORLD",
       "url": "https://open.spotify.com/track/4KjdeNqqVhZLNGUsrHC7NA"
@@ -21676,6 +21814,24 @@
       "duration_ms": 213993,
       "name": "Wanna Be",
       "url": "https://open.spotify.com/track/6KCJ9E91alz1whSqp3UIj6"
+    },
+    {
+      "album": {
+        "name": "WANNA SING",
+        "url": "https://open.spotify.com/album/04kaljKB1DAClqzwuOejEk"
+      },
+      "artists": [
+        {
+          "name": "Gabe von Oven",
+          "url": "https://open.spotify.com/artist/4gN7QE1KMr6kQn3rbBiIrp"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152389,
+      "name": "WANNA SING",
+      "url": "https://open.spotify.com/track/7orhTkuPQcltwqm8enW7NW"
     },
     {
       "album": {

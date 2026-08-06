@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,015 likes - 180 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,121 likes - 180 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 179 | [Étude No\. 10: Void](https://open.spotify.com/track/6jReLZCPP7Vfg5dyKPg2Gy) | [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN) | [Awadis: Étude No\. 10: Void](https://open.spotify.com/album/4yuzX8HUTQ7ZSD2aHSqiht) | 3:57 |
 | 180 | [5 Pieces, Op\. 75, "The Trees": No\. 3 Aspen](https://open.spotify.com/track/6MoY9dj27qBHzCCmcvYTIJ) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Håvard Gimse](https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I) | [Sibelius: Piano Music, Vol\. 4](https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2) | 2:20 |
 
-Snapshot ID: `AAAAAHLBvxL/Ld74V8+Nu1hxoP8ffDRy`
+Snapshot ID: `AAAAAPZWFdq9CJUH0RVHTOvTbERtly9B`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Hopeful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,804 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,799 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 29 | [Walk On The Water Moment](https://open.spotify.com/track/7cm7LxRedGYggDL4x24ndh) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Walk On The Water Moment](https://open.spotify.com/album/2lwOBASMEA2v0yH1DeRD4V) | 3:12 |
 | 30 | [Wait On The Lord](https://open.spotify.com/track/0h5jjjBxU7q8Uv6LyGXabN) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Wait On The Lord](https://open.spotify.com/album/51LgB6q6ZthoNHPKdHbb7Y) | 3:25 |
 | 31 | [My Hope](https://open.spotify.com/track/1DDu7QIrnpCq1veaLrfRHp) | [Caleb & John](https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0) | [My Hope](https://open.spotify.com/album/2wxza20WnAbFHG5XsK6iik) | 3:05 |
-| 32 | [STILL RUNNING TO YOU](https://open.spotify.com/track/4LnePDkoMbuSVfHRnc4Hhu) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Still Running To You](https://open.spotify.com/album/2HFD80cz07re5kYrtRSSCg) | 2:59 |
+| 32 | [STILL RUNNING TO YOU](https://open.spotify.com/track/4LnePDkoMbuSVfHRnc4Hhu) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Still Running to You](https://open.spotify.com/album/2HFD80cz07re5kYrtRSSCg) | 2:59 |
 | 33 | [Joy \(Anyway, Anyhow\)](https://open.spotify.com/track/0EIWuixgVqDCxApjOs4Oy8) | [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7) | [Joy \(Anyway, Anyhow\)](https://open.spotify.com/album/2QihQsRXVYFbVRJjpZKmMn) | 2:44 |
 | 34 | [Little Lamb](https://open.spotify.com/track/0E0vY68HLMJ9QRe0jNVAlw) | [Jason Upton](https://open.spotify.com/artist/1vaOLxWPpsv5LVsSHBy9tF) | [Little Lamb](https://open.spotify.com/album/5bIqhnAkFHv13UjTSlWocS) | 5:23 |
 | 35 | [CRISTO \(Inglés/Español\)](https://open.spotify.com/track/3bU3Rv06nnFepEacgUwzYT) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Austin Benjamin](https://open.spotify.com/artist/1mLZGJNyogDspBWiSgAfcR) | [CRISTO \(Inglés/Español\)](https://open.spotify.com/album/3ABQFxUoKmbFzPVL6MHcyK) | 6:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Give Me Joy](https://open.spotify.com/track/65g5hAMnsr9Zug4vGWrPgS) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Give Me Joy](https://open.spotify.com/album/6sTnl17phWJeWoEMOm3wQ7) | 4:43 |
 | 100 | [Road Less Traveled](https://open.spotify.com/track/4B9rtS3inS4qsmbEB8ysGl) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Road Less Traveled](https://open.spotify.com/album/3N003bQiYF4NymTauky8B3) | 3:03 |
 
-Snapshot ID: `AAAAAPa/FFDQGFBl9s9S7O8AKLkoZlCX`
+Snapshot ID: `AAAAALYSHte+9DIhCGV9aWCZggpXHFZ5`

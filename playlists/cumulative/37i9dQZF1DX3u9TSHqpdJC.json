@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Babe America Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Sophia Willingham & Elisheva Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 168592,
       "name": "All Over It",
       "url": "https://open.spotify.com/track/4bYdCaoSdIMwDCyE4IqUnr"
@@ -4584,7 +4584,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 163198,
       "name": "Architect",
       "url": "https://open.spotify.com/track/2P8aktHcNf8AD9LwLFUj3g"
@@ -11492,7 +11492,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 128445,
       "name": "BUTTERF-LIES",
       "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
@@ -16630,7 +16630,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 184294,
       "name": "Curious",
       "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
@@ -18034,6 +18034,24 @@
       "duration_ms": 199245,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/2ieoz22DNZyqZSnulU6nsn"
+    },
+    {
+      "album": {
+        "name": "delusional",
+        "url": "https://open.spotify.com/album/7eO0fIA3XKRpyKzd2bnvf4"
+      },
+      "artists": [
+        {
+          "name": "Marianne Leigh",
+          "url": "https://open.spotify.com/artist/1iFfYdsTHCQ7D0jUS5dE5n"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171544,
+      "name": "delusional",
+      "url": "https://open.spotify.com/track/46hzNHAyf1dz6gncGM0CpD"
     },
     {
       "album": {
@@ -24482,6 +24500,24 @@
       "duration_ms": 242240,
       "name": "fentanyl and wedding rings",
       "url": "https://open.spotify.com/track/1SufLSPFhDMWOXMhr8WXxX"
+    },
+    {
+      "album": {
+        "name": "SATURN",
+        "url": "https://open.spotify.com/album/6Ilr5VbWCPFRvf9UNOOKsf"
+      },
+      "artists": [
+        {
+          "name": "Baobei",
+          "url": "https://open.spotify.com/artist/2Pj6Ot77F8iLP6H0QkXt1h"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158124,
+      "name": "FERAL (don't talk to me)",
+      "url": "https://open.spotify.com/track/7wHjcHhQJb883IZpeDlJgw"
     },
     {
       "album": {
@@ -31064,6 +31100,24 @@
       "duration_ms": 152693,
       "name": "Heartbreak Summer",
       "url": "https://open.spotify.com/track/6kJAQawpICW89F3NfonH2d"
+    },
+    {
+      "album": {
+        "name": "heartbreaker",
+        "url": "https://open.spotify.com/album/1vldrrNFlFsYgeg8GShaKh"
+      },
+      "artists": [
+        {
+          "name": "kitty bella",
+          "url": "https://open.spotify.com/artist/3dDsAxEGXIESY6puCA7YKz"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "heartbreaker",
+      "url": "https://open.spotify.com/track/6G9GiMHJrwzZDV3gNuzGW8"
     },
     {
       "album": {
@@ -40634,7 +40688,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 154131,
       "name": "Kiss Me Better",
       "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
@@ -41163,6 +41217,24 @@
     },
     {
       "album": {
+        "name": "Who Could Not Be Broken",
+        "url": "https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161506,
+      "name": "Lady In the GPS",
+      "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
+    },
+    {
+      "album": {
         "name": "LALALA",
         "url": "https://open.spotify.com/album/1O1sg4ZylF8qjqX7MsUR6I"
       },
@@ -41484,7 +41556,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 182776,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/48vL9BnLGjVR67iMyrj9DZ"
@@ -42468,7 +42540,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 195782,
       "name": "Liar Liar",
       "url": "https://open.spotify.com/track/43nlIi8s0GhjIc47lQ7lr5"
@@ -46355,6 +46427,24 @@
     },
     {
       "album": {
+        "name": "Magazines",
+        "url": "https://open.spotify.com/album/1HLtrRtsdRBk9sC9ROZtfO"
+      },
+      "artists": [
+        {
+          "name": "Moriah Mensah",
+          "url": "https://open.spotify.com/artist/4jgCVCIIT2pPaemZBYMOYJ"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155133,
+      "name": "Magazines",
+      "url": "https://open.spotify.com/track/0AZxU5r0k0LR606KrvSa4m"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/3VMvtZ7KtacNcSNVexaixG"
       },
@@ -47390,6 +47480,24 @@
       "duration_ms": 124913,
       "name": "Mean To Me",
       "url": "https://open.spotify.com/track/1WuAlAbeVDmMF8nmSUMGuD"
+    },
+    {
+      "album": {
+        "name": "meaningless",
+        "url": "https://open.spotify.com/album/6WF2nnOrbR4zWv0uyvPAxm"
+      },
+      "artists": [
+        {
+          "name": "go4broke",
+          "url": "https://open.spotify.com/artist/0B7eexcdtWm3ckbSKAb25R"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "meaningless",
+      "url": "https://open.spotify.com/track/3AxVIJ9xZrp6P7vwsS4Z93"
     },
     {
       "album": {
@@ -53511,6 +53619,24 @@
     },
     {
       "album": {
+        "name": "oh, lover",
+        "url": "https://open.spotify.com/album/25KD39kHJsWvPhQVGI7Qc9"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/5HYr56zZb4EGU5aySKy9Ja"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "oh, lover",
+      "url": "https://open.spotify.com/track/7uqtB0u3EtELNUkLXsq7oZ"
+    },
+    {
+      "album": {
         "name": "Ohlala",
         "url": "https://open.spotify.com/album/6Ag2gD0bir2FPITJkXb4st"
       },
@@ -58265,6 +58391,24 @@
     },
     {
       "album": {
+        "name": "pretty please",
+        "url": "https://open.spotify.com/album/5nz9UHOeV9hcsheM8HLjgN"
+      },
+      "artists": [
+        {
+          "name": "TEILZ",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "pretty please",
+      "url": "https://open.spotify.com/track/7mXWEoSBIPVZ1quMSDhVSC"
+    },
+    {
+      "album": {
         "name": "Pretty Poison",
         "url": "https://open.spotify.com/album/30kd0zsWPmZX52ImIlOawx"
       },
@@ -59430,7 +59574,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 218712,
       "name": "RAT RACE",
       "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
@@ -63032,7 +63176,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 261151,
       "name": "See It In Your Eyes",
       "url": "https://open.spotify.com/track/4GET941SSmrEcmArGbvxhI"
@@ -64252,7 +64396,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 141000,
       "name": "shotgun",
       "url": "https://open.spotify.com/track/4xR7d9UnjwGR4v3EVvQPuZ"
@@ -64350,7 +64494,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 166232,
       "name": "shovel",
       "url": "https://open.spotify.com/track/7E4AEGIm9o7fxTPZGDRyvr"
@@ -72649,6 +72793,24 @@
     },
     {
       "album": {
+        "name": "the dog that cries",
+        "url": "https://open.spotify.com/album/3on0VJ00sQWwhNSD85CGi0"
+      },
+      "artists": [
+        {
+          "name": "gottsy",
+          "url": "https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164594,
+      "name": "the dog that cries",
+      "url": "https://open.spotify.com/track/6NRoy34F0juS7q0JaZibmO"
+    },
+    {
+      "album": {
         "name": "The Drive (amour Remix)",
         "url": "https://open.spotify.com/album/6M1ll11oBz8yf8Qiam3OBm"
       },
@@ -75454,6 +75616,24 @@
       "duration_ms": 170100,
       "name": "Tough",
       "url": "https://open.spotify.com/track/0rZtUemhEhU2DuWMWS0rWp"
+    },
+    {
+      "album": {
+        "name": "Tough Act To Follow",
+        "url": "https://open.spotify.com/album/6Ra73YJTLoLc2lmnew6HyS"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165176,
+      "name": "Tough Act To Follow",
+      "url": "https://open.spotify.com/track/3zCCpmvOk5GYI3K6iPyYgY"
     },
     {
       "album": {

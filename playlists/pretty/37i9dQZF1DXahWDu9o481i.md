@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: MILLENNIUM PARADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,371 likes - 76 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,364 likes - 76 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 75 | [Florida Water Blues](https://open.spotify.com/track/6vkuBueAxgzQe8dbGumiYF) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Florida Water Blues](https://open.spotify.com/album/7ggqCiAQWXdPYr8PHdbCn6) | 3:44 |
 | 76 | [London Tonight](https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO) | [Mercer](https://open.spotify.com/artist/3SWER2Np3pHA03J0MDHnV7) | [London Tonight](https://open.spotify.com/album/47M0OMLQ5G5AFgwqkKXDUf) | 3:25 |
 
-Snapshot ID: `AAAAAKJWmwh/47x+gYVJbU76/hjRiY+O`
+Snapshot ID: `AAAAAEOUmM63fHunVegBnofBAjz62Wa/`

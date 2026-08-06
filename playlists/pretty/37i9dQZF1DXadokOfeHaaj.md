@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: Bonobo
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,731 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,732 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 69 | [afters](https://open.spotify.com/track/1V9QgIqKy6Z24EKGgTpfws) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [afters](https://open.spotify.com/album/3A8zjiT2srTevPGcvrNf2j) | 2:47 |
 | 70 | [Please Don’t Go](https://open.spotify.com/track/3Vts3XadQYgFxql1hSyu3f) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [DJ\-Kicks: TEED](https://open.spotify.com/album/0JBsu60WuAjdgmNwBsqeDD) | 4:31 |
 
-Snapshot ID: `AAAAAAlQ3wXLS67InlO9gIEGyYDkRXA0`
+Snapshot ID: `AAAAAE/RRbxbBfY3GZ7zseQLC8mXNgsb`

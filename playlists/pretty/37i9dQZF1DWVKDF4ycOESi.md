@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Ariana Grande, KAROL G, Benny Blanco, 22simba, Swedish House Mafia e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,786 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,688 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 74 | [Maggio](https://open.spotify.com/track/6rEB5luZKJ3O7h1ykx1RFU) | [Eleonora Toscani](https://open.spotify.com/artist/77d3usyZLz9TS7PBxGRVaD) | [Maggio](https://open.spotify.com/album/4ZCoLoIyORK6eHv06eJQnS) | 3:48 |
 | 75 | [DALIE](https://open.spotify.com/track/2c3b1kn5tcVA7UBvh26KGj) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [DALIE](https://open.spotify.com/album/2jmXiwTVp4HWpRHervxSAT) | 3:05 |
 
-Snapshot ID: `AAAAAHWiXB5m+2VsX7Ool9lWWxf5mLVL`
+Snapshot ID: `AAAAAEXfvIPeEm9Ug3oBWAuOIbz42RMv`

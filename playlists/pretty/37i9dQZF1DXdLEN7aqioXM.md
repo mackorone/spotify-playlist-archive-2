@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101,972 likes - 150 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,025 likes - 150 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 138 | [Kingsland Road 2AM](https://open.spotify.com/track/6wBYUOgjXj1JuglBTYo4W7) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Kingsland Road 2AM](https://open.spotify.com/album/2dzdbPWrslaYLEYFShAu7a) | 6:27 |
 | 139 | [Kosmos](https://open.spotify.com/track/4X0jbC7u4PJbz0p3IM72Xn) | [Casiopepe](https://open.spotify.com/artist/50BYdRx4iwg7QiBNyp5YM7) | [Kosmos](https://open.spotify.com/album/1AhovHx8BJ5GGaNtqlyB2z) | 6:01 |
 | 140 | [Buy Me](https://open.spotify.com/track/22ejcFtMrp99hdr3AFPxw2) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Buy Me](https://open.spotify.com/album/59psRtPdqQKw9158IcjLtW) | 3:31 |
-| 141 | [Cyber Love](https://open.spotify.com/track/29SyuoxdeUHjdQLDvHyE4S) | [Scruscru](https://open.spotify.com/artist/1NUvSIBsDRPoLWeGgzkEkn), [Mike Fot](https://open.spotify.com/artist/1Hy0kVxCiERTP4RO2sGs9T) | [Cyber Love](https://open.spotify.com/album/2fNwOhZdzwJC6hZFcBCx2Z) | 5:58 |
-| 142 | [Ellipse](https://open.spotify.com/track/48791UfuvihI3pL5GX05WZ) | [XOR Gate](https://open.spotify.com/artist/57kM3rAXbtSjGfbvfT7YGo) | [Ellipse](https://open.spotify.com/album/34ak2HWS5fLLQoG4QtSbVx) | 4:55 |
+| 141 | [Ellipse](https://open.spotify.com/track/48791UfuvihI3pL5GX05WZ) | [XOR Gate](https://open.spotify.com/artist/57kM3rAXbtSjGfbvfT7YGo) | [Ellipse](https://open.spotify.com/album/34ak2HWS5fLLQoG4QtSbVx) | 4:55 |
+| 142 | [Cyber Love](https://open.spotify.com/track/29SyuoxdeUHjdQLDvHyE4S) | [Scruscru](https://open.spotify.com/artist/1NUvSIBsDRPoLWeGgzkEkn), [Mike Fot](https://open.spotify.com/artist/1Hy0kVxCiERTP4RO2sGs9T) | [Cyber Love](https://open.spotify.com/album/2fNwOhZdzwJC6hZFcBCx2Z) | 5:58 |
 | 143 | [Intelli](https://open.spotify.com/track/5nr4V4qlRTEJvhCjIeZr0K) | [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [Unknown Memories](https://open.spotify.com/album/7nFASYumUoZr10jLO1jald) | 5:57 |
 | 144 | [Vertical Horizon](https://open.spotify.com/track/2zveRTYGSSfFbqePG6hv3n) | [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [Vertical Horizon](https://open.spotify.com/album/2UBOmzhzVWQkC93x1uUHGg) | 8:01 |
 | 145 | [Uni\-Verse](https://open.spotify.com/track/2GNktRlF6uSSDBpecepGCe) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [The Florentian Cabaret](https://open.spotify.com/artist/3lCSDhZueO35GkIKaI3DRS) | [Uni\-Verse](https://open.spotify.com/album/3lgJunX75g6tt5X19HtOlW) | 5:50 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [Shout \- The Forgotten Remix](https://open.spotify.com/track/5aa8TV2mnOYHhHl0t9ymMu) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [The Forgotten](https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t) | [Shout \(The Forgotten Remix\)](https://open.spotify.com/album/5Uo5qoMvjUBeLQflHk2u7w) | 3:41 |
 | 150 | [Hyperlandia \- Vocal Mix](https://open.spotify.com/track/4Vd53EHIw4lEfe7rqHSctN) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Hyperlandia](https://open.spotify.com/album/3DUcJ8bqyo4cZNt97VkmKi) | 5:49 |
 
-Snapshot ID: `AAAAAEukzzvlWTKR3oUc1x66wP+G2KRV`
+Snapshot ID: `AAAAAO2hxTUsu7aWBOrJkaGnchQEjtPS`

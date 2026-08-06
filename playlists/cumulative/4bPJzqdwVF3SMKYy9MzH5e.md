@@ -4,7 +4,7 @@
 
 > 
 
-2,442 songs - 5 day 11 hr 10 min
+2,445 songs - 5 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:29 | 2022-04-03 |  |
 | [Clay](https://open.spotify.com/track/05timrNREm3y0Swwkl9TX0) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [U Want The Scoop?](https://open.spotify.com/album/4X8orytXoZlQs9AiMOZIxW) | 2:45 | 2022-10-08 |  |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2022-09-08 |  |
+| [closer](https://open.spotify.com/track/7a0mDoO2vE1i9E3YQQxsPt) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [closer](https://open.spotify.com/album/26VxN0hSv4olzoRij5wyAD) | 3:33 | 2026-08-05 |  |
 | [Closer To You](https://open.spotify.com/track/3r2TFFPynN97CgmzXKal5X) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:04 | 2021-08-05 |  |
 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 | 2023-06-07 |  |
 | [Cloud99 \(As Above Mix\)](https://open.spotify.com/track/5FbJG8bTkeDjTWUEgsGzQG) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Gemini](https://open.spotify.com/album/4vdHY7cdRkKTebKoEM6yaE) | 3:20 | 2023-02-26 |  |
@@ -1419,6 +1420,7 @@
 | [Mrs\. Potato Head](https://open.spotify.com/track/3K1tdhoeE6koNnWgAxEK9Y) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:37 | 2021-08-05 |  |
 | [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 | 2025-03-26 |  |
 | [MSMSMSM](https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [MSMSMSM](https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4) | 3:35 | 2022-04-08 |  |
+| [Muerte Guarachosa](https://open.spotify.com/track/0MmpXLLJUOWrn6GZUCRYqX) | [Aleroj](https://open.spotify.com/artist/54m3plxbB6d8a0oIADRAgh) | [\*lo soba\*](https://open.spotify.com/album/0bSawKUm8QkOjAYdkQ3A1I) | 3:30 | 2026-08-05 |  |
 | [Mum, im an artist](https://open.spotify.com/track/4Qrm3I8WuIua3J2EK2kOeK) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [What The Feng](https://open.spotify.com/album/73neMdanvqkjdVrR2hzzfQ) | 2:03 | 2026-08-01 |  |
 | [MURDER DEATH KILL](https://open.spotify.com/track/5uktdc4mnFoe0C4fk1BiAg) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Ada Rook](https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 2:01 | 2022-11-10 |  |
 | [Murder on My Mind](https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [I AM YOU](https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW) | 4:28 | 2021-08-05 |  |
@@ -1661,6 +1663,7 @@
 | [POLSKA JUMPSTYLE](https://open.spotify.com/track/2mShDoJYcOa4OdO2MFatxz) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [POLSKA JUMPSTYLE](https://open.spotify.com/album/49SXqW0HBJZOT22uaHEKZ1) | 2:20 | 2024-08-29 |  |
 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 | 2021-08-05 |  |
 | [Ponyboy](https://open.spotify.com/track/7dUrhEQguPAglRgnACCzYw) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:14 | 2024-08-13 |  |
+| [POP](https://open.spotify.com/track/70I6XTFiBWQJubyJwXEmwX) | [CONNIE](https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe) | [POP](https://open.spotify.com/album/5SbByqQTjHABlhNMymgKaU) | 1:48 | 2026-08-05 |  |
 | [Pop like this Pt\. 2](https://open.spotify.com/track/2Ct0MnmqHDvjLqpi5gxcSM) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2](https://open.spotify.com/album/6pNuMVebkxgLAeQsYOQNyQ) | 1:39 | 2024-06-17 |  |
 | [Pop Style](https://open.spotify.com/track/5mPSyjLatqB00IkPqRlbTE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:32 | 2021-08-05 |  |
 | [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 | 2025-08-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: The Brudi Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,375 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,317 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [These Days](https://open.spotify.com/track/6FYoE2PUzG3ydfp63ByTCa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:03 |
 | 115 | [everything i wanted](https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [everything i wanted](https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB) | 4:35 |
 
-Snapshot ID: `AAAAAOP9WXXgV5tN210PtyP0z6ttiDzg`
+Snapshot ID: `AAAAAMtx1nIVmt3K3PgMs4TRalcqdxOx`

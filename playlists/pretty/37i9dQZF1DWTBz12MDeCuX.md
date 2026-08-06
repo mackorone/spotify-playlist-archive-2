@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: TJARK
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,413 likes - 98 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,373 likes - 98 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 97 | [Movin' To The Sun](https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Imael Angel](https://open.spotify.com/artist/17yREPqyU875WJnX9U082A), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Movin' To The Sun](https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq) | 2:22 |
 | 98 | [pirouetten](https://open.spotify.com/track/2EXoZOOeQ170NVUbwlaIhO) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [pirouetten](https://open.spotify.com/album/35ezrN378gBIK6OLHAhvcE) | 2:02 |
 
-Snapshot ID: `AAAAAPyv6TwTG+45h7ljGEc3pc6Hfhyf`
+Snapshot ID: `AAAAAHOiJesw2f2Dw57WkbnsXIiJDZu1`

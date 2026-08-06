@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Tristeza latina
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,145 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,149 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 49 | [Riviera](https://open.spotify.com/track/08vKDopMoW4BHOrGbdWPez) | [AMBR](https://open.spotify.com/artist/46A52Keqzf0gPAfXqWLAVu) | [De Entropía](https://open.spotify.com/album/0ZSPDZ8pneDzOdzn1Zbnhg) | 1:56 |
 | 50 | [De Dios](https://open.spotify.com/track/2pvyTrY3i5N2vjKCH2w6x3) | [Contraflores](https://open.spotify.com/artist/0wGaUR9l9vGTRIRy9kjZ0x) | [De Dios](https://open.spotify.com/album/4kj1lahnGLAxqnVvThCA6y) | 3:42 |
 
-Snapshot ID: `AAAAAEtBqFoZv9PEKGqHFIoTBp/48pSx`
+Snapshot ID: `AAAAAISG2xF+cRIODEzP7p7kHffbfKcJ`

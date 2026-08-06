@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Monkeys with Internet
 
-1,681 songs - 3 day 16 hr 24 min
+1,682 songs - 3 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1084,6 +1084,7 @@
 | [one good reason](https://open.spotify.com/track/28m6u1EywxomZiKMGhfL9x) | [Howlan](https://open.spotify.com/artist/0ZmunMZUP2AH3nPuoNRILY) | [one good reason](https://open.spotify.com/album/6i5est68crDfNVDSAw7nZs) | 3:10 | 2024-06-20 | 2024-08-16 |
 | [One In A Million](https://open.spotify.com/track/2Dtz0qXxHlep2lhCyIFaqt) | [Natalie Reigo](https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi) | [One In A Million](https://open.spotify.com/album/5M5d9OKqVVYVkisPMdO4Tg) | 3:16 | 2025-08-28 | 2025-10-17 |
 | [One Last Dance With You](https://open.spotify.com/track/2G34bn0Q30DpQMYdEXjRLq) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Club Stranger](https://open.spotify.com/album/1Yyd6Q37sIgAl4MHPyKSdI) | 2:44 | 2024-11-28 | 2025-03-28 |
+| [One Life To Give](https://open.spotify.com/track/5eYyHqwe3jHaPrzQjWP6pp) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [One Life To Give](https://open.spotify.com/album/1DnpAElpk83B3mKAoiZSmE) | 2:45 | 2026-08-04 |  |
 | [One Of A Kind](https://open.spotify.com/track/4vL9jXd1sOgzcmucXOlPau) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [One Of A Kind](https://open.spotify.com/album/0uHTwI7g1Kzf1dOI4fhdC9) | 3:22 | 2025-04-17 | 2025-05-23 |
 | [ONE TO LEAVE YOU](https://open.spotify.com/track/6yUktaDZMn3YG4fseyIwLE) | [J\. Ludvig III](https://open.spotify.com/artist/1PcRkI1gwX2uUYQcuTIjUr) | [ONE TO LEAVE YOU](https://open.spotify.com/album/0jtO348y2sbYcnJNcjjHPA) | 2:50 | 2024-02-29 | 2024-04-05 |
 | [Only Love](https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Only Love](https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud) | 3:35 | 2024-06-13 | 2025-01-03 |

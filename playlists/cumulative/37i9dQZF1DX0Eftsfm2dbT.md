@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Kamui \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,788 songs - 5 day 19 hr 41 min
+2,789 songs - 5 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2777,6 +2777,7 @@
 | [誰だ？](https://open.spotify.com/track/06k1o3XJTbi9b0zBCaK9qn) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [誰だ？](https://open.spotify.com/album/3X9TlqCjlL1xqndV0lOF7W) | 2:44 | 2024-11-10 | 2024-12-13 |
 | [誰のVenus??](https://open.spotify.com/track/6Mf5PHOLZdRxWYcrMf7UFv) | [NO SLEEP CLUB](https://open.spotify.com/artist/3vPOyVyWqdxc8FmS25CWl4), [Ry\-lax](https://open.spotify.com/artist/31ShgT91VvbtptE08NHd0t) | [誰のVenus??](https://open.spotify.com/album/29CFIMtsU0jtmufWib1JP9) | 3:15 | 2024-05-15 | 2024-05-22 |
 | [調子いい](https://open.spotify.com/track/7lnCUxVDaXYUBb4ySnn8E2) | [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60), [stb](https://open.spotify.com/artist/0rGik946QMPvmQ5neZrEjr), [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7) | [調子いい](https://open.spotify.com/album/7C2SE6fXgzvEGyGEuUuEas) | 2:39 | 2025-04-30 | 2025-06-04 |
+| [豚に真珠](https://open.spotify.com/track/2kKZExNmKburfiJIVJzHgv) | [BABYWOODROSE](https://open.spotify.com/artist/1XzfqpnX0VAcE77JE21mPB) | [Addicted](https://open.spotify.com/album/64noONlcKtazpMRrU1otTo) | 2:21 | 2026-08-05 |  |
 | [賢者タイム](https://open.spotify.com/track/2TyLK9vsLBZkqHXQ9Qt6SF) | [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh) | [賢者タイム](https://open.spotify.com/album/54bb3SjMrRlCxewqF9T5K9) | 2:43 | 2024-08-15 | 2024-09-13 |
 | [超Fresh](https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/0Ch7fs2VDUUfOUdy7PXBBS) | 2:52 | 2023-12-06 | 2023-12-07 |
 | [返答](https://open.spotify.com/track/0w7IwkrMz5wPDK8qSzD2ZK) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [REVENGE](https://open.spotify.com/album/4w98BIOWdMhWPGT2SnHiXQ) | 4:18 | 2023-11-28 | 2023-11-30 |

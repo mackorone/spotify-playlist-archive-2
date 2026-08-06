@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: NPD
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,702 likes - 112 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,729 likes - 112 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 111 | [bERANI](https://open.spotify.com/track/48oUGcXdLlGztCA0u0gqNI) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [bERANI](https://open.spotify.com/album/1SJCHC92mK2v7frrmWXFCf) | 3:30 |
 | 112 | [Kamu Bukan Kekasihku](https://open.spotify.com/track/7I20jfqXQo4F3VKUqF4luc) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1), [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8), [Prinsa Mandagie](https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr) | [Kamu Bukan Kekasihku](https://open.spotify.com/album/5xznSAiRmKYU5q1UxBKqG3) | 4:04 |
 
-Snapshot ID: `AAAAAAxLLvcergrXMFMhUI1RA1uNud21`
+Snapshot ID: `AAAAAFrsWOijizBuZYvNq3ht62bIlenU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Anabel Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,954 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,970 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [BAD BITCH SYNDROME PART II](https://open.spotify.com/track/207AeXyxFVvM96DrhALUx3) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [By The Order Of The City](https://open.spotify.com/album/1iihLsQquHsfLgBhPIOgI5) | 3:42 |
 | 80 | [SAME TIME](https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb) | [Chie](https://open.spotify.com/artist/51aVuIZ1VIS3LTKkxXJzUm) | [SAME TIME](https://open.spotify.com/album/1Cgfvc3oOpSa0UBlYyWqjl) | 1:56 |
 
-Snapshot ID: `AAAAAL/cRICgBSXR+8rLa0T/GHC7Yu/K`
+Snapshot ID: `AAAAAE6geXvDv02FWE6j8VLxENjF71pq`

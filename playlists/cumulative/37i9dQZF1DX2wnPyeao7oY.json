@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Grace of Arc",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: WARGASM (UK)",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -692,6 +692,24 @@
       "duration_ms": 205614,
       "name": "Angels Like You",
       "url": "https://open.spotify.com/track/5VXBAz99xZFPKdevoy3pOh"
+    },
+    {
+      "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/3gu3WONQrN70m2mZIAS2q0"
+      },
+      "artists": [
+        {
+          "name": "PUREST FORM",
+          "url": "https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/7BlGdTvvVAw2NAJtqoKCT2"
     },
     {
       "album": {
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 201818,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/6ZhCa6gIcdmRHibDkl9DLF"
@@ -2502,6 +2520,24 @@
       "duration_ms": 138600,
       "name": "CARGO NET",
       "url": "https://open.spotify.com/track/2uWYO6SlLyUcFEjyJxkx1k"
+    },
+    {
+      "album": {
+        "name": "Carrion Birds on the Ark",
+        "url": "https://open.spotify.com/album/5aarzPE4m6tfzAWB9R8Cfp"
+      },
+      "artists": [
+        {
+          "name": "Dreamwell",
+          "url": "https://open.spotify.com/artist/4iW7dCnHbqN5YErzN7FghD"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177320,
+      "name": "Carrion Birds on the Ark",
+      "url": "https://open.spotify.com/track/5R8fTiEQn1SWjBl7cljjXL"
     },
     {
       "album": {
@@ -3448,7 +3484,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 249200,
       "name": "Dark Sun",
       "url": "https://open.spotify.com/track/20ByEljDWbG6mqa8NVKyhq"
@@ -4504,7 +4540,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 253894,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/1yceuVJSJ9M082CzRdlBJN"
@@ -6309,6 +6345,24 @@
     },
     {
       "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/7Jjy5cMMezoI3o6vEKzrTe"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207193,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/1qpquDXIG03HvhHrnBiY1G"
+    },
+    {
+      "album": {
         "name": "Tragedy of The Commons",
         "url": "https://open.spotify.com/album/5N2Asaw4Vv1TGCOuUYO8s4"
       },
@@ -6324,6 +6378,24 @@
       "duration_ms": 307693,
       "name": "Ghost In Flesh",
       "url": "https://open.spotify.com/track/6ZmTPEHx539ea8dbx8qaSj"
+    },
+    {
+      "album": {
+        "name": "Gier",
+        "url": "https://open.spotify.com/album/3YcalccFdqmIsUJkdu24WI"
+      },
+      "artists": [
+        {
+          "name": "Consvmer",
+          "url": "https://open.spotify.com/artist/1kJPCB066I6xZNqadwZx9C"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208430,
+      "name": "Gier",
+      "url": "https://open.spotify.com/track/0B82AgAvTncuohpm2LS3sy"
     },
     {
       "album": {
@@ -6760,7 +6832,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 187488,
       "name": "Gun In The Duffel Bag",
       "url": "https://open.spotify.com/track/3UQRbslQYuNJBEJx18F9DK"
@@ -9326,7 +9398,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 105333,
       "name": "L\u2019appel du Vide",
       "url": "https://open.spotify.com/track/6VFRBRKzgmCmnt0rIMSFRY"
@@ -11207,6 +11279,24 @@
     },
     {
       "album": {
+        "name": "PATRIOT",
+        "url": "https://open.spotify.com/album/5STBnCgk4DvgnHssdlsacZ"
+      },
+      "artists": [
+        {
+          "name": "Antlr",
+          "url": "https://open.spotify.com/artist/41CaboR7ZcNF57M0hjaRpG"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195585,
+      "name": "PATRIOT",
+      "url": "https://open.spotify.com/track/3OYlsKCzJb7JNnTYXu2pFh"
+    },
+    {
+      "album": {
         "name": "Immoral and Malevolent Happenings",
         "url": "https://open.spotify.com/album/7iqE3gay9N857FMxpx5W5b"
       },
@@ -11882,7 +11972,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 185874,
       "name": "RARARA",
       "url": "https://open.spotify.com/track/6f37FHyrXjpaBpRsfVU1fI"
@@ -13564,7 +13654,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 167079,
       "name": "Spit Blood",
       "url": "https://open.spotify.com/track/3CcCI1HIPaH2VJtF744NLs"
@@ -13838,7 +13928,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 186593,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/1cbrvTs3sYdtQCWoOrk2VR"
@@ -15021,6 +15111,28 @@
     },
     {
       "album": {
+        "name": "The Sun's Domain",
+        "url": "https://open.spotify.com/album/4zDxLzQJWhNPYw4dg3zC4e"
+      },
+      "artists": [
+        {
+          "name": "Code: Pandorum",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        },
+        {
+          "name": "Sunborn",
+          "url": "https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247116,
+      "name": "The Sun's Domain",
+      "url": "https://open.spotify.com/track/19DBkJwrnqn1KmYNcqGOwi"
+    },
+    {
+      "album": {
         "name": "The Sunken Place",
         "url": "https://open.spotify.com/album/1jGMs0aXfHpkloG6qVSoVW"
       },
@@ -15879,6 +15991,24 @@
     },
     {
       "album": {
+        "name": "Unwelcome Guest",
+        "url": "https://open.spotify.com/album/4DRciQ7Kh2q8PHP2JPpQ6G"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "Unwelcome Guest",
+      "url": "https://open.spotify.com/track/3vQycEdMwzgY6WXB1T26WU"
+    },
+    {
+      "album": {
         "name": "Unwind",
         "url": "https://open.spotify.com/album/1n2hM3kIOsxrOw3IJhpEa3"
       },
@@ -16117,6 +16247,28 @@
     },
     {
       "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/66gmXMcigEjsLzJB2XJk0L"
+      },
+      "artists": [
+        {
+          "name": "IMPVLSE",
+          "url": "https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN"
+        },
+        {
+          "name": "Howl Like Wolves",
+          "url": "https://open.spotify.com/artist/1ouBfZOEtUsCccxWyE1rYO"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211796,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/6DTOCuWthVqhRoAePkKeVn"
+    },
+    {
+      "album": {
         "name": "Void Alone",
         "url": "https://open.spotify.com/album/50aNBLMQu3OsCGeKe0CkEX"
       },
@@ -16150,7 +16302,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 226285,
       "name": "Vomit Eater",
       "url": "https://open.spotify.com/track/0ykOjLTx0d1kCRClc1cazO"
@@ -16226,6 +16378,24 @@
       "duration_ms": 270847,
       "name": "Walk With Tha Talk",
       "url": "https://open.spotify.com/track/0zVIYGQs3WxBN2xxS1iVRC"
+    },
+    {
+      "album": {
+        "name": "Wall of Skulls",
+        "url": "https://open.spotify.com/album/5YhpCKcFtWlt8aP07imOPA"
+      },
+      "artists": [
+        {
+          "name": "Judiciary",
+          "url": "https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Wall of Skulls",
+      "url": "https://open.spotify.com/track/4J6N2ykIlFQP4VK4lVBRjK"
     },
     {
       "album": {

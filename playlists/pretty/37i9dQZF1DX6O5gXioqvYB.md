@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > tutte le migliori novità indie 🇮🇹  Edda e Lamante in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,885 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,886 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 99 | [Finalmente](https://open.spotify.com/track/2YF2BS58U8Ww0Z2pmbG5ao) | [Naeev](https://open.spotify.com/artist/1cxHKVZfKdKwMlSOoQ0U27) | [Raccolta, Vol\. I \(Como Città\)](https://open.spotify.com/album/39GazlZNt2Hp1t3O3vpHSP) | 2:43 |
 | 100 | [PROMETTILO](https://open.spotify.com/track/330eb1FdY4VVbk9BxMm4ah) | [Chiara Accardi](https://open.spotify.com/artist/4TuBfWoS12c8QIkkpfoDSg) | [NUGE](https://open.spotify.com/album/5BlsiziUY3BYWBQJBQk4Db) | 1:55 |
 
-Snapshot ID: `AAAAAAqOY3rPPgdN0mGJtIVLX41z899O`
+Snapshot ID: `AAAAAL5SRdZUP8a8Vj8Qqx5zFTglEQZR`

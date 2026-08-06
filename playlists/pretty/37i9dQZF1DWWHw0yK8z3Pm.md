@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,328 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,337 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [January](https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP) | [Marie Dresselhuis](https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL) | [January](https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w) | 3:17 |
 | 100 | [Weakened](https://open.spotify.com/track/5lezbuSpR8TpBS8uV5kCmS) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [Weakened](https://open.spotify.com/album/0dPcISAwpw4XcEunbaPxwK) | 5:37 |
 
-Snapshot ID: `AAAAAKVPXfIkyeW9uGCpP69fMQqFsUze`
+Snapshot ID: `AAAAAI8bqjMiGRk9FPfRMNY4AaO6ryH9`

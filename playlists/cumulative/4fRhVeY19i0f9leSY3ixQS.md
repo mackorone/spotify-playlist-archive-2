@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,033 songs - 4 day 17 hr 47 min
+2,036 songs - 4 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Bittersweet Coming Of Age](https://open.spotify.com/track/2Sp4dEhMiE81nqNMUhCmA2) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Bittersweet Coming Of Age](https://open.spotify.com/album/2ExvwN1euXuTvZaUH2I7gB) | 3:14 | 2026-07-24 |  |
 | [Bla Buzz](https://open.spotify.com/track/1i9KWSfyRSOxta4m0WoJDJ) | [Bila](https://open.spotify.com/artist/31FYxGnmvt2EHv72cUIxHn) | [Beżżalart](https://open.spotify.com/album/5OxyTjodJeEWF6c74VJcVe) | 1:47 | 2025-12-17 | 2026-01-06 |
 | [Black](https://open.spotify.com/track/0ul44PajiEmkNrTe8iOCMH) | [Adam Alford](https://open.spotify.com/artist/5NOQhV94Dia7LiieRRWWuV) | [Desert nights](https://open.spotify.com/album/2457jyGvDUxCAlRihGaxFQ) | 2:52 | 2025-12-04 | 2025-12-24 |
+| [Black Hole](https://open.spotify.com/track/6g9bLKT1QoeGwPmjYQ5cdN) | [Dear Doky](https://open.spotify.com/artist/04Q5ZQFConUk1fKPYHzTKH) | [Black Hole](https://open.spotify.com/album/552xwvOwJWHeO4j9aSTV3o) | 3:08 | 2026-08-05 |  |
 | [BLACK JESUS](https://open.spotify.com/track/6asKYlvUv5vCASA76O7qrI) | [Matty J\. Ruys](https://open.spotify.com/artist/1sFQmEAQurCDEHqKV6aSnK) | [BLACK JESUS](https://open.spotify.com/album/0n3qYZ3A1D0VxrjHWWr2JK) | 3:59 | 2026-04-07 | 2026-05-07 |
 | [Black Knight](https://open.spotify.com/track/7GyRC1pPJtAPtXKNtm1xIF) | [Saved by Skarlet](https://open.spotify.com/artist/695H7ZBBO6pKUjuHEuyqsP) | [Creation and Crisis](https://open.spotify.com/album/6hIk4tz3pAtDOcb0F1StoX) | 3:53 | 2026-08-02 |  |
 | [Black Magick Rock 'N' Roll](https://open.spotify.com/track/7bjGoS9ibje6H3bFYgw5PU) | [King Satan](https://open.spotify.com/artist/1V9mrCXH8tey5uHZlsAxKW), [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [Black Magick Rock 'N' Roll](https://open.spotify.com/album/4mGgayITPhDcxmNIzdY6q6) | 3:40 | 2026-03-23 | 2026-04-17 |
@@ -1341,6 +1342,7 @@
 | [Psycho Barbie](https://open.spotify.com/track/0FGlt4hpOGHV0Q92Wn71R2) | [Lady Rosalie](https://open.spotify.com/artist/698ijYtVSCmdMcFhch6bSj) | [Divine Dreams](https://open.spotify.com/album/1IXRRtyDYwtXUVcPEix0rj) | 2:59 | 2026-07-15 |  |
 | [PTSD Radio](https://open.spotify.com/track/2lJOJKrfxBKt0bvxuHBFLd) | [Castdoubt](https://open.spotify.com/artist/5dq0TJkDZ0JATOPtq73Muz) | [PTSD Radio](https://open.spotify.com/album/64ir1RUlB8c2oJSAdQBqFL) | 2:43 | 2025-12-29 | 2026-01-22 |
 | [Pulaski](https://open.spotify.com/track/7FQaCR1Frd8ovKIKq1IJtX) | [Autopsy Night](https://open.spotify.com/artist/42ujI6E2xSDHO3NdQ66s6a) | [Pulaski](https://open.spotify.com/album/3Hjvx0llaqSstlmgpMLwZC) | 3:25 | 2026-01-19 | 2026-02-20 |
+| [Pulse](https://open.spotify.com/track/3yeOxEljgsCVWMZmhD2lxg) | [Good Rifles](https://open.spotify.com/artist/44Aq2HIdcKz37kU4ZwKbXG) | [Every Noise at Once](https://open.spotify.com/album/5dtiaOmJcas10BtPy1NhjW) | 2:33 | 2026-08-05 |  |
 | [Punk Bunny Coffee](https://open.spotify.com/track/1RtXFLXKsP7NnImqmOjLAK) | [Riot Knight](https://open.spotify.com/artist/4K5FF5mvBikVq09ibbdDDh) | [Punk Bunny Coffee](https://open.spotify.com/album/09oW8llvKkkAaGFUPchXRV) | 2:41 | 2026-03-12 | 2026-04-13 |
 | [Punk Parrot](https://open.spotify.com/track/4CaImsMJmEbKg2ikcgyAJU) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Punk Parrot](https://open.spotify.com/album/5LPgfFFpDiisyYSb4FpnqV) | 3:03 | 2026-06-02 | 2026-07-04 |
 | [Pure Connection](https://open.spotify.com/track/2QtjbnkPLZHdW378rFQYQe) | [Boffodj](https://open.spotify.com/artist/4372oFZqyal1K0LY9uDJzB) | [Rise Again](https://open.spotify.com/album/3gCWf0aBmcwvaYvl4shYQ1) | 3:08 | 2025-12-16 | 2026-01-06 |
@@ -1888,6 +1890,7 @@
 | [Voyages](https://open.spotify.com/track/1tvo8JlXBQh7cD6Nf96lmV) | [REFORMIST](https://open.spotify.com/artist/6xFMODZuwYPuLeILtpuOqI) | [Voyages](https://open.spotify.com/album/6WMbMHvvLjLFvRMxM6KxSn) | 4:27 | 2026-01-19 | 2026-02-12 |
 | [Vrechei Apopse Sta Patisia](https://open.spotify.com/track/1BHsGxKKv6BVH9MxxQ0U29) | [Yannis K\. Ioannou](https://open.spotify.com/artist/6k1TFJWflNzZIXqc1UtFmk) | [Sta Exotika Patisia](https://open.spotify.com/album/01fgTSn4esgGmODRx357MU) | 2:23 | 2026-04-10 | 2026-05-08 |
 | [Vulcher](https://open.spotify.com/track/6XNM4vAz4TPnVcT9Pib2X3) | [Still Feel Gone](https://open.spotify.com/artist/4OMoG2HXXIPo6vuqTaKppF) | [Presley](https://open.spotify.com/album/4MmPgURfSXknxzOckxWZml) | 2:28 | 2026-02-05 | 2026-02-27 |
+| [Wait for Me](https://open.spotify.com/track/1Wh6fim34Wu66BXlUrIqST) | [Divisionist](https://open.spotify.com/artist/6YnhCX235cAmdjtefaWoax), [Alejandro Karo](https://open.spotify.com/artist/7sGq5HEpX2hhJHrSI3SiC4) | [Wait for Me](https://open.spotify.com/album/3d6roabpYLwdJ9hp5rZZOH) | 4:14 | 2026-08-05 |  |
 | [Wake Up Call \(feat\. F R E D U A of Bad Rabbits\)](https://open.spotify.com/track/1gx2AOizi4LUrSgFySLEM7) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR), [F R E D U A](https://open.spotify.com/artist/6QEn6c2h9fzN7TTGdUSxGs), [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR) | [GUTS](https://open.spotify.com/album/3F5Oy8DHLFQxqnfvwkOnS7) | 4:03 | 2025-12-10 | 2026-01-06 |
 | [Walk Alone](https://open.spotify.com/track/5LkI0G08PkQXYp3KIIcx4N) | [Spinors](https://open.spotify.com/artist/0asKMw6TsfGdeellBaHSuf) | [Walk Alone](https://open.spotify.com/album/5cuCbtHxbawgrCr32BCXxQ) | 4:07 | 2026-04-18 | 2026-05-20 |
 | [Walk With Me](https://open.spotify.com/track/4SY4BgJEk2cYGA5Q8IJzMY) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 4:12 | 2025-09-16 |  |

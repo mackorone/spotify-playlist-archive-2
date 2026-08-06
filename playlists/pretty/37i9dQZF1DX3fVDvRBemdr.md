@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Frank van Etten
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,341 likes - 106 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,325 likes - 106 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 105 | [Route Du Soleil](https://open.spotify.com/track/3gObOLbNKma8EjpByEieBp) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Route Du Soleil](https://open.spotify.com/album/1W1tLQGBFZZgNlo5Z9sMU7) | 2:28 |
 | 106 | [Midden In Paris](https://open.spotify.com/track/2jb24vo03wyU4RdgSnj6JJ) | [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F) | [Midden In Paris](https://open.spotify.com/album/6cAFEfAFJ0Fdy6uWnflctt) | 3:17 |
 
-Snapshot ID: `AAAAAEBpPX6pHyJAWuspO9X//eMRlAJe`
+Snapshot ID: `AAAAANyR3jSQGWVpGIRxV7bKiVCFPePH`

@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-502 songs - 1 day 7 hr 59 min
+503 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,10 +52,11 @@
 | [Ayaw Mo Na](https://open.spotify.com/track/1hZsKR2qyml8tb9qF1ZGyw) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Ayaw Mo Na](https://open.spotify.com/album/4LbpIb8PsbtsYjZgvE03tg) | 4:00 | 2026-01-19 | 2026-01-27 |
 | [AYOS](https://open.spotify.com/track/68dmr672B6cZq1LXrhFToX) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [AYOS](https://open.spotify.com/album/4rr0Zu5EuhUVKWu89qi8Ke) | 3:38 | 2026-03-30 | 2026-04-08 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-11-10 | 2025-08-06 |
+| [Babaero](https://open.spotify.com/track/55ij7wjoz4xgzvJO2hV7Y8) | [Leanne](https://open.spotify.com/artist/0V39TQSFg4VAwmwJ6JWdsU) | [Babaero](https://open.spotify.com/album/5MKGvgS8oOgRiaVCg9GLnX) | 4:20 | 2026-08-05 |  |
 | [Babalik Sa'yo](https://open.spotify.com/track/3r4CJwnU85C7vehWeytzNf) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q) | [Babalik Sa'yo](https://open.spotify.com/album/3tkcy78luHbbFQPWkImigl) | 2:59 | 2026-02-16 | 2026-02-25 |
 | [Bahaghari \(Halika na\)](https://open.spotify.com/track/1i0Kp24hzORn8FPXlS7TEt) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Bahaghari \(Halika na\)](https://open.spotify.com/album/1cz9BF4Rs8M9IvjT9dI6wB) | 3:55 | 2024-02-07 | 2024-02-21 |
 | [Bahala Na Sila](https://open.spotify.com/track/3Yj7S8OdTdmTk4SYFxRbKC) | [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Bahala Na Sila](https://open.spotify.com/album/5mZeVTKDwnXcNj0TZBHPGx) | 4:08 | 2025-11-24 | 2025-12-02 |
-| [baka bukas](https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [baka bukas](https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn) | 3:27 | 2026-03-17 |  |
+| [baka bukas](https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [baka bukas](https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn) | 3:27 | 2026-03-17 | 2026-08-06 |
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-11-10 | 2024-09-26 |
 | [balik](https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [balik](https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm) | 3:20 | 2024-11-29 | 2025-08-08 |
 | [Bawat Daan](https://open.spotify.com/track/1hJtJvPX9knMysNDQw0HDJ) | [Ebe Dancel](https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur) | [Bawat Daan](https://open.spotify.com/album/7GSSjug24nXU7g1FVVwhUX) | 5:00 | 2025-03-20 | 2025-06-21 |

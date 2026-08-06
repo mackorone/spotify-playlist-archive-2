@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 46,901 likes - 100 songs - 6 hr 12 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 46,899 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 8 | [2.22pm wishyouwerestillhere](https://open.spotify.com/track/0guXPm7tAdyI4sFypu0zYM) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [2.22pm wishyouwerestillhere](https://open.spotify.com/album/5HQAp8WbHDAdmTj1gabQtf) | 3:04 |
 | 9 | [Aspect of a Dream](https://open.spotify.com/track/7rzSovbvOSupVvLIMdjFDe) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Aspect of a Dream](https://open.spotify.com/album/2BCyncsY49ch9VeF8fb36h) | 4:12 |
 | 10 | [Yellow and White](https://open.spotify.com/track/4rZ7QD0aRnQHKWT90Ozdzr) | [Esteble](https://open.spotify.com/artist/6XCUjUrPIwKX1GJWoKm5Zp), [Joram Feitsma](https://open.spotify.com/artist/51CfbHl45dy3Q7wIBGtWeu) | [Yellow and White](https://open.spotify.com/album/0Nhau8DcB5QU0oFCWfIeNO) | 4:13 |
-| 11 | [Together \- Demo](https://open.spotify.com/track/12oojIBWdPlhjtUt4ZoJOE) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Together \(Demo\)](https://open.spotify.com/album/2TmxBiotCcrugUnPPqOA0d) | 4:34 |
+| 11 | [Together \- Demo](https://open.spotify.com/track/12oojIBWdPlhjtUt4ZoJOE) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Together \(Demo\)](https://open.spotify.com/album/2TmxBiotCcrugUnPPqOA0d) | 4:34 |
 | 12 | [sakura](https://open.spotify.com/track/2dITDWkdPaRDp1T3tPXcBu) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [sakura / faint \(a short story\)](https://open.spotify.com/album/5kcWCpDSZoyhLkrEbdv3jI) | 3:33 |
 | 13 | [Simple Things](https://open.spotify.com/track/722blnxCWn8ESHqhGveOaT) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Soft Speak](https://open.spotify.com/album/43SnLa7kdN5e4GAL4xR5V2) | 4:28 |
 | 14 | [Narrowing](https://open.spotify.com/track/0qN6FqcqObLgl5A1SFw0Zo) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [In a Forest EP](https://open.spotify.com/album/537j9ZjSnFwVseYHsFQYbl) | 4:00 |

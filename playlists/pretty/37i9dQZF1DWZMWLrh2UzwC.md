@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ariana Grande, Cardi B, Exists, Faizal Tahir, DOLLA, F.Hero, Eric Chou and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,032 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,979 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 124 | [Say Yea \(feat\. Amira Eldine\)](https://open.spotify.com/track/5AQDvtN8uwUIpEKS2znReK) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [Say Yea \(feat\. Amira Eldine\)](https://open.spotify.com/album/3c0uU6xEkAC44eIgSRbJFG) | 2:39 |
 | 125 | [Hyperfocus](https://open.spotify.com/track/4BN0yGTaksc1iny2QvjHEK) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Hyperfocus](https://open.spotify.com/album/5DaIWNy94FSVfCq2zCEASF) | 3:15 |
 
-Snapshot ID: `AAAAAGI0lprKGLKcevkWE5h2uMBGhNRN`
+Snapshot ID: `AAAAAOiXKiUYcaHQfEsbVXyy2xTsWluw`

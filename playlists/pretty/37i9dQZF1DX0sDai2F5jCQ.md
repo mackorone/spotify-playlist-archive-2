@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,227 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,145 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 74 | [\#PRAY4FARGO \(Healing\)](https://open.spotify.com/track/3kU8iGGUdZzXSN75IaGriR) | [Clyde Cyrus](https://open.spotify.com/artist/6p0x3CTY87KMhyQFJVf6Xu), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [\#PRAY4FARGO \(Healing\)](https://open.spotify.com/album/0eT3iILixWssXWNEayiftN) | 3:13 |
 | 75 | [Levitate](https://open.spotify.com/track/5F7T1d2OIvTrNiO06HZ0pv) | [Sidney Phillips](https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T) | [Levitate](https://open.spotify.com/album/6VqPCTH7MBdofKCSzuHU8A) | 3:31 |
 
-Snapshot ID: `AAAAAAkyOkcmivzemCexYgFJK46krcFU`
+Snapshot ID: `AAAAAKgVhCxNOpAx5AzRtz1I7yiA1ipN`

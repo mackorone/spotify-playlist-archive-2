@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Doğu Swag, Kamuran Akkor ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,884 likes - 126 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,752 likes - 126 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 42 | [Hastayım Sana](https://open.spotify.com/track/41ka4YhltJYRlgu2TMLBJn) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Hastayım Sana](https://open.spotify.com/album/6EtctyXcfNP306hxfgN11P) | 2:45 |
 | 43 | [MERHAMET GÖSTER](https://open.spotify.com/track/56o04vtRDoMXHtVYtQoqzX) | [Uğur Işılak](https://open.spotify.com/artist/65Yc24XPBKMWz6oOWOX7Xx) | [MERHAMET GÖSTER](https://open.spotify.com/album/7B9gwqiVP1ranlxMZ6fASz) | 2:32 |
 | 44 | [Can I Have It Like That](https://open.spotify.com/track/4rdhy4UAiowaK6E8uzQ4R4) | [Ben Hims](https://open.spotify.com/artist/2xChRGmRz7vH7Z0x7GLAZ6), [Baris Turna](https://open.spotify.com/artist/4lsdKwzGkJkmC7b68Myb6Q) | [Can I Have It Like That](https://open.spotify.com/album/6BtQuj0SvmvS7jVMbcez69) | 2:45 |
-| 45 | [senle nefes alıyordum](https://open.spotify.com/track/5I3ngBnF9bDUGEsm2ClrqT) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [MINA](https://open.spotify.com/artist/2VVReeJKqmXKV9jbeCFNNs) | [senle nefes alıyordum](https://open.spotify.com/album/7DEzFea4fPsbIlCNBPjYVD) | 2:14 |
+| 45 | [senle nefes alıyordum](https://open.spotify.com/track/5I3ngBnF9bDUGEsm2ClrqT) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [MINA](https://open.spotify.com/artist/6rW0K83kruVLqDTbxoyqBl) | [senle nefes alıyordum](https://open.spotify.com/album/7DEzFea4fPsbIlCNBPjYVD) | 2:14 |
 | 46 | [How Much Does It Take To Shift It All](https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [How Much Does It Take To Shift It All](https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv) | 2:33 |
 | 47 | [Bulutlarda](https://open.spotify.com/track/31jCAZrNLYOZXf6FytxmVv) | [Ogiboyz](https://open.spotify.com/artist/6PZVRSkk0MYKjww6d5Kmq4) | [Bulutlarda](https://open.spotify.com/album/2xIaEkykLpGBdPxuhMFUD9) | 2:25 |
 | 48 | [Müsadenizle Gençler \- Söyletme Beni](https://open.spotify.com/track/7Cbzl2rkbY1g8L1RcgPjdA) | [Yeliz](https://open.spotify.com/artist/3Oebtq87rysNEKW2bKMHoH) | [Müsadenizle Gençler \- Söyletme Beni](https://open.spotify.com/album/6EVr3GlmYFEJqGja3xdv71) | 3:12 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 125 | [bak bana son bir kez daha](https://open.spotify.com/track/0dTa3DYrlA4FJiaa7qkvE6) | [rüyama girip hatırlatan kız](https://open.spotify.com/artist/2IVt4nkNcFAYHSBL6u9Hha) | [bak bana son bir kez daha](https://open.spotify.com/album/5evBbA7S4gc2jStDBeIUzJ) | 3:12 |
 | 126 | [Fısılda](https://open.spotify.com/track/1GotZQa8WVe9JVahn7On82) | [Alpaka](https://open.spotify.com/artist/1WCcyCEOygUZfeldhlI3rW) | [Fısılda](https://open.spotify.com/album/3B7i4RSKNhPfHvAoiq7bRr) | 3:18 |
 
-Snapshot ID: `AAAAAGtZBLjptRSoAUCP6u+vq6g1yY1h`
+Snapshot ID: `AAAAAInxqRZ27zzufLFoGd3UHmiqPo7K`

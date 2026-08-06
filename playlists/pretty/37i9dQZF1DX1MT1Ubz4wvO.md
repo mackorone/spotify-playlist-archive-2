@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: Mujer Cebra
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,990 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,997 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [MAÑANA TE LO PAGO](https://open.spotify.com/track/5vV7Kqvzy9P7YSQtuXFhhC) | [TIO FACUNDO](https://open.spotify.com/artist/3MRDl2PnX4ALBO4oK2yhaW), [Los Comebolsas](https://open.spotify.com/artist/5lvg3cFvs5rYCVtINlbkpx) | [MAÑANA TE LO PAGO](https://open.spotify.com/album/0KciOZIPtVJAgLUtqAVjAG) | 3:16 |
 | 50 | [Heridas de Juventud](https://open.spotify.com/track/2cqCaEX2rLwnuLaWbeRL4l) | [Memocracia](https://open.spotify.com/artist/6YNaadc735iV6WCs2ey5qH) | [Heridas de Juventud](https://open.spotify.com/album/1eYBbIv16orjYDfs85746o) | 2:53 |
 
-Snapshot ID: `AAAAAKt5zmEeln5cyJSImFJUCkjwUUrB`
+Snapshot ID: `AAAAABZi3lCpEF9JyrCa34wL+neTPnlx`

@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Brazil.",
-  "num_followers": 246147,
+  "num_followers": 246205,
   "original_name": "Top Songs - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MgVVoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MganIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-07-31 16:05:46",
@@ -1022,14 +1022,6 @@
         {
           "name": "Diego & Victor Hugo",
           "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Diego",
-          "url": "https://open.spotify.com/artist/79XD2aBNfCvTZLF9cnsxSB"
-        },
-        {
-          "name": "Victor Hugo",
-          "url": "https://open.spotify.com/artist/0P5FjTy1hd0aSQGr5oRqPe"
         }
       ],
       "duration_ms": 162580,

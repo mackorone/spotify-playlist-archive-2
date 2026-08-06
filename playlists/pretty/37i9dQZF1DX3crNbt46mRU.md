@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ariana Grande, Luciano, Jazeek, Selena Gomez, Chapo102  & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,760 likes - 94 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,756 likes - 94 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 93 | [Ijoya](https://open.spotify.com/track/0H4vIiZP7hr4SneIFVJTNc) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Dismantle](https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp), [£MONZO](https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv) | [Ijoya](https://open.spotify.com/album/29khdSaqDrbAQIslKf2yyZ) | 3:56 |
 | 94 | [Taconeando](https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [XXXXX](https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql) | 2:18 |
 
-Snapshot ID: `AAAAAGuknL+Ht3jJjKSdZSA5jU73yVQH`
+Snapshot ID: `AAAAACEEA5jRnFAphuUlyDHIFGZy/sQh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Mala Gestión, Nuevos Vicios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,258 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,261 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 103 | [Fuerza de Gravedad](https://open.spotify.com/track/1rdea9MHR3D6q83pAoDnny) | [Valiente Bosque](https://open.spotify.com/artist/7nCfWqlSX48iksOiwmWjoo) | [Fuerza de Gravedad](https://open.spotify.com/album/4A4tNK3ESwEDsTx6yOAo0T) | 3:27 |
 | 104 | [Últimas palabras](https://open.spotify.com/track/6oVszSYEj3TmVyh8hJmFeL) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Últimas palabras](https://open.spotify.com/album/1NmZFVA8q0rysF8YtLmkOV) | 3:06 |
 
-Snapshot ID: `AAAAABVvBO8ncRf6ahSDtiasjSwKQU19`
+Snapshot ID: `AAAAAPl0v8iNApvL2yM2O20Yw+OJJA7Z`

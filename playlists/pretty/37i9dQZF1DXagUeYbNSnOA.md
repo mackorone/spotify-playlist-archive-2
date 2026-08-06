@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Rigoazulado\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,129 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,010 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Inténtalo](https://open.spotify.com/track/3E04BK5iDcAwmA5rQSxmdG) | [Banowsky](https://open.spotify.com/artist/4sF1djKUVkePyrhqoToewB) | [Inténtalo](https://open.spotify.com/album/2kUWwA9GQuD2dalI2u1ko9) | 2:53 |
 | 50 | [Entre Limbos](https://open.spotify.com/track/6YtlDZuUTW0T6Ie2U1go5g) | [Andy Daze](https://open.spotify.com/artist/3C9RghNMHKFDn4fxrOrrW8) | [Entre Limbos](https://open.spotify.com/album/2uQ4CcoXRMu6xpmTlLOSoo) | 3:00 |
 
-Snapshot ID: `AAAAALw+jrQ1kGrH8twvDL9av5Yv2mYS`
+Snapshot ID: `AAAAAI2nKh4qEmmk+kKRAcw3zko6GlY3`

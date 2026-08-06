@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EIWfhQkRVjOnZ.md) - [plain]
 | 49 | [So Cold I Could See My Breath](https://open.spotify.com/track/6R3hFLF5jJC7ddCltVbgQz) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Question](https://open.spotify.com/album/4hqjE4M2FKwKeObRmoTEet) | 3:31 |
 | 50 | [Same Thing We Do Everyday Pinky](https://open.spotify.com/track/0e7Nhkz1m36BjJxlwVUjJh) | [Broadway](https://open.spotify.com/artist/2MHDadaguMvdlKiOFMP4B5), [Craig Owens](https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv) | [Kingdoms](https://open.spotify.com/album/2qhMpQafyTBtpJ2oDJBgjj) | 4:45 |
 
-Snapshot ID: `AAAAAEBO5BrSMqCAXZtL0vwpq51sQJOY`
+Snapshot ID: `AAAAAP7HQy51Y7wGDoQZwtuncAmagHZi`

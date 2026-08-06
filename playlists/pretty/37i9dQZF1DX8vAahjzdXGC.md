@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Ariana Grande, Cardi B, CORTIS , no na, eńau, Momo, For Revenge dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,700 likes - 127 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,546 likes - 127 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 126 | [Say Yea \(feat\. Amira Eldine\)](https://open.spotify.com/track/5AQDvtN8uwUIpEKS2znReK) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [Say Yea \(feat\. Amira Eldine\)](https://open.spotify.com/album/3c0uU6xEkAC44eIgSRbJFG) | 2:39 |
 | 127 | [Hyperfocus](https://open.spotify.com/track/4BN0yGTaksc1iny2QvjHEK) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Hyperfocus](https://open.spotify.com/album/5DaIWNy94FSVfCq2zCEASF) | 3:15 |
 
-Snapshot ID: `AAAAAMADHT6jSf8Fryj3xHcUjgNcVbzq`
+Snapshot ID: `AAAAADomGVKjtevA9lqrD+PctkOD+sS/`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Ancient Infinity Orchestra. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Pritesh Walia. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -14587,6 +14587,32 @@
     },
     {
       "album": {
+        "name": "Journey To Nowhere",
+        "url": "https://open.spotify.com/album/6SnNEBG38zzVaiYduXiFoz"
+      },
+      "artists": [
+        {
+          "name": "Pritesh Walia",
+          "url": "https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl"
+        },
+        {
+          "name": "Henry Godfrey Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/01InjZS4je8QpsAWJ3BuJ3"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 660415,
+      "name": "Journey To Nowhere",
+      "url": "https://open.spotify.com/track/2517uBZrNsu4GX7HQ85Tux"
+    },
+    {
+      "album": {
         "name": "Journey to the Treasures",
         "url": "https://open.spotify.com/album/0KcRReTudCB09DrxkgI7IN"
       },
@@ -18620,7 +18646,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 345119,
       "name": "Monson Road",
       "url": "https://open.spotify.com/track/1ja8uUjSfepMYOPN0kt9pl"
@@ -28185,6 +28211,24 @@
     },
     {
       "album": {
+        "name": "Terrible Driver",
+        "url": "https://open.spotify.com/album/3p7AuGYjqPCfYR6g86e04H"
+      },
+      "artists": [
+        {
+          "name": "Noah Kellman",
+          "url": "https://open.spotify.com/artist/0IAsPAh0paR3ITchGRbda0"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134091,
+      "name": "Terrible Driver",
+      "url": "https://open.spotify.com/track/4ymVHNnHlbgVGMF0yrxZM5"
+    },
+    {
+      "album": {
         "name": "Rhonda's",
         "url": "https://open.spotify.com/album/1hOpZ6KnLd4EqFHvAfr6gg"
       },
@@ -32432,7 +32476,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 254670,
       "name": "We Gonna Make It",
       "url": "https://open.spotify.com/track/2zCFZsrwN2cMj2ZJ8CXUjP"

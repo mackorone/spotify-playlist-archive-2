@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Cover: Oscar Lindsey",
+  "description": "The best new indie tracks from independent artists & labels. Cover: Pool Girl",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "1 By One",
+        "url": "https://open.spotify.com/album/2PlmI6Z9ODq3fl6qkYhEXe"
+      },
+      "artists": [
+        {
+          "name": "Ideas By Ab",
+          "url": "https://open.spotify.com/artist/2UXnSoWQ8fW3iaDLKzoLwk"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129400,
+      "name": "1 By One",
+      "url": "https://open.spotify.com/track/0uXMI4wHx7WI6pixBhHu4T"
+    },
+    {
+      "album": {
         "name": "1 plus 1",
         "url": "https://open.spotify.com/album/1LysZgJlcQxPkF3VcRCs80"
       },
@@ -338,7 +356,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 189307,
       "name": "17",
       "url": "https://open.spotify.com/track/189ITo3VyfZjaXNKusxNht"
@@ -536,7 +554,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 147770,
       "name": "2027",
       "url": "https://open.spotify.com/track/4UC6rVu31qAgIDy6NZRU6K"
@@ -1374,6 +1392,24 @@
       "duration_ms": 171678,
       "name": "A Fragile Bond",
       "url": "https://open.spotify.com/track/6UAgS6EGeKPFSRYEpA2Pxs"
+    },
+    {
+      "album": {
+        "name": "a girl like me",
+        "url": "https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169446,
+      "name": "a girl like me",
+      "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
     },
     {
       "album": {
@@ -3460,7 +3496,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 300000,
       "name": "AN ELEPHANT NEVER FORGETS",
       "url": "https://open.spotify.com/track/5KiIH8xcGoBdpj7oUJHjDH"
@@ -7316,7 +7352,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 163263,
       "name": "bike song",
       "url": "https://open.spotify.com/track/03uUSZQFMxWp1Q9lvSRTLo"
@@ -7760,6 +7796,24 @@
       "duration_ms": 216615,
       "name": "bleed you",
       "url": "https://open.spotify.com/track/2sQ7StMb819dmkFdvdLIA4"
+    },
+    {
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/0DnHFxZ51EFJa2lJDniQGZ"
+      },
+      "artists": [
+        {
+          "name": "LUELLA",
+          "url": "https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194840,
+      "name": "Bleeding Violet",
+      "url": "https://open.spotify.com/track/0o4IgiM7NyCdeGMNaMEFpj"
     },
     {
       "album": {
@@ -9506,7 +9560,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 258012,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2iJ36oE7tZqSL8A4Md0mWU"
@@ -10238,7 +10292,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 270226,
       "name": "buttercup",
       "url": "https://open.spotify.com/track/2tyG8HDeoOQpN5XHwB0e96"
@@ -12296,7 +12350,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 226026,
       "name": "City",
       "url": "https://open.spotify.com/track/2br4WKnhhxmfhHdx4DgoZL"
@@ -12588,6 +12642,24 @@
       "duration_ms": 250906,
       "name": "Closer to",
       "url": "https://open.spotify.com/track/6M9FjKafEbe1zuJ9xxNOBV"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/0bl9TN0cHtoWhp2pFJgHs3"
+      },
+      "artists": [
+        {
+          "name": "Kaz Moon",
+          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228785,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2SIg4zRVCxhsrxIykYzQpU"
     },
     {
       "album": {
@@ -13688,6 +13760,24 @@
       "duration_ms": 191000,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/6WTEo1YkpHsOIg0CH638Z0"
+    },
+    {
+      "album": {
+        "name": "Crab",
+        "url": "https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B"
+      },
+      "artists": [
+        {
+          "name": "Pool Girl",
+          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195577,
+      "name": "Crab",
+      "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
     },
     {
       "album": {
@@ -22716,7 +22806,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 234000,
       "name": "garden",
       "url": "https://open.spotify.com/track/11sRSIkYZckr2QnPPNqss5"
@@ -26254,6 +26344,24 @@
       "duration_ms": 229318,
       "name": "Hear You Calling",
       "url": "https://open.spotify.com/track/4kpAWvnP4j9ddwl6EOYF1C"
+    },
+    {
+      "album": {
+        "name": "Dreams For Somebody Else",
+        "url": "https://open.spotify.com/album/4t0LiNXBlTuPifRvLivsDU"
+      },
+      "artists": [
+        {
+          "name": "White Flowers",
+          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359921,
+      "name": "Heart Breaks",
+      "url": "https://open.spotify.com/track/3sxhnujZhHCDzczdtpD1Po"
     },
     {
       "album": {
@@ -33813,6 +33921,24 @@
     },
     {
       "album": {
+        "name": "Kick in the Teeth",
+        "url": "https://open.spotify.com/album/7FxFm7EIMzI9Tg3hcDU1XK"
+      },
+      "artists": [
+        {
+          "name": "Sesame Girl",
+          "url": "https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168040,
+      "name": "Kick In The Teeth",
+      "url": "https://open.spotify.com/track/7x5rRIvAk4uKNKnInTFbwD"
+    },
+    {
+      "album": {
         "name": "bird the kid",
         "url": "https://open.spotify.com/album/1nZ8LRi5osH0S4MUjGXtim"
       },
@@ -40222,7 +40348,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 185850,
       "name": "missin out",
       "url": "https://open.spotify.com/track/3U9FVmRpGgHe7m54UN5J91"
@@ -44406,6 +44532,24 @@
       "duration_ms": 209672,
       "name": "Obvious",
       "url": "https://open.spotify.com/track/5qN9j62fq0YbWQd57bzf0U"
+    },
+    {
+      "album": {
+        "name": "Obvious to Me",
+        "url": "https://open.spotify.com/album/2e3O0bHIeIDcM9YBTIxlKc"
+      },
+      "artists": [
+        {
+          "name": "Second House",
+          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185517,
+      "name": "Obvious to Me",
+      "url": "https://open.spotify.com/track/6dVC7j5TFonYToDagYd6Xb"
     },
     {
       "album": {
@@ -48944,6 +49088,24 @@
       "duration_ms": 279866,
       "name": "Pulp",
       "url": "https://open.spotify.com/track/7i0QRugrVez4kxFijPbuMY"
+    },
+    {
+      "album": {
+        "name": "Punch!",
+        "url": "https://open.spotify.com/album/7epVLBNXiDexRm6zQtoSgn"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bacino",
+          "url": "https://open.spotify.com/artist/0JCSx0A726fp2K75sXBfWK"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183413,
+      "name": "Punch!",
+      "url": "https://open.spotify.com/track/0KtEDhuatDxLCkXuidzTMg"
     },
     {
       "album": {
@@ -53886,7 +54048,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 230833,
       "name": "Side On",
       "url": "https://open.spotify.com/track/2dPPPVBWx0Kfofh3ql89E5"
@@ -62696,6 +62858,24 @@
       "duration_ms": 184318,
       "name": "This One",
       "url": "https://open.spotify.com/track/5Qp6SIUrqZFSyYZHJkb6I0"
+    },
+    {
+      "album": {
+        "name": "Superstar Syndrome",
+        "url": "https://open.spotify.com/album/5R7sLxzcy9snDJRUNICRvO"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190116,
+      "name": "This So Called Life",
+      "url": "https://open.spotify.com/track/0DXe2D37mwoElYXmyt16CU"
     },
     {
       "album": {

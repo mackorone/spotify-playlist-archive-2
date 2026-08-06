@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 201231,
       "name": "Aldan\u0131r\u0131m",
       "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 218250,
       "name": "Ayaza Serdim",
       "url": "https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej"
@@ -3471,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "Ate\u015ften Bi R\u00fczgar",
+        "url": "https://open.spotify.com/album/60BEVIsHpsdfQeCDiALdba"
+      },
+      "artists": [
+        {
+          "name": "Emir",
+          "url": "https://open.spotify.com/artist/052U3i0lM0CeCkJRrES8XK"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205191,
+      "name": "Makina",
+      "url": "https://open.spotify.com/track/22yZy5Pa6HAgqsa90Mcof4"
+    },
+    {
+      "album": {
         "name": "manifestival",
         "url": "https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ"
       },
@@ -3912,7 +3930,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 219374,
       "name": "PERDE",
       "url": "https://open.spotify.com/track/7xYtgtwlgXvpiTnXUAkceF"
@@ -4442,7 +4460,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 152438,
       "name": "Sen Kald\u0131n",
       "url": "https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ"
@@ -4860,6 +4878,24 @@
       "duration_ms": 90576,
       "name": "TAK TAK TAK",
       "url": "https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX"
+    },
+    {
+      "album": {
+        "name": "TAMPONTAMPONA",
+        "url": "https://open.spotify.com/album/5flqeedURwamU6B8An5lAb"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "TAMPONTAMPONA",
+      "url": "https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf"
     },
     {
       "album": {

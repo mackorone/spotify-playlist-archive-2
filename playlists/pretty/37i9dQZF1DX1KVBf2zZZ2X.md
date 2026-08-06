@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,560 likes - 125 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,905 likes - 125 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 124 | [Imaginations](https://open.spotify.com/track/0M24HOVMxZNVjv2MRvyGIW) | [Jnana Flow](https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52) | [Imaginations](https://open.spotify.com/album/1qtaFw9D2LjV88OogD6JIQ) | 2:47 |
 | 125 | [Glint](https://open.spotify.com/track/2CNs8gg77FhVmadqvhrueH) | [Golden Mirage](https://open.spotify.com/artist/77CkzRAWnnxgtcSDY8BXD6) | [Glint](https://open.spotify.com/album/5jm4rOPGLF04RP1d9cuxbi) | 2:39 |
 
-Snapshot ID: `AAAAAKiw/1waLFF2fRXNVgqPELStDrbz`
+Snapshot ID: `AAAAADo9Y2A6tqhT8QGBQQ79lNdG2hZR`

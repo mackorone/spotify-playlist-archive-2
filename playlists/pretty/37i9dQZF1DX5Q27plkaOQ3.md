@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥  featuring SLUGZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,292 likes - 200 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,232 likes - 200 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 199 | [GATEKEEPER](https://open.spotify.com/track/0Kltu5cCMc2r82fnkeK49g) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [GATEKEEPER](https://open.spotify.com/album/1cc92QAKcg66F5NWqbZE6t) | 4:26 |
 | 200 | [The Pit](https://open.spotify.com/track/6uAlhFwFPblqVs5F2xQO4C) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [The Pit](https://open.spotify.com/album/7C8pJDrZvHs3c36NtzAT1X) | 3:03 |
 
-Snapshot ID: `AAAAABLr8fct6/MGlJDYnmE4WFSG7zwy`
+Snapshot ID: `AAAAAFO8S7cr1o3nRjQMuY72slcPTcYh`

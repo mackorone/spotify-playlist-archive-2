@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Gagg E, Bhallwaan, Luv and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,894 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,900 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 4 | [Gym Culture](https://open.spotify.com/track/1izePVgFGRWNMkjJc2N1Wu) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym Culture](https://open.spotify.com/album/79VFBHkHCPzFJyWqoGWvud) | 3:59 |
 | 5 | [8x8](https://open.spotify.com/track/4pZSSdu8thBDjuCD4vb1dP) | [Luv](https://open.spotify.com/artist/6X0zrZ0c5okMXavI2sFTMZ) | [8x8](https://open.spotify.com/album/22I0sbMiDw30Jb1HZ1STS1) | 2:37 |
 | 6 | [40 TTAKK](https://open.spotify.com/track/6NEiXQhnLVC4zZB4qQVPs2) | [Sanddy Mundra](https://open.spotify.com/artist/7lIllcfx8ChwyI6MHtkLDN), [Niikzzy](https://open.spotify.com/artist/5RSozru16KJEZwv2XPmEB8) | [40 TTAKK](https://open.spotify.com/album/2SJsXuxx74bvxRlOKwAXDV) | 2:05 |
-| 7 | [No Brakes](https://open.spotify.com/track/4tG7JLFw3EgKuIadOY79On) | [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Run over](https://open.spotify.com/album/0gNh1qGR5zF8KLzqsnsoVk) | 2:16 |
+| 7 | [No Brakes](https://open.spotify.com/track/4tG7JLFw3EgKuIadOY79On) | [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS), [Spy Boi](https://open.spotify.com/artist/1gttYcIL5LonZdudIP1HLb) | [Run over](https://open.spotify.com/album/0gNh1qGR5zF8KLzqsnsoVk) | 2:16 |
 | 8 | [Drive By](https://open.spotify.com/track/3zntbVbzItUKvOrZZjL6Mj) | [Manu Ramgarhia](https://open.spotify.com/artist/2FBDJY1qubXoP69bjgSECK), [Jack Ameen](https://open.spotify.com/artist/3wzFv1QvOuTQljrsbSGDKW), [Jeewan Malhi](https://open.spotify.com/artist/4goa5Owm9HU8ZNCVaGZZmU), [Dev Ocean](https://open.spotify.com/artist/0m6PgLqa6qgmEzKk1FS6eX) | [Drive By](https://open.spotify.com/album/5S3JxtNYXGAHJrKCbY8t4k) | 3:27 |
 | 9 | [Protostar](https://open.spotify.com/track/3s4Hc7kUbmQlGQnUhZjPRU) | [Aaryan Sekhon](https://open.spotify.com/artist/1noVAZK2UjaZmqF0e8FXDs) | [VERSA](https://open.spotify.com/album/0LRIIFZgH6vzE4dSeUj94Z) | 2:19 |
 | 10 | [PHILOSOPHER](https://open.spotify.com/track/4f8QXc4JCZEpXRmfeyyviQ) | [Rangrez Sidhu](https://open.spotify.com/artist/3cDu4bMjtFHdCvDD93cDUN), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [PHILOSOPHER](https://open.spotify.com/album/3yvJOmVW5Yzw9aQ4BZF388) | 2:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Never Enough](https://open.spotify.com/track/47WBwukigGpGPLdG9mQRFW) | [NVY](https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa) | [Never Enough](https://open.spotify.com/album/7LNiqSpOfRFkuzN8sdnLER) | 3:04 |
 | 75 | [Journey](https://open.spotify.com/track/09Q2wBawmCaKRdLECGypzm) | [Jazz Rattu](https://open.spotify.com/artist/329EwM5CXH1wnuvuVs5HEy), [D Mandy](https://open.spotify.com/artist/5mSdODMlZG10MyXvpKxuww), [Rollin](https://open.spotify.com/artist/0wcfwxyTLEXKrV085sXTCz) | [Journey](https://open.spotify.com/album/2iEMYtqNEkyNtgEtG2QXFA) | 2:00 |
 
-Snapshot ID: `AAAAAFr6/MIt0H+frEFiBdNq4p6bPq9y`
+Snapshot ID: `AAAAACUC7Tj0El3RY4L9NxRKmqAZjR5q`

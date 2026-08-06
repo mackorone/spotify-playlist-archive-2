@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Ammar Haikal
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,969 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,718 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Kisah Kita](https://open.spotify.com/track/5K4JXyx3NhHG8lwYOhQXrH) | [DUKES](https://open.spotify.com/artist/1KhiHfllvx27hGdOK6kPER) | [Irama Budak Bermimpi](https://open.spotify.com/album/5GzvS7yIhWT3Qb6DTfr5F0) | 4:06 |
 | 50 | [Kisah Terbaik](https://open.spotify.com/track/6nGRs77lCVJmOdMsSKqv1T) | [Fazura](https://open.spotify.com/artist/4P0JsOTEOJEAGLAGo3R1Yf) | [Kisah Terbaik](https://open.spotify.com/album/7fvcwSyGFUR3q18lxWxiB4) | 3:27 |
 
-Snapshot ID: `AAAAAJ4xRC1Ttqj1FrxczarxP5Ue0Lud`
+Snapshot ID: `AAAAAKMsiuKVQfShRhkmv0ou4aqqk0gE`

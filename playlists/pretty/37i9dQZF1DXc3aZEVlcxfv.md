@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > If you're blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,772 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,780 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 79 | [Hallelujah \(My song forever\)](https://open.spotify.com/track/2AUFfb517wmHQoDxxGg3TU) | [Hallel Community Choir](https://open.spotify.com/artist/6txrzyX5bSbN3ccS7PDvWH), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [CJ Nonso](https://open.spotify.com/artist/5xZ3TZKzgqhGpJ65skKK8F), [Oluwapelumi](https://open.spotify.com/artist/7zoB4wcPhhtJx1UVzNvKAE), [Joshua Ekpenyong](https://open.spotify.com/artist/7a8htg4PeSTDKXdY3wZwy5) | [Hallelujah \(My song forever\)](https://open.spotify.com/album/6UgiLt6pBAO7zYE6ZobtAQ) | 8:20 |
 | 80 | [Wait On You](https://open.spotify.com/track/7yErAxvmSIVzWb0BFH0U4n) | [Godwin King](https://open.spotify.com/artist/3zNPsJVNyCnqjWvTPFghkC), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Wait On You](https://open.spotify.com/album/43XE5518l2BLCQmqwSA15A) | 3:57 |
 
-Snapshot ID: `AAAAAJkdBBdFIaNTALGcJ0VFM+f2KTKj`
+Snapshot ID: `AAAAAA1KJ6nlOvc8WpmCPZXFpBfWiDWy`

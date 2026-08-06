@@ -1,13 +1,113 @@
 {
   "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Ian Penn]. Artwork: Isu Kim.\n",
-  "num_followers": 70825,
+  "num_followers": 70705,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAhmcjIkCeOy15A58RGtEbo04jDH",
+  "snapshot_id": "AAAAAMwx8ZN6EBKOP1qYoq+SRy4kGn9Q",
   "tracks": [
+    {
+      "added_at": "2026-08-05 05:00:09",
+      "album": {
+        "name": "Urong Sulong",
+        "url": "https://open.spotify.com/album/2NSPpIGvccI3sYQ5991e5o"
+      },
+      "artists": [
+        {
+          "name": "Paul Monserrate",
+          "url": "https://open.spotify.com/artist/3sa2GW7TbeCFIYLacBk4kD"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Urong Sulong",
+      "url": "https://open.spotify.com/track/069wBYuPG4AHBucoNW5StN"
+    },
+    {
+      "added_at": "2026-08-05 05:00:09",
+      "album": {
+        "name": "Gina G.",
+        "url": "https://open.spotify.com/album/10xv43vh5q2BdnXFgWeHvi"
+      },
+      "artists": [
+        {
+          "name": "Uncle Bob's Funky Seven Club",
+          "url": "https://open.spotify.com/artist/0UBLpatgPJe2v1theY0ftp"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Gina G.",
+      "url": "https://open.spotify.com/track/3zRX2m3wwGbaRGayqB5lcA"
+    },
+    {
+      "added_at": "2026-08-05 05:00:09",
+      "album": {
+        "name": "Hoodlum Debut Album",
+        "url": "https://open.spotify.com/album/0qwt2mzKGv6lSQrdKc6Wbl"
+      },
+      "artists": [
+        {
+          "name": "Hoodlum!",
+          "url": "https://open.spotify.com/artist/11wSIVDDczCVk5xCHalMQh"
+        }
+      ],
+      "duration_ms": 325041,
+      "name": "Chupoy Chupoy",
+      "url": "https://open.spotify.com/track/0XpJitZkaCZx9N1eJhFjUz"
+    },
+    {
+      "added_at": "2026-08-05 05:00:09",
+      "album": {
+        "name": "CONCORD",
+        "url": "https://open.spotify.com/album/6YnGa5urdpgr9w8BNo7XO9"
+      },
+      "artists": [
+        {
+          "name": "brayll",
+          "url": "https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9"
+        }
+      ],
+      "duration_ms": 173532,
+      "name": "Strip (Don't Wanna Leave)",
+      "url": "https://open.spotify.com/track/50EKtmYmibqfzU8WP9ehek"
+    },
+    {
+      "added_at": "2026-07-22 05:00:26",
+      "album": {
+        "name": "I Kiss You Deeply",
+        "url": "https://open.spotify.com/album/7lwkCklu3g8lNNmYYZ5LER"
+      },
+      "artists": [
+        {
+          "name": "Ian Penn",
+          "url": "https://open.spotify.com/artist/29P62aSu5Xspo08JqiyX3F"
+        }
+      ],
+      "duration_ms": 215505,
+      "name": "I Kiss You Deeply",
+      "url": "https://open.spotify.com/track/35FWhpYscb7zwm2mSBEc3o"
+    },
+    {
+      "added_at": "2026-08-05 05:00:09",
+      "album": {
+        "name": "Takbo",
+        "url": "https://open.spotify.com/album/3NH0dcvmoJMds8AOi9GKZe"
+      },
+      "artists": [
+        {
+          "name": "Tatz Maven",
+          "url": "https://open.spotify.com/artist/6SATKmQLDhwHRDzc4yiSbp"
+        },
+        {
+          "name": "SHNTI",
+          "url": "https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO"
+        }
+      ],
+      "duration_ms": 196941,
+      "name": "Takbo",
+      "url": "https://open.spotify.com/track/1Olsl8INFvkcAvXAR31vDN"
+    },
     {
       "added_at": "2026-07-29 05:07:41",
       "album": {
@@ -55,22 +155,6 @@
       "duration_ms": 263773,
       "name": "Retsina",
       "url": "https://open.spotify.com/track/2TqP5fkkTKhxAkCifNop0F"
-    },
-    {
-      "added_at": "2026-07-22 05:00:26",
-      "album": {
-        "name": "I Kiss You Deeply",
-        "url": "https://open.spotify.com/album/7lwkCklu3g8lNNmYYZ5LER"
-      },
-      "artists": [
-        {
-          "name": "Ian Penn",
-          "url": "https://open.spotify.com/artist/29P62aSu5Xspo08JqiyX3F"
-        }
-      ],
-      "duration_ms": 215505,
-      "name": "I Kiss You Deeply",
-      "url": "https://open.spotify.com/track/35FWhpYscb7zwm2mSBEc3o"
     },
     {
       "added_at": "2026-07-22 05:00:26",

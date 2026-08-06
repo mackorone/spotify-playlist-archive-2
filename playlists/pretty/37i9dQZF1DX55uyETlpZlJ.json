@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sumedh",
-  "num_followers": 27542,
+  "num_followers": 27544,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOJOl+OiUYCenf7tnJR8+FVZMEMK",
+  "snapshot_id": "AAAAADEz+ulWFYZWYfi5MTDdvWUhF5GY",
   "tracks": [
     {
       "added_at": "2026-07-31 05:56:01",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/7cd8f7AqLjP6v47ZQNRJxV"
     },
     {
+      "added_at": "2026-07-03 16:55:34",
+      "album": {
+        "name": "KODAGU RAP",
+        "url": "https://open.spotify.com/album/0eXDI1m5JG1gXuRSXQZK9N"
+      },
+      "artists": [
+        {
+          "name": "Hitesh High",
+          "url": "https://open.spotify.com/artist/3rSYZ6tJgkSf15X3Go4Dzb"
+        }
+      ],
+      "duration_ms": 155554,
+      "name": "KODAGU RAP",
+      "url": "https://open.spotify.com/track/0fbFGx9o2DpeoRjbMvPgln"
+    },
+    {
       "added_at": "2026-01-16 10:20:22",
       "album": {
         "name": "Nenapale",
@@ -645,20 +661,40 @@
       "url": "https://open.spotify.com/track/3yOPmz3W9psgd9XX5BMHcK"
     },
     {
-      "added_at": "2026-07-03 16:55:34",
+      "added_at": "2026-07-27 07:28:21",
       "album": {
-        "name": "KODAGU RAP",
-        "url": "https://open.spotify.com/album/0eXDI1m5JG1gXuRSXQZK9N"
+        "name": "Dhuni",
+        "url": "https://open.spotify.com/album/5nX5LrXewpibmNocAyf1qm"
       },
       "artists": [
         {
-          "name": "Hitesh High",
-          "url": "https://open.spotify.com/artist/3rSYZ6tJgkSf15X3Go4Dzb"
+          "name": "Manvith Karkera",
+          "url": "https://open.spotify.com/artist/5MvidldDoYdhcvejH1Qj87"
+        },
+        {
+          "name": "Anviksha Dayanand",
+          "url": "https://open.spotify.com/artist/5HKDJaeh3NYCqBTaAB3YR7"
         }
       ],
-      "duration_ms": 155554,
-      "name": "KODAGU RAP",
-      "url": "https://open.spotify.com/track/0fbFGx9o2DpeoRjbMvPgln"
+      "duration_ms": 148313,
+      "name": "Dhuni",
+      "url": "https://open.spotify.com/track/3qMfhlZDBmaBitonbmpo0d"
+    },
+    {
+      "added_at": "2026-05-29 10:38:39",
+      "album": {
+        "name": "Kanasemba Baaninalli",
+        "url": "https://open.spotify.com/album/2oqD42MEh0DwU75iWLWIzr"
+      },
+      "artists": [
+        {
+          "name": "Manav P.M",
+          "url": "https://open.spotify.com/artist/2zxi1LGjnm0yhC8RMTwmBZ"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Kanasemba Baaninalli",
+      "url": "https://open.spotify.com/track/5w7Dtjl3OLQSPHncqmduu9"
     },
     {
       "added_at": "2026-02-06 13:52:39",
@@ -679,22 +715,6 @@
       "duration_ms": 158582,
       "name": "Biddiyabbe Hudugi",
       "url": "https://open.spotify.com/track/7DA7oVlc4kvyBFoQcFfkjr"
-    },
-    {
-      "added_at": "2026-05-29 10:38:39",
-      "album": {
-        "name": "Kanasemba Baaninalli",
-        "url": "https://open.spotify.com/album/2oqD42MEh0DwU75iWLWIzr"
-      },
-      "artists": [
-        {
-          "name": "Manav P.M",
-          "url": "https://open.spotify.com/artist/2zxi1LGjnm0yhC8RMTwmBZ"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Kanasemba Baaninalli",
-      "url": "https://open.spotify.com/track/5w7Dtjl3OLQSPHncqmduu9"
     },
     {
       "added_at": "2026-05-22 07:30:35",
@@ -723,26 +743,6 @@
       "duration_ms": 205819,
       "name": "Maaye",
       "url": "https://open.spotify.com/track/35ZHQmmw1gdZZRebhOZoQV"
-    },
-    {
-      "added_at": "2026-07-27 07:28:21",
-      "album": {
-        "name": "Dhuni",
-        "url": "https://open.spotify.com/album/5nX5LrXewpibmNocAyf1qm"
-      },
-      "artists": [
-        {
-          "name": "Manvith Karkera",
-          "url": "https://open.spotify.com/artist/5MvidldDoYdhcvejH1Qj87"
-        },
-        {
-          "name": "Anviksha Dayanand",
-          "url": "https://open.spotify.com/artist/5HKDJaeh3NYCqBTaAB3YR7"
-        }
-      ],
-      "duration_ms": 148313,
-      "name": "Dhuni",
-      "url": "https://open.spotify.com/track/3qMfhlZDBmaBitonbmpo0d"
     },
     {
       "added_at": "2026-07-10 11:34:44",
@@ -985,6 +985,26 @@
       "url": "https://open.spotify.com/track/1dVIYUeBMRBkfiXFctcbMn"
     },
     {
+      "added_at": "2026-07-17 05:47:14",
+      "album": {
+        "name": "Modala Kavana",
+        "url": "https://open.spotify.com/album/6i9eG3Ac1vYBRMYXhdmELp"
+      },
+      "artists": [
+        {
+          "name": "Shaunbhogmusic",
+          "url": "https://open.spotify.com/artist/2j1jUQaGT4CBcnrTjjHn5l"
+        },
+        {
+          "name": "Joel Sakkari",
+          "url": "https://open.spotify.com/artist/5czzvCflTYTFwFiF5Lj6WO"
+        }
+      ],
+      "duration_ms": 312428,
+      "name": "Modala Kavana",
+      "url": "https://open.spotify.com/track/6cYA08WH1TmTPqK7F9DBZE"
+    },
+    {
       "added_at": "2026-03-02 07:59:40",
       "album": {
         "name": "5 STAR",
@@ -1007,26 +1027,6 @@
       "duration_ms": 159995,
       "name": "ROUGH ROACH",
       "url": "https://open.spotify.com/track/689FJCbzH68posJE4MEcF3"
-    },
-    {
-      "added_at": "2026-07-17 05:47:14",
-      "album": {
-        "name": "Modala Kavana",
-        "url": "https://open.spotify.com/album/6i9eG3Ac1vYBRMYXhdmELp"
-      },
-      "artists": [
-        {
-          "name": "Shaunbhogmusic",
-          "url": "https://open.spotify.com/artist/2j1jUQaGT4CBcnrTjjHn5l"
-        },
-        {
-          "name": "Joel Sakkari",
-          "url": "https://open.spotify.com/artist/5czzvCflTYTFwFiF5Lj6WO"
-        }
-      ],
-      "duration_ms": 312428,
-      "name": "Modala Kavana",
-      "url": "https://open.spotify.com/track/6cYA08WH1TmTPqK7F9DBZE"
     },
     {
       "added_at": "2026-07-03 16:55:34",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/6dQamSMR2TDsHYoSMrZZvb"
     },
     {
-      "added_at": "2026-03-27 11:10:25",
-      "album": {
-        "name": "Let's go back (The 90's song)",
-        "url": "https://open.spotify.com/album/58thkzXHNVMFcl6cyq30Vb"
-      },
-      "artists": [
-        {
-          "name": "Adhvik",
-          "url": "https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV"
-        }
-      ],
-      "duration_ms": 158398,
-      "name": "Let's go back (The 90's song)",
-      "url": "https://open.spotify.com/track/3MfcZGo0CUwkbhF4dFWKVr"
-    },
-    {
       "added_at": "2026-05-29 10:38:39",
       "album": {
         "name": "Baanina Haadu",
@@ -1091,6 +1075,22 @@
       "duration_ms": 155000,
       "name": "Baanina Haadu",
       "url": "https://open.spotify.com/track/1LZO6b4JloYRLwNfZRQt3s"
+    },
+    {
+      "added_at": "2026-03-27 11:10:25",
+      "album": {
+        "name": "Let's go back (The 90's song)",
+        "url": "https://open.spotify.com/album/58thkzXHNVMFcl6cyq30Vb"
+      },
+      "artists": [
+        {
+          "name": "Adhvik",
+          "url": "https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV"
+        }
+      ],
+      "duration_ms": 158398,
+      "name": "Let's go back (The 90's song)",
+      "url": "https://open.spotify.com/track/3MfcZGo0CUwkbhF4dFWKVr"
     },
     {
       "added_at": "2026-03-16 10:46:21",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/3ulzOuzHA4B8570MGpUsjw"
     },
     {
+      "added_at": "2026-06-19 13:11:16",
+      "album": {
+        "name": "ANNAMMA",
+        "url": "https://open.spotify.com/album/5WBhEzR8FZtvmqU4Azp39d"
+      },
+      "artists": [
+        {
+          "name": "Cheithanya",
+          "url": "https://open.spotify.com/artist/4Zr9yY3UDbqyE6sJqI7ueB"
+        }
+      ],
+      "duration_ms": 185038,
+      "name": "ANNAMMA",
+      "url": "https://open.spotify.com/track/3aSiutIpQwkCWAeHRUmaof"
+    },
+    {
       "added_at": "2026-01-30 08:54:06",
       "album": {
         "name": "Marujanma",
@@ -1167,6 +1183,26 @@
       "duration_ms": 148961,
       "name": "Marujanma",
       "url": "https://open.spotify.com/track/3XMwWPK24jpdSQqntn3Vj4"
+    },
+    {
+      "added_at": "2026-01-16 10:21:39",
+      "album": {
+        "name": "En\u00e9no Aase",
+        "url": "https://open.spotify.com/album/2BfYdK8TimSbXX0AIt3Jw8"
+      },
+      "artists": [
+        {
+          "name": "Aryamanu Baloji",
+          "url": "https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp"
+        },
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "En\u00e9no Aase",
+      "url": "https://open.spotify.com/track/13EPhdmnXGNtxtdorPMGkU"
     },
     {
       "added_at": "2026-01-28 14:39:06",
@@ -1187,22 +1223,6 @@
       "duration_ms": 148796,
       "name": "Hey Nanna Jeeva",
       "url": "https://open.spotify.com/track/6Cv3CSs5W7CvP3V4BHcJgQ"
-    },
-    {
-      "added_at": "2026-06-19 13:11:16",
-      "album": {
-        "name": "ANNAMMA",
-        "url": "https://open.spotify.com/album/5WBhEzR8FZtvmqU4Azp39d"
-      },
-      "artists": [
-        {
-          "name": "Cheithanya",
-          "url": "https://open.spotify.com/artist/4Zr9yY3UDbqyE6sJqI7ueB"
-        }
-      ],
-      "duration_ms": 185038,
-      "name": "ANNAMMA",
-      "url": "https://open.spotify.com/track/3aSiutIpQwkCWAeHRUmaof"
     },
     {
       "added_at": "2026-04-13 07:12:32",
@@ -1227,26 +1247,6 @@
       "duration_ms": 139641,
       "name": "Mouna Mathagide",
       "url": "https://open.spotify.com/track/29DCeCcblR6C1IfG9NW1cM"
-    },
-    {
-      "added_at": "2026-01-16 10:21:39",
-      "album": {
-        "name": "En\u00e9no Aase",
-        "url": "https://open.spotify.com/album/2BfYdK8TimSbXX0AIt3Jw8"
-      },
-      "artists": [
-        {
-          "name": "Aryamanu Baloji",
-          "url": "https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp"
-        },
-        {
-          "name": "Anuradha Bhat",
-          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "En\u00e9no Aase",
-      "url": "https://open.spotify.com/track/13EPhdmnXGNtxtdorPMGkU"
     },
     {
       "added_at": "2026-03-02 07:55:19",
@@ -1297,24 +1297,20 @@
       "url": "https://open.spotify.com/track/4D2Kf5W2cXbH5QYGfwhYYU"
     },
     {
-      "added_at": "2026-05-04 11:06:39",
+      "added_at": "2026-06-09 11:34:15",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/3Uu2bHn8aSM5Ig971gr9Rx"
+        "name": "Till I Die",
+        "url": "https://open.spotify.com/album/4fMj0BxNuwBLsW1uUCXsUe"
       },
       "artists": [
         {
           "name": "CHARLIE",
           "url": "https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA"
-        },
-        {
-          "name": "Freedom Beats",
-          "url": "https://open.spotify.com/artist/0BXbPlmnqZKVrPNsLZGGid"
         }
       ],
-      "duration_ms": 172051,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/6IryKSsE8v4pJcra0Hn0yn"
+      "duration_ms": 193734,
+      "name": "Till I Die",
+      "url": "https://open.spotify.com/track/0VlXH4Rv519e4ZyQRuWEOC"
     },
     {
       "added_at": "2026-02-24 11:20:04",
@@ -1381,20 +1377,24 @@
       "url": "https://open.spotify.com/track/50n8NRFSqbKrTJZOdccH58"
     },
     {
-      "added_at": "2026-06-09 11:34:15",
+      "added_at": "2026-05-04 11:06:39",
       "album": {
-        "name": "Till I Die",
-        "url": "https://open.spotify.com/album/4fMj0BxNuwBLsW1uUCXsUe"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3Uu2bHn8aSM5Ig971gr9Rx"
       },
       "artists": [
         {
           "name": "CHARLIE",
           "url": "https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA"
+        },
+        {
+          "name": "Freedom Beats",
+          "url": "https://open.spotify.com/artist/0BXbPlmnqZKVrPNsLZGGid"
         }
       ],
-      "duration_ms": 193734,
-      "name": "Till I Die",
-      "url": "https://open.spotify.com/track/0VlXH4Rv519e4ZyQRuWEOC"
+      "duration_ms": 172051,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/6IryKSsE8v4pJcra0Hn0yn"
     },
     {
       "added_at": "2026-01-21 06:58:55",
@@ -1427,22 +1427,6 @@
       "duration_ms": 182399,
       "name": "GUNTHARA",
       "url": "https://open.spotify.com/track/7ooQ27FzwwJCDZYWn8Otcj"
-    },
-    {
-      "added_at": "2026-07-17 05:47:14",
-      "album": {
-        "name": "Suchane",
-        "url": "https://open.spotify.com/album/6nYHVt6xR9IRtUp2roMXma"
-      },
-      "artists": [
-        {
-          "name": "Sage G 17",
-          "url": "https://open.spotify.com/artist/1qq4Yxku063YcXvDJ7S8Fc"
-        }
-      ],
-      "duration_ms": 168386,
-      "name": "Suchane",
-      "url": "https://open.spotify.com/track/6nnjBps2lTL8D1wjvyGmXY"
     },
     {
       "added_at": "2026-04-13 07:16:00",
@@ -1479,6 +1463,22 @@
       "duration_ms": 111432,
       "name": "Sword of Betrayal",
       "url": "https://open.spotify.com/track/7LA81aLtQNsl9HArKZruZz"
+    },
+    {
+      "added_at": "2026-07-17 05:47:14",
+      "album": {
+        "name": "Suchane",
+        "url": "https://open.spotify.com/album/6nYHVt6xR9IRtUp2roMXma"
+      },
+      "artists": [
+        {
+          "name": "Sage G 17",
+          "url": "https://open.spotify.com/artist/1qq4Yxku063YcXvDJ7S8Fc"
+        }
+      ],
+      "duration_ms": 168386,
+      "name": "Suchane",
+      "url": "https://open.spotify.com/track/6nnjBps2lTL8D1wjvyGmXY"
     },
     {
       "added_at": "2026-07-03 16:55:34",

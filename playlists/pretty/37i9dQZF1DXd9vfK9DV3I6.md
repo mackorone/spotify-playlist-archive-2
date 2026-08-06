@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,254 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,293 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 |
 | 100 | [Oud Trip](https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ), [DJ A Ego](https://open.spotify.com/artist/6sgGeuWDu3L5HGx3IqHMo9) | [Oud Trip](https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF) | 4:32 |
 
-Snapshot ID: `AAAAAI+RXcZ8et2fpYEd0CN//IlSJbyt`
+Snapshot ID: `AAAAADU0cWx5181yV6qdcaM+o/bivDmM`

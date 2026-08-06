@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women at full volume. Cover - Twinkle Aggrwal",
+  "description": "Listen to women at full volume. Cover - Shakthisree Gopalan",
   "name": "EQUAL India",
   "tracks": [
     {
@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 331000,
       "name": "Baithi Hun",
       "url": "https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96"
@@ -6554,10 +6554,6 @@
           "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
         },
         {
-          "name": "Rabica Wadhawan",
-          "url": "https://open.spotify.com/artist/7JvI3rxourVbaMmZT382fk"
-        },
-        {
           "name": "Jaidev Kumar",
           "url": "https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8"
         },
@@ -11016,6 +11012,28 @@
       "duration_ms": 172903,
       "name": "Ok Not Ok",
       "url": "https://open.spotify.com/track/6qvR2L1SsTQ6QrTWqk1LOb"
+    },
+    {
+      "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/2Sq9Ckc3hdJQTcwYeHBwT9"
+      },
+      "artists": [
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Vinay Kaushal",
+          "url": "https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241304,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/61hFBKZns0L2XuRYEYxZO4"
     },
     {
       "album": {

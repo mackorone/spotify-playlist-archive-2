@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123126,
+  "num_followers": 123111,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVomVEwFCBMvWxhA/zjLZ6EGuwsKrG",
+  "snapshot_id": "AAAVo3FVQaPao3SZt+hMaLc3h4DQ0aMa",
   "tracks": [
+    {
+      "added_at": "2026-08-05 14:14:33",
+      "album": {
+        "name": "u-know !!",
+        "url": "https://open.spotify.com/album/1pCyuTTlA6XXDhLHaw03mE"
+      },
+      "artists": [
+        {
+          "name": "Glitch Cat",
+          "url": "https://open.spotify.com/artist/3zquCvGjujDQ8U53bH1ngW"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "u-know !!",
+      "url": "https://open.spotify.com/track/32L1iZ69DcL3OBdiVBw9Pg"
+    },
     {
       "added_at": "2026-08-04 14:26:22",
       "album": {

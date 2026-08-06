@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Bury Tomorrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,456 likes - 200 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,372 likes - 200 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 199 | [What's Left Here?](https://open.spotify.com/track/7mMfKjStcUEPlVwEEBYUpl) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [What's Left Here?](https://open.spotify.com/album/1FTNGSHhjhTGB5ncCdJ8Nb) | 3:16 |
 | 200 | [Flowers](https://open.spotify.com/track/22RhWdmiiPEIAnRpICZTL5) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Flowers](https://open.spotify.com/album/3RDxgXtpWHuRq0QrHFNJ71) | 4:09 |
 
-Snapshot ID: `AAAAAInOThpSlYMzl3bpLJWHNV99Cv12`
+Snapshot ID: `AAAAAAn/wt/qlkJ3gazQj4qe8Di2ewqA`

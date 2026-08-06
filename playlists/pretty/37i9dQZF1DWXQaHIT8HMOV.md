@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Karole Kasita
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,568 likes - 55 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,589 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 54 | [Totta](https://open.spotify.com/track/0T3rnnZnmL3kR2MfM5QWuM) | [Kataleya & Kandle Music](https://open.spotify.com/artist/420Sfph97HABRumpR1TVTu), [Tracy Melon](https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp) | [Totta](https://open.spotify.com/album/2Hij9Q3rJ0YR3SBnFoCeVW) | 3:12 |
 | 55 | [Mangadalena](https://open.spotify.com/track/641jmL3qvN9LopncAeNjBs) | [Echoled](https://open.spotify.com/artist/0tVbW89Gmk8xqxAuc06c3k) | [Mangadalena](https://open.spotify.com/album/6URFM6zBF9JSk6LUPjFCvv) | 3:14 |
 
-Snapshot ID: `AAAAAK1d11vjNUL5RZIre/dJManQTj9H`
+Snapshot ID: `AAAAAG/U2Vf5mRMD97ha+FWD/lTUH1WB`

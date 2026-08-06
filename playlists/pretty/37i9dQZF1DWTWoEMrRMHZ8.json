@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
-  "num_followers": 353491,
+  "num_followers": 353397,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKc3NDiuLj5n5SVD+JQBcuvdDTKN",
+  "snapshot_id": "AAAAAD9XGMHtYxYX4dyzHOgfH6aS64xQ",
   "tracks": [
     {
       "added_at": "2026-07-31 04:07:03",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-07-31 04:07:03",
       "album": {
+        "name": "Disparada Ao Vivo Em B\u00fazios",
+        "url": "https://open.spotify.com/album/0OiBMiXCve71eWjFR4fn4G"
+      },
+      "artists": [
+        {
+          "name": "Mari Jasca",
+          "url": "https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp"
+        }
+      ],
+      "duration_ms": 369806,
+      "name": "Medley Latino - Ao Vivo",
+      "url": "https://open.spotify.com/track/2aJKzqgQWPHl54LcoYc30N"
+    },
+    {
+      "added_at": "2026-07-31 04:07:03",
+      "album": {
         "name": "Fervo Unboxing - Mari Merenda",
         "url": "https://open.spotify.com/album/732IpAuN6tq7d0HoevmICq"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 293126,
       "name": "Mulher Corvo",
       "url": "https://open.spotify.com/track/0J5C98ACNHQ5Dyl2sNvjp4"
-    },
-    {
-      "added_at": "2026-07-31 04:07:03",
-      "album": {
-        "name": "Disparada Ao Vivo Em B\u00fazios",
-        "url": "https://open.spotify.com/album/0OiBMiXCve71eWjFR4fn4G"
-      },
-      "artists": [
-        {
-          "name": "Mari Jasca",
-          "url": "https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp"
-        }
-      ],
-      "duration_ms": 369806,
-      "name": "Medley Latino - Ao Vivo",
-      "url": "https://open.spotify.com/track/2aJKzqgQWPHl54LcoYc30N"
     },
     {
       "added_at": "2026-07-31 04:07:03",

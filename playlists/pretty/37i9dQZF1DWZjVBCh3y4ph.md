@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Joé Dwèt Filé
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,303 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,328 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [À l'infini](https://open.spotify.com/track/4vm325WI6Ip5mOsUfYiCNt) | [Algéric](https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY) | [À l'infini](https://open.spotify.com/album/5a3hsHzXxYXwfnO1fG6mwQ) | 3:27 |
 | 40 | [Ce Soir](https://open.spotify.com/track/5JoiT8yPlAtYMmYhF2DSLL) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Ce Soir](https://open.spotify.com/album/5z9ciR0ejGN614p9i9CBi7) | 3:45 |
 
-Snapshot ID: `AAAAAL/Udc+3SK5Wn5guOOTNwfcnQRf1`
+Snapshot ID: `AAAAAHuVCcy+boX2k/qCFR+HA6XpBaD+`

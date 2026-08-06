@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,393 likes - 200 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,372 likes - 200 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,8 +173,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 163 | [Reapers Fool](https://open.spotify.com/track/6Oe10mOeOteWjSTzs1uRsh) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Reapers Fool](https://open.spotify.com/album/5ssrLiNJPe8YmtB7fQ5fQa) | 3:22 |
 | 164 | [Disco Nnection](https://open.spotify.com/track/5fkylI4UHIFITBnfpZQml9) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Disco Nnection](https://open.spotify.com/album/0SI5GPdVgtuOIZ40QGGnxK) | 4:15 |
 | 165 | [Witchhunter](https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Witchhunter](https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2) | 3:13 |
-| 166 | [The Many Licit Paths](https://open.spotify.com/track/0cGj5pqSVgjMYzp0mJ4QpS) | [Crisix](https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s) | [Full HD](https://open.spotify.com/album/3CNbdTTnhByCKDlW7aONOY) | 4:52 |
-| 167 | [The Ending](https://open.spotify.com/track/5wg8llj8KWPje67TGtXYK2) | [Cerberus](https://open.spotify.com/artist/2X801wW31GQU9xgVESz7hY) | [The Ending](https://open.spotify.com/album/1hBimLkEmBtVyn1s4xQZgu) | 3:33 |
+| 166 | [The Ending](https://open.spotify.com/track/5wg8llj8KWPje67TGtXYK2) | [Cerberus](https://open.spotify.com/artist/2X801wW31GQU9xgVESz7hY) | [The Ending](https://open.spotify.com/album/1hBimLkEmBtVyn1s4xQZgu) | 3:33 |
+| 167 | [The Many Licit Paths](https://open.spotify.com/track/0cGj5pqSVgjMYzp0mJ4QpS) | [Crisix](https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s) | [Full HD](https://open.spotify.com/album/3CNbdTTnhByCKDlW7aONOY) | 4:52 |
 | 168 | [Dear Diary](https://open.spotify.com/track/21zfxfNLaNqQuGX0MSwvh7) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO) | [Dear Diary](https://open.spotify.com/album/1TyE20y8uKLbd6cPPjaeZj) | 2:36 |
 | 169 | [Phantom Force](https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Phantom Force](https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH) | 2:59 |
 | 170 | [Pyhä Vitutus](https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Pyhä Vitutus](https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT) | 3:21 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 199 | [In Thrash We Trust](https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2) | [Artillery](https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720) | [In Thrash We Trust](https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU) | 4:09 |
 | 200 | [Bleed Them Dry](https://open.spotify.com/track/4sf35u9nKrEGQL7lqORuQJ) | [Morbid Saint](https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p) | [Swallowed by Hell](https://open.spotify.com/album/0pK6hmgfrQiEeRDHKkDQG2) | 5:23 |
 
-Snapshot ID: `AAAAAKNstMOY26HoSdad+CJ87RWZfNYs`
+Snapshot ID: `AAAAAKPjN4OtWxtmrqcTo+wZxojK+U1V`

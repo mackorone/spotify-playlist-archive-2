@@ -4533,6 +4533,24 @@
     },
     {
       "album": {
+        "name": "The Time Is Now",
+        "url": "https://open.spotify.com/album/4eap8Yo1FCts3yNTIFp9Nk"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine",
+          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486379,
+      "name": "Megamix",
+      "url": "https://open.spotify.com/track/1EZprjfxjpyGlEFNQ0AZRZ"
+    },
+    {
+      "album": {
         "name": "Melody (feat. James Francis)",
         "url": "https://open.spotify.com/album/7KFxF6CPgaNTv0cOUSV5KA"
       },
@@ -7320,7 +7338,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 195192,
       "name": "Welcome to St. Tropez - DJ Antoine vs. Mad Mark Radio Edit",
       "url": "https://open.spotify.com/track/5DZ78SHRkKVpgD6uhmqfZK"

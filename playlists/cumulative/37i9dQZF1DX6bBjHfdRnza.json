@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 119333,
       "name": "About Us",
       "url": "https://open.spotify.com/track/431TEfCxX6oZaQX3wPTmmN"
@@ -16328,7 +16328,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 185142,
       "name": "DON'T CALL IT A COMEBACK",
       "url": "https://open.spotify.com/track/7CcGg6ZILcYisMgb4jczKm"
@@ -16770,6 +16770,24 @@
       "duration_ms": 219107,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/7m5CAcn37t9EOCuLNlM6lx"
+    },
+    {
+      "album": {
+        "name": "Spotted I",
+        "url": "https://open.spotify.com/album/2jWptg5kuYUa4JbIUZC1kE"
+      },
+      "artists": [
+        {
+          "name": "Redstain",
+          "url": "https://open.spotify.com/artist/1OtzdqtxsQqVFl3gM5JYDq"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103285,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/5IM3QDSAX5uqoNSSWLJFtj"
     },
     {
       "album": {
@@ -17250,7 +17268,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 177280,
       "name": "Dream (Live) | Spotify Fresh Finds x Sounds That Move",
       "url": "https://open.spotify.com/track/10GNH2MWGnwR4fui0NwPF2"
@@ -27288,6 +27306,24 @@
       "duration_ms": 180897,
       "name": "HERE WE GO",
       "url": "https://open.spotify.com/track/6rpgBh76rWknX3GVuWDiv9"
+    },
+    {
+      "album": {
+        "name": "Here We Go",
+        "url": "https://open.spotify.com/album/4Jco7Sxu2lmVMjwUXz7toR"
+      },
+      "artists": [
+        {
+          "name": "Kiinjo",
+          "url": "https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161818,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/4QKNMglg1LnHYDbu9C8e7h"
     },
     {
       "album": {
@@ -41162,7 +41198,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 356223,
       "name": "Mysa",
       "url": "https://open.spotify.com/track/3Pf2UUmAwregzsPG05TA8s"
@@ -41838,6 +41874,24 @@
       "duration_ms": 212045,
       "name": "Never Wanted It To End",
       "url": "https://open.spotify.com/track/4QOVuL0aWA1FNKG85kRjpw"
+    },
+    {
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/0E759JQ6VvJzfkhrOsLB5Z"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/6gW7QZfXLHfwcuw9hZvzkB"
     },
     {
       "album": {
@@ -48108,7 +48162,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 195357,
       "name": "punch",
       "url": "https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA"
@@ -48440,7 +48494,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 179750,
       "name": "Rain",
       "url": "https://open.spotify.com/track/2iIgPKqAgsJY8mv9hUKiKw"
@@ -53407,6 +53461,42 @@
     },
     {
       "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/1JePnDGDirpRQNpFNo42bm"
+      },
+      "artists": [
+        {
+          "name": "Capron",
+          "url": "https://open.spotify.com/artist/49avcGZMMES2LbSHKis5Kz"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Smash",
+      "url": "https://open.spotify.com/track/00mii3fmq53QiHirhoEIhy"
+    },
+    {
+      "album": {
+        "name": "Smash Chick",
+        "url": "https://open.spotify.com/album/4AKHFXK9KpAG9HywfOfB9a"
+      },
+      "artists": [
+        {
+          "name": "eta",
+          "url": "https://open.spotify.com/artist/2FSu23hGhue4feJAI3hqhH"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197109,
+      "name": "Smash Chick",
+      "url": "https://open.spotify.com/track/2Wu0SaCGEmQne7A2ul3cBn"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/5eM2N950CGsqOM20ccLDYs"
       },
@@ -55638,7 +55728,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 232000,
       "name": "stop&watch",
       "url": "https://open.spotify.com/track/2UfHZghoano6GlB1WkSz60"
@@ -60287,6 +60377,24 @@
     },
     {
       "album": {
+        "name": "THIS IS IT",
+        "url": "https://open.spotify.com/album/6hD4cPYOjisWMEFtz6brSG"
+      },
+      "artists": [
+        {
+          "name": "CASAL",
+          "url": "https://open.spotify.com/artist/5PvzAQEqmX0ymcq8SOl38Y"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "THIS IS IT",
+      "url": "https://open.spotify.com/track/3r3hcFxhw9taWK84knbtXr"
+    },
+    {
+      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/5StBcXiU25jAcDmA4GOjQN"
       },
@@ -62534,7 +62642,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 210250,
       "name": "u up?",
       "url": "https://open.spotify.com/track/2ZZvnh85DP30XvSLjd0qDD"

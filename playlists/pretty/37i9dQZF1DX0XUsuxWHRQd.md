@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Lil Baby,  Rod Wave and Cardi B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,615,211 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,611,576 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [600 Racks](https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [600 Racks](https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5) | 3:04 |
 | 50 | [Griddlë](https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:37 |
 
-Snapshot ID: `AAAAAD+IQl08D/aHyE5Wu+tR4qEbXInL`
+Snapshot ID: `AAAAAGAj5wTrWZD9xCuXoHUlmjf6Qg8u`

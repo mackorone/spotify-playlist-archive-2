@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,870 likes - 500 songs - 1 day 17 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,945 likes - 500 songs - 1 day 17 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Nature Boy](https://open.spotify.com/track/7hDq6sOZ5Rl1XnSSfoOBRK) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy) | [Jan Johansson in Hamburg with Georg Riedel](https://open.spotify.com/album/1JqIyisOzzxq9TIyMoONSE) | 4:44 |
 | 500 | [When It Rains](https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Largo](https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx) | 6:36 |
 
-Snapshot ID: `AAAAAI42UrglKcBShuVHHqVPchXGmD3/`
+Snapshot ID: `AAAAAIjaEeekZtMX9IyQHh2FMAvtViLz`

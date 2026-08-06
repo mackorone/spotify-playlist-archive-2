@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 
 > Music from "THE IDOLM@STER CINDERELLA GIRLS"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,772 likes - 75 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,778 likes - 75 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 | 74 | [Majoram Therapie](https://open.spotify.com/track/5DbAEwEIKoaCIOEo5CqHjv) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [Majoram Therapie](https://open.spotify.com/album/2zExIClgNEbClrbpB7ilvr) | 4:23 |
 | 75 | [凸凹スピードスター \- GAME VERSION](https://open.spotify.com/track/07V6TltekjZudqZEXQkf2V) | [安部菜々 \(CV: 三宅麻理恵\)](https://open.spotify.com/artist/0EeF7ArEo2Xv1Qg6XoJ1Ua), [佐藤心 \(CV: 花守ゆみり\)](https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 21〜30 GAME VERSION](https://open.spotify.com/album/1U7f3KJ4Xu4UwFNFlmXXMf) | 2:08 |
 
-Snapshot ID: `AAAAAPZVPVbHtKcnYSy+EtlqmtFYndmK`
+Snapshot ID: `AAAAAMrQcDEWBsh0CE6cpR3En2rdoAJw`

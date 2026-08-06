@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "1,2,3,FOOOOUR",
+        "url": "https://open.spotify.com/album/0HoohJCzs0JaJM0UqJAiIU"
+      },
+      "artists": [
+        {
+          "name": "FRUITS ZIPPER",
+          "url": "https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "1,2,3,FOOOOUR",
+      "url": "https://open.spotify.com/track/3lmc3w8s8aaf77f1ZV2yOj"
+    },
+    {
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/1HEiG0oqNKVF2bYmXZU20q"
       },

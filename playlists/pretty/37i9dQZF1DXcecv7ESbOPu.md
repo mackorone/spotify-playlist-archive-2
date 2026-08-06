@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Robyn, Zara Larsson och Swedish House Mafia med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,142 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,129 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 73 | [Pose](https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2) | [Blush](https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F) | [Pose](https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY) | 3:22 |
 | 74 | [Smoked Out \(with Wiz Khalifa\)](https://open.spotify.com/track/5n1pzQFORCa8Nlt2rFNXe0) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Smoked Out \(with Wiz Khalifa\)](https://open.spotify.com/album/5wh2y6FRD7GEx3nsjzZt0W) | 2:47 |
 
-Snapshot ID: `AAAAACF8GGEI13sLZqfZ/k/sqLma7G0d`
+Snapshot ID: `AAAAAISjevcXVd/OiwF68PcCcU9eX1b2`

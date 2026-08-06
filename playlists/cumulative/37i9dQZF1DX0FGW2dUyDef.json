@@ -3997,6 +3997,24 @@
     },
     {
       "album": {
+        "name": "Ate\u015ften Bi R\u00fczgar",
+        "url": "https://open.spotify.com/album/60BEVIsHpsdfQeCDiALdba"
+      },
+      "artists": [
+        {
+          "name": "Emir",
+          "url": "https://open.spotify.com/artist/052U3i0lM0CeCkJRrES8XK"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205191,
+      "name": "Makina",
+      "url": "https://open.spotify.com/track/22yZy5Pa6HAgqsa90Mcof4"
+    },
+    {
+      "album": {
         "name": "manifestival",
         "url": "https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ"
       },

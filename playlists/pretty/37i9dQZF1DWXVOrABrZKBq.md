@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Genezio
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,899 likes - 91 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,914 likes - 91 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 46 | [Picky](https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [FREE MOI](https://open.spotify.com/album/1UnHdl7psxcwXkNAbavqTZ) | 2:38 |
 | 47 | [L.T.P](https://open.spotify.com/track/65zLXqR3Odxg5P4BepHoKi) | [Tvslym](https://open.spotify.com/artist/7jPzAS2xqIxyKHhGHIfuyf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [L.T.P](https://open.spotify.com/album/346djqe1ayiS4I67IvgwM5) | 2:06 |
 | 48 | [GROSEILLE](https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [GROSEILLE](https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3) | 2:53 |
-| 49 | [JET SET](https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [JET SET](https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu) | 2:30 |
+| 49 | [Jet Set](https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Jet Set](https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu) | 2:30 |
 | 50 | [CHÈVRE GOAT NTABA \- GRM x yard](https://open.spotify.com/track/16MJYG3Bcljvh1Qm8prgyq) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [CHÈVRE GOAT NTABA \(GRM x yard\)](https://open.spotify.com/album/5RrVVBQd9Jle9ym3nw9yb3) | 2:54 |
 | 51 | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/album/45n9mUWjqb9XIINadv7w7Z) | 1:56 |
 | 52 | [crame](https://open.spotify.com/track/64352UaTFPDIcNGVkAxgGn) | [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [crame](https://open.spotify.com/album/6e4cmcVRk7TqnItWjad6a5) | 2:25 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 90 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
 | 91 | [Maracanã](https://open.spotify.com/track/2cG3gLsTpuZgFNY7u5KFSW) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [Maracanã](https://open.spotify.com/album/2NxksJ1HvTdFXQ9CnP535o) | 2:37 |
 
-Snapshot ID: `AAAAAHFoB0Dihu0nra1bWxkT3pMvr3b0`
+Snapshot ID: `AAAAADeuMSDJSrkzchiWdnRhkH9ipRNo`

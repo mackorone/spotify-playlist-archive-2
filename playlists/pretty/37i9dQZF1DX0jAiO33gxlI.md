@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Cassol
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,048 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,989 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [O Mais Odiado](https://open.spotify.com/track/6qbhnCQ6cwnRh3vlFRPbRG) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww) | [O Mais Odiado](https://open.spotify.com/album/1NMAXk0Oo6AOmkBK9LdwRs) | 2:36 |
 | 75 | [Brincando com Fogo](https://open.spotify.com/track/6iXjNkwzPlXaE9oduwKIGq) | [Nyannbreck](https://open.spotify.com/artist/0yWGcFdttc7rmQXuZ7vwM1), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Brincando com Fogo](https://open.spotify.com/album/2Xv9Df1asCsT6jpNuc9s0t) | 2:28 |
 
-Snapshot ID: `AAAAABVthF0U8Ho92uBmZpRBoykeoMCI`
+Snapshot ID: `AAAAAMfSZSLfxlTYAv+nu75Dc6QZjclc`

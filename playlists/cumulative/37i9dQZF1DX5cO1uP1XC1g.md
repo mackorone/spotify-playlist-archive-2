@@ -2,7 +2,7 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The Hottest Arabic Music.<br/>Cover: Wael Kfoury
+> The Hottest Arabic Music.<br/>Cover: Saint Levant, Haifa Wehbe
 
 470 songs - 1 day 4 hr 3 min
 

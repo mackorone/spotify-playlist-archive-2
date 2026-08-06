@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: John Prine
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,555 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,590 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [I'll Fly Away \- From “O Brother, Where Art Thou” Soundtrack](https://open.spotify.com/track/7Jo1HP2CuphXWTyOF4aIUY) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7mNWca5S6eg21krZzHAoZt) | 3:58 |
 | 150 | [Custer](https://open.spotify.com/track/10BnuprYRPLfly2WVgFSGE) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Custer](https://open.spotify.com/album/4RTRHHgdFFlHrAWDCiwh3A) | 2:58 |
 
-Snapshot ID: `AAAAAFmeYs2mGcjml3aMi/LZkHHBVKtx`
+Snapshot ID: `AAAAAPy+l0scs72aZWvSFMHvGwK1jcPU`

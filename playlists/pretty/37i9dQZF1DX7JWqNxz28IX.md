@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,156 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,160 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 99 | [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 |
 | 100 | [Acqua Fredda](https://open.spotify.com/track/56uVp5ERZsLrZyhUbMTmzb) | [Leevio](https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O) | [Acqua Fredda](https://open.spotify.com/album/4AU5GCrPCn9DOyqS5XD36m) | 2:39 |
 
-Snapshot ID: `AAAAAEx2utBWBRK3NbL0WpQDIyUUICpQ`
+Snapshot ID: `AAAAAGp7XZFO5ihXDYjRl3IMKEcQSU7x`

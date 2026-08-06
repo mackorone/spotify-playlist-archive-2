@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > The new & hottest K\-Pop is here! \(Cover:  CORTIS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,126,190 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,125,034 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 50 | [Shut The Door](https://open.spotify.com/track/0EbfMfuMAPyFtv07DrRauE) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [YOUNGEST](https://open.spotify.com/album/6CEAKGPPKCVDnpSZ0VEhi1) | 2:51 |
 | 51 | [MOYA](https://open.spotify.com/track/1ACzcLe7HPprJQng3lu6qQ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 4:11 |
 
-Snapshot ID: `AAAAAGtjd6ydiT/sB5S13grGryXlWG1/`
+Snapshot ID: `AAAAALljc3l84UqFFy4NZnncx+pm/tMW`

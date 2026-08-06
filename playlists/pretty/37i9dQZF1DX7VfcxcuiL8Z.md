@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: C.O.F.F.I.N
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,321 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,306 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Coming On Strong](https://open.spotify.com/track/0803vH8x1peM7SxVODBhVn) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Coming On Strong](https://open.spotify.com/album/3oeSa6CphbMgzssPEUknVt) | 3:08 |
 | 80 | [Proud Daddy](https://open.spotify.com/track/7GYhyz8hQ8btugI4Uj0wZH) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Beneath The Surface](https://open.spotify.com/album/1iGRMwv01LJb3nJLeoQDh5) | 3:54 |
 
-Snapshot ID: `AAAAAEe8P0P/ZrA9TdaIN72dxaA7pF5L`
+Snapshot ID: `AAAAAJwyLvda5jQ89Bxi3hnOLq4W/zV5`

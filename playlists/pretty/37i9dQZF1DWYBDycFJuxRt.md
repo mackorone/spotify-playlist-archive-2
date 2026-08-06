@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 小袋成彬 & 5lack \*👉 <a href="https://spice.eplus.jp/articles/348059">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,147 likes - 98 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,101 likes - 99 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,31 +80,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 70 | [夏子](https://open.spotify.com/track/1JPw32yRsRjl5AErtXgERS) | [FUNKY MONKEY BΛBY'S](https://open.spotify.com/artist/2w4WfstEu2xDTe7y0vLhN9) | [夏子](https://open.spotify.com/album/3INbcWXB4fjKgTTZ55qPYw) | 3:32 |
 | 71 | [Semifinal](https://open.spotify.com/track/3RRHrZhWEvWDPjhYCbjGmH) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [Semifinal](https://open.spotify.com/album/5V6ktONqZy2CgLdzEJGEIy) | 3:13 |
 | 72 | [Gotcha](https://open.spotify.com/track/4WoOmL3WaqPjJ3fVYeIf5x) | [VIBY](https://open.spotify.com/artist/6yEmYNNxZJSWa52gCezahN) | [Gotcha](https://open.spotify.com/album/3iD5rjhlNPHA75DjykbJHF) | 3:12 |
-| 73 | [FADED](https://open.spotify.com/track/3SmbUfvLCYr3vAPsVMi9Bj) | [ExWHYZ](https://open.spotify.com/artist/0xOkccCl0pVdhuLBpcHDJx) | [FADED](https://open.spotify.com/album/04YUKGRMS3iQy9rgVLCPvc) | 4:21 |
-| 74 | [I'm Neo G](https://open.spotify.com/track/0lF32qezGFM6LjVDoiRzxx) | [Hiromi Go](https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh) | [I'm Neo G](https://open.spotify.com/album/59LZGVzEm4C6kdoPaZDHFI) | 3:02 |
-| 75 | [crazy journey](https://open.spotify.com/track/54tW87US34M0BNiB3hUrZ0) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [crazy journey](https://open.spotify.com/album/0wrfZgNABT6rBJyJr6oI5A) | 3:27 |
-| 76 | [サイダーガール](https://open.spotify.com/track/2nvD2x9hp9Lnh2eoSChe6l) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [サイダーガール](https://open.spotify.com/album/3k51ULfxZUPkzRLq7zSt4h) | 3:10 |
-| 77 | [北谷の観覧車](https://open.spotify.com/track/1tjX3okpgbxojIogaif3Cq) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [北谷の観覧車](https://open.spotify.com/album/0qOBlKpj2dGi8wGLsSLz5S) | 3:20 |
-| 78 | [JIMOTO](https://open.spotify.com/track/4RlUWu8KSLMPJCkhMW6htZ) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [JIMOTO](https://open.spotify.com/album/1uw7pWwVM3aG5R9cjb5p4t) | 2:01 |
-| 79 | [ATONANKAI](https://open.spotify.com/track/1ydRhe05gjaCiZgXlQsFuB) | [MERI](https://open.spotify.com/artist/7kF19icO61iKleRIfPsWoQ), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [ATONANKAI](https://open.spotify.com/album/2pXxzkRghtQOyG2LzwrAUM) | 2:34 |
-| 80 | [No way!](https://open.spotify.com/track/45iAkaLUT0ko59QrD3Gy9Y) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [No way!](https://open.spotify.com/album/3U2pMu24joWqZHXVZLUnVj) | 2:45 |
-| 81 | [Track 19](https://open.spotify.com/track/5j8Np84MJ0uUetSLEgdbhM) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [革命未遂の蝶が見る夢](https://open.spotify.com/album/7GsxQOuNna4DuY17bGpZG3) | 0:00 |
-| 82 | [正怒](https://open.spotify.com/track/0qR24H5qIu7ye6k3EOFfQI) | [八十八ヶ所巡礼](https://open.spotify.com/artist/2xhMF3pMn3tG66stJjeBv8) | [正怒](https://open.spotify.com/album/6co8qoNgGFx62ePzzJvB5A) | 4:41 |
-| 83 | [かなしい](https://open.spotify.com/track/026gy3GKvBugjPHJasGJ1U) | [the band apart](https://open.spotify.com/artist/6g7JH6zxP3JTfg7i8bZwbf) | [かなしい](https://open.spotify.com/album/14rKvaF6hjTpMBb9jR34QS) | 5:02 |
-| 84 | [Hakunetsu](https://open.spotify.com/track/21Ocen2rLPObQ6EaR7TqwW) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Sprout](https://open.spotify.com/album/2wG261o14OVBoKIZyosw9e) | 3:46 |
-| 85 | [ICE](https://open.spotify.com/track/6XQwEEHO52i2zXRhCNRRqa) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [ICE](https://open.spotify.com/album/0y4lLjEVhbTGYE1cWn90D2) | 3:55 |
-| 86 | [夏が嫌い](https://open.spotify.com/track/0z0JHPAlolvVluKnlqBup5) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [夏が嫌い](https://open.spotify.com/album/1xGiln3HxJOCzcJEHqbgBD) | 4:16 |
-| 87 | [My secret plum](https://open.spotify.com/track/3K3X5nWWe6eVx2i3tv0LkO) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [My secret plum](https://open.spotify.com/album/3KWyDrT14HJGZwrz39ET7q) | 4:11 |
-| 88 | [Atsui Natsu](https://open.spotify.com/track/1H19k1beXvcjLYNuZ5SwYe) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Atsui Natsu](https://open.spotify.com/album/1FpLHDNo8BbdnVbuSQ7F70) | 4:16 |
-| 89 | [君がさ](https://open.spotify.com/track/3QYqfEf4Qv1FuebmX9TDVp) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [君がさ](https://open.spotify.com/album/5T7NiwzZtJWFKEt4LcqH52) | 2:59 |
-| 90 | [君だけだ \- 2026](https://open.spotify.com/track/6DSVcSjHFnxnkJr7JoBZlu) | [Tomoyuki Nagasawa](https://open.spotify.com/artist/7mlYR5bDCOrTeiTN6J9rnk) | [Archives \#2](https://open.spotify.com/album/17pKiEuLEqWCMM8FtNuepK) | 5:12 |
-| 91 | [Pink](https://open.spotify.com/track/1CtmxRrG5eQhXIEo1nxENW) | [Pettosick](https://open.spotify.com/artist/4YW96zJaOwismfd0QXFlqM) | [Pink](https://open.spotify.com/album/6WuxzLJIxpvAwmHUNlsYKT) | 3:24 |
-| 92 | [浅い眠り](https://open.spotify.com/track/08WhVYtkU9MzL4fpBmjfjQ) | [HoSoVoSo](https://open.spotify.com/artist/7iIrHfIBAARkPX2T9nQg9g) | [浅い眠り](https://open.spotify.com/album/26qJCcSaOAkUXXpzqfbFvd) | 3:54 |
-| 93 | [safe](https://open.spotify.com/track/1cqWZCdqSbNUjKIdO1tIg6) | [midori jaeger](https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp) | [safe](https://open.spotify.com/album/6FH8XqRHHYzcw9vcMjeJv1) | 3:23 |
-| 94 | [恋でパラダイス](https://open.spotify.com/track/2RyrNI1aS9RpXnwM6OlNcr) | [Saori Yuki](https://open.spotify.com/artist/4xMe6s0HgL2CSpUpJO5bd6) | [恋でパラダイス](https://open.spotify.com/album/6JDG64iPqSq1CvNWuHt1B0) | 3:51 |
-| 95 | [Let it flow](https://open.spotify.com/track/3GF5YsSP26bfArQ5KbypRZ) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [Let it flow](https://open.spotify.com/album/7HkZ1iDkBQPsuymnkorYtX) | 3:54 |
-| 96 | [NIGHT\-RIDER X](https://open.spotify.com/track/7GSOaS6evMcBnb25wgoZQX) | [Ryo Takaiwa](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [NIGHT\-RIDER X](https://open.spotify.com/album/2jgd3guI6CJqucjXRjGJSI) | 4:41 |
-| 97 | [Happy Birthday](https://open.spotify.com/track/6ucM6zB9mIZ5Vwxvtm2sXD) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [Happy Birthday](https://open.spotify.com/album/7KkKCflAkOnSucZngnt4UZ) | 3:17 |
-| 98 | [禁断果実](https://open.spotify.com/track/5Chi41G2ECjNtp1yLLO5ji) | [The Märbles](https://open.spotify.com/artist/4Iul5IDg81rYyOPmHXojxx) | [禁断果実](https://open.spotify.com/album/3dOHuBxHIwRsQ75wNuV3zD) | 3:44 |
+| 73 | [X to Z \(Next to me\) \(Japanese ver.\)](https://open.spotify.com/track/7aQMHcPKeaYJ69sKVH3jom) | [AEN](https://open.spotify.com/artist/4FDIcy85KVTaLw8TCGFpJQ) | [A NEW ERA OF NOW](https://open.spotify.com/album/7guNJQC9dvSsuvCf8shTVQ) | 3:05 |
+| 74 | [FADED](https://open.spotify.com/track/3SmbUfvLCYr3vAPsVMi9Bj) | [ExWHYZ](https://open.spotify.com/artist/0xOkccCl0pVdhuLBpcHDJx) | [FADED](https://open.spotify.com/album/04YUKGRMS3iQy9rgVLCPvc) | 4:21 |
+| 75 | [I'm Neo G](https://open.spotify.com/track/0lF32qezGFM6LjVDoiRzxx) | [Hiromi Go](https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh) | [I'm Neo G](https://open.spotify.com/album/59LZGVzEm4C6kdoPaZDHFI) | 3:02 |
+| 76 | [crazy journey](https://open.spotify.com/track/54tW87US34M0BNiB3hUrZ0) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [crazy journey](https://open.spotify.com/album/0wrfZgNABT6rBJyJr6oI5A) | 3:27 |
+| 77 | [サイダーガール](https://open.spotify.com/track/2nvD2x9hp9Lnh2eoSChe6l) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [サイダーガール](https://open.spotify.com/album/3k51ULfxZUPkzRLq7zSt4h) | 3:10 |
+| 78 | [北谷の観覧車](https://open.spotify.com/track/1tjX3okpgbxojIogaif3Cq) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [北谷の観覧車](https://open.spotify.com/album/0qOBlKpj2dGi8wGLsSLz5S) | 3:20 |
+| 79 | [JIMOTO](https://open.spotify.com/track/4RlUWu8KSLMPJCkhMW6htZ) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [JIMOTO](https://open.spotify.com/album/1uw7pWwVM3aG5R9cjb5p4t) | 2:01 |
+| 80 | [ATONANKAI](https://open.spotify.com/track/1ydRhe05gjaCiZgXlQsFuB) | [MERI](https://open.spotify.com/artist/7kF19icO61iKleRIfPsWoQ), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [ATONANKAI](https://open.spotify.com/album/2pXxzkRghtQOyG2LzwrAUM) | 2:34 |
+| 81 | [No way!](https://open.spotify.com/track/45iAkaLUT0ko59QrD3Gy9Y) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [No way!](https://open.spotify.com/album/3U2pMu24joWqZHXVZLUnVj) | 2:45 |
+| 82 | [エンジン](https://open.spotify.com/track/5j8Np84MJ0uUetSLEgdbhM) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [革命未遂の蝶が見る夢](https://open.spotify.com/album/7GsxQOuNna4DuY17bGpZG3) | 3:43 |
+| 83 | [正怒](https://open.spotify.com/track/0qR24H5qIu7ye6k3EOFfQI) | [八十八ヶ所巡礼](https://open.spotify.com/artist/2xhMF3pMn3tG66stJjeBv8) | [正怒](https://open.spotify.com/album/6co8qoNgGFx62ePzzJvB5A) | 4:41 |
+| 84 | [かなしい](https://open.spotify.com/track/026gy3GKvBugjPHJasGJ1U) | [the band apart](https://open.spotify.com/artist/6g7JH6zxP3JTfg7i8bZwbf) | [かなしい](https://open.spotify.com/album/14rKvaF6hjTpMBb9jR34QS) | 5:02 |
+| 85 | [Hakunetsu](https://open.spotify.com/track/21Ocen2rLPObQ6EaR7TqwW) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Sprout](https://open.spotify.com/album/2wG261o14OVBoKIZyosw9e) | 3:46 |
+| 86 | [ICE](https://open.spotify.com/track/6XQwEEHO52i2zXRhCNRRqa) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [ICE](https://open.spotify.com/album/0y4lLjEVhbTGYE1cWn90D2) | 3:55 |
+| 87 | [夏が嫌い](https://open.spotify.com/track/0z0JHPAlolvVluKnlqBup5) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [夏が嫌い](https://open.spotify.com/album/1xGiln3HxJOCzcJEHqbgBD) | 4:16 |
+| 88 | [My secret plum](https://open.spotify.com/track/3K3X5nWWe6eVx2i3tv0LkO) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [My secret plum](https://open.spotify.com/album/3KWyDrT14HJGZwrz39ET7q) | 4:11 |
+| 89 | [Atsui Natsu](https://open.spotify.com/track/1H19k1beXvcjLYNuZ5SwYe) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Atsui Natsu](https://open.spotify.com/album/1FpLHDNo8BbdnVbuSQ7F70) | 4:16 |
+| 90 | [君がさ](https://open.spotify.com/track/3QYqfEf4Qv1FuebmX9TDVp) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [君がさ](https://open.spotify.com/album/5T7NiwzZtJWFKEt4LcqH52) | 2:59 |
+| 91 | [君だけだ \- 2026](https://open.spotify.com/track/6DSVcSjHFnxnkJr7JoBZlu) | [Tomoyuki Nagasawa](https://open.spotify.com/artist/7mlYR5bDCOrTeiTN6J9rnk) | [Archives \#2](https://open.spotify.com/album/17pKiEuLEqWCMM8FtNuepK) | 5:12 |
+| 92 | [Pink](https://open.spotify.com/track/1CtmxRrG5eQhXIEo1nxENW) | [Pettosick](https://open.spotify.com/artist/4YW96zJaOwismfd0QXFlqM) | [Pink](https://open.spotify.com/album/6WuxzLJIxpvAwmHUNlsYKT) | 3:24 |
+| 93 | [浅い眠り](https://open.spotify.com/track/08WhVYtkU9MzL4fpBmjfjQ) | [HoSoVoSo](https://open.spotify.com/artist/7iIrHfIBAARkPX2T9nQg9g) | [浅い眠り](https://open.spotify.com/album/26qJCcSaOAkUXXpzqfbFvd) | 3:54 |
+| 94 | [safe](https://open.spotify.com/track/1cqWZCdqSbNUjKIdO1tIg6) | [midori jaeger](https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp) | [safe](https://open.spotify.com/album/6FH8XqRHHYzcw9vcMjeJv1) | 3:23 |
+| 95 | [恋でパラダイス](https://open.spotify.com/track/2RyrNI1aS9RpXnwM6OlNcr) | [Saori Yuki](https://open.spotify.com/artist/4xMe6s0HgL2CSpUpJO5bd6) | [恋でパラダイス](https://open.spotify.com/album/6JDG64iPqSq1CvNWuHt1B0) | 3:51 |
+| 96 | [Let it flow](https://open.spotify.com/track/3GF5YsSP26bfArQ5KbypRZ) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [Let it flow](https://open.spotify.com/album/7HkZ1iDkBQPsuymnkorYtX) | 3:54 |
+| 97 | [NIGHT\-RIDER X](https://open.spotify.com/track/7GSOaS6evMcBnb25wgoZQX) | [Ryo Takaiwa](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [NIGHT\-RIDER X](https://open.spotify.com/album/2jgd3guI6CJqucjXRjGJSI) | 4:41 |
+| 98 | [Happy Birthday](https://open.spotify.com/track/6ucM6zB9mIZ5Vwxvtm2sXD) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [Happy Birthday](https://open.spotify.com/album/7KkKCflAkOnSucZngnt4UZ) | 3:17 |
+| 99 | [禁断果実](https://open.spotify.com/track/5Chi41G2ECjNtp1yLLO5ji) | [The Märbles](https://open.spotify.com/artist/4Iul5IDg81rYyOPmHXojxx) | [禁断果実](https://open.spotify.com/album/3dOHuBxHIwRsQ75wNuV3zD) | 3:44 |
 
-Snapshot ID: `AAAAANJ524eBVMNhVWMh0vRfxvldOPn5`
+Snapshot ID: `AAAAAHDT1kH1wZ3Gxym0I1PK42+pIGyW`

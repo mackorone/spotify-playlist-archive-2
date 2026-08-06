@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Abbie Gamboa
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,040 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,045 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 32 | [Wait On The Lord](https://open.spotify.com/track/0h5jjjBxU7q8Uv6LyGXabN) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Wait On The Lord](https://open.spotify.com/album/51LgB6q6ZthoNHPKdHbb7Y) | 3:25 |
 | 33 | [Different Kinda Love](https://open.spotify.com/track/2Nqx0Fafw3AtgU0XSKRt2N) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Different Kinda Love](https://open.spotify.com/album/32gsKasYr9PP9ciQsOTR4q) | 3:11 |
 | 34 | [Eve Of A Miracle](https://open.spotify.com/track/3wSk86I7OBeoTJWXSZr1Na) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Eve Of A Miracle](https://open.spotify.com/album/2mOBJ0oBQEzQCgcnNbhikU) | 3:38 |
-| 35 | [STILL RUNNING TO YOU](https://open.spotify.com/track/4LnePDkoMbuSVfHRnc4Hhu) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Still Running To You](https://open.spotify.com/album/2HFD80cz07re5kYrtRSSCg) | 2:59 |
+| 35 | [STILL RUNNING TO YOU](https://open.spotify.com/track/4LnePDkoMbuSVfHRnc4Hhu) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Still Running to You](https://open.spotify.com/album/2HFD80cz07re5kYrtRSSCg) | 2:59 |
 | 36 | [Jesus Over Everything](https://open.spotify.com/track/3CmSJA1TslbtlScrR9ZAfK) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Jesus Over Everything](https://open.spotify.com/album/695qAHT567ls4hV2WyGt8f) | 3:32 |
 | 37 | [belief](https://open.spotify.com/track/00RJUxqmSh4UFm0NHOCAV2) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [belief](https://open.spotify.com/album/2zHvAXT8cLsC0QW96LsSS6) | 2:49 |
 | 38 | [I've Got A Fire](https://open.spotify.com/track/6yj2intfyAz3JhxaZvEjim) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/2oGldW4w8iBH7mRAvNIWwk) | 3:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 79 | [When You Give It Up](https://open.spotify.com/track/5d70RGXlCzwqQl5WLV6Wpk) | [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [When You Give It Up](https://open.spotify.com/album/174U4t8jS0tRqjhpXlgBMh) | 2:42 |
 | 80 | [Though War Break Out Against Me](https://open.spotify.com/track/2mVKWnnVVULQKkQGDFGmC1) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Though War Break Out Against Me](https://open.spotify.com/album/4zZeVsP8r9geYWWWYaBTjG) | 4:25 |
 
-Snapshot ID: `AAAAAKuf1cmc274Vu76D5xpid1Yn5Io1`
+Snapshot ID: `AAAAAMostNmrJEVZX8XEjw4BA0vJL+8e`

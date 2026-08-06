@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,252 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,253 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [The Hardest Thing](https://open.spotify.com/track/1esXEYlMNJfaeO03HggvI6) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [The Hardest Thing](https://open.spotify.com/album/2PLZ9hI8mDeub9AFbltuo2) | 3:56 |
 | 80 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
 
-Snapshot ID: `AAAAAJL1LAUV/2Ef0hpFeYicrydgaG26`
+Snapshot ID: `AAAAAG59H+pErFqEnEMCFyMgWqcWPQ21`

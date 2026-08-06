@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,467,642 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,467,497 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Colibri](https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0), [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO) | [Colibri](https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S) | 3:32 |
 | 80 | [You and I](https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm) | [MANTIS](https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa) | [GeGe E.P.](https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX) | 3:32 |
 
-Snapshot ID: `AAAAABwR3LVKshFOo3/EzhvCFnoKDbxc`
+Snapshot ID: `AAAAANOkkyNioITaDoC3F4fo1wPBW9BO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,175 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,237 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [No Rules](https://open.spotify.com/track/55CHDLmvvmU1WPKuHDYsFf) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [No Rules EP](https://open.spotify.com/album/1S28FFZL59GgcUChSBfZBl) | 3:50 |
 | 60 | [Tonight](https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Tonight](https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh) | 3:33 |
 
-Snapshot ID: `AAAAAHFWqrzBYTKLZGn2VnlP+lc5h/YV`
+Snapshot ID: `AAAAAP+d5GOpn/Cn/u0y6Fnp/ck0aT+A`

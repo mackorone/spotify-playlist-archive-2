@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,404 likes - 97 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,361 likes - 97 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 96 | [Burning](https://open.spotify.com/track/6WOWQrs4IvRLl45PPsIK43) | [Mashoe](https://open.spotify.com/artist/1XdGFjb61yarGAmSPuvLN7) | [Burning](https://open.spotify.com/album/462WUinJ4xH1QPnIiQ3zGb) | 4:03 |
 | 97 | [Only One](https://open.spotify.com/track/4lthtFNXXZZmRPdS1BlIpu) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Only One](https://open.spotify.com/album/5hyb010Cm1neU0k5l4zdSl) | 3:13 |
 
-Snapshot ID: `AAAAABTPOQxAydjsTADv9F7WtvwasfSU`
+Snapshot ID: `AAAAAH7GZ7nMeISJePfEVUT+lS9/kJhE`

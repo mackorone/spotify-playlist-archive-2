@@ -1,12 +1,12 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Johnny Clegg",
-  "num_followers": 14454,
+  "num_followers": 14458,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABqUD4Ub3qujXMLLAU7g3OPvO2s+",
+  "snapshot_id": "AAAAAElcQLuaAJUxQXXZh+UXT9iPIbMK",
   "tracks": [
     {
       "added_at": "2026-08-03 08:07:02",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-08-03 08:07:02",
       "album": {
+        "name": "Doodle Do - Diminished Light",
+        "url": "https://open.spotify.com/album/0Q9DsJOyrb0BoH9KnViXie"
+      },
+      "artists": [
+        {
+          "name": "Pilani Bubu",
+          "url": "https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Doodle Do - Diminished Light",
+      "url": "https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s"
+    },
+    {
+      "added_at": "2026-08-03 08:07:02",
+      "album": {
         "name": "Tones of Epiphany",
         "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 199480,
       "name": "Our People",
       "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
-    },
-    {
-      "added_at": "2026-08-03 08:07:02",
-      "album": {
-        "name": "Doodle Do - Diminished Light",
-        "url": "https://open.spotify.com/album/0Q9DsJOyrb0BoH9KnViXie"
-      },
-      "artists": [
-        {
-          "name": "Pilani Bubu",
-          "url": "https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Doodle Do - Diminished Light",
-      "url": "https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s"
     },
     {
       "added_at": "2026-08-03 08:07:02",

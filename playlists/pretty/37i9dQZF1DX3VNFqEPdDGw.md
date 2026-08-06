@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Inderpal Moga, Intense, Jazzy B & Chani Nattan
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,330 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,333 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 99 | [GT Road](https://open.spotify.com/track/3nA63JVZMYAgWizQVGHyQ4) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [GT Road](https://open.spotify.com/album/39dY7pVHwpoyndxNjtxwPI) | 2:32 |
 | 100 | [Gal Naal Laa](https://open.spotify.com/track/3JaNmG23kZiW9MIj4Bpysa) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON) | [Gal Naal Laa](https://open.spotify.com/album/35A1NIK2cwHBS5FMT253MV) | 2:52 |
 
-Snapshot ID: `AAAAAKJxIETfB4mf5c+4FIxeql0/NpQD`
+Snapshot ID: `AAAAAFBaPmtglx2P24WMiIpAhuiYJ96Q`

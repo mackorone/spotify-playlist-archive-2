@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Eric Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,374 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,377 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 99 | [Hard Times \- Live](https://open.spotify.com/track/3WSOOKrJmKEG4TY34Mg1yb) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [At the Ryman \(Live\)](https://open.spotify.com/album/6QU3H8XFMeYIylEhEFmIIy) | 3:25 |
 | 100 | [Drinkin' Problem \- Live From Red Rocks](https://open.spotify.com/track/4naDfPPsElr2GuaX4nxcuG) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Drinkin' Problem \(Live From Red Rocks\)](https://open.spotify.com/album/0jEWne1bCq6uPwlAE8YeAl) | 4:37 |
 
-Snapshot ID: `AAAAAMmcYcoBBPkTFmy2XJw+mMywJAKx`
+Snapshot ID: `AAAAAAUxANE4xwDGe53o3K2oUNMVjGzz`

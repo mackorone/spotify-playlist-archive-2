@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,270 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,300 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 49 | [ABC's](https://open.spotify.com/track/1HVy2hV1wg27NB6LCVBxPi) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Tunes, Vol\. 1](https://open.spotify.com/album/2Q6P6UWGxdZxsUZZgzikmJ) | 1:15 |
 | 50 | [Shake My Sillies Out](https://open.spotify.com/track/2J57hWtC2Bg8jay51dbq9F) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Play School: 50 Best Songs](https://open.spotify.com/album/0JurDgXQP9DayhLcQTvCsJ) | 0:45 |
 
-Snapshot ID: `AAAAANLi46CO3DeWcgqp5rS+Two0Z+hW`
+Snapshot ID: `AAAAALsQQFtFEaPbeIaqeV5DUcN3lKKL`

@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 49 | [man up](https://open.spotify.com/track/6oTDRraYxQpYK8ZCMBIapW) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [man up](https://open.spotify.com/album/0b5qj17fBxBKqbhc1WX5vE) | 2:59 |
 | 50 | [ROCKSTAR RIDER](https://open.spotify.com/track/5oLTmlAYDjBtJgjkkJGxGn) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [ROCKSTAR RIDER](https://open.spotify.com/album/50hInZyNdoNvVSrp1V9viP) | 2:44 |
 
-Snapshot ID: `AAAAAKNOt9d9YNrB3GWsQV22AmnRmofq`
+Snapshot ID: `AAAAANvQQ3pt984jnNMW2NkODJR3M2sd`

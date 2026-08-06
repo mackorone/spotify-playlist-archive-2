@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Na9FTYame5.md) - [plain]
 
 > Deutschrap für die emotions\. Cover: Mucco
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,292 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,205 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Na9FTYame5.md) - [plain]
 | 99 | [Keine Helden](https://open.spotify.com/track/3hvT7LmndHeQ8dIPFXe4HU) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Keine Helden](https://open.spotify.com/album/11AkC0fCpMYZ6Ef4NK0wHK) | 3:05 |
 | 100 | [Elbe](https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy) | [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Elbe](https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg) | 3:15 |
 
-Snapshot ID: `AAAAAO98oQMpS7J24B2D/mQfAv3hnO8s`
+Snapshot ID: `AAAAAKbwqANm4mB4EOWi0KBmRrJh79uE`

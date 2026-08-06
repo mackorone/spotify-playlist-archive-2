@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Mary Ann Alexander",
-  "num_followers": 196823,
+  "num_followers": 196949,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMVcWor1IaI+/NqQgEx3oP3TcsRt",
+  "snapshot_id": "AAAAAPcX7AWe1KGaI9w543IA6BDcQuBo",
   "tracks": [
     {
       "added_at": "2026-07-31 05:15:47",
@@ -1314,6 +1314,10 @@
         {
           "name": "Kartik Raman",
           "url": "https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc"
+        },
+        {
+          "name": "Vinayak Raman Krishnamurthy",
+          "url": "https://open.spotify.com/artist/2cj1ZOGcrt32VfxqWALf0d"
         }
       ],
       "duration_ms": 240870,

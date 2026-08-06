@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Gracias por la música, Eddie Palmieri 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,329 likes - 100 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,291 likes - 100 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Canción Con Todos](https://open.spotify.com/track/2gIVZ8hTq4ZxvMnIj28k1r) | [Edmar Castañeda](https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90) | [Family](https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi) | 5:07 |
 | 100 | [Quítate de la Vía, Perico](https://open.spotify.com/track/6VlqmHJ356t7kvTGWbDQQk) | [Miguel Zenón](https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj) | [Sonero: The Music of Ismael Rivera](https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP) | 7:07 |
 
-Snapshot ID: `AAAAAP/k2gLum32vLjnn0xPct8w3JjoJ`
+Snapshot ID: `AAAAAAr8zHiDHHy5GP/XeoC1mDyY8j7l`

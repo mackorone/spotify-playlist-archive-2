@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: J18
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,286 likes - 95 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,288 likes - 95 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 94 | [Ya no tengo tiempo](https://open.spotify.com/track/3iEbNGfx4cHI1ugyWVhqoA) | [Fran Aliss](https://open.spotify.com/artist/3PlgEHWfJplE2qFIVCls6E) | [Ya no tengo tiempo](https://open.spotify.com/album/7dWhoU3NxwZ0Hf2G0cGOwZ) | 3:58 |
 | 95 | [Niño Bosque](https://open.spotify.com/track/3NgFZGH2w9BqkNVyxsBP1X) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Niño Bosque](https://open.spotify.com/album/0X7lBPRO37oNovgx6tdPN5) | 2:56 |
 
-Snapshot ID: `AAAAAJzrpkCA0Po1nXmymOkgBiAewZt4`
+Snapshot ID: `AAAAANYkxjljz7qR0zsXbvwjkMlPALEc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,273 likes - 200 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,257 likes - 200 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 199 | [Another Day Another Moon](https://open.spotify.com/track/4SKY9UeWcdV3stPDXjNxUO) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Another Day Another Moon](https://open.spotify.com/album/3poftEIIhJAPGjgEqbBq6F) | 3:42 |
 | 200 | [Peace In The Dark](https://open.spotify.com/track/0M19QAbec6PjqSgxGnthqH) | [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Social Commentary](https://open.spotify.com/album/4CDA6a2Q1kUSSOlEXcX0nW) | 4:45 |
 
-Snapshot ID: `AAAAAKfiByZnuXhSEJP9PrnW3ZGiSWei`
+Snapshot ID: `AAAAAJ7uF22eEu05CvLlLZmuK1bFFWFS`

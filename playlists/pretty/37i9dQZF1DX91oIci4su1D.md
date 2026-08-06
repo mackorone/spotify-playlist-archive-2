@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,627 likes - 125 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,727 likes - 125 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 | 124 | [Don't You Go Hard?!](https://open.spotify.com/track/5SyWrtM96kjUrzh23R89eP) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Don't You Go Hard?!](https://open.spotify.com/album/5MESnRNAp29gV9o7IyUhcA) | 2:22 |
 | 125 | [Don't Give Up](https://open.spotify.com/track/6X6VfWNIwggxsqcDlHsC5M) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Don't Give Up](https://open.spotify.com/album/6k04ReQfN1QF9MGZ6XmGEG) | 3:14 |
 
-Snapshot ID: `AAAAAIDpYC+O1qWH1to/QMsTeiPUp2Ib`
+Snapshot ID: `AAAAAMmFRaP8U7bjMZHZ9lfjTkN6Ihz4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe  📸 RUGGERO
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,308 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,305 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 99 | [No siempre quedará París \- Remix](https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No siempre quedará París \(Remix\)](https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q) | 3:06 |
 | 100 | [Rabia del Corazón \- Spotify Sessions](https://open.spotify.com/track/09bdneL61K2znTspwtQYeG) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BLAIR \- Spotify Sessions](https://open.spotify.com/album/3i0tFySe2LNwrrMJ430gLT) | 4:49 |
 
-Snapshot ID: `AAAAAOQO+NdJsAL5iWV3bfN8HLoaFvKN`
+Snapshot ID: `AAAAAKWEGpTRY58SrywrTwUerMNl8KDY`

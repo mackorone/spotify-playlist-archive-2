@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Turn this playlist all the way up! Featuring T.I., Fenix Flexin, Shaboozey &amp; more.",
+  "description": "Turn this playlist all the way up! Featuring SOB x RBE, T.I., Fenix Flexin, Shaboozey &amp; more.",
   "name": "All The Way Up",
   "tracks": [
     {
@@ -4418,6 +4418,36 @@
       "duration_ms": 117841,
       "name": "Talkin Bout",
       "url": "https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO"
+    },
+    {
+      "album": {
+        "name": "Ten Summers",
+        "url": "https://open.spotify.com/album/0Ynh3XpDbQScbiO1DMmTou"
+      },
+      "artists": [
+        {
+          "name": "SOB X RBE",
+          "url": "https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h"
+        },
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        },
+        {
+          "name": "Yhung T.O.",
+          "url": "https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l"
+        },
+        {
+          "name": "Slimmy B",
+          "url": "https://open.spotify.com/artist/0BfxMYdkqRuwPXsSwEf5RE"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149862,
+      "name": "Ten Summers",
+      "url": "https://open.spotify.com/track/3L2hQwHU9Sof8srRsgwrNu"
     },
     {
       "album": {

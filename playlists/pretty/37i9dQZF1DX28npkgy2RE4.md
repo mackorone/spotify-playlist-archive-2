@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,455 likes - 150 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,427 likes - 150 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 138 | [Crazy](https://open.spotify.com/track/6SDYoxCRLB3nuaq9mEKpgk) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Crazy](https://open.spotify.com/album/1tvSxaTCXwwBK6vEYnj06T) | 3:52 |
 | 139 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 |
 | 140 | [Greatest Weapon](https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Greatest Weapon / Under The Water](https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo) | 2:54 |
-| 141 | [Dreamer](https://open.spotify.com/track/3ZKCzPpeAm1EbwDkVMvYE7) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Dreamer](https://open.spotify.com/album/7IepJT6QQV379tlsxJm0Eb) | 4:54 |
-| 142 | [Buzz The Leaf](https://open.spotify.com/track/1QLkRZhST9p1k4Xe3SL6nR) | [Dream Sitch](https://open.spotify.com/artist/3AZpyYJGXnWdPPwrGniSdF), [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs), [Floating Action](https://open.spotify.com/artist/01Ru0hfWYNVxQHtFkvYY7r) | [Buzz The Leaf](https://open.spotify.com/album/3bkZxrc6DGqLh5soumIC2b) | 3:34 |
+| 141 | [Buzz The Leaf](https://open.spotify.com/track/1QLkRZhST9p1k4Xe3SL6nR) | [Dream Sitch](https://open.spotify.com/artist/3AZpyYJGXnWdPPwrGniSdF), [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs), [Floating Action](https://open.spotify.com/artist/01Ru0hfWYNVxQHtFkvYY7r) | [Buzz The Leaf](https://open.spotify.com/album/3bkZxrc6DGqLh5soumIC2b) | 3:34 |
+| 142 | [Dreamer](https://open.spotify.com/track/3ZKCzPpeAm1EbwDkVMvYE7) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Dreamer](https://open.spotify.com/album/7IepJT6QQV379tlsxJm0Eb) | 4:54 |
 | 143 | [The Weakness in Me](https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:42 |
 | 144 | [All Of The Women \[Feat\. Sa\-Roc\] \- dim star remix](https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Sa\-Roc](https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg), [dim star](https://open.spotify.com/artist/3XH0xpgD87ICnmkcvi1Vq3) | [All Of The Women \[Feat\. Sa\-Roc\] \(dim star remix\)](https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK) | 4:39 |
 | 145 | [Promises](https://open.spotify.com/track/7z2MAtdSKCY0bAVy2ItYP0) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/27yHVnSUoOngzMAwwPA0ks) | 3:59 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Holding to the Edge of Night](https://open.spotify.com/track/2xQRU3yzgKLWePziCfk4JC) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Holding to the Edge of Night](https://open.spotify.com/album/179Hyos6TP14mIZAMplcaI) | 4:43 |
 | 150 | [Forever Had to End](https://open.spotify.com/track/1y8vdU1RBpQCIXp1tphNgb) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Forever Had to End](https://open.spotify.com/album/5ytUlTMjhqqyptHuseHrxW) | 3:42 |
 
-Snapshot ID: `AAAAAD8ZGRM3Zktn1ybQENYjag3NHTQi`
+Snapshot ID: `AAAAAKEbbOk2hyO9dylYZElAQdDwcK2R`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,325 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,334 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 49 | [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 |
 | 50 | [Divine excuse](https://open.spotify.com/track/0e5gaFZGe4hYscBzPBlc80) | [Pleymo](https://open.spotify.com/artist/5prz4Rf3RVDOFpBWrtUfKC) | [Rock](https://open.spotify.com/album/0XIipB9fUUu9aQ9W3U8CHk) | 3:30 |
 
-Snapshot ID: `AAAAAHBDqXD6IPtPGPcmU0UzQ+NuayaC`
+Snapshot ID: `AAAAAA1edXq8uqXmjCvmZnccPrXFh3cz`

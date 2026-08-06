@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Oskar Cyms
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,767 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,818 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [SZAFIR](https://open.spotify.com/track/7BatFXCqRYHyKtcvVgZnJT) | [Kasia DVD ✧](https://open.spotify.com/artist/2JOXsgxJjwrpoELAOqhQuL) | [SZAFIR](https://open.spotify.com/album/5Yds4ZpgQ1aVKdqn3PoDMW) | 2:50 |
 | 60 | [Tracimy tylko czas](https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Tracimy tylko czas](https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk) | 3:01 |
 
-Snapshot ID: `AAAAAH1jCefbKQXzVaW9PYRjKKIdLeYm`
+Snapshot ID: `AAAAAIJGaaEXMdbmCEOCemHxoukXn5rs`

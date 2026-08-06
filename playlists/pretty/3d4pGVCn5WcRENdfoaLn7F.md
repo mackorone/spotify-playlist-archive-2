@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 818 likes - 97 songs - 5 hr 38 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 818 likes - 99 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 95 | [Loser](https://open.spotify.com/track/5ksHTPVHRiLAXsXnJPZbAF) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 3:13 |
 | 96 | [Pride](https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:32 |
 | 97 | [Start Again](https://open.spotify.com/track/4Rr8Ohu3YyBtrcqfRmP1GI) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Before Dawn](https://open.spotify.com/album/1Go3wfxRNGAc870RqO2IHP) | 3:19 |
+| 98 | [Ocean of memories](https://open.spotify.com/track/21wG9vymoc022N5TLw8eNL) | [Slim Dragon](https://open.spotify.com/artist/312cwwaEcsB3saZEWLyQEO) | [Ocean of memories](https://open.spotify.com/album/4UOVCRIXxE9dtSndPTzfvB) | 3:22 |
+| 99 | [Get Loud](https://open.spotify.com/track/2zcVXazWslVP2YuZjRZkGH) | [Nuisance](https://open.spotify.com/artist/0EmWdAiVab7qmYaatq6Ttb) | [Get Loud](https://open.spotify.com/album/2zod2UcANo2xffg6EU3amr) | 2:21 |
 
-Snapshot ID: `AAAD2mKraYIRL2X/wSHBC0n/fLyBccnK`
+Snapshot ID: `AAAD3GfSPYDuFYmNmD9CcrhRyRyknP/f`

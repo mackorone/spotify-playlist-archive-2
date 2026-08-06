@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,241,391 likes - 150 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,240,609 likes - 150 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 149 | [Anaconda](https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Anaconda](https://open.spotify.com/album/3bYo2FlkgCAdGQxsKbu3lq) | 3:36 |
 | 150 | [Opalite \- Chris Lake Remix](https://open.spotify.com/track/0ttGLmxI0mAkMblE6iRm2S) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Opalite \(Chris Lake Remix\)](https://open.spotify.com/album/1OioQUIAwZ6PE2V7UJUHX2) | 3:48 |
 
-Snapshot ID: `AAAAAG/TBX5LBqi/sB8U98hn0ffik2q6`
+Snapshot ID: `AAAAAMBpWmvdos0fBDm13XN++x0tBmK/`

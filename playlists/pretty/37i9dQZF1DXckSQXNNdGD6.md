@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Sofía Cristo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,632 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,630 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 49 | [TKM CNT XFA](https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [TKM CNT XFA](https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q) | 3:32 |
 | 50 | [M'agrada, I like it, J'adore](https://open.spotify.com/track/2EHcivRAATzFC6ZZTPel2M) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO) | [M'agrada, I like it, J'adore](https://open.spotify.com/album/66sCpNTloVw5JUK8NPlUao) | 3:12 |
 
-Snapshot ID: `AAAAACsuLe4w/Dj6sS5zN4VoSl80r56D`
+Snapshot ID: `AAAAAHJeWbWiXUxY7Ol2E33jzCuVWHvk`

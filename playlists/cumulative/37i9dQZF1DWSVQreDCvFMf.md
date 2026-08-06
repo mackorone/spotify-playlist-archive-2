@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: KZ Tandingan
 
-1,018 songs - 2 day 14 hr 51 min
+1,019 songs - 2 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,6 +774,7 @@
 | [Sa Walang Hanggan](https://open.spotify.com/track/51M0GSzpTPuCBK2pQIiVcc) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY), [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Sa Walang Hanggan](https://open.spotify.com/album/300Q4DS2z7WHxexjY4js3O) | 3:53 | 2026-04-17 | 2026-06-20 |
 | [Sa'yo Bumabalik](https://open.spotify.com/track/35YfRQNWOs5xxkfOkP1LsG) | [Ice Seguerra](https://open.spotify.com/artist/19X3R5eJguNYE8lwDZZWV9) | [Sa'yo Bumabalik](https://open.spotify.com/album/3yLYzhoE0Sbk6dQoBO8xVq) | 3:47 | 2026-06-26 |  |
 | [sa'yo lang ako](https://open.spotify.com/track/6gl8db5gr51ITIwYosHnTG) | [Liel](https://open.spotify.com/artist/1jrYfEdTDqMZBPQpXzEBlG) | [sa'yo lang ako](https://open.spotify.com/album/5GC1fDRnzPpqBmBusaHFEM) | 3:34 | 2026-05-18 | 2026-07-29 |
+| [SAAKIN](https://open.spotify.com/track/3HgZaNPlAc1rdUg8VBHTWY) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [SAAKIN](https://open.spotify.com/album/62EZ4UCjtnGcuovvdvLE59) | 3:40 | 2026-08-05 |  |
 | [Saan Kailan](https://open.spotify.com/track/7GbqUtNW0doan3gDIvCvO0) | [Jarlo Bâse](https://open.spotify.com/artist/2odU1lHxg0bAqLrlGZ45Vc) | [Saan Kailan](https://open.spotify.com/album/3hoElwU0nvOovSKpaOfZC6) | 3:24 | 2025-09-19 | 2025-11-29 |
 | [Saan\-saan](https://open.spotify.com/track/63gFonBTMqMR8BRJz0qVXp) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [LUXEMBOURG](https://open.spotify.com/album/7kZMLlLjTEFwJ7NNmjxYcj) | 4:13 | 2026-04-01 | 2026-05-19 |
 | [Sabado Night](https://open.spotify.com/track/5RtqAvmQOp8gD6enenvW6Y) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Sabado Night](https://open.spotify.com/album/6A7IfJzNrlkXefG47fUNp6) | 3:00 | 2024-08-09 | 2024-11-09 |

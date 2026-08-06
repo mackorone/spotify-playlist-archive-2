@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Nora Gonzalez
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,688 likes - 107 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,447 likes - 107 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 106 | [Llámame](https://open.spotify.com/track/3epYKxNu8M9NWbQw4xGSBQ) | [Ximena Castillo](https://open.spotify.com/artist/2nwTpQh0MCA68YOmNw5TJC) | [Llámame](https://open.spotify.com/album/2iiS8LdnVfyNSs2yrtdC4X) | 3:12 |
 | 107 | [El Conejo De La Luna](https://open.spotify.com/track/0mOoIPkofPXdxAC4ZIjt34) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Mariachi Romanza de Rodrigo Rodriguez](https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL) | [Run Gūey](https://open.spotify.com/album/1uPT6nqizAziQXfE3asZqt) | 3:38 |
 
-Snapshot ID: `AAAAAL1eIBplMOwsVtwyAZ2oJL6+xdzR`
+Snapshot ID: `AAAAAJw4N6nZPcPfKqRV1nmt//YVJA6b`

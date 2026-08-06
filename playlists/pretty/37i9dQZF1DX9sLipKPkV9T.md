@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר:ניר כנען
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,139 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,144 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [להרגיש אישה](https://open.spotify.com/track/1AXGDvHW1Ksg4bIwG9H6iR) | [Gil Vain](https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj), [נופיה](https://open.spotify.com/artist/0rHxmqmqlCy0dQs0UqRq9q) | [להרגיש אישה](https://open.spotify.com/album/6PMMqQCQ1pI8yAxW8NFauD) | 2:27 |
 | 50 | [לא הצלחתי לרקוד](https://open.spotify.com/track/3jPqSkOWtxmRHG1nexDWBa) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [כל מה שעוזר](https://open.spotify.com/artist/2PAjCGmElG2oGRlrLkPdCu) | [לא הצלחתי לרקוד](https://open.spotify.com/album/2dNPbdzRhnGp5A4RFQ8f9E) | 3:24 |
 
-Snapshot ID: `AAAAAHKg/bBnazGHLbico9GLxHFylGXU`
+Snapshot ID: `AAAAAFrP411oBJFAKaILmLgzYooCgoe+`

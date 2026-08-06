@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 | 56 | [Lo, How A Rose E'er Blooming \- Fireplace](https://open.spotify.com/track/4F5YPfIou0dd4hG39A8hWc) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 3:44 |
 | 57 | [12 Days of Christmas \(Fireside\)](https://open.spotify.com/track/00O8x3AiKHgWfVizSUf0Aq) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [12 Days of Christmas \(Fireside\)](https://open.spotify.com/album/6bq8e9ZJCK4r0nXYKIZZWS) | 4:05 |
 
-Snapshot ID: `AAAAAFF8oCr+99vVCDYxRM9joLTVwSdv`
+Snapshot ID: `AAAAAIs/Dm65xrY5WNzK18U/Z9TnoEdj`

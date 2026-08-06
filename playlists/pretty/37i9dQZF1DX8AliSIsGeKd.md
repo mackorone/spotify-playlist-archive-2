@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Innellea
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,915 likes - 90 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,973 likes - 90 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 7 | [Youth](https://open.spotify.com/track/2KHyZ8X8DEthDel9avvzLh) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Youth](https://open.spotify.com/album/6dYpy3x3WZdON98fZEVUOk) | 4:25 |
 | 8 | [Transcendence](https://open.spotify.com/track/1te4w4EHVFkon7DqrUckfm) | [Philipp Lake](https://open.spotify.com/artist/1O6uzBR9eeNjNx7tDDXsZH) | [Transcendence](https://open.spotify.com/album/6DOJEMHqCgsEMMCYgPhmBr) | 3:26 |
 | 9 | [Conflicted Mind \- Extended Mix](https://open.spotify.com/track/513p40Y6SuuKwXwf71k859) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Conflicted Mind](https://open.spotify.com/album/5BIQsTzSrk9JpbBMnXsWkx) | 3:59 |
-| 10 | [Lose Your Mind](https://open.spotify.com/track/75c7e6HGkiZpUy5cnKvP6o) | [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Lose Your Mind](https://open.spotify.com/album/3liZVWQIsFjuD9BBDc09x0) | 6:18 |
+| 10 | [Lose Your Mind](https://open.spotify.com/track/75c7e6HGkiZpUy5cnKvP6o) | [Sylvie \(DE\)](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Lose Your Mind](https://open.spotify.com/album/3liZVWQIsFjuD9BBDc09x0) | 6:18 |
 | 11 | [Those Words](https://open.spotify.com/track/3gviotIG0pkbYqBC7l1ZGf) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [FRISO](https://open.spotify.com/artist/7kahBCrSeb70EfCEdArOTr) | [Those Words](https://open.spotify.com/album/0lm6R6o2txgn75UDE53T2J) | 3:08 |
 | 12 | [Future](https://open.spotify.com/track/5EJ6xAvHPJmPqmgxDzIEwK) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Future](https://open.spotify.com/album/1FNDBQA8vCw775bm5BrVLb) | 3:38 |
 | 13 | [In Your Head](https://open.spotify.com/track/2SeQImFA4byJJYS61VwB9J) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [In Your Head](https://open.spotify.com/album/5n2MNtPtQLxmcUe9T6hfOO) | 3:30 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Busy Signal](https://open.spotify.com/track/2FrLAAiqFsW7qDHXbORblC) | [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Busy Signal](https://open.spotify.com/album/7tjJwJTSbHG3OFNo3uDqdV) | 5:42 |
 | 90 | [Odoriko](https://open.spotify.com/track/4T9PF3UU7ozEWycT3k3dNl) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Odoriko](https://open.spotify.com/album/0A8d3xRGEekL4poJr9KdIG) | 4:49 |
 
-Snapshot ID: `AAAAAE+EqVMuTrv8pgylqJP896vtJEzy`
+Snapshot ID: `AAAAAJ2IXSfzwEu2YAF9/xScq22oDHnO`

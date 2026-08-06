@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Francis degrandpré, Mauvais Djo, Tel Kel, Taktika, Grand Eugène, Annie Villeneuve, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,193 likes - 99 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,191 likes - 99 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 98 | [Pardonnée](https://open.spotify.com/track/48QofKmtpnQB7B3ck0lx8Q) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Équilibre](https://open.spotify.com/album/4bt9QhHXA3swMcmXEjNDJl) | 2:47 |
 | 99 | [Ensemble](https://open.spotify.com/track/4P9fHgmGJgf460F2t7OAie) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Ensemble](https://open.spotify.com/album/6QdDXJlhY1FbOZsEYPN1lu) | 3:09 |
 
-Snapshot ID: `AAAAAL8gbiBqqiGJLq0nKmzSO+1fKcSH`
+Snapshot ID: `AAAAAB5DaXcG+PwKbEiCvYtEUQiRIGqN`

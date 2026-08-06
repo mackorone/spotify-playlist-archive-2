@@ -1,29 +1,13 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Babe America Artwork by Paola Saliby",
-  "num_followers": 242173,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Sophia Willingham & Elisheva Artwork by Paola Saliby",
+  "num_followers": 242181,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIFhq+VmNGWK7XOiFUigEhxawTBG",
+  "snapshot_id": "AAAAABxuuJhTmVikpYhEBe4qHpy4AXlv",
   "tracks": [
-    {
-      "added_at": "2026-07-29 04:00:18",
-      "album": {
-        "name": "ANGELFOODCAKE",
-        "url": "https://open.spotify.com/album/2X1juJXzvB8YVuioMOH848"
-      },
-      "artists": [
-        {
-          "name": "Babe America",
-          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "CANDYNECKLACE",
-      "url": "https://open.spotify.com/track/0OCNB7aZHcl4FmBjfvR844"
-    },
     {
       "added_at": "2026-07-29 04:00:18",
       "album": {
@@ -43,6 +27,182 @@
       "duration_ms": 132983,
       "name": "kill switch",
       "url": "https://open.spotify.com/track/2lvz3o16FUDuGOQyr83Afm"
+    },
+    {
+      "added_at": "2026-08-05 04:00:03",
+      "album": {
+        "name": "Magazines",
+        "url": "https://open.spotify.com/album/1HLtrRtsdRBk9sC9ROZtfO"
+      },
+      "artists": [
+        {
+          "name": "Moriah Mensah",
+          "url": "https://open.spotify.com/artist/4jgCVCIIT2pPaemZBYMOYJ"
+        }
+      ],
+      "duration_ms": 155133,
+      "name": "Magazines",
+      "url": "https://open.spotify.com/track/0AZxU5r0k0LR606KrvSa4m"
+    },
+    {
+      "added_at": "2026-08-05 04:00:03",
+      "album": {
+        "name": "oh, lover",
+        "url": "https://open.spotify.com/album/25KD39kHJsWvPhQVGI7Qc9"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/5HYr56zZb4EGU5aySKy9Ja"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "oh, lover",
+      "url": "https://open.spotify.com/track/7uqtB0u3EtELNUkLXsq7oZ"
+    },
+    {
+      "added_at": "2026-08-05 04:00:03",
+      "album": {
+        "name": "Who Could Not Be Broken",
+        "url": "https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "Lady In the GPS",
+      "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
+    },
+    {
+      "added_at": "2026-08-05 04:00:03",
+      "album": {
+        "name": "heartbreaker",
+        "url": "https://open.spotify.com/album/1vldrrNFlFsYgeg8GShaKh"
+      },
+      "artists": [
+        {
+          "name": "kitty bella",
+          "url": "https://open.spotify.com/artist/3dDsAxEGXIESY6puCA7YKz"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "heartbreaker",
+      "url": "https://open.spotify.com/track/6G9GiMHJrwzZDV3gNuzGW8"
+    },
+    {
+      "added_at": "2026-07-29 04:00:18",
+      "album": {
+        "name": "ANGELFOODCAKE",
+        "url": "https://open.spotify.com/album/2X1juJXzvB8YVuioMOH848"
+      },
+      "artists": [
+        {
+          "name": "Babe America",
+          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "CANDYNECKLACE",
+      "url": "https://open.spotify.com/track/0OCNB7aZHcl4FmBjfvR844"
+    },
+    {
+      "added_at": "2026-08-05 04:00:03",
+      "album": {
+        "name": "pretty please",
+        "url": "https://open.spotify.com/album/5nz9UHOeV9hcsheM8HLjgN"
+      },
+      "artists": [
+        {
+          "name": "TEILZ",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "pretty please",
+      "url": "https://open.spotify.com/track/7mXWEoSBIPVZ1quMSDhVSC"
+    },
+    {
+      "added_at": "2026-08-05 04:00:03",
+      "album": {
+        "name": "Tough Act To Follow",
+        "url": "https://open.spotify.com/album/6Ra73YJTLoLc2lmnew6HyS"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "Tough Act To Follow",
+      "url": "https://open.spotify.com/track/3zCCpmvOk5GYI3K6iPyYgY"
+    },
+    {
+      "added_at": "2026-08-05 04:00:03",
+      "album": {
+        "name": "SATURN",
+        "url": "https://open.spotify.com/album/6Ilr5VbWCPFRvf9UNOOKsf"
+      },
+      "artists": [
+        {
+          "name": "Baobei",
+          "url": "https://open.spotify.com/artist/2Pj6Ot77F8iLP6H0QkXt1h"
+        }
+      ],
+      "duration_ms": 158124,
+      "name": "FERAL (don't talk to me)",
+      "url": "https://open.spotify.com/track/7wHjcHhQJb883IZpeDlJgw"
+    },
+    {
+      "added_at": "2026-08-05 04:00:03",
+      "album": {
+        "name": "the dog that cries",
+        "url": "https://open.spotify.com/album/3on0VJ00sQWwhNSD85CGi0"
+      },
+      "artists": [
+        {
+          "name": "gottsy",
+          "url": "https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb"
+        }
+      ],
+      "duration_ms": 164594,
+      "name": "the dog that cries",
+      "url": "https://open.spotify.com/track/6NRoy34F0juS7q0JaZibmO"
+    },
+    {
+      "added_at": "2026-08-05 04:00:03",
+      "album": {
+        "name": "meaningless",
+        "url": "https://open.spotify.com/album/6WF2nnOrbR4zWv0uyvPAxm"
+      },
+      "artists": [
+        {
+          "name": "go4broke",
+          "url": "https://open.spotify.com/artist/0B7eexcdtWm3ckbSKAb25R"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "meaningless",
+      "url": "https://open.spotify.com/track/3AxVIJ9xZrp6P7vwsS4Z93"
+    },
+    {
+      "added_at": "2026-08-05 04:00:03",
+      "album": {
+        "name": "delusional",
+        "url": "https://open.spotify.com/album/7eO0fIA3XKRpyKzd2bnvf4"
+      },
+      "artists": [
+        {
+          "name": "Marianne Leigh",
+          "url": "https://open.spotify.com/artist/1iFfYdsTHCQ7D0jUS5dE5n"
+        }
+      ],
+      "duration_ms": 171544,
+      "name": "delusional",
+      "url": "https://open.spotify.com/track/46hzNHAyf1dz6gncGM0CpD"
     },
     {
       "added_at": "2026-07-29 04:00:18",
@@ -623,22 +783,6 @@
     {
       "added_at": "2026-07-01 15:26:55",
       "album": {
-        "name": "Last Train Home",
-        "url": "https://open.spotify.com/album/4BYuClhmYidSVfLtA7cXZs"
-      },
-      "artists": [
-        {
-          "name": "Oscar Stembridge",
-          "url": "https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9"
-        }
-      ],
-      "duration_ms": 182776,
-      "name": "Last Train Home",
-      "url": "https://open.spotify.com/track/48vL9BnLGjVR67iMyrj9DZ"
-    },
-    {
-      "added_at": "2026-07-01 15:26:55",
-      "album": {
         "name": "CR33PS",
         "url": "https://open.spotify.com/album/7bl3I861kUyMzBph6WMkue"
       },
@@ -1005,22 +1149,6 @@
       "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
     },
     {
-      "added_at": "2026-05-20 04:00:06",
-      "album": {
-        "name": "shovel",
-        "url": "https://open.spotify.com/album/0oFJdt4hxeQczqv7om1POI"
-      },
-      "artists": [
-        {
-          "name": "gottsy",
-          "url": "https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb"
-        }
-      ],
-      "duration_ms": 166232,
-      "name": "shovel",
-      "url": "https://open.spotify.com/track/7E4AEGIm9o7fxTPZGDRyvr"
-    },
-    {
       "added_at": "2026-05-13 17:43:08",
       "album": {
         "name": "Chloe Showed Me",
@@ -1067,150 +1195,6 @@
       "duration_ms": 206470,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
-    },
-    {
-      "added_at": "2026-05-13 17:43:08",
-      "album": {
-        "name": "Liar Liar",
-        "url": "https://open.spotify.com/album/0W7U9wdIcFsDVIJmExlPLX"
-      },
-      "artists": [
-        {
-          "name": "dearest",
-          "url": "https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT"
-        }
-      ],
-      "duration_ms": 195782,
-      "name": "Liar Liar",
-      "url": "https://open.spotify.com/track/43nlIi8s0GhjIc47lQ7lr5"
-    },
-    {
-      "added_at": "2026-05-06 15:27:46",
-      "album": {
-        "name": "RAT RACE",
-        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
-      },
-      "artists": [
-        {
-          "name": "Norah Hendriks",
-          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
-        }
-      ],
-      "duration_ms": 218712,
-      "name": "RAT RACE",
-      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
-    },
-    {
-      "added_at": "2026-04-29 04:00:30",
-      "album": {
-        "name": "IS IT FUN OR IS IT OVER?",
-        "url": "https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 154131,
-      "name": "Kiss Me Better",
-      "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
-    },
-    {
-      "added_at": "2026-04-29 04:00:30",
-      "album": {
-        "name": "See It In Your Eyes",
-        "url": "https://open.spotify.com/album/6tqnddT8kXjFv3URyusjiP"
-      },
-      "artists": [
-        {
-          "name": "Sabina",
-          "url": "https://open.spotify.com/artist/4pdOJ0BGnP5kN8aeuCV6p7"
-        }
-      ],
-      "duration_ms": 261151,
-      "name": "See It In Your Eyes",
-      "url": "https://open.spotify.com/track/4GET941SSmrEcmArGbvxhI"
-    },
-    {
-      "added_at": "2026-05-06 15:27:46",
-      "album": {
-        "name": "shotgun",
-        "url": "https://open.spotify.com/album/4jZda0jAoglNpWlmLSgXvN"
-      },
-      "artists": [
-        {
-          "name": "MISSI",
-          "url": "https://open.spotify.com/artist/2cv6HFwLykuUwNhdw0d5Fp"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "shotgun",
-      "url": "https://open.spotify.com/track/4xR7d9UnjwGR4v3EVvQPuZ"
-    },
-    {
-      "added_at": "2026-04-29 04:00:30",
-      "album": {
-        "name": "All Over It",
-        "url": "https://open.spotify.com/album/0KcuEXUSIJhmMWr4lQJAYf"
-      },
-      "artists": [
-        {
-          "name": "OK Alva",
-          "url": "https://open.spotify.com/artist/1I9TAA6WtYLMN4kn4XuCr2"
-        }
-      ],
-      "duration_ms": 168592,
-      "name": "All Over It",
-      "url": "https://open.spotify.com/track/4bYdCaoSdIMwDCyE4IqUnr"
-    },
-    {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
-        "name": "Aren't You Curious?",
-        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
-      },
-      "artists": [
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 184294,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
-    },
-    {
-      "added_at": "2026-03-25 04:00:19",
-      "album": {
-        "name": "Architect",
-        "url": "https://open.spotify.com/album/07MeVjl4A0hlnZmmzffnk5"
-      },
-      "artists": [
-        {
-          "name": "Ryann Barnes",
-          "url": "https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q"
-        }
-      ],
-      "duration_ms": 163198,
-      "name": "Architect",
-      "url": "https://open.spotify.com/track/2P8aktHcNf8AD9LwLFUj3g"
-    },
-    {
-      "added_at": "2026-01-23 05:30:46",
-      "album": {
-        "name": "BUTTERF-LIES",
-        "url": "https://open.spotify.com/album/4bpXUnxUEyqVyQHGPVIgGI"
-      },
-      "artists": [
-        {
-          "name": "Mira Housey",
-          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
-        }
-      ],
-      "duration_ms": 128445,
-      "name": "BUTTERF-LIES",
-      "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
     }
   ],
   "unique_name": "Fresh Finds Pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,506 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,539 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 99 | [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 |
 | 100 | [Purpose \- Bello VIP Remix](https://open.spotify.com/track/3YjPNrPP2liXEQ2ziBqXEn) | [Ted Bello](https://open.spotify.com/artist/5fKt7gTTVm6LXTifbnl7lQ), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [The Bello Boys](https://open.spotify.com/artist/4UfCuhx9DluRtDvaJpcCgw) | [Purpose \(Bello VIP Remix\)](https://open.spotify.com/album/3ghTPMHOwOdmpGmIzn1EkV) | 2:48 |
 
-Snapshot ID: `AAAAAPb9UUFPt5OHoijNRpprWtrPGE07`
+Snapshot ID: `AAAAAFhuR0Y7GNvxhUcDqBy/1dnuQj9r`

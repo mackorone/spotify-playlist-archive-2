@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Arley Pérez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,344 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,371 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Vientre Del Ondeado](https://open.spotify.com/track/78Z0ubjqiz4E3HeaIOj2pv) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Corridos](https://open.spotify.com/album/4ebmE5CvVrfmiaNbzbjG7k) | 3:05 |
-| 2 | [Raulito Meza Aka El Terror de los Lacras](https://open.spotify.com/track/7DV0bPX6JNj2wKgNz2aHFY) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Corridos](https://open.spotify.com/album/4ebmE5CvVrfmiaNbzbjG7k) | 3:33 |
+| 2 | [Raulito Meza Aka El Terror de los Lacras](https://open.spotify.com/track/7DV0bPX6JNj2wKgNz2aHFY) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Corridos](https://open.spotify.com/album/4ebmE5CvVrfmiaNbzbjG7k) | 3:32 |
 | 3 | [Juanito El Comandante](https://open.spotify.com/track/1M1JKnm8ujQ58NRhvxSHSc) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Expansión](https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf) | 4:13 |
 | 4 | [El 08](https://open.spotify.com/track/2aqt0Rj3aBncNXlVwYYMBJ) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 3:10 |
 | 5 | [El N1 El Perfil o El Chavalon](https://open.spotify.com/track/6DijdXsyS0PtjfAnqFsQS2) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 3:39 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 149 | [El 19 y Sus Locos](https://open.spotify.com/track/4VIGOAuNghjsPnCteLAJV9) | [Grupo Asociado](https://open.spotify.com/artist/4HGpI109XSwNngqUJJ2HJK), [Grupo Compacto](https://open.spotify.com/artist/6nNkO3Nw7zq1WDElrPT0AF) | [El 19 y Sus Locos](https://open.spotify.com/album/3Gi2oY8PvZUIMKAJkXMzrs) | 4:03 |
 | 150 | [El Viejo Fino](https://open.spotify.com/track/0fOUYjkxWEtO5lCeqBfqbh) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [El Viejo Fino](https://open.spotify.com/album/01EPmgyUtq7RRLPFbwpwtG) | 2:51 |
 
-Snapshot ID: `AAAAALAhYORVroANR1p+LqFT8JsQBPsM`
+Snapshot ID: `AAAAAM2OzOpD/IyNlYTyZSFpSTX2eVck`

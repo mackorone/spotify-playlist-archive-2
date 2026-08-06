@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,925 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,909 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Dolphin](https://open.spotify.com/track/2aqBG5dPwf7igL5OPOYmPr) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Dolphin](https://open.spotify.com/album/30H9Lt1nwENwVINJNg50l1) | 4:09 |
 | 100 | [Dawn Breaks](https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Dawn Breaks](https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw) | 1:58 |
 
-Snapshot ID: `AAAAACuruGjBeUlqZ5+UKEBoDPXrc83J`
+Snapshot ID: `AAAAALjvTn+glLDqt0DAzui6ZkFdQFeg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Ariana Grande, Alan Walker, Swedish House Mafia & Lykke Li og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,697 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,673 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 49 | [Nails In The Coffin](https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 4:09 |
 | 50 | [Naken](https://open.spotify.com/track/2uHW6igZRPit5qNbnv4n4p) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Naken](https://open.spotify.com/album/0QW89CtWCnGXF9tFdL0gX0) | 3:22 |
 
-Snapshot ID: `AAAAAKwmp3zWGVa+8uHQNr92Awy+Z87k`
+Snapshot ID: `AAAAAGSyEADE+dpT/0wYmUtYRpbAlc/Q`

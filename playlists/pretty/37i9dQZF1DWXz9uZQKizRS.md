@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Misia Furtak
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,721 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,719 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [To jest to!](https://open.spotify.com/track/1I7nEa7aWULffUDCJrkhVp) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [To jest to!](https://open.spotify.com/album/7iYXIbb20iKje5Qna9Mf63) | 3:25 |
 | 100 | [Bezpańskie psy](https://open.spotify.com/track/7cXyLtoD4AbRgu8JhzlZEx) | [Michał Kisielewski](https://open.spotify.com/artist/0fi8unZHAE9dNVsLhFIttc) | [Bezpańskie psy](https://open.spotify.com/album/1Z1Ak8G1EFoqStXovKDQoS) | 2:58 |
 
-Snapshot ID: `AAAAABK8Ngx1O5hMqrvrbCPd3RrnjLff`
+Snapshot ID: `AAAAAPSSNYvewT7wWStw/TgVW7ma/U0g`

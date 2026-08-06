@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > R&B, Hip\-Hop, Pop, Afrobeats and everything in between!  Cover: Destin Conrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,537 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,546 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 149 | [Lullaby \- mega remix](https://open.spotify.com/track/3UKsi5Qkp4L8quumXsKnie) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Lullaby \(mega remix\)](https://open.spotify.com/album/4gHIGeVKDxDHB3c5T3dC5M) | 3:53 |
 | 150 | [No Broke Boys](https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:12 |
 
-Snapshot ID: `AAAAAHky+wM0kyFxH0WEFUjqJPbPcpMG`
+Snapshot ID: `AAAAAFT5ZXoQYl3aNpcUUBwNEb4/lZ5Y`

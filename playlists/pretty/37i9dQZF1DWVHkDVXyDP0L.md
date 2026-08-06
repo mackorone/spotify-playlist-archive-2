@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Sunsick Daisy
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,295 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,290 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Short Lived](https://open.spotify.com/track/7ivGafFpwaDfWxc2WUyT8e) | [Suzi](https://open.spotify.com/artist/7yyW28zOEIrNs2Rs3eq9cI) | [Short Lived](https://open.spotify.com/album/2hEhcU4Bo2gOqSFcdRCT3S) | 3:31 |
 | 100 | [Pet](https://open.spotify.com/track/72OZvuSbJdtetbkeCaNLS8) | [Mia June](https://open.spotify.com/artist/3nGsiPPwDm3hNizqMYxtRi) | [Pet](https://open.spotify.com/album/4Qi205DGFBRe5oVors4uTi) | 3:21 |
 
-Snapshot ID: `AAAAAO+TsLm9G8mTb9yMaee6Uw1xFpou`
+Snapshot ID: `AAAAAIdXnpS9E5qEw/+9NyI3oUIy5BTn`

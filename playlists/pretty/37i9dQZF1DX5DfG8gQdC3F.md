@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Releases from Ariana Grande, Cameron Whitcomb, Shaboozey, Slayyyter, Cardi B, KAROL G, and  more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,424 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,316 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 98 | [Belles choses](https://open.spotify.com/track/7GmH8W71OUqdE2mMPhVDpI) | [De Lafe](https://open.spotify.com/artist/221QAcwcTRrYBFnlCHQ9G1) | [L'imprévisible](https://open.spotify.com/album/1XQgdAAQ9Glh4WpAm5BEpE) | 2:38 |
 | 99 | [East Coast](https://open.spotify.com/track/6ySFsPVeFww769nr3aQy5E) | [Bella Galasso](https://open.spotify.com/artist/0xOHwnESa9ODHYNWMLgZCI) | [East Coast](https://open.spotify.com/album/4BjompXYH7JfAAli0EGGGC) | 2:37 |
 
-Snapshot ID: `AAAAAMg1SiPs111pWVDAeXQ00BzTNJ6p`
+Snapshot ID: `AAAAAC1nmJUVB4xHKjItFDlHjTsAVjhA`

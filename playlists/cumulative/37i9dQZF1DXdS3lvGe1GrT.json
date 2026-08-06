@@ -2859,6 +2859,24 @@
     },
     {
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/784ntHZ8rOCR17Fi45OFSP"
+      },
+      "artists": [
+        {
+          "name": "RYMAN",
+          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194519,
+      "name": "Backroads",
+      "url": "https://open.spotify.com/track/7hThw8u62Hy5LLIGSyHyAe"
+    },
+    {
+      "album": {
         "name": "Shoulder to Shoulder",
         "url": "https://open.spotify.com/album/5yeTh5dL2kF3D8WXecMgYh"
       },
@@ -4394,6 +4412,28 @@
       "duration_ms": 240000,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/7DbWHATHLVZrYbPlCDR8wJ"
+    },
+    {
+      "album": {
+        "name": "Blue Stained Glass",
+        "url": "https://open.spotify.com/album/6BZx64F9oGZjasmpGKrn1w"
+      },
+      "artists": [
+        {
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        },
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Blue Stained Glass",
+      "url": "https://open.spotify.com/track/1PzX46fVtrCzJiaopKwu3h"
     },
     {
       "album": {
@@ -8736,6 +8776,24 @@
       "duration_ms": 200373,
       "name": "Devil on the Dresser",
       "url": "https://open.spotify.com/track/5q01RMBLUJkQrHKAoQacek"
+    },
+    {
+      "album": {
+        "name": "Diamond Ring",
+        "url": "https://open.spotify.com/album/1ynwfs7HD97ar6EzT5CHjN"
+      },
+      "artists": [
+        {
+          "name": "Kamran Khan",
+          "url": "https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218559,
+      "name": "Diamond Ring",
+      "url": "https://open.spotify.com/track/7x59f5TXOxDm5Kn1FUJdJ5"
     },
     {
       "album": {
@@ -14600,6 +14658,24 @@
       "duration_ms": 210000,
       "name": "Grow",
       "url": "https://open.spotify.com/track/4dk0RxIacYPK5ue3RkK9Ih"
+    },
+    {
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/75j249rBr9fqV6HwaDC2J1"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227774,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/7uPfQr3GC5BjXI3crF2YKB"
     },
     {
       "album": {
@@ -23771,6 +23847,24 @@
     },
     {
       "album": {
+        "name": "You Won't Get My Message but You'll Hear It",
+        "url": "https://open.spotify.com/album/5e3rEnZ6u57bMgXulTZ2xB"
+      },
+      "artists": [
+        {
+          "name": "Coco Smith",
+          "url": "https://open.spotify.com/artist/3vzRcCdJw5Sk24gJoaMB6E"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198810,
+      "name": "Multiform",
+      "url": "https://open.spotify.com/track/2bmiqYmS6rhfbUEUCXKueV"
+    },
+    {
+      "album": {
         "name": "multiverse",
         "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
       },
@@ -24908,7 +25002,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 294370,
       "name": "Nook",
       "url": "https://open.spotify.com/track/5Awkgzj016bUr6v9TeZ5QH"
@@ -25556,7 +25650,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 122833,
       "name": "oh child",
       "url": "https://open.spotify.com/track/1vKojl7j8BBAZkNwXrBk7j"
@@ -25592,7 +25686,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 241816,
       "name": "Oh, Mama",
       "url": "https://open.spotify.com/track/16Ol6NyBhxU8lSKlxA0qMt"
@@ -25970,7 +26064,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 229750,
       "name": "On the Way Down",
       "url": "https://open.spotify.com/track/6Wq0hIfjLMvSAdK3adpp6c"
@@ -36390,7 +36484,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 231117,
       "name": "Upstate",
       "url": "https://open.spotify.com/track/6Swl911DmwTVxG8FtcVa25"
@@ -37432,7 +37526,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 170255,
       "name": "Wet the Bed",
       "url": "https://open.spotify.com/track/4HodJ3HTljTZ6Tdmmb5MQc"
@@ -38450,6 +38544,24 @@
       "duration_ms": 177272,
       "name": "With You in Mind",
       "url": "https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/18LbowdBwEYPyoHEBmkfp0"
+      },
+      "artists": [
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267560,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4SiojdReG8nXplUNGWSYN3"
     },
     {
       "album": {

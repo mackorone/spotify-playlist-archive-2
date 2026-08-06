@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Säm Wilder
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,004 likes - 89 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,005 likes - 89 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 49 | [Acid to Fascists](https://open.spotify.com/track/7J38jvMFpESlnq2sEmg9gH) | [Throwing Bricks](https://open.spotify.com/artist/05jSnBtEkxDJ7TIR4KVjSr), [Ontaard](https://open.spotify.com/artist/2Ek8RuzywWzQEKjBnUcC8c) | [Something to Lose](https://open.spotify.com/album/5XQIG5emze3Wqs82FVzSBC) | 9:06 |
 | 50 | [İkimiz Bir Fidanız](https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb) | [Duygu Alkan](https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP) | [İkimiz Bir Fidanız](https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5) | 3:14 |
 | 51 | [leave the party \. ݁₊ ⊹ .](https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh) | [Nelles](https://open.spotify.com/artist/7MjBGtTl4ki7xS6w8dUlLG) | [leave the party \. ݁₊ ⊹ .](https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21) | 3:21 |
-| 52 | [ZO MOE](https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb) | [WABR](https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx) | [ZO MOE](https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI) | 3:55 |
-| 53 | [Crane](https://open.spotify.com/track/5eICNslaj4U86WXF1g0fHa) | [Post Ella](https://open.spotify.com/artist/1y0PcaqzO0RtNXlo5Mqj6e) | [Crane](https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7) | 2:44 |
-| 54 | [Nothing Means Anything](https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285) | [SWANSLAUGHTER](https://open.spotify.com/artist/7GZdTPMQImAvAXCrVnz9BI) | [Make A Wish](https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z) | 1:54 |
+| 52 | [Nothing Means Anything](https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285) | [SWANSLAUGHTER](https://open.spotify.com/artist/7GZdTPMQImAvAXCrVnz9BI) | [Make A Wish](https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z) | 1:54 |
+| 53 | [ZO MOE](https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb) | [WABR](https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx) | [ZO MOE](https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI) | 3:55 |
+| 54 | [Crane](https://open.spotify.com/track/5eICNslaj4U86WXF1g0fHa) | [Post Ella](https://open.spotify.com/artist/1y0PcaqzO0RtNXlo5Mqj6e) | [Crane](https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7) | 2:44 |
 | 55 | [deadbeat \(how long\)](https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep) | [crashing](https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr) | [deadbeat \(how long\)](https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c) | 4:00 |
 | 56 | [Way Out](https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt) | [Wilson A.](https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2) | [Way Out](https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8) | 3:11 |
 | 57 | [Kleine Liefde](https://open.spotify.com/track/3run92YHEJHsOa8EIttJru) | [Marit Nygård](https://open.spotify.com/artist/4FKvA5jaSSTDdt0AW0Jeqx), [De Medemensen](https://open.spotify.com/artist/0QXL4XMo9nOXrtQGxGwfXx) | [Kleine Liefde](https://open.spotify.com/album/6sFDVWQB3cmpkCSlTuDJ5t) | 2:11 |
@@ -85,17 +85,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 75 | [ME HART IS OP](https://open.spotify.com/track/2HsAFzJtwbG74Up1Empt0W) | [kruzer](https://open.spotify.com/artist/7t1cc3OFyt4UbJnQNaTAcY) | [WEET NIET WAT JE ZIET IN MIJ](https://open.spotify.com/album/6QCoW49AfDKtQsk3A3SjJJ) | 2:49 |
 | 76 | [Waiting](https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK) | [Amelie Spinks](https://open.spotify.com/artist/2msCn66H8nedyo0JqNg9aH) | [Warm Light](https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU) | 3:09 |
 | 77 | [April](https://open.spotify.com/track/4bejcoOHGSHN9TuvHOQ9vk) | [RubinCarter](https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn) | [Still In The Race](https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj) | 2:43 |
-| 78 | [Snakes and Heartbreak\(er\)s](https://open.spotify.com/track/3D7n0y3XWg2GKlGrR4Gxw0) | [Weird Youth](https://open.spotify.com/artist/6TnYTsKeXWGO0BmrQtLXIC), [suze who?](https://open.spotify.com/artist/5tb3T4SvNmr26QW5SMFAsG) | [Snakes and Heartbreak\(er\)s](https://open.spotify.com/album/5xDpr5R9HyJMRqTlwgn2mC) | 4:58 |
-| 79 | [Moment](https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [On Top Of The World](https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43) | 2:44 |
-| 80 | [Cavalry’s coming \- Cavalerie Remix](https://open.spotify.com/track/408HYIUmRaYQ2v3kSKGDmW) | [Primaat](https://open.spotify.com/artist/6J0yzuCa1ID2YLUAk4gT3u), [Dracula’s Beach Party](https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1) | [RE: Hoe vind je zelf dat het gaat](https://open.spotify.com/album/70Y58TfAmKkrmmCtQE7OCc) | 4:25 |
-| 81 | [ozempic tears](https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY) | [MORÈL](https://open.spotify.com/artist/1zDUKnc1MRGN96zvLsHyqq) | [dislocated .](https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT) | 4:15 |
+| 78 | [Moment](https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [On Top Of The World](https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43) | 2:44 |
+| 79 | [Snakes and Heartbreak\(er\)s](https://open.spotify.com/track/3D7n0y3XWg2GKlGrR4Gxw0) | [Weird Youth](https://open.spotify.com/artist/6TnYTsKeXWGO0BmrQtLXIC), [suze who?](https://open.spotify.com/artist/5tb3T4SvNmr26QW5SMFAsG) | [Snakes and Heartbreak\(er\)s](https://open.spotify.com/album/5xDpr5R9HyJMRqTlwgn2mC) | 4:58 |
+| 80 | [ozempic tears](https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY) | [MORÈL](https://open.spotify.com/artist/1zDUKnc1MRGN96zvLsHyqq) | [dislocated .](https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT) | 4:15 |
+| 81 | [Cavalry’s coming \- Cavalerie Remix](https://open.spotify.com/track/408HYIUmRaYQ2v3kSKGDmW) | [Primaat](https://open.spotify.com/artist/6J0yzuCa1ID2YLUAk4gT3u), [Dracula’s Beach Party](https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1) | [RE: Hoe vind je zelf dat het gaat](https://open.spotify.com/album/70Y58TfAmKkrmmCtQE7OCc) | 4:25 |
 | 82 | [Machine \(Radio Edit\)](https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4) | [The Robots Are Coming](https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i) | [Machine \(Radio Edit\)](https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1) | 3:33 |
-| 83 | [Out Of Place](https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ) | [HOOFS](https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp) | [Monster](https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn) | 4:48 |
-| 84 | [Magnum Opus](https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1) | [Keely Westwood](https://open.spotify.com/artist/6UvI51uzYzaeJCxBcEdAGC) | [Magnum Opus](https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu) | 4:36 |
-| 85 | [A Summer's Dream](https://open.spotify.com/track/3UsTOwKmL76JThYYUSzE8O) | [Favour](https://open.spotify.com/artist/3UDCA2vjy6FkE5eKQq38qo) | [A Summer's Dream](https://open.spotify.com/album/3aWmYVq30BGlBSV6IOlRYD) | 2:49 |
-| 86 | [Polder](https://open.spotify.com/track/4iJt3YH8EdjL5dcuknBfu4) | [CAH](https://open.spotify.com/artist/1w8sqAm1Y1fim0Dy17oBfr) | [CAH](https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu) | 3:48 |
+| 83 | [Magnum Opus](https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1) | [Keely Westwood](https://open.spotify.com/artist/6UvI51uzYzaeJCxBcEdAGC) | [Magnum Opus](https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu) | 4:36 |
+| 84 | [A Summer's Dream](https://open.spotify.com/track/3UsTOwKmL76JThYYUSzE8O) | [Favour](https://open.spotify.com/artist/3UDCA2vjy6FkE5eKQq38qo) | [A Summer's Dream](https://open.spotify.com/album/3aWmYVq30BGlBSV6IOlRYD) | 2:49 |
+| 85 | [Polder](https://open.spotify.com/track/4iJt3YH8EdjL5dcuknBfu4) | [CAH](https://open.spotify.com/artist/1w8sqAm1Y1fim0Dy17oBfr) | [CAH](https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu) | 3:48 |
+| 86 | [Out Of Place](https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ) | [HOOFS](https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp) | [Monster](https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn) | 4:48 |
 | 87 | [fight 'n kill](https://open.spotify.com/track/3k9s5Sj0g0BBbLwc58SEqh) | [Brian Murphy](https://open.spotify.com/artist/3NAh0eiBO8uR6RIz4fGErF) | [fight 'n kill](https://open.spotify.com/album/5nl20qK0CAbSLPsO4hIDeb) | 1:54 |
 | 88 | [chaos oasis](https://open.spotify.com/track/6nebKidwaw9loPQXtXrg49) | [xico](https://open.spotify.com/artist/7ni53ZghzEfukMwg7GawgE) | [paths of sand](https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ) | 5:03 |
 | 89 | [Money up](https://open.spotify.com/track/12iXEbqQGLTKekzPkh2oCt) | [Homey](https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG), [DORTA](https://open.spotify.com/artist/5kvKtUiKqDtdvIRVj0iWlO), [jejokaki](https://open.spotify.com/artist/2hNebmSFON3Jl4XiGo84bE) | [Southside II](https://open.spotify.com/album/4Szav219BDBKGamqyD3hxf) | 2:13 |
 
-Snapshot ID: `AAAAAJP/h4cwS/xtG2+yTYCwmBbKwUzy`
+Snapshot ID: `AAAAALWOR3aCkk9MgyYczMbMWwgNW67V`

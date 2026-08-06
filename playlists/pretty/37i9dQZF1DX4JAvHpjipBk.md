@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ariana Grande, Shaboozey, Karol G, Slayyyter and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,610,222 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,609,763 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Apple Juice](https://open.spotify.com/track/2YiVdq8CpwD6TL7g3AViG0) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Apple Juice](https://open.spotify.com/album/6bNK63sKEJn7ahzLFgPT3j) | 4:52 |
 | 100 | [Sugar Trap](https://open.spotify.com/track/0j38sAqoc1QL4MoccmWxD2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Sugar Trap](https://open.spotify.com/album/5R7ggWmHJEuPapIoiqfKR3) | 3:09 |
 
-Snapshot ID: `AAAAAGOgIY4Uwg8RnsWgEBjxsrknawW3`
+Snapshot ID: `AAAAAPKMprK4enYaOJQV3lD9eTE2KYHA`

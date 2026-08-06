@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > John Otto, take 'em to the Matthews Bridge!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,295,806 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,296,192 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 79 | [Giving In](https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 4:34 |
 | 80 | [Breathless](https://open.spotify.com/track/6GmKS2TBRo53eLX9w0RhUM) | [Lifer](https://open.spotify.com/artist/09r5DbXTHzkULoLVWdAIMW) | [Lifer](https://open.spotify.com/album/61RMxopbyjCvWgon4QIoqF) | 4:42 |
 
-Snapshot ID: `AAAAAFDoCDZ0WNax47214YIRV1R+Vsnq`
+Snapshot ID: `AAAAAHGL7HWNHCM0zEUuLr+YPb+Ur16k`

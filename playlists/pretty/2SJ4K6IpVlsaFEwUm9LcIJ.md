@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,372 likes - 35 songs - 2 hr 35 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,372 likes - 41 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,5 +43,11 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 33 | [To Sleep](https://open.spotify.com/track/4yHw6toZyUBFXPnqcq3NpE) | [A.C\. Marias](https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU) | [One Of Our Girls \(Has Gone Missing\)](https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ) | 5:44 |
 | 34 | [風来坊](https://open.spotify.com/track/16TP4YtbpExH4PYTEJ2yaC) | [Shione Yukawa](https://open.spotify.com/artist/7IFf66bWoJsaAmMXRUR3vG) | [映画「リンダ リンダ リンダ」 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4mYQrJxldeKaHf8GDTmNYf) | 3:19 |
 | 35 | [This Morning You Take a Stroll out to the Pictish Stone](https://open.spotify.com/track/6xO1y57RRX1OM9BPYXcCJm) | [Aidan O'Rourke](https://open.spotify.com/artist/0PBTXsGBjdX8llmfBQyDOi), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [365 Complete Works 3](https://open.spotify.com/album/0ZH2CnksuVlh4NqToYDtUV) | 3:19 |
+| 36 | [Do You Want New Wave Or Do You Want The Truth?](https://open.spotify.com/track/6beCYL3XleMRJ2JYWqQvAn) | [Dos](https://open.spotify.com/artist/3c5SZMWLIrnYqoAiDnO5Ll) | [Justamente Tres](https://open.spotify.com/album/4eJskuTn5oEK51VPcZX5iS) | 1:57 |
+| 37 | [True Romance at the World's Fair](https://open.spotify.com/track/1mH1DqeAY7eoqi7D49KOQb) | [Algebra Suicide](https://open.spotify.com/artist/3S6jNWi2SU1sDSzfHNDJ0S) | [Feminine Squared](https://open.spotify.com/album/4CGLMrJXsiuYxcbmuKnyEp) | 1:44 |
+| 38 | [Wednesday](https://open.spotify.com/track/2wKpkyI37HN1v1v9o9dXgG) | [Yuri Umemoto](https://open.spotify.com/artist/0Ioeg29B84j3L0yQDrSK3J) | [Concerts](https://open.spotify.com/album/78nBGVieGEyU8KV2DMfS8s) | 1:45 |
+| 39 | [Friday](https://open.spotify.com/track/2GgLfbZo03tEDEvvEDFYJG) | [Yuri Umemoto](https://open.spotify.com/artist/0Ioeg29B84j3L0yQDrSK3J) | [Concerts](https://open.spotify.com/album/78nBGVieGEyU8KV2DMfS8s) | 2:03 |
+| 40 | [Goldregen](https://open.spotify.com/track/1Ragk51wAgVQLMis5aMyLq) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Wenn der Südwind weht](https://open.spotify.com/album/00bAjAIqUpoyE1TpJPjz14) | 1:04 |
+| 41 | [Lighthouses](https://open.spotify.com/track/6XQXL1fJFWHr78vRaWHh3i) | [Janet Beat](https://open.spotify.com/artist/1IQI6f8qnG9neMplw9Cs78) | [Pioneering Knob Twiddler](https://open.spotify.com/album/3zNaGrh7gOVmtuSwoEBlxs) | 1:10 |
 
-Snapshot ID: `AAAOpre8caZ/VPitzcqi/IYs7rygcpMw`
+Snapshot ID: `AAAOrSolK4JChBSpo7wOWZpC64y2OwKw`

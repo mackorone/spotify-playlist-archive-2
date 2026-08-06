@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 ### [Punjabi Pyaar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Diljit Dosanjh
+> The very best of Punjabi romance featuring Parmish Verma & Harman Brar
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,631 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,695 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sohni Lagdi](https://open.spotify.com/track/39ekKV0MPqtla7gnJHq7io) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Zafar Sandhu](https://open.spotify.com/artist/3Q1isolUOcUmnxscdi4TUM), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Sardaar Ji 3 \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/6o2rlVElYPIrPIjMsC75dv) | 2:35 |
-| 2 | [Akhar \(From "Lahoriye" Soundtrack\)](https://open.spotify.com/track/5wLPUrdQl4XSB3Kra3LQsA) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Akhar \(From "Lahoriye" Soundtrack\)](https://open.spotify.com/album/1nwzS3ExyalVHefM7xi6NF) | 3:40 |
-| 3 | [Safar](https://open.spotify.com/track/57XxjBWEg4bU5nnW5WCSBG) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Safar](https://open.spotify.com/album/0eRGaOgxvCt9kr9yWoyhuL) | 3:17 |
-| 4 | [Behja](https://open.spotify.com/track/22zhpQYauT1cOoO4IUYhGW) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Victory Lap](https://open.spotify.com/album/15lQCBUQm0PeQdFnRDVDZn) | 2:34 |
+| 1 | [Behja](https://open.spotify.com/track/22zhpQYauT1cOoO4IUYhGW) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Victory Lap](https://open.spotify.com/album/15lQCBUQm0PeQdFnRDVDZn) | 2:34 |
+| 2 | [Sohni Lagdi](https://open.spotify.com/track/39ekKV0MPqtla7gnJHq7io) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Zafar Sandhu](https://open.spotify.com/artist/3Q1isolUOcUmnxscdi4TUM), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Sardaar Ji 3 \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/6o2rlVElYPIrPIjMsC75dv) | 2:35 |
+| 3 | [Akhar \(From "Lahoriye" Soundtrack\)](https://open.spotify.com/track/5wLPUrdQl4XSB3Kra3LQsA) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Akhar \(From "Lahoriye" Soundtrack\)](https://open.spotify.com/album/1nwzS3ExyalVHefM7xi6NF) | 3:40 |
+| 4 | [Safar](https://open.spotify.com/track/57XxjBWEg4bU5nnW5WCSBG) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Safar](https://open.spotify.com/album/0eRGaOgxvCt9kr9yWoyhuL) | 3:17 |
 | 5 | [Deewane](https://open.spotify.com/track/0S4PcH3EYQYIeLs6nLOpF1) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Daaku](https://open.spotify.com/artist/0Gk0DXsojuXvKXROsCbO0e) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:26 |
 | 6 | [WANG](https://open.spotify.com/track/4lKkwncrR7J6T6wqpZLagF) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [RUMOUR HAS IT](https://open.spotify.com/album/2qugvR8s40FXXnRx2AXipX) | 2:22 |
 | 7 | [Duji Vaar Pyar](https://open.spotify.com/track/1B5D51wDedzm68VnAEcH0a) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Duji Vaar Pyar](https://open.spotify.com/album/4iWkvBwlFEaWE98W6JuNgL) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 99 | [Gulab](https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Loverboy](https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF) | 2:39 |
 | 100 | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/track/5YpjkbI4Go4r4V0qwdOSJB) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/album/1UVL3i2zcyW3MoOPVNRuOm) | 2:43 |
 
-Snapshot ID: `AAAAAHVGNNvoIEAHX6wMsPWatBmZNVI3`
+Snapshot ID: `AAAAAEfaUeqMkeVa7xnQ9VPLhniqIH+x`

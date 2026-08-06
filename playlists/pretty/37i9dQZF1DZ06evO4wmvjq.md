@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,774 likes - 50 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,773 likes - 50 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 49 | [Finale](https://open.spotify.com/track/5bOI8XZeiG394aYZ6XmyEm) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [\*Michael McClure](https://open.spotify.com/artist/0pEXXYU5Ygc0Mk4unN8FfZ) | [I Like Your Eyes Liberty](https://open.spotify.com/album/2lGodELWQLcCvbAfC5STpx) | 5:34 |
 | 50 | [Acension Final Chord Rising](https://open.spotify.com/track/1Y0UxXqGBwZXxymLFCNNrY) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 2:26 |
 
-Snapshot ID: `am/aAAAAAAAk37odrzvWUbxz4tLDkFDB`
+Snapshot ID: `am/aAAAAAADY1F+HSet4nEVS0Z/Vh3Cb`

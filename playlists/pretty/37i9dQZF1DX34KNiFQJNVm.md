@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem  Lauana Prado, KAROL G, Greta Van Fleet, Michele Andrade, Jão, Péricles com Ferrugem e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,305,957 likes - 83 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,304,970 likes - 83 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 82 | [Não Sento à Mesa](https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG) | [Inofensiva Flor \(Primeiro Ato\)](https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg) | 2:59 |
 | 83 | [Pose](https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2) | [Blush](https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F) | [Pose](https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY) | 3:22 |
 
-Snapshot ID: `AAAAADM0fwxo0Wi/O/RH5FHcsyZK3+1V`
+Snapshot ID: `AAAAAFNWNW9j/B7WKpotphN5hlibBBX5`

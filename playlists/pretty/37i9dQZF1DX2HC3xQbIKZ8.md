@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,922 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,936 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 74 | [They Don't Know](https://open.spotify.com/track/1KoUNUIASLygPUAboZ6rdv) | [Aaradhna](https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Treble & Reverb \(Deluxe Edition\)](https://open.spotify.com/album/77tgpOa06Z8hMeI8hDp3sw) | 3:59 |
 | 75 | [Cutie Fasho](https://open.spotify.com/track/3PWJRzDnppOr70LF5zHbVt) | [Johnny Suite](https://open.spotify.com/artist/5CQBtjSVBWjq0y1jJrWGG9) | [Cutie Fasho](https://open.spotify.com/album/1lISBLsSGYa55AKoN5kzjk) | 3:43 |
 
-Snapshot ID: `AAAAAJyn4FmC8w1wXN47sw5QZpmm0/PR`
+Snapshot ID: `AAAAAIXSGHFB2aHIHfBhk75g6YJZyg7P`

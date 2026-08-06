@@ -8375,6 +8375,24 @@
     },
     {
       "album": {
+        "name": "Punch the Clown",
+        "url": "https://open.spotify.com/album/16tI9R9L3aJyHYksO5A0vF"
+      },
+      "artists": [
+        {
+          "name": "Captain Side Eye",
+          "url": "https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208252,
+      "name": "Punch the Clown",
+      "url": "https://open.spotify.com/track/2T8etM0uAXR8w4LI2iBmGg"
+    },
+    {
+      "album": {
         "name": "Punk Parrot",
         "url": "https://open.spotify.com/album/5LPgfFFpDiisyYSb4FpnqV"
       },

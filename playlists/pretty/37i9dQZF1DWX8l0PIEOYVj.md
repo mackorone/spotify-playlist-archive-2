@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass 🛸 featuring NURKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,263 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,249 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [Superluminal](https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Superluminal](https://open.spotify.com/album/6FPhibUXT8Y0f6RwfKJUII) | 5:28 |
 | 150 | [Before We Say Goodbye](https://open.spotify.com/track/0Ew01g0wdjESoidUYRfWW6) | [GhostDragon](https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Before We Say Goodbye](https://open.spotify.com/album/4700dcBAB51SCGMQR79bEW) | 3:40 |
 
-Snapshot ID: `AAAAAJvNShaC+WZGSUfcYiVUaP4bBm7U`
+Snapshot ID: `AAAAANyFDHoti+8WfKqyYj8AM4iVrLk2`

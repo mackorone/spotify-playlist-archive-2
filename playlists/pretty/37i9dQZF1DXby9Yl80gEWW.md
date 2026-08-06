@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > No words, just chops\. Cover: Matt Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,110 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,124 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 74 | [Bon Aqua Blues](https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK) | [Double Banjo Bluegrass Spectacular](https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch) | 3:00 |
 | 75 | [Bozeman \- Clawhammer Version](https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM) | [Nick Dumas](https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab) | [Bozeman \(Clawhammer Version\)](https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2) | 4:16 |
 
-Snapshot ID: `AAAAAA+NtNDZxqv1BkhHBkn4RgAicPWu`
+Snapshot ID: `AAAAABWL3zx12xAQVVxoNVLas1TT8yp3`

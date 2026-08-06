@@ -17407,6 +17407,24 @@
     },
     {
       "album": {
+        "name": "A NEW ERA OF NOW",
+        "url": "https://open.spotify.com/album/7guNJQC9dvSsuvCf8shTVQ"
+      },
+      "artists": [
+        {
+          "name": "AEN",
+          "url": "https://open.spotify.com/artist/4FDIcy85KVTaLw8TCGFpJQ"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "X to Z (Next to me) (Japanese ver.)",
+      "url": "https://open.spotify.com/track/7aQMHcPKeaYJ69sKVH3jom"
+    },
+    {
+      "album": {
         "name": "XTC",
         "url": "https://open.spotify.com/album/6rwbsr75hgHJ6x8WX2cul2"
       },

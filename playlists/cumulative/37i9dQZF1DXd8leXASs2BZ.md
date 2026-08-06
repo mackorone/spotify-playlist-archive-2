@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: ziproom
 
-1,740 songs - 3 day 7 hr 34 min
+1,741 songs - 3 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1734,6 +1734,7 @@
 | [誰 \(了└/ 了ナ・勹″ラ・/〒"\)](https://open.spotify.com/track/2k7qBpLnNPD0plmaUiMaKS) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2) | [誰 \(了└/ 了ナ・勹″ラ・/〒"\)](https://open.spotify.com/album/5aBQxdbYUuuuHeWJTIBPdx) | 2:08 | 2024-04-24 | 2024-06-05 |
 | [調子いい](https://open.spotify.com/track/7lnCUxVDaXYUBb4ySnn8E2) | [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60), [stb](https://open.spotify.com/artist/0rGik946QMPvmQ5neZrEjr), [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7) | [調子いい](https://open.spotify.com/album/7C2SE6fXgzvEGyGEuUuEas) | 2:39 | 2025-04-30 | 2025-09-03 |
 | [諸行無常](https://open.spotify.com/track/6N8dZN0X6Ozt2EcdPCsFcw) | [ROTORI](https://open.spotify.com/artist/2N5cktqbxuVUJHLlCJJiSR) | [25](https://open.spotify.com/album/7nKNbZPgqGLHmVCjOk4v4P) | 2:28 | 2026-07-01 | 2026-07-22 |
+| [豚に真珠](https://open.spotify.com/track/2kKZExNmKburfiJIVJzHgv) | [BABYWOODROSE](https://open.spotify.com/artist/1XzfqpnX0VAcE77JE21mPB) | [Addicted](https://open.spotify.com/album/64noONlcKtazpMRrU1otTo) | 2:21 | 2026-08-05 |  |
 | [賽](https://open.spotify.com/track/6cGxgzGICj2OV8BLd3PYrk) | [shai](https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP) | [賽](https://open.spotify.com/album/6JyBNKeUoChdWONN50gCZt) | 2:35 | 2025-07-15 | 2025-07-30 |
 | [走れ](https://open.spotify.com/track/0fjlgU0dOB3vXeUVn1A1jZ) | [B\-Spanner](https://open.spotify.com/artist/7qsx4ACvkISyFPPLFngPux), [Yvngboi P](https://open.spotify.com/artist/6OpF456GdtGi3oqOafqVWW), [136youngboss](https://open.spotify.com/artist/1n7FY47pC01ERDNNxnMv74) | [走れ](https://open.spotify.com/album/5uSNleRwNu47GACPozwz4W) | 2:50 | 2026-04-28 | 2026-06-17 |
 | [超favorite!](https://open.spotify.com/track/3CTh7vj4AuYrTMxQPDwSoI) | [MurM](https://open.spotify.com/artist/5aq8ZtunukmGdW8K7BDrnP) | [超favorite!](https://open.spotify.com/album/6VtidnTPDULdp5binkbPOj) | 2:58 | 2026-05-26 | 2026-06-10 |

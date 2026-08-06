@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,671 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,683 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 49 | [We Are One \(Raghupati Raghava\)](https://open.spotify.com/track/0fE8GmOwbZXl6s6jH0W2TA) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV), [Masa Takumi](https://open.spotify.com/artist/232qTYJ9qlN1FUQyV9NERy), [Kailash Satyarthi](https://open.spotify.com/artist/3DHSvmqyBGYbxhTSho4Ftn), [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Erwilian](https://open.spotify.com/artist/2qmu9C9fWBAhbD4o4orObv), [Esin Aydıngöz](https://open.spotify.com/artist/6ZQWiuIwptdIdRiqchBR1p), [Adelmo Guidarelli](https://open.spotify.com/artist/0j9gsC4bDIBWR6YRTmLtpl) | [Gandhi \- Mantras Of Compassion](https://open.spotify.com/album/64nu6ReZ5mlP7saHh3sgVK) | 3:34 |
 | 50 | [VIHAR](https://open.spotify.com/track/5g4nywaf2qGoY8J5iGvkyw) | [Tanmay Deochake](https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ), [Rahul Wadhwani](https://open.spotify.com/artist/0SK7RDcRnWovFlBRPeL1aV), [Gino Banks](https://open.spotify.com/artist/2wZjVRal2ABf9OWGiNLUBZ), [Manaskumar](https://open.spotify.com/artist/12k2tiAAfjlofwMhqnpZvA) | [VIHAR](https://open.spotify.com/album/2bRXMyMM97uGP308LUnW8s) | 8:56 |
 
-Snapshot ID: `AAAAANxhZSq9qDetAh0oViTOX20Xz/z4`
+Snapshot ID: `AAAAAMEop860ssyrI/Js4fJwmbqlOljz`

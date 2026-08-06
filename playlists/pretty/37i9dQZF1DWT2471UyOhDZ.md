@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 
 > A hand\-picked selection for an extraordinary palette\. Cover: The Durutti Column
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,565 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,568 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 | 99 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 |
 | 100 | [Come Over, Do Me Wrong](https://open.spotify.com/track/0WjU2ltA87PJjO6u6YsvHl) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [Come Over, Do Me Wrong](https://open.spotify.com/album/57uLR6kBn4y4a7dfo3NoN0) | 4:30 |
 
-Snapshot ID: `AAAAAGsILlTDQkgPsbrD586Q8bJiFGbN`
+Snapshot ID: `AAAAAMixHwqrmHMEAT3VK3nzJjJGiw/r`

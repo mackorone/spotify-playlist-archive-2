@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to women at full volume. Cover: Haifa Wehbe",
+  "description": "Listen to women at full volume. Cover: Carly Rae Jepsen",
   "name": "EQUAL",
   "tracks": [
     {
@@ -554,6 +554,24 @@
       "duration_ms": 184390,
       "name": "4 Myself",
       "url": "https://open.spotify.com/track/3hz7TSr45o3hRqS9Ytmj4c"
+    },
+    {
+      "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
     },
     {
       "album": {
@@ -1558,6 +1576,24 @@
       "duration_ms": 178770,
       "name": "Afromantik",
       "url": "https://open.spotify.com/track/1Ve0m4eghzmDS7AsST9757"
+    },
+    {
+      "album": {
+        "name": "After All",
+        "url": "https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252185,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ"
     },
     {
       "album": {
@@ -5600,7 +5636,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 226479,
       "name": "BIGGER",
       "url": "https://open.spotify.com/track/4R2KJOgEUP2qO3re9BwIhs"
@@ -8255,6 +8291,24 @@
     },
     {
       "album": {
+        "name": "Ceai langa tine",
+        "url": "https://open.spotify.com/album/3mXZJCP3IYgC22xLx1OC0D"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Ceai langa tine",
+      "url": "https://open.spotify.com/track/4SWkUkMoq4sScbU9AOSFIT"
+    },
+    {
+      "album": {
         "name": "Topical Dancer",
         "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
       },
@@ -9256,6 +9310,24 @@
       "duration_ms": 174325,
       "name": "Club classics featuring bb trickz",
       "url": "https://open.spotify.com/track/4IoSgVUcjkItkgWlhm2CIp"
+    },
+    {
+      "album": {
+        "name": "Club To Your Arms",
+        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191596,
+      "name": "Club To Your Arms",
+      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
     },
     {
       "album": {
@@ -10322,7 +10394,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 179317,
       "name": "cry jar",
       "url": "https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp"
@@ -11468,7 +11540,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 296173,
       "name": "Deedar De (Nikhil Mix)",
       "url": "https://open.spotify.com/track/19uybTRF0AmvCe1VpnbIv6"
@@ -12272,6 +12344,28 @@
       "duration_ms": 221538,
       "name": "Dil\u00favio",
       "url": "https://open.spotify.com/track/2munsJnflycsB0jAPgDxaU"
+    },
+    {
+      "album": {
+        "name": "Farasha - \u0641\u0631\u0627\u0634\u0629",
+        "url": "https://open.spotify.com/album/5o214igdQdbjhVlAnd6ukf"
+      },
+      "artists": [
+        {
+          "name": "Inez",
+          "url": "https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108821,
+      "name": "Dima - \u062f\u064a\u0645\u0627",
+      "url": "https://open.spotify.com/track/403VWu7hrDm7JMKtBBzbBI"
     },
     {
       "album": {
@@ -13232,7 +13326,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 197793,
       "name": "Dwa s\u0142o\u0144ca",
       "url": "https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru"
@@ -21708,7 +21802,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 200253,
       "name": "I Wish You Well",
       "url": "https://open.spotify.com/track/62MQQhu3ljO21zGvjWEJYV"
@@ -25520,7 +25614,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 166893,
       "name": "la boss",
       "url": "https://open.spotify.com/track/6xrDSwUTjEbFDmEaAjUQab"
@@ -26432,7 +26526,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 131440,
       "name": "lao shi",
       "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
@@ -33075,6 +33169,24 @@
     },
     {
       "album": {
+        "name": "Sehidup Semusik",
+        "url": "https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT"
+      },
+      "artists": [
+        {
+          "name": "Andien",
+          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280125,
+      "name": "Naksir",
+      "url": "https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE"
+    },
+    {
+      "album": {
         "name": "Naram Kaalja (From \"Amar Singh Chamkila\")",
         "url": "https://open.spotify.com/album/7CY8xqvfpEIZJAnsWJKLbC"
       },
@@ -37679,6 +37791,24 @@
     },
     {
       "album": {
+        "name": "SENZA FIATO",
+        "url": "https://open.spotify.com/album/1SG8l9HK7JW4ECmURSPLVX"
+      },
+      "artists": [
+        {
+          "name": "Birthh",
+          "url": "https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184924,
+      "name": "Pi\u00f9 in Alto",
+      "url": "https://open.spotify.com/track/6CpzsTZfjcLBVLhCmEKI1v"
+    },
+    {
+      "album": {
         "name": "DEGRENGOLADA",
         "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
       },
@@ -39160,7 +39290,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 139345,
       "name": "Rabszolga",
       "url": "https://open.spotify.com/track/51IUF2k7kR8AtY3dPyg4jU"
@@ -39300,7 +39430,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 215735,
       "name": "Rai pe P\u0103m\u00e2nt",
       "url": "https://open.spotify.com/track/5Qhn3eTnypeKtXehB8bY0I"
@@ -46391,6 +46521,24 @@
     },
     {
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/527WThPElJ2zVD0SXN2wst"
+      },
+      "artists": [
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121512,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5B8GKNiAHjmlxtizWo58E3"
+    },
+    {
+      "album": {
         "name": "Tera Nishaan",
         "url": "https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I"
       },
@@ -48964,6 +49112,24 @@
       "duration_ms": 154276,
       "name": "T\u00c9",
       "url": "https://open.spotify.com/track/3qXG5PejI9Z8ZFdfjrtZOQ"
+    },
+    {
+      "album": {
+        "name": "T\u00fa, mi bb",
+        "url": "https://open.spotify.com/album/3pv2BRwZhBXBxXfNYifT0h"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187591,
+      "name": "T\u00fa, mi bb",
+      "url": "https://open.spotify.com/track/2GuNMjF2VUeUUgtx6CZzYf"
     },
     {
       "album": {
@@ -56848,7 +57014,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 208680,
       "name": "\u85cd\u67d3",
       "url": "https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6"
@@ -56996,6 +57162,24 @@
       "duration_ms": 175500,
       "name": "\u8a31\u7684\u751f\u65e5\u9858\u671b\u5f9e\u4f86\u6c92\u5be6\u73fe\u904e",
       "url": "https://open.spotify.com/track/13Jc8X8BAExRzR0iU3LHcN"
+    },
+    {
+      "album": {
+        "name": "\u8cb4\u5f97\u53ef\u4ee5",
+        "url": "https://open.spotify.com/album/2a4xzj43vWwzekM1VcHeY8"
+      },
+      "artists": [
+        {
+          "name": "\u8607\u6167\u502b",
+          "url": "https://open.spotify.com/artist/0HT1FqSMdbL40XGpLcLnoF"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252543,
+      "name": "\u8cb4\u5f97\u53ef\u4ee5 (\u5f71\u96c6\u300a\u6b20\u59b3\u7684\u90a3\u5834\u5a5a\u79ae\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/0wXB9Y8Kn5pKRg3XabUkb7"
     },
     {
       "album": {

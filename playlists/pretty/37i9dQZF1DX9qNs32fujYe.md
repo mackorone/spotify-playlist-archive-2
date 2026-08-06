@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. Classics to brand new tracks across heavy, power, doom, thrash, and sludge\. Cover: Mastodon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,411,782 likes - 200 songs - 14 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,411,871 likes - 200 songs - 14 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 199 | [Together We Rise](https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Together We Rise](https://open.spotify.com/album/2DAqWZXEeZkdWkfgOCek8V) | 5:02 |
 | 200 | [Everything](https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Everything](https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7) | 4:18 |
 
-Snapshot ID: `AAAAAKFvwRy8F+8tg22iQH+aHJXtSRJ0`
+Snapshot ID: `AAAAAGG7ANFPKnlEL0oOFRVQVH54a22/`

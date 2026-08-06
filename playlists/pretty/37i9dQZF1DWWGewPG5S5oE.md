@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 石川紅奈
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,442 likes - 154 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,456 likes - 154 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,12 +84,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 74 | [偶然の一致](https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [偶然の一致](https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ) | 4:11 |
 | 75 | [二人静 \-JAZZ\-](https://open.spotify.com/track/27oq5Tj8Leb6pExeE4aXTn) | [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [二人静 \-JAZZ\-](https://open.spotify.com/album/4fHTDqDC9nkGh9QWGtjzTy) | 4:10 |
 | 76 | [Pathos](https://open.spotify.com/track/55kHKJPafkM9HynXY0oozI) | [川嶋哲郎](https://open.spotify.com/artist/7HYO9BWP2sgKxAF1VbCwCM), [CHAKA STRING QUARTET](https://open.spotify.com/artist/6bZSpfaWtn36aiqdRyakh2) | [A Walk in Life](https://open.spotify.com/album/66a5UKnW2qZdFmItUgReg3) | 8:05 |
-| 77 | [ゆらゆら](https://open.spotify.com/track/1OocGOgbwij2A8tLxPVqeS) | [魚返明未](https://open.spotify.com/artist/1fxVeIoQpbBUEVZycjl8AP), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [魚返明未＆井上銘Ⅱ](https://open.spotify.com/album/0tDwlpIHHgMgOz5pLkJ6zB) | 6:16 |
-| 78 | [M.R.I\_ミライ](https://open.spotify.com/track/7tv7wmgimqlvdCXKXvX5xW) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [M.R.I\_ミライ](https://open.spotify.com/album/2JZ9Z50szpF4NUNTHo2KLt) | 4:54 |
+| 77 | [M.R.I\_ミライ](https://open.spotify.com/track/7tv7wmgimqlvdCXKXvX5xW) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [M.R.I\_ミライ](https://open.spotify.com/album/2JZ9Z50szpF4NUNTHo2KLt) | 4:54 |
+| 78 | [ゆらゆら](https://open.spotify.com/track/1OocGOgbwij2A8tLxPVqeS) | [魚返明未](https://open.spotify.com/artist/1fxVeIoQpbBUEVZycjl8AP), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [魚返明未＆井上銘Ⅱ](https://open.spotify.com/album/0tDwlpIHHgMgOz5pLkJ6zB) | 6:16 |
 | 79 | [Raccoon](https://open.spotify.com/track/20ZpdLjSxQ7yAupAFQpMM7) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Raccoon](https://open.spotify.com/album/6AU9T8gFA74uVIsGhwIC6Q) | 3:33 |
 | 80 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 |
-| 81 | [Saudade Vem Correndo](https://open.spotify.com/track/1oJ7QLrQyShj1DDPl4UFlt) | [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [Saudade Vem Correndo](https://open.spotify.com/album/06ZqjJPD4uaffJMvGPO0yf) | 4:08 |
-| 82 | [S.Y.P.T\. \(Show Your PentaTonic\)](https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [TAPES of ACES \- Side A](https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC) | 6:49 |
+| 81 | [S.Y.P.T\. \(Show Your PentaTonic\)](https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [TAPES of ACES \- Side A](https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC) | 6:49 |
+| 82 | [Saudade Vem Correndo](https://open.spotify.com/track/1oJ7QLrQyShj1DDPl4UFlt) | [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [Saudade Vem Correndo](https://open.spotify.com/album/06ZqjJPD4uaffJMvGPO0yf) | 4:08 |
 | 83 | [言葉の庭](https://open.spotify.com/track/4e4buhnX2aH7lXkAF13rtW) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [言葉の庭](https://open.spotify.com/album/1YjUHYUg8e4s7OL47qxxsD) | 2:31 |
 | 84 | [Terracotta](https://open.spotify.com/track/1w5v26yZEOV1hglLvElyI0) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [The Little Cycle](https://open.spotify.com/album/2ysNJMEwr7AYMXH6EynqVZ) | 4:10 |
 | 85 | [All Will Be Fine](https://open.spotify.com/track/0ysvcp1D8gwqMYBPZrzceW) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [All Will Be Fine](https://open.spotify.com/album/5xNbQPNTdNhtZ7Kmon2IgB) | 4:51 |
@@ -111,9 +111,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 101 | [天使乃恥部](https://open.spotify.com/track/3LsvaeGXncWNyOICOPphrK) | [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv), [ペペ・トルメント・アスカラール](https://open.spotify.com/artist/6oBZiNmjO9gjqGcS5Hk2VU) | [天使乃恥部](https://open.spotify.com/album/1EoAkbRqP8HtjYog5DwX9C) | 5:46 |
 | 102 | [Remind Me](https://open.spotify.com/track/6AozAppauV6fPK3b88NRpl) | [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [Remind Me c/w Miles To Cross](https://open.spotify.com/album/03d8zfNiyOFfkKAnMcHw3h) | 4:04 |
 | 103 | [Relativity](https://open.spotify.com/track/0aXrbIWN1d1HeTpUeGypAT) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [Relativity](https://open.spotify.com/album/1QpQgtUdTzW2ythTOV0AWG) | 4:28 |
-| 104 | [√Advent](https://open.spotify.com/track/00XQhflJMwWY45mW6jTyfD) | [Keichan](https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG) | [Echoes](https://open.spotify.com/album/4XB6hEAmybQedlWt8IxloQ) | 3:52 |
-| 105 | [なにもない](https://open.spotify.com/track/6ZXt2LnoyvwrpuJKd92cy4) | [Ryo Takaiwa](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [なにもない](https://open.spotify.com/album/7AEnNBzCHRHUNFvnqz6ifr) | 5:32 |
-| 106 | [Life Is Beautiful](https://open.spotify.com/track/243O6DF6CLbvpDaTLel2Bk) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [Life Is Beautiful](https://open.spotify.com/album/6NuhtNddVOorha4bfhfmjv) | 5:06 |
+| 104 | [なにもない](https://open.spotify.com/track/6ZXt2LnoyvwrpuJKd92cy4) | [Ryo Takaiwa](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [なにもない](https://open.spotify.com/album/7AEnNBzCHRHUNFvnqz6ifr) | 5:32 |
+| 105 | [Life Is Beautiful](https://open.spotify.com/track/243O6DF6CLbvpDaTLel2Bk) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [Life Is Beautiful](https://open.spotify.com/album/6NuhtNddVOorha4bfhfmjv) | 5:06 |
+| 106 | [√Advent](https://open.spotify.com/track/00XQhflJMwWY45mW6jTyfD) | [Keichan](https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG) | [Echoes](https://open.spotify.com/album/4XB6hEAmybQedlWt8IxloQ) | 3:52 |
 | 107 | [A Little Spice](https://open.spotify.com/track/3rgPvwRlxeqPYFcEvXhk0K) | [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [Mysterious Vibes / A Little Spice](https://open.spotify.com/album/5684kLpfJBsGmptAyuDe7h) | 4:27 |
 | 108 | [Missing My Bird \- 2024 Ver.](https://open.spotify.com/track/1QHKFt9PK3EgZB8PYaeYhk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [Missing My Bird \(2024 Ver.\)](https://open.spotify.com/album/0dmyPsnPN5tXrg5iZwoNc8) | 4:23 |
 | 109 | [Kobune](https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO) | [Taka Nawashiro](https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c) | [Lifescape](https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL) | 5:07 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 118 | [Rondo](https://open.spotify.com/track/2sZ3Fa7Y4w0qlQdEWAfI8v) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV), [The Danish Radio Big Band](https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE) | [Frames](https://open.spotify.com/album/7tDTqHUZiN1exzi6bhrsI5) | 8:57 |
 | 119 | [ILa](https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ILa](https://open.spotify.com/album/1fgM8l7SrpH7f9qG6iK6kk) | 3:11 |
 | 120 | [BUTTERFLY \(LIVE\)](https://open.spotify.com/track/6ND3US4IXyqUN1v9UQEpl0) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [HOPE FOR TOMORROW \(LIVE\)](https://open.spotify.com/album/5XFMFFK0I0MArDSHcfFiM5) | 6:53 |
-| 121 | [HOME](https://open.spotify.com/track/7sJJ2hkP6Ruy3fIdKBmuQn) | [Reina Kawaji](https://open.spotify.com/artist/0gF9KRySxXKmf90nFNXBon) | [HOME](https://open.spotify.com/album/0jUuxXfS6nuh4P9uvaefIw) | 6:39 |
-| 122 | [Tokyo Portage](https://open.spotify.com/track/3CNv1GuxQLN1f4vdvUsBJ3) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Tokyo Portage](https://open.spotify.com/album/0PrT9gC39VNVdxo1odhjmm) | 3:13 |
+| 121 | [Tokyo Portage](https://open.spotify.com/track/3CNv1GuxQLN1f4vdvUsBJ3) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Tokyo Portage](https://open.spotify.com/album/0PrT9gC39VNVdxo1odhjmm) | 3:13 |
+| 122 | [HOME](https://open.spotify.com/track/7sJJ2hkP6Ruy3fIdKBmuQn) | [Reina Kawaji](https://open.spotify.com/artist/0gF9KRySxXKmf90nFNXBon) | [HOME](https://open.spotify.com/album/0jUuxXfS6nuh4P9uvaefIw) | 6:39 |
 | 123 | [Zig\-Zag](https://open.spotify.com/track/2TtrLyX6HKHCZPX0mebwEw) | [Hiroaki Nakahara](https://open.spotify.com/artist/0SEnJE6D4QGANQU6IYGEq5) | [Zig\-Zag](https://open.spotify.com/album/2uB686S8OuIgQ3QZHbJxyy) | 4:26 |
 | 124 | [Pursuit](https://open.spotify.com/track/7IJpgWJNIc0HvsOjJmR6Hl) | [Mayuko Katakura](https://open.spotify.com/artist/5eP9be2Y1fGaWTQqvbF4hG) | [The Duality of My Soul](https://open.spotify.com/album/5ei1dg73EB8jSnUQgNSOxL) | 6:03 |
 | 125 | [Everflowing Time and Tide](https://open.spotify.com/track/52oPEOLiSwtiiYBsCf4R9w) | [おがわもみじ](https://open.spotify.com/artist/6FWtbiVsdaF2SFBLSW92ZB) | [Everflowing Time and Tide](https://open.spotify.com/album/1kOZ7ZddQgnlsnfvOrGIkt) | 4:54 |
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 141 | [permanent triangle](https://open.spotify.com/track/6IFMMSJ6JG6m06bavyHn1E) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [permanent triangle](https://open.spotify.com/album/3SUpBkO5BE8zupb9pVWjFg) | 4:26 |
 | 142 | [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 |
 | 143 | [Hill](https://open.spotify.com/track/202KKsYI5B77ixFZuxWy0i) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Out of the Blue](https://open.spotify.com/album/392gWB0CmDrhftQzmSVQQt) | 5:36 |
-| 144 | [今夜はブギー・バック](https://open.spotify.com/track/5FGYRvymVBG0Fbhje3unXJ) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Don't let me down / 今夜はブギー・バック](https://open.spotify.com/album/3djgKDFOpfICX31bkOZ9uN) | 4:16 |
-| 145 | [Departure](https://open.spotify.com/track/4g7sbGRPB5h1oZ265SVz86) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Moonlit](https://open.spotify.com/album/7bbgoL1AjCJupyQZQPzlSy) | 10:58 |
+| 144 | [Departure](https://open.spotify.com/track/4g7sbGRPB5h1oZ265SVz86) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Moonlit](https://open.spotify.com/album/7bbgoL1AjCJupyQZQPzlSy) | 10:58 |
+| 145 | [今夜はブギー・バック](https://open.spotify.com/track/5FGYRvymVBG0Fbhje3unXJ) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Don't let me down / 今夜はブギー・バック](https://open.spotify.com/album/3djgKDFOpfICX31bkOZ9uN) | 4:16 |
 | 146 | [Virtual Insanity](https://open.spotify.com/track/7xGjUF9Lq1pwGEua5hANDX) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Virtual Insanity](https://open.spotify.com/album/3de7QqjProXuPJwFL74Tgg) | 4:47 |
 | 147 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 |
 | 148 | [massive](https://open.spotify.com/track/5ZLhUcvJ8XVOQ8syjyPYod) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [GOOD LUCK SOUND TRACKS 2](https://open.spotify.com/album/5BDrpgNmD2rtFlLr6zKj2P) | 3:51 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 153 | [Big Saaac\. \- Cleanup 10th Anniversary](https://open.spotify.com/track/3TmdJHfnGjZ56G1lMJn3nP) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Big Saaac\. \(Cleanup 10th Anniversary\)](https://open.spotify.com/album/3SJo9hEkE2q3l42jjd1Hwg) | 7:58 |
 | 154 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
 
-Snapshot ID: `AAAAABvxUP0tcSD/wb79PgYDoBvU8Sit`
+Snapshot ID: `AAAAAGQFdwKl5ZErHdNZU4ZGUD5NYM6M`

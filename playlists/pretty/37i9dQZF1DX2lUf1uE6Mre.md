@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Luciano, Jazeek
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,415 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,334 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 99 | [Heavyweight](https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM) | [Saliou](https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY) | [Heavyweight](https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp) | 1:35 |
 | 100 | [GETRENNTE SOMMERNACHT](https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [GETRENNTE SOMMERNACHT](https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl) | 2:41 |
 
-Snapshot ID: `AAAAAEx0Mv/vw94UFG1TofBdXkmIJJM/`
+Snapshot ID: `AAAAAFSMHSoACKz+zKEj9t2Dt1NmalvS`

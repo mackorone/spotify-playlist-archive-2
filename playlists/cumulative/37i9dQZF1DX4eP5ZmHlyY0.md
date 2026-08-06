@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: CORTIS & Juicy J
 
-1,068 songs - 2 day 9 hr 53 min
+1,069 songs - 2 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -939,6 +939,7 @@
 | [WYLD](https://open.spotify.com/track/1VkT7cfI4GQPj5aBVWj7vU) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [WYLD \- The 1st Album](https://open.spotify.com/album/3MStQNoB6697D7M11xCqOl) | 2:41 | 2026-05-18 |  |
 | [X](https://open.spotify.com/track/2oZ2EKWo51eXQsn83pjNvj) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [blackout](https://open.spotify.com/album/10UGFED19zySy8M8bjI0rk) | 3:15 | 2025-11-11 | 2026-04-24 |
 | [X](https://open.spotify.com/track/0XTt8RvNdO1zxxTf0L7ZLr) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [5x](https://open.spotify.com/album/549FaK4UMSSCdbxKVLWaYL) | 2:51 | 2025-06-28 | 2025-09-22 |
+| [X to Z \(Next to me\) \(Japanese ver.\)](https://open.spotify.com/track/7aQMHcPKeaYJ69sKVH3jom) | [AEN](https://open.spotify.com/artist/4FDIcy85KVTaLw8TCGFpJQ) | [A NEW ERA OF NOW](https://open.spotify.com/album/7guNJQC9dvSsuvCf8shTVQ) | 3:05 | 2026-08-05 |  |
 | [XTC](https://open.spotify.com/track/76qI8ihfONou0gth5gHW18) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [XTC](https://open.spotify.com/album/6rwbsr75hgHJ6x8WX2cul2) | 2:52 | 2026-01-15 | 2026-02-18 |
 | [YANKEE SQUAT](https://open.spotify.com/track/2FjcwZjJNXkTPsQheG1buR) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [YANKEE SQUAT](https://open.spotify.com/album/5LWK0q6Ishn7GskS76W3r0) | 2:37 | 2026-07-14 |  |
 | [YEAH! YEAH!](https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 3:04 | 2026-05-18 |  |

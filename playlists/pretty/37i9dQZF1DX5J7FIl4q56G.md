@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Tony Iommi
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,585 likes - 201 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,581 likes - 201 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 200 | [Death Mask Messiah](https://open.spotify.com/track/1NNDWvbpnggwZeGxonruHx) | [Exumer](https://open.spotify.com/artist/03sDKsD3y34NBAjeRHucde) | [Death Mask Messiah](https://open.spotify.com/album/1hCcdzD2NSItjUz7a36pkJ) | 3:46 |
 | 201 | [MAUERBAUER](https://open.spotify.com/track/6vJD8BJ3qJWFqsPl8hfVFn) | [KORA WINTER](https://open.spotify.com/artist/3yrMI0nTunPO2waZSzP1wj), [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [MAUERBAUER](https://open.spotify.com/album/3BOC71t9BYtvNSKqBUHz2G) | 4:00 |
 
-Snapshot ID: `AAAAAIHdNPUMCcoyi1lNTCqTpl2gvycN`
+Snapshot ID: `AAAAAOSUTkdH876jQu9gZyTW7yzrb280`

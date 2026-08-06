@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Rotimi Keys & Greatman Takit
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,031 likes - 130 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,036 likes - 130 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 129 | [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Beulah Land Music](https://open.spotify.com/artist/3EcGsz8ULgfWoJl8D60bBh) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 |
 | 130 | [Pain Killer](https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm) | [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [Pain Killer](https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc) | 2:52 |
 
-Snapshot ID: `AAAAAGvS2Zid1KIhNa3TRKY3V2YKNA5z`
+Snapshot ID: `AAAAALu1xn6pvd9N6Y+31niFDyt79lt5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: INNDRIVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,476 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,224 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Shut It Down](https://open.spotify.com/track/05TXeKZzynUYm5fSlEAo3F) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Shut It Down](https://open.spotify.com/album/3K7bUlbOGrHEaCnHBnAyLh) | 3:06 |
 | 50 | [Amor en Miami](https://open.spotify.com/track/0AGXJn0vNyFHJNA4B5oF13) | [Tinx & Lucas](https://open.spotify.com/artist/5Csue1GZhgZ2rMRredYxIL), [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ), [Kaala Shaw](https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf) | [Amor en Miami](https://open.spotify.com/album/4ISpV8ZnYGPjG9fnV97ucD) | 3:01 |
 
-Snapshot ID: `AAAAAEmUcKkWlkkiYooo5Op1trwWVp2+`
+Snapshot ID: `AAAAABo75fHRjzdHJOoa9IYWo6kpY0XS`

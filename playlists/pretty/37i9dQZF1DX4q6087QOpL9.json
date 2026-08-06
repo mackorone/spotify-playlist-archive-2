@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 131799,
+  "num_followers": 131817,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFRNB2ot59CK4nCT2NTKrR07zf3H",
+  "snapshot_id": "AAAAALwPL082ovs0duTE46UfaHQeCTJD",
   "tracks": [
     {
       "added_at": "2026-05-04 11:38:19",
@@ -2895,26 +2895,6 @@
     {
       "added_at": "2026-05-04 11:38:19",
       "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/0JxZ6RXBtU9Exb6pRekzsv"
-      },
-      "artists": [
-        {
-          "name": "Thommy Davis",
-          "url": "https://open.spotify.com/artist/2xPooxXsKv4dqHK9abZN2T"
-        },
-        {
-          "name": "Tasha LaRae",
-          "url": "https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ"
-        }
-      ],
-      "duration_ms": 448524,
-      "name": "The Real Thing - 12 Inch Vocal Mix",
-      "url": "https://open.spotify.com/track/0WhweXxoF4ZNtH2VQt8hu9"
-    },
-    {
-      "added_at": "2026-05-04 11:38:19",
-      "album": {
         "name": "Ain't No Grave",
         "url": "https://open.spotify.com/album/2sku40lEMajfvheM6TiFeK"
       },
@@ -2935,6 +2915,26 @@
       "duration_ms": 496311,
       "name": "Ain't No Grave - Ezel Remix",
       "url": "https://open.spotify.com/track/1QSlvo2U8oG9MKBo6TjjqP"
+    },
+    {
+      "added_at": "2026-05-04 11:38:19",
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/0JxZ6RXBtU9Exb6pRekzsv"
+      },
+      "artists": [
+        {
+          "name": "Thommy Davis",
+          "url": "https://open.spotify.com/artist/2xPooxXsKv4dqHK9abZN2T"
+        },
+        {
+          "name": "Tasha LaRae",
+          "url": "https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ"
+        }
+      ],
+      "duration_ms": 448524,
+      "name": "The Real Thing - 12 Inch Vocal Mix",
+      "url": "https://open.spotify.com/track/0WhweXxoF4ZNtH2VQt8hu9"
     },
     {
       "added_at": "2026-05-04 11:38:19",
@@ -2979,22 +2979,6 @@
     {
       "added_at": "2026-05-04 11:38:19",
       "album": {
-        "name": "The Child In My Heart",
-        "url": "https://open.spotify.com/album/6hvgqSknLDzyrTv2aXJOp8"
-      },
-      "artists": [
-        {
-          "name": "Dean Baker",
-          "url": "https://open.spotify.com/artist/1jK0e0MgGuKLhyQSz8zXBH"
-        }
-      ],
-      "duration_ms": 377419,
-      "name": "Child In My Heart - Original Mix",
-      "url": "https://open.spotify.com/track/2fHmuo8dYRpFZvpjM5bjSc"
-    },
-    {
-      "added_at": "2026-05-04 11:38:19",
-      "album": {
         "name": "Urdaone EP",
         "url": "https://open.spotify.com/album/1oD62CRuAxouskgkX7WgOn"
       },
@@ -3007,6 +2991,22 @@
       "duration_ms": 201904,
       "name": "Urdaone",
       "url": "https://open.spotify.com/track/7uJOdiKnc9Xj5q8unkr00W"
+    },
+    {
+      "added_at": "2026-05-04 11:38:19",
+      "album": {
+        "name": "The Child In My Heart",
+        "url": "https://open.spotify.com/album/6hvgqSknLDzyrTv2aXJOp8"
+      },
+      "artists": [
+        {
+          "name": "Dean Baker",
+          "url": "https://open.spotify.com/artist/1jK0e0MgGuKLhyQSz8zXBH"
+        }
+      ],
+      "duration_ms": 377419,
+      "name": "Child In My Heart - Original Mix",
+      "url": "https://open.spotify.com/track/2fHmuo8dYRpFZvpjM5bjSc"
     },
     {
       "added_at": "2026-05-04 11:38:19",
@@ -3079,6 +3079,26 @@
     {
       "added_at": "2026-05-04 11:38:19",
       "album": {
+        "name": "Baby Don't Make Me Wait",
+        "url": "https://open.spotify.com/album/1OHUILbjjdsl8fgSuil63r"
+      },
+      "artists": [
+        {
+          "name": "MissFly",
+          "url": "https://open.spotify.com/artist/5SnPXxLsSi66X7KHu4Mqvm"
+        },
+        {
+          "name": "David Bailey",
+          "url": "https://open.spotify.com/artist/6Cxf6Ba2E4Qa5rFHgJIGm2"
+        }
+      ],
+      "duration_ms": 244617,
+      "name": "Baby Don't Make Me Wait - Radio Edit",
+      "url": "https://open.spotify.com/track/4uPc7tAuWgbFldYtaxQf8p"
+    },
+    {
+      "added_at": "2026-05-04 11:38:19",
+      "album": {
         "name": "Do U Love Me (Jon Cutler Remixes)",
         "url": "https://open.spotify.com/album/69Yxxk5aslCZ6jrI4fFFyZ"
       },
@@ -3099,26 +3119,6 @@
       "duration_ms": 411718,
       "name": "Do U Love Me - Jon Cutler's Distant Music Mix",
       "url": "https://open.spotify.com/track/0cTZNXtsWY0WroZxhscNjW"
-    },
-    {
-      "added_at": "2026-05-04 11:38:19",
-      "album": {
-        "name": "Baby Don't Make Me Wait",
-        "url": "https://open.spotify.com/album/1OHUILbjjdsl8fgSuil63r"
-      },
-      "artists": [
-        {
-          "name": "MissFly",
-          "url": "https://open.spotify.com/artist/5SnPXxLsSi66X7KHu4Mqvm"
-        },
-        {
-          "name": "David Bailey",
-          "url": "https://open.spotify.com/artist/6Cxf6Ba2E4Qa5rFHgJIGm2"
-        }
-      ],
-      "duration_ms": 244617,
-      "name": "Baby Don't Make Me Wait - Radio Edit",
-      "url": "https://open.spotify.com/track/4uPc7tAuWgbFldYtaxQf8p"
     },
     {
       "added_at": "2026-05-04 11:38:19",

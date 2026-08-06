@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Becky G, benny blanco, Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,251 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,158 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 89 | [Just Be Bodies](https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms / Just Be Bodies](https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw) | 3:27 |
 | 90 | [Pop Sound](https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Pop Sound](https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql) | 2:51 |
 
-Snapshot ID: `AAAAAO0qK8I1qVzU4JhlHsSAWuwEvQK9`
+Snapshot ID: `AAAAAJ1v7RcvuiiOoW0pXoJ5tqR2ymb2`

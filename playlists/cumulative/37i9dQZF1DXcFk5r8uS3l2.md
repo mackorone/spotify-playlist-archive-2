@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Keb' Mo'
 
-501 songs - 1 day 7 hr 21 min
+502 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [500 Miles](https://open.spotify.com/track/7Im3HTE5xwZHJnHEgVBX6E) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:30 | 2023-02-03 | 2023-10-07 |
 | [61 South](https://open.spotify.com/track/1NG0CP8midHLl5rvXfx2MA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [61 South](https://open.spotify.com/album/20rYQgHGiV23Mhz6TCfJRy) | 1:20 | 2022-12-16 | 2023-01-06 |
 | [99 Ways](https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc) | [Andy Fairweather Low](https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD) | [Flang Dang](https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36) | 3:38 | 2023-04-07 |  |
+| [A Heathen's Hymn](https://open.spotify.com/track/0XWpd5TVLbIzAs2MLVhv2X) | [Kam Franklin](https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40) | [Didn't I](https://open.spotify.com/album/5oWqmVsxrWqqqUBBTEKsbr) | 3:12 | 2026-07-17 |  |
 | [A Thousand Heartaches](https://open.spotify.com/track/2GXG2FPTU6zMsr8qaL52HU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/2YDalbMwI6cOhTzTCUwvCc) | 5:00 | 2023-03-10 | 2023-03-20 |
 | [A Thousand Heartaches](https://open.spotify.com/track/3M4wqYQdjjQMEtEVprBflj) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blood Brothers](https://open.spotify.com/album/5KE2nGwb7wlAw4DdwlMXV4) | 5:00 | 2023-03-10 | 2024-04-19 |
 | [A Thousand Heartaches](https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj) | 5:00 | 2023-10-06 | 2026-04-30 |

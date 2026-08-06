@@ -2,7 +2,7 @@
 
 ### [Renee Cassar Radio](https://open.spotify.com/playlist/37i9dQZF1E4BblKgmiu0DK)
 
-> With Die Mannequin, Jinx & The Royals, Rebel Rebel Barbie and more
+> With Bif Naked, Jinx & The Royals, Die Mannequin and more
 
 635 songs - 1 day 10 hr 0 min
 

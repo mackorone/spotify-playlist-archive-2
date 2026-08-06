@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Justin Bieber",
+  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: ROLE MODEL",
   "name": "Pop Live",
   "tracks": [
     {
@@ -686,7 +686,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 233708,
       "name": "Die On This Hill - At KOKO",
       "url": "https://open.spotify.com/track/0vYVxe1X7QOpzyIJzyVG3O"
@@ -1718,6 +1718,24 @@
       "duration_ms": 319466,
       "name": "Heaven Is a Place on Earth - Live",
       "url": "https://open.spotify.com/track/6AcjVaDQwP51RqKnqbLU2u"
+    },
+    {
+      "album": {
+        "name": "ROLE MODEL - Spotify Live Room",
+        "url": "https://open.spotify.com/album/1Q3Gt1mOEnsSZTxyARBj93"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250601,
+      "name": "High Hopes 3000 (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/3RV62T9FpRkWbea3eCS5g3"
     },
     {
       "album": {

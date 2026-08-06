@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  GIANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,779 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,765 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 69 | [Pôr Do Sol Avisa](https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Pôr Do Sol Avisa](https://open.spotify.com/album/5iA2tzeH3oY00TtCvPbNYS) | 2:25 |
 | 70 | [A Primeira Vez](https://open.spotify.com/track/2nQzSlfAcve4eiux0K9Y9G) | [Os Amantes](https://open.spotify.com/artist/0CjUWR4PjqnTuxe0fPRoUs), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93), [Strobo](https://open.spotify.com/artist/12ppUSYrd4ZPPhp9Uqa18g) | [Amar, AMOR!](https://open.spotify.com/album/2XBkVZMKULzi3B0KhNjHPw) | 3:36 |
 
-Snapshot ID: `AAAAAK5+rU2SVVV8W33Gs9d6FdlQ+EmC`
+Snapshot ID: `AAAAAK3OS/oVZEbmn83xit+oJU168i4u`

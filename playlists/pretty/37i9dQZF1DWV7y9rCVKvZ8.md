@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 
 > Jadi lebih produktif ditemani musik terkini
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,863 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,751 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 | 60 | [Tak Di Tanganku](https://open.spotify.com/track/4xmSDYn5n9Gu6mH6FSJDhf) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV), [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tak Di Tanganku](https://open.spotify.com/album/35UI6U9KndqP2jBoMz9tOn) | 3:52 |
 | 61 | [Sialan](https://open.spotify.com/track/75CBhRix24ssDBWht7022G) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 4:01 |
 | 62 | [Berjauh\-an](https://open.spotify.com/track/2WnUAQPG6NjDDX19MeZlL1) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Berjauh\-an](https://open.spotify.com/album/3KzmZLoYZirjDqz1xniZCx) | 3:21 |
-| 63 | [Salah Apa](https://open.spotify.com/track/2UnCLMd8IUDDAOnSOz61lw) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa), [Aina](https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY) | [Salah Apa](https://open.spotify.com/album/2MkqThjrrLxqM4mHNCbRDg) | 3:20 |
+| 63 | [Salah Apa](https://open.spotify.com/track/2UnCLMd8IUDDAOnSOz61lw) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa), [Aina](https://open.spotify.com/artist/4mXW4jAl52rPtIQFPw8R82) | [Salah Apa](https://open.spotify.com/album/2MkqThjrrLxqM4mHNCbRDg) | 3:20 |
 | 64 | [Telepati](https://open.spotify.com/track/2VM0RoNs889vw5c1sFunfB) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Telepati](https://open.spotify.com/album/6L7TQes2IZBlcQzjYpPJEk) | 4:06 |
 | 65 | [Nafas](https://open.spotify.com/track/0HydcejUZ63IGT7ff4Rurs) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Nafas](https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN) | 3:26 |
 | 66 | [Kilometer](https://open.spotify.com/track/6S3JMRXaZXFj28IiIrIQxb) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Kilometer](https://open.spotify.com/album/2gObiuYWoaXwagEiOrGR4b) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 | 99 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 100 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 
-Snapshot ID: `AAAAAF7Q96ML5LeSZnk1xtZxYcfzlDbP`
+Snapshot ID: `AAAAAP4mn1MryFNHKlDiNYGgZtibSK6b`

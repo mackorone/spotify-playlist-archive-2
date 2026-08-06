@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat EMI, Ariana Grande, Slayyyter.\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,946 likes - 68 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,936 likes - 68 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 67 | [Someday](https://open.spotify.com/track/2YLfKobtt9zkdox9E1JqVE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Someday](https://open.spotify.com/album/0CIDdMVYigHQVYDXVYb9JR) | 3:41 |
 | 68 | [Nails In The Coffin](https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 4:09 |
 
-Snapshot ID: `AAAAAER8yBUlrp+iMkqhOwyM5EkmIgnA`
+Snapshot ID: `AAAAAAynyKXaarE6e6KBQN8ZVElK5zXV`

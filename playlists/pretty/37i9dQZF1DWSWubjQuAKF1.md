@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: pszona, Nita
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,337 likes - 65 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,347 likes - 65 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 64 | [Oscars](https://open.spotify.com/track/0oU8WJdc3UDxSjgcdNcYAd) | [Iga Kumka](https://open.spotify.com/artist/59nH7LKqK561XQ2xfLnXeL) | [XO](https://open.spotify.com/album/4aAj4Yqm2aOclpJN1yWD6D) | 2:40 |
 | 65 | [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/track/6fAjclJ49KZBzgOwhkpTqH) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [stas](https://open.spotify.com/artist/72Vq7ugNRnMWOnFZkvj3zd) | [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/album/26ko8YSiHDYAyoanRXJ1Gl) | 4:37 |
 
-Snapshot ID: `AAAAAGF9/Ck5N1GZWzU89ncvHgxPVopP`
+Snapshot ID: `AAAAAPMNQEVDFKbCT4QK70jLAPWOQiM8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Kelissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,095 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,927 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 69 | [where we end \(with Surfer Girl\)](https://open.spotify.com/track/4u5dgfw1o8UUjYU2f6IN3j) | [Tessellated](https://open.spotify.com/artist/3XXMDj1Yn4RJ7REbXK2u32), [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [where we end \(with Surfer Girl\)](https://open.spotify.com/album/5Gxcl6cIwQQfvdg74vQU22) | 2:59 |
 | 70 | [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 |
 
-Snapshot ID: `AAAAADHpTQqX6skWZCCWyoelZwCYG7oF`
+Snapshot ID: `AAAAAN6Vn8wErYpEffymr7E6M4aWL8FX`

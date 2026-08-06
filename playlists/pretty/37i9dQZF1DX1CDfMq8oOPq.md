@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > tuuudo conspirando a favor  🌓//  Amanda Sarmento
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,985 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,029 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Chefona](https://open.spotify.com/track/53FEgvDSOvHHKt8tIgF3U9) | [LETT](https://open.spotify.com/artist/7lk4zeklQt13A8QX1IzxcJ), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Mix Como Eu](https://open.spotify.com/album/54gHk4k81lwAihjMHxOCMB) | 2:32 |
 | 50 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 
-Snapshot ID: `AAAAAKss7YoV4jacGKfrPn6bPAFaxRJg`
+Snapshot ID: `AAAAAEmiODSsWrLBXWENLYon1/lpUzSA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 
 > New & best K\-Electronic music is here\. \(Cover: Kimmy gone\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,830 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,848 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 | 99 | [Good Night Good Morning \(GNGM\) \- minlee Remix](https://open.spotify.com/track/5lC6Y8j5AZw9eZOIH832dS) | [minlee](https://open.spotify.com/artist/72Gqg5WgtKqaOXWYNEYsJ4), [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Good Night Good Morning \(GNGM\) \[minlee Remix\]](https://open.spotify.com/album/6Gms2D8W5M7060RkTQchjO) | 2:05 |
 | 100 | [MOONLIGHT \- MOTi Remix](https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW) | [HENRY LAU](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [MOONLIGHT \(MOTi Remix\)](https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2) | 2:43 |
 
-Snapshot ID: `AAAAAONrzN0CyVbh5sfoRcPKI+vt1/eD`
+Snapshot ID: `AAAAAM64TbPtIyxZFte1fdM0TiPvgUHn`

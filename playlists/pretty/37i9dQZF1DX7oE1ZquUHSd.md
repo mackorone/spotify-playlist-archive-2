@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,393 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,459 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Jaque Mate](https://open.spotify.com/track/1stk3OBhnMKfh45zZ4hjwB) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Jorge](https://open.spotify.com/album/176ocuyDghIgtnqlRHl7lR) | 2:59 |
 | 100 | [1 2 3](https://open.spotify.com/track/13t9ykBxwHHUYBcerRFFsQ) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [1 2 3](https://open.spotify.com/album/08yuDkQCjkqFdNbhQIfaIe) | 2:04 |
 
-Snapshot ID: `AAAAAIgyUSnailKy9nueCwBMgxLXWh/n`
+Snapshot ID: `AAAAADbzrFO8TODQd9ct3LANlZ6pmGfv`

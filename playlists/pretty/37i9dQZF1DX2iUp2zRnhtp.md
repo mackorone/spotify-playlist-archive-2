@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 
 > vi leker ikke hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,104 likes - 325 songs - 16 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,073 likes - 325 songs - 16 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -325,8 +325,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 | 315 | [Mr\. Ringnes](https://open.spotify.com/track/1rU3nblyEF272bCBlGnPHK) | [Capow x 2G](https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a) | [Mr\. Ringnes](https://open.spotify.com/album/0dplWViWMk1Yr4ywZK0oOy) | 2:08 |
 | 316 | [Sound Of](https://open.spotify.com/track/4WnMPIYubeDj9bLr0iisl1) | [Nelly Moar](https://open.spotify.com/artist/5oNyGm52m8QxqV8EjA23Gk) | [Sound Of](https://open.spotify.com/album/44BAgwaS5C6pmjE6Vh2bIK) | 3:06 |
 | 317 | [Make Myself Happy](https://open.spotify.com/track/1hbL5MKqkDPk6haTEkcJXS) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Make Myself Happy](https://open.spotify.com/album/6MDbZIJ3JgWoUQZCJXgiTG) | 2:25 |
-| 318 | [Undercover](https://open.spotify.com/track/29Lv5XXAl1cfPtCc7CKDKV) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH) | [Undercover](https://open.spotify.com/album/4ofArnxzGZ0dt0Q4U0Kv0L) | 2:29 |
-| 319 | [World In Your Eyes](https://open.spotify.com/track/64hLvAi0gLO2pXMZrh0zFH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c) | [World In Your Eyes](https://open.spotify.com/album/3AZd7hjB520Ox5ZlKCH3rw) | 2:41 |
+| 318 | [World In Your Eyes](https://open.spotify.com/track/64hLvAi0gLO2pXMZrh0zFH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c) | [World In Your Eyes](https://open.spotify.com/album/3AZd7hjB520Ox5ZlKCH3rw) | 2:41 |
+| 319 | [Undercover](https://open.spotify.com/track/29Lv5XXAl1cfPtCc7CKDKV) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH) | [Undercover](https://open.spotify.com/album/4ofArnxzGZ0dt0Q4U0Kv0L) | 2:29 |
 | 320 | [Instamatik](https://open.spotify.com/track/2AnoBZzoeWz5VEfFezhmxF) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Jahn Teigen](https://open.spotify.com/artist/5cXcR0GGNQaGae9lyQOh3W) | [Instamatik](https://open.spotify.com/album/2PaXaOVoTMjTyfXldEL2s3) | 3:03 |
 | 321 | [2 ord m/ Lars Vaular](https://open.spotify.com/track/3Qj7jdHHGJgBeheJBqw6KP) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Lars Vaular](https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2) | [2 ord m/ Lars Vaular](https://open.spotify.com/album/4c5QKonmQ7CsK4lygmaEOn) | 2:40 |
 | 322 | [okei ja](https://open.spotify.com/track/2rLehDBN3sbmbd6TkgZBl3) | [elskede](https://open.spotify.com/artist/5gm7aU54du1muztZL30COr) | [okei ja](https://open.spotify.com/album/7ul2kxcGtWSSdF4qFeIKJG) | 3:45 |
@@ -334,4 +334,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 | 324 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 |
 | 325 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 |
 
-Snapshot ID: `AAAAAGcA38wikNdrB2Dh4Wl0dRmXkSZd`
+Snapshot ID: `AAAAAHw1qk1JCOM+BHs7V6OL4+fTF3Z4`

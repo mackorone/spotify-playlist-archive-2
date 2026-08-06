@@ -2,9 +2,9 @@
 
 ### [EQUAL Korea](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
 
-> 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: Hearts2Hearts\)
+> 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: KiiiKiii\)
 
-1,452 songs - 3 day 9 hr 24 min
+1,453 songs - 3 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [222](https://open.spotify.com/track/43txtp9zSKkdVwfiIur3Md) | [LANA](https://open.spotify.com/artist/2WRKYYCW80D3Xha2E85Ins) | [222](https://open.spotify.com/album/0AsYzsU5B99jrP0eYeVHOu) | 2:52 | 2022-04-05 | 2022-05-05 |
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-10-04 | 2023-01-04 |
 | [29](https://open.spotify.com/track/70w7F226un9BzXrAo0L9Oj) | [Kim Yeji](https://open.spotify.com/artist/6g4IlXK5mkP7LlOQPYW6Lr) | [29](https://open.spotify.com/album/24LHgz1P33iebMAHV2LJPh) | 3:38 | 2023-02-28 | 2023-04-05 |
-| [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 | 2026-04-29 | 2026-05-06 |
+| [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 | 2026-04-29 |  |
 | [404 \(New Era\)](https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:59 | 2026-05-06 |  |
 | [4U](https://open.spotify.com/track/1j3G8FWwszuSM20bqkxiFF) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [Rewrite](https://open.spotify.com/album/5H80DTznH6q3sVcb7aKAid) | 3:22 | 2025-03-04 | 2025-05-13 |
 | [5 in the morning](https://open.spotify.com/track/4YQN70aa8969if12I9dKDb) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Just Dream](https://open.spotify.com/album/6MgV3YkvyVKip90eLKZGuN) | 3:35 | 2022-01-04 | 2022-02-02 |
@@ -297,6 +297,7 @@
 | [Dear\. Lover](https://open.spotify.com/track/1RwrqJ7EZ04tmZF9OwuTAu) | [Eun ga eun](https://open.spotify.com/artist/1JPXmbnND19OQQSPUKTUh5) | [Dear\. Lover](https://open.spotify.com/album/3P5YCSyOES0GGx3mAmRoif) | 4:19 | 2023-06-06 | 2023-07-05 |
 | [Dear\. Rude](https://open.spotify.com/track/6Xsv3cyvk6Cfy9C9cAW1p8) | [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal), [CHEETAH](https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE) | [Newself](https://open.spotify.com/album/27BGQVwdO8mQT9nsRMhfvg) | 3:39 | 2022-02-01 | 2022-03-08 |
 | [DEJAVU \(Feat\. Jay Park\) \(Prod\. by Slom\)](https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:38 | 2023-01-31 | 2023-03-01 |
+| [Delulu](https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:24 | 2026-08-06 |  |
 | [Denial](https://open.spotify.com/track/5utC8jh0b5APUCmu0NwFH8) | [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Retrospect](https://open.spotify.com/album/4Eb1dLsvOh15opaO5bVCru) | 2:51 | 2023-01-03 | 2023-02-01 |
 | [Derre](https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 2:36 | 2026-07-01 |  |
 | [Desperate](https://open.spotify.com/track/4k0DQAeIxrB3L2cSyRJUOV) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [Desperate](https://open.spotify.com/album/4HiSNP4fPSE52NZPmfRBFD) | 4:10 | 2024-04-02 | 2024-06-05 |
@@ -415,7 +416,7 @@
 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-10-04 | 2022-11-11 |
 | [Fire \(With BRAND NEW CHILD, K L W C\)](https://open.spotify.com/track/5dv9gqcgEs1Yj36AJQ5NID) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:12 | 2022-01-04 | 2022-02-02 |
 | [FireFlower](https://open.spotify.com/track/5QleIdkbRcdAQB15m3G098) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:50 | 2022-08-02 | 2022-09-07 |
-| [First Love Is a Curse](https://open.spotify.com/track/6TW9ACpiJzS27WqiTQNN2T) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [First Love Is a Curse](https://open.spotify.com/album/2iENz685ly97rfApjgS1cy) | 2:42 | 2026-04-29 |  |
+| [First Love Is a Curse](https://open.spotify.com/track/6TW9ACpiJzS27WqiTQNN2T) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [First Love Is a Curse](https://open.spotify.com/album/2iENz685ly97rfApjgS1cy) | 2:42 | 2026-04-29 | 2026-08-06 |
 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 | 2022-03-07 | 2022-04-06 |
 | [Fix make\-up](https://open.spotify.com/track/6QjOs1V84HqJmJGCQBnG8g) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Fix make\-up](https://open.spotify.com/album/2XxCRBY62XHVxEHsUnJnwP) | 3:40 | 2023-05-02 | 2023-06-07 |
 | [Flame](https://open.spotify.com/track/5t78RTodTK1mITfr01YcRG) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Check in Hanyang \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6Dx3FX8pQPYrq8tmSXMz8F) | 3:39 | 2025-02-04 | 2025-03-05 |
@@ -1037,7 +1038,7 @@
 | [Round and Round](https://open.spotify.com/track/2i8DTVoUdPcdlUGfyU8SBR) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq) | 4:31 | 2023-02-28 | 2023-04-05 |
 | [ROYAL](https://open.spotify.com/track/0LMdtBOxbVgrYoA4n0Vwvv) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 3:26 | 2022-04-05 | 2022-05-05 |
 | [RSVP \(Feat\. CHANGMO\)](https://open.spotify.com/track/1IsdrmsH4bxaE9VLjmUGf6) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Attitude](https://open.spotify.com/album/10BUVVtnO0rZlbQBPJTrfj) | 2:58 | 2024-06-04 | 2025-02-05 |
-| [RUDE!](https://open.spotify.com/track/0McXhfrJACeGBrmj9A9u02) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI) | 3:20 | 2026-07-01 |  |
+| [RUDE!](https://open.spotify.com/track/0McXhfrJACeGBrmj9A9u02) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI) | 3:20 | 2026-07-01 | 2026-08-06 |
 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-04-29 | 2026-07-01 |
 | [Rum Pum Pum](https://open.spotify.com/track/2JaVEjpz0CVmO7lKP4MqL4) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 5:06 | 2022-02-01 | 2022-03-08 |
 | [RUN](https://open.spotify.com/track/68yHhyHwpcWaUi6D2dU86V) | [Hyun shin young](https://open.spotify.com/artist/1tobxqK2YLetz3IKglcisR) | [RUN](https://open.spotify.com/album/4ZpedekoDGP91YuVg2Oz5q) | 4:18 | 2023-05-02 | 2023-06-07 |

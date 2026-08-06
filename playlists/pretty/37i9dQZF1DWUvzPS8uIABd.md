@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,238 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,209 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 69 | [Satumaa](https://open.spotify.com/track/2eckvn1XLK4zjP7PPce2DP) | [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV), [Silja Kielo](https://open.spotify.com/artist/1fgoCRGHwSiDX4GVMp5z7i) | [Satumaa](https://open.spotify.com/album/2Ehbjt1d6Ux7lHqyO5Nz6l) | 2:56 |
 | 70 | [Vitun Inee](https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vitun Inee](https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn) | 2:58 |
 
-Snapshot ID: `AAAAAPinO6dV371Hdj2iBiZysKFKvSYf`
+Snapshot ID: `AAAAAHDyqv9CoE2WFgbqI0/eGVxitukb`

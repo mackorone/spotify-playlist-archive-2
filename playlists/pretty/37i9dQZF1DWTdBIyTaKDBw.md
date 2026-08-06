@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,662 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,685 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 99 | [Umbrella](https://open.spotify.com/track/73O4WMI3CNFs6lK9SaBZpQ) | [Tsunenori](https://open.spotify.com/artist/52qynuMTYKuf4JtacGbQxh) | [FANTASTIC JOURNEY](https://open.spotify.com/album/6Lh0xGoCfTBb7sJNMDSi7N) | 3:24 |
 | 100 | [Mountain Trail](https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Mountain Trail](https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv) | 2:33 |
 
-Snapshot ID: `AAAAACsxTCLzbn2fEh2fUd+FnZKl+pNf`
+Snapshot ID: `AAAAAB4fg4CzEDnaFBEP8gz0U++DHX8F`

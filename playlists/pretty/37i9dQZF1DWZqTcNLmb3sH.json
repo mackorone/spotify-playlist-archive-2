@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 71746,
+  "num_followers": 71762,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABumOvUpDEkOSRn5VvwAB6mrBCqu",
+  "snapshot_id": "AAAAAF5yrxO0rJkuLNG6DdKrg+oRgjJ7",
   "tracks": [
     {
       "added_at": "2026-07-21 08:31:10",
@@ -59,6 +59,34 @@
       "duration_ms": 229309,
       "name": "Hudugir Dangerous (From \"Ayogya 2\")",
       "url": "https://open.spotify.com/track/2Hr5Lxe0f9Dxb3B91q8Ize"
+    },
+    {
+      "added_at": "2026-08-05 06:16:37",
+      "album": {
+        "name": "Shaka Laka (From \"Spark - Kannada\")",
+        "url": "https://open.spotify.com/album/1fZ6M0RFw5Q3TomrqNJoAX"
+      },
+      "artists": [
+        {
+          "name": "Sharan",
+          "url": "https://open.spotify.com/artist/3gwJl06k82NzSnDZrE89Nq"
+        },
+        {
+          "name": "Sangeetha Ravindranath",
+          "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
+        },
+        {
+          "name": "Sachin Basrur",
+          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Shaka Laka (From \"Spark - Kannada\")",
+      "url": "https://open.spotify.com/track/0MwwqPad6PNwmyNv0bmn2T"
     },
     {
       "added_at": "2026-07-20 08:18:37",
@@ -157,22 +185,6 @@
       "url": "https://open.spotify.com/track/37accAy16ddN84xqbyrbvL"
     },
     {
-      "added_at": "2026-07-31 10:35:23",
-      "album": {
-        "name": "Tulasidala",
-        "url": "https://open.spotify.com/album/5CTgecibjEbmeX5dEPic1b"
-      },
-      "artists": [
-        {
-          "name": "Sumedh K",
-          "url": "https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Savadhana",
-      "url": "https://open.spotify.com/track/40CC6ANeHdSO1b7cIruWJG"
-    },
-    {
       "added_at": "2026-07-20 08:18:37",
       "album": {
         "name": "Suvvi Suvvali (From \"Picture\")",
@@ -195,34 +207,6 @@
       "duration_ms": 124509,
       "name": "Suvvi Suvvali (From \"Picture\")",
       "url": "https://open.spotify.com/track/1BmEoyUraBGzH5Gml7BpY5"
-    },
-    {
-      "added_at": "2026-07-29 07:25:27",
-      "album": {
-        "name": "Hold Me So Tight (From \"Breakfast - Kannada\")",
-        "url": "https://open.spotify.com/album/3jPFXb4QVXXRqudRnWYAqe"
-      },
-      "artists": [
-        {
-          "name": "Krishna Tejasvi",
-          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
-        },
-        {
-          "name": "Gayathry Rajiv",
-          "url": "https://open.spotify.com/artist/1C3jeSsmZvfTHvoNlLuchi"
-        },
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Praveen Chanappa",
-          "url": "https://open.spotify.com/artist/5Cw0QEUTAdUxNsbcc88V1j"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Hold Me So Tight (From \"Breakfast - Kannada\")",
-      "url": "https://open.spotify.com/track/6x2E0ml1D3SvLIiFYhX9l2"
     },
     {
       "added_at": "2026-08-03 09:41:18",
@@ -271,6 +255,50 @@
       "duration_ms": 163012,
       "name": "Rowdy Hero (From \"Jolly\")",
       "url": "https://open.spotify.com/track/6OiG8X6zWvJBknrJsJ5ZhF"
+    },
+    {
+      "added_at": "2026-07-29 07:25:27",
+      "album": {
+        "name": "Hold Me So Tight (From \"Breakfast - Kannada\")",
+        "url": "https://open.spotify.com/album/3jPFXb4QVXXRqudRnWYAqe"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Gayathry Rajiv",
+          "url": "https://open.spotify.com/artist/1C3jeSsmZvfTHvoNlLuchi"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Praveen Chanappa",
+          "url": "https://open.spotify.com/artist/5Cw0QEUTAdUxNsbcc88V1j"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Hold Me So Tight (From \"Breakfast - Kannada\")",
+      "url": "https://open.spotify.com/track/6x2E0ml1D3SvLIiFYhX9l2"
+    },
+    {
+      "added_at": "2026-07-31 10:35:23",
+      "album": {
+        "name": "Tulasidala",
+        "url": "https://open.spotify.com/album/5CTgecibjEbmeX5dEPic1b"
+      },
+      "artists": [
+        {
+          "name": "Sumedh K",
+          "url": "https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Savadhana",
+      "url": "https://open.spotify.com/track/40CC6ANeHdSO1b7cIruWJG"
     },
     {
       "added_at": "2026-08-03 09:41:18",
@@ -475,26 +503,6 @@
       "duration_ms": 290586,
       "name": "Anna Bandre (From \"Ayogya 2\")",
       "url": "https://open.spotify.com/track/1gfbRYuRfRyDH8ye3o1F3I"
-    },
-    {
-      "added_at": "2026-03-02 07:46:32",
-      "album": {
-        "name": "Tabaahi (From \"Toxic - Kannada\")",
-        "url": "https://open.spotify.com/album/7eGwoEFYq2o7BHhxQKsJ0h"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Yogaraj Bhat",
-          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
-        }
-      ],
-      "duration_ms": 257604,
-      "name": "Tabaahi - From \"Toxic - Kannada\"",
-      "url": "https://open.spotify.com/track/4gzQdQ2frmP1dWugnOHJKb"
     },
     {
       "added_at": "2026-07-23 07:52:03",
@@ -1751,30 +1759,6 @@
       "duration_ms": 226485,
       "name": "Kai Tholkand Muttangavle",
       "url": "https://open.spotify.com/track/46TrylJ23BSsiewGB6P25t"
-    },
-    {
-      "added_at": "2026-05-11 08:40:20",
-      "album": {
-        "name": "Are Oo Anusha (From \"Gajanana Cricketers\")",
-        "url": "https://open.spotify.com/album/26PLbqYt8X1GSeFfA1yvkX"
-      },
-      "artists": [
-        {
-          "name": "Srajan Kumar Tonse",
-          "url": "https://open.spotify.com/artist/43Jv9Ph6w4tHafcoZJffZp"
-        },
-        {
-          "name": "Keerthan Bhandary",
-          "url": "https://open.spotify.com/artist/11tWC8HjuxlQblbCWuVATn"
-        },
-        {
-          "name": "Pallavi Prabhu",
-          "url": "https://open.spotify.com/artist/7EIi4OA8oM8GemsuV3X8E0"
-        }
-      ],
-      "duration_ms": 230198,
-      "name": "Are Oo Anusha (From \"Gajanana Cricketers\")",
-      "url": "https://open.spotify.com/track/5uF8JwGpj4988GnOYs3oLj"
     },
     {
       "added_at": "2026-05-15 12:38:03",

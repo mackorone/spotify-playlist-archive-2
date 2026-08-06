@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 66118,
+  "num_followers": 66128,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM2i7wtMTpgUGoG7I3vPZdGTelLp",
+  "snapshot_id": "AAAAAKpbU1GG7sOO9F1oA43PEH9Zrc8b",
   "tracks": [
     {
       "added_at": "2026-07-24 16:38:20",
@@ -1519,18 +1519,22 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
-        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+        "name": "Si el Campo Crece, Crece el Pa\u00eds",
+        "url": "https://open.spotify.com/album/3TrPDaLtRXg4iuXuMHgNqZ"
       },
       "artists": [
         {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+          "name": "Anibal Maldonado",
+          "url": "https://open.spotify.com/artist/6WEUDx5pkVqSRslfQxIVYi"
+        },
+        {
+          "name": "Silvio Quintana",
+          "url": "https://open.spotify.com/artist/3Q4nmjdBoFnPBbrnHNvcgZ"
         }
       ],
-      "duration_ms": 139253,
-      "name": "El Gato Blanco",
-      "url": "https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u"
+      "duration_ms": 247240,
+      "name": "La Changa de los Domingos - Chamam\u00e9",
+      "url": "https://open.spotify.com/track/1C58csh64wznZj64hwV9gx"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

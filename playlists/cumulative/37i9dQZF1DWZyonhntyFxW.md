@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: ليجي\-سي
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: عشري
 
-484 songs - 23 hr 35 min
+485 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Sanam](https://open.spotify.com/track/4P2ekaZHDehwk4KzFTkkD4) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [Sanam](https://open.spotify.com/album/3uRsl2WhhppeCZEOaLAT59) | 1:42 | 2022-10-20 | 2022-12-31 |
 | [Santos](https://open.spotify.com/track/0JOKHiIoVwxgYLE3Xi9azJ) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santos](https://open.spotify.com/album/0kEbWvFpD1zQDvm4b6aEwb) | 3:04 | 2022-05-10 | 2022-11-08 |
 | [Saye2 Souq](https://open.spotify.com/track/3qtXvNZ8bNIRfN6aYamUor) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:14 | 2023-05-25 | 2023-08-18 |
+| [SCENE 1](https://open.spotify.com/track/63rnlL8hsMSi6xFavQjyN2) | [Ashry](https://open.spotify.com/artist/5xhz2aFQHwKi3qc9AX7yAo) | [SCENE 1](https://open.spotify.com/album/3Bap1DrDCvIBqZ6vBHj0iA) | 3:50 | 2026-08-05 |  |
 | [Sebny Ala Dool](https://open.spotify.com/track/3fNOATr4zA4bKAhY7bdgNO) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Sebny Ala Dool](https://open.spotify.com/album/1nHjpICY29mjtgv3ZlrGVN) | 2:44 | 2025-06-10 | 2026-04-23 |
 | [Seeb Nafsak](https://open.spotify.com/track/4EGLEkMzmO7pau2CGQnCYS) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 2:58 | 2024-09-11 | 2025-10-03 |
 | [Serag Mohema](https://open.spotify.com/track/50KBo4IWpjTkFqT24SAGNN) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [Serag Mohema](https://open.spotify.com/album/0331FU8uJjsUGhgMfFyK0g) | 2:44 | 2023-09-29 | 2023-12-09 |

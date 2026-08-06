@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,239,501 likes - 200 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,239,452 likes - 200 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 199 | [MIA](https://open.spotify.com/track/6MKZTI0G2RexXvKcCe8jsG) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1) | [MIA](https://open.spotify.com/album/3sIMOoF22iv8RTq5UCGGrE) | 1:39 |
 | 200 | [Nightwalk](https://open.spotify.com/track/3vHDfrh0JSscioPnGvRavd) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Nightwalk](https://open.spotify.com/album/1i2XRp6UQR6tGCMHMNSuGW) | 2:01 |
 
-Snapshot ID: `AAAAADI6SC1kSO04Y+ByszqQCQE74FGo`
+Snapshot ID: `AAAAADhPcRobZhSKc4R240T1E5uGeNOZ`

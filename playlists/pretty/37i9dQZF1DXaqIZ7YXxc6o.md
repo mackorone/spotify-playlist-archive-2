@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Loods
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,031 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,020 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Going Existential In The Rave](https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Going Existential In The Rave](https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v) | 3:07 |
 | 100 | [Think I Am](https://open.spotify.com/track/6H7Qr6HvsSpCVbn8EIjb4n) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [UNDISPUTED](https://open.spotify.com/album/3WV2WpOhiq9a0SZjS3pcs9) | 2:56 |
 
-Snapshot ID: `AAAAAOb2mQW2cGkSPrNj+FCgPHTnrJDq`
+Snapshot ID: `AAAAAFMbXLoQuJQJXvT4wKa/1tmrDKut`

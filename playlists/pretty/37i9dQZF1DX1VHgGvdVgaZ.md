@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,146 likes - 75 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,156 likes - 75 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 74 | [Vatapiganapatim \- Hamsadhwani \- Adi](https://open.spotify.com/track/1LlblRoa8Tq4WEuG5O2nVG) | [Raghunath Manet](https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq), [Umayalpuram K\. Sivaraman](https://open.spotify.com/artist/6DeWClYw2sFmW2UMltys8Q), [Subba Lakshmi](https://open.spotify.com/artist/1IP82ozdzN3GO1RIWWAHFG) | [Yal Isai](https://open.spotify.com/album/3ESl4FTRUz4g5aBltmp768) | 11:19 |
 | 75 | [Sree Mahaganapathim \- Atana \- Adi](https://open.spotify.com/track/5VfJfkpigSFdU6t9pHiWhm) | [Kunnakudi Vaidyanathan](https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr), [Valayapatti A\. R\. Subramaniam](https://open.spotify.com/artist/74Wx6RR7idiXa5emx0LUIa), [Kannan](https://open.spotify.com/artist/5qGDWLq39656h7QldZuTc1) | [Kunnakudi Vaidyanathan, Vol\. 1](https://open.spotify.com/album/4lLLyjxSXfHsZAoWN5y2rd) | 8:10 |
 
-Snapshot ID: `AAAAAKikTGMPtB2iRuCZKcTb683e22W0`
+Snapshot ID: `AAAAAIVLXaSczNmqU0kugEM3PAXje3Yb`

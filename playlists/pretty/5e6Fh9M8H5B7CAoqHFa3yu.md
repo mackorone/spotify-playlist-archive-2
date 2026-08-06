@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 347 likes - 2,522 songs - 6 day 4 hr 21 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 349 likes - 2,528 songs - 6 day 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2530,5 +2530,11 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2520 | [Ides Of March](https://open.spotify.com/track/4Rq5Ytad92LP8xHIf0WhKf) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [Morgan S Oteric](https://open.spotify.com/artist/0LvGEKR2OwTW2k6LDbxO7X) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:33 |
 | 2521 | [Behind You, Beside You](https://open.spotify.com/track/1gutdX4YwZVzpU03CxCvj0) | [Seven AM](https://open.spotify.com/artist/6QF8DtTiM1u89alH5DboWv) | [Behind You, Beside You](https://open.spotify.com/album/2hUhWRjmhRza1rqC0UnAYj) | 5:07 |
 | 2522 | [Дождь](https://open.spotify.com/track/0Nc8Dz4CeakHfHNJiTGbSC) | [The Atlant](https://open.spotify.com/artist/3tETwPIWyOJTBwJ0dgOS1X) | [Дождь](https://open.spotify.com/album/4BDdK99tGiHflIIMndceMw) | 3:38 |
+| 2523 | [OVERPASS.](https://open.spotify.com/track/2aV4nhFSnn37zneThoFhzb) | [Nick Snow](https://open.spotify.com/artist/5N7waesGmq9Hjt9A3wjwoD) | [OVERPASS.](https://open.spotify.com/album/4c8HCDENtOuwbsHVc1PdA2) | 3:08 |
+| 2524 | [Zostawiłaś mnie dla niego](https://open.spotify.com/track/3HthJCMMy9VDiavR5lnDnH) | [D.Bańka](https://open.spotify.com/artist/2WMp1BJzsAJk0uGu6owxtv) | [Zostawiłaś mnie dla niego](https://open.spotify.com/album/78BGJDi3n9aYX4xgn8GAoc) | 2:30 |
+| 2525 | [Hetki viipyvä](https://open.spotify.com/track/0t8z3UxmhG9csGfmJgWjbe) | [Ne Tunteet](https://open.spotify.com/artist/1WLzo5i7CZgmq9EIW0tbGe) | [Hetki viipyvä](https://open.spotify.com/album/1IDzctBIzdTqy2JFgw0b2l) | 3:00 |
+| 2526 | [Chill & Grind](https://open.spotify.com/track/16GXhEHAqhlz7B6Y8CVG3T) | [Funk Lazarus](https://open.spotify.com/artist/27Lj5gvLs9RK7jYpd3q5Cf), [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Chill & Grind](https://open.spotify.com/album/6F9ZJH5RvxQklzvkewbTO4) | 2:53 |
+| 2527 | [Resting in Change](https://open.spotify.com/track/1Nh0MxAfQSdPUOYXjxKs3i) | [Mishu Cerri](https://open.spotify.com/artist/2Az66PYe7XDPUqUTgSrmfq) | [Resting in Change](https://open.spotify.com/album/2FHxPk4uWZYSY1F7pTIGZB) | 4:21 |
+| 2528 | [Cognac and Cinders](https://open.spotify.com/track/7j7yOjVdOIbhaS0arc46QI) | [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Velvet Contraband](https://open.spotify.com/album/3HBsvCYydiN3PxCJUlhoGn) | 3:58 |
 
-Snapshot ID: `AAAKs0be5pRh18+KlPj7TNAVO2zbMeRe`
+Snapshot ID: `AAAKustAGefONFSpRmypeUNWluTH+6s2`

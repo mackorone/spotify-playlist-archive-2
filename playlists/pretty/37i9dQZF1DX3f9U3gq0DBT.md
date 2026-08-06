@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,232 likes - 130 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,250 likes - 130 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 129 | [Clearwater Waves](https://open.spotify.com/track/57KJiJWvaoV1el0dz1kJ2G) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Waves and Shoreline Ambience](https://open.spotify.com/album/4UqqEB4Mycrza8NctqK5LS) | 3:04 |
 | 130 | [Sleepy Wave Crashes](https://open.spotify.com/track/6lrRldi6EPan1Wb32Zp8pW) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Sleeping Sea](https://open.spotify.com/album/18ILKhH92zixHoHbWDwMUF) | 4:30 |
 
-Snapshot ID: `AAAAAIOiIKpsb5AQzkMcIGAZyepsoYiH`
+Snapshot ID: `AAAAABksCSeMFjso6jL8+0XvgZfFBSQt`

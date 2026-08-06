@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1208,
+  "num_followers": 1209,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGuiVLWqvNNibfM5sxu9ycpnpjCB+7",
+  "snapshot_id": "AAAGuwcT6zREEXrOcHGWOrhhoa+vtPRk",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -2403,6 +2403,22 @@
       "duration_ms": 168767,
       "name": "Behind",
       "url": "https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9"
+    },
+    {
+      "added_at": "2026-08-05 19:44:01",
+      "album": {
+        "name": "Get Loud",
+        "url": "https://open.spotify.com/album/2zod2UcANo2xffg6EU3amr"
+      },
+      "artists": [
+        {
+          "name": "Nuisance",
+          "url": "https://open.spotify.com/artist/0EmWdAiVab7qmYaatq6Ttb"
+        }
+      ],
+      "duration_ms": 141016,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/2zcVXazWslVP2YuZjRZkGH"
     }
   ],
   "unique_name": "Unsigned Rock",

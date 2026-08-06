@@ -183237,24 +183237,6 @@
     },
     {
       "album": {
-        "name": "\u9769\u547d\u672a\u9042\u306e\u8776\u304c\u898b\u308b\u5922",
-        "url": "https://open.spotify.com/album/7GsxQOuNna4DuY17bGpZG3"
-      },
-      "artists": [
-        {
-          "name": "a flood of circle",
-          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
-        }
-      ],
-      "date_added": "2026-08-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 19",
-      "url": "https://open.spotify.com/track/5j8Np84MJ0uUetSLEgdbhM"
-    },
-    {
-      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -198612,6 +198594,24 @@
       "duration_ms": 195000,
       "name": "X",
       "url": "https://open.spotify.com/track/2oZ2EKWo51eXQsn83pjNvj"
+    },
+    {
+      "album": {
+        "name": "A NEW ERA OF NOW",
+        "url": "https://open.spotify.com/album/7guNJQC9dvSsuvCf8shTVQ"
+      },
+      "artists": [
+        {
+          "name": "AEN",
+          "url": "https://open.spotify.com/artist/4FDIcy85KVTaLw8TCGFpJQ"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "X to Z (Next to me) (Japanese ver.)",
+      "url": "https://open.spotify.com/track/7aQMHcPKeaYJ69sKVH3jom"
     },
     {
       "album": {
@@ -223436,6 +223436,24 @@
       "duration_ms": 157339,
       "name": "\u30a8\u30ec\u30d9\u30fc\u30bf\u30fc",
       "url": "https://open.spotify.com/track/6qUb5tmz7ewgW3KaHfpiUT"
+    },
+    {
+      "album": {
+        "name": "\u9769\u547d\u672a\u9042\u306e\u8776\u304c\u898b\u308b\u5922",
+        "url": "https://open.spotify.com/album/7GsxQOuNna4DuY17bGpZG3"
+      },
+      "artists": [
+        {
+          "name": "a flood of circle",
+          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223957,
+      "name": "\u30a8\u30f3\u30b8\u30f3",
+      "url": "https://open.spotify.com/track/5j8Np84MJ0uUetSLEgdbhM"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With David Von Beahm, MIK's Reaction, Motor Ballet and more
+> With David Von Beahm, Motor Ballet, MIK's Reaction and more
 
 1,059 songs - 2 day 20 hr 0 min
 

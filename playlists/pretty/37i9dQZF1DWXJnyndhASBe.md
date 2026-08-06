@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Pezet
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,914 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,897 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [WALDEK KIEPSKI](https://open.spotify.com/track/1AWHemRVAmzAqaQfQcyqfM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [WALDEK KIEPSKI](https://open.spotify.com/album/0cu0hYUipOmG1h8TCZ0IDE) | 2:46 |
 | 50 | [fantazje](https://open.spotify.com/track/6j4nfXExK8qIqDJPu5Bs8U) | [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [Ü UP? mixtape](https://open.spotify.com/album/3XzTGKGd8LFO4sjdvNb1I9) | 2:58 |
 
-Snapshot ID: `AAAAAN9IzJOC3swE+jsDorK89tA5WtBm`
+Snapshot ID: `AAAAAIJP/V5KABz37V87VtJmvK15Lieu`

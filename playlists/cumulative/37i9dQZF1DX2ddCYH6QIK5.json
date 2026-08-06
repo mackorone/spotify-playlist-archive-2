@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: zway, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Savi Kaboo, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -7380,7 +7380,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 207840,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/6pyyi3tnJvV3s19yr5Ak8K"
@@ -9110,7 +9110,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 128181,
       "name": "Feel Like",
       "url": "https://open.spotify.com/track/3ieRlMEKZ2SJNdx3DCBNhe"
@@ -10494,6 +10494,24 @@
       "duration_ms": 169090,
       "name": "gift",
       "url": "https://open.spotify.com/track/7LdoYYNWTgEnIlfUwP2grV"
+    },
+    {
+      "album": {
+        "name": "GIRL CRUSH",
+        "url": "https://open.spotify.com/album/41PHclxVj50m06YJmA1qlK"
+      },
+      "artists": [
+        {
+          "name": "Noa Dear",
+          "url": "https://open.spotify.com/artist/22pvoqQ30AljyB7Vxi0F0U"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163112,
+      "name": "GIRL CRUSH",
+      "url": "https://open.spotify.com/track/2PHGaG2pi2OfmftuYaG9M4"
     },
     {
       "album": {
@@ -14069,6 +14087,24 @@
     },
     {
       "album": {
+        "name": "In Spring",
+        "url": "https://open.spotify.com/album/1yD4MRnUKZHnvMY009QhZM"
+      },
+      "artists": [
+        {
+          "name": "Rasco",
+          "url": "https://open.spotify.com/artist/0wEDHyJEC4MRFEDd1TAmw0"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191320,
+      "name": "In Spring",
+      "url": "https://open.spotify.com/track/5lMgYrdMFn9yvseb8xI3lp"
+    },
+    {
+      "album": {
         "name": "In the Open",
         "url": "https://open.spotify.com/album/6Oj9bLMElyTFLjHk8kPDLw"
       },
@@ -14174,7 +14210,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 122000,
       "name": "insomnia",
       "url": "https://open.spotify.com/track/556JHaI9fS5doFhKcZTmHz"
@@ -17886,7 +17922,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 156585,
       "name": "Mit Links",
       "url": "https://open.spotify.com/track/4rHMLmpQP0hPPNEWT45nlq"
@@ -21360,6 +21396,24 @@
       "duration_ms": 279111,
       "name": "Pretty Now",
       "url": "https://open.spotify.com/track/5eFEQcZuxsyiv6w8RYYDKx"
+    },
+    {
+      "album": {
+        "name": "Primetime",
+        "url": "https://open.spotify.com/album/6Di4zrWpllhvPLEHmMIzjy"
+      },
+      "artists": [
+        {
+          "name": "ETO",
+          "url": "https://open.spotify.com/artist/0Y7IHICQTiPlRK9bhSbYFj"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180606,
+      "name": "Primetime",
+      "url": "https://open.spotify.com/track/2Oyc2LSQwdiTjcucCOd0WB"
     },
     {
       "album": {
@@ -24927,6 +24981,24 @@
     },
     {
       "album": {
+        "name": "Soulmate",
+        "url": "https://open.spotify.com/album/7uTxCKQTFCCPKEjH28bw4g"
+      },
+      "artists": [
+        {
+          "name": "Savi Kaboo",
+          "url": "https://open.spotify.com/artist/41Wv5YihKZTmiieeuxQeGD"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149453,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/7zrQ0QOlFBfe2YXfOyks3h"
+    },
+    {
+      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/2W8KzApTDxUGQ9rQIGaWiT"
       },
@@ -26286,7 +26358,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 108352,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/7FxEGbIuUiXMOvnr3EEfDV"
@@ -30994,6 +31066,24 @@
       "duration_ms": 241014,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/2gNydDHdLHUjYJCv97nSge"
+    },
+    {
+      "album": {
+        "name": "zeit vergeht, so it goes",
+        "url": "https://open.spotify.com/album/4TqvGHuBgC0KwQJHkfAw26"
+      },
+      "artists": [
+        {
+          "name": "TROVA",
+          "url": "https://open.spotify.com/artist/1XRu89FDdaGMmpZPLxrmWc"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150586,
+      "name": "zeit vergeht, so it goes",
+      "url": "https://open.spotify.com/track/39wEaXG3rpWgyKkW6t0nGL"
     },
     {
       "album": {

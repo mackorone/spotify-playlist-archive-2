@@ -61231,6 +61231,24 @@
     },
     {
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/64noONlcKtazpMRrU1otTo"
+      },
+      "artists": [
+        {
+          "name": "BABYWOODROSE",
+          "url": "https://open.spotify.com/artist/1XzfqpnX0VAcE77JE21mPB"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141476,
+      "name": "\u8c5a\u306b\u771f\u73e0",
+      "url": "https://open.spotify.com/track/2kKZExNmKburfiJIVJzHgv"
+    },
+    {
+      "album": {
         "name": "\u8ce2\u8005\u30bf\u30a4\u30e0",
         "url": "https://open.spotify.com/album/54bb3SjMrRlCxewqF9T5K9"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,154,785 likes - 175 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,154,935 likes - 175 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 174 | [Orbital Sleep](https://open.spotify.com/track/3xjCpP7Zuzmp9bJs7n5WIy) | [Synchroni city](https://open.spotify.com/artist/6ZAHK2JnTWUA06MRPEXgYp) | [Orbital Sleep](https://open.spotify.com/album/52Q85yOFtyZfPhCGnGQP1c) | 2:39 |
 | 175 | [Resonant Reverie](https://open.spotify.com/track/5ZwK16F9WD9OQF5DZXAzqF) | [Santino Dunleaf](https://open.spotify.com/artist/6UmU6V7Nh76CSxujJEBEja) | [Resonant Reverie](https://open.spotify.com/album/1sahkPeGf5yQnkkwl5WiXo) | 3:01 |
 
-Snapshot ID: `AAAAAMgKYTC7rP/UH6OB9+bFF/vfQ25X`
+Snapshot ID: `AAAAAAi6Rh6IwZmqyPpWXYGhBQgr5R1Y`

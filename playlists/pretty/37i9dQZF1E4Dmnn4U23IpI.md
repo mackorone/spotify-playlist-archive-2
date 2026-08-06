@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With The Bad Dreamers, Gunship, Siamese Youth and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,314 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,321 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Nothing Beats Like A Heart](https://open.spotify.com/track/3luyxUZhvDs0qLwcIyzj4Y) | [逃跑计划EscapePlan](https://open.spotify.com/artist/3eJTjQEMzEeoS4n6aJXhKM), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Nothing Beats Like A Heart](https://open.spotify.com/album/0xlIECZopwvrqkfIh8suKB) | 4:22 |
 | 50 | [Art3mis & Parzival](https://open.spotify.com/track/3UwWu3k4ppm1vQxLuSIr0H) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Stella Le Page](https://open.spotify.com/artist/6VzpJprdrDY9NCo9psNyQr) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 4:52 |
 
-Snapshot ID: `AAAAAAmGMNdGjgriqXkYoU4iHD/2VLJO`
+Snapshot ID: `AAAAACQy5CcDCiAQA1dAr38qnwi3X0BL`

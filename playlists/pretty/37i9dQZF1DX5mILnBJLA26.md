@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves right now\.  Cover: Kabza De Small
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,253,508 likes - 50 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,253,851 likes - 50 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Full Sete \(feat\. Mulest Vankay, Toss, LeeMcKrazy & Mdeshkayro\)](https://open.spotify.com/track/3ZHUBiVvwPvSeCOBQ9ttah) | [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Mulest Vankay](https://open.spotify.com/artist/3xqiosg5nLMwVd8w3lO5li), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Mdeshkayro](https://open.spotify.com/artist/2lIjcEyKmYOFm92ewg11o8) | [Piato \(Chapter 1\)](https://open.spotify.com/album/321RhSmIYhwQf72S6LbC7G) | 6:20 |
 | 50 | [DLALA GOGO](https://open.spotify.com/track/2WY9va9TJG2BV42hRmlqew) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Tycoon](https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [THE GODMOTHER](https://open.spotify.com/album/18CRe8T4QPusNzyq9vlqB0) | 6:56 |
 
-Snapshot ID: `AAAAABVQClthlKu7fsjq8m33AwPODhvG`
+Snapshot ID: `AAAAABaprSJO8hEoU1z9z9Mq/dCS+/T1`

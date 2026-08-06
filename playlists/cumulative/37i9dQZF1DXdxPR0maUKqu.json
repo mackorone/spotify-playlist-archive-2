@@ -772,7 +772,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 141666,
       "name": "FUNKY MUSIC!!",
       "url": "https://open.spotify.com/track/6tzQ9LaZlozp4nZwbes0sd"
@@ -4200,7 +4200,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 210500,
       "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
       "url": "https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU"
@@ -5436,7 +5436,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 184997,
       "name": "\u50ac\u3057",
       "url": "https://open.spotify.com/track/5rUVuKxVps32tLiIy52JRn"
@@ -5832,7 +5832,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 274551,
       "name": "\u590f\u76ee",
       "url": "https://open.spotify.com/track/4w8wiJW2oaFCfsGJGovNkL"
@@ -6228,7 +6228,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 308640,
       "name": "\u60da\u305f\u308b\u86cd",
       "url": "https://open.spotify.com/track/4pkejZbcxlDbheXEOobH2Q"
@@ -6408,7 +6408,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 235509,
       "name": "\u653e\u8ab2\u5f8c\u306e\u904e\u3054\u3057\u65b9",
       "url": "https://open.spotify.com/track/1IdvtsBCx7HCcgH3U0uS7R"
@@ -6700,6 +6700,24 @@
       "duration_ms": 307955,
       "name": "\u6765\u4e16\u3067\u904a\u307c\u3046",
       "url": "https://open.spotify.com/track/2XVjVKfgpSDdnlkjXDOYH5"
+    },
+    {
+      "album": {
+        "name": "\u3046\u3001\u3061\u3085\u30fc\u3002",
+        "url": "https://open.spotify.com/album/7a43PeAPwCmBHRdxFbNoGo"
+      },
+      "artists": [
+        {
+          "name": "\u8d85\u2606\u793e\u4f1a\u7684\u30b5\u30f3\u30c0\u30eb",
+          "url": "https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199954,
+      "name": "\u6771\u4eac",
+      "url": "https://open.spotify.com/track/7LSF652I2HVsRcGNX1WYjP"
     },
     {
       "album": {
@@ -7276,7 +7294,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 301000,
       "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
       "url": "https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt"

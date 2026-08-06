@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Get Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,589 likes - 100 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,370 likes - 100 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [Único \- Ao vivo](https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Marco Telles](https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ) | [Único \(Ao Vivo\)](https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT) | 7:36 |
 | 100 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/5c6o5yQdZ8jRCxboHK5SAq) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/23thq9ElD6i6CoXulKrPSb) | 5:17 |
 
-Snapshot ID: `AAAAAESI9Pai5Axnc1DMY4qwccLuYZzX`
+Snapshot ID: `AAAAAEETdAx/CeTxvp9Up7pUca04duBa`

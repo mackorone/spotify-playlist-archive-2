@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف:لطيفة
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,544 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,559 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 50 | [لون الخمري](https://open.spotify.com/track/7480cSKe72OV1YiOQxBT6o) | [Aziz Abdo](https://open.spotify.com/artist/5Zf07Fg6LMGVw3jPoRlvVM) | [لون الخمري](https://open.spotify.com/album/7CKitMR6eBgGQzf0eBjbXl) | 3:06 |
 | 51 | [Ala Fen](https://open.spotify.com/track/39qK2uLE92BCmZmirN089P) | [Hend Abdelhalim](https://open.spotify.com/artist/2S9BsC20KfslztksdN6L84) | [Ala Fen](https://open.spotify.com/album/4ObOTrMd4XQcUa9kSwxUBK) | 3:38 |
 
-Snapshot ID: `AAAAAJ76dsvQrAGQxnY/pTWU45moK03h`
+Snapshot ID: `AAAAAJ2sIyCOEczwR9pHXNEFgITgDSOt`

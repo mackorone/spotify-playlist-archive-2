@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Armaan Malik, Aditya Rikhari, Shaan and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,512 likes - 48 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,545 likes - 48 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 47 | [Kohinoor](https://open.spotify.com/track/0Pe7k7uGkfVwoSMOuC8WE5) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Kohinoor](https://open.spotify.com/album/6v5MNxW19uV6uwLJmS8zwA) | 2:25 |
 | 48 | [Guzara](https://open.spotify.com/track/5llGxmF2mDHmormgVmWiIY) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Guzara](https://open.spotify.com/album/6FFtYqnYhQ8K23D2HEKQwC) | 3:01 |
 
-Snapshot ID: `AAAAAIj+Mkdd1OrPweqTtF/paTqHxdus`
+Snapshot ID: `AAAAAAPjiJpX7FsJ9HhqWvylukRcqqPx`

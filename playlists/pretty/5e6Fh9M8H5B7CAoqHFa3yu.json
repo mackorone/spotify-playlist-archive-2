@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 347,
+  "num_followers": 349,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKs0be5pRh18+KlPj7TNAVO2zbMeRe",
+  "snapshot_id": "AAAKustAGefONFSpRmypeUNWluTH+6s2",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -42835,6 +42835,106 @@
       "duration_ms": 218759,
       "name": "\u0414\u043e\u0436\u0434\u044c",
       "url": "https://open.spotify.com/track/0Nc8Dz4CeakHfHNJiTGbSC"
+    },
+    {
+      "added_at": "2026-08-05 08:27:47",
+      "album": {
+        "name": "OVERPASS.",
+        "url": "https://open.spotify.com/album/4c8HCDENtOuwbsHVc1PdA2"
+      },
+      "artists": [
+        {
+          "name": "Nick Snow",
+          "url": "https://open.spotify.com/artist/5N7waesGmq9Hjt9A3wjwoD"
+        }
+      ],
+      "duration_ms": 188108,
+      "name": "OVERPASS.",
+      "url": "https://open.spotify.com/track/2aV4nhFSnn37zneThoFhzb"
+    },
+    {
+      "added_at": "2026-08-05 09:06:53",
+      "album": {
+        "name": "Zostawi\u0142a\u015b mnie dla niego",
+        "url": "https://open.spotify.com/album/78BGJDi3n9aYX4xgn8GAoc"
+      },
+      "artists": [
+        {
+          "name": "D.Ba\u0144ka",
+          "url": "https://open.spotify.com/artist/2WMp1BJzsAJk0uGu6owxtv"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Zostawi\u0142a\u015b mnie dla niego",
+      "url": "https://open.spotify.com/track/3HthJCMMy9VDiavR5lnDnH"
+    },
+    {
+      "added_at": "2026-08-05 09:30:42",
+      "album": {
+        "name": "Hetki viipyv\u00e4",
+        "url": "https://open.spotify.com/album/1IDzctBIzdTqy2JFgw0b2l"
+      },
+      "artists": [
+        {
+          "name": "Ne Tunteet",
+          "url": "https://open.spotify.com/artist/1WLzo5i7CZgmq9EIW0tbGe"
+        }
+      ],
+      "duration_ms": 180224,
+      "name": "Hetki viipyv\u00e4",
+      "url": "https://open.spotify.com/track/0t8z3UxmhG9csGfmJgWjbe"
+    },
+    {
+      "added_at": "2026-08-05 09:40:26",
+      "album": {
+        "name": "Chill & Grind",
+        "url": "https://open.spotify.com/album/6F9ZJH5RvxQklzvkewbTO4"
+      },
+      "artists": [
+        {
+          "name": "Funk Lazarus",
+          "url": "https://open.spotify.com/artist/27Lj5gvLs9RK7jYpd3q5Cf"
+        },
+        {
+          "name": "Aural Nouveau",
+          "url": "https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i"
+        }
+      ],
+      "duration_ms": 173125,
+      "name": "Chill & Grind",
+      "url": "https://open.spotify.com/track/16GXhEHAqhlz7B6Y8CVG3T"
+    },
+    {
+      "added_at": "2026-08-05 09:40:26",
+      "album": {
+        "name": "Resting in Change",
+        "url": "https://open.spotify.com/album/2FHxPk4uWZYSY1F7pTIGZB"
+      },
+      "artists": [
+        {
+          "name": "Mishu Cerri",
+          "url": "https://open.spotify.com/artist/2Az66PYe7XDPUqUTgSrmfq"
+        }
+      ],
+      "duration_ms": 261599,
+      "name": "Resting in Change",
+      "url": "https://open.spotify.com/track/1Nh0MxAfQSdPUOYXjxKs3i"
+    },
+    {
+      "added_at": "2026-08-05 09:40:27",
+      "album": {
+        "name": "Velvet Contraband",
+        "url": "https://open.spotify.com/album/3HBsvCYydiN3PxCJUlhoGn"
+      },
+      "artists": [
+        {
+          "name": "Aural Nouveau",
+          "url": "https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i"
+        }
+      ],
+      "duration_ms": 238799,
+      "name": "Cognac and Cinders",
+      "url": "https://open.spotify.com/track/7j7yOjVdOIbhaS0arc46QI"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

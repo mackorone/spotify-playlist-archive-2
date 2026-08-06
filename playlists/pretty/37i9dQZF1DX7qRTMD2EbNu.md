@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: O'kenneth
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,845 likes - 86 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,872 likes - 86 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 85 | [HANDKERCHIEF](https://open.spotify.com/track/5Qvd27vGJ2quOlD3HG5qDU) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [HANDKERCHIEF](https://open.spotify.com/album/4oH9zU5EgbEPTHnD6yHFsR) | 2:22 |
 | 86 | [WE SEE DEM](https://open.spotify.com/track/5cvVkMlZ9Sa5eQB46opACJ) | [Asomacy](https://open.spotify.com/artist/6qqOGbYKXBzVUf1tbK3zRX) | [NOVA](https://open.spotify.com/album/1XVhBmPmHO9KIEU8YGUzGq) | 2:08 |
 
-Snapshot ID: `AAAAAGGChbWjMUQLa/sfggKZtQj9m7yM`
+Snapshot ID: `AAAAACAoLu9daOaBJ60QLOtAzh48AJuU`

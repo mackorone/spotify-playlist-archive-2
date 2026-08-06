@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: After
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,664,755 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,664,662 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 99 | [Seventeen](https://open.spotify.com/track/25qyBoX9Hk4WSB6lXrKw9K) | [Lola Blue](https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at) | [Pinky Promise](https://open.spotify.com/album/1yNNvUBskbCyaL3U8HajF4) | 3:04 |
 | 100 | [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 |
 
-Snapshot ID: `AAAAABgkV345xpZcQA/LACg53WMSSgX7`
+Snapshot ID: `AAAAAPXAFGKNawal4/MDCUmskkAA6kXT`

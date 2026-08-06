@@ -160,7 +160,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 286916,
       "name": "All My Reasons",
       "url": "https://open.spotify.com/track/2DAnhu2YNC6S3PA4tm2Ch9"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 202508,
       "name": "For His Better Three Quarters",
       "url": "https://open.spotify.com/track/5D4gO0zn1nuXAdvFHnaaG4"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 203750,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/3Q0CCmpgxZ22Ul1t6OyWN6"
@@ -2718,7 +2718,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 254075,
       "name": "hold me",
       "url": "https://open.spotify.com/track/6ARP3bYxBYlRMM41RxHmCg"
@@ -3482,6 +3482,24 @@
       "duration_ms": 156129,
       "name": "LITTLE FIRE",
       "url": "https://open.spotify.com/track/17viPu9V17mTHtM9GveWNr"
+    },
+    {
+      "album": {
+        "name": "Loaded Gun",
+        "url": "https://open.spotify.com/album/6EhbXe2D3NAEQOXRyTa0yw"
+      },
+      "artists": [
+        {
+          "name": "The Falls Band",
+          "url": "https://open.spotify.com/artist/2fVYWVFLpWFpLnuhCUhyuu"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Loaded Gun",
+      "url": "https://open.spotify.com/track/2T3dk6Cx6jQcT0ZfSPusSy"
     },
     {
       "album": {
@@ -4257,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "Paper Planes",
+        "url": "https://open.spotify.com/album/4DgTOZpAlFoTB5UxRg798P"
+      },
+      "artists": [
+        {
+          "name": "Cathal Fitz",
+          "url": "https://open.spotify.com/artist/2N03xrnhfMK53tCtDnWQed"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222748,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/3drgTEzyzjAT0NiEtfVOWQ"
+    },
+    {
+      "album": {
         "name": "Parasite (Demo)",
         "url": "https://open.spotify.com/album/6PiHv0qqyKwpHr2I04vpo4"
       },
@@ -4344,6 +4380,24 @@
       "duration_ms": 218082,
       "name": "Pesky Rain",
       "url": "https://open.spotify.com/track/6Q8jc9MeB97JUFyASh5o8U"
+    },
+    {
+      "album": {
+        "name": "Pirouette",
+        "url": "https://open.spotify.com/album/2CmPYoznelMLzRugg1ZAx1"
+      },
+      "artists": [
+        {
+          "name": "Girl Upstairs",
+          "url": "https://open.spotify.com/artist/0jwyuZYb72vsnCpWw8xuT9"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166894,
+      "name": "Pirouette",
+      "url": "https://open.spotify.com/track/0oEZHgPiZseTMg195Bv9eT"
     },
     {
       "album": {
@@ -4567,6 +4621,24 @@
     },
     {
       "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/0ERKgmEk3IzqI3GUaXijX6"
+      },
+      "artists": [
+        {
+          "name": "KATANES",
+          "url": "https://open.spotify.com/artist/5Z9F67svL9FJQW3g4hpBYE"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218468,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/5uvuuZqKyiRIlV34S0czL0"
+    },
+    {
+      "album": {
         "name": "Resolve",
         "url": "https://open.spotify.com/album/3OCIIDu3Yv1PfisV8LPHmL"
       },
@@ -4626,7 +4698,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 212522,
       "name": "Robin",
       "url": "https://open.spotify.com/track/2ljwE5BHmknuF3lbt2pVUV"
@@ -4894,7 +4966,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 192886,
       "name": "She's So Down",
       "url": "https://open.spotify.com/track/7nrvqXLYdijBwwzl02jbkh"
@@ -4930,7 +5002,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 235608,
       "name": "Shelley",
       "url": "https://open.spotify.com/track/2pAKTXfyggF2PUbTB4FjUO"
@@ -5096,7 +5168,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 235776,
       "name": "Soft Lad",
       "url": "https://open.spotify.com/track/6gbYVAw8vd5LoC9RwYsfWE"
@@ -5258,7 +5330,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 278625,
       "name": "Summa",
       "url": "https://open.spotify.com/track/34PHwc6XsMuhUj2YULvW07"
@@ -5998,7 +6070,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 180096,
       "name": "Walk Of Shame",
       "url": "https://open.spotify.com/track/1omqJvBW6elx8A4O3neTXJ"

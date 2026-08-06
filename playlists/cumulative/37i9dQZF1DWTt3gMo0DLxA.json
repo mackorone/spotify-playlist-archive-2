@@ -582,6 +582,28 @@
     {
       "album": {
         "name": "Bommarillu",
+        "url": "https://open.spotify.com/album/1hOrpjlJ3ScFQaALB9eU1R"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Siddharth",
+          "url": "https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243265,
+      "name": "Apudo Ipudo",
+      "url": "https://open.spotify.com/track/01uUuX3157r7G90Gb7LKQC"
+    },
+    {
+      "album": {
+        "name": "Bommarillu",
         "url": "https://open.spotify.com/album/2394D0vwxXW80JtLlYSuWj"
       },
       "artists": [
@@ -696,7 +718,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 236617,
       "name": "Arere Yekkada",
       "url": "https://open.spotify.com/track/0G1GYz7LESrRh3FDRFOTld"
@@ -1216,7 +1238,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 264489,
       "name": "Bonalu Song 2024",
       "url": "https://open.spotify.com/track/55jIdsVlTXNO3UJUjs4H0s"
@@ -2796,7 +2818,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 215178,
       "name": "GlobeTrotter (From \"Varanasi\")",
       "url": "https://open.spotify.com/track/1yamFTTVl9UymBBKeVRewV"
@@ -3105,6 +3127,28 @@
     },
     {
       "album": {
+        "name": "Dookudu",
+        "url": "https://open.spotify.com/album/1SGndg8kpngYITpsJzacri"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Rahul Nambiar",
+          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262246,
+      "name": "Guruvaram",
+      "url": "https://open.spotify.com/track/5VkOYTc7uRLjLiAOKj497a"
+    },
+    {
+      "album": {
         "name": "Habibi Jilebi (From \"Bubblegum\")",
         "url": "https://open.spotify.com/album/6zPZeAvrPlyi03cyJbsXg4"
       },
@@ -3406,7 +3450,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 271937,
       "name": "Hoyna Hoyna (From \"Gang Leader\")",
       "url": "https://open.spotify.com/track/7hADNKBDHS8MblpUzLebLf"
@@ -3842,7 +3886,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 207095,
       "name": "Jaya Mangalam (From \"Lenin\")",
       "url": "https://open.spotify.com/track/19pjfPfmHB6H1NyBEVUdOd"
@@ -4142,7 +4186,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 193269,
       "name": "Kamsahamnida (From \"Korean Kanakaraju\")",
       "url": "https://open.spotify.com/track/2VxTKPJ2yyK1u1YzvxQkS9"
@@ -4869,6 +4913,36 @@
     },
     {
       "album": {
+        "name": "Manasaagadhe (From \"Toxic - Telugu\")",
+        "url": "https://open.spotify.com/album/0sQAKg2bPKcuf3TCWmSyfs"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Siddharth Basrur",
+          "url": "https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245541,
+      "name": "Manasaagadhe - From \"Toxic - Telugu\"",
+      "url": "https://open.spotify.com/track/5bP69IDZDEWdQkjMQXsQgw"
+    },
+    {
+      "album": {
         "name": "Premante Idera",
         "url": "https://open.spotify.com/album/30XOwr9IvgZNVNv16WCqtf"
       },
@@ -4958,7 +5032,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 185138,
       "name": "Manga Manga (From \"Srinivasa Mangapuram\")",
       "url": "https://open.spotify.com/track/32igh3Hc2LXrFU2BxOTRuC"
@@ -6286,7 +6360,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 260000,
       "name": "Oh Priya Priya",
       "url": "https://open.spotify.com/track/5OASaE4FRMNKdX0IHIg5Ri"
@@ -6574,7 +6648,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 231857,
       "name": "Pedda Puli",
       "url": "https://open.spotify.com/track/51adN4t3IyX1pQCFPAYqSM"
@@ -6774,6 +6848,32 @@
       "duration_ms": 267682,
       "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
       "url": "https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn"
+    },
+    {
+      "album": {
+        "name": "Dookudu",
+        "url": "https://open.spotify.com/album/1SGndg8kpngYITpsJzacri"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Ramya NSK",
+          "url": "https://open.spotify.com/artist/1kymDvCl9hR0bZ9DPy65ie"
+        },
+        {
+          "name": "Naveen Madhav",
+          "url": "https://open.spotify.com/artist/3oVTCMgAvt1x7EogVtX40H"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257448,
+      "name": "Poovai Poovai",
+      "url": "https://open.spotify.com/track/0bHKwDpdnQtH9bj3iWm5Ib"
     },
     {
       "album": {
@@ -7912,7 +8012,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 256901,
       "name": "Sanna Sanna Biyyame",
       "url": "https://open.spotify.com/track/2v2Nkd45rM8TldGWy1HKcb"
@@ -9133,6 +9233,32 @@
     },
     {
       "album": {
+        "name": "Bommarillu",
+        "url": "https://open.spotify.com/album/1hOrpjlJ3ScFQaALB9eU1R"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        },
+        {
+          "name": "Andrea Jeremiah",
+          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309906,
+      "name": "We Have Romeo",
+      "url": "https://open.spotify.com/track/0fYw4JQwzXOqfmOVTSyIcG"
+    },
+    {
+      "album": {
         "name": "Bheeshma",
         "url": "https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50"
       },
@@ -9230,7 +9356,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 203138,
       "name": "Yetta Yetta (From \"Lenin\")",
       "url": "https://open.spotify.com/track/31b5VAlGdyvuKbqrvAEwXs"

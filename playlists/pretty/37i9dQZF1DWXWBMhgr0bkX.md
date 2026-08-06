@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟<br/>cover: Natanya
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,353 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,352 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 69 | [Roses In The Dark](https://open.spotify.com/track/7jWryoFLkDR1jeht78uUeQ) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Roses In The Dark](https://open.spotify.com/album/6xpgyjIqQRJiNQ55Fd5XBx) | 3:13 |
 | 70 | [Mercy](https://open.spotify.com/track/1aztie4vtok8BJDCkpuACb) | [Jack Dean](https://open.spotify.com/artist/4Qqd73y2C4EJsGkM1HfElZ) | [Mercy](https://open.spotify.com/album/1K56lLAyocjPjB7PfhRKMP) | 2:57 |
 
-Snapshot ID: `AAAAAPljfr7uw2F0idzBox0BAOK2HrQN`
+Snapshot ID: `AAAAACWfwXi2C2YYcYJQVF+9WA/ZwtKY`

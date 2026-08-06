@@ -594,7 +594,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 211071,
       "name": "Lama Tkooni",
       "url": "https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1"
@@ -872,6 +872,24 @@
       "duration_ms": 318461,
       "name": "Naskha Mennek",
       "url": "https://open.spotify.com/track/1QvPkpRLq07ps7S9izzQtK"
+    },
+    {
+      "album": {
+        "name": "Nassaba",
+        "url": "https://open.spotify.com/album/2CKSpfRR6MSbuQRgGGO29G"
+      },
+      "artists": [
+        {
+          "name": "siilawy",
+          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Nassaba",
+      "url": "https://open.spotify.com/track/02zMg2lr7MNTG4tTLyYlHV"
     },
     {
       "album": {
@@ -1440,10 +1458,28 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 201052,
       "name": "\u0628\u062f\u064a\u0627\u0643\u064a",
       "url": "https://open.spotify.com/track/0WnlqxAq3teytGyb5s4aw3"
+    },
+    {
+      "album": {
+        "name": "\u0628\u064a\u0627\u0639\u064a\u0646",
+        "url": "https://open.spotify.com/album/53UrfZ7c3w365ziIlhPxaw"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "\u0628\u064a\u0627\u0639\u064a\u0646",
+      "url": "https://open.spotify.com/track/0YJiqFIcGvRtTJv9Bs2s63"
     },
     {
       "album": {

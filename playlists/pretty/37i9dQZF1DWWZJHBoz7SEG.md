@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Cerramos Julio con las novedades de la semana, nos vemos en Agosto con mas música\. Siddhartha en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,870 likes - 59 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,735 likes - 59 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 58 | [CAÍ DE CARA AYER](https://open.spotify.com/track/2y2804DWFwtlb72KHAhLrm) | [Drizzle](https://open.spotify.com/artist/2oV8WT02s409c2Jlc7zrlg) | [CAÍ DE CARA AYER](https://open.spotify.com/album/5lRY9nBU9bRMJZ27bNvBMi) | 2:58 |
 | 59 | [Gallo Fino](https://open.spotify.com/track/6gjeI8VZPasVUuo51577MK) | [Santiago Duarte](https://open.spotify.com/artist/7KerPyVUQ2OU73fFJCjeJI) | [Gallo Fino](https://open.spotify.com/album/5Eb10CVAZURalwjYfrQgW1) | 3:02 |
 
-Snapshot ID: `AAAAAFXVs/b4Cu1ICFDKxNr7pRK9rxlj`
+Snapshot ID: `AAAAAApLKOsyZMx4hzrKXcqohDjuhZV/`

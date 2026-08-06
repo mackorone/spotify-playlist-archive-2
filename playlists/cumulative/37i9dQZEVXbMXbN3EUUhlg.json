@@ -4652,7 +4652,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 218107,
       "name": "Bala Alojada",
       "url": "https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq"
@@ -11202,7 +11202,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 158589,
       "name": "Displicente - Ao Vivo",
       "url": "https://open.spotify.com/track/7cYwK2NkBOMpKs44d6HroI"
@@ -12348,7 +12348,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 204351,
       "name": "Ele Ou Eu",
       "url": "https://open.spotify.com/track/5h7u2u9egl8LaE9rTDscH5"
@@ -17384,7 +17384,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -18586,7 +18586,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 203177,
       "name": "Inseguran\u00e7a / Fim de Noite - Ao Vivo",
       "url": "https://open.spotify.com/track/0UbftifCuaos8xnNT1K8Us"
@@ -28200,7 +28200,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 262158,
       "name": "Pacman de Panicat",
       "url": "https://open.spotify.com/track/2oh5HTG1Wv2a41P3xmlbvY"
@@ -32032,7 +32032,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 468953,
       "name": "Quem \u00c9 Esse? - Ao Vivo",
       "url": "https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK"
@@ -36956,10 +36956,48 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 276230,
       "name": "Ta Pedindo Toma",
       "url": "https://open.spotify.com/track/5GAAx9l33gDaECUMPcEP7y"
+    },
+    {
+      "album": {
+        "name": "Na Contram\u00e3o",
+        "url": "https://open.spotify.com/album/0tb8sjymeGOXlKWmtJnYGW"
+      },
+      "artists": [
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "MC Murilo MT",
+          "url": "https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP"
+        },
+        {
+          "name": "Mc DR",
+          "url": "https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG"
+        },
+        {
+          "name": "DJ JHOW BEATS",
+          "url": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe"
+        },
+        {
+          "name": "MC RN do Cap\u00e3o",
+          "url": "https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB"
+        },
+        {
+          "name": "Mc Pelourinho",
+          "url": "https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276230,
+      "name": "Ta Pedindo Toma",
+      "url": "https://open.spotify.com/track/5vKFOIYILoR6UfhxKeHXtX"
     },
     {
       "album": {
@@ -39699,6 +39737,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Em Uberl\u00e2ndia",
+        "url": "https://open.spotify.com/album/6QRuaVhphYKYRiydSRzQhX"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Tubar\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H"
+    },
+    {
+      "album": {
         "name": "Sofr\u00eancia no Grau com Diego & Victor Hugo",
         "url": "https://open.spotify.com/album/4ZczgxUanWgQUq0N8BVwwx"
       },
@@ -39750,32 +39806,6 @@
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/6tUdNbB9aYbX0sUDXOzX1u"
-    },
-    {
-      "album": {
-        "name": "Ao Vivo Em Uberl\u00e2ndia",
-        "url": "https://open.spotify.com/album/6QRuaVhphYKYRiydSRzQhX"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Diego",
-          "url": "https://open.spotify.com/artist/79XD2aBNfCvTZLF9cnsxSB"
-        },
-        {
-          "name": "Victor Hugo",
-          "url": "https://open.spotify.com/artist/0P5FjTy1hd0aSQGr5oRqPe"
-        }
-      ],
-      "date_added": "2026-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162580,
-      "name": "Tubar\u00f5es - Ao Vivo",
-      "url": "https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H"
     },
     {
       "album": {
@@ -39842,6 +39872,24 @@
       "duration_ms": 168813,
       "name": "Tudo Nosso",
       "url": "https://open.spotify.com/track/5qtQJJqJUjk2zNjRroqgLk"
+    },
+    {
+      "album": {
+        "name": "O Maior Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6QXJWHHtoOU2cU2a6ZwT9x"
+      },
+      "artists": [
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518138,
+      "name": "Tudo \u00c9 Perda - Ao Vivo",
+      "url": "https://open.spotify.com/track/69reWZKMmkwA7x27jBNK1Z"
     },
     {
       "album": {

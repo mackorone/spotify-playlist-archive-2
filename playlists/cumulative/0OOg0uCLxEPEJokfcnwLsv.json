@@ -3569,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Get Loud",
+        "url": "https://open.spotify.com/album/2zod2UcANo2xffg6EU3amr"
+      },
+      "artists": [
+        {
+          "name": "Nuisance",
+          "url": "https://open.spotify.com/artist/0EmWdAiVab7qmYaatq6Ttb"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141016,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/2zcVXazWslVP2YuZjRZkGH"
+    },
+    {
+      "album": {
         "name": "Old, New, Borrowed II",
         "url": "https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi"
       },

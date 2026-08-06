@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ariana Grande, Odeal, Swedish House Mafia and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,145 likes - 104 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,026 likes - 104 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 103 | [Buss One](https://open.spotify.com/track/35KkOvwhqhdnKfYXQq52aw) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [Yung Saber](https://open.spotify.com/artist/2e3qEeLCBtEqsbsgYDtrO0), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [Buss One](https://open.spotify.com/album/5TzHGJ1IeGFe2vb7mPS0QI) | 3:43 |
 | 104 | [Odessa](https://open.spotify.com/track/5xhALmvO5mJNBUnqjGcVg2) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Odessa](https://open.spotify.com/album/3WL5cc1KLgTfMIkTf5XhGE) | 2:55 |
 
-Snapshot ID: `AAAAANLZ6cE5ag4xOh2PxnUjSSxqggwE`
+Snapshot ID: `AAAAAARSSQ1gevTawwC2ceBGrswHJxij`

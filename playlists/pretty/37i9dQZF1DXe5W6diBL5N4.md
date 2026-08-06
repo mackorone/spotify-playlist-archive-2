@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: Young K\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,289 likes - 118 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,326 likes - 118 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 7 | [Surfin' Boy](https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Velvet Summer \- Summer Mini Album](https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr) | 2:48 |
 | 8 | [Party Rock Rock \(prod\. Hitchhiker\)](https://open.spotify.com/track/5wsPiyVi6oIHY0RAz8Ay0G) | [Picheolin](https://open.spotify.com/artist/3V2EC4dPYLgtbi0TtrB1RA) | [吉BOARD\(Gilboard\)](https://open.spotify.com/album/0XmnjoF5TguvSvPrTrO83v) | 2:27 |
 | 9 | [Storm](https://open.spotify.com/track/2WCyL3PYyFKn4vn1TCGfmL) | [Kim Doeon](https://open.spotify.com/artist/0TGFTWpeT8b9vj6Fy7UaKg) | [Storm](https://open.spotify.com/album/5fjL88nOqBR0UwYulZtQPe) | 4:05 |
-| 10 | [Hawaian couple](https://open.spotify.com/track/3uxqoQ88fUsp20vNR6Yz74) | [STEN](https://open.spotify.com/artist/2SHWnUGXAM1IByZCvRFlnE), [Kuk seung pyo](https://open.spotify.com/artist/0wNs8ZP3dTm0kVoM5oHwJh), [Meliya](https://open.spotify.com/artist/0u0uz2dchJwwlwqKwIahBy) | [Hawaian couple](https://open.spotify.com/album/3qz6zIScb5cWu3GgDmrUSB) | 2:51 |
+| 10 | [Hawaiian Couple](https://open.spotify.com/track/3uxqoQ88fUsp20vNR6Yz74) | [STEN](https://open.spotify.com/artist/2SHWnUGXAM1IByZCvRFlnE), [Kuk seung pyo](https://open.spotify.com/artist/0wNs8ZP3dTm0kVoM5oHwJh), [Meliya](https://open.spotify.com/artist/0u0uz2dchJwwlwqKwIahBy) | [Hawaiian Couple](https://open.spotify.com/album/3qz6zIScb5cWu3GgDmrUSB) | 2:51 |
 | 11 | [Dreaming Hazy](https://open.spotify.com/track/0WjfYOnobhQbc9UWeSrohx) | [PARK JI WON \(fromis\_9\)](https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr) | [Dream to You, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/2VLrlAJTrty3RU0avia3zn) | 3:08 |
 | 12 | [Dancing On The Moon](https://open.spotify.com/track/6UFcHmA46ZRf6ifdoDGk0E) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Dancing On The Moon](https://open.spotify.com/album/77GHCZKFzeULdQV80DZ4RZ) | 3:01 |
 | 13 | [1440](https://open.spotify.com/track/7bpXB2DYCtPnzYumFyYTZl) | [Park Da Hye](https://open.spotify.com/artist/3USv3ctdZFPKt8qMpzbnca) | [1440](https://open.spotify.com/album/4FlhPIFnEd7RbLvOJHqPvO) | 3:19 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 117 | [check in](https://open.spotify.com/track/5L1B4kSmmokJIryPkMItg7) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [check in](https://open.spotify.com/album/1aU0LNkd0vOpkbSmvZ7oDF) | 3:44 |
 | 118 | [BODY WAVE](https://open.spotify.com/track/6b4pAgNdvX3oB8JU8cfUck) | [BBGIRLS](https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti) | [BODY WAVE](https://open.spotify.com/album/0dyTUphUR3fYciR6Br4KNs) | 2:49 |
 
-Snapshot ID: `AAAAAJg3gywJzjmN7jpofFV/34bKPZ+c`
+Snapshot ID: `AAAAAPU1/guQZ8/YSra9B3FHhZ9VwDqy`

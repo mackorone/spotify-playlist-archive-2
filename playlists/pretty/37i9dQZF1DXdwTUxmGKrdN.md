@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,731 likes - 150 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,749 likes - 150 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 74 | [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 |
 | 75 | [Cecil's Groove](https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc) | [Dr\. Dave & The HouseCall Band](https://open.spotify.com/artist/134PknVZizoh9QcdLGLPF8) | [Midnight Daydream](https://open.spotify.com/album/1Evdw2XJNENemvkBO4aM4G) | 4:21 |
 | 76 | [On The One](https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:49 |
-| 77 | [New Hope](https://open.spotify.com/track/1Sg5r4ji96C4GoKc7koDgz) | [Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Tony Guerrero](https://open.spotify.com/artist/37kkt99kbf7StXED3Nip9W) | [Let's Ride](https://open.spotify.com/album/50NyCk4oDOFJTTuBvxv3fL) | 5:18 |
+| 77 | [New Hope \(feat\. Tony Guerrero\)](https://open.spotify.com/track/1Sg5r4ji96C4GoKc7koDgz) | [Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Tony Guerrero](https://open.spotify.com/artist/37kkt99kbf7StXED3Nip9W) | [Let's Ride](https://open.spotify.com/album/50NyCk4oDOFJTTuBvxv3fL) | 5:18 |
 | 78 | [New Bounce](https://open.spotify.com/track/3AFEIfMWHsjjv89DhFmS8G) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [6](https://open.spotify.com/album/1KO2CGLFnWltGv9mRwc22y) | 4:47 |
 | 79 | [His Coolness](https://open.spotify.com/track/3EQ5NnNUxhE9oRnRk4HPuL) | [Alex Bugnon](https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1) | [As Promised](https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U) | 5:24 |
 | 80 | [Into The Night](https://open.spotify.com/track/1s769CVjgzGrBA4Aq6svfU) | [Urban Jazz Coalition](https://open.spotify.com/artist/5Nop1LOUEwGRc4ZTG84MGX) | [A New Day](https://open.spotify.com/album/5ydYCx0gJvLnWqzH517jWV) | 4:39 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 149 | [Just Dance \(feat\. Dave Koz\)](https://open.spotify.com/track/5S6EHC45If9NSN5jIHVzP1) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Double Vision](https://open.spotify.com/album/6KmbBezsEykMwmMmxgqRuY) | 4:23 |
 | 150 | [Close Your Eyes](https://open.spotify.com/track/4d12NDxv7ol5lMJemDsWXJ) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' the Faith](https://open.spotify.com/album/0JBQoZCxqbAAjIBMq0Qz1T) | 5:05 |
 
-Snapshot ID: `AAAAAP00YiY2zDvecvoefL2ReBApOEwg`
+Snapshot ID: `AAAAAM1xLTijXMKIYXPAkXbJSkGiu0Mm`

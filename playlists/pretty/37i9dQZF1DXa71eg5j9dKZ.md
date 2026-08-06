@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Laurence Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,932 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,953 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Passed Me By](https://open.spotify.com/track/0lxipmiNQfnrpxNMprU8vc) | [Submotion Orchestra](https://open.spotify.com/artist/3ceOFG1q86nQVpJliylpgA) | [Passed Me By](https://open.spotify.com/album/4rjD9u6y1TYCIfRXSogE6X) | 4:31 |
 | 100 | [Pay Attention to Me](https://open.spotify.com/track/0euCs7l9u8japDamITC7Ab) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Pay Attention to Me](https://open.spotify.com/album/2JpkP5mLRbWr19HwaYKfqj) | 3:52 |
 
-Snapshot ID: `AAAAAJhFlVqKAD/JZJqmzJpqptWLgrXP`
+Snapshot ID: `AAAAACy5m93aiB7d26AfElw3Xs6TE5PQ`

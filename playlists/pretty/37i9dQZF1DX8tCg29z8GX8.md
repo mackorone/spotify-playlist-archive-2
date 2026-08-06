@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,237 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,249 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 79 | [Out The Mud](https://open.spotify.com/track/0ew3fsc3ljIZlb46OeTKJs) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Out The Mud](https://open.spotify.com/album/2zUbYr0EsC9FcatnR2AT3A) | 3:14 |
 | 80 | [Akua Broni](https://open.spotify.com/track/06qbJEpg6a4HTPYS8nSqMN) | [Moon Byni](https://open.spotify.com/artist/3qfpTiMILzhUEZWlQaM229), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Akua Broni](https://open.spotify.com/album/0DL4sDESnkZXriFwYpvjVb) | 2:36 |
 
-Snapshot ID: `AAAAAEN4+tkCMjYupV1jZzQuNzz1xCeU`
+Snapshot ID: `AAAAADiBBsqDakwFEpwl9dhqgV1iiK2V`

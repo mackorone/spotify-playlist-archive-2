@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Jazz](https://open.spotify.com/playlist/37i9dQZF1DXcWL5K0oNHcG)
 
-> Fresh jazz by independent artists every Wednesday\. Cover: Ancient Infinity Orchestra\. Artwork: Joy Yamusangie.
+> Fresh jazz by independent artists every Wednesday\. Cover: Pritesh Walia\. Artwork: Joy Yamusangie.
 
-1,671 songs - 5 day 10 hr 21 min
+1,673 songs - 5 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,6 +705,7 @@
 | [Jolly Good Fela](https://open.spotify.com/track/3pEmh34X9EDZWgstVtNoki) | [Jaydabliu](https://open.spotify.com/artist/564Yqrvz8YYhdoiAmdDaOp) | [Jolly Good Fela](https://open.spotify.com/album/57IBh0b7aibYnrpvdBk9aZ) | 2:52 | 2022-08-10 | 2022-09-29 |
 | [Joni Indo](https://open.spotify.com/track/7yb4Tmncgrdz4EHTQNXpvu) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [Joni Indo](https://open.spotify.com/album/06xMum9P424YVJqSIAyD9D) | 4:45 | 2023-03-29 | 2023-05-11 |
 | [Joro Timbal](https://open.spotify.com/track/1pn9VU1ThlFyXjzBQAr354) | [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG) | [3rd Element Revisited](https://open.spotify.com/album/2Tz8l7hgQLWZerJZjtMiXT) | 5:53 | 2022-04-06 | 2022-05-05 |
+| [Journey To Nowhere](https://open.spotify.com/track/2517uBZrNsu4GX7HQ85Tux) | [Pritesh Walia](https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl), [Henry Godfrey Jazz Orchestra](https://open.spotify.com/artist/01InjZS4je8QpsAWJ3BuJ3), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Journey To Nowhere](https://open.spotify.com/album/6SnNEBG38zzVaiYduXiFoz) | 11:00 | 2026-08-05 |  |
 | [Journey to the Treasures](https://open.spotify.com/track/27ARRxEg4FL9pigiXH31l8) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1) | [Journey to the Treasures](https://open.spotify.com/album/0KcRReTudCB09DrxkgI7IN) | 4:30 | 2023-03-29 | 2023-05-11 |
 | [Judas](https://open.spotify.com/track/1XJIjkaQuzoUGXaR4lQQfj) | [Summer Vee](https://open.spotify.com/artist/3GsVkkWXzpZiBVTjT5FGrX) | [Key To All Your Love & Judas](https://open.spotify.com/album/1q2NuLM1pKQoUVOyOG9W8e) | 4:55 | 2022-09-14 | 2023-01-12 |
 | [Juicy](https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Juicy](https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp) | 3:26 | 2022-09-14 | 2022-10-20 |
@@ -898,7 +899,7 @@
 | [Momentum Shift](https://open.spotify.com/track/07Q9pG7zFW4PLEXWzp6Jki) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Momentum Shift](https://open.spotify.com/album/0SqdoP0jQb9ngG0FA1Sgju) | 4:12 | 2026-02-11 |  |
 | [Monday](https://open.spotify.com/track/0cEiHdoJbX8lLwba6plTm2) | [Nikolai Olshansky](https://open.spotify.com/artist/4BA3kZtZgmFt4eqXSFOYOO) | [Monday](https://open.spotify.com/album/5ZMOd2UcnZcDqVJE0XCYRd) | 8:15 | 2022-04-13 | 2022-05-12 |
 | [Money Is the Curse \- 45 Edit](https://open.spotify.com/track/7bca9XDzxXTfzP7fTB1k8e) | [The KutiMangoes](https://open.spotify.com/artist/3Q5iBVx1lEGSrVPbJt0mBp) | [Fire](https://open.spotify.com/album/1g9ya6S1ROlwrhPr7rcDTl) | 3:39 | 2022-06-01 | 2022-06-30 |
-| [Monson Road](https://open.spotify.com/track/1ja8uUjSfepMYOPN0kt9pl) | [Brintex Collective](https://open.spotify.com/artist/5jS72nZgNklECz7m1Lj7zR) | [Make It Make Sense](https://open.spotify.com/album/2KL2KR0XhcfcS0golQ8AY8) | 5:45 | 2025-11-05 |  |
+| [Monson Road](https://open.spotify.com/track/1ja8uUjSfepMYOPN0kt9pl) | [Brintex Collective](https://open.spotify.com/artist/5jS72nZgNklECz7m1Lj7zR) | [Make It Make Sense](https://open.spotify.com/album/2KL2KR0XhcfcS0golQ8AY8) | 5:45 | 2025-11-05 | 2026-08-06 |
 | [Montana](https://open.spotify.com/track/6ct4nGTgyZEa8dV2jmLBaZ) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [Montana](https://open.spotify.com/album/3JoJEaRYQQB31ymbeNilpg) | 3:09 | 2023-03-01 | 2023-04-20 |
 | [Montsouris](https://open.spotify.com/track/2B3maaxBgIUZVGscNP3Mlq) | [Wajdi Riahi](https://open.spotify.com/artist/4KNhFrO2B7kgoeS1taeGVS), [Basile Rahola](https://open.spotify.com/artist/4OQVQ2Pa4AvFwGKvRzMIND), [Pierre Hurty](https://open.spotify.com/artist/2ag6TetFMxAK2kBxKUkfTQ) | [Montsouris](https://open.spotify.com/album/48120Oy65ceVY3KMJsuRzW) | 9:17 | 2022-02-09 | 2022-03-17 |
 | [moon](https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [moon](https://open.spotify.com/album/71hm4gpysao0yUq2XKsvKf) | 6:22 | 2024-02-21 | 2024-04-04 |
@@ -1372,6 +1373,7 @@
 | [TENDER](https://open.spotify.com/track/49Sh8PcOTST5mEAfnInS5f) | [Elle Shimada](https://open.spotify.com/artist/6QCfENvTPwkHq4V6nTMOpk) | [TENDER](https://open.spotify.com/album/4tbU17zF4kAvJ4iwOT2B1c) | 2:58 | 2025-06-25 | 2026-06-18 |
 | [Teo](https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Teo](https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4) | 3:35 | 2023-10-04 | 2024-01-11 |
 | [Terra](https://open.spotify.com/track/6YuYFcFId4QJSKRJIlQ0Mv) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Terra](https://open.spotify.com/album/428oCUhlcJu90Riw93VHWV) | 5:51 | 2022-03-30 | 2022-04-27 |
+| [Terrible Driver](https://open.spotify.com/track/4ymVHNnHlbgVGMF0yrxZM5) | [Noah Kellman](https://open.spotify.com/artist/0IAsPAh0paR3ITchGRbda0) | [Terrible Driver](https://open.spotify.com/album/3p7AuGYjqPCfYR6g86e04H) | 2:14 | 2026-08-05 |  |
 | [Terrigal](https://open.spotify.com/track/3yccNLYXxEY3MONXXm9wIk) | [Foshe](https://open.spotify.com/artist/0KCuUspc7QtrKkeTqXGHKZ) | [Rhonda's](https://open.spotify.com/album/1hOpZ6KnLd4EqFHvAfr6gg) | 5:45 | 2022-09-28 | 2022-10-13 |
 | [Textures](https://open.spotify.com/track/2QRQlpdtB9muofjlirBBaR) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [Textures](https://open.spotify.com/album/6dF4z28EZgdvJLfAMbvSPO) | 5:39 | 2022-02-02 | 2022-03-17 |
 | [Textures](https://open.spotify.com/track/7KHAgWLcBDOnmlBqkFvjYQ) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [Falling Grace](https://open.spotify.com/album/4n3KaQ0tgrUBrzubYz4ou6) | 5:39 | 2022-11-30 | 2023-01-12 |
@@ -1576,7 +1578,7 @@
 | [Wave Nature](https://open.spotify.com/track/0uyy04blYEEmrdC1JyNTY8) | [Daniel Rotem](https://open.spotify.com/artist/6GCr7w4KotyKmm7JeFPRfQ) | [Wave Nature](https://open.spotify.com/album/2489zgIRj9Sqw3yzGt4Ig9) | 2:20 | 2023-03-29 | 2023-04-13 |
 | [We Are](https://open.spotify.com/track/4ipDgsdd3O3H1eJWa6QDM7) | [OHMA](https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx) | [Between All Things](https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX) | 3:28 | 2022-09-14 | 2022-10-20 |
 | [We Are One \- Saxophone](https://open.spotify.com/track/0YLflG3xqJIOGlB8K92mEn) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Sax Covers \(Vol\. 7\)](https://open.spotify.com/album/6PbxOF1Nw0D9cvUbSzPVNB) | 4:24 | 2022-02-16 | 2022-03-24 |
-| [We Gonna Make It](https://open.spotify.com/track/2zCFZsrwN2cMj2ZJ8CXUjP) | [Omasta](https://open.spotify.com/artist/1pKSKHYzswJjPo6qLjx1qO) | [Jazz Report from the Hood](https://open.spotify.com/album/2ys0XCprUDcTOQ0xM2I0mU) | 4:14 | 2025-11-05 |  |
+| [We Gonna Make It](https://open.spotify.com/track/2zCFZsrwN2cMj2ZJ8CXUjP) | [Omasta](https://open.spotify.com/artist/1pKSKHYzswJjPo6qLjx1qO) | [Jazz Report from the Hood](https://open.spotify.com/album/2ys0XCprUDcTOQ0xM2I0mU) | 4:14 | 2025-11-05 | 2026-08-06 |
 | [We Have Been Here Before](https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG) | [We Have Been Here Before](https://open.spotify.com/album/27kRcs08cwVT7xZHKCLQPE) | 4:50 | 2024-08-21 | 2025-01-30 |
 | [We Have Been Here Before](https://open.spotify.com/track/2r0FgpMULZjmw6BySwNgO2) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG) | [Reawakening](https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb) | 4:50 | 2024-12-04 | 2025-01-16 |
 | [We The People](https://open.spotify.com/track/5pNVpQECQ0YY1yuD75nSXq) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ) | [We The People](https://open.spotify.com/album/2zgSIAgWRzpsgw8N7Py7sW) | 4:22 | 2026-03-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Wicked Sunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,843 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,855 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [Karamjali](https://open.spotify.com/track/4iwLEbZl1D3WMiFFcesQnk) | [Rap ID](https://open.spotify.com/artist/48mehZF6vUnj7r0CONLiU8), [Kod.E](https://open.spotify.com/artist/10vsL1yYQ2pq0Yi6D3PpwT) | [Legacy Chapter 1, Vol\. 3](https://open.spotify.com/album/192058Y5p7hlyGRYuqhDwJ) | 2:21 |
 | 75 | [3 Khaat](https://open.spotify.com/track/5AqWP2XSoIR6x65tRGvg2G) | [Duryodhan Rana](https://open.spotify.com/artist/0nwH3VdpmJakhuISQ0i9jX), [Prodbysoundscape](https://open.spotify.com/artist/43ttS6rFRzusm2okv9LDqX) | [3 Khaat](https://open.spotify.com/album/0T3MmqzkGQhE75fkpmjhE8) | 2:39 |
 
-Snapshot ID: `AAAAAPHnTwiHZODsXOBjJTq9oKYhvZgb`
+Snapshot ID: `AAAAAMsvB8IHDCzJUBD1WNMxDkZOJSLq`

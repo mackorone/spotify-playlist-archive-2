@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kelontae Gavin, Melvin Crispell III, Walter Hawkins and more
+> With Kelontae Gavin, Kurt Carr & The Kurt Carr Singers, Rev\. Milton Brunson and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 420 likes - 50 songs - 4 hr 53 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [God Is](https://open.spotify.com/track/1LGMtFYMyga53OafvMxjGl) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [No Failure](https://open.spotify.com/album/7epFPMHDz253KGhJbvn1fm) | 6:01 |
 | 50 | [Pass Me Not, Oh Gentle Savior](https://open.spotify.com/track/1fQ385JMFRPNt8IcDNSmtD) | [New Orleans Gospel Soul Children](https://open.spotify.com/artist/6l1Zb4sK2U3ACjQW7O60eD) | [Gospel Soul Children](https://open.spotify.com/album/4SABjASUY8yyTcnxoyTT93) | 7:08 |
 
-Snapshot ID: `AAAAAPSsFLXiFs10JgminYPbukD/jpD1`
+Snapshot ID: `AAAAANiX6+HBDqwP6ukJgElmujNy9f2o`

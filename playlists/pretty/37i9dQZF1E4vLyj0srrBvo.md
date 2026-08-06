@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Phantogram, Mareux and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,053 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,077 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Dove \- Doll Ver](https://open.spotify.com/track/1gq3Zua0XUcFbkITg6MpZo) | [antihoney](https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3) | [Dove \(Doll Ver\)](https://open.spotify.com/album/3FPddzCXbSldXCidpT5M28) | 2:15 |
 | 50 | [Is It Cold In The Water?](https://open.spotify.com/track/7tktCNlB0877dhdPZSRb7T) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:32 |
 
-Snapshot ID: `AAAAAIFpss+Mm/2fkT89lPix00VCngbN`
+Snapshot ID: `AAAAAOuHnIJ2nbtKm27t6MFsB4OmqfKb`

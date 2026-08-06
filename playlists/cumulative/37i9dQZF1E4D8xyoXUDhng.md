@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kelontae Gavin, Melvin Crispell III, Walter Hawkins and more
+> With Kelontae Gavin, Kurt Carr & The Kurt Carr Singers, Rev\. Milton Brunson and more
 
 2,018 songs - 6 day 12 hr 21 min
 

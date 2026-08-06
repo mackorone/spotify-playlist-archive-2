@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, The Wild Wind, VICTORS and more
+> With Rhineland, VICTORS, The Wild Wind and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,363 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,365 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Dream](https://open.spotify.com/track/26PwqBf8y4mRjWieTYS2Jg) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Young and in Love](https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo) | 3:36 |
 | 50 | [Love Is Complicated](https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid) | [Drive!Drive!](https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb) | [Love is Complicated](https://open.spotify.com/album/6Tfulm7bKzePnNBUZrzGRt) | 2:43 |
 
-Snapshot ID: `AAAAABMtiEa+tKkpYGrexFoZK7omjLAC`
+Snapshot ID: `AAAAACWo9+GieMe/VqTVKRGsAXbHEAZc`

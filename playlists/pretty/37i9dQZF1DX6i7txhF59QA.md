@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 김산하\)<br/>Let's party with cheerful Korean trot medley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,889 likes - 133 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,899 likes - 133 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 66 | [13579 \(Composer Version\)](https://open.spotify.com/track/2QnkBnAAfuPPR2d8EPkpcf) | [HONG JIN YOUNG](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [13579 \(Composer Version\)](https://open.spotify.com/album/28LZyKNiXI5ZIvzfGapw3I) | 3:24 |
 | 67 | [처녀 뱃사공](https://open.spotify.com/track/0w6llwKhP9t8brMqqOlQBw) | [오승근](https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg) | [오승근 Special \`내 나이가 어때서\`](https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be) | 2:37 |
 | 68 | [Maria](https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:08 |
-| 69 | [Island Village Teacher](https://open.spotify.com/track/4e3ksapYtGQ7MnOrrM7w1e) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [KOREA VS JAPAN TROT SHOW BEST](https://open.spotify.com/album/3Um3ku07ay7QoFCaUyBlCX) | 3:03 |
+| 69 | [A Million Roses](https://open.spotify.com/track/4Hyzm7qybnozxFXiiHCgyi) | [Son Tae Jin](https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS) | [Fire Trot Semi\-Finals, Three Legends Round PART 2](https://open.spotify.com/album/4fYhKUpf4TanrKk3XAQIIj) | 4:48 |
 | 70 | [Empty](https://open.spotify.com/track/1l4RDlwyGBmbH8j9eS9InI) | [Cheon Lok Dam](https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi) | [Music Source of Mr\. Trot3 final Best](https://open.spotify.com/album/5xyACB0eKVNpErYIooVf2H) | 4:48 |
-| 71 | [A Million Roses](https://open.spotify.com/track/4Hyzm7qybnozxFXiiHCgyi) | [Son Tae Jin](https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS) | [Fire Trot Semi\-Finals, Three Legends Round PART 2](https://open.spotify.com/album/4fYhKUpf4TanrKk3XAQIIj) | 4:48 |
+| 71 | [Island Village Teacher](https://open.spotify.com/track/4e3ksapYtGQ7MnOrrM7w1e) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [KOREA VS JAPAN TROT SHOW BEST](https://open.spotify.com/album/3Um3ku07ay7QoFCaUyBlCX) | 3:03 |
 | 72 | [Ah! The old days](https://open.spotify.com/track/57bP3OKcAqoKDJFpvC8E58) | [손빈아](https://open.spotify.com/artist/6hC77nUgHBP7thIKqoWb7a), [Chun Gil](https://open.spotify.com/artist/1zOvqQ7TwyzcAZNYaYKxBR) | [Sing for Gold Part9](https://open.spotify.com/album/4IgBkJ9uPQKCDdybDYUDBk) | 2:52 |
 | 73 | [Aririang Mokdong](https://open.spotify.com/track/6vJW4stsxtcfZBTfTjKlze) | [Kim Yong Bin](https://open.spotify.com/artist/1LTzgzQlvBbJiZ7Er8xj2l) | [Love Call Center Seven Stars Part13](https://open.spotify.com/album/5aPWjs8upzX6jIG1Y0yGHm) | 1:40 |
 | 74 | [Do Not U turn](https://open.spotify.com/track/1C2jmeOffBm9vD6mMw46yd) | [박군](https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC) | [Do Not U turn](https://open.spotify.com/album/6hILjW7IC1yp72l7nrrZ46) | 3:22 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 132 | [In full bloom \(Prod\. Shin Ji Hoo\)](https://open.spotify.com/track/5qx9HlOWS0rpr78joROqEI) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:11 |
 | 133 | [My Heart Will Go On](https://open.spotify.com/track/2KYY4jeQxWZjgXBGWDGuLw) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:04 |
 
-Snapshot ID: `AAAAAB73icAtYmPmPGST4FAJR6u36yf8`
+Snapshot ID: `AAAAAOwy/e4O45DY+8FeahZelS5zxpel`

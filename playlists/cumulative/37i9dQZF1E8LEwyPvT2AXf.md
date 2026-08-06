@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Billie Eilish, Bruno Mars and more
+> With Adele, Bruno Mars, Billie Eilish and more
 
 1,269 songs - 3 day 8 hr 5 min
 

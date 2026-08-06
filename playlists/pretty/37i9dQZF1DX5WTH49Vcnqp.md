@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define, but easy to love\. Cover: Odette
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,455 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,353 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 |
 | 75 | [Hardy \(feat\. Clairo\)](https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Hardy \(feat\. Clairo\)](https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE) | 3:53 |
 
-Snapshot ID: `AAAAAJRWV806RHY7TmhX+3COrmFktPcZ`
+Snapshot ID: `AAAAAJTIx+ZNU2x29p/zXByxQRflp+oo`

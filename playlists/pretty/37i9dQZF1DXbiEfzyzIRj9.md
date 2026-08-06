@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック  Cover: salute \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,354 likes - 99 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,327 likes - 99 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 7 | [WannaCry](https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [WannaCry](https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ) | 3:39 |
 | 8 | [Wheel Up \- VIP](https://open.spotify.com/track/5wGSsPeQatcDtDEpxh6G6Y) | [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T), [Catarrh Nisin](https://open.spotify.com/artist/2e9JzJnQ0tYXmQt2GI66kI), [TRICO as MAKA](https://open.spotify.com/artist/4QXnSuM8syKaPwa8iYu0W8), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD), [DEKISHI](https://open.spotify.com/artist/3WGf7sxBvXaGAhU9G83aun) | [Wheel Up VIP](https://open.spotify.com/album/74mZNZAI1YQPyNekadw6A0) | 4:11 |
 | 9 | [LXR](https://open.spotify.com/track/502cDADZYFiZNpKXw7l6lw) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Daito Manabe](https://open.spotify.com/artist/5PvcbcfjWTEq5pTQbcUGVl) | [LXR](https://open.spotify.com/album/23uW39xHirYeJaTA5Cshxh) | 4:20 |
-| 10 | [Together \- Demo](https://open.spotify.com/track/12oojIBWdPlhjtUt4ZoJOE) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Together \(Demo\)](https://open.spotify.com/album/2TmxBiotCcrugUnPPqOA0d) | 4:34 |
+| 10 | [Together \- Demo](https://open.spotify.com/track/12oojIBWdPlhjtUt4ZoJOE) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Together \(Demo\)](https://open.spotify.com/album/2TmxBiotCcrugUnPPqOA0d) | 4:34 |
 | 11 | [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
 | 12 | [Oppydelics](https://open.spotify.com/track/5zV6hjAwwqVRACGT235gBv) | [Akira Arasawa](https://open.spotify.com/artist/49nd3IGruLOeLA5JGSlRRM), [The Magic Sun](https://open.spotify.com/artist/0EzuAcGLsiiedIRN9tXHYV) | [Oppydelics](https://open.spotify.com/album/1ooC39aG4dXXcAxJssEcK8) | 7:44 |
 | 13 | [Getaway](https://open.spotify.com/track/3op3tRzNmYdRREFU9E6swi) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Getaway](https://open.spotify.com/album/3a0Cd2nUTgoiJZEvErUgum) | 4:00 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 98 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |
 | 99 | [Long Goodbye](https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Long Goodbye](https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX) | 3:34 |
 
-Snapshot ID: `AAAAAIILSdhYdVYYsyC+QROiRitsuXpL`
+Snapshot ID: `AAAAACc6JJzpmL3A6xj4CI6KKSOJa5v2`

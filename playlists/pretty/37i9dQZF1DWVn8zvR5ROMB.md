@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Tucker Wetmore, Shaboozey with Kehlani, Cameron Whitcomb and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,274 likes - 69 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,347 likes - 69 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 68 | [Real Damn Country Song](https://open.spotify.com/track/6AwKr96jmS0ufhgjRVdhv4) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Real Damn Country Song](https://open.spotify.com/album/3PVue9Z8ncWW6Swdh9k7iN) | 3:00 |
 | 69 | [Salt Water](https://open.spotify.com/track/7tDKPAVAQaBQ45DRUf93gQ) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Salt Water](https://open.spotify.com/album/1eTh2C9wS40M06HWLJlh4x) | 2:54 |
 
-Snapshot ID: `AAAAAIQO1SuqmLwgivn4wJIgF+KpdRPe`
+Snapshot ID: `AAAAADsHzS50Cjh3okKti6rYxT+fOP9j`

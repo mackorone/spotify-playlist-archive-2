@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Soya 許素瑄.<br/>  Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Amrita Soon.<br/>  Artwork: Isu Kim.
 
-1,497 songs - 3 day 10 hr 5 min
+1,503 songs - 3 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [BE MY GIRL](https://open.spotify.com/track/1IM1E9izqgRCOg3LrGm21g) | [AiZack](https://open.spotify.com/artist/1GG45fl2LYpdywitayCzGs) | [BE MY GIRL](https://open.spotify.com/album/2w9gqLvyka254WUuX33q72) | 1:58 | 2024-11-21 | 2025-04-04 |
 | [beach](https://open.spotify.com/track/3ci7mRfmiBiWXvns6lLmaM) | [dumbboi](https://open.spotify.com/artist/0r99oJaU4Fbnd4iDaDQp6V), [Thaarmin](https://open.spotify.com/artist/0lRxUCo7z1wCnL9EA9HXu5) | [beach](https://open.spotify.com/album/0hgplajKQiyKLLxDy5UHMn) | 4:03 | 2022-09-09 | 2023-02-10 |
 | [Beautiful View](https://open.spotify.com/track/6Y9MTerTb1HltES53plFGs) | [Asher Mendelsohn](https://open.spotify.com/artist/33gXtY0RSxRDn26H2Gak0e) | [Beautiful View](https://open.spotify.com/album/7hWsPPGX5ntIGxTRjIeaC8) | 3:25 | 2025-10-24 | 2026-02-07 |
+| [beauty in disappearing](https://open.spotify.com/track/5ALphylnpIqdnN1t1iqBZB) | [Amrita Soon](https://open.spotify.com/artist/0amxkyGtZNA3pn83mkrtNz) | [beauty in disappearing](https://open.spotify.com/album/50ifT6yz3TI713VIVOubOd) | 1:54 | 2026-08-05 |  |
 | [Bebas](https://open.spotify.com/track/4fH93CIlXefUz7dLNj4iUA) | [Mierul Hazly](https://open.spotify.com/artist/0NYxGHe2CH4lBJqXcIXuXp) | [Bebas](https://open.spotify.com/album/5OtRVC36qq6m3MCh4baQgG) | 3:55 | 2026-07-15 |  |
 | [Bebas \(OST Korban 2\)](https://open.spotify.com/track/4tytO8T6xbK4rycm267Xel) | [Zalelo](https://open.spotify.com/artist/7oIoEMjF4BysMurJ32HZQh) | [Bebas \(OST Korban 2\)](https://open.spotify.com/album/6DUwMhlQg9d6bWYl9AtYys) | 3:31 | 2025-05-22 | 2025-07-18 |
 | [been a while](https://open.spotify.com/track/02xkgr2qG29HfEROLC8L4q) | [dumbboi](https://open.spotify.com/artist/0r99oJaU4Fbnd4iDaDQp6V), [Thaarmin](https://open.spotify.com/artist/0lRxUCo7z1wCnL9EA9HXu5) | [been a while](https://open.spotify.com/album/4o2qDC8twsvU93UOTQmwMb) | 4:41 | 2022-01-13 | 2022-06-17 |
@@ -431,6 +432,8 @@
 | [Garden](https://open.spotify.com/track/2LzJtGwiFkyfCqXd01CUgQ) | [Amni Musfirah](https://open.spotify.com/artist/4vVSu7cUenoviGJ6LW8zZR) | [Garden](https://open.spotify.com/album/1BIjkTHsiPxu54fMQvjlZE) | 3:12 | 2024-05-09 | 2024-11-22 |
 | [GD](https://open.spotify.com/track/3O6Wx3cGuFljZLZ7Sch70j) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ) | [GD](https://open.spotify.com/album/6nKqkVw5u94HKRx4Navbww) | 3:06 | 2024-05-23 | 2025-01-18 |
 | [GD Signature](https://open.spotify.com/track/0esa7Nk9hE2O45jfQV4Z6d) | [Zaymm](https://open.spotify.com/artist/40FIQdFbpXD918cRXNvJzq) | [GD Signature](https://open.spotify.com/album/6bzRfWNx0U4JnBL42N3SHd) | 2:47 | 2023-08-10 | 2024-02-16 |
+| [Gelanggang Rasa](https://open.spotify.com/track/4SBXoYisIfTYSSmYCTKz12) | [Odda](https://open.spotify.com/artist/1lUvBrfUhn8mzvf3Ak77SV) | [Gelanggang Rasa](https://open.spotify.com/album/6nO8VkLnveI1IuYDIQj1tE) | 2:53 | 2026-08-05 |  |
+| [Gembira Cinta](https://open.spotify.com/track/7GJrEvXQd1dqIX9OAn8Ni9) | [Jemput Dengar](https://open.spotify.com/artist/1dAmua7bg0eK6tanMzAvwh), [The Impatient Sisters](https://open.spotify.com/artist/1MrMu9X3lJAQHm0AXOoVgG) | [Gembira Cinta](https://open.spotify.com/album/62vnv7SrxlIGA8CwvkQfs0) | 3:32 | 2026-08-05 |  |
 | [GENTLE BABY](https://open.spotify.com/track/11yHeKNuagn6X2XOhO108a) | [Leeray](https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr) | [GENTLE BABY](https://open.spotify.com/album/73E8xHWSLn6jGlunjRb60V) | 2:51 | 2024-08-15 | 2024-11-22 |
 | [GENUINE](https://open.spotify.com/track/4jotEv6EtrxI6bkdtvZX7s) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [GENUINE](https://open.spotify.com/album/0YpFNKxT9qpeYKFMGbQqHJ) | 2:08 | 2025-07-31 | 2025-09-06 |
 | [GET THIS RIGHT](https://open.spotify.com/track/06zW1L5h75YSZ86L3GSr3p) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [GET THIS RIGHT](https://open.spotify.com/album/65OzeAHliScpDpBB2zMMTu) | 3:12 | 2023-05-11 | 2023-08-18 |
@@ -485,7 +488,7 @@
 | [Heaven](https://open.spotify.com/track/6se2IiUzLtzfoTWdTO0VNH) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Heaven](https://open.spotify.com/album/6c3GfYhxjw2pS4tasHl5Dj) | 2:34 | 2023-07-27 | 2024-02-16 |
 | [Heaven](https://open.spotify.com/track/0CwV6fbzPFW766DcXzYzDy) | [Toska](https://open.spotify.com/artist/3Y7o0EykMnj6Ll6vsF951H) | [Heaven](https://open.spotify.com/album/3Mhovhy9Mgnp53zjwv83sb) | 3:04 | 2023-02-09 | 2023-06-16 |
 | [Heaven Or Honolulu](https://open.spotify.com/track/5QcuSJWlK8VkXnlGkFSoTF) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Heaven Or Honolulu](https://open.spotify.com/album/3kktxLKeB8ims1EqUAhyVH) | 2:44 | 2023-01-12 | 2023-06-23 |
-| [heaven!](https://open.spotify.com/track/0zXh8SNTYpzfqJPmgVmNgd) | [phyllzx](https://open.spotify.com/artist/3pGw79Q5CfoBgwYw4vHfS2) | [heaven!](https://open.spotify.com/album/6hjlLYPwNxJSDa7AD32Cr7) | 2:47 | 2026-03-13 |  |
+| [heaven!](https://open.spotify.com/track/0zXh8SNTYpzfqJPmgVmNgd) | [phyllzx](https://open.spotify.com/artist/3pGw79Q5CfoBgwYw4vHfS2) | [heaven!](https://open.spotify.com/album/6hjlLYPwNxJSDa7AD32Cr7) | 2:47 | 2026-03-13 | 2026-08-06 |
 | [HEAVENFALL](https://open.spotify.com/track/7A9emHuiTyoEBhHMP4d5ml) | [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q) | [HEAVENFALL](https://open.spotify.com/album/2oUm9YRz6XRosrGGbPsoxg) | 3:06 | 2024-05-23 | 2026-01-15 |
 | [Heavyduty Incandescent Streetlights](https://open.spotify.com/track/0dlYKbOhasw2KKkUYr6KQe) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [Heavyduty Incandescent Streetlights](https://open.spotify.com/album/6Bfo1rn40gu0pb2rrXJlUy) | 4:05 | 2023-02-09 | 2023-10-20 |
 | [Her Love Is Mine](https://open.spotify.com/track/4L6lajKKCP869ZCPB34p9O) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Her Love Is Mine](https://open.spotify.com/album/2qB7skF4nDqdQsieTZmZb4) | 2:46 | 2026-01-14 | 2026-03-21 |
@@ -640,6 +643,7 @@
 | [Just Like Yesterday](https://open.spotify.com/track/2pMBZTOGJaN2kwF3LjSJCn) | [Jonny Ong](https://open.spotify.com/artist/1mIf4tLRj9nww55KZwBEYm) | [Just Like Yesterday](https://open.spotify.com/album/5XSRWBNrnL2aTNqOQHD3Q0) | 5:05 | 2025-08-15 | 2025-09-27 |
 | [Kaku](https://open.spotify.com/track/2ZCkzCeDK2RyMRqJOEa5SA) | [Iss Arffan](https://open.spotify.com/artist/0Ju1icSDrLeZ1aQFPvt61q) | [Kaku](https://open.spotify.com/album/5XbLbStQM9uFTggUHe25wY) | 3:38 | 2025-10-16 | 2025-12-04 |
 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 | 2023-10-19 | 2024-11-22 |
+| [Kanmai](https://open.spotify.com/track/0tEOw7DxI7dEeM4qrK7G4h) | [Zubir Khan](https://open.spotify.com/artist/1PCuqpInYSxQue3sDDM1Q5) | [Kanmai](https://open.spotify.com/album/6izvifWSYjkixBJmMVi2jL) | 3:24 | 2026-08-05 |  |
 | [Kau Telah Ambil Hatiku](https://open.spotify.com/track/080YIlTQN89vcGIpztXvNz) | [Min Mercury](https://open.spotify.com/artist/00Xb42aL3Ky6RwBxB9J3LN) | [Kau Telah Ambil Hatiku](https://open.spotify.com/album/1os6x4EXf91fTIBK7F5Dnc) | 4:48 | 2025-05-02 | 2025-06-07 |
 | [Keep On Smiling](https://open.spotify.com/track/3NYBXsmtc2kWPYKSBDX7bB) | [Drichulous](https://open.spotify.com/artist/1XeAeRWILDePCKo2OSvjjB) | [Keep On Smiling](https://open.spotify.com/album/5pjQPnr9OwEcuQ4T2LffmX) | 2:48 | 2022-07-07 | 2022-09-23 |
 | [Keep the Faith](https://open.spotify.com/track/1982tQA20Ly1oBjtunUTZX) | [Khali Infamous](https://open.spotify.com/artist/3gZ9oSc9r4OODgRi2c4XHT) | [Khali Infamous](https://open.spotify.com/album/4SboharBfnTfevR7jsSwCv) | 2:44 | 2025-02-21 | 2025-05-03 |
@@ -757,6 +761,7 @@
 | [Mamai](https://open.spotify.com/track/52M3E7nBAPBd8TzEqvR2Bp) | [Andyoso](https://open.spotify.com/artist/4AdcbPEIVBcsqUOG4VxBYA), [Syaz Anne](https://open.spotify.com/artist/6qCfV81GmseGqwj6SjGwdG) | [Mamai](https://open.spotify.com/album/2wfKaIciQlJ5NNrIrurRdt) | 3:28 | 2025-09-12 | 2025-11-08 |
 | [MAMAMIA 妈妈咪呀](https://open.spotify.com/track/5cgRpXL3nyRB7YqnrYF9K2) | [JTalent](https://open.spotify.com/artist/1Y2yftmt7igDP7XcdjLn41) | [MAMAMIA 妈妈咪呀](https://open.spotify.com/album/6O9cK4TNBXF26eSNkx7Jo8) | 2:50 | 2026-01-30 | 2026-03-21 |
 | [Man With Feelings](https://open.spotify.com/track/5tROsq1LsWF2BNODzyef3l) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Man With Feelings](https://open.spotify.com/album/1i6f04QLQmZae1g0kD8pNy) | 4:07 | 2023-07-27 | 2024-02-16 |
+| [Manusia Pertama](https://open.spotify.com/track/6YMV8CB1h3myG0Wi8iwvEL) | [Fiza Thomas](https://open.spotify.com/artist/6vRDobHB49LMjVXre0mN7e) | [Rayakan Dia](https://open.spotify.com/album/4H43hSAJEoOUvBdbVXjS7v) | 2:49 | 2026-08-05 |  |
 | [MAPPU](https://open.spotify.com/track/6WCNGFUbzx8oSNSZZBSU0S) | [LINGGES](https://open.spotify.com/artist/7wPsR5gJq1N0GSVcBidY76), [Vetha Shahana](https://open.spotify.com/artist/2Bkya49Y15WCHqNRhRz8yA) | [MAPPU](https://open.spotify.com/album/7DWe5hTZv2d69Lm9qGtiQE) | 3:08 | 2025-05-16 | 2025-07-12 |
 | [marie.](https://open.spotify.com/track/1z5qvchVOW2jtZ6o1mSfXO) | [tuneron](https://open.spotify.com/artist/4TyMl1Bv5BGyDSc2MCbGB8), [UNA](https://open.spotify.com/artist/7eNUE9YfOy3u8n1tDgKazU) | [marie.](https://open.spotify.com/album/1oZzk4fCn46E48y4xdXmSt) | 3:46 | 2023-11-09 | 2024-02-16 |
 | [mask](https://open.spotify.com/track/659Go8a7GAntKSIhGk9ZeP) | [Saam jk](https://open.spotify.com/artist/6LsCeqkonszBYFRkvpvmQY) | [mask](https://open.spotify.com/album/6X1A5D3GrGb13Ss2M5Ocq4) | 3:07 | 2024-11-21 | 2025-04-04 |
@@ -887,6 +892,7 @@
 | [opposites attract](https://open.spotify.com/track/2dQWLl5O1mZjFQmFTdGOmk) | [IDC TAO](https://open.spotify.com/artist/3UCj4x5kTGhJ2jUxhPwe4E), [Brandon Gregory](https://open.spotify.com/artist/5DO43j7yzsl4Fvk1L1ZVas) | [opposites attract](https://open.spotify.com/album/1E5AQ9d72tUFY7taBIFSuY) | 3:27 | 2025-10-30 | 2026-03-14 |
 | [Ordinary Guy](https://open.spotify.com/track/5nkY579qWS3WxPr1dbu3Hh) | [Tasneem Bolhassan](https://open.spotify.com/artist/19f5yf8YgG07oyEKNjuauc) | [Ordinary Guy](https://open.spotify.com/album/7ti9szwek9LxRCucMU5Qr0) | 3:07 | 2023-08-17 | 2024-02-16 |
 | [Ordinary Human](https://open.spotify.com/track/3FXJY8z4NYj22nWPihIOC7) | [Maneloren](https://open.spotify.com/artist/7jsU0zbfhjktw9lamotkR2) | [Ordinary Human](https://open.spotify.com/album/3NT0XvJoJQz5xd8KkX4J0D) | 5:10 | 2025-02-21 | 2025-05-17 |
+| [Ordinary Love](https://open.spotify.com/track/02bN0E0c3yZscn7WZ104rD) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Ordinary Love](https://open.spotify.com/album/4ydxXE12hd1YFCD7FL5BcQ) | 2:44 | 2026-08-05 |  |
 | [Orion's Apartment](https://open.spotify.com/track/7vFwfPVcm6s2JfWvhL63AG) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [Orion's Apartment](https://open.spotify.com/album/640b2S6el0Q65iV5Odg66s) | 4:40 | 2023-05-26 | 2023-11-24 |
 | [Other Houses](https://open.spotify.com/track/6sztWkNYW1GdL9ftuBjQ6t) | [Ahns](https://open.spotify.com/artist/4YJjA4PeWSNLX3ioinQpNP) | [Other Houses](https://open.spotify.com/album/4pBEH3IHbn98xVi5Bm1lFq) | 3:54 | 2026-02-06 | 2026-03-21 |
 | [Our Vows](https://open.spotify.com/track/0JPrNVJzr6Tk6MVdvOpCaf) | [Jesse Lorenz](https://open.spotify.com/artist/5gHa0YRi0zbehDnhwnEwza) | [Our Vows](https://open.spotify.com/album/3qQqpkKZDrnjIXe98mr68g) | 3:25 | 2025-04-03 | 2025-05-17 |
@@ -1220,7 +1226,7 @@
 | [The Nomad](https://open.spotify.com/track/2AKN7UxUxQRaipp0vgzk7L) | [YOENN](https://open.spotify.com/artist/7j80RWqtdaihalAuiboaBZ) | [The Nomad](https://open.spotify.com/album/00LPP74QWMU6vSxEr2fnFp) | 3:14 | 2025-05-09 | 2025-06-07 |
 | [THE PLAN](https://open.spotify.com/track/0qTUMcc2hEle0mcHtzP00l) | [SAZZY](https://open.spotify.com/artist/0WCQ5c3Pi9LkA48BP2b0O4) | [THE PLAN](https://open.spotify.com/album/77TnCMfcM7bpihk4exkqsE) | 3:11 | 2025-07-11 | 2025-08-16 |
 | [THE RAIN](https://open.spotify.com/track/2A0FKNwmhilh0eYdN9eZp4) | [MAYA RAISHA](https://open.spotify.com/artist/0Q4E5MxwF7eQoizTpAxixD) | [THE RAIN](https://open.spotify.com/album/5u7C8RV8rtFP2DV1XGq6we) | 3:56 | 2023-05-04 | 2023-11-18 |
-| [the river](https://open.spotify.com/track/7fenr5zdjkJKH50czhtBnq) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [the river](https://open.spotify.com/album/0nUlCvIFEo4qVhYhueTEYL) | 3:14 | 2026-03-13 |  |
+| [the river](https://open.spotify.com/track/7fenr5zdjkJKH50czhtBnq) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [the river](https://open.spotify.com/album/0nUlCvIFEo4qVhYhueTEYL) | 3:14 | 2026-03-13 | 2026-08-06 |
 | [THESE DAYS](https://open.spotify.com/track/4UZDfcMIBSbdSg6jQ1UcXN) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [THESE DAYS](https://open.spotify.com/album/3IowU7pC04TNP9rsAB31Qa) | 2:29 | 2024-11-21 | 2025-05-10 |
 | [things i can't forget.](https://open.spotify.com/track/1cDIqkV2xOLHYgsL0CG1t4) | [MAYABAYU](https://open.spotify.com/artist/0FHRUJgD0f1jDgAti7uvgI) | [things i can't forget.](https://open.spotify.com/album/1wTO3qDBr2A63MIWPwUBZk) | 3:42 | 2021-12-01 | 2022-01-14 |
 | [Things I Should've Said](https://open.spotify.com/track/52NLPbXmv5FJ26mwZAwLoo) | [Noa Angell](https://open.spotify.com/artist/50WeqTlp8tT6OnQCbZW0q8) | [Things I Should've Said](https://open.spotify.com/album/3yeyRBKGNmgAIApfUXcylF) | 2:23 | 2022-02-24 | 2022-06-17 |
@@ -1494,7 +1500,7 @@
 | [葡萄](https://open.spotify.com/track/77KGn00OEJ8gBiF7Dgukvn) | [Bell 傅熙雅](https://open.spotify.com/artist/1LsBLrIZjFwXgXmhUvroDS) | [葡萄](https://open.spotify.com/album/2nqjpTVXBet8O1dTdldo3S) | 3:55 | 2025-06-06 | 2025-08-01 |
 | [親愛的寶寶](https://open.spotify.com/track/2lQmp9VH5B5bkIrnbh3hby) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [親愛的寶寶](https://open.spotify.com/album/2XtO93eMVdyGbw29xJlZoF) | 4:00 | 2025-04-03 | 2025-06-27 |
 | [該怎麼放手](https://open.spotify.com/track/0uC3y0rzIiMRTJp1aiJhg2) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90) | [該怎麼放手](https://open.spotify.com/album/4hndiAmnkFG5KkxUKuC9Ag) | 3:53 | 2025-10-24 | 2026-03-14 |
-| [說愛我, 還騙我](https://open.spotify.com/track/6ghC8d3QsiiBCRXFdkcQgA) | [Wendy 胡繢頤](https://open.spotify.com/artist/2aasQQcvsJBJXt5nAvBBIF) | [說愛我, 還騙我](https://open.spotify.com/album/7BVvVQ2WRXr1V5Q3nHWaj0) | 3:23 | 2026-03-20 |  |
+| [說愛我, 還騙我](https://open.spotify.com/track/6ghC8d3QsiiBCRXFdkcQgA) | [Wendy 胡繢頤](https://open.spotify.com/artist/2aasQQcvsJBJXt5nAvBBIF) | [說愛我, 還騙我](https://open.spotify.com/album/7BVvVQ2WRXr1V5Q3nHWaj0) | 3:23 | 2026-03-20 | 2026-08-06 |
 | [记得那天](https://open.spotify.com/track/2pzwjw1abV5dQm6ImlbOhk) | [Nicole Kung](https://open.spotify.com/artist/5m2AaaQax8s3feVRyjA0q7) | [记得那天](https://open.spotify.com/album/5V9kqOIHFOsxmYskymcEOO) | 3:32 | 2025-04-25 | 2025-05-17 |
 | [越爱越寂寞](https://open.spotify.com/track/3VxKSGGiZWujWJpTzR1oJF) | [黄俊荣 Amsden](https://open.spotify.com/artist/1DYqdyhbVTiFmGd70wMl1m) | [越爱越寂寞](https://open.spotify.com/album/5ZZD6vxulyisLiEjfvO9Zk) | 3:31 | 2025-05-02 | 2025-07-05 |
 | [輕輕沉沉](https://open.spotify.com/track/0mOhmhRkOfAObJresoa6BQ) | [Ora晰月](https://open.spotify.com/artist/2gGANfYV42DQX8DnSmhyCF) | [輕輕沉沉](https://open.spotify.com/album/32CMc3X8h4NjsanovtoPuA) | 3:22 | 2025-07-31 | 2025-09-06 |

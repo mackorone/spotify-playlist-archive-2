@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 82 | [THAT'S HOT](https://open.spotify.com/track/57a5XzEfyqzrpjz8OquGla) | [240 KM/H](https://open.spotify.com/artist/6sP8BgPjledPTxx2YJkliQ), [DJ Nano](https://open.spotify.com/artist/3bxfcfxKQ7rbS93s7jZhiw), [K\-Style](https://open.spotify.com/artist/2anmu9RGKCJkMTH2AKwYoN) | [THAT'S HOT](https://open.spotify.com/album/7sa93CTXlkQt99B8G7ukwb) | 4:15 |
 | 83 | [Tequila & Ibiza](https://open.spotify.com/track/19txbPBxw2UAX5OaFattUc) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [BESH.](https://open.spotify.com/artist/5JRnZxSb8XULQul9lyb2Yy) | [Tequila & Ibiza](https://open.spotify.com/album/5JJocmovUqPUBYPPv5wy8k) | 2:55 |
 
-Snapshot ID: `AAAAAOSNEvVwrG/heCNB6qo+Kru4RZG5`
+Snapshot ID: `AAAAAKPjnNJdQtpoqzgIju899a+YH1pS`

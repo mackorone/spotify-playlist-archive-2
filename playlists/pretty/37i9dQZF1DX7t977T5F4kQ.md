@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   AraTheJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,405 likes - 85 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,431 likes - 85 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 84 | [Hollata Story](https://open.spotify.com/track/3LQrSeMsNf9P4QSaoH2PrF) | [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s) | [Hollata Story](https://open.spotify.com/album/0vCqiRBsaGiAv47y9jk03S) | 2:37 |
 | 85 | [BOUNCE](https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [BOUNCE](https://open.spotify.com/album/0mdQI91TjgOdXkAmKLoB9J) | 2:33 |
 
-Snapshot ID: `AAAAAPnKyFYsFUL0McKY9cweMhJeDhq+`
+Snapshot ID: `AAAAAEog0bnlss1it2GZAqgBUcWUF2iT`

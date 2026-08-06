@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. Cornelio Vega y su Dinastía en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,056 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,145 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 98 | [El Rey De Mil Coronas](https://open.spotify.com/track/0O98RZVXFehnS7bwICxk18) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda Y Mariachi "En Vivo"](https://open.spotify.com/album/5ONCHLXRv0vNIWHlv7T8NW) | 2:27 |
 | 99 | [Corazon De Oropel](https://open.spotify.com/track/6aFAS8akZpt1eX7oAsNSuc) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Regulo Caro "En Vivo" Desde Culiacán Con La Misma Banda](https://open.spotify.com/album/6WkDUYSnBrUnKZ4thwVQKY) | 2:06 |
 | 100 | [Vida Mafiosa \- En Vivo](https://open.spotify.com/track/70YeVS0xbCEiDYjkj7Krrk) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Raúl Hernández Jr.](https://open.spotify.com/artist/5z31c3mbByOIgXn6B8GffX) | [Del Rancho Al Palenque](https://open.spotify.com/album/2j5zovb9hcE0SVyC0y0qMV) | 1:46 |
-| 101 | [Ya Es Muy Tarde \- En Vivo](https://open.spotify.com/track/6Q8gRaUgFm0PrDV2nzg7Zv) | [Grupo Clasificado](https://open.spotify.com/artist/7fLj6eNlI6xH3wd0oFEqz9) | [En Vivo Desde El Fuerte Sinaloa](https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr) | 3:18 |
+| 101 | [Ya Es Muy Tarde \- En Vivo](https://open.spotify.com/track/6Q8gRaUgFm0PrDV2nzg7Zv) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [En Vivo Desde El Fuerte Sinaloa](https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr) | 3:18 |
 | 102 | [Besos y Copas \(En Vivo\)](https://open.spotify.com/track/0Ko08nxxjdG0JLflS0pLK5) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Borrachera Fito Shyruka \(En Vivo\)](https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft) | 2:46 |
 | 103 | [La Caguama \- En Vivo](https://open.spotify.com/track/31fY4r59ELPpMFb54Hyorw) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [La Caguama \(En Vivo\)](https://open.spotify.com/album/5baqd8yPf2CBCYxHaHTiIf) | 2:15 |
 | 104 | [Una Explicación \(En Vivo\)](https://open.spotify.com/track/43Wlm3QVR47gG6MHXF9GoG) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Hasta Que Se Apagó El Carbón...](https://open.spotify.com/album/51n0ozzAIBKpsXxTch4M50) | 3:09 |
@@ -128,10 +128,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 118 | [El Güero Reyna \- En Vivo](https://open.spotify.com/track/5XYBTw5OMvGnuQixPcsjV4) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Los Chavalitos En Vivo, Vol.1](https://open.spotify.com/album/6upYbQNs3JwrtMJRHmaZHR) | 2:57 |
 | 119 | [El Jabali \- En Vivo](https://open.spotify.com/track/1ckXZnEJwjM907IZBDUX5z) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' Destapar La Hielera \(En Vivo\)](https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH) | 2:53 |
 | 120 | [15 Millones por el M \(En Vivo\)](https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [XV Recargado](https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd) | 3:39 |
-| 121 | [Kikil Caro \- En Vivo](https://open.spotify.com/track/6mHMfB7QSyG9QMRCB7tIOQ) | [Grupo Clasificado](https://open.spotify.com/artist/7fLj6eNlI6xH3wd0oFEqz9) | [En Vivo Desde El Fuerte Sinaloa](https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr) | 2:20 |
+| 121 | [Kikil Caro \- En Vivo](https://open.spotify.com/track/6mHMfB7QSyG9QMRCB7tIOQ) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [En Vivo Desde El Fuerte Sinaloa](https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr) | 2:20 |
 | 122 | [El Piyi](https://open.spotify.com/track/6AiIbAa9Cxk3zCU37xxLim) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Desde Farallon](https://open.spotify.com/album/7ILYzBvc6OjoxnU5fqlg6W) | 3:15 |
 | 123 | [Joven Bragado](https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Posada Especial](https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi) | 3:05 |
 | 124 | [La Siembra En El Cerro](https://open.spotify.com/track/1JwfEcCXRBONintEFJZtsG) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:28 |
 | 125 | [El Dos de los Antrax](https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Dos de los Antrax](https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS) | 3:19 |
 
-Snapshot ID: `AAAAAJr5/7Evv/ngT8g1CJFx5z1v0oUr`
+Snapshot ID: `AAAAAIYCHYvewgE1ElRAle6D+oac69VU`

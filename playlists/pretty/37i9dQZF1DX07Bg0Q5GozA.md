@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Josi Miller, Mulay
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,417 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,367 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [T\-Shirt](https://open.spotify.com/track/6Ee9NgRkDfZoqPiXDCHmvr) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [T\-Shirt](https://open.spotify.com/album/1b4eJNwRwScUEyJuNXrVHJ) | 3:06 |
 | 75 | [Joyride](https://open.spotify.com/track/4ccGNvE5wRTVmBgH5zToDE) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [Joyride](https://open.spotify.com/album/5VuP9sCqxjO6STRu9w90cq) | 3:53 |
 
-Snapshot ID: `AAAAAJEOp31qJhiUeuWi88SqTQbO5gOA`
+Snapshot ID: `AAAAAOLKgOU28pgVEhxAuCMuyVgdRPPE`

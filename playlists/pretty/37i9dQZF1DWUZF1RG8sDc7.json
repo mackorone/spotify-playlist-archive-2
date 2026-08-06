@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 166460,
+  "num_followers": 166477,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPoMB1ba3zI0gbOZ0yGicdQjagrW",
+  "snapshot_id": "AAAAALuUzbVHgoZC+EY6ciK84t5D/Lm/",
   "tracks": [
     {
       "added_at": "2024-03-28 01:45:52",
@@ -815,8 +815,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+      "duration_ms": 267840,
+      "name": "A Besitos",
+      "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -899,8 +899,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Uniendo Corazones",
-        "url": "https://open.spotify.com/album/5gIqgNNFJ8SggyYoOdco0X"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 259920,
-      "name": "Novios Cruzados",
-      "url": "https://open.spotify.com/track/0UwQDjsRywuRxFhjPjs5aB"
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "De Primera",
-        "url": "https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B"
       },
       "artists": [
         {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 307304,
-      "name": "Se Me Salen las Lagrimas",
-      "url": "https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG"
+      "duration_ms": 305826,
+      "name": "Buscar\u00e9 Otro Amor",
+      "url": "https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -963,6 +963,38 @@
       "duration_ms": 312783,
       "name": "Voy a Olvidarte",
       "url": "https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "De Primera",
+        "url": "https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 307304,
+      "name": "Se Me Salen las Lagrimas",
+      "url": "https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Uniendo Corazones",
+        "url": "https://open.spotify.com/album/5gIqgNNFJ8SggyYoOdco0X"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 259920,
+      "name": "Novios Cruzados",
+      "url": "https://open.spotify.com/track/0UwQDjsRywuRxFhjPjs5aB"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -991,24 +1023,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 267840,
-      "name": "A Besitos",
-      "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/1M9ZoiwvJl3Mthf5QmX9jY"
       },
       "artists": [
         {
@@ -1016,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 305826,
-      "name": "Buscar\u00e9 Otro Amor",
-      "url": "https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw"
+      "duration_ms": 238503,
+      "name": "Ven T\u00fa",
+      "url": "https://open.spotify.com/track/70Xs8tFys12cvz8fNS2dal"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1059,38 +1075,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Los 100 Vallenatos m\u00e1s Recordados, Dedicados, Vendidos, Sonados. Vol.1",
-        "url": "https://open.spotify.com/album/7ojNoLKEkOJMsOrANgytQI"
+        "name": "Vallenato en Accion: Lo M\u00e1s Grande del Vallenato",
+        "url": "https://open.spotify.com/album/2Ew5ixwdQSRVOVS23vCSg5"
       },
       "artists": [
         {
-          "name": "Otto Serge",
-          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
+          "name": "Silvio Brito",
+          "url": "https://open.spotify.com/artist/7q81irQWwRx8be6NFjynKg"
         },
         {
-          "name": "Rafael Ricardo",
-          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
+          "name": "Osmel Meri\u00f1o",
+          "url": "https://open.spotify.com/artist/1WtnMuzDmHs7SM0Ow2lMgU"
         }
       ],
-      "duration_ms": 238893,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/1S2WEX1RBJL1ebpEldMG4V"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Martin Elias & Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones para Amarte",
-      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
+      "duration_ms": 294546,
+      "name": "En Carne Propia",
+      "url": "https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

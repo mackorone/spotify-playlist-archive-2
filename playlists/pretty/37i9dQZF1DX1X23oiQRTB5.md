@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Guy2Bezbar au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,445,662 likes - 40 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,445,655 likes - 40 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 22 | [Jamie Bynoe\-Gittens](https://open.spotify.com/track/0oT6Wo33U7xaFXVC34kGoP) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:20 |
 | 23 | [BBL](https://open.spotify.com/track/0iWDbmI7AEIIVzNMuAU3F3) | [OG Plugging](https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx) | [BBL](https://open.spotify.com/album/0WJQOZdnqTTdQvdrYhMuev) | 2:15 |
 | 24 | [EXPLICIT 69](https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [REQUIEM : MIEUX QU'HIER](https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz) | 2:33 |
-| 25 | [JET SET](https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [JET SET](https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu) | 2:30 |
+| 25 | [Jet Set](https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Jet Set](https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu) | 2:30 |
 | 26 | [LES DIAMANTS DE BOKASSA](https://open.spotify.com/track/1VBKQJ5AVNKROv0WJ2h4ZK) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [M.I.L.S 4](https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ) | 2:32 |
 | 27 | [Arena de Cuba](https://open.spotify.com/track/00C1tjhavZt9cTW9lWGihn) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Arena de Cuba](https://open.spotify.com/album/3fpzfOFiNQSisghQW3ZTQx) | 2:30 |
 | 28 | [L'humain](https://open.spotify.com/track/4TK7vNav592pavcStbeTsD) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [L'humain](https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG) | 2:56 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Charbon & Diamant](https://open.spotify.com/track/5oG155kA2TGH7ZghnnB6XG) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Charbon & Diamant](https://open.spotify.com/album/2Ihpl1sHO4bsbeOhqGPqTy) | 2:39 |
 | 40 | [RAP d’arabe](https://open.spotify.com/track/6GptmYh60KaZ2QfUEfjOby) | [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [RAP d’arabe](https://open.spotify.com/album/5k4CfMeOgL4wICbkzmWODJ) | 3:01 |
 
-Snapshot ID: `AAAAABzTUDkdyaXNGBw9+KicJe9VXlHf`
+Snapshot ID: `AAAAAOlzUrmtE+aJ6cpcZ9N+ReClpZ+G`

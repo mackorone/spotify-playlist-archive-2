@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Soya \u8a31\u7d20\u7444.\n  Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Amrita Soon.\n  Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -2202,6 +2202,24 @@
       "duration_ms": 205813,
       "name": "Beautiful View",
       "url": "https://open.spotify.com/track/6Y9MTerTb1HltES53plFGs"
+    },
+    {
+      "album": {
+        "name": "beauty in disappearing",
+        "url": "https://open.spotify.com/album/50ifT6yz3TI713VIVOubOd"
+      },
+      "artists": [
+        {
+          "name": "Amrita Soon",
+          "url": "https://open.spotify.com/artist/0amxkyGtZNA3pn83mkrtNz"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114834,
+      "name": "beauty in disappearing",
+      "url": "https://open.spotify.com/track/5ALphylnpIqdnN1t1iqBZB"
     },
     {
       "album": {
@@ -8063,6 +8081,46 @@
     },
     {
       "album": {
+        "name": "Gelanggang Rasa",
+        "url": "https://open.spotify.com/album/6nO8VkLnveI1IuYDIQj1tE"
+      },
+      "artists": [
+        {
+          "name": "Odda",
+          "url": "https://open.spotify.com/artist/1lUvBrfUhn8mzvf3Ak77SV"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Gelanggang Rasa",
+      "url": "https://open.spotify.com/track/4SBXoYisIfTYSSmYCTKz12"
+    },
+    {
+      "album": {
+        "name": "Gembira Cinta",
+        "url": "https://open.spotify.com/album/62vnv7SrxlIGA8CwvkQfs0"
+      },
+      "artists": [
+        {
+          "name": "Jemput Dengar",
+          "url": "https://open.spotify.com/artist/1dAmua7bg0eK6tanMzAvwh"
+        },
+        {
+          "name": "The Impatient Sisters",
+          "url": "https://open.spotify.com/artist/1MrMu9X3lJAQHm0AXOoVgG"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Gembira Cinta",
+      "url": "https://open.spotify.com/track/7GJrEvXQd1dqIX9OAn8Ni9"
+    },
+    {
+      "album": {
         "name": "GENTLE BABY",
         "url": "https://open.spotify.com/album/73E8xHWSLn6jGlunjRb60V"
       },
@@ -9086,7 +9144,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 167386,
       "name": "heaven!",
       "url": "https://open.spotify.com/track/0zXh8SNTYpzfqJPmgVmNgd"
@@ -12057,6 +12115,24 @@
     },
     {
       "album": {
+        "name": "Kanmai",
+        "url": "https://open.spotify.com/album/6izvifWSYjkixBJmMVi2jL"
+      },
+      "artists": [
+        {
+          "name": "Zubir Khan",
+          "url": "https://open.spotify.com/artist/1PCuqpInYSxQue3sDDM1Q5"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204030,
+      "name": "Kanmai",
+      "url": "https://open.spotify.com/track/0tEOw7DxI7dEeM4qrK7G4h"
+    },
+    {
+      "album": {
         "name": "Kau Telah Ambil Hatiku",
         "url": "https://open.spotify.com/album/1os6x4EXf91fTIBK7F5Dnc"
       },
@@ -14268,6 +14344,24 @@
       "duration_ms": 247423,
       "name": "Man With Feelings",
       "url": "https://open.spotify.com/track/5tROsq1LsWF2BNODzyef3l"
+    },
+    {
+      "album": {
+        "name": "Rayakan Dia",
+        "url": "https://open.spotify.com/album/4H43hSAJEoOUvBdbVXjS7v"
+      },
+      "artists": [
+        {
+          "name": "Fiza Thomas",
+          "url": "https://open.spotify.com/artist/6vRDobHB49LMjVXre0mN7e"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169424,
+      "name": "Manusia Pertama",
+      "url": "https://open.spotify.com/track/6YMV8CB1h3myG0Wi8iwvEL"
     },
     {
       "album": {
@@ -16792,6 +16886,24 @@
       "duration_ms": 310374,
       "name": "Ordinary Human",
       "url": "https://open.spotify.com/track/3FXJY8z4NYj22nWPihIOC7"
+    },
+    {
+      "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/4ydxXE12hd1YFCD7FL5BcQ"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164120,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/02bN0E0c3yZscn7WZ104rD"
     },
     {
       "album": {
@@ -23164,7 +23276,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 194624,
       "name": "the river",
       "url": "https://open.spotify.com/track/7fenr5zdjkJKH50czhtBnq"
@@ -28392,7 +28504,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 203283,
       "name": "\u8aaa\u611b\u6211, \u9084\u9a19\u6211",
       "url": "https://open.spotify.com/track/6ghC8d3QsiiBCRXFdkcQgA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,758 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,783 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [En midsommardröm](https://open.spotify.com/track/1gRiWSw04dIPRQM2H4m3Ch) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Anders Fjeldsted](https://open.spotify.com/artist/3cMGXEInQZ35t6Qb3M1s8N), [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Askanäs Kammarkvartett](https://open.spotify.com/artist/7DUIwGmSZbOvlg7qakClCC) | [En midsommardröm](https://open.spotify.com/album/7wI7kUlMH7ndq1RS9HTBI9) | 4:49 |
 | 100 | [Jumnien](https://open.spotify.com/track/3H3b6mtd8ayK5G7Czfb33l) | [Göteborg Jazz Orchestra](https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [A Letter to Eje Thelin](https://open.spotify.com/album/1DJvPssDhXT8Yt01dEW4pL) | 3:41 |
 
-Snapshot ID: `AAAAAGvB0xi8if83BIgRvZzYu3xZhgkJ`
+Snapshot ID: `AAAAALn03FWY4Wz8gWOCPeUCUdHXeBBf`

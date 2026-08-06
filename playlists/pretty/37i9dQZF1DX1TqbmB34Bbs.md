@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: 희대의\(HEEDAE\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,637 likes - 200 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,633 likes - 200 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,10 +175,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 | 165 | [Ransome \(Feat\. BILL STAX\)](https://open.spotify.com/track/31HhKQyZZI0PEzdrhZ4IGo) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [Ransome](https://open.spotify.com/album/1LzVjYnUJwqZHBVI8KRUBJ) | 4:28 |
 | 166 | [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/track/3MtaDHBUCkfge8xExxyiQL) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Paloalto](https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [MAN1AC](https://open.spotify.com/artist/4YNvQXYW6XewBzHcWgsXrS), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Bizzy](https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/album/0ZYEIvgcYlfGWdOFCr7KV6) | 4:11 |
 | 167 | [Hands Up High](https://open.spotify.com/track/5N19TtvLUnA0VF93qxWFhl) | [Yung Blesh](https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ) | [Am I Trippin'?](https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm) | 1:56 |
-| 168 | [ALBATROSS](https://open.spotify.com/track/0ErbwCsSL8LZGhpc2BzRtH) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5) | [ALBATROSS](https://open.spotify.com/album/60is5WFC317kNquQ5ZmpU6) | 2:48 |
-| 169 | [Got yourself a gun \(feat\. ZICO\)](https://open.spotify.com/track/5CbclM71moaB0zPy8zRDsG) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [ANT](https://open.spotify.com/album/7oUfLoY5S2RvT7oo30s3LB) | 2:48 |
-| 170 | [One Two Hook](https://open.spotify.com/track/1AwuvNOvtVDGoFKAaPWIRz) | [HWANG JI SANG](https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8) | [HWANG JI SANG](https://open.spotify.com/album/5VOb9ZL3QqD2uDQrbQGDFc) | 1:50 |
-| 171 | [Warm\-Up \(Feat\. Boy Wonder, OSWALD\)](https://open.spotify.com/track/6WxSpJgP6UMD9M9HY3kOvu) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Boy Wonder](https://open.spotify.com/artist/3RIJXn3HRrklN6nNGhLe1Y), [OSWALD](https://open.spotify.com/artist/0XHCH5pCBlkEEkbUtsIjtX) | [Warm\-Up](https://open.spotify.com/album/4Fz1xdBPsifUBHFf7ys9GL) | 3:00 |
+| 168 | [Got yourself a gun \(feat\. ZICO\)](https://open.spotify.com/track/5CbclM71moaB0zPy8zRDsG) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [ANT](https://open.spotify.com/album/7oUfLoY5S2RvT7oo30s3LB) | 2:48 |
+| 169 | [ALBATROSS](https://open.spotify.com/track/0ErbwCsSL8LZGhpc2BzRtH) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5) | [ALBATROSS](https://open.spotify.com/album/60is5WFC317kNquQ5ZmpU6) | 2:48 |
+| 170 | [Warm\-Up \(Feat\. Boy Wonder, OSWALD\)](https://open.spotify.com/track/6WxSpJgP6UMD9M9HY3kOvu) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Boy Wonder](https://open.spotify.com/artist/3RIJXn3HRrklN6nNGhLe1Y), [OSWALD](https://open.spotify.com/artist/0XHCH5pCBlkEEkbUtsIjtX) | [Warm\-Up](https://open.spotify.com/album/4Fz1xdBPsifUBHFf7ys9GL) | 3:00 |
+| 171 | [One Two Hook](https://open.spotify.com/track/1AwuvNOvtVDGoFKAaPWIRz) | [HWANG JI SANG](https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8) | [HWANG JI SANG](https://open.spotify.com/album/5VOb9ZL3QqD2uDQrbQGDFc) | 1:50 |
 | 172 | [Yes \(feat\. LIL GIMCHI, TOMMY YANG\)](https://open.spotify.com/track/12Zfn5KmIOAakGtR4J7jhJ) | [Yung Blesh](https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ), [TOMMY YANG](https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y) | [Am I Trippin'?](https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm) | 3:03 |
 | 173 | [PRICELESS \(Feat\. toigo\)](https://open.spotify.com/track/3ugYRBISHignwAHvbWhxbZ) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG) | [Dirt](https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P) | 4:06 |
 | 174 | [I Was a Boom Bap Kid](https://open.spotify.com/track/6u4OldGALxukkYeVCf82Wf) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 3:22 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 | 199 | [Simon Dominic](https://open.spotify.com/track/5MQqzMHkLwQQltVSE6ImXm) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [￦ & ONLY](https://open.spotify.com/album/5Ww23BxeG1dY6W9XoNLHem) | 3:43 |
 | 200 | [PACKITUP!](https://open.spotify.com/track/581y2iXY2cK8sCtARV4IOb) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [X](https://open.spotify.com/album/3DSuhTgKgeqFnGQRu05vIR) | 2:04 |
 
-Snapshot ID: `AAAAAGaByBiqIvPkN3woqZDreFFfbt5E`
+Snapshot ID: `AAAAADYh0mMQ6Bel7/Y1CihNtBf3TibW`

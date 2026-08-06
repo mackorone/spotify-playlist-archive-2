@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JAS, Luca Noel
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,441 likes - 74 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,426 likes - 74 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 73 | [Schwerelos](https://open.spotify.com/track/2RM8WPg6KhG3SIxtzpYyr3) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Schwerelos](https://open.spotify.com/album/4B2cqjCgqcDdripE2e574R) | 2:06 |
 | 74 | [ich will nicht dass du mich wieder loslässt](https://open.spotify.com/track/6WpDeRASFi6GZ558glUoKz) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [ich will nicht dass du mich wieder loslässt](https://open.spotify.com/album/3jHziwYnTyIhRvbgTQ1DY2) | 3:27 |
 
-Snapshot ID: `AAAAAOOUJeJbHhVMogZOWBeqki7iEUm/`
+Snapshot ID: `AAAAAP77SKT6/QmbS56+oIRJ9pb1R0Sf`

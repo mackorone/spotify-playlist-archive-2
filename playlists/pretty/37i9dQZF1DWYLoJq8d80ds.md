@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Lázaro Caballero
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,584 likes - 30 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,631 likes - 30 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 29 | [Piel de Leon](https://open.spotify.com/track/75iX6XU6KBkiSo27beYQcU) | [Los Criollos](https://open.spotify.com/artist/1TsCyGV3RvaqP5liAwEwkK) | [La otra cara de Jujuy](https://open.spotify.com/album/1VtGeBT0FGkEDrhMMG3FY9) | 3:18 |
 | 30 | [Esta Noche Contigo](https://open.spotify.com/track/33ODbW4i7C79jap5HmjaIa) | [Amantes Inocentes](https://open.spotify.com/artist/6R4bupWR3q13uugfJoAojF), [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Esta Noche Contigo](https://open.spotify.com/album/6ngwGtxMlW9HNm74OJtQNu) | 3:20 |
 
-Snapshot ID: `AAAAAP90CpGDMF3Gx7glSuXtaRrp0iXU`
+Snapshot ID: `AAAAALfoKvDbFjwjOvYJn69+i20aGQ8X`

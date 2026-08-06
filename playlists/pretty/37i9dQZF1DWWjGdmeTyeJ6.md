@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Saint Clair\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,892 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,985 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [heartstrings](https://open.spotify.com/track/32MZsV1czt4Pg2t0VYIzIt) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [heartstrings](https://open.spotify.com/album/2ikXbc4dKGDrUBfbRd0eCw) | 2:28 |
 | 100 | [garden](https://open.spotify.com/track/11sRSIkYZckr2QnPPNqss5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [garden](https://open.spotify.com/album/2uZQ9xiJnKy1TCTaOdBfGK) | 3:54 |
 
-Snapshot ID: `AAAAAFSZuIAECy7vcrQ/UQe80qjJVa4u`
+Snapshot ID: `AAAAALOa6JXwSGK0aixgvnuQZqEY/Dh6`

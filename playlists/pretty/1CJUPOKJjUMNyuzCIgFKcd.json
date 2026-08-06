@@ -1,13 +1,41 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 21758,
+  "num_followers": 21756,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAn0+Wvjh7lALSKuxH2ypF9j8ov6EtW",
+  "snapshot_id": "AAAn1eruMx5DZMr+Rx3X0pPs4LjrAbjD",
   "tracks": [
+    {
+      "added_at": "2026-08-05 21:17:38",
+      "album": {
+        "name": "Ten Summers",
+        "url": "https://open.spotify.com/album/0Ynh3XpDbQScbiO1DMmTou"
+      },
+      "artists": [
+        {
+          "name": "SOB X RBE",
+          "url": "https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h"
+        },
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        },
+        {
+          "name": "Yhung T.O.",
+          "url": "https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l"
+        },
+        {
+          "name": "Slimmy B",
+          "url": "https://open.spotify.com/artist/0BfxMYdkqRuwPXsSwEf5RE"
+        }
+      ],
+      "duration_ms": 149862,
+      "name": "Ten Summers",
+      "url": "https://open.spotify.com/track/3L2hQwHU9Sof8srRsgwrNu"
+    },
     {
       "added_at": "2026-07-20 21:09:28",
       "album": {

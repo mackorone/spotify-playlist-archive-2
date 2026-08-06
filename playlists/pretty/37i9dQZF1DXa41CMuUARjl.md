@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Swedish House Mafia, Ninajirachi + Porter Robinson, Arca, Julian Fijma, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,959 likes - 131 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,961 likes - 131 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 130 | [Don't Push Me](https://open.spotify.com/track/6jywGdBJyzZN2a0IuiLdkH) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Don't Push Me EP](https://open.spotify.com/album/4cqKlFljoa2ESrGciX2AkO) | 2:46 |
 | 131 | [Metaverse](https://open.spotify.com/track/2F0mbpWBO5cJ3UyhsTjCtT) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Mission Underground](https://open.spotify.com/album/4XKLhGuZrTAlknm09ES1uw) | 3:00 |
 
-Snapshot ID: `AAAAAItZVxxMr+NaD8B2n+DbbPXd7GSS`
+Snapshot ID: `AAAAAHlMO9t/3We5dKD+XQqJ+XQr90y4`

@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73066,
+  "num_followers": 73071,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF5cNzjTGtngn1cGdv6D6xGT5+zZ",
+  "snapshot_id": "AAAAAEqrjUc0GMTcGGR6u9FAX6esaIDw",
   "tracks": [
     {
       "added_at": "2026-07-17 17:14:54",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-07-17 17:14:54",
       "album": {
+        "name": "Como \u00e9 bom poder dizer eu te amo",
+        "url": "https://open.spotify.com/album/21295uHlotpc6pU7N7dso1"
+      },
+      "artists": [
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+        }
+      ],
+      "duration_ms": 143305,
+      "name": "Me Amas",
+      "url": "https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4"
+    },
+    {
+      "added_at": "2026-07-17 17:14:54",
+      "album": {
         "name": "Quando acordar",
         "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
       },
@@ -687,26 +703,6 @@
       "duration_ms": 200316,
       "name": "Quando acordar",
       "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
-    },
-    {
-      "added_at": "2026-07-17 17:14:54",
-      "album": {
-        "name": "V\u00edcios q eu gosto",
-        "url": "https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN"
-      },
-      "artists": [
-        {
-          "name": "ogoin",
-          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
-        },
-        {
-          "name": "Linguini",
-          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "V\u00edcios q eu gosto",
-      "url": "https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ"
     },
     {
       "added_at": "2026-07-17 17:14:54",
@@ -731,18 +727,22 @@
     {
       "added_at": "2026-07-17 17:14:54",
       "album": {
-        "name": "Como \u00e9 bom poder dizer eu te amo",
-        "url": "https://open.spotify.com/album/21295uHlotpc6pU7N7dso1"
+        "name": "V\u00edcios q eu gosto",
+        "url": "https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN"
       },
       "artists": [
         {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
         }
       ],
-      "duration_ms": 143305,
-      "name": "Me Amas",
-      "url": "https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4"
+      "duration_ms": 152571,
+      "name": "V\u00edcios q eu gosto",
+      "url": "https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ"
     },
     {
       "added_at": "2026-07-17 17:14:54",

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,359 songs - 3 day 6 hr 58 min
+1,363 songs - 3 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [10 Sigarette](https://open.spotify.com/track/0f09Wn1gJUHs4JUwYAFGoy) | [Kaloxs](https://open.spotify.com/artist/50A5Zuva0s41d68bc5hkSQ) | [10 Sigarette](https://open.spotify.com/album/6k3uPQNLNclVrU5v3sXsQM) | 2:54 | 2026-01-20 | 2026-02-20 |
 | [12 Am Lunch with Mayor](https://open.spotify.com/track/15hoZhFK5LO9XUvhsDIOyV) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su) | [12 Am Lunch with Mayor](https://open.spotify.com/album/5cGBSHDbt9P79JmESAjbrD) | 3:40 | 2024-04-27 | 2025-12-28 |
 | [2 Souls](https://open.spotify.com/track/2CX2M3xjYsztZ0jN5LfL8S) | [Kanak Pandey](https://open.spotify.com/artist/2W2dbTuAZi3xnyVaQ3lRVW), [Jorji](https://open.spotify.com/artist/05mUVwDPrCAq1FgKvtG3i5) | [2 Souls](https://open.spotify.com/album/3nmkNOHhjyYlGE4cIYAY1m) | 4:16 | 2026-05-15 | 2026-07-03 |
+| [20th Century Nostalgia](https://open.spotify.com/track/3ryNBZ8PhbTZ9o4hEeaFdX) | [ぼんち](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [20th Century Nostalgia](https://open.spotify.com/album/31qHxCoAmGcjoxVjEVs98y) | 3:41 | 2026-08-05 |  |
 | [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 | 2026-01-30 | 2026-02-28 |
 | [24](https://open.spotify.com/track/0auAhRNjTNd5rzOEnpLFqX) | [Sush 28](https://open.spotify.com/artist/2VSNYqXIGA7Sr8XyIDMczK) | [24](https://open.spotify.com/album/3sVAjWg3oST76Lb1xxgQhv) | 2:12 | 2026-02-11 | 2026-03-15 |
 | [2805](https://open.spotify.com/track/6OkThCextlbfDydfSO4cHp) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [2805](https://open.spotify.com/album/3AqgwXEQaDCS5awPbA1vk8) | 2:41 | 2026-03-10 | 2026-04-12 |
@@ -270,6 +271,7 @@
 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 | 2026-03-16 | 2026-04-12 |
 | [Deserto](https://open.spotify.com/track/6YfGhcZt630Z9apjzFf6M7) | [Federico Secondulfo](https://open.spotify.com/artist/6QyvRBPAQzedBqKzVeXQzq) | [Deserto](https://open.spotify.com/album/0QmnOchxMOfWY8IcXq6D3C) | 3:11 | 2026-06-07 | 2026-07-03 |
 | [Desnudos](https://open.spotify.com/track/0YhRvQRdUPS5CTTr271yxK) | [Loshe](https://open.spotify.com/artist/47dUfk9P1DT7rnyPBjAj4j) | [Desnudos](https://open.spotify.com/album/7xZRApMEokpFziQCuMdchm) | 4:40 | 2026-03-20 | 2026-04-22 |
+| [desperado!](https://open.spotify.com/track/0DEp4tJ30Zxjs06PoHiDp4) | [Win Bailin](https://open.spotify.com/artist/5VUoqI50dOdHPGza8ly2P8) | [desperado!](https://open.spotify.com/album/04tNuiHouI3Jd6BfTp8DMs) | 2:14 | 2026-08-05 |  |
 | [Desperfección](https://open.spotify.com/track/7HlFYB6p95JOQKs62BLy4H) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Desperfección](https://open.spotify.com/album/0H0XpGvk9I3TvqWc8CCdyl) | 3:13 | 2026-07-17 |  |
 | [Destinazione sera](https://open.spotify.com/track/0JUuaYQuZfk3xiCVjIlVlh) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Una pellicola di realtà](https://open.spotify.com/album/10Ji1hqmYDzlsCMSuVf2VB) | 3:56 | 2026-06-15 | 2026-07-19 |
 | [DETACHMENT](https://open.spotify.com/track/7EIDxaAt1Li1bBfX9z0S8v) | [MZY](https://open.spotify.com/artist/2CEU85SUsAjhDaSjvz2GhC), [JBAKED](https://open.spotify.com/artist/0iSctIGKWqT03q6XCFuJVF) | [DETACHMENT](https://open.spotify.com/album/7vgPzGMN5Ziydt016iM72w) | 2:36 | 2026-05-14 | 2026-07-03 |
@@ -433,6 +435,7 @@
 | [Hamor](https://open.spotify.com/track/76u6nAVvM7ZpP9NqQaG4Pi) | [SINCERSIX](https://open.spotify.com/artist/7zJGhnTmm0NKy3JDYIKskG) | [Hamor](https://open.spotify.com/album/7K9qp9in51p6CzsQDMPsuU) | 3:09 | 2025-09-29 | 2025-11-29 |
 | [Hands Up](https://open.spotify.com/track/5uLxFsB0XLqtiRGMgC4x80) | [Miguelito Loveless](https://open.spotify.com/artist/5QB8ZoAPCu3jM5PP0Guhzn) | [Wake up Call](https://open.spotify.com/album/3Zzd8qmOSV8pdWUupuvhBj) | 3:08 | 2025-12-04 | 2026-01-05 |
 | [Hangin' Around](https://open.spotify.com/track/3Cbr8g7vPITrrIzLVi79g6) | [Vitanota](https://open.spotify.com/artist/6Ay0IHTWZ1abifFcGYI1Lv) | [Hangin' Around](https://open.spotify.com/album/6ld6levoN0NXrAwcYEefEM) | 5:32 | 2026-04-25 | 2026-06-05 |
+| [Happier](https://open.spotify.com/track/7rkKWGIy1U2MfFzmp7ngct) | [Elliot Porter](https://open.spotify.com/artist/6CnMnzMC30cyPpiABxwUhB) | [Happier](https://open.spotify.com/album/2LLupC9kDF0DHkYMVRPcF5) | 4:40 | 2026-08-05 |  |
 | [Happiness never stays in the same place](https://open.spotify.com/track/1sLjVtdUd3L5GivQTSQE1T) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Happiness never stays in the same place](https://open.spotify.com/album/7565xCauDXp8eS8UUbs5XA) | 2:57 | 2024-07-18 | 2025-12-28 |
 | [Happy as Kings](https://open.spotify.com/track/6s4n6TSvVAQqp5yTLONmLk) | [Lia Veyn](https://open.spotify.com/artist/1CPr5mgs6hvl759fYmhGw3) | [Happy as Kings](https://open.spotify.com/album/1IoZtMbCu6CZQ51gYBOl0j) | 1:24 | 2026-04-11 | 2026-05-14 |
 | [Happy Face](https://open.spotify.com/track/2rA6C9m0Kr6JKWEPWFqIy2) | [Joe Siciliano Jazz Trio](https://open.spotify.com/artist/0DDVg8KuFfA7fjD2M2x3N3) | [Happy Face](https://open.spotify.com/album/7yGi6tVWeq2bEfJXL7OxGZ) | 2:54 | 2025-10-10 | 2025-11-29 |
@@ -941,6 +944,7 @@
 | [Restiamo nemici](https://open.spotify.com/track/1OCFBrSkGhaZVR1k858Bst) | [kreio](https://open.spotify.com/artist/3kRclwJ3uJqLsAYwLLjcZK) | [Restiamo nemici](https://open.spotify.com/album/1KOrCzajSDTCz2vsY1cMIw) | 3:27 | 2026-04-21 | 2026-06-05 |
 | [Retorno do Dito Pródigo](https://open.spotify.com/track/2D6oww1SkDRuGu88srxGFT) | [Lóca](https://open.spotify.com/artist/2ECfxEdcFBvof4Ny6PCwBY) | [Retorno do Dito Pródigo](https://open.spotify.com/album/5oEtMWsJPd3s939btoWTuc) | 4:05 | 2026-05-20 | 2026-07-03 |
 | [Rewind](https://open.spotify.com/track/5SoFyOYhxezOJUihbnccUl) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Coda](https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ) | 2:29 | 2026-01-05 | 2026-02-20 |
+| [Right By Me](https://open.spotify.com/track/4dkwAnUATnfpuxD0OejpSx) | [Schönfelder Entertainment](https://open.spotify.com/artist/6Sh7cBPFsRls63qlBK8Ldn) | [Right By Me](https://open.spotify.com/album/1TpzWay2SKms1hoVX4AZLi) | 3:11 | 2026-08-05 |  |
 | [Right guy wrong mouth](https://open.spotify.com/track/6JjW4HuSCbEjr8l3svYlH2) | [Phantom goblin king](https://open.spotify.com/artist/25cK0rP6WVJgpZ9H1iVzC9) | [Right guy wrong mouth](https://open.spotify.com/album/3wWsfQ2gBeAmUZezSe2m7I) | 2:36 | 2025-11-17 | 2025-12-21 |
 | [Right Strangers](https://open.spotify.com/track/4Uf9TcySVvpW8GYFZSRXny) | [Elizabeth Lyon](https://open.spotify.com/artist/6oFX1JLm313V7XqpeYQ9tU) | [Right Strangers](https://open.spotify.com/album/20TDKFBw0CzcEaOY5MUuQt) | 3:11 | 2026-06-23 | 2026-07-19 |
 | [RISE](https://open.spotify.com/track/0ibRgMJrrNUvPDmtYyBkmQ) | [The Pleasure Merchants](https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF) | [RISE](https://open.spotify.com/album/2YaB8Qf03MLpRVAGZopKaO) | 4:11 | 2026-05-01 | 2026-06-05 |

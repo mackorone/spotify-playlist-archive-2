@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: EF Moon
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,137 likes - 70 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,233 likes - 70 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt) | [SILK](https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo) | 0:00 |
+| 1 | [Colours](https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt) | [SILK](https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo) | 2:28 |
 | 2 | [Guide](https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Guide](https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q) | 2:07 |
 | 3 | [Life is Slo II](https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Life is Slo II](https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy) | 2:20 |
 | 4 | [By Now](https://open.spotify.com/track/4hDJudkT1bs6e7USICB6WJ) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [By Now](https://open.spotify.com/album/5Pd5gF3Icv4G5zj22bhPVT) | 3:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 69 | [OMO TI O COMMON II](https://open.spotify.com/track/6c7htMDbZDeB2jA8IlgpmK) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [OMO TI O COMMON II](https://open.spotify.com/album/5l3cUHPycvUZmqeYAkjefL) | 2:51 |
 | 70 | [CHASE](https://open.spotify.com/track/7zA485o80rElK5sOGJXHKv) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [CHASE](https://open.spotify.com/album/1cg0O9A1WBH5AtojamA5r0) | 2:19 |
 
-Snapshot ID: `AAAAALDD2DDWQpxR2UzXnIUH5//dvTDF`
+Snapshot ID: `AAAAABkByeLFEvC1yAu7yjQqIR9TRZcG`

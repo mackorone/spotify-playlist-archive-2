@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover \- Hayensa
+> The best new music by independent artists and labels in India\. Cover \- Ankita Barwad
 
-1,974 songs - 4 day 18 hr 12 min
+1,978 songs - 4 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Bas ek dua hai merii](https://open.spotify.com/track/5E6XMAfY8LtBiK3PcMOAvW) | [Aarch & Arise](https://open.spotify.com/artist/1XPu9XMyRjcrPhVu3rHJAS) | [Tere Bina](https://open.spotify.com/album/1dlU5SXUBCggKAcRNv0Um9) | 2:56 | 2025-01-15 | 2025-04-17 |
 | [Bas Mere Hi Ho](https://open.spotify.com/track/7wr7OxPh8c3wfOhP8QZzWb) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Bas Mere Hi Ho](https://open.spotify.com/album/6vvbuPEi9rEIPR0kwvF1r0) | 2:25 | 2024-05-29 | 2025-01-09 |
 | [Bas Tera](https://open.spotify.com/track/7CSS0xHIkponmi2kJOr5qH) | [Pritish Singh](https://open.spotify.com/artist/4Zu7bMp1FwS7zKbyrjAYno) | [Bas Tera](https://open.spotify.com/album/1HK4ZcfxB59ZEoQb0vRpfy) | 2:59 | 2022-01-19 | 2022-05-12 |
+| [Bata Zara](https://open.spotify.com/track/2wUvjrkR4YooAvZrXqjNKY) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2), [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx) | [Bata Zara](https://open.spotify.com/album/4mMzTydbLzeW4Z1EkN6uvy) | 3:51 | 2026-08-05 |  |
 | [Batohi](https://open.spotify.com/track/5tX0htWh35W6wyOznMo7Nr) | [Sujeet Anahata Thakur](https://open.spotify.com/artist/61CLoY2iiFnPYVNk4HfMcu), [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Harshit Shankar](https://open.spotify.com/artist/1EFgrLcxuH1vQX6GiEui6R) | [Batohi](https://open.spotify.com/album/7GXY0tYVvVzRT4cioB2gGK) | 4:07 | 2026-06-24 |  |
 | [Bawarey](https://open.spotify.com/track/1UyflqWPfETX9VhO3ks6ES) | [Amitabh Sen](https://open.spotify.com/artist/33x5yF9xmVbC3K1kdXZ3FE) | [Bawarey](https://open.spotify.com/album/7z0V9zGb1kChSeKrcRnK8a) | 4:04 | 2026-05-06 |  |
 | [Bayaan](https://open.spotify.com/track/0kxKlb7W9rI38uLV3wvpKR) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Bayaan](https://open.spotify.com/album/4huiPb234tyL63uILut8MH) | 4:05 | 2022-04-20 | 2023-01-12 |
@@ -466,6 +467,7 @@
 | [Dude Subdued](https://open.spotify.com/track/2kEoB8aptQIPK4eIi1OpzM) | [Pranav Bhasin](https://open.spotify.com/artist/20b7SZkdSmjV510nZPMcvR), [Ro Maiti](https://open.spotify.com/artist/2Anp7d77QwHxQOJAppgIS4) | [Dude Subdued](https://open.spotify.com/album/0AhxdYBAkEubEIKgDGQVpO) | 3:16 | 2023-07-05 | 2023-09-28 |
 | [dunning cougar](https://open.spotify.com/track/6bmkwCTzX1FaNv3tnZJ0qz) | [papiere](https://open.spotify.com/artist/6LWeq7qd9muNewabK9itfs) | [dunning cougar](https://open.spotify.com/album/4bnihXv3KrNOiHf6PSCNAm) | 4:44 | 2023-07-19 | 2023-10-05 |
 | [Dur Kahi Na Jaa Tu](https://open.spotify.com/track/3WSQsfAgTtyfQamWXkOMvd) | [KnoXx](https://open.spotify.com/artist/5RcpRxAwu6hjd2pFg0OdZw), [Aayushi Chatterjee](https://open.spotify.com/artist/6yZUAqALJomS24oZt9kuKR), [Somil Beats](https://open.spotify.com/artist/7IuRc4MaKaIlqp6fujYsEi) | [Dur Kahi Na Jaa Tu](https://open.spotify.com/album/76KR8wnJRymKt92rNhAG2b) | 3:51 | 2025-10-22 | 2026-03-12 |
+| [Ear Candy](https://open.spotify.com/track/6Pnf0VIWVFTZqRNytCpfDr) | [Malvika](https://open.spotify.com/artist/0amamV04S1qWI3XHMh9qpl) | [Ear Candy](https://open.spotify.com/album/6ca3CWTuYwsE66koP391Jz) | 3:21 | 2026-08-05 |  |
 | [Easily](https://open.spotify.com/track/5fdYOozo411bAafTNWX6DN) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9) | [Easily](https://open.spotify.com/album/4FSeQHEuHHlOVzk8VybLgQ) | 3:17 | 2022-07-20 | 2022-10-20 |
 | [Easy Come Easy Go](https://open.spotify.com/track/6UjMIBoyAgu0CbSIO62Dbr) | [Perp](https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu), [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH) | [Easy Come Easy Go](https://open.spotify.com/album/3V8HSrMWSNUT3D70BRX25Z) | 2:14 | 2023-11-15 | 2023-11-23 |
 | [Easy Come Easy Go](https://open.spotify.com/track/7iKNlKU1BJtNpm0iaCRbgs) | [Perp](https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu), [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH) | [Easy Come Easy Go](https://open.spotify.com/album/2szHOcdUqLcL3OJzT0tBZE) | 2:14 | 2023-09-06 | 2023-11-20 |
@@ -1784,6 +1786,7 @@
 | [Tu Jaise Dariya](https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Armaan Sharma](https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi) | [Tu Jaise Dariya](https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa) | 3:47 | 2025-01-29 | 2026-01-15 |
 | [Tu Jo Mila](https://open.spotify.com/track/2fkJkUAcDU214ds17s2tE4) | [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF), [Cherish Banhotra](https://open.spotify.com/artist/7ryOj0x9PQ23Cnm13lKh6o) | [Tu Jo Mila](https://open.spotify.com/album/5lomNAhbEClCm24ehvtzvc) | 3:06 | 2023-10-25 | 2023-11-16 |
 | [Tu Jo Mila Hai](https://open.spotify.com/track/3VnFhbuHMcNtqtdp4t4jFs) | [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV), [Maanuni](https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP) | [Tu Jo Mila Hai](https://open.spotify.com/album/4e3aIxckh2Ox1SsPiwwN19) | 3:31 | 2025-04-23 | 2025-08-14 |
+| [Tu Kahe Toh](https://open.spotify.com/track/0YOLN213Ge2scj1yoDnrFp) | [Seerat Ain Alam](https://open.spotify.com/artist/5LCz4RWPuDoFys0vddNiXJ) | [Tu Kahe Toh](https://open.spotify.com/album/5tbDbknNXQ7ESNKqnMf1ke) | 2:12 | 2026-08-05 |  |
 | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/track/0eCVQoYH5nTFgmmjQqsJmG) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Nolan Santo](https://open.spotify.com/artist/2w4TUuwxwWPYy1eDqWolzC) | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/album/7rwO4jDTCmn5njEzs5jKAK) | 2:16 | 2023-11-08 | 2024-03-21 |
 | [Tu Khafa](https://open.spotify.com/track/0HdZ7ePLXLBQJXdS5mnofT) | [TJUS](https://open.spotify.com/artist/2zGpnaRIcZLgWIJhIGyRte), [Rehna Shaz](https://open.spotify.com/artist/0sqtUy5FyYwyRptp7SOx44) | [Tu Khafa](https://open.spotify.com/album/7baE8UzWXY21ZMG2yZ1avw) | 4:19 | 2025-02-12 | 2025-04-24 |
 | [Tu Mera Hua](https://open.spotify.com/track/54EiaA4kY2TmTYXYdQ1KuH) | [Fiza Sharma](https://open.spotify.com/artist/0nO3GOfwxl7jmysKqzPOaT) | [Tu Mera Hua](https://open.spotify.com/album/2wGBJjqmgEGzjkQXgSXB4j) | 4:08 | 2023-06-21 | 2023-10-05 |
@@ -1865,6 +1868,7 @@
 | [Visions](https://open.spotify.com/track/3DvXWSw1RsdRYOutyqMZ7n) | [Soham](https://open.spotify.com/artist/2VWlTHS1YfU7p9zMPPGw78) | [Visions](https://open.spotify.com/album/6L9UmJraKH1b9AU2eE03sD) | 3:04 | 2023-08-30 | 2023-11-10 |
 | [vo taare](https://open.spotify.com/track/1pja4uveCNfb6DhGkyJhzK) | [Aadishwar Singh](https://open.spotify.com/artist/5BLkt93RpFMBU1p4LZeueS) | [vo taare](https://open.spotify.com/album/2t3ZiPkBfVOsg6dCmIyg2k) | 1:50 | 2024-06-05 | 2024-08-22 |
 | [Waari Waari](https://open.spotify.com/track/0hVivBHawpFkWdy01Onags) | [Reeshabh Purohit](https://open.spotify.com/artist/0fCayDnRBfH5Skewe8os7E), [Nisha Satpute](https://open.spotify.com/artist/4F0EXuNCrBbH7l5F10jomr), [Shadaj Godkhindi](https://open.spotify.com/artist/5wnE1lyqXM60jZvrjqo8JB) | [Waari Waari](https://open.spotify.com/album/3osAV9Y5dJyZwSYN9q45YR) | 4:12 | 2023-04-19 | 2023-05-24 |
+| [Waiting on Nothing](https://open.spotify.com/track/5IAd2YfP8ificqniAaaRyp) | [Purple Cassette](https://open.spotify.com/artist/4xZ8YVXNE6n0bhcZAmdCdb) | [Waiting on Nothing](https://open.spotify.com/album/0g4BvO0kYz92BeB7i2imMH) | 3:35 | 2026-08-05 |  |
 | [Wajah](https://open.spotify.com/track/2DpO2Cf45Ms1M9YipLfhSg) | [Urban Breeze](https://open.spotify.com/artist/0oEG7PI10SPH9Eot2vHYHo) | [Wajah](https://open.spotify.com/album/4JElj53PuWjy5gc0kM5mZi) | 3:35 | 2023-05-24 | 2024-01-11 |
 | [Walk of Shame](https://open.spotify.com/track/5zbrOD2rKcIVFLAMW28gHM) | [that good good](https://open.spotify.com/artist/14XrkSF1t0kuCbZXjEKwym), [YodaDrunk](https://open.spotify.com/artist/1n1QC4XCxAiLh3pnnwiK7I) | [Walk of Shame](https://open.spotify.com/album/1kRLNv8Ny3xZz6q5HLu0Ix) | 2:58 | 2022-10-06 | 2023-02-02 |
 | [Want It Bad](https://open.spotify.com/track/5w1V0ofiq9uCGJv3hDTOke) | [Meba Ofilia](https://open.spotify.com/artist/6mbXxVkhtdddGzR5yJ9SUD) | [Want It Bad](https://open.spotify.com/album/7ELrOvi6eP1APFnCvnGQ3D) | 4:14 | 2026-01-21 | 2026-03-26 |

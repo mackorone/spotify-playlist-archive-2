@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: KAROL G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,364 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,276 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 49 | [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 |
 | 50 | [ME AMAS](https://open.spotify.com/track/0tarA0KilZOriAFshHd9wK) | [J Abecia](https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC), [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [ME AMAS](https://open.spotify.com/album/5CIpqqQPohBhUrhRM3ajN6) | 2:55 |
 
-Snapshot ID: `AAAAAPdr++QgT2ZEe+r+M9fM5o6nNVUl`
+Snapshot ID: `AAAAAPqNhsy9Ob+4ihGxr9Mc6TT0iQqM`

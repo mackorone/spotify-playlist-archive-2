@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,949 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,020 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [JIGI](https://open.spotify.com/track/0yEcNatddWkpWV7qfsry2j) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6) | [JIGI](https://open.spotify.com/album/5HRPVkbAHctAbGe7zTN9Ft) | 2:53 |
 | 50 | [Up & Down](https://open.spotify.com/track/6wffE1E39cj1JUg6vhLKQG) | [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Live In The Flesh](https://open.spotify.com/album/36R0BAZr8HqgNUIdk5o8Xy) | 4:07 |
 
-Snapshot ID: `AAAAANGpsQFhMUVNWEtXwnHPHoR+h5fh`
+Snapshot ID: `AAAAABMQcP3dOsGWBl6dyc4o1SyA5Eqc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Ivan Greko
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,421 likes - 59 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,417 likes - 59 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 43 | [omw](https://open.spotify.com/track/4uLodgH5AnP3mgXMyZHPDO) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Romeo II](https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e) | 4:04 |
 | 44 | [CHRISTIAN DIOR](https://open.spotify.com/track/2n2Kn5gGtVGrVJxvxtMDLB) | [SOLO](https://open.spotify.com/artist/3qed23BFf5AfvaRV0h8YX8), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [P.S](https://open.spotify.com/album/7GXHGIEVtBjAlGVvRZJzCX) | 2:48 |
 | 45 | [Ki Esy Stin Paro?](https://open.spotify.com/track/41fePfhOqY09095sZxHUUS) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Romeo II](https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e) | 2:47 |
-| 46 | [Karamela](https://open.spotify.com/track/6jMMuFomYt1LgwETDhg5Ro) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Karamela](https://open.spotify.com/album/5fNkd9rUc91atQuhSaFLRX) | 2:18 |
+| 46 | [Karamela](https://open.spotify.com/track/6jMMuFomYt1LgwETDhg5Ro) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Karamela](https://open.spotify.com/album/5fNkd9rUc91atQuhSaFLRX) | 2:18 |
 | 47 | [PALOMA](https://open.spotify.com/track/2mSredandhqq7qSD2LVhn6) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [MENJU](https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [PALOMA](https://open.spotify.com/album/6N6d32REL5sGP4p01xflLr) | 2:48 |
 | 48 | [MANIA](https://open.spotify.com/track/2fYuOtA4evJWi6PzGdTj6M) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [MANIA](https://open.spotify.com/album/1AOCd1stI4eenrCF0Vm615) | 2:24 |
 | 49 | [STUFF](https://open.spotify.com/track/01uh1vFxHx6tHAVslWrJdZ) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm) | [STUFF](https://open.spotify.com/album/3GJurEoDAY9JbMuefeCuyU) | 2:51 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 58 | [CON CALMA](https://open.spotify.com/track/3vXDf3EBZ0gmz6rkMkM3po) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [TIGER LUV](https://open.spotify.com/album/6srP9HJXcKA4lwfa8viVPJ) | 3:33 |
 | 59 | [PES TI THELEIS KSA](https://open.spotify.com/track/6dXB0KFc9qcf1J7FriTcI1) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [PES TI THELEIS KSA](https://open.spotify.com/album/3YcVwOv07X532NtzJJleaH) | 1:54 |
 
-Snapshot ID: `AAAAAD0EQI+GUAoTwcbRmaDvtVEY/Ynx`
+Snapshot ID: `AAAAAHVzjK/tKG2+o+H427gMaDNYNAPw`

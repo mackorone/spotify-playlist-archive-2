@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Ariana Grande, Tinashe, Robyn, Swedish House Mafia, Tove Lo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,404 likes - 83 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,399 likes - 83 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 82 | [Getaway](https://open.spotify.com/track/3op3tRzNmYdRREFU9E6swi) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Getaway](https://open.spotify.com/album/3a0Cd2nUTgoiJZEvErUgum) | 4:00 |
 | 83 | [Here & Now](https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ), [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [Some Kind Of Life](https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3) | 3:16 |
 
-Snapshot ID: `AAAAAFEqRdwVTNw0TU/j9K/N9L2DGNjL`
+Snapshot ID: `AAAAAGy8C7xg7xk3zyZtNnoGX6WAIxny`

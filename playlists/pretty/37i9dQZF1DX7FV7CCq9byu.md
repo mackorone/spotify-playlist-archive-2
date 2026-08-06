@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,558 likes - 119 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,546 likes - 119 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 118 | [My Forever Song](https://open.spotify.com/track/4v02c3lM4FSRj4u7xBUKWK) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [My Forever Song](https://open.spotify.com/album/1pPtsxHtFOaDrydElx2C6f) | 3:09 |
 | 119 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |
 
-Snapshot ID: `AAAAAOHNe6Kr6v1jge4n4QI0YFntOKYQ`
+Snapshot ID: `AAAAANnbRVQRYSaZvRtASeg9aYDFgK/U`

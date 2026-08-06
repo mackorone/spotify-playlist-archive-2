@@ -1,13 +1,61 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: Oscar Lindsey",
-  "num_followers": 257135,
+  "description": "The best new indie tracks from independent artists & labels. Cover: Pool Girl",
+  "num_followers": 257154,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP7Y4OF439CskFqaMczkMx6oL2v6",
+  "snapshot_id": "AAAAANjJGVYcE3Q777UGSMKMbUAbbL3+",
   "tracks": [
+    {
+      "added_at": "2026-08-05 16:00:14",
+      "album": {
+        "name": "Crab",
+        "url": "https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B"
+      },
+      "artists": [
+        {
+          "name": "Pool Girl",
+          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
+        }
+      ],
+      "duration_ms": 195577,
+      "name": "Crab",
+      "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
+    },
+    {
+      "added_at": "2026-08-05 16:00:14",
+      "album": {
+        "name": "1 By One",
+        "url": "https://open.spotify.com/album/2PlmI6Z9ODq3fl6qkYhEXe"
+      },
+      "artists": [
+        {
+          "name": "Ideas By Ab",
+          "url": "https://open.spotify.com/artist/2UXnSoWQ8fW3iaDLKzoLwk"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "1 By One",
+      "url": "https://open.spotify.com/track/0uXMI4wHx7WI6pixBhHu4T"
+    },
+    {
+      "added_at": "2026-08-05 16:00:14",
+      "album": {
+        "name": "a girl like me",
+        "url": "https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "duration_ms": 169446,
+      "name": "a girl like me",
+      "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
+    },
     {
       "added_at": "2026-07-29 19:41:17",
       "album": {
@@ -23,6 +71,118 @@
       "duration_ms": 163375,
       "name": "EBONY",
       "url": "https://open.spotify.com/track/0iMDXhQTIJvgacw3L5HrZf"
+    },
+    {
+      "added_at": "2026-07-22 13:07:20",
+      "album": {
+        "name": "When we get by",
+        "url": "https://open.spotify.com/album/08okRl4uCEu3z2h9beW53s"
+      },
+      "artists": [
+        {
+          "name": "Natek",
+          "url": "https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh"
+        }
+      ],
+      "duration_ms": 169058,
+      "name": "When we get by",
+      "url": "https://open.spotify.com/track/49JsfEdOw0Jg4NMLXGkQLh"
+    },
+    {
+      "added_at": "2026-08-05 17:48:18",
+      "album": {
+        "name": "Kick in the Teeth",
+        "url": "https://open.spotify.com/album/7FxFm7EIMzI9Tg3hcDU1XK"
+      },
+      "artists": [
+        {
+          "name": "Sesame Girl",
+          "url": "https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "Kick In The Teeth",
+      "url": "https://open.spotify.com/track/7x5rRIvAk4uKNKnInTFbwD"
+    },
+    {
+      "added_at": "2026-08-05 16:00:14",
+      "album": {
+        "name": "Punch!",
+        "url": "https://open.spotify.com/album/7epVLBNXiDexRm6zQtoSgn"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bacino",
+          "url": "https://open.spotify.com/artist/0JCSx0A726fp2K75sXBfWK"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Punch!",
+      "url": "https://open.spotify.com/track/0KtEDhuatDxLCkXuidzTMg"
+    },
+    {
+      "added_at": "2026-08-05 16:00:14",
+      "album": {
+        "name": "Superstar Syndrome",
+        "url": "https://open.spotify.com/album/5R7sLxzcy9snDJRUNICRvO"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "This So Called Life",
+      "url": "https://open.spotify.com/track/0DXe2D37mwoElYXmyt16CU"
+    },
+    {
+      "added_at": "2026-07-22 13:07:20",
+      "album": {
+        "name": "Metal Through Her Lips",
+        "url": "https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "duration_ms": 226120,
+      "name": "Metal Through Her Lips",
+      "url": "https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg"
+    },
+    {
+      "added_at": "2026-08-05 16:00:14",
+      "album": {
+        "name": "Obvious to Me",
+        "url": "https://open.spotify.com/album/2e3O0bHIeIDcM9YBTIxlKc"
+      },
+      "artists": [
+        {
+          "name": "Second House",
+          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
+        }
+      ],
+      "duration_ms": 185517,
+      "name": "Obvious to Me",
+      "url": "https://open.spotify.com/track/6dVC7j5TFonYToDagYd6Xb"
+    },
+    {
+      "added_at": "2026-08-05 16:00:14",
+      "album": {
+        "name": "Dreams For Somebody Else",
+        "url": "https://open.spotify.com/album/4t0LiNXBlTuPifRvLivsDU"
+      },
+      "artists": [
+        {
+          "name": "White Flowers",
+          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
+        }
+      ],
+      "duration_ms": 359921,
+      "name": "Heart Breaks",
+      "url": "https://open.spotify.com/track/3sxhnujZhHCDzczdtpD1Po"
     },
     {
       "added_at": "2026-07-29 19:41:17",
@@ -57,6 +217,22 @@
       "url": "https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ"
     },
     {
+      "added_at": "2026-08-05 16:00:14",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/0bl9TN0cHtoWhp2pFJgHs3"
+      },
+      "artists": [
+        {
+          "name": "Kaz Moon",
+          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
+        }
+      ],
+      "duration_ms": 228785,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2SIg4zRVCxhsrxIykYzQpU"
+    },
+    {
       "added_at": "2026-07-29 19:41:17",
       "album": {
         "name": "Odessa",
@@ -71,22 +247,6 @@
       "duration_ms": 175903,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/5xhALmvO5mJNBUnqjGcVg2"
-    },
-    {
-      "added_at": "2026-07-22 13:07:20",
-      "album": {
-        "name": "Metal Through Her Lips",
-        "url": "https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln"
-      },
-      "artists": [
-        {
-          "name": "Oscar Lindsey",
-          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
-        }
-      ],
-      "duration_ms": 226120,
-      "name": "Metal Through Her Lips",
-      "url": "https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg"
     },
     {
       "added_at": "2026-07-29 19:41:17",
@@ -105,22 +265,6 @@
       "url": "https://open.spotify.com/track/4wDxeye8CLcZEZCcdZwQl1"
     },
     {
-      "added_at": "2026-07-22 13:07:20",
-      "album": {
-        "name": "When we get by",
-        "url": "https://open.spotify.com/album/08okRl4uCEu3z2h9beW53s"
-      },
-      "artists": [
-        {
-          "name": "Natek",
-          "url": "https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh"
-        }
-      ],
-      "duration_ms": 169058,
-      "name": "When we get by",
-      "url": "https://open.spotify.com/track/49JsfEdOw0Jg4NMLXGkQLh"
-    },
-    {
       "added_at": "2026-07-29 19:41:17",
       "album": {
         "name": "Dogwood",
@@ -135,6 +279,22 @@
       "duration_ms": 89413,
       "name": "dogwood angel",
       "url": "https://open.spotify.com/track/6bWDIT6iktWzVpTIywP62B"
+    },
+    {
+      "added_at": "2026-08-05 16:00:14",
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/0DnHFxZ51EFJa2lJDniQGZ"
+      },
+      "artists": [
+        {
+          "name": "LUELLA",
+          "url": "https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Bleeding Violet",
+      "url": "https://open.spotify.com/track/0o4IgiM7NyCdeGMNaMEFpj"
     },
     {
       "added_at": "2026-07-29 19:41:17",
@@ -231,6 +391,38 @@
       "duration_ms": 144726,
       "name": "I Do The Worm",
       "url": "https://open.spotify.com/track/7z2DUQ3EFDrz3Y9lEvegT6"
+    },
+    {
+      "added_at": "2026-06-24 22:07:04",
+      "album": {
+        "name": "Songs at West End Prep",
+        "url": "https://open.spotify.com/album/2ZWc8REoD4HJbdhyirXyZ3"
+      },
+      "artists": [
+        {
+          "name": "tal castle",
+          "url": "https://open.spotify.com/artist/41WaQcyds1uCvYCZtwswoR"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Sarah Joins Color Guard",
+      "url": "https://open.spotify.com/track/6MZKp557XOP1bXE3sah4Yh"
+    },
+    {
+      "added_at": "2026-05-13 15:04:02",
+      "album": {
+        "name": "HOLD ME (SLOWLY)",
+        "url": "https://open.spotify.com/album/7m1REx16trI5MSc9uNLrja"
+      },
+      "artists": [
+        {
+          "name": "KatzPascale",
+          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
+        }
+      ],
+      "duration_ms": 251500,
+      "name": "HOLD ME (SLOWLY)",
+      "url": "https://open.spotify.com/track/2PLrLPJX9UOXTAWMsJqR9m"
     },
     {
       "added_at": "2026-07-29 19:41:17",
@@ -715,22 +907,6 @@
     {
       "added_at": "2026-07-02 19:48:03",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/7icnlFXNkm8hA74GEwzwKu"
-      },
-      "artists": [
-        {
-          "name": "TEILZ",
-          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
-        }
-      ],
-      "duration_ms": 189307,
-      "name": "17",
-      "url": "https://open.spotify.com/track/189ITo3VyfZjaXNKusxNht"
-    },
-    {
-      "added_at": "2026-07-02 19:48:03",
-      "album": {
         "name": "To That or to This",
         "url": "https://open.spotify.com/album/7Dlbv9yUgUoqXfg7kmxM4o"
       },
@@ -743,22 +919,6 @@
       "duration_ms": 197509,
       "name": "To That or to This",
       "url": "https://open.spotify.com/track/6XXzZXFhRCwWMkGbv2VH4J"
-    },
-    {
-      "added_at": "2026-06-24 22:07:04",
-      "album": {
-        "name": "Songs at West End Prep",
-        "url": "https://open.spotify.com/album/2ZWc8REoD4HJbdhyirXyZ3"
-      },
-      "artists": [
-        {
-          "name": "tal castle",
-          "url": "https://open.spotify.com/artist/41WaQcyds1uCvYCZtwswoR"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Sarah Joins Color Guard",
-      "url": "https://open.spotify.com/track/6MZKp557XOP1bXE3sah4Yh"
     },
     {
       "added_at": "2026-06-24 22:07:04",
@@ -911,54 +1071,6 @@
     {
       "added_at": "2026-06-17 21:21:13",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/3pWZJXOudRfL2qtYKmUf8H"
-      },
-      "artists": [
-        {
-          "name": "kelz",
-          "url": "https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw"
-        }
-      ],
-      "duration_ms": 258012,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/2iJ36oE7tZqSL8A4Md0mWU"
-    },
-    {
-      "added_at": "2026-06-17 21:21:13",
-      "album": {
-        "name": "buttercup",
-        "url": "https://open.spotify.com/album/24u8S8yWPezu70hemgvdp0"
-      },
-      "artists": [
-        {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
-        }
-      ],
-      "duration_ms": 270226,
-      "name": "buttercup",
-      "url": "https://open.spotify.com/track/2tyG8HDeoOQpN5XHwB0e96"
-    },
-    {
-      "added_at": "2026-06-17 21:21:13",
-      "album": {
-        "name": "ELEGY",
-        "url": "https://open.spotify.com/album/3RSbclUQoSu7wVmSYa7Bd8"
-      },
-      "artists": [
-        {
-          "name": "KatzPascale",
-          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "AN ELEPHANT NEVER FORGETS",
-      "url": "https://open.spotify.com/track/5KiIH8xcGoBdpj7oUJHjDH"
-    },
-    {
-      "added_at": "2026-06-17 21:21:13",
-      "album": {
         "name": "for once",
         "url": "https://open.spotify.com/album/3RtuTFCCcvfwfwpxl2Ejhg"
       },
@@ -1021,86 +1133,6 @@
       "url": "https://open.spotify.com/track/2clie3tcvcFlpeSQbnhkyh"
     },
     {
-      "added_at": "2026-06-17 21:21:13",
-      "album": {
-        "name": "Love, I\u2019m Gonna Jump the Gap",
-        "url": "https://open.spotify.com/album/5yLA2gULxlGLguNgXmYbGn"
-      },
-      "artists": [
-        {
-          "name": "Monobloc",
-          "url": "https://open.spotify.com/artist/17UzuyF3fbCwsDfQIajIak"
-        }
-      ],
-      "duration_ms": 226026,
-      "name": "City",
-      "url": "https://open.spotify.com/track/2br4WKnhhxmfhHdx4DgoZL"
-    },
-    {
-      "added_at": "2026-06-17 21:21:13",
-      "album": {
-        "name": "Side On",
-        "url": "https://open.spotify.com/album/2TtRgcTgoO8lkzV3pt69Ic"
-      },
-      "artists": [
-        {
-          "name": "Ebbb",
-          "url": "https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW"
-        }
-      ],
-      "duration_ms": 230833,
-      "name": "Side On",
-      "url": "https://open.spotify.com/track/2dPPPVBWx0Kfofh3ql89E5"
-    },
-    {
-      "added_at": "2026-06-17 21:21:13",
-      "album": {
-        "name": "missin out",
-        "url": "https://open.spotify.com/album/6ihE2wUfwA60kFyJXzplBH"
-      },
-      "artists": [
-        {
-          "name": "Dori Valentine",
-          "url": "https://open.spotify.com/artist/3uS3Hqh4mAJgkucQlbDz0w"
-        }
-      ],
-      "duration_ms": 185850,
-      "name": "missin out",
-      "url": "https://open.spotify.com/track/3U9FVmRpGgHe7m54UN5J91"
-    },
-    {
-      "added_at": "2026-06-17 21:21:13",
-      "album": {
-        "name": "bike song",
-        "url": "https://open.spotify.com/album/0fbu9vTPsH04jlqaOXmVVj"
-      },
-      "artists": [
-        {
-          "name": "frank",
-          "url": "https://open.spotify.com/artist/0pCAo4FBQbbOARjAspt9uQ"
-        }
-      ],
-      "duration_ms": 163263,
-      "name": "bike song",
-      "url": "https://open.spotify.com/track/03uUSZQFMxWp1Q9lvSRTLo"
-    },
-    {
-      "added_at": "2026-06-10 16:09:57",
-      "album": {
-        "name": "2027",
-        "url": "https://open.spotify.com/album/2M4SnKRBwairBEwY7lQT57"
-      },
-      "artists": [
-        {
-          "name": "venus mae",
-          "url": "https://open.spotify.com/artist/3fFWuyLT7JFtW4fOd1YI3o"
-        }
-      ],
-      "duration_ms": 147770,
-      "name": "2027",
-      "url": "https://open.spotify.com/track/4UC6rVu31qAgIDy6NZRU6K"
-    },
-    {
       "added_at": "2026-06-10 16:09:57",
       "album": {
         "name": "Going about my day",
@@ -1115,22 +1147,6 @@
       "duration_ms": 357000,
       "name": "Going about my day",
       "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
-    },
-    {
-      "added_at": "2026-06-10 16:09:57",
-      "album": {
-        "name": "garden",
-        "url": "https://open.spotify.com/album/2uZQ9xiJnKy1TCTaOdBfGK"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "garden",
-      "url": "https://open.spotify.com/track/11sRSIkYZckr2QnPPNqss5"
     },
     {
       "added_at": "2026-05-20 16:23:12",
@@ -1215,22 +1231,6 @@
       "duration_ms": 166167,
       "name": "i wait, i sink",
       "url": "https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN"
-    },
-    {
-      "added_at": "2026-05-13 15:04:02",
-      "album": {
-        "name": "HOLD ME (SLOWLY)",
-        "url": "https://open.spotify.com/album/7m1REx16trI5MSc9uNLrja"
-      },
-      "artists": [
-        {
-          "name": "KatzPascale",
-          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "HOLD ME (SLOWLY)",
-      "url": "https://open.spotify.com/track/2PLrLPJX9UOXTAWMsJqR9m"
     }
   ],
   "unique_name": "Fresh Finds Indie",

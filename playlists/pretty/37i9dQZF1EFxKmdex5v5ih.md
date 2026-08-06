@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,248 likes - 350 songs - 18 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,250 likes - 350 songs - 18 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 349 | [Aliens](https://open.spotify.com/track/3n5lE0vC4SOb3tKP1h1fVD) | [The Dudley Corporation](https://open.spotify.com/artist/7Ch6Iyny8xZOqGcKbg1TEd) | [What a Human Does](https://open.spotify.com/album/3QdQhjtaMNBpwNgK1VwAR4) | 2:19 |
 | 350 | [Anything \- 8\-Bit Computer Game Version](https://open.spotify.com/track/4P3mMN5pqNWjngd7Z2lOYj) | [8\-Bit Arcade](https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn) | [By Request, Vol\. 273](https://open.spotify.com/album/5SFuHRvfIIeDE8gdj615Bt) | 2:10 |
 
-Snapshot ID: `AcYtfgAAAADz4TKmtZV+E9QUX7wecPfu`
+Snapshot ID: `AcYzKAAAAABon1hatQdcgVGB8NmirlXf`

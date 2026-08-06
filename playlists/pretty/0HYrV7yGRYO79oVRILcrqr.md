@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,886 likes - 72 songs - 4 hr 44 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,887 likes - 73 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 70 | [They Say the Sky Is Just a Wall](https://open.spotify.com/track/0ovI74HduC4HW1ucCuKpRb) | [Tarsik](https://open.spotify.com/artist/2530s2wwvLVcrdDZHMR0vE) | [End Game](https://open.spotify.com/album/6I5vOYOMKs2ia10GV07zcm) | 3:16 |
 | 71 | [Why Don't They Care?](https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Why Don't They Care?](https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM) | 3:04 |
 | 72 | [Zäme](https://open.spotify.com/track/3138PLDl4FJywh7QfQDy4K) | [Plouderi](https://open.spotify.com/artist/2cxFZYsHbjN2abjxd4ACv8) | [Putzt u Gschträut](https://open.spotify.com/album/3xqW0lJECZbCk6Jdu4rLgw) | 3:35 |
+| 73 | [Punch the Clown](https://open.spotify.com/track/2T8etM0uAXR8w4LI2iBmGg) | [Captain Side Eye](https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr) | [Punch the Clown](https://open.spotify.com/album/16tI9R9L3aJyHYksO5A0vF) | 3:28 |
 
-Snapshot ID: `AAAMLx6BNd4fG6VlPUORdlAHBQv/N3FU`
+Snapshot ID: `AAAMMOCYfcFAHFoDwMUVmVWIWR3EM9Bu`

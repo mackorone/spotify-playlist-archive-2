@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Claver Gold in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,025 likes - 145 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,022 likes - 145 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 144 | [A Fuoco Lento](https://open.spotify.com/track/36IGdOR39oMQk2vvmZ4sPW) | [Fid Mella](https://open.spotify.com/artist/6L0h3FSm3LQSwyIMxpeXgp), [Zonta](https://open.spotify.com/artist/2OkeK9hCejCVIvGB403OVA), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [A Fuoco Lento](https://open.spotify.com/album/1JUQVLZDUMSWRSvVNleY05) | 1:36 |
 | 145 | [Veleno 7](https://open.spotify.com/track/2jkIbZ43eH3rM1yro2Ojzh) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Scatola Nera](https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM) | 2:53 |
 
-Snapshot ID: `AAAAAI6sfAbPu6HrlSrecXEFz0fsfWBM`
+Snapshot ID: `AAAAAKNryr6TT6jIOYf8T+g46x9RHe94`

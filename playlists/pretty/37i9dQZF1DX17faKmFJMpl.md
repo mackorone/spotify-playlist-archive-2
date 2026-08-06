@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,357 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,361 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 63 | [박교주 전성시대](https://open.spotify.com/track/471yf20erR95AOOzVeGcZU) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [Another Level](https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h) | 2:46 |
 | 64 | [Platonic](https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4) | [Side B](https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:23 |
 | 65 | [Beatz 4 Da Streetz](https://open.spotify.com/track/5YkF8ZCdSM0ISElJx2pig7) | [Joosuc](https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:09 |
-| 66 | [Radio \- 2021 Remaster](https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 2:44 |
+| 66 | [Love & Hip\-Hop \(Feat\. Whee Sung\) \- 2021 Remaster](https://open.spotify.com/track/6hA73cIYwRLL0LDI95B9FL) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 4:01 |
 | 67 | [생긴대로 놀아 \(feat\. Juvie Train & Koonta\)](https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Juvie Train](https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 4:23 |
 | 68 | [외톨이](https://open.spotify.com/track/5eRAZCLutVhc6Ig652gTyI) | [Outsider](https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr) | [MAESTRO](https://open.spotify.com/album/0Gvs9QjSpaLHFtu5DcxrR7) | 3:11 |
 | 69 | [Imagine That](https://open.spotify.com/track/3CSovfXGMPwvtEXtSNO4Bk) | [Soul Company](https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ) | [The Best](https://open.spotify.com/album/0iId2qa493w4lk0LEWhy35) | 4:18 |
 | 70 | [Bulldozer](https://open.spotify.com/track/1rsiw9PsbKWSb1O2QGXMHy) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Bulldozer](https://open.spotify.com/album/01fJjO7rrzQ8mn6Efrkbbe) | 3:24 |
-| 71 | [Love & Hip\-Hop \(Feat\. Whee Sung\) \- 2021 Remaster](https://open.spotify.com/track/6hA73cIYwRLL0LDI95B9FL) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 4:01 |
+| 71 | [Radio \- 2021 Remaster](https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 2:44 |
 | 72 | [My Style](https://open.spotify.com/track/40UsCnzkWu5B958U7BCNJR) | [ZoPD](https://open.spotify.com/artist/1JIlqu7XZniSF86iMlgKHR) | [Stardom In Future Flow](https://open.spotify.com/album/099IAQyHxzJvo1ioGSuRmd) | 4:02 |
 | 73 | [엄지손가락](https://open.spotify.com/track/4dDETFzyd7iCbiev3Ct29J) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:47 |
 | 74 | [Trust Me \(Feat\. Supreme Team\)](https://open.spotify.com/track/6gXBoDyGqD3e2GzgGFrmqp) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Supreme Team](https://open.spotify.com/artist/6dHoQP2ONf0e9DMH94Obo7) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [떠버리 Pt\. 2 \(feat\. Pocyomkin, 1 Kyne, Sean2slow & 더블케이\)](https://open.spotify.com/track/1dfWtvnNCvMXE7kJOyZAF2) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [Pocyomkin](https://open.spotify.com/artist/6IN0p90dq8Adz9mg4jXn6e), [1 Kyne](https://open.spotify.com/artist/5mbtyCGys1Blku95lkAMVV), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU), [Double K](https://open.spotify.com/artist/6Xv8PJrOONqS2n2eSskF4C) | [Ill Skill](https://open.spotify.com/album/4KklnGUIFOgIvlWeTtahZJ) | 4:13 |
 | 100 | [Guilty](https://open.spotify.com/track/7rUURVpd1ucUhkbnYNlJbw) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Band of Dynamic Brothers](https://open.spotify.com/album/1v5PBEn1CygICPOdOuJfSc) | 3:44 |
 
-Snapshot ID: `AAAAABU0YFyWYMT/lHB93Pc6BbhCZEeZ`
+Snapshot ID: `AAAAAIhNbONpdMMtnd+/BoXdiqmjifPe`

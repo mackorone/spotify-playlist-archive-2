@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 ### [Pop Live](https://open.spotify.com/playlist/37i9dQZF1DWWnzeQw5ZMfu)
 
-> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Justin Bieber
+> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: ROLE MODEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,710 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,708 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SPEED DEMON](https://open.spotify.com/track/5ct38jIA1t8lDvrj8Oy2xY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG LIVE FROM COACHELLA \(Weekend II\)](https://open.spotify.com/album/4Wa07ZTBEshnd57JomGmij) | 3:30 |
-| 2 | [hate that i made you love me \- live from rehearsal](https://open.spotify.com/track/2pNbrMKqDaUwmCzmPr5upM) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/0Brr98bxYskKOnVVhCur6v) | 3:17 |
-| 3 | [Great Expectation \(Live\) \- Spotify Live Room](https://open.spotify.com/track/4cywNXmDElcemNFZRcbpPW) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Great Expectation \(Live\) \- Spotify Live Room](https://open.spotify.com/album/4SwLLwnz1xlfwoor3Hg9OJ) | 3:01 |
-| 4 | [How Deep Is Your Love \(Live\) \- Spotify Live Room](https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Zara Larsson \- Spotify Live Room](https://open.spotify.com/album/5SZW71fufjCWXvTRiAn2ae) | 2:12 |
-| 5 | [Ruin \(Live From Boston\)](https://open.spotify.com/track/5p7LHl4Wl72aikHqNGPGC7) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Ruin \(Live From Boston\)](https://open.spotify.com/album/5fHNbPNnkSAgY84yEjrQkJ) | 5:22 |
-| 6 | [End Of An Era \(Live From Mexico\)](https://open.spotify.com/track/21WwqjoXTNa57p1rYiVO6P) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [End Of An Era \(Live From Mexico\)](https://open.spotify.com/album/7cvRtpO5con5KTI0lAZ8dB) | 3:25 |
-| 7 | [Cruel Summer \- Live from TS \| The Eras Tour](https://open.spotify.com/track/6ClYMObS7f3Nn4AiZHYQt3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:49 |
-| 8 | [Midnight Sun \- Live](https://open.spotify.com/track/1IgRVcDdvpiqlwJpmBp7Ku) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun \(Bundle\)](https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR) | 3:58 |
-| 9 | [Death Wish \- Live from The O2 Arena](https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Death Wish \(Live from The O2 Arena\)](https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO) | 3:47 |
-| 10 | [Die On This Hill \- At KOKO](https://open.spotify.com/track/0vYVxe1X7QOpzyIJzyVG3O) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill \(At KOKO\)](https://open.spotify.com/album/5KldQvtRfCs7SQdJj7vOne) | 3:53 |
+| 1 | [High Hopes 3000 \(Live\) \- Spotify Live Room](https://open.spotify.com/track/3RV62T9FpRkWbea3eCS5g3) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [ROLE MODEL \- Spotify Live Room](https://open.spotify.com/album/1Q3Gt1mOEnsSZTxyARBj93) | 4:10 |
+| 2 | [SPEED DEMON](https://open.spotify.com/track/5ct38jIA1t8lDvrj8Oy2xY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG LIVE FROM COACHELLA \(Weekend II\)](https://open.spotify.com/album/4Wa07ZTBEshnd57JomGmij) | 3:30 |
+| 3 | [hate that i made you love me \- live from rehearsal](https://open.spotify.com/track/2pNbrMKqDaUwmCzmPr5upM) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/0Brr98bxYskKOnVVhCur6v) | 3:17 |
+| 4 | [Great Expectation \(Live\) \- Spotify Live Room](https://open.spotify.com/track/4cywNXmDElcemNFZRcbpPW) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Great Expectation \(Live\) \- Spotify Live Room](https://open.spotify.com/album/4SwLLwnz1xlfwoor3Hg9OJ) | 3:01 |
+| 5 | [How Deep Is Your Love \(Live\) \- Spotify Live Room](https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Zara Larsson \- Spotify Live Room](https://open.spotify.com/album/5SZW71fufjCWXvTRiAn2ae) | 2:12 |
+| 6 | [Ruin \(Live From Boston\)](https://open.spotify.com/track/5p7LHl4Wl72aikHqNGPGC7) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Ruin \(Live From Boston\)](https://open.spotify.com/album/5fHNbPNnkSAgY84yEjrQkJ) | 5:22 |
+| 7 | [End Of An Era \(Live From Mexico\)](https://open.spotify.com/track/21WwqjoXTNa57p1rYiVO6P) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [End Of An Era \(Live From Mexico\)](https://open.spotify.com/album/7cvRtpO5con5KTI0lAZ8dB) | 3:25 |
+| 8 | [Cruel Summer \- Live from TS \| The Eras Tour](https://open.spotify.com/track/6ClYMObS7f3Nn4AiZHYQt3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:49 |
+| 9 | [Midnight Sun \- Live](https://open.spotify.com/track/1IgRVcDdvpiqlwJpmBp7Ku) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun \(Bundle\)](https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR) | 3:58 |
+| 10 | [Death Wish \- Live from The O2 Arena](https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Death Wish \(Live from The O2 Arena\)](https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO) | 3:47 |
 | 11 | [Wouldn't Change A Thing \(feat\. Demi Lovato\) \- Live](https://open.spotify.com/track/0cmHsoZnUcbIfaEnLjqnlP) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Friends From Your Hometown](https://open.spotify.com/album/4xyhhzhRAm1u4lstjybyWk) | 3:27 |
 | 12 | [Stargazing \- Live at Eventim Apollo](https://open.spotify.com/track/3X1KhC6ygB8vb66ewgUq3t) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing \(Live at Eventim Apollo\)](https://open.spotify.com/album/4j6KwjNkSjnAAggyFoLDs4) | 3:24 |
 | 13 | [FINE PLACE TO DIE \- LIVE FROM THE O2 LONDON](https://open.spotify.com/track/48SzbMhs83szmapAQfvSsC) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE \(LIVE FROM THE O2 LONDON\)](https://open.spotify.com/album/6fDCZdlSPeCX9bhccnqlPJ) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 49 | [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 |
 | 50 | [Make You Feel My Love \(Live at Hotel Cafe\)](https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:52 |
 
-Snapshot ID: `AAAAAA/4PIItO2vhNhh1etYKTSYLWJAj`
+Snapshot ID: `AAAAAFtvkv5bZ5XsxPJjE6YJUyTbxXS2`

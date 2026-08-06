@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgToHlKhwA5.md) - [plain]
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,414 likes - 275 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,428 likes - 275 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgToHlKhwA5.md) - [plain]
 | 274 | [Dunder](https://open.spotify.com/track/3zTYozWxO2br2ZpjUMp9hm) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Dunder](https://open.spotify.com/album/10rXDSXVcLiiqKRJ2Snlnb) | 3:28 |
 | 275 | [Heavy Rain Under Cover](https://open.spotify.com/track/4aXbgtlE3sYeXWyBm3yrR5) | [Pioggia Notturna](https://open.spotify.com/artist/0Hus0cAybME524CqgViKck) | [Giardini](https://open.spotify.com/album/0nd9xnVNAS1O89Xs1Du6G4) | 2:18 |
 
-Snapshot ID: `AAAAAG7GysZtpHBFKCW1YQRb/YX2tSWy`
+Snapshot ID: `AAAAALjuJeCfF1ME6Qhq1zuo4x9BSOOC`

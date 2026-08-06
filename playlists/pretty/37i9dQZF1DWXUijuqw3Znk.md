@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 953 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 957 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 75 | [runaway \(Feat\. DON MALIK\)](https://open.spotify.com/track/5mgJHVqjrx56K4mAJx8eaY) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [IT′S YOUR WAY](https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb) | 2:59 |
 | 76 | [Angel](https://open.spotify.com/track/4HtYJJ2Xb8snojvr78vYiX) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Berry Loves My Mood](https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws) | 2:42 |
 | 77 | [Retirement \(feat\. The Quiett\)](https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [MultrillVerse](https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI) | 2:47 |
-| 78 | [Story On Sale \(Feat\. DAMYE\)](https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [GAROSAWK](https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi) | 4:10 |
+| 78 | [진저리 \(Feat\. 릴러말즈 \(Leellamarz\), 제네 더 질라\(ZENE THE ZILLA\)\)](https://open.spotify.com/track/1XezSpf7NiagncEJPzypsH) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [죽을힘을 다하여](https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb) | 3:43 |
 | 79 | [GNGB](https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:14 |
-| 80 | [진저리 \(Feat\. 릴러말즈 \(Leellamarz\), 제네 더 질라\(ZENE THE ZILLA\)\)](https://open.spotify.com/track/1XezSpf7NiagncEJPzypsH) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [죽을힘을 다하여](https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb) | 3:43 |
+| 80 | [Story On Sale \(Feat\. DAMYE\)](https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [GAROSAWK](https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi) | 4:10 |
 | 81 | [1llusion Remix \- Bonus Track](https://open.spotify.com/track/7h8KGENglYCGD6MD6PfeRu) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Reborn](https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV) | 4:23 |
 | 82 | [The Surface](https://open.spotify.com/track/1z9TQOl5KFxFPksB4weOMM) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 3:09 |
 | 83 | [OWL](https://open.spotify.com/track/7h9gz8EKmkBdTOU4WFkkQu) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BREATHE](https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 99 | [monologue \(Feat\. GSoul\)](https://open.spotify.com/track/0zOh4s95HEcFRSS4SzScTx) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [LIGHTS](https://open.spotify.com/album/6lVLpHULkoKw2pFhzDXXaN) | 3:06 |
 | 100 | [APOLOGY](https://open.spotify.com/track/1G2XUrrMjf9DNuFWMBMpPA) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 3:23 |
 
-Snapshot ID: `AAAAAJuTxYdrbwKIMYpfHIACXosIyEFG`
+Snapshot ID: `AAAAAHc54CaM1tF2nqPrKkmCCgpZnSHy`

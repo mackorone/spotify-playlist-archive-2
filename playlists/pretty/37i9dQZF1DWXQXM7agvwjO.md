@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Sunny Day Service \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,793 likes - 98 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,781 likes - 98 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 97 | [gud ppl](https://open.spotify.com/track/7z9TVbK9PCvOCQxSox2CuL) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [gud ppl](https://open.spotify.com/album/3K4da946zuDcBYNJGFUgbS) | 2:32 |
 | 98 | [slowly](https://open.spotify.com/track/0PJ5G0o5g6rvsgEgJ0QQe5) | [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [slowly](https://open.spotify.com/album/5pEsXaw4mCw5IgQLsjTkNg) | 3:50 |
 
-Snapshot ID: `AAAAADpYO7wB1GbyTOjwthhX0anhGYqZ`
+Snapshot ID: `AAAAAJtxMmABG6kFOolRCkOf7zX6ntf0`

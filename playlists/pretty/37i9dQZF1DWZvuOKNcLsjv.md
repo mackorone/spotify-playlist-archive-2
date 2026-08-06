@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,097 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,094 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 69 | [sagittarius](https://open.spotify.com/track/1ZtWNkcURJOTn962rQE1O1) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sagittarius](https://open.spotify.com/album/4iBjHrBIye8u5viIDEJt6h) | 4:30 |
 | 70 | [ユラリユレル](https://open.spotify.com/track/3ZMapuoR0hubjGNd8JUBKe) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ユラリユレル](https://open.spotify.com/album/4g3ojiN2E74O7yYCr55wvg) | 3:28 |
 
-Snapshot ID: `AAAAAEx6/Ujd7acGYBJHmiaa7zVwdaKr`
+Snapshot ID: `AAAAAFlQEX5GmZiNWM4v2WzLUrAl9xcU`

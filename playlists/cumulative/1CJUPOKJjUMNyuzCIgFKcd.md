@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-620 songs - 1 day 4 hr 3 min
+621 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [Tangled](https://open.spotify.com/track/0HJvudKR9GNkrkHBiBaCXW) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Tangled](https://open.spotify.com/album/31FHbVXYHZrw1f58OA4kF2) | 2:01 | 2024-04-24 | 2024-07-23 |
 | [TANK GIRL](https://open.spotify.com/track/1BbDwdorboNVFecXqpl6Kb) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [TANK GIRL](https://open.spotify.com/album/1GVQRZxJSqe6v66YFErdhR) | 2:04 | 2025-01-17 | 2025-04-30 |
 | [Tekipaki](https://open.spotify.com/track/0Khin4BcBYK1gszibOya7j) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Tekipaki](https://open.spotify.com/album/1Tyr6qPtB9m7jVadeTgA57) | 2:18 | 2025-09-04 | 2026-01-27 |
+| [Ten Summers](https://open.spotify.com/track/3L2hQwHU9Sof8srRsgwrNu) | [SOB X RBE](https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [Yhung T.O.](https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l), [Slimmy B](https://open.spotify.com/artist/0BfxMYdkqRuwPXsSwEf5RE) | [Ten Summers](https://open.spotify.com/album/0Ynh3XpDbQScbiO1DMmTou) | 2:29 | 2026-08-05 |  |
 | [Terrify](https://open.spotify.com/track/5Nn9Vjg5ZgEUCvnbKw7bEf) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Terrify](https://open.spotify.com/album/4MAbDjvCFvLu7xLTgL9Op2) | 2:55 | 2025-11-03 | 2026-01-27 |
 | [Thankful](https://open.spotify.com/track/0OfirwboNrLdcGsNtxqpoE) | [Lil Pete](https://open.spotify.com/artist/5ULJ18n8PZ9rJv5kYsZByV) | [Thankful](https://open.spotify.com/album/1p9BSE4WPieMGqPbAe4gGs) | 2:58 | 2024-11-18 | 2025-04-01 |
 | [Thankful](https://open.spotify.com/track/7qop6iqUuvBWRE6ZJDoWya) | [Lil Pete](https://open.spotify.com/artist/5ULJ18n8PZ9rJv5kYsZByV) | [MONEYBAGZ](https://open.spotify.com/album/4XTWRNiYJnoHIjD1i8GPVO) | 2:58 | 2024-09-23 | 2025-02-25 |

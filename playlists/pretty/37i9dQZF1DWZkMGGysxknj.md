@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,007 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,887 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 | 149 | [Young Boy \- Home Recording](https://open.spotify.com/track/3ypH2Qjy1KpRUv8Yyw86Ie) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Young Boy EP](https://open.spotify.com/album/1dwkCa9oiQQMJXeBwCV6TS) | 2:22 |
 | 150 | [Why Does It Always Rain on Me?](https://open.spotify.com/track/53W9rGhCo7gYlZOM8cHywX) | [Karizma Duo](https://open.spotify.com/artist/4AG4GdKn7FmC3EPk8m6dxg) | [Relaxing 90S Acoustic Covers](https://open.spotify.com/album/1KDvmZMD4h0rqf90lM1zOU) | 2:32 |
 
-Snapshot ID: `AAAAAKC11TwEm0oFor/krz+fsJB3WhXg`
+Snapshot ID: `AAAAAGow9Vzecft7xhfanbUYh6Nc5nIr`

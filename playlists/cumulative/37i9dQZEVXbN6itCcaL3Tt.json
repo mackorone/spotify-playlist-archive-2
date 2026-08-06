@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 139354,
       "name": "After",
       "url": "https://open.spotify.com/track/2C9ZtYMh1FNpMBB9ARaZhs"
@@ -9751,6 +9751,28 @@
     },
     {
       "album": {
+        "name": "Cartier Love",
+        "url": "https://open.spotify.com/album/2nskvmbTDDbCtJccgH4RzL"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        },
+        {
+          "name": "JNKSH",
+          "url": "https://open.spotify.com/artist/0QwZRtchj6deJgyAKW12IM"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Cartier Love",
+      "url": "https://open.spotify.com/track/2h5cUGlv4YPdAYnvgaqnZP"
+    },
+    {
+      "album": {
         "name": "CASABLANCA",
         "url": "https://open.spotify.com/album/3rMc7cIJq4QPi8G520mm4j"
       },
@@ -9788,7 +9810,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 217850,
       "name": "CASABLANCA",
       "url": "https://open.spotify.com/track/1U7ZU4sJsMDzHSA7n333BJ"
@@ -21140,7 +21162,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -30068,7 +30090,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 109124,
       "name": "LEPA",
       "url": "https://open.spotify.com/track/5V209N14zVkCdrL7AOUxx0"
@@ -32482,7 +32504,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 156081,
       "name": "MARBELLA",
       "url": "https://open.spotify.com/track/4GWnHZqrHozrGBBFItK5Oj"

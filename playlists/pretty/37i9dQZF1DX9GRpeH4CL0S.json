@@ -1,12 +1,12 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 837806,
+  "num_followers": 837897,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAlf5Zc11FDJU70/2kz0CpLcoK4T",
+  "snapshot_id": "AAAAAIZ/DrDNrsEWh5LXYuCKEPglLzYf",
   "tracks": [
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3143,6 +3143,22 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "Phantom Planet",
+        "url": "https://open.spotify.com/album/2SCGBVAtn1Dy0Sgj2ZPm4K"
+      },
+      "artists": [
+        {
+          "name": "Phantom Planet",
+          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "California - Tchad Blake Mix",
+      "url": "https://open.spotify.com/track/1PPwghTeQBBKkEGJrf6noY"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/6YXmQrXOjJoMheJ2IA5NqK"
       },
@@ -3159,18 +3175,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Phantom Planet",
-        "url": "https://open.spotify.com/album/2SCGBVAtn1Dy0Sgj2ZPm4K"
+        "name": "Tell All Your Friends (Re-Issue)",
+        "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
       },
       "artists": [
         {
-          "name": "Phantom Planet",
-          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 193693,
-      "name": "California - Tchad Blake Mix",
-      "url": "https://open.spotify.com/track/1PPwghTeQBBKkEGJrf6noY"
+      "duration_ms": 211546,
+      "name": "Cute Without the \"E\" (Cut From the Team)",
+      "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3203,22 +3219,6 @@
       "duration_ms": 239600,
       "name": "Pumped up Kicks",
       "url": "https://open.spotify.com/track/6qj3fVJJ2PcRxpSG7lDPZ5"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "Tell All Your Friends (Re-Issue)",
-        "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 211546,
-      "name": "Cute Without the \"E\" (Cut From the Team)",
-      "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
     }
   ],
   "unique_name": "Essential Alternative",

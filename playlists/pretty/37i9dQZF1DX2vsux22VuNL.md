@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Niina, N.I.N.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,764 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,732 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 55 | [PAZ](https://open.spotify.com/track/3d030LtkMGUreX1dk56goW) | [Pezão](https://open.spotify.com/artist/2UiLeUnwb6HIGBjyp6BK8J), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [PAZ](https://open.spotify.com/album/0EERtu0Qbd2RFSiNp3HGdN) | 3:59 |
 | 56 | [Acústico Altamira \#20 \- Mulher Carioca](https://open.spotify.com/track/1dPYH7lKhUZHoaZMMeQHN3) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8), [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Acústico Altamira \#20 \- Mulher Carioca](https://open.spotify.com/album/7IaErXiyLBdaxKDqzd892m) | 6:04 |
 | 57 | [Aquelas Coisas](https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT) | [Aquelas Coisas](https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm) | 3:16 |
-| 58 | [Jeito Doce](https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Jeito Doce](https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe) | 3:02 |
-| 59 | [Quem Vai Ser?](https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Quem Vai Ser?](https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz) | 2:37 |
+| 58 | [Quem Vai Ser?](https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Quem Vai Ser?](https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz) | 2:37 |
+| 59 | [Jeito Doce](https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Jeito Doce](https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe) | 3:02 |
 | 60 | [Insegurança](https://open.spotify.com/track/48a7MGZKXcq4MQCkXJBB0k) | [GVBE](https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Insegurança](https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7) | 3:10 |
 | 61 | [AINDA TÔ NO PROCESSO](https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE), [SEST](https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ) | [AINDA TÔ NO PROCESSO](https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN) | 3:31 |
 | 62 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 84 | [Cairo](https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Cairo](https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti) | 3:25 |
 | 85 | [Fora da Lei](https://open.spotify.com/track/2N2iV005DwQZEYfQxFM3Bp) | [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Patricio Sid](https://open.spotify.com/artist/3Xgbq3eQsS0IwYnoRE9tjU) | [Passaporte](https://open.spotify.com/album/2aD2pLtQadwRaEJ4v6zwRL) | 3:21 |
 
-Snapshot ID: `AAAAAJZeZUepBkd1pfrMg985p7nWv1RV`
+Snapshot ID: `AAAAAMERRjoaTgyfOoyM1ztJI4FZ/l1s`

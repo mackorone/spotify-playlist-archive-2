@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Diana Hamilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,666 likes - 100 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,684 likes - 100 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Help My Unbelief](https://open.spotify.com/track/1ZrtxZxLZoAO413iOVQH7D) | [Sebastine Jonathan](https://open.spotify.com/artist/1FtbQI1UvfpaLWMGopUcy0), [Kespan](https://open.spotify.com/artist/0wE2xo1Ov6AgTzHOmYux0w) | [Help My Unbelief](https://open.spotify.com/album/1dXlkpd8FeFK8jKdCmPdqE) | 4:05 |
 | 100 | [Amama Amasi Amasi \(The All Knowing God\)](https://open.spotify.com/track/7FHZIbfUdti3OuGD09r2Jd) | [Believe Joseph](https://open.spotify.com/artist/4qMuIl03HzGaIehHQxEYeu) | [Amama Amasi Amasi \(The All Knowing God\)](https://open.spotify.com/album/00rrR17BhTiCITgyO6ojv9) | 8:34 |
 
-Snapshot ID: `AAAAALQ4aKL0m8r1cTbtZyEwmleHFBBC`
+Snapshot ID: `AAAAAHn4VxT3Iknw93mWHfqv/pa+1ii4`

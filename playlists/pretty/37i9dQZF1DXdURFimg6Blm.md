@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 
 > Boost your energy with these dance tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,657 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,684 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 | 98 | [Fancy $hit](https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh) | 2:48 |
 | 99 | [Turn The Lights Off \(with Jaxstyle\) \- HILLS & Dansyn Remix](https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB), [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv) | [Turn The Lights Off \(with Jaxstyle\) \[HILLS & Dansyn Remix\]](https://open.spotify.com/album/5VEPN4W4wed0acDeJQJtFD) | 2:53 |
 
-Snapshot ID: `AAAAACgXx9Iycw7Qz5iyB/pnoO2qa4Ld`
+Snapshot ID: `AAAAAFz/DEzXoOtHVs/bmy+t8lMsqPzm`

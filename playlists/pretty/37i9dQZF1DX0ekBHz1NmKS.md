@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,110 likes - 109 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,096 likes - 109 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 108 | [För nära solen](https://open.spotify.com/track/6J71OcLTKjZIIH9AlYu0LW) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [För nära solen](https://open.spotify.com/album/2p4nOd5AP57bPjXXennG1E) | 3:36 |
 | 109 | [Cherry Blossom Sky](https://open.spotify.com/track/63HUPODfR1TEcUNvMtYnkh) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Cherry Blossom Sky](https://open.spotify.com/album/1ZtzSXlEjlLwJLYlLjBSnB) | 2:32 |
 
-Snapshot ID: `AAAAALO1nz88m/D9cU3CQb2khVbCZFtA`
+Snapshot ID: `AAAAAGauPFbXLEp//55L8uAx4BOVYTog`

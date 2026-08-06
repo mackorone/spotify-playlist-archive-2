@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Act Natural",
+        "url": "https://open.spotify.com/album/4bK1mCd0Gd9ae3q7d3GFMV"
+      },
+      "artists": [
+        {
+          "name": "Do Nothing",
+          "url": "https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222822,
+      "name": "Act Natural",
+      "url": "https://open.spotify.com/track/06dHepTpO41cf1hxRMm9sm"
+    },
+    {
+      "album": {
         "name": "Action Painting",
         "url": "https://open.spotify.com/album/1bhBLbRYnvITVmzqvxIuRb"
       },
@@ -1144,6 +1162,24 @@
       "duration_ms": 267148,
       "name": "Afraid of Love",
       "url": "https://open.spotify.com/track/05Ex4k06zKLhAbVym8G0cm"
+    },
+    {
+      "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/3J1k0c6MugEUDyQGUkfJ3F"
+      },
+      "artists": [
+        {
+          "name": "Just Penelope",
+          "url": "https://open.spotify.com/artist/2z8TqZbO16nv50m8PPPl9g"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "After",
+      "url": "https://open.spotify.com/track/7EPWd4SJ0vT3cETAhCa1rw"
     },
     {
       "album": {
@@ -4287,6 +4323,24 @@
     },
     {
       "album": {
+        "name": "Billboard Style",
+        "url": "https://open.spotify.com/album/5J68BHB4bwuKeNXx6UjgIL"
+      },
+      "artists": [
+        {
+          "name": "Billboard Style",
+          "url": "https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170196,
+      "name": "Billboard Style",
+      "url": "https://open.spotify.com/track/35ve61xDrQy5Q4U20CCttN"
+    },
+    {
+      "album": {
         "name": "Billionaire",
         "url": "https://open.spotify.com/album/2pxxgyaBmThEU0Mcx66wzf"
       },
@@ -4720,6 +4774,24 @@
       "duration_ms": 164146,
       "name": "Blood Honey",
       "url": "https://open.spotify.com/track/4j4XDUVeOQS4IfHkS28T08"
+    },
+    {
+      "album": {
+        "name": "Blood In The Grass",
+        "url": "https://open.spotify.com/album/1IkpNZIcss49dcT0uaLGfh"
+      },
+      "artists": [
+        {
+          "name": "Sour Widows",
+          "url": "https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259746,
+      "name": "Blood In The Grass",
+      "url": "https://open.spotify.com/track/2nlEX8fXYLqBHrMVGlME7A"
     },
     {
       "album": {
@@ -13010,7 +13082,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 126806,
       "name": "Fake ID",
       "url": "https://open.spotify.com/track/5gynEmNec4YKPE1FqFsaWT"
@@ -13936,7 +14008,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 271866,
       "name": "Florence",
       "url": "https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj"
@@ -15824,7 +15896,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 127173,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
@@ -24478,7 +24550,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 122104,
       "name": "Might See You There",
       "url": "https://open.spotify.com/track/0W5mNFQb72i90dPhGaMcy3"
@@ -31461,6 +31533,24 @@
     },
     {
       "album": {
+        "name": "Rubber Arm",
+        "url": "https://open.spotify.com/album/5njJwV34hj2cmva9Lq4KBb"
+      },
+      "artists": [
+        {
+          "name": "Shortstraw",
+          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205066,
+      "name": "Rubber Arm",
+      "url": "https://open.spotify.com/track/365BKCUdOwuqKfuQCqL8Be"
+    },
+    {
+      "album": {
         "name": "Rule 31",
         "url": "https://open.spotify.com/album/2SMWUV7fij4YwtmQqYiJjx"
       },
@@ -32842,6 +32932,24 @@
       "duration_ms": 254830,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/6ws1zPDVargHmIyg4Rh0U8"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/7DJJ33l9mlkWE3cuMUaR1Y"
+      },
+      "artists": [
+        {
+          "name": "GRUB",
+          "url": "https://open.spotify.com/artist/66GRbUYE1YuX6pkchfN64v"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182252,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5a9uDWFBjgv51iODOnxRAx"
     },
     {
       "album": {
@@ -35418,7 +35526,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 172052,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4s42j4BhFmaeQtRrOSC6bP"
@@ -41520,7 +41628,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-06",
       "duration_ms": 168552,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"

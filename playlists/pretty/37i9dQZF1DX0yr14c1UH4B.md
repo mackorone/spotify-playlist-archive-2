@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌷 cover: Morgan Harper\-Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,470 likes - 115 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,799 likes - 115 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 114 | [Was It Love](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 4:10 |
 | 115 | [The Sky Fell Down](https://open.spotify.com/track/5qHOS5AP026xuignL3tea4) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [The Sky Fell Down](https://open.spotify.com/album/3LALcJmuCErimoijYzwXcn) | 3:33 |
 
-Snapshot ID: `AAAAALTlSwQV7c4HUhU+Uxvtl7JVNL7V`
+Snapshot ID: `AAAAADzso1EOYLJ9RHPYyxWnhA31mnkj`
