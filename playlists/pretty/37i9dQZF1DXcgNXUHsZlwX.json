@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143485,
+  "num_followers": 143490,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFWgU8oQtC/Vr/wKNutlqMWCmoqI",
+  "snapshot_id": "AAAAAN9CBKFhpQb3z1C2YPtl3x9fKzcK",
   "tracks": [
     {
       "added_at": "2026-07-31 04:03:24",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "figure it out",
-        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
-      },
-      "artists": [
-        {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "figure it out",
-      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
         "name": "A Week in Nashville",
         "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
       },
@@ -615,22 +599,6 @@
       "duration_ms": 199909,
       "name": "Did Life Work Out for You?",
       "url": "https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
-        "name": "La nuit s'ach\u00e8ve",
-        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Mais je sais que tu m'attends",
-      "url": "https://open.spotify.com/track/0VuZx9LXIT319lHPNxSIal"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -651,18 +619,34 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+        "name": "La nuit s'ach\u00e8ve",
+        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
       },
       "artists": [
         {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
         }
       ],
-      "duration_ms": 138026,
-      "name": "Rosier-douleur",
-      "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
+      "duration_ms": 185600,
+      "name": "Mais je sais que tu m'attends",
+      "url": "https://open.spotify.com/track/0VuZx9LXIT319lHPNxSIal"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "figure it out",
+        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "figure it out",
+      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -679,6 +663,22 @@
       "duration_ms": 204400,
       "name": "Frisbee & marmelade",
       "url": "https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "duration_ms": 138026,
+      "name": "Rosier-douleur",
+      "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Snowpath",
-        "url": "https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Snowpath",
-      "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
         "name": "Future Lovers",
         "url": "https://open.spotify.com/album/3znvdMuFzXDXqW7Hk2QQWX"
       },
@@ -871,18 +851,22 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
+        "name": "Snowpath",
+        "url": "https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT"
       },
       "artists": [
         {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 248759,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+      "duration_ms": 133000,
+      "name": "Snowpath",
+      "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -899,6 +883,22 @@
       "duration_ms": 134581,
       "name": "Tu reviendras",
       "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 248759,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "VII",
-        "url": "https://open.spotify.com/album/21XzZmD6JJSbJnrkq1CC3O"
-      },
-      "artists": [
-        {
-          "name": "SCOPA",
-          "url": "https://open.spotify.com/artist/1LJCipjW9wdJYKk5mnze43"
-        }
-      ],
-      "duration_ms": 145110,
-      "name": "VII",
-      "url": "https://open.spotify.com/track/5kcm7grczY2Pejtw16iyeh"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
         "name": "AVALANCHE (n.f.)",
         "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
@@ -1323,38 +1307,6 @@
       "duration_ms": 188516,
       "name": "Tu pars",
       "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
-        "name": "Sunday in New York",
-        "url": "https://open.spotify.com/album/6HuzewiESaNDYpetEp7iN4"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 213065,
-      "name": "Sunday in New York",
-      "url": "https://open.spotify.com/track/41T2v6LbMi2D4ah3dgt9hI"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
-        "name": "Quand je pleure, je suis content",
-        "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
-      },
-      "artists": [
-        {
-          "name": "Velours Velours",
-          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Quand je pleure, je suis content",
-      "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1375,6 +1327,54 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "Quand je pleure, je suis content",
+        "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
+      },
+      "artists": [
+        {
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Quand je pleure, je suis content",
+      "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "Sunday in New York",
+        "url": "https://open.spotify.com/album/6HuzewiESaNDYpetEp7iN4"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 213065,
+      "name": "Sunday in New York",
+      "url": "https://open.spotify.com/track/41T2v6LbMi2D4ah3dgt9hI"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "VII",
+        "url": "https://open.spotify.com/album/21XzZmD6JJSbJnrkq1CC3O"
+      },
+      "artists": [
+        {
+          "name": "SCOPA",
+          "url": "https://open.spotify.com/artist/1LJCipjW9wdJYKk5mnze43"
+        }
+      ],
+      "duration_ms": 145110,
+      "name": "VII",
+      "url": "https://open.spotify.com/track/5kcm7grczY2Pejtw16iyeh"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1447,22 +1447,22 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Demain \u00e7a ira",
-        "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
+        "name": "R\u00e9gate",
+        "url": "https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk"
       },
       "artists": [
         {
-          "name": "Mah\u00e9ja",
-          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+          "name": "Mathieu David Gagnon",
+          "url": "https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR"
         },
         {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+          "name": "Flore Laurentienne",
+          "url": "https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv"
         }
       ],
-      "duration_ms": 163374,
-      "name": "Demain \u00e7a ira",
-      "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
+      "duration_ms": 284415,
+      "name": "R\u00e9gate",
+      "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1483,22 +1483,18 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "R\u00e9gate",
-        "url": "https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk"
+        "name": "Le go\u00fbt des mangues",
+        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
       },
       "artists": [
         {
-          "name": "Mathieu David Gagnon",
-          "url": "https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR"
-        },
-        {
-          "name": "Flore Laurentienne",
-          "url": "https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 284415,
-      "name": "R\u00e9gate",
-      "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
+      "duration_ms": 132560,
+      "name": "Le go\u00fbt des mangues",
+      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1535,22 +1531,6 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Le go\u00fbt des mangues",
-        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
-      },
-      "artists": [
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
-        }
-      ],
-      "duration_ms": 132560,
-      "name": "Le go\u00fbt des mangues",
-      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
         "name": "L'\u00e9t\u00e9 indien de ta vie",
         "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
@@ -1563,6 +1543,42 @@
       "duration_ms": 238969,
       "name": "L'\u00e9t\u00e9 indien de ta vie",
       "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "Demain \u00e7a ira",
+        "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
+      },
+      "artists": [
+        {
+          "name": "Mah\u00e9ja",
+          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "duration_ms": 163374,
+      "name": "Demain \u00e7a ira",
+      "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "Demain",
+        "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
+      },
+      "artists": [
+        {
+          "name": "Zach Boileau",
+          "url": "https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO"
+        }
+      ],
+      "duration_ms": 229047,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Demain",
-        "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
-      },
-      "artists": [
-        {
-          "name": "Zach Boileau",
-          "url": "https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO"
-        }
-      ],
-      "duration_ms": 229047,
-      "name": "Demain",
-      "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
         "name": "Velours et Acide",
         "url": "https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy"
       },
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Portrait de l'invisible",
-        "url": "https://open.spotify.com/album/71PkjAcz0cvoAMtcMTwgfG"
+        "name": "maybe i think",
+        "url": "https://open.spotify.com/album/4OYELnP5UQBBelvamEjIz0"
       },
       "artists": [
         {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+          "name": "Nick Bellerose",
+          "url": "https://open.spotify.com/artist/6Rx0M4DvtX6RFbVTJNspwt"
         }
       ],
-      "duration_ms": 230029,
-      "name": "JVTPM",
-      "url": "https://open.spotify.com/track/0MLcOFQ1tFQwXuJZTO03O4"
+      "duration_ms": 126000,
+      "name": "maybe i think",
+      "url": "https://open.spotify.com/track/6sslSA1MP4zJS1RO2wemux"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Les serpents dans l'eau",
-        "url": "https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge"
+        "name": "Portrait de l'invisible",
+        "url": "https://open.spotify.com/album/71PkjAcz0cvoAMtcMTwgfG"
       },
       "artists": [
         {
-          "name": "c\u00e9cile",
-          "url": "https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH"
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
         }
       ],
-      "duration_ms": 217046,
-      "name": "Les serpents dans l'eau",
-      "url": "https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu"
+      "duration_ms": 230029,
+      "name": "JVTPM",
+      "url": "https://open.spotify.com/track/0MLcOFQ1tFQwXuJZTO03O4"
     },
     {
       "added_at": "2026-07-31 04:03:24",

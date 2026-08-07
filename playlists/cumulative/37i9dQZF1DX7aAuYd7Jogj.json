@@ -6817,6 +6817,24 @@
     },
     {
       "album": {
+        "name": "Elara",
+        "url": "https://open.spotify.com/album/13gLETpm4NY0nWJJnZBGZt"
+      },
+      "artists": [
+        {
+          "name": "Celestial Keys",
+          "url": "https://open.spotify.com/artist/16P4gDv8CCUyHYh3A2EVMA"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129927,
+      "name": "Elara",
+      "url": "https://open.spotify.com/track/3SY3ZH804S2s0YpzoJJZLV"
+    },
+    {
+      "album": {
         "name": "Elastic",
         "url": "https://open.spotify.com/album/5r2zaZL1I9lqXxIVWRMkLy"
       },

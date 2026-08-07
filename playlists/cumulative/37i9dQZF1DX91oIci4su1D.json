@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Another Year Alone (i love you)",
+        "url": "https://open.spotify.com/album/1NR14Md6F88fILBN3k20FT"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Another Year Alone (i love you)",
+      "url": "https://open.spotify.com/track/12yBP15N9VsPj1oMEWOD7f"
+    },
+    {
+      "album": {
         "name": "Anyone But You (Steve Brian Remix)",
         "url": "https://open.spotify.com/album/7vhRanK1t2rq5Z8Ofkn016"
       },
@@ -6456,7 +6474,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 142683,
       "name": "Don't You Go Hard?!",
       "url": "https://open.spotify.com/track/5SyWrtM96kjUrzh23R89eP"
@@ -11843,6 +11861,28 @@
     },
     {
       "album": {
+        "name": "I Live For That Energy (ASOT 800 Anthem) [Dan Harrison Remix]",
+        "url": "https://open.spotify.com/album/4JOBiD2fZxxYEmRhBPS5xV"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Dan Harrison",
+          "url": "https://open.spotify.com/artist/1GxJUJ2IAfWC1K1PaXLfqH"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213517,
+      "name": "I Live For That Energy (ASOT 800 Anthem) - Dan Harrison Remix",
+      "url": "https://open.spotify.com/track/6MsRTzDj2fokfM4YbPDFcB"
+    },
+    {
+      "album": {
         "name": "I Matter to You",
         "url": "https://open.spotify.com/album/02CAyPkMh8g7hToVLUVROl"
       },
@@ -12888,7 +12928,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 214872,
       "name": "Is It Beautiful? (A State of Trance 2025 TRANSFORMATION Anthem)",
       "url": "https://open.spotify.com/track/0oVnw2HtmZAMQAyUoWx2k1"
@@ -17344,7 +17384,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 220443,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/3TxmwHqYfdMGqwumcqyGlD"
@@ -26040,6 +26080,24 @@
       "duration_ms": 175606,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/2XbWo6a2g3MhkXsJyesWjG"
+    },
+    {
+      "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
     },
     {
       "album": {

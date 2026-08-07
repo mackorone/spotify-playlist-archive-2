@@ -4,7 +4,7 @@
 
 > neler yaşamışım ben ya...
 
-46 songs - 2 hr 12 min
+47 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,5 +54,6 @@
 | [ZAR ZOR](https://open.spotify.com/track/7i3U8xnLEtkzzsetcu4j7s) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [ZAR ZOR](https://open.spotify.com/album/3RwVkeAdTEEs5JU4xQ34y7) | 2:31 | 2022-07-27 |  |
 | [ZAR ZOR \(Aytaç Kart Remix\) \(feat\. Aytac Kart\)](https://open.spotify.com/track/1H4qxPotx1YuUacESzS6E3) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Aytac Kart](https://open.spotify.com/artist/66AHlsRl8ONmvQCiuVIdJ3) | [ZAR ZOR \(Aytaç Kart Remix\) \(feat\. Aytac Kart\)](https://open.spotify.com/album/51kSkawyx2mHLBEAmu3tBl) | 2:49 | 2022-07-27 | 2025-04-11 |
 | [Zilli](https://open.spotify.com/track/4UKyuJy0GqMDrcg3IkddDi) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Zilli](https://open.spotify.com/album/0Qjs9wm0hCo0MKA6b8RYnX) | 2:12 | 2025-02-27 |  |
+| [Çıktı Yangınlar](https://open.spotify.com/track/4kjQ47cziTQ17YIA62KcgX) | [Ayse Hatun Onal](https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS), [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [Çıktı Yangınlar](https://open.spotify.com/album/25KF6IYYRYUGbPBcIOKCY8) | 2:49 | 2026-08-06 |  |
 
 \*This playlist was first scraped on 2024-05-14. Prior content cannot be recovered.

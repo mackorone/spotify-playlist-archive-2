@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 1955538,
+  "num_followers": 1955364,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG5TXfT/t4TCJ8IZ+xGn+VHkD5nG",
+  "snapshot_id": "AAAAABOtSuM0oXGWsSEnxjgRkSX6AuhF",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:14",
@@ -411,18 +411,18 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 246761,
-      "name": "Summer Sweat",
-      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
+      "duration_ms": 182607,
+      "name": "From",
+      "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -447,18 +447,18 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 182607,
-      "name": "From",
-      "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
+      "duration_ms": 246761,
+      "name": "Summer Sweat",
+      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 316301,
+      "name": "There's A Rhythmn",
+      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 234383,
       "name": "I Lied (with August Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 316301,
-      "name": "There's A Rhythmn",
-      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "Fondness, Etc.",
-        "url": "https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "No Place to Be",
-      "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "Solstice",
         "url": "https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 192160,
       "name": "Sorry Now",
       "url": "https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "Fondness, Etc.",
+        "url": "https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "No Place to Be",
+      "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -925,20 +925,20 @@
       "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
     },
     {
-      "added_at": "2026-07-24 04:02:14",
+      "added_at": "2026-08-03 22:34:11",
       "album": {
-        "name": "Mountain Girl",
-        "url": "https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu"
+        "name": "All I Ever Wanted Was You",
+        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
       },
       "artists": [
         {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+          "name": "The Sways",
+          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
         }
       ],
-      "duration_ms": 162925,
-      "name": "Mountain Girl",
-      "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
+      "duration_ms": 193500,
+      "name": "All I Ever Wanted Was You",
+      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "That Spell",
         "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
       },
@@ -1007,6 +991,38 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "Mountain Girl",
+        "url": "https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 162925,
+      "name": "Mountain Girl",
+      "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
         "name": "Are You Happy Now?",
         "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 199758,
       "name": "Dead Girl Walking",
       "url": "https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX"
-    },
-    {
-      "added_at": "2026-08-03 22:34:11",
-      "album": {
-        "name": "All I Ever Wanted Was You",
-        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
-      },
-      "artists": [
-        {
-          "name": "The Sways",
-          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "All I Ever Wanted Was You",
-      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
         "name": "Seed of Joy",
         "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "Rosemary",
         "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 254200,
       "name": "Feel Alive Again",
       "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
-        "name": "Queen of Spades",
-        "url": "https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5"
-      },
-      "artists": [
-        {
-          "name": "Deloyd Elze",
-          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Queen of Spades",
-      "url": "https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "Bluebeard",
-        "url": "https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC"
+        "name": "Queen of Spades",
+        "url": "https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Deloyd Elze",
+          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
         }
       ],
-      "duration_ms": 188468,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v"
+      "duration_ms": 220600,
+      "name": "Queen of Spades",
+      "url": "https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "and then there's me",
-        "url": "https://open.spotify.com/album/7mUkb56qGJScNQFbUSo6AL"
+        "name": "Bluebeard",
+        "url": "https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC"
       },
       "artists": [
         {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 192346,
-      "name": "and then there's me",
-      "url": "https://open.spotify.com/track/7f1WcvOOUVUoHdrilGw4Sr"
+      "duration_ms": 188468,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1351,6 +1335,22 @@
       "duration_ms": 136980,
       "name": "How It Was It Will Never Be Again",
       "url": "https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "and then there's me",
+        "url": "https://open.spotify.com/album/7mUkb56qGJScNQFbUSo6AL"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 192346,
+      "name": "and then there's me",
+      "url": "https://open.spotify.com/track/7f1WcvOOUVUoHdrilGw4Sr"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "High and Dry",
-        "url": "https://open.spotify.com/album/13aAHCgpUyaK7OyuckY2HT"
-      },
-      "artists": [
-        {
-          "name": "Mattias Tell",
-          "url": "https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5"
-        }
-      ],
-      "duration_ms": 153124,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/3sNRm2oodzFRdNjSAer1jo"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "Big Heart Manners",
         "url": "https://open.spotify.com/album/1obci0e4UHEokoLkZzlQqI"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 221289,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4W6s22YsPYXdKpvf5yF6BG"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "High and Dry",
+        "url": "https://open.spotify.com/album/13aAHCgpUyaK7OyuckY2HT"
+      },
+      "artists": [
+        {
+          "name": "Mattias Tell",
+          "url": "https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5"
+        }
+      ],
+      "duration_ms": 153124,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/3sNRm2oodzFRdNjSAer1jo"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/7H28isrokI8ORbf0tSV8ar"
-      },
-      "artists": [
-        {
-          "name": "RYMAN",
-          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
-        }
-      ],
-      "duration_ms": 222585,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/1wWIDdjh2pWRE3ECsVCklE"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "Room On Your Shoulder",
         "url": "https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 186764,
       "name": "boys, bugs and men",
       "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/7H28isrokI8ORbf0tSV8ar"
+      },
+      "artists": [
+        {
+          "name": "RYMAN",
+          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
+        }
+      ],
+      "duration_ms": 222585,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/1wWIDdjh2pWRE3ECsVCklE"
     },
     {
       "added_at": "2026-07-24 04:02:14",

@@ -4,7 +4,7 @@
 
 > Folk latino de estación\. Foto: J18
 
-388 songs - 21 hr 16 min
+390 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ay, Mi Gorrión!](https://open.spotify.com/track/0txPwD3oxvQ7dlLnYlmkLh) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Ay, Mi Gorrión!](https://open.spotify.com/album/3eejHVYQFBUCGtVQRDGfMQ) | 3:50 | 2025-07-18 |  |
 | [Azul](https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Azul](https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD) | 2:50 | 2023-08-11 | 2026-05-29 |
 | [aún así](https://open.spotify.com/track/6xhZTQCPxvPVAhptkjL7x1) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [imbn](https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o) | [aún así](https://open.spotify.com/album/59m9P7LhajZCo37PffWKMr) | 3:54 | 2025-01-10 |  |
+| [B612](https://open.spotify.com/track/7zvpIr1JeXMaExmcFntTyu) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [B612](https://open.spotify.com/album/1x6H7Cli7ifsJV1vVafHM1) | 3:02 | 2026-08-07 |  |
 | [Bailar en la Cuerda Floja](https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Bailar en la Cuerda Floja](https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra) | 3:41 | 2023-06-09 | 2026-05-29 |
 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 | 2022-08-26 | 2026-05-29 |
 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 | 2023-11-24 | 2024-09-27 |
@@ -97,6 +98,7 @@
 | [Cualquiera](https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Cualquiera](https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD) | 3:31 | 2022-11-11 | 2023-06-24 |
 | [Cuando Empecé a Quererte](https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a) | [Gamuza](https://open.spotify.com/artist/4bufWdghDtHvVeDn2C7V5D) | [Cuando Empecé a Quererte](https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw) | 3:05 | 2023-05-26 | 2025-04-27 |
 | [Cuando Estemos Solos](https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Cuando Estemos Solos](https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS) | 3:13 | 2022-11-11 | 2026-05-29 |
+| [Cuando Me Fui de la Casa](https://open.spotify.com/track/5IlP9nOMECPOk0oq2HGtAh) | [Miranda Myndlis](https://open.spotify.com/artist/0PgWnms78CLlPRS1smSAnh) | [Cuando Me Fui de la Casa](https://open.spotify.com/album/5KyJXKgQy0y3RSYYLCW6hh) | 3:00 | 2026-08-07 |  |
 | [Cuando Te Veo](https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Caída Libre](https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH) | 3:51 | 2022-05-20 | 2022-08-27 |
 | [Cuentas Pendientes](https://open.spotify.com/track/3YxoIY40PgKDBjKHDHUQAe) | [Letizia Vocos](https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8) | [Cuentas Pendientes](https://open.spotify.com/album/7vPKBes3WuXF8xfT5ZC3EI) | 2:43 | 2023-06-23 | 2024-09-27 |
 | [Cuento de un Pueblo Perdido](https://open.spotify.com/track/2Uviok2NBVMiI7Cv7wAUYI) | [Greta Ferreyra](https://open.spotify.com/artist/6pR3yqniwmZwjTCjlfvzTu) | [Lo Dulce y La Fuerza](https://open.spotify.com/album/42G7U5JyKohGssr7LMlKOm) | 1:58 | 2026-05-29 |  |

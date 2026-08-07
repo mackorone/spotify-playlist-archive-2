@@ -44361,6 +44361,24 @@
     },
     {
       "album": {
+        "name": "ID",
+        "url": "https://open.spotify.com/album/4HArTcixlcIpIla56geDfK"
+      },
+      "artists": [
+        {
+          "name": "Visage Music",
+          "url": "https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183797,
+      "name": "Onda 7",
+      "url": "https://open.spotify.com/track/3yvInCfyjakgmH50cXrE70"
+    },
+    {
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/6J9JduAffjemdIszo50U47"
       },
@@ -46792,6 +46810,28 @@
       "duration_ms": 308192,
       "name": "Play",
       "url": "https://open.spotify.com/track/2yscq5BPVUjmQgIXr7fqZx"
+    },
+    {
+      "album": {
+        "name": "Play it Loud (Keep it Going)",
+        "url": "https://open.spotify.com/album/70x9g70S9QnwXbRHOgHiPz"
+      },
+      "artists": [
+        {
+          "name": "DJ Dings",
+          "url": "https://open.spotify.com/artist/6pGgOtYuQJG4lVsswYpUTE"
+        },
+        {
+          "name": "Tim Rausch",
+          "url": "https://open.spotify.com/artist/6fU3MewDiqM18TonERkX6K"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Play it Loud (Keep it Going)",
+      "url": "https://open.spotify.com/track/0sKBrx6EyavERCR0jx0iBJ"
     },
     {
       "album": {

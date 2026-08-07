@@ -4,7 +4,7 @@
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Frank van Etten
 
-752 songs - 1 day 12 hr 0 min
+754 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Avond 2.0](https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o) | [Martijn Stam](https://open.spotify.com/artist/08us5J8eRdUoGifsSIOMa1) | [Avond 2.0](https://open.spotify.com/album/0BVSguaWW08ymbT39URufK) | 3:27 | 2025-09-04 | 2026-02-06 |
 | [Avond Om Nooit Te Vergeten](https://open.spotify.com/track/2tTB0L8u6pEjMQ1mdL1dLO) | [Dennis van Dam](https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz) | [Avond Om Nooit Te Vergeten](https://open.spotify.com/album/6dRVAY0HwzhQ3aGoPRA5gJ) | 2:38 | 2026-01-15 | 2026-04-24 |
 | [Avond voor in de Boeken](https://open.spotify.com/track/6ppgRsjpZzpJGGhzbQsTP9) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Avond voor in de Boeken](https://open.spotify.com/album/6EeWtkYsrjKAq2FkZ0OHPQ) | 2:55 | 2026-02-26 | 2026-06-05 |
+| [Bachata Bailando](https://open.spotify.com/track/7IJUXmc1DOzjxLZlxKZgXm) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Bachata Bailando](https://open.spotify.com/album/1rUhjbgiVbhJNFYnoofqDg) | 2:43 | 2026-08-06 |  |
 | [Baco In Monaco](https://open.spotify.com/track/2YNwOaY3pAi4flU4RXau62) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Baco In Monaco](https://open.spotify.com/album/4bT6o2cRNYG6MxkQCkwP51) | 2:12 | 2026-06-04 |  |
 | [Badkamerkraan](https://open.spotify.com/track/4Rgu5vBdoJEL76NsGiE9tH) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Badkamerkraan](https://open.spotify.com/album/7G8QSYvpr4OZrjCXymmZyG) | 3:12 | 2026-04-09 | 2026-07-17 |
 | [Bandolero](https://open.spotify.com/track/5k9CrZ3aW3JqvA1XuUiEWW) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Bandolero](https://open.spotify.com/album/6EH4sQTdM1gyew6f3oWDr4) | 3:05 | 2025-01-06 | 2025-03-21 |
@@ -495,6 +496,7 @@
 | [Mexico](https://open.spotify.com/track/6wZ5Uq4nvLeCdk55aDpiae) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Mexico](https://open.spotify.com/album/5XrvscEzaCTKeKXXpVlogo) | 3:26 | 2024-07-25 | 2024-10-19 |
 | [Midden In Paris](https://open.spotify.com/track/2jb24vo03wyU4RdgSnj6JJ) | [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F) | [Midden In Paris](https://open.spotify.com/album/6cAFEfAFJ0Fdy6uWnflctt) | 3:17 | 2026-05-14 |  |
 | [Middernacht](https://open.spotify.com/track/4Oq3oPHTNzf0f1wFBaXE03) | [Erwin de Wit](https://open.spotify.com/artist/1SM4f0kFcM98nY65BCdftt) | [Middernacht](https://open.spotify.com/album/4zkDLs2x1bs1TQ7tgk8bcA) | 2:41 | 2026-07-16 |  |
+| [Mijn Hart Is Geen Hotel](https://open.spotify.com/track/3Xymr3jr9Kjx90KWXbjKg7) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Mijn Hart Is Geen Hotel](https://open.spotify.com/album/1h3Yfx0APXvFXKF7VuxCd7) | 2:52 | 2026-08-06 |  |
 | [Mijn Leven Leeft](https://open.spotify.com/track/4dJCHOBlAfnsZwi9I4Jzwa) | [Frank Verkooyen](https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G) | [Mijn Leven Leeft](https://open.spotify.com/album/46WI4GjauEB3pvw7QvdvHu) | 3:08 | 2025-09-18 | 2026-01-15 |
 | [Mijn Manuela](https://open.spotify.com/track/4ESMSpof4BBHNvj1J99tBV) | [Mike Kanders](https://open.spotify.com/artist/0bLOBOM8xoHml0QBurC1ci) | [Mijn Manuela](https://open.spotify.com/album/0hVjy6ZHpV1gnhY4LF2Gly) | 3:09 | 2026-05-21 |  |
 | [Mijn Vader](https://open.spotify.com/track/47i9ElelaZpAmtxvl8rUDr) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Mijn Vader](https://open.spotify.com/album/0J5t9pYHLzRl93fcUpp9vY) | 3:42 | 2025-06-05 | 2025-07-11 |

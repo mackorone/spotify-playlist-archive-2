@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Swedish House Mafia & Lykke Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,918 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,242 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [terms and conditions](https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [terms and conditions](https://open.spotify.com/album/6i1OPAnr4QVZGwOI7jYGj8) | 2:31 |
 | 100 | [Beautiful \(with Joji\)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Beautiful \(with Joji\)](https://open.spotify.com/album/2CpahiICjXexEynp7scGe4) | 3:35 |
 
-Snapshot ID: `AAAAAI9TTzmAzwR13Ueu/XRlDwahyTJu`
+Snapshot ID: `AAAAAI0Yx+bK9yD4D5Hn8pb1MLqekSrW`

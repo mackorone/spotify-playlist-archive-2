@@ -2,9 +2,9 @@
 
 ### [Baby Hair](https://open.spotify.com/playlist/37i9dQZF1DX1CDfMq8oOPq)
 
-> tuuudo conspirando a favor  🌓//  Amanda Sarmento
+> 🗣️doisdeee, doisdeee // Maru2D
 
-390 songs - 18 hr 13 min
+391 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Heroína e A Vilã](https://open.spotify.com/track/0jAPxMC6lewaMrSuQwzbb1) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [A Heroína e A Vilã](https://open.spotify.com/album/0SyVncjgg2o0WRWEFTGnGt) | 2:24 | 2023-11-17 | 2023-12-16 |
 | [A Trança](https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [A Trança](https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb) | 2:27 | 2023-07-21 | 2023-07-29 |
 | [Abelha](https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Abelha](https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu) | 2:18 | 2023-09-29 | 2023-10-14 |
-| [Acorde](https://open.spotify.com/track/56zyFeSe3ttrjcXeFFskP1) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc), [Xizoh](https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:13 | 2025-09-22 |  |
+| [Acorde](https://open.spotify.com/track/56zyFeSe3ttrjcXeFFskP1) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc), [Xizoh](https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:13 | 2025-09-22 | 2026-08-07 |
 | [Afreketê](https://open.spotify.com/track/6KG9pXyveLUvV1ff5iuAAe) | [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Meu Santo É Forte](https://open.spotify.com/album/5Wl3slNLngCEEmoziB0GzP) | 3:12 | 2022-07-01 | 2022-08-13 |
 | [Air Force](https://open.spotify.com/track/2YxwuexC6MmXq1MzLrGMNR) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv) | [Air Force](https://open.spotify.com/album/4aW8csEPx6r1p4CFnlPpFD) | 2:24 | 2023-04-28 | 2023-06-24 |
 | [Alvo](https://open.spotify.com/track/3fu29XDWtWRxc78fJ7Lc54) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [DSR](https://open.spotify.com/artist/79TTYxMKrND5NcKFUbpuTQ) | [Alvo](https://open.spotify.com/album/40kVaqAwkXZqex3ZNkcVoD) | 1:34 | 2025-08-01 | 2025-08-30 |
@@ -153,6 +153,7 @@
 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 | 2023-09-22 | 2023-10-14 |
 | [Gamadona](https://open.spotify.com/track/6LiFJolwT0NIa0YMRrmRgG) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo), [PS](https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68) | [Gamadona](https://open.spotify.com/album/6DoLETGyvHHQekJP7gSkME) | 2:32 | 2023-09-15 | 2023-10-21 |
 | [Gin de Bandida é Pink](https://open.spotify.com/track/0tBVXXrtKmQvQ9n8Xic77b) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v) | [Gin de Bandida é Pink](https://open.spotify.com/album/76RT6Lsmx1YXYYHi7teHtZ) | 2:28 | 2025-06-20 | 2026-02-21 |
+| [Giragrana Girabala](https://open.spotify.com/track/0mWnU1xmvl0bChWsOEPiXz) | [Exódia Entertainment](https://open.spotify.com/artist/02rQVYHzAkTYPZv6koV920), [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE), [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Khamarinha](https://open.spotify.com/artist/1aWWrG0LM53V1ilVsiFAFI) | [Vai Tomando Mixtape Vol\. 2](https://open.spotify.com/album/5CVFSp03s0SahVsMJHnG22) | 2:19 | 2026-08-07 |  |
 | [Girlgang](https://open.spotify.com/track/6b9BbNiHZkmGCXkSzTls5I) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Girlgang](https://open.spotify.com/album/2YCY4UZq39Q6IXI1wJBrBJ) | 3:55 | 2022-03-11 | 2023-06-24 |
 | [Gloss da Fenty](https://open.spotify.com/track/0DjukObSYMD9NkhKJlB01i) | [ADH4RAA](https://open.spotify.com/artist/5b6HkQI2FG6VyL7ZnK9t1e), [Ayla On The Beat](https://open.spotify.com/artist/6k595dcIJDVjfgANp2VgTV), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Gloss da Fenty](https://open.spotify.com/album/6CeFh6CSzKy1bc26R0155q) | 2:30 | 2022-08-12 | 2022-10-27 |
 | [Glossy](https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Glossy](https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp) | 2:31 | 2022-03-11 | 2024-10-08 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Misia Furtak",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Wiktor Walig\u00f3ra, Lor",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 170006,
       "name": "(mo\u017ce) ta\u0144cz",
       "url": "https://open.spotify.com/track/1ikaGBgbhYAOcTbIp9Zt3T"
+    },
+    {
+      "album": {
+        "name": "zosta\u0144/wyjd\u017a",
+        "url": "https://open.spotify.com/album/54HXHeIDjOU8wbcbHXudBz"
+      },
+      "artists": [
+        {
+          "name": "duszno",
+          "url": "https://open.spotify.com/artist/2utOsBf2Kzg9lYHKSMxClB"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "10 mieczy",
+      "url": "https://open.spotify.com/track/7kf7gulETpZkOubCt7D7pA"
     },
     {
       "album": {
@@ -306,7 +324,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 207179,
       "name": "7 DNI",
       "url": "https://open.spotify.com/track/5sfQ2NYOevDSpcschuMbmH"
@@ -1309,6 +1327,32 @@
     },
     {
       "album": {
+        "name": "JEZU CHRYSTE KUBI",
+        "url": "https://open.spotify.com/album/7zL2CHSVPxPpviqfJaL8wu"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Coals",
+          "url": "https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik"
+        },
+        {
+          "name": "Drabusheyka",
+          "url": "https://open.spotify.com/artist/0UiOIZotAQMcX2gNa6aflH"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "BATALIJA8",
+      "url": "https://open.spotify.com/track/5xUUs9aNoOCGYeBB7eI3Yr"
+    },
+    {
+      "album": {
         "name": "BATMOBIL",
         "url": "https://open.spotify.com/album/3BoiHzHgWNGedutj8DqYDy"
       },
@@ -1671,6 +1715,28 @@
     },
     {
       "album": {
+        "name": "bez ciebie",
+        "url": "https://open.spotify.com/album/0FvXGWc2NK5USUqILWpdL7"
+      },
+      "artists": [
+        {
+          "name": "zofia justy\u0144ska",
+          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
+        },
+        {
+          "name": "Kuba Folwarczny",
+          "url": "https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216714,
+      "name": "bez ciebie",
+      "url": "https://open.spotify.com/track/3Pfn5Rl7XmzhXiMaHWmreY"
+    },
+    {
+      "album": {
         "name": "To dopiero pocz\u0105tek",
         "url": "https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak"
       },
@@ -1890,7 +1956,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 178013,
       "name": "Bezpa\u0144skie psy",
       "url": "https://open.spotify.com/track/7cXyLtoD4AbRgu8JhzlZEx"
@@ -2406,7 +2472,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 163250,
       "name": "Bogawoko",
       "url": "https://open.spotify.com/track/4NZwwiSUY6XOqygzshND5Q"
@@ -3288,7 +3354,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 247121,
       "name": "Ca\u0142y ten zam\u0119t",
       "url": "https://open.spotify.com/track/1rhHaQHHvChTk0qLAtKLVE"
@@ -4630,7 +4696,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 189260,
       "name": "Co Z Tego?",
       "url": "https://open.spotify.com/track/2trKj0KxpBzB4cqpevuTch"
@@ -6171,6 +6237,24 @@
     },
     {
       "album": {
+        "name": "DOM\u00d3WKI",
+        "url": "https://open.spotify.com/album/4swvEJOb7IQJJJEj6pnMwd"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "DOM\u00d3WKI",
+      "url": "https://open.spotify.com/track/6P2a95GqnTr80Ii85GhroI"
+    },
+    {
+      "album": {
         "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
         "url": "https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE"
       },
@@ -7328,7 +7412,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 241686,
       "name": "euforia",
       "url": "https://open.spotify.com/track/71LYnd5tkjDOnffCRaMSbm"
@@ -8645,6 +8729,24 @@
     },
     {
       "album": {
+        "name": "Halina",
+        "url": "https://open.spotify.com/album/2GtZYIsuWOhl4Jwxa2WkbK"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230547,
+      "name": "Halina",
+      "url": "https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb"
+    },
+    {
+      "album": {
         "name": "halo",
         "url": "https://open.spotify.com/album/2nWczIlFcj8omcIQMKtLoe"
       },
@@ -9332,7 +9434,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 164166,
       "name": "I KILKA KROPEL",
       "url": "https://open.spotify.com/track/479GwVBlAErWagNxZCFZD9"
@@ -13628,7 +13730,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 226260,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/13HoInPNP9y7ric9rHdmKo"
@@ -18249,6 +18351,32 @@
     },
     {
       "album": {
+        "name": "Niebezpiecznie blisko",
+        "url": "https://open.spotify.com/album/7ueSHvLnXngeVemG0w90CU"
+      },
+      "artists": [
+        {
+          "name": "EWA KOC",
+          "url": "https://open.spotify.com/artist/1ORJEbjXzkBVFzUmxFEa7E"
+        },
+        {
+          "name": "B\u0142a\u017cej Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
+        },
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195205,
+      "name": "Niebezpiecznie blisko",
+      "url": "https://open.spotify.com/track/1CsQGQAf37ajcJf3Qf3BnK"
+    },
+    {
+      "album": {
         "name": "Niebieski kwiat",
         "url": "https://open.spotify.com/album/44h1q8A5zKIIMwci75xPJK"
       },
@@ -20183,6 +20311,24 @@
     },
     {
       "album": {
+        "name": "OSTATNIA PIOSENKA KUBY",
+        "url": "https://open.spotify.com/album/4RUXcCyaPAKtlod5L8Vgau"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129725,
+      "name": "OSTATNIA PIOSENKA KUBY",
+      "url": "https://open.spotify.com/track/6hIjJGhJ4fdXeLjC7WLT7X"
+    },
+    {
+      "album": {
         "name": "Ostatnie",
         "url": "https://open.spotify.com/album/50bgloJFexhFH0LijSJaL0"
       },
@@ -21840,6 +21986,24 @@
       "duration_ms": 185531,
       "name": "Pogotowie Ratunkowe",
       "url": "https://open.spotify.com/track/1WEqNgVV5euHjTNi4T4Yc1"
+    },
+    {
+      "album": {
+        "name": "Pogubi\u0142em cz\u0119\u015bci od zestawu",
+        "url": "https://open.spotify.com/album/35EwQ7n9ozBBlG3nCqOM22"
+      },
+      "artists": [
+        {
+          "name": "J\u0119drzej Wise",
+          "url": "https://open.spotify.com/artist/6OhvvOofPPDksfUkjcKgsC"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159111,
+      "name": "Pogubi\u0142em cz\u0119\u015bci od zestawu",
+      "url": "https://open.spotify.com/track/4IZ7SOY7Md1ubSemBAaT7k"
     },
     {
       "album": {
@@ -24647,6 +24811,24 @@
     },
     {
       "album": {
+        "name": "Serce",
+        "url": "https://open.spotify.com/album/0RoAEyk8KTUmU7UsvqVtMt"
+      },
+      "artists": [
+        {
+          "name": "W\u0119\u017ce",
+          "url": "https://open.spotify.com/artist/1HjJ1TjM0fXh0ufEpX1M9B"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174659,
+      "name": "Serce",
+      "url": "https://open.spotify.com/track/7FA68tvy842ZsswkWUu24P"
+    },
+    {
+      "album": {
         "name": "Serce kruche",
         "url": "https://open.spotify.com/album/2IU8OeXn6tOtKI6wZWgdqU"
       },
@@ -25490,7 +25672,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 210612,
       "name": "Spokojnie",
       "url": "https://open.spotify.com/track/0mPbVsJebmlSOvWcb1Ui2j"
@@ -25984,6 +26166,24 @@
       "duration_ms": 147524,
       "name": "STUBIEGUNOWA",
       "url": "https://open.spotify.com/track/7EWDFQCls8PKYLT79gZNzl"
+    },
+    {
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb"
+      },
+      "artists": [
+        {
+          "name": "Basia Ma\u0142ecka",
+          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141984,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw"
     },
     {
       "album": {
@@ -27595,6 +27795,28 @@
     },
     {
       "album": {
+        "name": "Terapia dla par",
+        "url": "https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        },
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241395,
+      "name": "Terapia dla par",
+      "url": "https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc"
+    },
+    {
+      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/4dJ2hFA5G9c1Dp3myfQxCY"
       },
@@ -28570,7 +28792,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 301465,
       "name": "Trzy jab\u0142ka",
       "url": "https://open.spotify.com/track/3hJurUosg3ArOuxCr50CPX"
@@ -32334,7 +32556,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 159456,
       "name": "ZACHODY",
       "url": "https://open.spotify.com/track/4vtS1OvvKn2vOpbcvy3aOd"

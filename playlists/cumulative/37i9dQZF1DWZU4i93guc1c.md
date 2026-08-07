@@ -2,9 +2,9 @@
 
 ### [інді](https://open.spotify.com/playlist/37i9dQZF1DWZU4i93guc1c)
 
-> новинки українського андерґраунду\. обкладинка: Олександр Положинський, Sasha Chemerov, Hidden Element
+> новинки українського андерґраунду\. обкладинка: LOVERA BREAUX
 
-834 songs - 1 day 19 hr 23 min
+837 songs - 1 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Far Away](https://open.spotify.com/track/5IRursPgldv65RH5RmsBvM) | [Keay](https://open.spotify.com/artist/2HLvWnuUDbB4wNQaLLwbud) | [Far Away](https://open.spotify.com/album/3bRuPUVSR04U8GCAapZRlD) | 2:58 | 2026-03-13 | 2026-04-24 |
 | [fata Morgana](https://open.spotify.com/track/2rE7qaovc7l4a423BH3bAQ) | [Nesamovyta](https://open.spotify.com/artist/2QDQwTdMmYzoJ4N0taK2Bn) | [fata Morgana](https://open.spotify.com/album/5OiWvwpnpo5H5nlDOdI85s) | 3:06 | 2026-04-23 | 2026-05-27 |
 | [First Try](https://open.spotify.com/track/55ugYWXINRLFqJZj7hCtnf) | [Fuji Moodji](https://open.spotify.com/artist/1TG11OIiavZKVfRxVr5Tyo) | [First Try](https://open.spotify.com/album/618x2WIyUq7xfRTaRABOae) | 2:39 | 2025-10-23 | 2025-11-07 |
-| [FUMARI](https://open.spotify.com/track/21u68StzZhhMmCkJoW5fi4) | [ПОМАДА](https://open.spotify.com/artist/47ETHCjdTeekfjD80ug1fz), [rockceleba](https://open.spotify.com/artist/2zIJrrIF5e6bAFcgkLJkcW) | [FUMARI](https://open.spotify.com/album/0NJOaGIwB53kjJPmI3YJXs) | 2:23 | 2026-07-30 |  |
+| [FUMARI](https://open.spotify.com/track/21u68StzZhhMmCkJoW5fi4) | [ПОМАДА](https://open.spotify.com/artist/47ETHCjdTeekfjD80ug1fz), [rockceleba](https://open.spotify.com/artist/2zIJrrIF5e6bAFcgkLJkcW) | [FUMARI](https://open.spotify.com/album/0NJOaGIwB53kjJPmI3YJXs) | 2:23 | 2026-07-30 | 2026-08-07 |
 | [GLASSS](https://open.spotify.com/track/30SrM2TjL9vyUFt6WqoBj6) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [GLASSS](https://open.spotify.com/album/42Z92EsFfUt3t50KYWiOBn) | 2:54 | 2024-06-27 | 2025-01-03 |
 | [Hard skill бути біч](https://open.spotify.com/track/3uPPTH0yU6YgBA1vLlcXln) | [ТУЧА](https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ) | [Hard skill бути біч](https://open.spotify.com/album/4rLK1p8yKySn2LL7fkIzxL) | 2:27 | 2025-05-30 | 2025-08-29 |
 | [HATER](https://open.spotify.com/track/7CpDEbTXpxRbfp6SZ5wBmR) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [HATER](https://open.spotify.com/album/1uPuo61SqbXvbmq6wl98SC) | 3:15 | 2025-11-20 | 2026-05-29 |
@@ -103,7 +103,8 @@
 | [The Great Summer Drift](https://open.spotify.com/track/0jHCQ6HZsJzh3LECf6JO9i) | [Postman](https://open.spotify.com/artist/4kwVz5t29LHssXEXQqfFHE) | [The Great Summer Drift](https://open.spotify.com/album/3bTuSm7VlgLotjOJow6ihM) | 3:56 | 2025-01-02 | 2025-01-25 |
 | [Thin Ice](https://open.spotify.com/track/4sjNlqIcIxPb1Jr3COXDHh) | [DANIEL OKARO](https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI), [Tenseoh](https://open.spotify.com/artist/14vpmZpC4vslI3cGUa7IOq) | [Thin Ice](https://open.spotify.com/album/3zFhYUZr2B8kPiyhb0fyRA) | 2:57 | 2026-04-02 | 2026-05-05 |
 | [TIRED OF ME](https://open.spotify.com/track/0EurmNTrZzwhy5q03RLM2u) | [DANIEL OKARO](https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI) | [TIRED OF ME](https://open.spotify.com/album/6ozmnbCjaJrScOACN4bewn) | 2:30 | 2026-06-11 | 2026-07-10 |
-| [trust me boy](https://open.spotify.com/track/3tXLFIXO7zkFDXe49yFtRf) | [vladislava melis](https://open.spotify.com/artist/2gEcWv6TRsyk1J7RGdWZnU) | [trust me boy](https://open.spotify.com/album/4eP05BRKa5VDgoLdamXvKS) | 2:31 | 2026-07-16 |  |
+| [Track 2](https://open.spotify.com/track/7m3YpXDVFI0Zo0yAOg09D8) | [D016](https://open.spotify.com/artist/4MPDfqNMUkYAG0APA0R9gV) | [Вулиці](https://open.spotify.com/album/2mteJd53cKAOm2ZiKTxwIr) | 0:00 | 2026-08-06 |  |
+| [trust me boy](https://open.spotify.com/track/3tXLFIXO7zkFDXe49yFtRf) | [vladislava melis](https://open.spotify.com/artist/2gEcWv6TRsyk1J7RGdWZnU) | [trust me boy](https://open.spotify.com/album/4eP05BRKa5VDgoLdamXvKS) | 2:31 | 2026-07-16 | 2026-08-07 |
 | [TV](https://open.spotify.com/track/26YIBj1jzDDduwlOmhgv1f) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD) | [TV](https://open.spotify.com/album/0C7ONMoxtbn9bJmEQlx1vw) | 3:07 | 2025-09-16 | 2025-10-26 |
 | [Ulamok](https://open.spotify.com/track/5Wm2I4VYOXyxSjo1LBSSRT) | [Fuji Moodji](https://open.spotify.com/artist/1TG11OIiavZKVfRxVr5Tyo) | [Ulamok](https://open.spotify.com/album/2eUNPft2luNCUP0AFPfbPh) | 2:30 | 2024-10-04 | 2024-11-08 |
 | [Until](https://open.spotify.com/track/0oDUBHMlo7DY9Fmos3Kv1N) | [Karoon](https://open.spotify.com/artist/4flrwqSTqk2O8a9KMfkLu7) | [Until](https://open.spotify.com/album/2FaQZJskP9kUTeUuzoSiK8) | 4:02 | 2026-04-02 | 2026-04-27 |
@@ -364,7 +365,7 @@
 | [Крапки](https://open.spotify.com/track/2HZPl4Vz3VaX2YkD8KrTIH) | [U2U](https://open.spotify.com/artist/5x7IAINB3M3qYkFSmteGv2) | [Крапки](https://open.spotify.com/album/5DV4tLX2dIJoAyQjTtKInh) | 2:30 | 2024-10-04 | 2024-10-19 |
 | [Краще ніж тепер ніколи не було II](https://open.spotify.com/track/45w8xMimDEyqWE9PgNXNv7) | [Джозерс](https://open.spotify.com/artist/6vGzPITjy7QcOKdqfGGOpZ) | [Магнум опус](https://open.spotify.com/album/1mNnVly336faJz03f5ypvk) | 3:02 | 2025-11-06 | 2025-12-03 |
 | [крига](https://open.spotify.com/track/5SfbIKHUMO1f1lTOTHyaN9) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [крига](https://open.spotify.com/album/3xrdwbsn8sCNSLUZRkifnG) | 3:24 | 2024-12-06 | 2025-06-07 |
-| [крила](https://open.spotify.com/track/5ItAZJP3aetz6JrVL3uhaj) | [aaura](https://open.spotify.com/artist/5Xp9qIkaQPgq3EVWNe46BU) | [це все у тебе в голові](https://open.spotify.com/album/6tvv6lHxoeaeQ1yZXAvNB4) | 2:48 | 2026-07-30 |  |
+| [крила](https://open.spotify.com/track/5ItAZJP3aetz6JrVL3uhaj) | [aaura](https://open.spotify.com/artist/5Xp9qIkaQPgq3EVWNe46BU) | [це все у тебе в голові](https://open.spotify.com/album/6tvv6lHxoeaeQ1yZXAvNB4) | 2:48 | 2026-07-30 | 2026-08-07 |
 | [Крихке](https://open.spotify.com/track/2oyV2tCliQBv1R1oEep21K) | [Lady Aphina](https://open.spotify.com/artist/63lQTmareR1ET7G6nAW45j) | [Крихке Ч.2](https://open.spotify.com/album/17PmSijo967LXBxw7Rhujx) | 5:11 | 2025-12-09 | 2026-01-17 |
 | [кричу](https://open.spotify.com/track/6U6aJfWvRWd3NH5sWHrUWq) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB) | [кричу](https://open.spotify.com/album/0JlwNaMDZRM5RxbWK3IRmn) | 3:39 | 2024-11-07 | 2024-12-22 |
 | [Кров і сніг](https://open.spotify.com/track/1vWP1xBjEVKCJWQ0MhPepy) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Кров і сніг](https://open.spotify.com/album/1jsy5rUiIjmKFx1N8X2tWA) | 2:39 | 2025-03-03 | 2025-10-24 |
@@ -608,7 +609,7 @@
 | [Пітьма](https://open.spotify.com/track/5QhuDLiMJKl6dlTg5DerRq) | [Ann Kovtun](https://open.spotify.com/artist/6JdwWVgnkKfh2MSRkwSxAU) | [Пітьма](https://open.spotify.com/album/5bzIROsyOL4WPhuaXzwQTW) | 2:40 | 2025-10-23 | 2025-11-07 |
 | [Пішак](https://open.spotify.com/track/5i4J0Wx6lMDp0zLy0OU4Aw) | [Intermezzo](https://open.spotify.com/artist/6BSuzS2Q1E75dXsghaVNHf) | [Пішак](https://open.spotify.com/album/48cFt2mOEUxbJBXhWeORqX) | 2:19 | 2025-03-03 | 2025-10-24 |
 | [Пішли на секонд](https://open.spotify.com/track/6ZzQUUZXFgiWJysOwzZpv4) | [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Пішли на секонд](https://open.spotify.com/album/4GQfa63ghCM0f34i0z3cry) | 2:59 | 2024-06-27 | 2024-07-13 |
-| [Ранок](https://open.spotify.com/track/1so87XUwmb0CHGmajeLfYK) | [Max Paragraph](https://open.spotify.com/artist/4C9jXTOhCkwYVDqiBChvSA) | [Десь тут](https://open.spotify.com/album/4pheAhPV1vcr1Vh39Apnux) | 3:01 | 2026-07-23 |  |
+| [Ранок](https://open.spotify.com/track/1so87XUwmb0CHGmajeLfYK) | [Max Paragraph](https://open.spotify.com/artist/4C9jXTOhCkwYVDqiBChvSA) | [Десь тут](https://open.spotify.com/album/4pheAhPV1vcr1Vh39Apnux) | 3:01 | 2026-07-23 | 2026-08-07 |
 | [Ранок](https://open.spotify.com/track/0iPbnBBXnXbcqw542maTUn) | [Max Paragraph](https://open.spotify.com/artist/4C9jXTOhCkwYVDqiBChvSA) | [Ранок](https://open.spotify.com/album/0Sl5JvrgqTqzyQbzbWaqui) | 3:02 | 2026-05-28 | 2026-06-26 |
 | [Реклама](https://open.spotify.com/track/5hA90cnJfM4FRgmrQKyICO) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [ПРИЧИННО\-НАСЛІДКОВИЙ ЗВ’ЯЗОК](https://open.spotify.com/album/1iCZ28ON3XO233X70l8hbv) | 2:18 | 2025-06-30 | 2025-09-17 |
 | [рефрен](https://open.spotify.com/track/7nnWvXg9fed7eoNpdGZHM6) | [Marbi](https://open.spotify.com/artist/0EAg6iEtVRLV0H53UsZf1l) | [рефрен](https://open.spotify.com/album/5B8mMQEPIUO5jbpUWqNwtY) | 2:55 | 2025-06-06 | 2025-06-10 |
@@ -618,6 +619,7 @@
 | [Роздуми](https://open.spotify.com/track/0G7QcBY4Jl2o4oGPPWVUOO) | [Luna Rozza](https://open.spotify.com/artist/4w2yzPw0xWs7HtZIKLTDok) | [Роздуми](https://open.spotify.com/album/5WwOd1HyZhPKxZYYDhmApm) | 2:24 | 2026-01-16 | 2026-04-10 |
 | [Роздуми на ніч](https://open.spotify.com/track/0WnBMXZOqg0UwyzYUKlhso) | [Mark Greider](https://open.spotify.com/artist/5uFQX3xS7WcnexP5lH91eJ) | [Роздуми на ніч](https://open.spotify.com/album/2pFEzgMbUY2RjkCtvCf41S) | 2:41 | 2026-07-09 | 2026-07-29 |
 | [Розкажи](https://open.spotify.com/track/3BhuaEGo03BsJoFsgBXSLr) | [Small Depo](https://open.spotify.com/artist/1vAwJEaIiAJ6i0K0E3Yp7X) | [Пригоди](https://open.spotify.com/album/2RiC7qVK0pf3cmVTBF3bTx) | 3:35 | 2026-06-25 |  |
+| [Розкажи мені про біль](https://open.spotify.com/track/5WPP4fHd4FsgbGexTN1j1V) | [Luna Rozza](https://open.spotify.com/artist/4w2yzPw0xWs7HtZIKLTDok) | [Розкажи мені про біль](https://open.spotify.com/album/3Q3k96DFzhsBeFR2zIi2Bi) | 1:47 | 2026-08-06 |  |
 | [Розкопаю](https://open.spotify.com/track/28mttpA8jI9LBI02HFsPGB) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [Розкопаю](https://open.spotify.com/album/0vd8BgPyinr2FTj1zUQCqd) | 3:48 | 2025-05-30 | 2025-06-25 |
 | [ролі](https://open.spotify.com/track/3K6K3mCDRZLV6tuPleb0In) | [bye bye july](https://open.spotify.com/artist/20mYcBchxR5u5UKAbu2jc5) | [ролі](https://open.spotify.com/album/6pux6el7yiKX57T877N1vl) | 2:57 | 2026-05-28 | 2026-07-06 |
 | [Романтика](https://open.spotify.com/track/3nlgdgM7NyqGMYjx0EQHAp) | [Микола Серпень](https://open.spotify.com/artist/0jaj5KueBn1OqYwpfBX4e2) | [Романтика](https://open.spotify.com/album/1WpNN9kMlhsHkWwyBPAn55) | 2:45 | 2025-06-19 | 2025-07-01 |
@@ -671,7 +673,7 @@
 | [соу хард](https://open.spotify.com/track/32Oyx638kXMoRNBKSdZiQO) | [headachee](https://open.spotify.com/artist/7FLnr6jif4euepPlgGtaJZ) | [соу хард](https://open.spotify.com/album/5688l4cRpxYTiwighTs0gR) | 3:13 | 2026-05-22 |  |
 | [Сповідь у кімнаті де нікого нема](https://open.spotify.com/track/4KMcorAzZy8tIvs6zm7mkE) | [Hruntkovskyy](https://open.spotify.com/artist/6R7pSTxJz7tsbu4x2ug9cw) | [Сповідь у кімнаті де нікого нема](https://open.spotify.com/album/4gx2vCrFYcZTIRUz8iyHKE) | 4:44 | 2026-07-16 | 2026-07-31 |
 | [спокуслива](https://open.spotify.com/track/68KvH33avv12vQopmu3EdG) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [спокуслива](https://open.spotify.com/album/2ylnLPDS2p7uuX4bJg1wFT) | 2:22 | 2026-05-22 |  |
-| [спокій \(в грудях\)](https://open.spotify.com/track/6jhC41ou7xl2hBzd1a4qiw) | [Berliner Döner](https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72) | [спокій \(в грудях\)](https://open.spotify.com/album/3lXkQMqPdlAkH53BFtKm9P) | 2:00 | 2026-02-27 | 2026-07-31 |
+| [спокій \(в грудях\)](https://open.spotify.com/track/6jhC41ou7xl2hBzd1a4qiw) | [Berliner Döner](https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72) | [спокій \(в грудях\)](https://open.spotify.com/album/3lXkQMqPdlAkH53BFtKm9P) | 2:00 | 2026-02-27 |  |
 | [Спокій і віра](https://open.spotify.com/track/1ySceEcpbHHTjUI4PJVmO5) | [Luna Rozza](https://open.spotify.com/artist/4w2yzPw0xWs7HtZIKLTDok) | [Спокій і віра](https://open.spotify.com/album/63Vp8ttaNipprhsTqYFEIn) | 1:53 | 2025-12-09 | 2026-01-15 |
 | [Спокійно так](https://open.spotify.com/track/6v1RD5haDZQ0bX7S4uKeTp) | [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd), [drumkid](https://open.spotify.com/artist/7jzPNwEtRJWiN9gXjDZZ4O) | [Спокійно так](https://open.spotify.com/album/3Fj1QogKrwKkAgJM2OJb7f) | 2:53 | 2024-10-04 | 2024-10-19 |
 | [Спочатку було Слово](https://open.spotify.com/track/5OeWN69Qzwd3pzpy6802Ot) | [МУР](https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3) | [Ти \[Романтика\]](https://open.spotify.com/album/5iPSAtJk05Zfa8Mpitd0Af) | 4:01 | 2024-06-27 | 2025-05-17 |
@@ -698,6 +700,7 @@
 | [ТАК НАБАГАТО КРАЩЕ](https://open.spotify.com/track/6ouCHu3DOH1QeAAX398xu7) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [ЕЛЛІ](https://open.spotify.com/album/4oaR18MBeoYxrLPtlWIofo) | 2:21 | 2025-01-02 | 2025-01-25 |
 | [Так ніжно](https://open.spotify.com/track/41rQGeONHiocYIGRpB5Aqv) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [Так ніжно](https://open.spotify.com/album/0IXqSPTUJRzNsQNDigCvSw) | 3:04 | 2025-04-11 | 2025-11-21 |
 | [Так треба](https://open.spotify.com/track/3wxd0D7222kokTcR4OJuAo) | [Intermezzo](https://open.spotify.com/artist/6BSuzS2Q1E75dXsghaVNHf) | [Так треба](https://open.spotify.com/album/24xg8ywBxuX9k5iVGAjNe0) | 2:25 | 2026-05-22 | 2026-07-10 |
+| [так треба](https://open.spotify.com/track/37rfhj0QPDlz2x4EHrF0Sc) | [RENAE](https://open.spotify.com/artist/0Nwb3i580myQC1oxYSpv48) | [так треба](https://open.spotify.com/album/2WuUQ5xQgrbcwS2e6IfFOS) | 4:48 | 2026-08-06 |  |
 | [так холодно](https://open.spotify.com/track/6s4VWZGv5CWSyzv5Ms2WY1) | [sweettanok](https://open.spotify.com/artist/4LRfFXdtGaKDH1r8BtEOzn) | [так холодно](https://open.spotify.com/album/3gTXootfy9ySCGaaKtOysx) | 3:10 | 2026-04-02 | 2026-04-10 |
 | [Така як ти](https://open.spotify.com/track/3Z52mfneFJdUjq5xJV29qY) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [Така як ти](https://open.spotify.com/album/2j2oH0jQfdIyfXZ4ZnvDYp) | 3:51 | 2024-06-27 | 2024-07-16 |
 | [Там, де зникають сліди](https://open.spotify.com/track/4A53rAPieSZpOntfcwCaKn) | [туди\-сюди і смерть](https://open.spotify.com/artist/6PnFs3tKw82t1j8q5bxrzK) | [Там, де зникають сліди](https://open.spotify.com/album/42iSPBEv84GRXSn2cXSPL5) | 2:54 | 2025-01-02 | 2025-12-10 |

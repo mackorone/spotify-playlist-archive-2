@@ -2,7 +2,7 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Dimitri Vegas & Like Mike x Marlon Hoffstadt au top des bangers dance/electro du moment !
+> HUGEL au top des bangers dance/electro du moment !
 
 379 songs - 17 hr 30 min
 

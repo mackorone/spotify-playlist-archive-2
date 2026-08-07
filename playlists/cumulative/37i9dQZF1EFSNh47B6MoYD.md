@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-184 songs - 11 hr 21 min
+187 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Chispas De Cristal \- \(Sparks\)](https://open.spotify.com/track/5RNfTTqBM37GKCdY9nyH6Z) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Paulina Goto](https://open.spotify.com/album/0NhF58Y8SePmenXKvFgcBL) | 4:14 | 2023-03-09 |  |
 | [Cinco Minutos](https://open.spotify.com/track/44LkNS92E9gVfS3KCCgk5R) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/4VzxQe0r3lY0JZ5edFaHli) | 3:27 | 2023-03-09 |  |
 | [Como Hubiera Sido?](https://open.spotify.com/track/362tHCKRvCWmcYEdSsHG1E) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:40 | 2023-03-09 |  |
-| [Con Tal de Que No Te Vays \- En Vivo](https://open.spotify.com/track/2jXmAvQ6AEXS0EDMaTkCgK) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:06 | 2023-03-09 |  |
+| [Con Tal de Que No Te Vays \- En Vivo](https://open.spotify.com/track/2jXmAvQ6AEXS0EDMaTkCgK) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:06 | 2023-03-09 | 2026-08-07 |
+| [Con Tal Que No Te Vayas](https://open.spotify.com/track/6Q2i6mZbuZtmyfzU45Y6zE) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:13 | 2026-08-06 |  |
 | [Conectando \(Conectando\)](https://open.spotify.com/track/2ikhylgjcAPjpHyVGgm56W) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:35 | 2023-03-09 |  |
 | [Confusion](https://open.spotify.com/track/36pswvlcWQRiX3cLaxgQUp) | [Alejandro Jaen](https://open.spotify.com/artist/6xPjI2hVO8pvwgMzRAB3zu) | [Latidos](https://open.spotify.com/album/2eEuNELgeEZDmzynb9OhBN) | 4:17 | 2023-06-25 |  |
 | [Confusion](https://open.spotify.com/track/3Cn465p5QvS8ejN9dvjNEK) | [Alejandro Jaen](https://open.spotify.com/artist/6xPjI2hVO8pvwgMzRAB3zu) | [Latidos](https://open.spotify.com/album/7ByPgCeLr9JF4UHd3WwjgE) | 4:17 | 2023-03-09 | 2023-06-26 |
@@ -68,7 +69,8 @@
 | [Day Off](https://open.spotify.com/track/4DPm3fwhtVEPgnaRPzeITn) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Darnos Un Dia / Day Off](https://open.spotify.com/album/4D8wKDXGORK7h46dvi57pZ) | 4:04 | 2023-12-13 |  |
 | [Day Off](https://open.spotify.com/track/3HV9EPgIUq0SM4NZfJvBHs) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Darnos Un Dia / Day Off](https://open.spotify.com/album/6EM4z696J7abauiSw0RtXZ) | 4:04 | 2023-03-09 | 2023-12-14 |
 | [Demasiado Frágiles](https://open.spotify.com/track/2yA56Cz8BOhx8HjhW8UxSH) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:47 | 2023-03-09 |  |
-| [Desde Siempre \- En Vivo](https://open.spotify.com/track/4W9TrGS7HAFkYTTLN6XNDv) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:34 | 2023-03-09 |  |
+| [Desde Siempre](https://open.spotify.com/track/5MYcupvftFz3c9ZCETH65A) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:27 | 2026-08-06 |  |
+| [Desde Siempre \- En Vivo](https://open.spotify.com/track/4W9TrGS7HAFkYTTLN6XNDv) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:34 | 2023-03-09 | 2026-08-07 |
 | [Desliga A Luz](https://open.spotify.com/track/2nYgS1eh6jp4rs2Q05ybcU) | [Celso Fonseca](https://open.spotify.com/artist/4zanHFwOXpPRKMMk3qUuHu), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Turning Point](https://open.spotify.com/album/5iFeJsiYedyhtcefzuNMyE) | 4:09 | 2023-03-09 |  |
 | [Despacito](https://open.spotify.com/track/6OIFsi2ov9nSjRrnJWVZIM) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Let There Be Cello](https://open.spotify.com/album/1tqitQVdu4ygSsO5AABG3F) | 2:27 | 2023-03-09 |  |
 | [Despacito](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:49 | 2023-03-09 |  |
@@ -111,7 +113,8 @@
 | [Leyenda](https://open.spotify.com/track/4WD5qhphbuOYEBCAbhepUM) | [Patricia Manterola](https://open.spotify.com/artist/7qGVAYNNMun6Qf3jTkTGmf) | [Leyenda](https://open.spotify.com/album/69EwBY59m5ReVz9WXWGEol) | 3:36 | 2023-03-09 |  |
 | [Luna Nueva](https://open.spotify.com/track/0n2WdWPe5mGO8uUFfBJQ7h) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:04 | 2023-03-09 |  |
 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 | 2023-03-09 |  |
-| [Masoquista \- En Vivo](https://open.spotify.com/track/7FPk7aYGKSTY3J1peYHvQm) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:01 | 2023-03-09 |  |
+| [Masoquista](https://open.spotify.com/track/25l6LDYlbcIbcaN9Orsly6) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:58 | 2026-08-06 |  |
+| [Masoquista \- En Vivo](https://open.spotify.com/track/7FPk7aYGKSTY3J1peYHvQm) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:01 | 2023-03-09 | 2026-08-07 |
 | [Mañana Es Muy Tarde](https://open.spotify.com/track/7ktVgQqSv1WacAf0KEym73) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Dentro Y Fuera](https://open.spotify.com/album/6kwCKTwZI1wgBQZzK2NKAf) | 3:45 | 2023-03-09 | 2026-02-06 |
 | [Mañana Es Muy Tarde](https://open.spotify.com/track/6gCshvTwSJQ5OCds0Wz1mQ) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Dentro y Fuera](https://open.spotify.com/album/0GYcWDzC9RSXhmtNoC1RS2) | 3:45 | 2026-02-05 |  |
 | [Me Acostumbré](https://open.spotify.com/track/5CwUFUPT1tUU8cGCSkOD1j) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:24 | 2023-03-09 |  |

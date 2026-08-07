@@ -1,12 +1,12 @@
 {
   "description": "the songs behind all your crushes.",
-  "num_followers": 367775,
+  "num_followers": 367794,
   "original_name": "Boo Thang <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHMli0DEGgrKBufrxUl5wHmm8geb",
+  "snapshot_id": "AAAAAIHT10uUQE24QrPgjX8GA9kd0pNk",
   "tracks": [
     {
       "added_at": "2026-07-24 05:47:24",
@@ -43,6 +43,26 @@
       "duration_ms": 226666,
       "name": "Secondhand (feat. Rema)",
       "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
+    },
+    {
+      "added_at": "2026-08-07 01:42:50",
+      "album": {
+        "name": "Overthink (feat. Elmiene)",
+        "url": "https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 207082,
+      "name": "Overthink (feat. Elmiene)",
+      "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
     },
     {
       "added_at": "2026-06-19 04:01:55",

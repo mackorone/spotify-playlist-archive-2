@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 255607,
       "name": "El Mortadela",
       "url": "https://open.spotify.com/track/6DVcS98mQ3nXbDXJ4VkGnM"
@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 212265,
       "name": "Endecha espa\u00f1ola",
       "url": "https://open.spotify.com/track/33KGSfwbsaeTLsv9aD4NzD"
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 213529,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/7EnuokVtN9AS3pPnoTgEhe"
@@ -2849,6 +2849,28 @@
     },
     {
       "album": {
+        "name": "Gatos y ratones",
+        "url": "https://open.spotify.com/album/1UBulR0vfYsHz7n3xA8CR6"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Lucia Fumero",
+          "url": "https://open.spotify.com/artist/0NKTji2dtMilrWkrrtUsoJ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204490,
+      "name": "Gatos y ratones",
+      "url": "https://open.spotify.com/track/7DmWmRbgJO3zuuHjJZohL4"
+    },
+    {
+      "album": {
         "name": "30 a\u00f1os",
         "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
@@ -3002,6 +3024,24 @@
       "duration_ms": 225266,
       "name": "Hablame del Mar, Marinero",
       "url": "https://open.spotify.com/track/4V5WoW97fMrwGqI8B7XM7R"
+    },
+    {
+      "album": {
+        "name": "Helicrisum",
+        "url": "https://open.spotify.com/album/4jrnCscEUsX2iDWEoBhTDw"
+      },
+      "artists": [
+        {
+          "name": "Kiko Veneno",
+          "url": "https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234936,
+      "name": "Helicrisum",
+      "url": "https://open.spotify.com/track/2u7ZGeYkCjZDQ5wNR3ivKM"
     },
     {
       "album": {
@@ -3594,7 +3634,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 216996,
       "name": "la misma piedra",
       "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
@@ -4216,7 +4256,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 172625,
       "name": "LOS TERCOS",
       "url": "https://open.spotify.com/track/2lMt8E70EGDUoxFODGSY1Z"
@@ -4394,6 +4434,28 @@
       "duration_ms": 242991,
       "name": "Manuelita la Tortuga",
       "url": "https://open.spotify.com/track/2YK2dM2bGi8spBKaKmmKtN"
+    },
+    {
+      "album": {
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/5Q6VasPiPlTtJBjswQiLQ7"
+      },
+      "artists": [
+        {
+          "name": "Josemi Carmona",
+          "url": "https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh"
+        },
+        {
+          "name": "Chabuco",
+          "url": "https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306896,
+      "name": "Marta Delirio",
+      "url": "https://open.spotify.com/track/3slRURaZEbbAT1YGWzvqEY"
     },
     {
       "album": {
@@ -4796,6 +4858,24 @@
       "duration_ms": 195308,
       "name": "Morna (con Buika)",
       "url": "https://open.spotify.com/track/09g1iDhRyOiK9q8yyTnw93"
+    },
+    {
+      "album": {
+        "name": "Mujer verano",
+        "url": "https://open.spotify.com/album/2mmPxDQaKXi1soZMQNip9Z"
+      },
+      "artists": [
+        {
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216978,
+      "name": "Mujer verano",
+      "url": "https://open.spotify.com/track/03rIkwO4y1bYM9uRjcRxZR"
     },
     {
       "album": {
@@ -5304,7 +5384,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 133650,
       "name": "Nos entendemos",
       "url": "https://open.spotify.com/track/3xdOGgUU9n2H0GHPDkIeiD"
@@ -6322,7 +6402,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 237760,
       "name": "Risk",
       "url": "https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg"
@@ -7503,6 +7583,28 @@
     },
     {
       "album": {
+        "name": "TODO O NADA (feat. Bunbury)",
+        "url": "https://open.spotify.com/album/0VLPByInwnBNttWEeo68XC"
+      },
+      "artists": [
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208046,
+      "name": "TODO O NADA (feat. Bunbury)",
+      "url": "https://open.spotify.com/track/3CJFWQ1WNZhZWOsYvYG3lQ"
+    },
+    {
+      "album": {
         "name": "Todo ocurri\u00f3 de pie",
         "url": "https://open.spotify.com/album/7yOAs2VelstGs5Fr8Xd9s8"
       },
@@ -8278,6 +8380,32 @@
       "duration_ms": 199917,
       "name": "Zamba para Mi Padre",
       "url": "https://open.spotify.com/track/7yeasJCqoIBQ2UMZLbdDIW"
+    },
+    {
+      "album": {
+        "name": "Zamba para Pepe",
+        "url": "https://open.spotify.com/album/0tLAGtejnU3xsBUuiNzM7a"
+      },
+      "artists": [
+        {
+          "name": "Rosa Le\u00f3n",
+          "url": "https://open.spotify.com/artist/03ukvtQJzZmG7CEOmnkoMW"
+        },
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        },
+        {
+          "name": "Alejo Stivel",
+          "url": "https://open.spotify.com/artist/7mGfdRd3PB4mRMPymFQM7n"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208248,
+      "name": "Zamba para Pepe",
+      "url": "https://open.spotify.com/track/0hGzExq44KnWPwByV5KQTw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR?si=be4f643eccaa4571\">Solana</a>. Artwork: Isu Kim. ",
-  "num_followers": 25546,
+  "num_followers": 25558,
   "original_name": "Fresh Finds Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN3mIUSzP5VNNgNpAnklnun7ZuDA",
+  "snapshot_id": "AAAAAKM0G5GxQAcpB49l3I1Ejn4yqBY3",
   "tracks": [
     {
       "added_at": "2026-08-04 22:00:30",
@@ -111,6 +111,26 @@
       "duration_ms": 169500,
       "name": "Idols",
       "url": "https://open.spotify.com/track/1dpxa8jGgUG8Dug4jgNkj4"
+    },
+    {
+      "added_at": "2026-08-05 11:35:17",
+      "album": {
+        "name": "Flights & Feelings",
+        "url": "https://open.spotify.com/album/1F1MZkajWWayqRJ72eoe28"
+      },
+      "artists": [
+        {
+          "name": "Loding",
+          "url": "https://open.spotify.com/artist/1dP3pwRjgmPMCxvVxgbC00"
+        },
+        {
+          "name": "Akuvi",
+          "url": "https://open.spotify.com/artist/41VbuWKdlHSsk8By8pA68h"
+        }
+      ],
+      "duration_ms": 249821,
+      "name": "Flights & Feelings",
+      "url": "https://open.spotify.com/track/4tydcHNL8MdaEsPlWLfvR2"
     },
     {
       "added_at": "2026-08-04 22:00:30",

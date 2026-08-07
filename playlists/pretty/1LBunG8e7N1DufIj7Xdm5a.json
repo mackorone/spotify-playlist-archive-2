@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJissaSWJl+txy/Wl9dxxz7ImPF92T",
+  "snapshot_id": "AAAJjmsSSxd7FD+eDyCz8PTmQdxzBwbe",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -76099,6 +76099,70 @@
       "duration_ms": 244243,
       "name": "If Love Could Touch",
       "url": "https://open.spotify.com/track/5w9YhAAVMcaOYqrlP8NyyO"
+    },
+    {
+      "added_at": "2026-08-06 16:08:22",
+      "album": {
+        "name": "Venom Era",
+        "url": "https://open.spotify.com/album/4v10iyNKix3Sn7tHL934di"
+      },
+      "artists": [
+        {
+          "name": "Cobra queen",
+          "url": "https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc"
+        }
+      ],
+      "duration_ms": 205061,
+      "name": "Venom Era",
+      "url": "https://open.spotify.com/track/4BxCmLkY01OrdmwCRRGj1x"
+    },
+    {
+      "added_at": "2026-08-06 21:35:47",
+      "album": {
+        "name": "LOADSTONE (SINGOLO)",
+        "url": "https://open.spotify.com/album/1Cx5pyhdifjYwPVZESXdJT"
+      },
+      "artists": [
+        {
+          "name": "yogyety",
+          "url": "https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "LOADSTONE - SINGOLO",
+      "url": "https://open.spotify.com/track/2yLJnJl5fZWU1r5AUkNiBl"
+    },
+    {
+      "added_at": "2026-08-06 21:37:53",
+      "album": {
+        "name": "YOGYETY & AI",
+        "url": "https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd"
+      },
+      "artists": [
+        {
+          "name": "yogyety",
+          "url": "https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST"
+        }
+      ],
+      "duration_ms": 239879,
+      "name": "OPEN AND CLOSE YOURSELF",
+      "url": "https://open.spotify.com/track/2FxLjv7GfqP0csK1Xc5Br3"
+    },
+    {
+      "added_at": "2026-08-06 21:38:23",
+      "album": {
+        "name": "BLACK STAR (SINGOLO)",
+        "url": "https://open.spotify.com/album/6DrwTjhBvwsIpDHGdGRUdi"
+      },
+      "artists": [
+        {
+          "name": "yogyety",
+          "url": "https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "BLACK STAR - SINGOLO",
+      "url": "https://open.spotify.com/track/7In4JGEpZPLTyuckV69bBV"
     }
   ],
   "unique_name": "playlist spotify free",

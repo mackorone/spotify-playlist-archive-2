@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Corridos de Arranque",
+        "url": "https://open.spotify.com/album/79RUrWQpAipr8jRffhK4Ez"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167906,
+      "name": "La Discusion Fue Una Yegua",
+      "url": "https://open.spotify.com/track/0m0zyyyNNEKXPWSkzU3SHm"
+    },
+    {
+      "album": {
         "name": "Las Preferidas",
         "url": "https://open.spotify.com/album/6WMgRGeyY0tW3paVhjw1ne"
       },
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 197137,
       "name": "Nave 727",
       "url": "https://open.spotify.com/track/3kBjPjdwPhRn1qn7OI4gJl"

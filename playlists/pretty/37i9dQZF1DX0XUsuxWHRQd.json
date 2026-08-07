@@ -1,12 +1,12 @@
 {
   "description": "Music from Lil Baby,  Rod Wave and Cardi B.",
-  "num_followers": 15611576,
+  "num_followers": 15609859,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGAj5wTrWZD9xCuXoHUlmjf6Qg8u",
+  "snapshot_id": "AAAAAPf05N0Rk2m/jxLgQivBnFEYIklG",
   "tracks": [
     {
       "added_at": "2026-08-04 20:40:51",
@@ -163,6 +163,26 @@
       "duration_ms": 204377,
       "name": "One of Them (with Future & Lil Baby)",
       "url": "https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M"
+    },
+    {
+      "added_at": "2026-08-06 04:00:26",
+      "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ni**as In Paris",
+      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
     },
     {
       "added_at": "2026-08-04 20:40:51",

@@ -1,12 +1,12 @@
 {
   "description": "lost in a haze",
-  "num_followers": 179808,
+  "num_followers": 179828,
   "original_name": "dazed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB3qNDPMTa7XTuzo87Nq9smux001",
+  "snapshot_id": "AAAAAB6ybECGKVy7VVo5f4rRYA3PzI3P",
   "tracks": [
     {
       "added_at": "2025-11-13 16:46:16",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 386626,
+      "name": "Next Lifetime",
+      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
         "name": "NIGHT OFF",
         "url": "https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 173445,
       "name": "NIGHT OFF",
       "url": "https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 386626,
-      "name": "Next Lifetime",
-      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
     },
     {
       "added_at": "2025-11-13 16:46:16",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "Since Winona",
-        "url": "https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK"
-      },
-      "artists": [
-        {
-          "name": "Alex Banin",
-          "url": "https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz"
-        }
-      ],
-      "duration_ms": 149527,
-      "name": "Doc Whiler",
-      "url": "https://open.spotify.com/track/2xkib9MAHlGtxJRhIesSAX"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 181290,
       "name": "Gave You My All",
       "url": "https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "Since Winona",
+        "url": "https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK"
+      },
+      "artists": [
+        {
+          "name": "Alex Banin",
+          "url": "https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz"
+        }
+      ],
+      "duration_ms": 149527,
+      "name": "Doc Whiler",
+      "url": "https://open.spotify.com/track/2xkib9MAHlGtxJRhIesSAX"
     },
     {
       "added_at": "2025-11-13 16:46:16",

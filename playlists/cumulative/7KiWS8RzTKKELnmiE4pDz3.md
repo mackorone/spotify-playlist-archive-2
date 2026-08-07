@@ -4,7 +4,7 @@
 
 > 
 
-1,537 songs - 3 day 11 hr 2 min
+1,538 songs - 3 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -899,6 +899,7 @@
 | [NEVEREVER](https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:24 | 2022-11-18 | 2023-05-09 |
 | [New Drank](https://open.spotify.com/track/3icILkEkTKNPaPQ5usTbsw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [New Drank](https://open.spotify.com/album/0tQDck9jmRmZNuXh1j3wJI) | 1:28 | 2022-09-01 | 2023-05-09 |
 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM) | 2:10 | 2024-02-26 | 2024-11-06 |
+| [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/6dc1efEhnYMzVwz05VY4ZP) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:10 | 2026-08-06 |  |
 | [New Man Theme](https://open.spotify.com/track/7EBL70qWPF2ufiF9UbL9Eo) | [Mr\. Lif](https://open.spotify.com/artist/6qbtuhThjXYnpldXCczlDd) | [I Phantom](https://open.spotify.com/album/5EfbptW3itd44wEY7joR1g) | 3:23 | 2025-08-25 | 2026-03-08 |
 | [New Seal](https://open.spotify.com/track/5w5EkYQ3pxcFiQPw3SGdDl) | [Kankan](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:33 | 2025-05-30 | 2026-03-08 |
 | [New Semi](https://open.spotify.com/track/6ekOd6GLZJ3PZwyMmbZVGY) | [Slimesito](https://open.spotify.com/artist/1qIl64lvKUWBbNRuUOImVh) | [New Semi](https://open.spotify.com/album/3gEdxJx0fDwv40orvc784Y) | 2:19 | 2023-01-07 | 2023-05-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 282248,
+  "num_followers": 282307,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJXHIsYOfiN5q10i5/7iEAnkUTkr",
+  "snapshot_id": "AAAAAOMAiXgTj/hxyhp5OCaiP6UnB8SY",
   "tracks": [
     {
       "added_at": "2026-06-19 03:00:24",
@@ -515,26 +515,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "No me sale",
-        "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
-      },
-      "artists": [
-        {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
-        },
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "No me sale",
-      "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "El \u00daltimo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 251724,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "No me sale",
+        "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        },
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "No me sale",
+      "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Te extra\u00f1o",
-      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Hecho con Amor",
         "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 225293,
       "name": "Cosas Del Amor",
       "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1179,18 +1179,26 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Vete de Mi Lado",
-        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
+        "name": "VAS A VOLVER",
+        "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
       },
       "artists": [
         {
-          "name": "Los Chakales",
-          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
         }
       ],
-      "duration_ms": 187533,
-      "name": "Vete de Mi Lado",
-      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
+      "duration_ms": 144666,
+      "name": "VAS A VOLVER",
+      "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1215,6 +1223,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "Vete de Mi Lado",
+        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
+      },
+      "artists": [
+        {
+          "name": "Los Chakales",
+          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Vete de Mi Lado",
+      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "Te Sigo Queriendo",
         "url": "https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK"
       },
@@ -1227,30 +1251,6 @@
       "duration_ms": 177533,
       "name": "Esa Malvada",
       "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "VAS A VOLVER",
-        "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Fauna Music",
-          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "VAS A VOLVER",
-      "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1395,34 +1395,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Cosa del destino",
-        "url": "https://open.spotify.com/album/4pXhJqAV2hwuU3PkcTNTgA"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 177491,
-      "name": "Cosa del destino",
-      "url": "https://open.spotify.com/track/2v6l9O89F5xGMUq5sr4Kph"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
       },
@@ -1455,6 +1427,34 @@
       "duration_ms": 149420,
       "name": "T\u00fa, la m\u00e1s bella - En Vivo",
       "url": "https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Cosa del destino",
+        "url": "https://open.spotify.com/album/4pXhJqAV2hwuU3PkcTNTgA"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 177491,
+      "name": "Cosa del destino",
+      "url": "https://open.spotify.com/track/2v6l9O89F5xGMUq5sr4Kph"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "Como Duele / Tu Presa / Te Vas A Arrepentir",
+        "url": "https://open.spotify.com/album/7MI2qYvaIGpT4F9pWQ6qwa"
+      },
+      "artists": [
+        {
+          "name": "El Mago Y La Nueva",
+          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
+        },
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 457596,
+      "name": "Como Duele/ Tu Presa/ Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/1HP2lOzVbv8WHUT6IIgYCf"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "PRELUDIOS (EN VIVO)",
         "url": "https://open.spotify.com/album/06iXtfYHxTVepSLWT467Wq"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 242277,
       "name": "Paso la Vida Pensando",
       "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "Como Duele / Tu Presa / Te Vas A Arrepentir",
-        "url": "https://open.spotify.com/album/7MI2qYvaIGpT4F9pWQ6qwa"
-      },
-      "artists": [
-        {
-          "name": "El Mago Y La Nueva",
-          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
-        },
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 457596,
-      "name": "Como Duele/ Tu Presa/ Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/1HP2lOzVbv8WHUT6IIgYCf"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
+        "url": "https://open.spotify.com/album/6sdJVuMEJlJOWP7rrLISiQ"
+      },
+      "artists": [
+        {
+          "name": "Sentimiento Urbano",
+          "url": "https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx"
+        }
+      ],
+      "duration_ms": 341607,
+      "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
+      "url": "https://open.spotify.com/track/0OMfOqr4eQOvpJRJoLcrdC"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "Date cuenta",
         "url": "https://open.spotify.com/album/6N2L9L69osVQXss8wjojYN"
       },
@@ -1823,22 +1839,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
-        "url": "https://open.spotify.com/album/6sdJVuMEJlJOWP7rrLISiQ"
-      },
-      "artists": [
-        {
-          "name": "Sentimiento Urbano",
-          "url": "https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx"
-        }
-      ],
-      "duration_ms": 341607,
-      "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
-      "url": "https://open.spotify.com/track/0OMfOqr4eQOvpJRJoLcrdC"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Coraz\u00f3n de Madera",
         "url": "https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj"
       },
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Mi Primer Amor",
-        "url": "https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj"
+        "name": "Anochecemos",
+        "url": "https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj"
       },
       "artists": [
         {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 188286,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
+      "duration_ms": 204145,
+      "name": "Anochecemos",
+      "url": "https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Anochecemos",
-        "url": "https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj"
+        "name": "Mi Primer Amor",
+        "url": "https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
         }
       ],
-      "duration_ms": 204145,
-      "name": "Anochecemos",
-      "url": "https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu"
+      "duration_ms": 188286,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
     }
   ],
   "unique_name": "Cumbia y Romance",

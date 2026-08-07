@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Mack Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,884 likes - 1,126 songs - 2 day 19 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,880 likes - 1,126 songs - 2 day 19 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 30 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 |
 | 31 | [Piranha \- Spotify Singles](https://open.spotify.com/track/749eY2PXdJ96QdBAvqximN) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:21 |
 | 32 | [Mad World \- Spotify Singles](https://open.spotify.com/track/4MsgGn3ah2QHZ1NOvzd8BN) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Mad World \(Spotify Singles\)](https://open.spotify.com/album/2gv828jRAviPsx5wN4RlGT) | 3:25 |
-| 33 | [When You're Around \(Acoustic Version\) \- Spotify Singles](https://open.spotify.com/track/7682OOOJFeRG57G0z43yT1) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [Mad World \(Spotify Singles\)](https://open.spotify.com/album/2gv828jRAviPsx5wN4RlGT) | 3:16 |
+| 33 | [When You're Around \(Acoustic Version\) \- Spotify Singles](https://open.spotify.com/track/7682OOOJFeRG57G0z43yT1) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [Mad World \(Spotify Singles\)](https://open.spotify.com/album/2gv828jRAviPsx5wN4RlGT) | 3:16 |
 | 34 | [Headlock \- Spotify Singles](https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Headlock \- Spotify Singles](https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG) | 3:40 |
 | 35 | [All My Love \- Spotify Singles](https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [All My Love \- Spotify Singles](https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a) | 3:44 |
 | 36 | [Rose Colored Lenses \- Spotify Singles](https://open.spotify.com/track/02LXCJevN92Y5fNeWYhmKU) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Rose Colored Lenses \- Spotify Singles](https://open.spotify.com/album/6JMCCR5BJyr7wAqWFkfwWN) | 2:23 |
@@ -1135,4 +1135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 1125 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 1126 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `AAAAAFNCw6fHSi11kNMcbN07ApM1hVud`
+Snapshot ID: `AAAAAKBw3+gcBqtSVy+Kaazsll9aF5FD`

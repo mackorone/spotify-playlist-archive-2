@@ -308,10 +308,28 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 200061,
       "name": "Bloodshot",
       "url": "https://open.spotify.com/track/1QAH5HMnoDt76yBNpLUsHo"
+    },
+    {
+      "album": {
+        "name": "Warplanes",
+        "url": "https://open.spotify.com/album/4gRHkiOgkz3whV2wvuNrPt"
+      },
+      "artists": [
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200061,
+      "name": "Bloodshot",
+      "url": "https://open.spotify.com/track/72SQbtwyjWOsHQn0CCXrkh"
     },
     {
       "album": {

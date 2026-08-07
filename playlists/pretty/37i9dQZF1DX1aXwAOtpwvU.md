@@ -2,31 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:14RpuKZYyyikmsRU3zPoWz">maks.tachasiuk</a>
+> Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:3IQIVYEmRr7wZnEqpSjfV5">Zaleś</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,337 likes - 117 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,345 likes - 117 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Zły, najgorszy sen](https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Wieje](https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap) | 4:13 |
-| 2 | [NIGHT OUT](https://open.spotify.com/track/2I0d5mI7uU4NqJJ9uD9fmK) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Ironic?](https://open.spotify.com/album/6H1ou0W0EZl6JO6CyjU8Df) | 2:32 |
-| 3 | [PARANOJA](https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [PARANOJA](https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz) | 1:56 |
-| 4 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 |
-| 5 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |
-| 6 | [GlowUp](https://open.spotify.com/track/1Mi6JxECW3FyPpWVzxrxP6) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Glitch](https://open.spotify.com/album/4SVBHo8owk0YwvxiP9SJpa) | 2:36 |
+| 1 | [GlowUp](https://open.spotify.com/track/1Mi6JxECW3FyPpWVzxrxP6) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Glitch](https://open.spotify.com/album/4SVBHo8owk0YwvxiP9SJpa) | 2:36 |
+| 2 | [SAJGON](https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [SAJGON](https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw) | 2:00 |
+| 3 | [Zły, najgorszy sen](https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Wieje](https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap) | 4:13 |
+| 4 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |
+| 5 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 |
+| 6 | [ZIEMIA\_ARDHI](https://open.spotify.com/track/7e6kfmfl84bOdlUeg80CYp) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [Timone](https://open.spotify.com/artist/5arjvbDpl6pfPCJK3FTGVy) | [ELEMENTY](https://open.spotify.com/album/6dBtBtn9rCuRMDGvl7H8ES) | 2:57 |
 | 7 | [dziwne dzieciaki z klasy](https://open.spotify.com/track/4P2HJdPFSEIdTlwEd46s18) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [dziwne dzieciaki z klasy](https://open.spotify.com/album/6Vils2GYNmXvjQyWPhBwlB) | 1:51 |
-| 8 | [Grand Soir](https://open.spotify.com/track/0MEH9MHfX1JK9hzY4V37L5) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Grand Soir](https://open.spotify.com/album/0sOFx440hbrLgfNsP0tKnV) | 2:13 |
-| 9 | [Echo Echo](https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Echo Echo](https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI) | 2:13 |
-| 10 | [ZIEMIA\_ARDHI](https://open.spotify.com/track/7e6kfmfl84bOdlUeg80CYp) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [Timone](https://open.spotify.com/artist/5arjvbDpl6pfPCJK3FTGVy) | [ELEMENTY](https://open.spotify.com/album/6dBtBtn9rCuRMDGvl7H8ES) | 2:57 |
-| 11 | [TRESURA](https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [TRESURA](https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ) | 3:10 |
-| 12 | [Miodowe lata](https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Miodowe lata](https://open.spotify.com/album/2KXbj2rHdMkluZn7EEy78C) | 3:31 |
-| 13 | [go away](https://open.spotify.com/track/0c8UUrqrsUfql9iePiWgJf) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [go away](https://open.spotify.com/album/3rNtQybTNSNta1VTFdGo5V) | 1:59 |
-| 14 | [rozlałam mleko](https://open.spotify.com/track/6OpN6R8X0L1MMihWmTIM6M) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [rozlałam mleko](https://open.spotify.com/album/5tQIR5LXvAU32BBy8ken46) | 3:10 |
-| 15 | [Szkło](https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7) | [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [Szkło](https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA) | 4:02 |
-| 16 | [UMIAR](https://open.spotify.com/track/7LVt9ME7UO97V0ys2jLq0D) | [Szaran](https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG), [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [UMIAR](https://open.spotify.com/album/633aOhMKpVxIqZfHVtBRI8) | 2:42 |
-| 17 | [Widzę Cię](https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Widzę Cię](https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL) | 2:23 |
-| 18 | [NASA](https://open.spotify.com/track/4iFIvFP6aYf9luSL2ToG7R) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [NASA](https://open.spotify.com/album/2TDnSI84aFkmUPBl7mrLfF) | 2:24 |
-| 19 | [SAJGON](https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [SAJGON](https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw) | 2:00 |
+| 8 | [Miodowe lata](https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Miodowe lata](https://open.spotify.com/album/2KXbj2rHdMkluZn7EEy78C) | 3:31 |
+| 9 | [Grand Soir](https://open.spotify.com/track/0MEH9MHfX1JK9hzY4V37L5) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Grand Soir](https://open.spotify.com/album/0sOFx440hbrLgfNsP0tKnV) | 2:13 |
+| 10 | [NIGHT OUT](https://open.spotify.com/track/2I0d5mI7uU4NqJJ9uD9fmK) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Ironic?](https://open.spotify.com/album/6H1ou0W0EZl6JO6CyjU8Df) | 2:32 |
+| 11 | [Echo Echo](https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Echo Echo](https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI) | 2:13 |
+| 12 | [PARANOJA](https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [PARANOJA](https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz) | 1:56 |
+| 13 | [TRESURA](https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [TRESURA](https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ) | 3:10 |
+| 14 | [go away](https://open.spotify.com/track/0c8UUrqrsUfql9iePiWgJf) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [go away](https://open.spotify.com/album/3rNtQybTNSNta1VTFdGo5V) | 1:59 |
+| 15 | [rozlałam mleko](https://open.spotify.com/track/6OpN6R8X0L1MMihWmTIM6M) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [rozlałam mleko](https://open.spotify.com/album/5tQIR5LXvAU32BBy8ken46) | 3:10 |
+| 16 | [Szkło](https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7) | [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [Szkło](https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA) | 4:02 |
+| 17 | [UMIAR](https://open.spotify.com/track/7LVt9ME7UO97V0ys2jLq0D) | [Szaran](https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG), [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [UMIAR](https://open.spotify.com/album/633aOhMKpVxIqZfHVtBRI8) | 2:42 |
+| 18 | [Widzę Cię](https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Widzę Cię](https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL) | 2:23 |
+| 19 | [NASA](https://open.spotify.com/track/4iFIvFP6aYf9luSL2ToG7R) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [NASA](https://open.spotify.com/album/2TDnSI84aFkmUPBl7mrLfF) | 2:24 |
 | 20 | [Strzęp](https://open.spotify.com/track/6hnA8UdDrxn2TRGj0j1Hb6) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Strzęp](https://open.spotify.com/album/2qj6Uo2Pwv55fvY12MrfD1) | 2:28 |
 | 21 | [Tysiące barw](https://open.spotify.com/track/1U52etcCYu7lxKyyGOPR0F) | [ALEX](https://open.spotify.com/artist/5KVFWwSsq50nyHGkbhzCMC), [Wuja HZG](https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj) | [Tysiące barw](https://open.spotify.com/album/0wLkOCe48ngpEqcQL0t118) | 2:48 |
 | 22 | [Brak tchu](https://open.spotify.com/track/40WAq4ke8fNkOMJKJQ8iQq) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Album Niebieski](https://open.spotify.com/album/6gnfCOxgVSV0qYQJWudBM0) | 3:31 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 116 | [jest ok](https://open.spotify.com/track/5DigAqqBPxlYVJ2bYJzPWk) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [xoxo](https://open.spotify.com/album/1fNZT5ZnzRafSraPgJlsDf) | 1:20 |
 | 117 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `AAAAALhaSJ08e3FAIKnWqRn6+9gtAuKl`
+Snapshot ID: `AAAAAKPmm0/RI6R0lf72ZHCjR42IW22I`

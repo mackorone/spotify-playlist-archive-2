@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ A curated space for the avant\-garde⋆ ˚₊‧⁺ Cover: 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,996 likes - 59 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,033 likes - 59 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 58 | [FENIAN](https://open.spotify.com/track/6vN9o849XOpOKbygIid6ck) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [FENIAN](https://open.spotify.com/album/0IAAsMXyI0xm8FkmsOJRh3) | 3:14 |
 | 59 | [WITH ME](https://open.spotify.com/track/7CEqlMvyAJGPNtaEdCNIOz) | [Paris Prestige](https://open.spotify.com/artist/5KJbpQbPAeUkb34K73J6Sj) | [WITH ME](https://open.spotify.com/album/6u2iRjHkKMCiJdpnkYyEsk) | 1:59 |
 
-Snapshot ID: `AAAAALYWDcC7Myd+RoJKOeM8zzIhlYd/`
+Snapshot ID: `AAAAAO1qTs6Oca/btJ05A6w3o44WFobA`

@@ -2207,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "MENINA VENENO",
+        "url": "https://open.spotify.com/album/1VDiXRgtgdHPfWIrEAKIft"
+      },
+      "artists": [
+        {
+          "name": "HOZE",
+          "url": "https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168107,
+      "name": "MENINA VENENO",
+      "url": "https://open.spotify.com/track/4RjyulOffxqkRxtPujLqQQ"
+    },
+    {
+      "album": {
         "name": "B-Sides G\u00eameos",
         "url": "https://open.spotify.com/album/1ef3KBKANvCTkDauRecAa5"
       },
@@ -3958,7 +3976,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 254208,
       "name": "Te Beijei",
       "url": "https://open.spotify.com/track/33w69xKoZqw9SZBjH0t8Mj"

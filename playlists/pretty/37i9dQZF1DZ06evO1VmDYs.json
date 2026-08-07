@@ -1,13 +1,29 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 204784,
+  "num_followers": 204829,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAAAFBcNIbeMoTyVbnWNAV71n",
+  "snapshot_id": "anJ9AAAAAACGD0ojMnQ7Ai86+h1wxeqI",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "C.E.O.",
+        "url": "https://open.spotify.com/album/02x4x22HOnv0j9Zk1FJpeY"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "C.E.O.",
+      "url": "https://open.spotify.com/track/6ZsVaTDPoRFCX9evH3x1U7"
+    },
     {
       "added_at": null,
       "album": {
@@ -807,22 +823,6 @@
       "duration_ms": 251160,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/3ovTVlWIAzB1XGG8dWPtFl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weezer (White Album)",
-        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Do You Wanna Get High?",
-      "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
     }
   ],
   "unique_name": "This Is Weezer",

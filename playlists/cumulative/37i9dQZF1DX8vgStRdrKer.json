@@ -4853,6 +4853,28 @@
     },
     {
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/4li2lNlTmWPKTLKz0droR8"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130190,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/26fP6qORAEPTbeKxLKGORh"
+    },
+    {
+      "album": {
         "name": "Gbe MI Fo",
         "url": "https://open.spotify.com/album/5mni80GkyGFuXKulEsBAj4"
       },
@@ -6516,7 +6538,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 198668,
       "name": "How Can I Forget?",
       "url": "https://open.spotify.com/track/5qKnVUFrx6xwuaPFs0eUhm"
@@ -7286,7 +7308,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 176841,
       "name": "I'M BLESSED",
       "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
@@ -10639,6 +10661,24 @@
     },
     {
       "album": {
+        "name": "My True Existence (Live)",
+        "url": "https://open.spotify.com/album/49pSWkhrwXSsNj92qVywg7"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1047500,
+      "name": "My True Existence - Live",
+      "url": "https://open.spotify.com/track/6scfzYWAB8xMxgCLL7RwZz"
+    },
+    {
+      "album": {
         "name": "My Whole Life",
         "url": "https://open.spotify.com/album/2GVp1qUB5P9slBXHkMMF2Z"
       },
@@ -13987,6 +14027,24 @@
     },
     {
       "album": {
+        "name": "Highly Lifted",
+        "url": "https://open.spotify.com/album/0lr2KKVfyzpkmoQkPccGtg"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319164,
+      "name": "Tasted",
+      "url": "https://open.spotify.com/track/0VSRo5qR7cP9PVtoFC9U3M"
+    },
+    {
+      "album": {
         "name": "Teach me how to love",
         "url": "https://open.spotify.com/album/6C9XTZaFlY4TKVX5Vywz7D"
       },
@@ -14664,6 +14722,28 @@
       "duration_ms": 230644,
       "name": "These Are The Days (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA"
+    },
+    {
+      "album": {
+        "name": "This Joy",
+        "url": "https://open.spotify.com/album/4W6pK9Jwm5Rt8WGXuZaMij"
+      },
+      "artists": [
+        {
+          "name": "God in This Music",
+          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
+        },
+        {
+          "name": "Seun Makay",
+          "url": "https://open.spotify.com/artist/6iTWmqUhTN5ig1UuD6lSQY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243692,
+      "name": "This Joy",
+      "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
     },
     {
       "album": {
@@ -15706,7 +15786,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 167561,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/3uGMVZsnoP9UZliJ2kDwtf"
@@ -16742,7 +16822,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 149126,
       "name": "YESU",
       "url": "https://open.spotify.com/track/54wWAAGkIHZG03JkcSd2cS"

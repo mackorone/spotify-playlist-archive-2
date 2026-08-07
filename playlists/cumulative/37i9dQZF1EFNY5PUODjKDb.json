@@ -343,6 +343,28 @@
     },
     {
       "album": {
+        "name": "Schumann: Kinderszenen / Musorgsky: Pictures at an Exhibition (Moiseiwitsch, Vol. 1) (1927-1945)",
+        "url": "https://open.spotify.com/album/4hYkH5LRgiPM4LpOlP02Ej"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Benno Moiseiwitsch",
+          "url": "https://open.spotify.com/artist/1ko1Fsk6bgIIkTleUcQ3ZA"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53200,
+      "name": "25 Variations & Fugue on a Theme by Handel, Op. 24: Variation 12 (Live)",
+      "url": "https://open.spotify.com/track/61BapWLG317nah335fIZ65"
+    },
+    {
+      "album": {
         "name": "Brahms: Piano works",
         "url": "https://open.spotify.com/album/77De17ZvWOOMu7ManEwX7E"
       },
@@ -358,7 +380,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 56040,
       "name": "25 Variations & Fugue on a Theme by Handel, Op. 24: Variation 12 (Live)",
       "url": "https://open.spotify.com/track/6YeWUBX3bbnO1b8EbHoDu8"
@@ -626,6 +648,28 @@
       "duration_ms": 38906,
       "name": "25 Variations & Fugue on a Theme by Handel, Op. 24: Variation 3 (Live)",
       "url": "https://open.spotify.com/track/6c7DbsUyUahSujPCl6yqYY"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano works",
+        "url": "https://open.spotify.com/album/77De17ZvWOOMu7ManEwX7E"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Peter Katin",
+          "url": "https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60493,
+      "name": "25 Variations & Fugue on a Theme by Handel, Op. 24: Variation 5 (Live)",
+      "url": "https://open.spotify.com/track/0tKo5AH5OgDp5I02xcm8n5"
     },
     {
       "album": {
@@ -3061,6 +3105,24 @@
     },
     {
       "album": {
+        "name": "Sun Sea Sand And Sex",
+        "url": "https://open.spotify.com/album/2hc70pKnMCKsgwXXyEhzD7"
+      },
+      "artists": [
+        {
+          "name": "First Class",
+          "url": "https://open.spotify.com/artist/4ndt8TW7IvdI3SPh0LBMHO"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293453,
+      "name": "Beach Baby",
+      "url": "https://open.spotify.com/track/5J74pF4Nn86qyLQihpkXq4"
+    },
+    {
+      "album": {
         "name": "Love Never Dies (Deluxe Version)",
         "url": "https://open.spotify.com/album/6RBcfW2vYvHmu3VIXM1W0D"
       },
@@ -3292,7 +3354,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 453360,
       "name": "Beneath a Moonless Sky",
       "url": "https://open.spotify.com/track/13DFFLSthsjaiF5Y2xR634"
@@ -14685,6 +14747,24 @@
     },
     {
       "album": {
+        "name": "No Apologies",
+        "url": "https://open.spotify.com/album/0UISQM8rfFrvje5Iu3VS4R"
+      },
+      "artists": [
+        {
+          "name": "Jim Vancleve",
+          "url": "https://open.spotify.com/artist/3X65bj5nJ6AUMp2hymccdR"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273800,
+      "name": "Nature Of The Beast",
+      "url": "https://open.spotify.com/track/3efIojh7mwV6CtZA8zUAIc"
+    },
+    {
+      "album": {
         "name": "Distant Perspective",
         "url": "https://open.spotify.com/album/29dwFoKl5WpwrMptc6qlDs"
       },
@@ -14696,7 +14776,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 198777,
       "name": "Nature of the Beast",
       "url": "https://open.spotify.com/track/2Fe8iBKx5wmRHw4R6pRS6P"
@@ -18558,7 +18638,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 209711,
       "name": "RECUERDOS",
       "url": "https://open.spotify.com/track/6PWteGtmyh7iAMQyRPIxmw"

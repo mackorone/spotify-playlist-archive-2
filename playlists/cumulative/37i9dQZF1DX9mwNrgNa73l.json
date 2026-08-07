@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Baadal",
+        "url": "https://open.spotify.com/album/6QcuBHjc2SUXPTYP6hwNRW"
+      },
+      "artists": [
+        {
+          "name": "Sajjad Ali",
+          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182052,
+      "name": "Baadal",
+      "url": "https://open.spotify.com/track/2rVbFEMTklg9usVUYL2xG5"
+    },
+    {
+      "album": {
         "name": "Balaghal-Ula Bi-Kamaalihi",
         "url": "https://open.spotify.com/album/45xKWqxlWWRdb3rk3jHjHz"
       },
@@ -1352,6 +1370,24 @@
       "duration_ms": 315793,
       "name": "Dil",
       "url": "https://open.spotify.com/track/2XiVM2X9nqh9tnPq37GhLo"
+    },
+    {
+      "album": {
+        "name": "Dilri Lutti",
+        "url": "https://open.spotify.com/album/0cXufxwLjYxfaxiMDQARta"
+      },
+      "artists": [
+        {
+          "name": "Awais Raza Nekokara",
+          "url": "https://open.spotify.com/artist/2SDTWdhn6ef8EV5ULeCQ7Q"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326275,
+      "name": "Dilri Lutti",
+      "url": "https://open.spotify.com/track/4TZkLEvtOMXgFLyQzX67WO"
     },
     {
       "album": {
@@ -3483,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "Payal",
+        "url": "https://open.spotify.com/album/7MNrBVw4NGm838YknNXi3a"
+      },
+      "artists": [
+        {
+          "name": "Akbar Ali",
+          "url": "https://open.spotify.com/artist/2gSKEcwiRau9vlGjkvLd7Z"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217816,
+      "name": "Payal",
+      "url": "https://open.spotify.com/track/2yAbeTGt83gjaTZQ6QaZ7p"
+    },
+    {
+      "album": {
         "name": "Khaled Anam",
         "url": "https://open.spotify.com/album/2K3TNBb3ETblTPmUAy2Izg"
       },
@@ -4518,6 +4572,24 @@
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
+    },
+    {
+      "album": {
+        "name": "Tere Ishq Nachaya",
+        "url": "https://open.spotify.com/album/0hUZf9KULmMjYe46Fime7V"
+      },
+      "artists": [
+        {
+          "name": "Usamasutra",
+          "url": "https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Tere Ishq Nachaya",
+      "url": "https://open.spotify.com/track/6u7NaI2LXXNkKN5eTV4tFx"
     },
     {
       "album": {

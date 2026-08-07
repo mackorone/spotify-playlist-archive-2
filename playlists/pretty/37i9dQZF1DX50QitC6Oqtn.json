@@ -1,12 +1,12 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3330803,
+  "num_followers": 3330417,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHpaINKCGiGXOa2QlAmS8cfMKD8N",
+  "snapshot_id": "AAAAACRDKP1iaBZjj8G9BKqZdhriQ7zy",
   "tracks": [
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Truly Madly Completely - The Best of Savage Garden",
+        "url": "https://open.spotify.com/album/5S4ycMpNlcTpLaO7u6mkkb"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "I Knew I Loved You",
+      "url": "https://open.spotify.com/track/68K0qD0VDqdm0eWXsGqnvM"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Slow Dance (feat. Ava Max)",
         "url": "https://open.spotify.com/album/3tnCAhqSU4V0EEgYnrTRuD"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 178799,
       "name": "Slow Dance (feat. Ava Max)",
       "url": "https://open.spotify.com/track/5FNS5Vj69AhRGJWjhrAd01"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Truly Madly Completely - The Best of Savage Garden",
-        "url": "https://open.spotify.com/album/5S4ycMpNlcTpLaO7u6mkkb"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "I Knew I Loved You",
-      "url": "https://open.spotify.com/track/68K0qD0VDqdm0eWXsGqnvM"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 174516,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Can I Be Him (Acoustic Live Version)",
         "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 305160,
       "name": "Can I Be Him - Acoustic Live Version",
       "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 174516,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG"
     },
     {
       "added_at": "2022-12-08 16:33:34",

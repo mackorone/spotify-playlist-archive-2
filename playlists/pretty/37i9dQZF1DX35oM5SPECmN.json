@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2100978,
+  "num_followers": 2100581,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP0oteVMn09Gf9cq8NrQuvWwhiIx",
+  "snapshot_id": "AAAAACvKEnonUW53GkX1VKry9+G+HfDw",
   "tracks": [
     {
       "added_at": "2024-07-05 20:00:34",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
+        "name": "No Earthly Sound",
+        "url": "https://open.spotify.com/album/5eVVVY0zVykT1hePDZFVMI"
+      },
+      "artists": [
+        {
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
+        }
+      ],
+      "duration_ms": 201338,
+      "name": "Make a Sound",
+      "url": "https://open.spotify.com/track/1Ap29R9m0UyLBH2uJHpcTy"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
         "name": "Reunions",
         "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 199721,
       "name": "Be Afraid",
       "url": "https://open.spotify.com/track/4YtvmIkKHaSBOv1VPmZf6p"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
-        "name": "No Earthly Sound",
-        "url": "https://open.spotify.com/album/5eVVVY0zVykT1hePDZFVMI"
-      },
-      "artists": [
-        {
-          "name": "Bruce Peninsula",
-          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
-        }
-      ],
-      "duration_ms": 201338,
-      "name": "Make a Sound",
-      "url": "https://open.spotify.com/track/1Ap29R9m0UyLBH2uJHpcTy"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Burn Too Bright",
-        "url": "https://open.spotify.com/album/77mrdHTeFaLXQTMfp2NliT"
-      },
-      "artists": [
-        {
-          "name": "Laura Veirs",
-          "url": "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
-        }
-      ],
-      "duration_ms": 179713,
-      "name": "Burn Too Bright",
-      "url": "https://open.spotify.com/track/7uAlJ3iZWFm8OlC7mtXHec"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
         "name": "Plague Dogs",
         "url": "https://open.spotify.com/album/1MNmfHP7XdVjerj8c2MX6m"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 251093,
       "name": "Plague Dogs",
       "url": "https://open.spotify.com/track/1foa5cCV8qYCtplg9P3sqV"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
+        "name": "Burn Too Bright",
+        "url": "https://open.spotify.com/album/77mrdHTeFaLXQTMfp2NliT"
+      },
+      "artists": [
+        {
+          "name": "Laura Veirs",
+          "url": "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
+        }
+      ],
+      "duration_ms": 179713,
+      "name": "Burn Too Bright",
+      "url": "https://open.spotify.com/track/7uAlJ3iZWFm8OlC7mtXHec"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
+      "duration_ms": 265920,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw"
     }
   ],
   "unique_name": "Run Wild",

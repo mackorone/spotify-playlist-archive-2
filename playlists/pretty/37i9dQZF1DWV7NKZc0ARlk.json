@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 266574,
+  "num_followers": 266611,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM/5TpoOHel4eUMwbXvGEAz6Zo/X",
+  "snapshot_id": "AAAAALvCNy6+QmyYAxN0JD3SoaRnRaDM",
   "tracks": [
     {
       "added_at": "2026-03-06 03:00:23",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Equivocada - Live Version",
+      "url": "https://open.spotify.com/track/4ToSegPTNl2894LRte8ice"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
         "name": "Tour Terral (Tres noches en Las Ventas)",
         "url": "https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Thalia En Primera Fila",
-        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Equivocada - Live Version",
-      "url": "https://open.spotify.com/track/4ToSegPTNl2894LRte8ice"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "La Guzm\u00e1n en Primera Fila",
         "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "La Duda (Primera fila) - En Vivo",
-      "url": "https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "La Duda (Primera fila) - En Vivo",
+      "url": "https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Celebrando a una Leyenda (En Vivo)",
-        "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor (feat. Rub\u00e9n Albarr\u00e1n) - En Vivo",
-      "url": "https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "Franco De Vita Vuelve en Primera Fila",
         "url": "https://open.spotify.com/album/2KwMBLrvM82Kxm18H5bxdw"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 250960,
       "name": "Te Pienso Sin Querer (feat. Gloria Trevi) - Vuelve en Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/2s1biIrO5DCMrqw3RoidGO"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
+        "name": "Celebrando a una Leyenda (En Vivo)",
+        "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor (feat. Rub\u00e9n Albarr\u00e1n) - En Vivo",
+      "url": "https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 190280,
       "name": "Te He Prometido (feat. Ricardo Montaner) - En Vivo",
       "url": "https://open.spotify.com/track/6LYOEpZALvazO2nUPwJatS"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Arde El Cielo",
-        "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "Mariposa Traicionera - En Vivo",
-      "url": "https://open.spotify.com/track/44lkeFeeuCevvpIeFlVIsu"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 255000,
       "name": "Si La Ves (feat. Noel Schajris & Leonel Garc\u00eda)",
       "url": "https://open.spotify.com/track/2HBo8LhUxBJBsxWaP6ePL3"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
+        "name": "Arde El Cielo",
+        "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "Mariposa Traicionera - En Vivo",
+      "url": "https://open.spotify.com/track/44lkeFeeuCevvpIeFlVIsu"
     },
     {
       "added_at": "2026-03-06 03:00:23",

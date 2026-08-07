@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 55410,
+  "num_followers": 55412,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAACH1SR1UStKWgT6G9KJQfov",
+  "snapshot_id": "anJ9AAAAAADn8jIh4IpsyS5XRpvxoJ0r",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sailor, Sail On",
-        "url": "https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 248136,
-      "name": "Sailor, Sail On",
-      "url": "https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u653e\u751f\u4f1a",
         "url": "https://open.spotify.com/album/37asoWjHlM134Da94j5kAc"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 183000,
       "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
       "url": "https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sailor, Sail On",
+        "url": "https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 248136,
+      "name": "Sailor, Sail On",
+      "url": "https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Heart",
-        "url": "https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 242250,
-      "name": "One Heart",
-      "url": "https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Go Wild / Miyao",
         "url": "https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 164267,
       "name": "Go Wild",
       "url": "https://open.spotify.com/track/7k0S7glb0p9AX7jj4a6w0J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Heart",
+        "url": "https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 242250,
+      "name": "One Heart",
+      "url": "https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh"
     },
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "koinosyadanki feat H ZETTRIO",
+      "url": "https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "wakage ga itaru",
         "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 195653,
       "name": "Pineapple Kryptonite",
       "url": "https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "koinosyadanki feat H ZETTRIO",
-      "url": "https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN"
     },
     {
       "added_at": null,
@@ -767,26 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freaks",
-        "url": "https://open.spotify.com/album/5Z2m5xN45b5OvINBkhaUBE"
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
       },
       "artists": [
         {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "Warren Hue",
-          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
         }
       ],
-      "duration_ms": 133802,
-      "name": "Freaks",
-      "url": "https://open.spotify.com/track/33uyQcKrKlGSOQSO3hrtpj"
+      "duration_ms": 259333,
+      "name": "saisyu jinrui",
+      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
     },
     {
       "added_at": null,
@@ -811,18 +803,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/5Z2m5xN45b5OvINBkhaUBE"
       },
       "artists": [
         {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
         }
       ],
-      "duration_ms": 259333,
-      "name": "saisyu jinrui",
-      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
+      "duration_ms": 133802,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/33uyQcKrKlGSOQSO3hrtpj"
     },
     {
       "added_at": null,

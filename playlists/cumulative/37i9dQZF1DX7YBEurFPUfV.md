@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Sanfara
 
-184 songs - 10 hr 31 min
+185 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [9adech Men Mara](https://open.spotify.com/track/0DuaftqTbS98lnbfiEJj5V) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [9adech Men Mara](https://open.spotify.com/album/14LPhzMvyamhLXzaGjltuR) | 2:30 | 2024-02-24 | 2025-06-17 |
 | [9anoun El Ghaba](https://open.spotify.com/track/5hfpH7uwzXEFZoAAKrJT55) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [9anoun El Ghaba](https://open.spotify.com/album/2YH2Uxm9bsfrTVndEyfgKb) | 3:42 | 2024-04-18 | 2025-02-28 |
 | [9anoun El Ghaba](https://open.spotify.com/track/7olqWoMSAEDBNHAFpr96YG) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [Ghram 2](https://open.spotify.com/album/71r5bb776Z9kz8Mizn9qa8) | 3:42 | 2024-02-24 | 2024-04-19 |
+| [A ce point](https://open.spotify.com/track/6R4IOjbkUhp6TqLFT424aC) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [A ce point](https://open.spotify.com/album/1GyTnZtOG9wD26lVIG99ZK) | 3:31 | 2026-08-06 |  |
 | [AADHEBI](https://open.spotify.com/track/7s9nG0WdN32wSuq5ccirMP) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [AADHEBI](https://open.spotify.com/album/4WZUH5GIOSKLuFPbFmbump) | 4:14 | 2024-08-05 | 2024-10-30 |
 | [Aayech Maak](https://open.spotify.com/track/5VPjeVY3wZ4m4q1e7Ch5NT) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Aayech Maak](https://open.spotify.com/album/6eUDSon2TBhuHzS2RWootc) | 3:45 | 2024-10-03 |  |
 | [Afyoun](https://open.spotify.com/track/66tu0r6bkZtGx6INuZTNG2) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Afyoun](https://open.spotify.com/album/7z1mJ0SuGHJOvdu7A280me) | 3:11 | 2024-05-29 | 2025-09-13 |
@@ -142,7 +143,7 @@
 | [Nsit Noum](https://open.spotify.com/track/6a7mYd9Iud4JIAwUvRQtSC) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 2:53 | 2024-11-07 |  |
 | [Ntir B3id](https://open.spotify.com/track/5LxeJ3R89aHSDzRBIwfUtE) | [DefAtiJam](https://open.spotify.com/artist/404Fvjzc9WqsFnsYmIznPn) | [Ntir B3id](https://open.spotify.com/album/2YnfqCqmIYoIpfkYQRez3g) | 3:10 | 2025-12-18 | 2026-01-15 |
 | [OKHTOOBOOT](https://open.spotify.com/track/1bcrgO5rwQXotNG8jopDNJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 2:53 | 2026-01-15 |  |
-| [OLA MAMACITA](https://open.spotify.com/track/177S2XhyAhcxsk3hakffJN) | [XIIVI](https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N), [$MXTI](https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO) | [OLA MAMACITA](https://open.spotify.com/album/5HaMYk2wii197932giANzQ) | 2:17 | 2026-07-16 |  |
+| [OLA MAMACITA](https://open.spotify.com/track/177S2XhyAhcxsk3hakffJN) | [XIIVI](https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N), [$MXTI](https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO) | [OLA MAMACITA](https://open.spotify.com/album/5HaMYk2wii197932giANzQ) | 2:17 | 2026-07-16 | 2026-08-07 |
 | [OLA MAMACITA](https://open.spotify.com/track/5ha4Kh8bZZVDZbF1GfbAte) | [XIIVI](https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N), [$MXTI](https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO) | [SOUND SHIFTA \(Vol\. 1\)](https://open.spotify.com/album/3OkS3vrMBiEHRYsclvuO1B) | 2:17 | 2026-08-03 |  |
 | [OMMA](https://open.spotify.com/track/6xWO3A8vPPOfEqqWeGWeaM) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [ZÉRO UN](https://open.spotify.com/album/0mj9I5TGwP77NT2rFhemlB) | 3:02 | 2026-02-13 |  |
 | [Oumouri](https://open.spotify.com/track/27KxDtFcRXU1fcnRk7nnPz) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Oumouri](https://open.spotify.com/album/1EqoJhmcKMFw1VeB1Ols5k) | 3:37 | 2024-04-25 | 2024-05-25 |

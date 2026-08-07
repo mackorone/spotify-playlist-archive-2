@@ -4,7 +4,7 @@
 
 > drinks em casa, nada melhor
 
-266 songs - 16 hr 16 min
+267 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Disco Yes](https://open.spotify.com/track/61Ivix5DTnDPVjp1dgLyov) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:40 | 2022-03-04 | 2022-11-17 |
 | [Don't Forget About Us \- KAYTRANADA Remix](https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Don't Forget About Us \(KAYTRANADA Remix\)](https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy) | 4:03 | 2025-04-11 | 2025-10-13 |
 | [Dontcha](https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Feel Good](https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D) | 3:21 | 2022-03-25 |  |
-| [Down to Love](https://open.spotify.com/track/1WJ96y5wT3gQdrDGXEU2ZP) | [Hot Toddy](https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW) | [Late Night Boogie](https://open.spotify.com/album/2FpLY1mr3pzDju1ujqRJbA) | 6:33 | 2022-03-25 |  |
+| [Down to Love](https://open.spotify.com/track/1WJ96y5wT3gQdrDGXEU2ZP) | [Hot Toddy](https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW) | [Late Night Boogie](https://open.spotify.com/album/2FpLY1mr3pzDju1ujqRJbA) | 6:33 | 2022-03-25 | 2026-08-07 |
 | [Dream](https://open.spotify.com/track/5GCrBPWKpgH4H3bLLnvWm7) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Dream](https://open.spotify.com/album/024Y1wPNxGBJBkpbNlPUny) | 4:39 | 2022-03-25 | 2022-04-18 |
 | [Drive](https://open.spotify.com/track/6DrnfOtSXRohVHbyVKPyWE) | [Dornik](https://open.spotify.com/artist/5LfhZDNwFPdXrVhlESBE7S) | [Dornik](https://open.spotify.com/album/5KhdVsoOssy3Uxnc9wPjpg) | 2:55 | 2022-03-25 | 2022-04-18 |
 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 | 2023-01-28 |  |
@@ -112,6 +112,7 @@
 | [For Ya](https://open.spotify.com/track/6poJxrnTNulYCmha4n5GOF) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [For Ya](https://open.spotify.com/album/0gIupCz3eQl2LkiFZvlyG3) | 2:27 | 2022-02-18 | 2026-05-22 |
 | [Foreign Things](https://open.spotify.com/track/4Cz1StHxD06CZzr8NxvYfw) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Foreign Things](https://open.spotify.com/album/4zQOj5cdClQaheWhdajDxp) | 3:00 | 2022-02-18 | 2022-07-27 |
 | [Fragments of Time \(feat\. Todd Edwards\)](https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:39 | 2022-03-25 |  |
+| [Future Heat feat\. Keagan Raphael](https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Keagan Raphael](https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo) | [MOMENT](https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS) | 3:40 | 2026-08-03 |  |
 | [Future Love](https://open.spotify.com/track/7aFKeqQh8YnsAUyRxw0IvL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Little Men](https://open.spotify.com/album/0ervPmQvzezaMUGR8W36SV) | 3:41 | 2022-03-25 | 2022-07-01 |
 | [Geen Liefde](https://open.spotify.com/track/7F7J5Q5k73iuFDEBMDdNFn) | [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Geen Liefde](https://open.spotify.com/album/1pc1OgFrfFmQPwDDeiKmXg) | 2:28 | 2022-02-18 | 2022-07-29 |
 | [george](https://open.spotify.com/track/0Ws3ORFcdtgqA3FITquhQ7) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [George](https://open.spotify.com/album/4mCbjj2IvjnMnk0wirwBs3) | 3:10 | 2022-03-25 | 2022-04-21 |

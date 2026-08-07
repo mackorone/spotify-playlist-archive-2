@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,392 songs - 4 day 5 hr 30 min
+2,394 songs - 4 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [7 lr 8](https://open.spotify.com/track/1ragSzAriJPNuVcNBaW4V8) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg), [MISS MAMI](https://open.spotify.com/artist/7KDFaJDNWg5wGEMksLwlAE) | [7 lr 8](https://open.spotify.com/album/5DXE7WWg5tY4ICVJutmZfV) | 4:09 | 2022-06-09 | 2022-06-17 |
 | [762](https://open.spotify.com/track/5adSoGd38JxynGiqELTozu) | [Jiggz](https://open.spotify.com/artist/4vmyAixlpiovF3wJ5MSxfJ), [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ) | [762](https://open.spotify.com/album/5GPzf64JqLLkG5XiY9IfPU) | 2:30 | 2024-02-01 | 2024-05-03 |
 | [7am](https://open.spotify.com/track/2M7z9VN7YxUeXQsqZp7IyP) | [FAH1DO](https://open.spotify.com/artist/01bjIiVhFb4SIlhhEa1gLn) | [Mixed Feelings](https://open.spotify.com/album/4zpQ0ShIdaCY7Rwehn4jJj) | 2:25 | 2022-02-17 | 2022-03-11 |
+| [80’s](https://open.spotify.com/track/6AxT9RkGn4stESjHvYYOks) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [80’s](https://open.spotify.com/album/323YStbwkYFnTsunAQqguN) | 2:27 | 2026-08-06 |  |
 | [90s Kid](https://open.spotify.com/track/5qnqFEWouMj8wumbZwIKOJ) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0) | [90s Kid](https://open.spotify.com/album/0fpRDKKORedZYIXLCfQpxh) | 3:09 | 2024-11-21 | 2025-03-14 |
 | [95](https://open.spotify.com/track/3n3hEYCg8grGCoRZA4yjWE) | [Marti](https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm) | [95](https://open.spotify.com/album/2HwbbWJj2m6fsr3vjwyzCm) | 2:37 | 2024-08-01 | 2024-10-25 |
 | [A.P.T.A](https://open.spotify.com/track/1FxCzkOYYoILkg3QDqQnwM) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [A.P.T.A](https://open.spotify.com/album/05fMUIt5I3brgdau91tMR3) | 1:50 | 2022-07-14 | 2022-09-23 |
@@ -2223,6 +2224,7 @@
 | [Vad vill du ha?](https://open.spotify.com/track/4LLoXNhX65kI2Hg2OfDXFi) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Vad vill du ha?](https://open.spotify.com/album/3Vq6FcSdyc39umFwG4N5pB) | 2:48 | 2023-06-15 | 2023-09-08 |
 | [VAFFANCULO](https://open.spotify.com/track/2Ba0sqDCSiUAmPhYMohqlE) | [P.J](https://open.spotify.com/artist/26SfC2rUkcGiSpZfLtla29), [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB), [DnoteOnDaBeat](https://open.spotify.com/artist/4wsqTX9xCVoObzRPvjoV4H) | [VAFFANCULO](https://open.spotify.com/album/4CMsyLLYOeeXE4y9WvIA1I) | 2:20 | 2024-04-18 | 2024-06-21 |
 | [Valentina](https://open.spotify.com/track/4JoWLKfdXeIJ9TVgnBuK0G) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Valentina/Stanna](https://open.spotify.com/album/2JnRhz5jUWjKdalvCAj58p) | 2:13 | 2024-02-15 | 2024-04-19 |
+| [Valhalla](https://open.spotify.com/track/45C7Fmq35ooAUrtoTQv7tp) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [Valhalla](https://open.spotify.com/album/0LXf2cOsl548yY08CrPrt3) | 2:14 | 2026-08-06 |  |
 | [VaMeMej](https://open.spotify.com/track/1xx2dch3nmRjD5gCYFKUkx) | [D50](https://open.spotify.com/artist/1zMg0ur2T1UsRYtW9VNsLv) | [VaMeMej](https://open.spotify.com/album/0nEQTdFp5CxOiGG9uuzGcF) | 2:33 | 2022-09-08 | 2022-10-07 |
 | [Vamos](https://open.spotify.com/track/6N3q7NSmlxB7TNJkyzfYcb) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/0qdJBCoqpSJjhHsJOPg1IN) | 2:41 | 2022-09-12 | 2022-11-04 |
 | [Vamos](https://open.spotify.com/track/7jpv96mbDX0dQwbewYj906) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd) | 2:41 | 2022-09-08 | 2022-09-15 |

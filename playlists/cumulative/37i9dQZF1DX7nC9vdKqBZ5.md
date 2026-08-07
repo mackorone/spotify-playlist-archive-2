@@ -4,7 +4,7 @@
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-137 songs - 7 hr 59 min
+138 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 | 2023-10-13 |  |
 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 | 2023-10-13 |  |
 | [Difícil Acreditar \- Versão Acústica](https://open.spotify.com/track/1J6SRchSkxDhA5gaQIwyaZ) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w), [Tatila Krau](https://open.spotify.com/artist/1qZrF4DpSsuFhXHH8Vp6Rv) | [Difícil Acreditar \(Versão Acústica\)](https://open.spotify.com/album/4hUmGaTlOGFhmxFWuMGUYd) | 3:41 | 2023-10-13 | 2024-04-19 |
-| [Difícil Acreditar \- Versão Acústica](https://open.spotify.com/track/6dYVqy6IXckjRpYA5V1zxq) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w), [Tatila Krau](https://open.spotify.com/artist/4yV4KRO2Kppgk6WhNd1cno) | [Difícil Acreditar \(Versão Acústica\)](https://open.spotify.com/album/46IaegGoZ5ufjLNDndLA8F) | 3:41 | 2024-03-18 |  |
+| [Difícil Acreditar \- Versão Acústica](https://open.spotify.com/track/6dYVqy6IXckjRpYA5V1zxq) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w), [Tatila Krau](https://open.spotify.com/artist/4yV4KRO2Kppgk6WhNd1cno) | [Difícil Acreditar \(Versão Acústica\)](https://open.spotify.com/album/46IaegGoZ5ufjLNDndLA8F) | 3:41 | 2024-03-18 | 2026-08-07 |
 | [Dizeres](https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK) | 4:17 | 2023-10-13 | 2024-04-19 |
 | [Dizeres](https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ) | 4:17 | 2024-03-18 |  |
 | [Energia Surreal \- Acústica](https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Energia Surreal \(Acústica\)](https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc) | 2:57 | 2023-10-13 |  |
@@ -144,6 +144,7 @@
 | [Volta](https://open.spotify.com/track/6K6WJdyILe1BlbwGmKuJj7) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Volta](https://open.spotify.com/album/2wb9KwFiEKa9fpMRTzpXsF) | 3:39 | 2024-03-18 |  |
 | [Volta](https://open.spotify.com/track/5q4RQaVEcQXba0ldC6oS9s) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Volta](https://open.spotify.com/album/2mi7uRYUk8qaBvGWAuuIbH) | 3:39 | 2023-10-13 | 2024-04-19 |
 | [Vê Se Não Me Esquece Mais](https://open.spotify.com/track/6Cm9ESWYCTs5eCqLzsRFgW) | [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2) | [Vê Se Não Me Esquece Mais](https://open.spotify.com/album/5UPRYphdZKvDysG65y8Ecy) | 2:41 | 2023-10-13 |  |
+| [Wave](https://open.spotify.com/track/5SsVGUftRUdEuiTfSFFYXq) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Wave](https://open.spotify.com/album/5W4dS7EDdMOT9i1rnIoOS9) | 2:36 | 2026-08-07 |  |
 | [Último Romance](https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Último Romance](https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU) | 4:17 | 2023-10-13 |  |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

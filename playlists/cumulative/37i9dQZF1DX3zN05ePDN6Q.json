@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "boom bap renasce todo dia. Foto: Link do Zap",
+  "description": "boom bap renasce todo dia. Foto: Makalister, Luiz Barata, Montosz, Nitcho",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 202838,
       "name": "cachorro do mano brown",
       "url": "https://open.spotify.com/track/56qWAInlvquF07bYOWLQxY"
@@ -7570,7 +7570,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 202738,
       "name": "GTA",
       "url": "https://open.spotify.com/track/4rq7f9LzEu2fqtkUj1anFX"
@@ -12613,6 +12613,28 @@
     },
     {
       "album": {
+        "name": "Simples Assim",
+        "url": "https://open.spotify.com/album/69MP9EeRU7mhzEDeMtkThD"
+      },
+      "artists": [
+        {
+          "name": "Petrilli",
+          "url": "https://open.spotify.com/artist/7we1Vjz7dVzyvlF3ZJvzve"
+        },
+        {
+          "name": "Noturno84",
+          "url": "https://open.spotify.com/artist/2IAQ16hFlr5cupvLMVG6e4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Pagando Mais",
+      "url": "https://open.spotify.com/track/56nWmS3R72xI8L3jnQL89j"
+    },
+    {
+      "album": {
         "name": "Direitos N\u00e3o Reservados",
         "url": "https://open.spotify.com/album/09ixUAnB4zcOmB7YU4F0Gm"
       },
@@ -14324,6 +14346,32 @@
       "duration_ms": 180277,
       "name": "Quantos S\u00e3o?",
       "url": "https://open.spotify.com/track/7yICWklR1S4NldM1y1m1cO"
+    },
+    {
+      "album": {
+        "name": "QUE QUE FOI, QUE QUE H\u00c1?",
+        "url": "https://open.spotify.com/album/2TRc6uRNsKjQArpxDUiCoE"
+      },
+      "artists": [
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        },
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "QUE QUE FOI, QUE QUE H\u00c1?",
+      "url": "https://open.spotify.com/track/7yjdHapa5SmcTQTpF3ny7V"
     },
     {
       "album": {

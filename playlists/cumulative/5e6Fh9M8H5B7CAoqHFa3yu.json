@@ -17647,6 +17647,24 @@
     },
     {
       "album": {
+        "name": "H\u00e9roe",
+        "url": "https://open.spotify.com/album/6J63RWGRhO59R406st0Z0X"
+      },
+      "artists": [
+        {
+          "name": "BORDONADO",
+          "url": "https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "H\u00e9roe",
+      "url": "https://open.spotify.com/track/6Ch3Cw2zSpBDOEvCJz7f07"
+    },
+    {
+      "album": {
         "name": "Destimulation",
         "url": "https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi"
       },

@@ -4,13 +4,14 @@
 
 > headows in cover della playlist con il futuro del rap italiano 📈
 
-2,576 songs - 4 day 12 hr 37 min
+2,577 songs - 4 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Bisiness"](https://open.spotify.com/track/5rd8GueEmsKWLgJhQOM8v0) | [Totó Valentino](https://open.spotify.com/artist/4TR1rLViZ0TMo5gdvSVVZr), [Nessuno](https://open.spotify.com/artist/7BMPwaB9s6d7J33bIPp8Z5) | ["Bisiness"](https://open.spotify.com/album/1VvBBQLEK5qmoXtTsOtCrh) | 2:39 | 2023-09-21 | 2023-10-06 |
 | [\#domanisconosciuti](https://open.spotify.com/track/5Pm8CLUHvlmungv1XeW2Kv) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [\#domanisconosciuti](https://open.spotify.com/album/6rHVcMdjRVehtkugTHrwJf) | 2:49 | 2026-02-12 | 2026-04-17 |
 | [\#ennyp](https://open.spotify.com/track/5i1Fzs7ylTdu2uoUujL5D1) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [\#ennyp](https://open.spotify.com/album/4NAudiTZW30MVLZqbMSTps) | 2:39 | 2026-04-02 | 2026-05-01 |
+| [\#hihaters \(feat\. Enny P\)](https://open.spotify.com/track/7hE0Grm8Fx7DSltgcTFavY) | [Yung Pips](https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7), [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [euroshit](https://open.spotify.com/album/7CZD8ijtlClkWrRuIWCmn0) | 2:05 | 2026-08-06 |  |
 | [\#NEEDTHAT](https://open.spotify.com/track/1jKM9Z8sCSGYfTK1gXObPo) | [EXXIA](https://open.spotify.com/artist/2YJcNIoAmRFFdVcvhMZHDr) | [\#NEEDTHAT](https://open.spotify.com/album/4yIsPqLgBsnIJjimORxUiV) | 2:26 | 2025-05-08 | 2025-05-30 |
 | [\#uniti](https://open.spotify.com/track/5t10dVJhlPdcidLWi65t07) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw) | [\#uniti](https://open.spotify.com/album/6GGgI4YSQONECeSehX9tTk) | 2:23 | 2026-05-28 | 2026-06-26 |
 | [\#WEOWE2](https://open.spotify.com/track/45gLLRDHtF7Cdm7TbThR1h) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [\#WEOWE2](https://open.spotify.com/album/5c7CoUQI2o9sGqeFmu4Y2X) | 2:08 | 2022-05-12 | 2022-07-15 |

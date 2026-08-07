@@ -2,9 +2,9 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> A new world of alternative noise\. Cover: NOCON
+> A new world of alternative noise\. Cover: DIIV
 
-239 songs - 13 hr 16 min
+242 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Baddies](https://open.spotify.com/track/3UoZLsDz4FjfciCCJQtjhq) | [Hektor](https://open.spotify.com/artist/6TkIRova0MUAByYUBmbVnd), [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo) | [Baddies](https://open.spotify.com/album/41qVMpAF8VKqxemEtDkSnV) | 2:43 | 2026-02-12 | 2026-04-17 |
 | [Bag Of Sand](https://open.spotify.com/track/6xPIof8affSfAo4ADpcEFC) | [Day Dreamers](https://open.spotify.com/artist/1jGia2OegGP0F1ZlEbgcwZ) | [Bag Of Sand](https://open.spotify.com/album/24G3gqxBJkrcv4fRbC1HXQ) | 3:09 | 2026-03-19 | 2026-05-30 |
 | [Beat To Beat](https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Beat To Beat](https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi) | 4:16 | 2025-10-23 | 2025-12-19 |
+| [BIG NOTER \(feat\. Joe Talbot\)](https://open.spotify.com/track/25SRep6PSGi4jVVt5aJdB2) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [BIG NOTER \(feat\. Joe Talbot\)](https://open.spotify.com/album/0tFREqnNgiKUT5gINUiEi4) | 3:14 | 2026-08-06 |  |
 | [Big Star](https://open.spotify.com/track/7tEUBlisQoe2wYRqAEnGji) | [city dog](https://open.spotify.com/artist/4HY1DoD5kjV0OV3EjV3QBX) | [Big Star](https://open.spotify.com/album/4bpoN2m5o52kpPtCYMlHrJ) | 2:04 | 2026-03-19 | 2026-05-15 |
 | [Birthmark](https://open.spotify.com/track/0BSmfFgnlfWoLYY8h8bzhe) | [horse](https://open.spotify.com/artist/6V9Tfh0YmcoTEBKd35s9ql) | [Ask me again next year](https://open.spotify.com/album/7wVXyg1PByrbx2tIyBatrz) | 3:15 | 2026-07-09 |  |
 | [Bittersweet Excess](https://open.spotify.com/track/2sKT09C4vZaawvqjVmTmOH) | [Loose Fit](https://open.spotify.com/artist/0uheKgZvAN1XtSaIsSV3IO) | [Bittersweet Excess](https://open.spotify.com/album/0ErYQXd50C1Yv77UxfaOVj) | 3:59 | 2026-04-09 | 2026-05-30 |
@@ -117,7 +118,7 @@
 | [Keychain](https://open.spotify.com/track/2VOhFvluZlMT2wHIuJWkR1) | [Hot Glue](https://open.spotify.com/artist/6Xz3noOPv6Cpb2ULyIHOiG) | [Again, Again](https://open.spotify.com/album/3sAXgTIcyf8B18AsLj2Mru) | 3:01 | 2026-04-16 | 2026-06-05 |
 | [Kick in the Shins](https://open.spotify.com/track/49HPE6994YbBkPBZ2p88HJ) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Kick in the Shins](https://open.spotify.com/album/2uKLlmvupV6Kx6BheOIZcA) | 2:59 | 2026-07-23 |  |
 | [Knowledge](https://open.spotify.com/track/5YZ5PRX0Wuyxwo9PSRKpN7) | [media puzzle](https://open.spotify.com/artist/1JFW3ACD123onrCbzNag5Z) | [Knowledge](https://open.spotify.com/album/6BZwhz1sryzucQvxPXEt8o) | 2:15 | 2026-03-26 |  |
-| [knucklehead](https://open.spotify.com/track/2PmkBL5PnKBngrTzHLFInR) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [knucklehead](https://open.spotify.com/album/7dxqxP7cSvE4pHdoDh4jqE) | 1:58 | 2026-05-21 |  |
+| [knucklehead](https://open.spotify.com/track/2PmkBL5PnKBngrTzHLFInR) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [knucklehead](https://open.spotify.com/album/7dxqxP7cSvE4pHdoDh4jqE) | 1:58 | 2026-05-21 | 2026-08-07 |
 | [Landed In A Trap](https://open.spotify.com/track/2McVnlCfJVaRFNeSwIAUgU) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [Landed In A Trap](https://open.spotify.com/album/2w1VfJ8bKHbPwfXM09yiNE) | 1:24 | 2025-10-23 | 2026-01-15 |
 | [Landslide](https://open.spotify.com/track/3YGUjZ9giUQTnseoUqf0By) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg), [Sans Merit](https://open.spotify.com/artist/6ArU4k8PS1STHehmWH770a) | [Landslide](https://open.spotify.com/album/0xlFiNYXN3cF666OLUxRlz) | 3:21 | 2025-10-23 | 2026-01-15 |
 | [Lapdog](https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Online 24/7](https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC) | 2:42 | 2026-02-12 | 2026-07-24 |
@@ -145,7 +146,7 @@
 | [No Love](https://open.spotify.com/track/54pSlokgcxJakkfBm10N3c) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [No Love](https://open.spotify.com/album/2gZS32bPZcfyBu0Cg8Colc) | 1:58 | 2025-10-23 | 2025-11-28 |
 | [Nobody's Coming To Save You](https://open.spotify.com/track/0difWBwYseFbbXTAj6TyOi) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nobody's Coming To Save You](https://open.spotify.com/album/08GMRYh0ZUnEE9w7y9S0CF) | 3:42 | 2026-05-21 |  |
 | [Nobody's Son](https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq) | [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp), [Tom Coll](https://open.spotify.com/artist/3LSCSUB1kS40Dd57wmkfyC), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp), [The Immortal Man](https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 2:15 | 2026-03-05 | 2026-06-26 |
-| [NOT A BIT](https://open.spotify.com/track/5aZczicg1VeRx42pdz6vn5) | [I Hate Myself Because](https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe) | [NOT A BIT](https://open.spotify.com/album/4nDBVUZ3VqQuudpYy65zoe) | 1:53 | 2026-05-21 |  |
+| [NOT A BIT](https://open.spotify.com/track/5aZczicg1VeRx42pdz6vn5) | [I Hate Myself Because](https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe) | [NOT A BIT](https://open.spotify.com/album/4nDBVUZ3VqQuudpYy65zoe) | 1:53 | 2026-05-21 | 2026-08-07 |
 | [Not Sorry](https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [When A Flower Doesn't Grow](https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm) | 2:50 | 2026-01-29 | 2026-04-03 |
 | [Nothing Matters](https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Maresz](https://open.spotify.com/artist/0sVLsjXKoUaUTQFUt2bRaW) | [Nothing Matters](https://open.spotify.com/album/68H5ipiHhUvkNO03s9n0oz) | 3:02 | 2026-04-09 | 2026-07-31 |
 | [nuclear](https://open.spotify.com/track/3sS5EHvZrM7XqTRh3wdxRx) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [nuclear](https://open.spotify.com/album/34OS4k4RcL6LjVxWoZ4ick) | 5:45 | 2025-10-23 | 2026-02-13 |
@@ -159,6 +160,7 @@
 | [Pigeon](https://open.spotify.com/track/20xPTgR9luxSduaKnv3hok) | [Ebop](https://open.spotify.com/artist/2Efy3ySYJ83uBkokvfdwxn) | [Pigeon](https://open.spotify.com/album/1OEcnuGKiWFB4BaASFzTSk) | 3:21 | 2026-01-22 | 2026-03-27 |
 | [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 | 2025-10-23 | 2026-04-24 |
 | [PLAINTIVE NATIVE](https://open.spotify.com/track/752jJf80yhDnt7K7dTfTnO) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [PLAINTIVE NATIVE](https://open.spotify.com/album/3o7SM2cImToqXzVwWrfloL) | 3:18 | 2025-10-23 | 2026-03-27 |
+| [Poles](https://open.spotify.com/track/0RUVO780hvunl7IZBgbc01) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Poles](https://open.spotify.com/album/2zjRFFrvL698MI1tk2NKow) | 3:38 | 2026-08-06 |  |
 | [Pom Pom](https://open.spotify.com/track/50XEaacXqkRUm4a2fQpoCS) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Pom Pom](https://open.spotify.com/album/4IzgMbugCWmPVnIp9T8aQX) | 2:08 | 2025-10-23 | 2025-11-07 |
 | [Pose](https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2) | [Blush](https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F) | [Pose](https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY) | 3:22 | 2026-07-30 |  |
 | [Pray To That](https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Pray To That](https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo) | 3:06 | 2025-10-23 | 2026-02-21 |
@@ -205,7 +207,7 @@
 | [spill](https://open.spotify.com/track/6hnS1s3LCpOhIIeutpoGGp) | [shane](https://open.spotify.com/artist/328tDiwMTmuvnBGudZtb4o), [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [spill](https://open.spotify.com/album/5tJVmhPFxlPvt6XBN9lCuW) | 3:56 | 2026-05-08 | 2026-06-05 |
 | [Squeeze Down](https://open.spotify.com/track/2PduPaP3h1NEvZoI0LcIHP) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [Squeeze Down](https://open.spotify.com/album/31tSVDf3il4MdNbNT3hDws) | 3:03 | 2025-10-23 | 2026-07-31 |
 | [STAMPEDE](https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STAMPEDE](https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj) | 3:09 | 2026-02-19 | 2026-05-22 |
-| [Star 6 9](https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 3:11 | 2025-10-23 |  |
+| [Star 6 9](https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 3:11 | 2025-10-23 | 2026-08-07 |
 | [Stay Right](https://open.spotify.com/track/4ijtVwvHowS1kJ3v8jQwrR) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Stay Right](https://open.spotify.com/album/42vDjhnZcnDihTeXfAyj2b) | 3:44 | 2025-12-04 | 2026-06-12 |
 | [Step On It](https://open.spotify.com/track/0DW31s848ybq7FMG8szgCq) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc), [Posseshot](https://open.spotify.com/artist/1iMp6xzgbWnO15izaVC7QU) | [Step On It](https://open.spotify.com/album/7uOg6W8mC5lB7LSRaMdEHV) | 4:28 | 2026-02-12 | 2026-06-05 |
 | [Sternum](https://open.spotify.com/track/6fFYWn3ZH9excLrMln4pbP) | [Bennetts Grove](https://open.spotify.com/artist/4LLUP13hqBwDZJqDse7UbA) | [Sternum](https://open.spotify.com/album/2qcZa3ihZt2Ck6nyCBrxBW) | 4:59 | 2026-06-18 |  |
@@ -216,6 +218,7 @@
 | [Take Me to the Meeting](https://open.spotify.com/track/6awY3r3qQHoyCRIVR0Pq2b) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Take Me to the Meeting](https://open.spotify.com/album/2t0u5r7EU6Exkj0kdOMEKg) | 3:21 | 2026-06-25 |  |
 | [Tender Blades](https://open.spotify.com/track/3yl61cFag5kZhb9tCX6lU6) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 4:03 | 2026-05-29 |  |
 | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/track/0cAxXnkhieGaVWJvMByqXM) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/album/3MFaIxaSLmMgY1OfsByCN5) | 3:03 | 2025-10-23 | 2026-02-13 |
+| [The Fountain](https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [The Fountain](https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E) | 3:25 | 2026-08-06 |  |
 | [The Gap](https://open.spotify.com/track/0QqS4DQq9tVaQZwP1977M7) | [horse](https://open.spotify.com/artist/6V9Tfh0YmcoTEBKd35s9ql) | [The Gap](https://open.spotify.com/album/1Bnpt6QVXk8mDmiYIfGOUL) | 4:28 | 2026-02-26 | 2026-06-05 |
 | [The New VR Ted Bundy Biopic](https://open.spotify.com/track/5unw4KVxfx3mv0B9UqTUqz) | [Special Guest](https://open.spotify.com/artist/4WPcB3czUtzQ2QT1MAikKu) | [The New VR Ted Bundy Biopic](https://open.spotify.com/album/6hIG5n4UxQV6Dqtu5QNWUd) | 2:52 | 2026-04-16 | 2026-07-31 |
 | [THE RECAP](https://open.spotify.com/track/2MqtHEaoMmfVMe3gjg7rQz) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [THE RECAP](https://open.spotify.com/album/5mJPfSEKnCAjpfuknVQwol) | 2:29 | 2025-10-23 | 2025-11-14 |

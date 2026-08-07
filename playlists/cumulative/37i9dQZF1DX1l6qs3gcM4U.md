@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Jey V
+> Fall in love with the sensual sounds of Kizomba! Cover: Calema
 
-694 songs - 1 day 15 hr 53 min
+695 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Chocolate](https://open.spotify.com/track/5JSaK3zQTNv1L7PvpvelbE) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Dpos D' Quarentena](https://open.spotify.com/album/1U0cUGkzOq6ESgOs1S8yLF) | 3:10 | 2021-12-10 | 2022-09-19 |
 | [Chouchou](https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Chouchou](https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2) | 3:03 | 2021-12-10 | 2023-09-20 |
 | [Chuva](https://open.spotify.com/track/1L3pBAjneKibuFQiXO8wpU) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Chuva](https://open.spotify.com/album/07v4Sy6nmZtGscBDy6Q0CR) | 3:12 | 2021-12-10 | 2022-01-01 |
-| [Chuva De Amor](https://open.spotify.com/track/0NUKgPv3y7seN48Ipm6HUM) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Chuva De Amor](https://open.spotify.com/album/6pJMUzRz6QHarHAV4CRbE0) | 3:50 | 2026-04-02 |  |
+| [Chuva De Amor](https://open.spotify.com/track/0NUKgPv3y7seN48Ipm6HUM) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Chuva De Amor](https://open.spotify.com/album/6pJMUzRz6QHarHAV4CRbE0) | 3:50 | 2026-04-02 | 2026-08-07 |
+| [Chuva De Amor \- Live At Estádio De Braga](https://open.spotify.com/track/3eTwW60hkvQBwBMfZWj5OR) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Chuva De Amor \(Live At Estádio De Braga\)](https://open.spotify.com/album/4DMiu2RqwtDa69wcYG3uM7) | 4:26 | 2026-08-06 |  |
 | [Chuva em Abril](https://open.spotify.com/track/4PHZgCf4OygkCX4yeIVMK4) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu) | [Chuva em Abril](https://open.spotify.com/album/5XOFLbCKQel78Ohb4RSlQE) | 3:14 | 2022-01-14 | 2022-04-21 |
 | [Cigana Linda](https://open.spotify.com/track/5ZhYcNNdJMYUkUkFjeuWDI) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Cigana Linda](https://open.spotify.com/album/0cuU1N758RKwWSrTFf2IvK) | 3:38 | 2021-12-10 | 2022-12-08 |
 | [Clima](https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Clima](https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX) | 4:03 | 2022-05-13 | 2025-03-28 |
@@ -157,7 +158,7 @@
 | [Dando Love](https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Dando Love](https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz) | 3:02 | 2022-11-11 | 2025-05-16 |
 | [Dando Love](https://open.spotify.com/track/1np3KRvBS7DJzUBEPP9mGB) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Viagens](https://open.spotify.com/album/7qHXg8jRGHCITWSrhKYa2Q) | 3:02 | 2022-11-11 | 2022-11-13 |
 | [Day By Day](https://open.spotify.com/track/18nK4IVMPReeKT9ny4jX7r) | [Afroplug](https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK), [Skuco](https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6) | [Day By Day](https://open.spotify.com/album/1Z22MyEBOErSOUxvr728PR) | 2:49 | 2026-01-30 | 2026-02-14 |
-| [Deixa](https://open.spotify.com/track/6SowTiTBlpo0c8ExyiDsR9) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [11° Ano](https://open.spotify.com/album/3Cl9iASC8gLoBjBh9KoQg3) | 3:17 | 2025-11-14 | 2026-08-02 |
+| [Deixa](https://open.spotify.com/track/6SowTiTBlpo0c8ExyiDsR9) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [11° Ano](https://open.spotify.com/album/3Cl9iASC8gLoBjBh9KoQg3) | 3:17 | 2025-11-14 |  |
 | [Deixa Bai](https://open.spotify.com/track/1Gq0G2cxRRT9p627YSR5Jc) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [KARMA](https://open.spotify.com/album/6WA3zvNiWjqHrUxDEIBEfQ) | 3:35 | 2022-12-16 | 2023-01-05 |
 | [Deixa o Clima Rolar](https://open.spotify.com/track/5Jpa5TYgS6Eqdp3395ZtjG) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Deixa o Clima Rolar](https://open.spotify.com/album/1L2DbuWsTYqY1pBFWijfQZ) | 2:49 | 2024-09-19 |  |
 | [Deja Vu](https://open.spotify.com/track/6AwrhWNb5rkvDibLSniMGK) | [Tercy Costa](https://open.spotify.com/artist/6AnQYXkegZ9EQzuAHzFrA0), [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Deja Vu](https://open.spotify.com/album/2TD6g3V1Petbnarg0kGWHq) | 3:38 | 2025-01-24 | 2025-02-14 |

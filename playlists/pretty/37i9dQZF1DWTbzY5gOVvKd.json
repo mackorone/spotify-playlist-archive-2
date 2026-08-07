@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1298109,
+  "num_followers": 1298122,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEjU6yG+RZ7LpOgBMTBvOuV0/fLh",
+  "snapshot_id": "AAAAAHZNwfe2MMc8+SC6tgyyKXiiO0BW",
   "tracks": [
     {
       "added_at": "2026-07-03 08:18:20",
@@ -775,6 +775,38 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
+        "name": "Dear Blossom,",
+        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "Night Songs II",
+        "url": "https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Moonlight Becomes You",
+      "url": "https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
         "name": "The Richard Rodgers Songbook",
         "url": "https://open.spotify.com/album/2nsWi2RA4XDmgOuuMKW87h"
       },
@@ -807,22 +839,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Dear Blossom,",
-        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "Stella Cole (Extended Version)",
         "url": "https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 160000,
       "name": "I Could Have Danced All Night",
       "url": "https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
-        "name": "Night Songs II",
-        "url": "https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Moonlight Becomes You",
-      "url": "https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Laura Benanti",
-        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
       },
       "artists": [
         {
-          "name": "Laura Benanti",
-          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
+          "name": "Marie Bergman",
+          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
         }
       ],
-      "duration_ms": 264653,
-      "name": "Go Slow",
-      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
+      "duration_ms": 262920,
+      "name": "It Amazes Me",
+      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
+        "name": "Laura Benanti",
+        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
       },
       "artists": [
         {
-          "name": "Marie Bergman",
-          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
+          "name": "Laura Benanti",
+          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
         }
       ],
-      "duration_ms": 262920,
-      "name": "It Amazes Me",
-      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
+      "duration_ms": 264653,
+      "name": "Go Slow",
+      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
     },
     {
       "added_at": "2026-07-03 08:18:20",

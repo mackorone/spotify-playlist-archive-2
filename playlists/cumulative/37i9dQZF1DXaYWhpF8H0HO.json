@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Gabriella Ekaputri",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Lukas Will",
   "name": "Ke Seberang",
   "tracks": [
+    {
+      "album": {
+        "name": "\"obsessed\"",
+        "url": "https://open.spotify.com/album/3hQ1Y0qo7qLFVeF7gDkVbH"
+      },
+      "artists": [
+        {
+          "name": "Reikko",
+          "url": "https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170349,
+      "name": "\"obsessed\"",
+      "url": "https://open.spotify.com/track/0JdCGnIfvQWWm1SkMx3KfT"
+    },
     {
       "album": {
         "name": "(NO)STALGIA",
@@ -154,7 +172,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 178400,
       "name": "20 Weeks",
       "url": "https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr"
@@ -1127,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Background Character",
+        "url": "https://open.spotify.com/album/6Wxf10EZwyYyfsnyjoVt6K"
+      },
+      "artists": [
+        {
+          "name": "Chris Andrian Yang",
+          "url": "https://open.spotify.com/artist/74DSMvAfXpnN3c1KCfvFwQ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202864,
+      "name": "Background Character",
+      "url": "https://open.spotify.com/track/5gRDEnGcUKTiju3DV7hPOf"
+    },
+    {
+      "album": {
         "name": "Bad Bad",
         "url": "https://open.spotify.com/album/5sQj4trXRrUSsGnAYD1Sk7"
       },
@@ -1400,7 +1436,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 221739,
       "name": "Believe it",
       "url": "https://open.spotify.com/track/5SPuz6cC7Qcn1j1htEVaij"
@@ -1906,7 +1942,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 208400,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/0KvqkQRa7bPYDKjAv8jVwD"
@@ -1946,6 +1982,24 @@
       "duration_ms": 294613,
       "name": "bruxism or, why i'm afraid of earthquakes",
       "url": "https://open.spotify.com/track/4UDkUxRu5l9BsMXeBPfF9I"
+    },
+    {
+      "album": {
+        "name": "Building",
+        "url": "https://open.spotify.com/album/6TziaCeqD9bpWb2GlyULmW"
+      },
+      "artists": [
+        {
+          "name": "Atlesta",
+          "url": "https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238588,
+      "name": "Building",
+      "url": "https://open.spotify.com/track/3KeW6p83GJwuNUfegAGH1m"
     },
     {
       "album": {
@@ -2630,7 +2684,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 286542,
       "name": "COUNTRY BARS",
       "url": "https://open.spotify.com/track/5ZaGRpVDkykhk0TolMhDVp"
@@ -3091,6 +3145,28 @@
     },
     {
       "album": {
+        "name": "Jangan",
+        "url": "https://open.spotify.com/album/26LTDa5V2stOLtl1BCSbP9"
+      },
+      "artists": [
+        {
+          "name": "Soulfood",
+          "url": "https://open.spotify.com/artist/4pPPCYQD20lPFRNBH8f5Eo"
+        },
+        {
+          "name": "Jascha Ririhena",
+          "url": "https://open.spotify.com/artist/1k6MajoWOgLgeZQLFs40Li"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/42S9Rc1AolKbJK2TIWk0Ez"
+    },
+    {
+      "album": {
         "name": "White Couch In The House",
         "url": "https://open.spotify.com/album/3cTiczSilNcUyTHop73Kss"
       },
@@ -3420,7 +3496,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 271667,
       "name": "END GREAT WARS",
       "url": "https://open.spotify.com/track/2OvgEODTlx5Lo5MV3t1DLz"
@@ -3622,7 +3698,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 232126,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/54pOjg9ZcVQ9P3kpfTROcX"
@@ -3860,7 +3936,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 196463,
       "name": "FEEL ALIVE",
       "url": "https://open.spotify.com/track/0a1q1T30ziPZNCA35D5OIQ"
@@ -4251,6 +4327,28 @@
     },
     {
       "album": {
+        "name": "Forevermine",
+        "url": "https://open.spotify.com/album/7yGzAyT2Rs0JK0HiNFuUqX"
+      },
+      "artists": [
+        {
+          "name": "Allan Andersn",
+          "url": "https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk"
+        },
+        {
+          "name": "Rimar",
+          "url": "https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259122,
+      "name": "Forevermine",
+      "url": "https://open.spotify.com/track/0jLrKtnBL9lzcWA5M0tO9A"
+    },
+    {
+      "album": {
         "name": "Forevermore",
         "url": "https://open.spotify.com/album/7MptRwuxpHHuUJtYFKzHuc"
       },
@@ -4614,6 +4712,28 @@
       "duration_ms": 167720,
       "name": "Ghosted",
       "url": "https://open.spotify.com/track/5cLfmkJs0JD99L26pudHYn"
+    },
+    {
+      "album": {
+        "name": "GODFIDENCE",
+        "url": "https://open.spotify.com/album/050M1V5t6ZXiuEUjg6Q9fj"
+      },
+      "artists": [
+        {
+          "name": "Kid JD",
+          "url": "https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld"
+        },
+        {
+          "name": "GunZ",
+          "url": "https://open.spotify.com/artist/65SmvNI1XTRajUXXzJd96Z"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217803,
+      "name": "GIMME A MINUTE",
+      "url": "https://open.spotify.com/track/5VDv5g24IXbSY96LIsAKzk"
     },
     {
       "album": {
@@ -5816,7 +5936,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 228421,
       "name": "I SHOULD'VE LOVED YOU MORE",
       "url": "https://open.spotify.com/track/4egaOQ3EwLtWe50dz46iBI"
@@ -7196,7 +7316,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 179277,
       "name": "Lit in Shanghai",
       "url": "https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG"
@@ -8268,6 +8388,24 @@
       "duration_ms": 265333,
       "name": "Monopolar - Tom Furse Remix",
       "url": "https://open.spotify.com/track/5TR2FSjKZeNN3VQsSA6iVy"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3phWkXWHf65cK8vFh3jqMe"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310085,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/269MiEVU1Dyc6eUQU1PuiS"
     },
     {
       "album": {
@@ -9896,7 +10034,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 198461,
       "name": "RUMOR",
       "url": "https://open.spotify.com/track/3auH5BoyW8cA2xQoX0QCAb"
@@ -10088,7 +10226,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 219310,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/0Zrz6L9L4tPxsxLvOU22iZ"
@@ -10584,7 +10722,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 214250,
       "name": "Slanted",
       "url": "https://open.spotify.com/track/3eM7N4SBHQ9uv7s4DIKYQg"
@@ -10994,7 +11132,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 172702,
       "name": "Spice Girl",
       "url": "https://open.spotify.com/track/0JMBgkp5eCTPk5q7V667dw"
@@ -12039,6 +12177,24 @@
     },
     {
       "album": {
+        "name": "the best i left behind",
+        "url": "https://open.spotify.com/album/7eMW7C6Brs4HyLfzE8mJrk"
+      },
+      "artists": [
+        {
+          "name": "Lukas Will",
+          "url": "https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/3l0Jjl2aSgzsMObFEDhbTN"
+    },
+    {
+      "album": {
         "name": "Train Ride Home",
         "url": "https://open.spotify.com/album/51mLBZhsNZY04UPcZSgHj5"
       },
@@ -12242,7 +12398,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 222222,
       "name": "U",
       "url": "https://open.spotify.com/track/4LYWl6AYZYagSRVx9gLwrc"
@@ -12482,7 +12638,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 257674,
       "name": "waiting (come home)",
       "url": "https://open.spotify.com/track/2LXksa3hvj46aQxe8ZabBY"
@@ -13012,6 +13168,28 @@
       "duration_ms": 193548,
       "name": "wish",
       "url": "https://open.spotify.com/track/6b1vX7JCmPs0PJ9SiCUrfi"
+    },
+    {
+      "album": {
+        "name": "Wishing Bad",
+        "url": "https://open.spotify.com/album/3v1OGfdhWAiLTMAjxVi0XH"
+      },
+      "artists": [
+        {
+          "name": "amae",
+          "url": "https://open.spotify.com/artist/3Epw8ZocMsviip7i4qHFxa"
+        },
+        {
+          "name": "Emmann Yapp",
+          "url": "https://open.spotify.com/artist/6q9rXmn6NuUWE4nnaqoCzi"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "Wishing Bad",
+      "url": "https://open.spotify.com/track/5gzK8TrJlzsc0tWK6cXjUp"
     },
     {
       "album": {

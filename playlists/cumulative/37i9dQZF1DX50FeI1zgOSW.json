@@ -4555,6 +4555,36 @@
     },
     {
       "album": {
+        "name": "Immy Gimmy",
+        "url": "https://open.spotify.com/album/4rl19JnZ9MTQOPtNq4p9s6"
+      },
+      "artists": [
+        {
+          "name": "Vocal Dude",
+          "url": "https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI"
+        },
+        {
+          "name": "Shahnaz Abdul Raoof",
+          "url": "https://open.spotify.com/artist/090pU6PI3Fk7TRDeLdQDCY"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        },
+        {
+          "name": "Ashku",
+          "url": "https://open.spotify.com/artist/2ICU5Htew2uhWBpJWjjbqG"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "Immy Gimmy",
+      "url": "https://open.spotify.com/track/2Vvv7DwO5CQ4HMKeWF1FzG"
+    },
+    {
+      "album": {
         "name": "In Her Wish",
         "url": "https://open.spotify.com/album/5mMCxKbUXIXS0qBLnivrEk"
       },
@@ -10488,6 +10518,32 @@
       "duration_ms": 222638,
       "name": "Neram",
       "url": "https://open.spotify.com/track/38Tb67e6nPNjKxtKFfGI3Y"
+    },
+    {
+      "album": {
+        "name": "Neram Ilaa Radhai",
+        "url": "https://open.spotify.com/album/5PUzzmyAPYYNfUWkY51BwQ"
+      },
+      "artists": [
+        {
+          "name": "Santhan Anebajagane",
+          "url": "https://open.spotify.com/artist/7C0XpfZfYRJrDXK0lA2LSq"
+        },
+        {
+          "name": "Vallavan",
+          "url": "https://open.spotify.com/artist/31JlpIXSw3SDT7wrDOU4bz"
+        },
+        {
+          "name": "Rajnivel",
+          "url": "https://open.spotify.com/artist/2oTIkLwKleKb6bZ5f1bqiZ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201857,
+      "name": "Neram Ilaa Radhai",
+      "url": "https://open.spotify.com/track/23ncGHyB0DXrczXgsGZFho"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : IDIOT!\tPeled",
+  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e2\u05dc\u05de\u05d4 \u05d2\u05d5\u05d1",
   "name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -2834,7 +2834,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 231000,
       "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
@@ -4043,6 +4043,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d6\u05de\u05df \u05e2\u05e3",
+        "url": "https://open.spotify.com/album/2LGsf3auT4js2jZvdTcvJ2"
+      },
+      "artists": [
+        {
+          "name": "Amir Lev",
+          "url": "https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262025,
+      "name": "\u05d4\u05d6\u05de\u05df \u05e2\u05e3",
+      "url": "https://open.spotify.com/track/0FlTE0LZHg3rNKCkrqr5uK"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d7\u05d5\u05de\u05e8 \u05d4\u05db\u05d7\u05d5\u05dc",
         "url": "https://open.spotify.com/album/3EmbyxWkGuC9tcTRTGGJzL"
       },
@@ -4516,6 +4534,24 @@
       "duration_ms": 228000,
       "name": "\u05d4\u05de\u05d7\u05dc\u05d4 \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/4KvXDIhFUlVLvyXMg1LBa2"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05e0\u05e4\u05d9\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/3vWFwZEmwXppnSL15bxLB1"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193909,
+      "name": "\u05d4\u05e0\u05e4\u05d9\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/6tBVF2sMUZZqnFs4zvT1U1"
     },
     {
       "album": {
@@ -5056,6 +5092,28 @@
       "duration_ms": 179331,
       "name": "\u05d7\u05d9\u05d9\u05d1 \u05dc\u05e6\u05d0\u05ea",
       "url": "https://open.spotify.com/track/1z9ct8sJhrU6VxfZVscdbm"
+    },
+    {
+      "album": {
+        "name": "\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2JC6hXhIqqzTx3xoywNL6A"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rubin",
+          "url": "https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB"
+        },
+        {
+          "name": "Tomer Katz",
+          "url": "https://open.spotify.com/artist/4uTaV6spIEYzsAFeXFPqqa"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05de\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/4RTCwQTBAFgsV3w5w05cop"
     },
     {
       "album": {
@@ -6854,7 +6912,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 248000,
       "name": "\u05de\u05e6\u05d9\u05e6\u05d9\u05dd",
       "url": "https://open.spotify.com/track/1iP2IpPoc0dv0n8mkIkblS"
@@ -7236,7 +7294,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 260350,
       "name": "\u05e0\u05e6\u05d7",
       "url": "https://open.spotify.com/track/6YwkfiupTClKbLt3s86LBs"

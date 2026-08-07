@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2TvuFmg5Ep8sodlGHVo1DI">Daniel Nigro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-199 songs - 11 hr 44 min
+200 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Baby Blue Bathing Suit](https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv) | 3:15 | 2026-06-10 | 2026-06-13 |
 | [Baby Blue Bathing Suit](https://open.spotify.com/track/4oPiSIJ2h1AioMFWahsdk8) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/4VuZSqNyECAByoSEQptr7C) | 3:15 | 2026-06-12 |  |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2026-06-10 |  |
-| [Bad Things \- English Version](https://open.spotify.com/track/4JUB4kkRqdHWnIulpntt0p) | [FAKY](https://open.spotify.com/artist/5oLb41tSEDtY357HGJCIK9) | [Bad Things \(English Version\)](https://open.spotify.com/album/6lTLmxUd6QDF4gGoUdw3GX) | 3:58 | 2026-06-10 |  |
+| [Bad Things \- English Version](https://open.spotify.com/track/4JUB4kkRqdHWnIulpntt0p) | [FAKY](https://open.spotify.com/artist/5oLb41tSEDtY357HGJCIK9) | [Bad Things \(English Version\)](https://open.spotify.com/album/6lTLmxUd6QDF4gGoUdw3GX) | 3:58 | 2026-06-10 | 2026-08-07 |
 | [ballad of a homeschooled girl](https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:23 | 2026-06-10 |  |
 | [Bed Rest](https://open.spotify.com/track/7fnrjy0Sd6Lj1IBalr424v) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow, Decomposed \(5 Year Anniversary\)](https://open.spotify.com/album/0NIuyJBQRvPaIjnyvTMBIe) | 4:08 | 2026-06-10 |  |
 | [Best Friend](https://open.spotify.com/track/6VZXTCIXbgypt0erc2U1Uk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:28 | 2026-06-10 |  |
@@ -142,6 +142,7 @@
 | [purple](https://open.spotify.com/track/5Ndn1irZG8l6xpcLMGeNvc) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 | 2026-06-24 |  |
 | [Purple Haze](https://open.spotify.com/track/53KWzrpniQIvJd2D1kbhr0) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Where Does The Devil Hide](https://open.spotify.com/album/5ReLKcQY5cpPxK01G9xUrJ) | 3:18 | 2026-06-10 |  |
 | [Quicksand](https://open.spotify.com/track/6LhSsOUN9BRqiXKfGBkNp6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:11 | 2026-06-10 |  |
+| [Re:Bad Things](https://open.spotify.com/track/4bOFKPh5et74rKaud8Cv1x) | [FAKY](https://open.spotify.com/artist/5oLb41tSEDtY357HGJCIK9) | [Re:wrapped](https://open.spotify.com/album/6dX678KYn5HohvlyKJdkUT) | 3:55 | 2026-08-06 |  |
 | [Real Love](https://open.spotify.com/track/0zoHmWUzlAdihPSEiDlnSl) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Lo Moon](https://open.spotify.com/album/5eXawQsp0P0EssDYFYPrUO) | 4:18 | 2026-06-10 |  |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2026-06-10 |  |
 | [Room Full of Mirrors](https://open.spotify.com/track/575owOjbSHWq3uMcDNGGWa) | [Erick Serna and The Killing Floor](https://open.spotify.com/artist/2JfFx5R68c7Sv8d0DE3tpZ) | [Room Full of Mirrors](https://open.spotify.com/album/0glMPgDt0hUuMU3pE042BN) | 2:59 | 2026-06-10 |  |
@@ -189,7 +190,7 @@
 | [Walking In My Sleep](https://open.spotify.com/track/0BdGEBApGezl0i0Vhwlbfm) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Zombies On Broadway](https://open.spotify.com/album/4scns5rvvp6KbYQgSsQ8Zv) | 3:49 | 2026-06-10 |  |
 | [Wanna Be \(feat\. LP\)](https://open.spotify.com/track/1PMZzu6Ka2tECgBlLfDUTx) | [Ex Cops](https://open.spotify.com/artist/53jUEBC2whloRpELoilcy3), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Daggers](https://open.spotify.com/album/6HnqBAaEl1LWxt5Cl8cWSL) | 3:56 | 2026-06-10 |  |
 | [We Got Nothing](https://open.spotify.com/track/2GeA9EcIKWnZD2refgK5AN) | [Alex Winston](https://open.spotify.com/artist/3REwdws53wUuid8AatTTMh) | [We Got Nothing](https://open.spotify.com/album/557VhQDSHXVgVgzxorMXjU) | 3:35 | 2026-06-10 |  |
-| [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2026-06-10 | 2026-08-05 |
+| [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2026-06-10 |  |
 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/2nQeWDP8OA9vFqiCfghot2) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(George Daniel & Charli XCX Remix\)](https://open.spotify.com/album/59dB0tQKHfwA837bRXuId4) | 3:22 | 2026-06-10 |  |
 | [What This Could Be](https://open.spotify.com/track/2GtmIAkwYNaIvJHYjUHRMM) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:18 | 2026-06-10 |  |
 | [what’s wrong with me](https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:44 | 2026-06-24 |  |

@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-348 songs - 1 day 6 hr 27 min
+349 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [MAORORE](https://open.spotify.com/track/5AQ1ULbOkslDrl6Uth9zUc) | [Nanana Siampala](https://open.spotify.com/artist/1pDfaLyHxCeIGYXUfSQT9l) | [MAORORE](https://open.spotify.com/album/3ubcox5KhLbSYnRzILUNYn) | 3:12 | 2025-11-07 | 2026-03-06 |
 | [Mbingu Mpya](https://open.spotify.com/track/34pTIVPEKdZjVnsHSHHmX9) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Nelly Naitengel](https://open.spotify.com/artist/4A53iYCzAhCwaZP34rK41R) | [BEST OF ROSE MUHANDO \(Deluxe\)](https://open.spotify.com/album/3AFwaOuwhUXe1O1pcECHx0) | 4:13 | 2025-07-04 | 2025-08-09 |
 | [Mbingu Za Mbingu](https://open.spotify.com/track/2AFbSP4Y1dJyWQUxkSywq3) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Mbingu Za Mbingu](https://open.spotify.com/album/5CNP8Wx6u0aFAfCsb3oRuF) | 6:26 | 2025-12-26 | 2026-03-06 |
+| [Mbogi Oyee!](https://open.spotify.com/track/0qUwveaCUktJiaNm8EgGUE) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Mbogi Oyee!](https://open.spotify.com/album/3tbPkLV8wPUsmwG4CNoOGD) | 2:24 | 2026-08-07 |  |
 | [Mema](https://open.spotify.com/track/0oOQmt04tGucSnvij5jfbW) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq) | [Mema](https://open.spotify.com/album/3Hqy9SSDsYpFNHOG5EOuyD) | 2:48 | 2023-09-08 | 2024-05-24 |
 | [Miel Matin](https://open.spotify.com/track/4hbe5UovoheGJNcErxxBeT) | [Jabidii](https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU), [Ayuni Nyapolo](https://open.spotify.com/artist/1vSWFYBte0N3BFpFcTJcGA) | [Miel Matin](https://open.spotify.com/album/6MoIsePBvfErhOcGKrlAML) | 2:31 | 2024-07-19 |  |
 | [Mifupani](https://open.spotify.com/track/4Ls6DToql6xu7jkEnCnuod) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Trust](https://open.spotify.com/album/7GX4V7LPwYaDJ1XXTXL1e4) | 4:13 | 2022-06-24 | 2024-04-19 |
@@ -270,7 +271,7 @@
 | [Sijali](https://open.spotify.com/track/6ivExYTqEyEJUJsfhULEbI) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Sijali](https://open.spotify.com/album/5wA3LfZewhNi8sKQKa7aXq) | 4:24 | 2026-01-15 |  |
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |
 | [Sikiliza](https://open.spotify.com/track/4UxKRFNRxmjMZ6kFrcUUNS) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Sikiliza](https://open.spotify.com/album/56nRuFA8ngZ3mDIFyRt0FS) | 11:28 | 2024-09-20 |  |
-| [Sina](https://open.spotify.com/track/4MCpezgY7YBrYRIVSbXNdk) | [Dan Mogore](https://open.spotify.com/artist/1kXWa1Sm47CnIF75qJPMlb), [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Sina](https://open.spotify.com/album/6jHthNnOMILdIeuYOLKklG) | 3:25 | 2026-07-03 |  |
+| [Sina](https://open.spotify.com/track/4MCpezgY7YBrYRIVSbXNdk) | [Dan Mogore](https://open.spotify.com/artist/1kXWa1Sm47CnIF75qJPMlb), [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Sina](https://open.spotify.com/album/6jHthNnOMILdIeuYOLKklG) | 3:25 | 2026-07-03 | 2026-08-07 |
 | [Sing Hallelujah](https://open.spotify.com/track/6laQTk4NLBBAPjP6Lyba2N) | [Lovern Music](https://open.spotify.com/artist/67YTFMApjFgqL8DDMp4cVg) | [Nguvu ya Imani](https://open.spotify.com/album/4L3fq2Ug30EOBywc0ZMg9o) | 2:38 | 2026-01-09 | 2026-07-31 |
 | [Sisi Ndio Wale](https://open.spotify.com/track/7GtbWZzckE9diKrKYSQ4Gi) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Sisi Ndio Wale](https://open.spotify.com/album/5DyJwA7sacoreQVSlDaBYo) | 4:23 | 2023-11-10 | 2023-11-25 |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2023-10-13 |  |

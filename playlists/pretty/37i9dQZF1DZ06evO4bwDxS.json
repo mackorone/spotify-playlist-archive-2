@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 8719,
+  "num_followers": 8745,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAAABUiRrxa1nNXvR+kkvGOgY",
+  "snapshot_id": "anJ9AAAAAAAW98oj13zKZVQFyLYq0DE5",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
-        "url": "https://open.spotify.com/album/78cUZ3f7KXyEIPVTD3WsDp"
+        "name": "Espresso (Working Late Remixes)",
+        "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        },
-        {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "FNZ",
+          "url": "https://open.spotify.com/artist/4lA6HCQmWfI4cRWyo2xmlK"
         }
       ],
-      "duration_ms": 173801,
-      "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/6Ft6nfssjDYmgmXF19poJE"
+      "duration_ms": 184156,
+      "name": "Espresso - Mark Ronson x FNZ Working Late Remix",
+      "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
     },
     {
       "added_at": null,
@@ -527,26 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espresso (Working Late Remixes)",
-        "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
+        "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
+        "url": "https://open.spotify.com/album/78cUZ3f7KXyEIPVTD3WsDp"
       },
       "artists": [
         {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "FNZ",
-          "url": "https://open.spotify.com/artist/4lA6HCQmWfI4cRWyo2xmlK"
         }
       ],
-      "duration_ms": 184156,
-      "name": "Espresso - Mark Ronson x FNZ Working Late Remix",
-      "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
+      "duration_ms": 173801,
+      "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/6Ft6nfssjDYmgmXF19poJE"
     },
     {
       "added_at": null,

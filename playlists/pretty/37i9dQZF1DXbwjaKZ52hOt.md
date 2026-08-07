@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,782 likes - 150 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,806 likes - 150 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 111 | [Frère Jacques \(Are You Sleeping\)](https://open.spotify.com/track/2eadPFdyLp4zZoyl3VAr1X) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhymes & Children's Songs, Vol\. 6 \(Sing & Learn with LittleBabyBum\)](https://open.spotify.com/album/16AHKVPC7KSXP3wtaaBADj) | 1:33 |
 | 112 | [Jelly on a Plate](https://open.spotify.com/track/4tvx5doXC1lw50HK3ZUvUj) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Action Songs](https://open.spotify.com/album/4E2rZ8JY1CaDdvwlCGq03B) | 1:39 |
 | 113 | [Hot Cross Buns](https://open.spotify.com/track/72IQmlbJEzq5qCZ3bUgeiN) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Hot Cross Buns](https://open.spotify.com/album/1yJvj1Fk1FJlEj0zHpOdrh) | 1:07 |
-| 114 | [Star Light, Star Bright](https://open.spotify.com/track/479oXz75lANhpwBC6ctAhX) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:23 |
+| 114 | [Star Light, Star Bright](https://open.spotify.com/track/479oXz75lANhpwBC6ctAhX) | [Rob Cantor For Kids!](https://open.spotify.com/artist/0sEDLWlvde4D2GLUFufjSO) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:23 |
 | 115 | [Who's In The Zoo?](https://open.spotify.com/track/4s0X685vyUDd24euTeVutT) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 2:40 |
 | 116 | [The Grand Old Duke Of York](https://open.spotify.com/track/1Uu0G63skDXNwnLo7exa8A) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Play School: 50 Best Songs](https://open.spotify.com/album/0JurDgXQP9DayhLcQTvCsJ) | 1:15 |
 | 117 | [Bingo Dog Song Nursery Rhyme](https://open.spotify.com/track/0Tt9r7jWnURy3CrJ5fzsxY) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Toddler Songs & Nursery Rhymes for Babies, Vol\. 1 \(US Version\)](https://open.spotify.com/album/2ZKTW5UsFiU4Y9Z38SbY4a) | 2:43 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 149 | [Little Tommy Tucker \- 2014 Version](https://open.spotify.com/track/11aKEebWD67zKSPNGW2BxM) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 0:51 |
 | 150 | [Wee Willie Winkie](https://open.spotify.com/track/4X8FTylLFUBFVI7islILP4) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:17 |
 
-Snapshot ID: `AAAAAAUL+CIg3oPyF8DVPA9mGIU2uUNb`
+Snapshot ID: `AAAAADIpUKDhFIgSXYkYdZLKfhw5teF1`

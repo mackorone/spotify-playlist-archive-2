@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: pszona, Nita",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Basia Ma\u0142ecka",
   "name": "up next",
   "tracks": [
     {
@@ -1289,6 +1289,28 @@
     },
     {
       "album": {
+        "name": "bez ciebie",
+        "url": "https://open.spotify.com/album/0FvXGWc2NK5USUqILWpdL7"
+      },
+      "artists": [
+        {
+          "name": "zofia justy\u0144ska",
+          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
+        },
+        {
+          "name": "Kuba Folwarczny",
+          "url": "https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216714,
+      "name": "bez ciebie",
+      "url": "https://open.spotify.com/track/3Pfn5Rl7XmzhXiMaHWmreY"
+    },
+    {
+      "album": {
         "name": "To dopiero pocz\u0105tek",
         "url": "https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak"
       },
@@ -2286,6 +2308,28 @@
       "duration_ms": 220689,
       "name": "Charms in bracelet",
       "url": "https://open.spotify.com/track/7sbA6c0JF409RF9EC7W1ww"
+    },
+    {
+      "album": {
+        "name": "chat gpt",
+        "url": "https://open.spotify.com/album/4oxn9PqGpfJThnHePn9bcz"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        },
+        {
+          "name": "Wuja HZG",
+          "url": "https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190073,
+      "name": "chat gpt",
+      "url": "https://open.spotify.com/track/1ltA0vbSCivzueR5xjwMwa"
     },
     {
       "album": {
@@ -3881,6 +3925,24 @@
     },
     {
       "album": {
+        "name": "DOM\u00d3WKI",
+        "url": "https://open.spotify.com/album/4swvEJOb7IQJJJEj6pnMwd"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "DOM\u00d3WKI",
+      "url": "https://open.spotify.com/track/6P2a95GqnTr80Ii85GhroI"
+    },
+    {
+      "album": {
         "name": "dooko\u0142a mnie",
         "url": "https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og"
       },
@@ -4894,7 +4956,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 166659,
       "name": "Gecko",
       "url": "https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc"
@@ -4934,7 +4996,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 159974,
       "name": "glitter in the night",
       "url": "https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2"
@@ -5289,6 +5351,24 @@
     },
     {
       "album": {
+        "name": "Halina",
+        "url": "https://open.spotify.com/album/2GtZYIsuWOhl4Jwxa2WkbK"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230547,
+      "name": "Halina",
+      "url": "https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb"
+    },
+    {
+      "album": {
         "name": "halo Houston",
         "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
       },
@@ -5600,7 +5680,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 157714,
       "name": "hyperl\u00f8ve",
       "url": "https://open.spotify.com/track/3gN55NN5HOAxpqaR8Cwvqz"
@@ -10228,7 +10308,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 159929,
       "name": "Noah",
       "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
@@ -10808,7 +10888,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 160000,
       "name": "Oscars",
       "url": "https://open.spotify.com/track/0oU8WJdc3UDxSjgcdNcYAd"
@@ -12521,6 +12601,24 @@
     },
     {
       "album": {
+        "name": "Przed i po",
+        "url": "https://open.spotify.com/album/14pPsh46QPxBsKVg2pyuYk"
+      },
+      "artists": [
+        {
+          "name": "Patryk Skoczy\u0144ski",
+          "url": "https://open.spotify.com/artist/6EvOzqemUOfdlCglrH23L8"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "REWERS",
+      "url": "https://open.spotify.com/track/6hi98M5T73adlUVLp0RTaR"
+    },
+    {
+      "album": {
         "name": "rom-com",
         "url": "https://open.spotify.com/album/5dXJyDYM8eXKRkAZYerKf8"
       },
@@ -13795,6 +13893,24 @@
     },
     {
       "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb"
+      },
+      "artists": [
+        {
+          "name": "Basia Ma\u0142ecka",
+          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141984,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw"
+    },
+    {
+      "album": {
         "name": "Stygnie lato",
         "url": "https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn"
       },
@@ -14658,6 +14774,28 @@
       "duration_ms": 147321,
       "name": "TENSION",
       "url": "https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH"
+    },
+    {
+      "album": {
+        "name": "Terapia dla par",
+        "url": "https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        },
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241395,
+      "name": "Terapia dla par",
+      "url": "https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc"
     },
     {
       "album": {
@@ -16034,7 +16172,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 205794,
       "name": "WHERE\u2019S THE FUN?",
       "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
@@ -16298,7 +16436,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 150272,
       "name": "WODA Z LODEM",
       "url": "https://open.spotify.com/track/54G8tGLnsGr9uXaTVSMLyi"

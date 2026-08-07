@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Endah N Rhesa",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Atlesta",
   "name": "Skena Gres",
   "tracks": [
+    {
+      "album": {
+        "name": "\"obsessed\"",
+        "url": "https://open.spotify.com/album/3hQ1Y0qo7qLFVeF7gDkVbH"
+      },
+      "artists": [
+        {
+          "name": "Reikko",
+          "url": "https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170349,
+      "name": "\"obsessed\"",
+      "url": "https://open.spotify.com/track/0JdCGnIfvQWWm1SkMx3KfT"
+    },
     {
       "album": {
         "name": "DIFFERENT",
@@ -1236,6 +1254,24 @@
       "duration_ms": 189913,
       "name": "Break Your Wall",
       "url": "https://open.spotify.com/track/3rndqiKUhfZouJZDTYYQTK"
+    },
+    {
+      "album": {
+        "name": "Building",
+        "url": "https://open.spotify.com/album/6TziaCeqD9bpWb2GlyULmW"
+      },
+      "artists": [
+        {
+          "name": "Atlesta",
+          "url": "https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238588,
+      "name": "Building",
+      "url": "https://open.spotify.com/track/3KeW6p83GJwuNUfegAGH1m"
     },
     {
       "album": {
@@ -2852,7 +2888,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 179500,
       "name": "February Ends",
       "url": "https://open.spotify.com/track/4cVwMS4jnuLRFvmEc3O5b6"
@@ -5404,7 +5440,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 150841,
       "name": "Local Wisdumb",
       "url": "https://open.spotify.com/track/2XCvkqpaTqjqlVTXrTipco"
@@ -8351,6 +8387,24 @@
     },
     {
       "album": {
+        "name": "Semu",
+        "url": "https://open.spotify.com/album/6Eqo3gZE9zuCM9kCSod2Ei"
+      },
+      "artists": [
+        {
+          "name": "The Midnight Darlings",
+          "url": "https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228705,
+      "name": "Semu",
+      "url": "https://open.spotify.com/track/11rWQVHyNB0Ok5LzAKosvP"
+    },
+    {
+      "album": {
         "name": "MARKERS AND SUCH PENS FLASHDISKS",
         "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
       },
@@ -8824,7 +8878,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 197014,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/7cGivVuKgxzPEncphBHK4F"

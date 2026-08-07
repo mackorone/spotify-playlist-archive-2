@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > ilovemycomputer.2017malware.zip.hyper\_sleaze.electro\_glitch\_\[FINAL\]\_\[REAL\]\_\_coverartists.NinaPorter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369,549 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,471 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 5 | [Hurt](https://open.spotify.com/track/3mDdkv8881MzLmSB7z8Ogy) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Hurt](https://open.spotify.com/album/6JIMB5E0g8XgwXd0sdS83S) | 2:47 |
 | 6 | [I Bring My Gun To The Function \(with Boys Noize\)](https://open.spotify.com/track/0f3P2kbpIvGdgfvXN7rIKG) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [I Bring My Gun To The Function \(with Boys Noize\)](https://open.spotify.com/album/5v1raNmRS2QloeEe4TzbnA) | 3:10 |
 | 7 | [Creep](https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Tweaker Poem](https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx) | 4:00 |
-| 8 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
+| 8 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
 | 9 | [SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ) | [Dylan Thom](https://open.spotify.com/artist/75hZOSuF07weHxVJkg60WW) | [SAS](https://open.spotify.com/album/2RSrdATmq1N2WLji1qYMsM) | 2:51 |
 | 10 | [run away](https://open.spotify.com/track/1WKzFx2fO5nA8LfXgkAPTL) | [Joey Cash](https://open.spotify.com/artist/6pvE3aqOyzjdcaReOneQjf) | [poser](https://open.spotify.com/album/5dk6Et5f7SBRNGJjCZRyyw) | 2:12 |
 | 11 | [death vs dying](https://open.spotify.com/track/7B0GseEcFXDTZhma6bMwEa) | [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [death vs dying](https://open.spotify.com/album/1cFkz4sv6GljAGJnqKTHyW) | 2:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 69 | [i\_aint\_fly \(G6\)](https://open.spotify.com/track/0gzF6cVbWR9pxvsLgC4wTi) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ), [Kori](https://open.spotify.com/artist/6tUcO4yFrN0Zzt3iMtDyns) | [i\_aint\_fly \(G6\)](https://open.spotify.com/album/6ItysXbWwK1JG0D4jLdnJi) | 1:57 |
 | 70 | [joey knows](https://open.spotify.com/track/5fmsWfMxXT9yeDKcfrNXrv) | [dance arts center](https://open.spotify.com/artist/3W9ojW2wag9ir2xBwia9QP) | [dance arts center presents](https://open.spotify.com/album/0FRFxu0vsfD02VbhdcoheD) | 3:39 |
 
-Snapshot ID: `AAAAAFvQn9I2wLZHyfIxzdoNS/wvOJDI`
+Snapshot ID: `AAAAAGPYtSN7gXPq8DqCKeMNjAEWCbBq`

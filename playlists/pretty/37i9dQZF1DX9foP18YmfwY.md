@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,134 likes - 70 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,143 likes - 70 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 51 | [Levanta e Anda \- Ao Vivo](https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9) | [Ágape Amor Divino \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm) | 5:24 |
 | 52 | [Acalma o Meu Coração](https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Acalma o Meu Coração](https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9) | 4:22 |
 | 53 | [Caminho no Deserto](https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Caminho no Deserto](https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr) | 6:45 |
-| 54 | [Quem Como Deus? \- Ao Vivo](https://open.spotify.com/track/5vtwzMIYiBoRqg0WLJOJFh) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Quem Como Deus? \(Ao Vivo\)](https://open.spotify.com/album/4SekDo9Al4QLGhShnOmcye) | 6:06 |
-| 55 | [Teu Amor Não Sabe](https://open.spotify.com/track/4CE9PRPrZF9wfB9qNwbYJz) | [Canção Nova](https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu), [Thiago Tomé](https://open.spotify.com/artist/3V3MytrEt2MOhIEaAe4EYP) | [Studio Canção Nova \| Acústico](https://open.spotify.com/album/1NnRJ4HNnZaUllXu2pVpEO) | 3:49 |
+| 54 | [Teu Amor Não Sabe](https://open.spotify.com/track/4CE9PRPrZF9wfB9qNwbYJz) | [Canção Nova](https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu), [Thiago Tomé](https://open.spotify.com/artist/3V3MytrEt2MOhIEaAe4EYP) | [Studio Canção Nova \| Acústico](https://open.spotify.com/album/1NnRJ4HNnZaUllXu2pVpEO) | 3:49 |
+| 55 | [Quem Como Deus? \- Ao Vivo](https://open.spotify.com/track/5vtwzMIYiBoRqg0WLJOJFh) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Quem Como Deus? \(Ao Vivo\)](https://open.spotify.com/album/4SekDo9Al4QLGhShnOmcye) | 6:06 |
 | 56 | [Restitui](https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Restitui](https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5) | 4:33 |
 | 57 | [Coração Ferido](https://open.spotify.com/track/4dRpyB80k0HVhW5NVuTDmP) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Msh ao Teu Lado 2026](https://open.spotify.com/album/1TTKprWxOR3LeOC30P8y6M) | 4:58 |
 | 58 | [Seremos o Amor](https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA) | [Ministério Reacender](https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX), [Paróquia Santa Terezinha](https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8) | [Seremos o Amor](https://open.spotify.com/album/11269KCRvrv5jBX520lIDb) | 6:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
 | 70 | [Ser Mais do Que Ter \- Ao Vivo](https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Ser Mais do Que Ter \(Ao Vivo\)](https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY) | 7:26 |
 
-Snapshot ID: `AAAAANYQBb4IEO9z2pKPLNC70YTp2pcc`
+Snapshot ID: `AAAAAOYyefZ+aSXOzAIl9XiU+VplMcLU`

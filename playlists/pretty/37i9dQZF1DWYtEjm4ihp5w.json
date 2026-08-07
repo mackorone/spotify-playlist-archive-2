@@ -1,12 +1,12 @@
 {
   "description": "Cover: 7ari",
-  "num_followers": 389004,
+  "num_followers": 389025,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALql+7nzyKFG8YleV6Cj9U6g+P5l",
+  "snapshot_id": "AAAAACcAd7jER2qGgBTFzNWTUJ/HULNK",
   "tracks": [
     {
       "added_at": "2026-08-03 09:13:53",
@@ -171,6 +171,30 @@
       "duration_ms": 150857,
       "name": "CANDYSHOP",
       "url": "https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt"
+    },
+    {
+      "added_at": "2026-08-06 09:01:27",
+      "album": {
+        "name": "FOTO",
+        "url": "https://open.spotify.com/album/5JqdbGF5lsAj5DPCvV88me"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "FOTO",
+      "url": "https://open.spotify.com/track/68MyQ74n2P9F20sF0ojgVC"
     },
     {
       "added_at": "2026-08-03 09:13:53",
@@ -723,26 +747,6 @@
       "duration_ms": 166153,
       "name": "Solo",
       "url": "https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL"
-    },
-    {
-      "added_at": "2026-08-03 09:13:53",
-      "album": {
-        "name": "INSOMNIA HOTEL",
-        "url": "https://open.spotify.com/album/3kT1lgMRNW7eAx2ObKdTRN"
-      },
-      "artists": [
-        {
-          "name": "Najm",
-          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 159635,
-      "name": "INSOMNIA HOTEL",
-      "url": "https://open.spotify.com/track/6AdlRsXVF7FppB7d02xfFm"
     },
     {
       "added_at": "2026-08-03 09:13:53",

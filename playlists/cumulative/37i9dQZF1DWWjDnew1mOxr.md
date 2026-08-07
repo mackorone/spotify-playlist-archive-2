@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: Yard Act
 
-478 songs - 1 day 3 hr 4 min
+479 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Not My Friends](https://open.spotify.com/track/6nsZO7sBNyWgREWxS3uOEy) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Not My Friends](https://open.spotify.com/album/6xYLt9hhDC5Kn4R4H4FPdK) | 3:28 | 2026-03-27 | 2026-06-04 |
 | [Nothing Compares To Nineteen](https://open.spotify.com/track/7GQwcstzhZd6GNFp0LJqEt) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Nothing Compares To Nineteen](https://open.spotify.com/album/3aiDUv877OWq4i6t9jI9cD) | 2:48 | 2024-10-06 | 2024-12-31 |
 | [Nothing's As It Seems](https://open.spotify.com/track/5YgWCmoVZDch6bdaTa33EL) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ) | [Nothing's As It Seems](https://open.spotify.com/album/4LF9kAQz5mw8nJQgpR80S7) | 3:42 | 2025-06-06 | 2025-11-17 |
+| [Now We Can't Be Friends](https://open.spotify.com/track/3s1mRFy9QxkQUqEx8tVGLs) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Now We Can't Be Friends](https://open.spotify.com/album/2P5tdiMwQUxV5Q0SGsU0K0) | 3:29 | 2026-08-06 |  |
 | [Nurse Depression](https://open.spotify.com/track/5xnFYRez4P0r3xvnnleejq) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nurse Depression](https://open.spotify.com/album/6kYfN2e5eh0SHLB6mRAaF5) | 2:05 | 2026-01-30 | 2026-05-05 |
 | [Oh Emily](https://open.spotify.com/track/5zb1wjPWBN0l8336yYjD9d) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Oh Emily](https://open.spotify.com/album/6XiF1c1A2HjpQ6Lx0qvCIJ) | 3:56 | 2024-04-15 | 2024-09-28 |
 | [Oh Shit](https://open.spotify.com/track/6RrAa9EThfrXsM3Yi6CJ3J) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Oh Shit](https://open.spotify.com/album/7ukfGmbgZaDTljhTnx3ydi) | 3:01 | 2024-07-12 | 2024-10-07 |
@@ -337,7 +338,7 @@
 | [Perfume](https://open.spotify.com/track/5luOK6MRqAI0ZWT7ibbXvl) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Perfume](https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w) | 3:17 | 2026-04-24 |  |
 | [Personality Test](https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Personality Test](https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S) | 2:20 | 2024-07-12 |  |
 | [Pistol](https://open.spotify.com/track/0tp0xw8Pd0IeJa2jz7qCWT) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Pistol](https://open.spotify.com/album/50WXvQbKZkvUa93FRj5FCo) | 3:25 | 2026-07-16 |  |
-| [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [Villanelle](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 | 2026-02-20 |  |
+| [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [Villanelle](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 | 2026-02-20 | 2026-08-07 |
 | [Pop Star](https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Pop Star](https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84) | 2:54 | 2024-02-23 | 2024-07-08 |
 | [PRAWN SOUP](https://open.spotify.com/track/5PEH48ZYmU1Ewx15tFJz6w) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [Prawn Soup](https://open.spotify.com/album/79n2NMO61v0yMwY65V0t9y) | 2:33 | 2023-09-19 | 2024-02-04 |
 | [Pretend](https://open.spotify.com/track/4JyTqHzS1hrQO62v0mGRep) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Pretend](https://open.spotify.com/album/02h2495vFYmNXvFZlFMavz) | 3:37 | 2023-01-10 | 2023-03-14 |

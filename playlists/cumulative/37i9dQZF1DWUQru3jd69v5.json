@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "euroshit",
+        "url": "https://open.spotify.com/album/7CZD8ijtlClkWrRuIWCmn0"
+      },
+      "artists": [
+        {
+          "name": "Yung Pips",
+          "url": "https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7"
+        },
+        {
+          "name": "Enny P",
+          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125669,
+      "name": "#hihaters (feat. Enny P)",
+      "url": "https://open.spotify.com/track/7hE0Grm8Fx7DSltgcTFavY"
+    },
+    {
+      "album": {
         "name": "#NEEDTHAT",
         "url": "https://open.spotify.com/album/4yIsPqLgBsnIJjimORxUiV"
       },

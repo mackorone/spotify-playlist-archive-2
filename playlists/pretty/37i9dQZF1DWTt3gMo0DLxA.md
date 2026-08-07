@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Lenin
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,614 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,918 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Arerey Manasa \(From "Falaknuma Das"\)](https://open.spotify.com/track/61fXT6uwJ2THPkbmxa65OI) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Arerey Manasa \(From "Falaknuma Das"\)](https://open.spotify.com/album/4cAqcskezsUVZjD01vl4Po) | 5:01 |
 | 50 | [Chinuku Taake..](https://open.spotify.com/track/0IYJm8XIVIx7n9m3YE1D1R) | [Amritavarshini KC](https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ), [Shreshta](https://open.spotify.com/artist/15XYmkNNamD0zqH0vtdfOq) | [Pelli Choopulu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5AiCp1JTO5VUcZWfIn9MEs) | 4:51 |
 
-Snapshot ID: `AAAAAOeD7bXOeSaOSS0TnnIGF/M96YWW`
+Snapshot ID: `AAAAAEFRcEJlfZRHEeH0bj6WQtK05oHn`

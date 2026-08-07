@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-834 songs - 1 day 13 hr 42 min
+835 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [distance](https://open.spotify.com/track/56QJlPcE0Ge86Q7Sb6fVKp) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/1mHEXbNTGqEDfvdVueuMJ9) | 3:36 | 2023-01-12 | 2023-01-14 |
 | [Distant Lights](https://open.spotify.com/track/5VyCpzqB89n3ilkxHKCthF) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [Distant Lights](https://open.spotify.com/album/7qHGwQ1hxCtJm9nNnAUbS6) | 2:17 | 2025-10-03 |  |
 | [Dntleave](https://open.spotify.com/track/1CQyXpkx1jEC39RyijeOHy) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [Dntleave](https://open.spotify.com/album/4eronGCeRlA7EwC7knCUV1) | 2:15 | 2021-12-23 | 2022-05-20 |
-| [Dolphin](https://open.spotify.com/track/2aqBG5dPwf7igL5OPOYmPr) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Dolphin](https://open.spotify.com/album/30H9Lt1nwENwVINJNg50l1) | 4:09 | 2026-07-18 |  |
+| [Dolphin](https://open.spotify.com/track/2aqBG5dPwf7igL5OPOYmPr) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Dolphin](https://open.spotify.com/album/30H9Lt1nwENwVINJNg50l1) | 4:09 | 2026-07-18 | 2026-08-07 |
 | [Domestic](https://open.spotify.com/track/1VWNePn7s4RPJEMefXyoIB) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.2](https://open.spotify.com/album/6KFl6WAcxp2zkApx8PNGxG) | 3:21 | 2023-05-18 | 2024-03-10 |
 | [Domestic](https://open.spotify.com/track/4CLLXxnWiCK6DSzbMlDwuP) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.2](https://open.spotify.com/album/7AUGO9ZUla9Vp8lEFoAb8s) | 3:21 | 2023-05-18 | 2023-05-20 |
 | [DON](https://open.spotify.com/track/1sAJ1LjvLUhgQkQZ35BEI3) | [LADAISLE](https://open.spotify.com/artist/1ccn3ILGtQ8vZIN0ZAWM1r) | [DON](https://open.spotify.com/album/11A2qjPlbkOjDOA0xq8EkV) | 2:40 | 2021-12-23 | 2022-07-21 |
@@ -789,6 +789,7 @@
 | [Void](https://open.spotify.com/track/5d3vsDFDDEBdZSpmKcaO7f) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Void](https://open.spotify.com/album/4II68c2qHou7hW8jltuggK) | 1:25 | 2022-07-28 | 2022-12-24 |
 | [WADOU \- DJ Mitsu the Beats Remix \- Instrumental](https://open.spotify.com/track/4dRKbDciUYkFPrtbdcFuYh) | [HUNGER](https://open.spotify.com/artist/1q0gLEvNcnAfPzBgCHG4NG) | [SHITRATSUZUMIX Instrumental](https://open.spotify.com/album/0OPYh4NzIkPDlTONjmXMpO) | 2:37 | 2022-01-27 | 2022-04-19 |
 | [Walk This Way](https://open.spotify.com/track/3lseD95TO3PlblobWtNGGn) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Walk This Way](https://open.spotify.com/album/11Kme6bKXzU6xuqGKdps25) | 1:32 | 2024-10-26 | 2024-11-22 |
+| [Walkin' the Road](https://open.spotify.com/track/1WDHNC5YL6qlasJ7CuyZp9) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Down The River](https://open.spotify.com/album/7wOcOX2RfDpMVGSE7YpUvS) | 4:18 | 2026-07-18 |  |
 | [wandering](https://open.spotify.com/track/4kp6C23AcSuf0TpY25hQHt) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [wandering](https://open.spotify.com/album/1k86vOeo1g770Hj8o4AIr5) | 1:44 | 2021-12-23 | 2022-04-26 |
 | [Warm Day of Winter](https://open.spotify.com/track/1sK6GyrSJJJ0ZBQtAyaz2p) | [Auto&mst](https://open.spotify.com/artist/0hvzMAPeK2gZ1HewTUXNwz) | [Sometime Somewhere](https://open.spotify.com/album/2ubohjSJIZdbI3cgd9hMBC) | 4:49 | 2021-12-23 | 2023-03-22 |
 | [Water Circles](https://open.spotify.com/track/0Nm5Bp7nRHP398BEnIOnhK) | [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Water Circles](https://open.spotify.com/album/0vqTCC4FGn6WosT2pGb2rD) | 1:57 | 2022-01-13 | 2024-10-29 |

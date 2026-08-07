@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,167 likes - 96 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,056 likes - 96 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 95 | [Cold](https://open.spotify.com/track/4sJMPvKfnqfvH5J7QtJ2sC) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [Cold](https://open.spotify.com/album/68ga6iLeiMUXafEi9tzehV) | 2:48 |
 | 96 | [Hands Up](https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hands Up](https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au) | 3:14 |
 
-Snapshot ID: `AAAAAMn1NQYduEQWzPjzAY8Lb68RPonr`
+Snapshot ID: `AAAAAN3NsGs2RoIYW16wCN59Tf98wblZ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 254095,
+  "num_followers": 254104,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAADssD4CgHE/Ce1VfaegWYtT",
+  "snapshot_id": "anJ9AAAAAAD7MVG5S5UVv2OUqkuytnzO",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc"
+        "name": "Up! (Green Version)",
+        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 255883,
-      "name": "Little Miss Twain (feat. Tanya Tucker)",
-      "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
+      "duration_ms": 229093,
+      "name": "She's Not Just A Pretty Face",
+      "url": "https://open.spotify.com/track/1dqiXGXfB74mwUeJRvqYKB"
     },
     {
       "added_at": null,
@@ -619,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Green Version)",
-        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 229093,
-      "name": "She's Not Just A Pretty Face",
-      "url": "https://open.spotify.com/track/1dqiXGXfB74mwUeJRvqYKB"
+      "duration_ms": 255883,
+      "name": "Little Miss Twain (feat. Tanya Tucker)",
+      "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
     },
     {
       "added_at": null,

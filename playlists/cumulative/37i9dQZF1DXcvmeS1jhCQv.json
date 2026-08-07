@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "The best new Irish music in one place \ud83d\udccd cover: F3miii",
+  "description": "The best new Irish music in one place \ud83d\udccd cover: Florence Road",
   "name": "Today's Ireland",
   "tracks": [
     {
@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "7563",
+        "url": "https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243302,
+      "name": "7563",
+      "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
+    },
+    {
+      "album": {
         "name": "A Dream",
         "url": "https://open.spotify.com/album/7bIvUU5TnwqLcoObMOciWN"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 142550,
       "name": "Alive O",
       "url": "https://open.spotify.com/track/2j6zL6sSaMMucvi2xJ249A"
@@ -676,6 +694,24 @@
       "duration_ms": 251544,
       "name": "Attention",
       "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
+    },
+    {
+      "album": {
+        "name": "Back to Me",
+        "url": "https://open.spotify.com/album/23rc0b8no56Vz8EO9wGytL"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Back to Me",
+      "url": "https://open.spotify.com/track/4wnnGv2lffcesFBwX6CkZE"
     },
     {
       "album": {
@@ -1254,7 +1290,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 211964,
       "name": "Break the Girl",
       "url": "https://open.spotify.com/track/1G6tftTrUHgg1g6cP3VkJ5"
@@ -2631,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Ellen Forever",
+        "url": "https://open.spotify.com/album/7KllU4dJAaIwt4vL601PCD"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181063,
+      "name": "Ellen Forever",
+      "url": "https://open.spotify.com/track/5TTN9RKqzURTGMTssbu2JS"
+    },
+    {
+      "album": {
         "name": "End of an Era",
         "url": "https://open.spotify.com/album/0FSyYdz0o2YFjPwFpdk5iO"
       },
@@ -3296,7 +3350,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 278875,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/1eFRNhkIbgraWITQdGs6Vl"
@@ -3635,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "Hollywood Sign",
+        "url": "https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241169,
+      "name": "Hollywood Sign",
+      "url": "https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4QCdkGxbiGTPoF5XgukLbG"
       },
@@ -3668,6 +3740,24 @@
       "duration_ms": 166005,
       "name": "HOMECOMING",
       "url": "https://open.spotify.com/track/1mAAiV4rdBbGlLarXDidB2"
+    },
+    {
+      "album": {
+        "name": "How Is It Fair",
+        "url": "https://open.spotify.com/album/7aH66oScu7kGloQRjOYXfc"
+      },
+      "artists": [
+        {
+          "name": "Bradley Marshall",
+          "url": "https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251294,
+      "name": "How Is It Fair",
+      "url": "https://open.spotify.com/track/2QfZ8N6DpJs1Hv3dr5YFdQ"
     },
     {
       "album": {
@@ -4018,7 +4108,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 143808,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/7CVEZE9RSUO3MfdqF4TRgv"
@@ -4350,7 +4440,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 280000,
       "name": "John's Song",
       "url": "https://open.spotify.com/track/0LtyfzUIi656oVoKbc3tqF"
@@ -4408,6 +4498,24 @@
       "duration_ms": 183088,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/1iKE8ZTRJEW0lr8eus0KFS"
+    },
+    {
+      "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3NzDCbjZaErLctPH77vbaV"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/1W7NwoNXkeQHtPNykbXwaP"
     },
     {
       "album": {
@@ -4498,6 +4606,24 @@
       "duration_ms": 230604,
       "name": "Kissing The Ground",
       "url": "https://open.spotify.com/track/1uBcmYV9Ihtu4QicLJAj9K"
+    },
+    {
+      "album": {
+        "name": "Kit Kat Club",
+        "url": "https://open.spotify.com/album/5UfYCZB3Pz6SsBtswTXLuS"
+      },
+      "artists": [
+        {
+          "name": "The Mary Wallopers",
+          "url": "https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178118,
+      "name": "Kit Kat Club",
+      "url": "https://open.spotify.com/track/069KRt3LNYWB9Hc2l59xxf"
     },
     {
       "album": {
@@ -6264,7 +6390,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 197791,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/5luOK6MRqAI0ZWT7ibbXvl"
@@ -6412,7 +6538,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 170097,
       "name": "POUNDIN POUNDIN",
       "url": "https://open.spotify.com/track/32fKhK96NA08eQKZnQCWXG"
@@ -7162,7 +7288,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 197176,
       "name": "Sidekick",
       "url": "https://open.spotify.com/track/2dnkypL7uPTydT483Ptaoj"
@@ -7306,7 +7432,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 98746,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6wNsQL63SDzUv3AWjiBL0c"
@@ -8017,6 +8143,24 @@
     },
     {
       "album": {
+        "name": "Terror TV",
+        "url": "https://open.spotify.com/album/6GutoOofpiccz3CnPb0WER"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195811,
+      "name": "Terror TV",
+      "url": "https://open.spotify.com/track/7yug9Rrhhz76Nl2dAijt9X"
+    },
+    {
+      "album": {
         "name": "Thank you",
         "url": "https://open.spotify.com/album/2zHhWY8HcmDc6sIvxYBBfA"
       },
@@ -8567,6 +8711,24 @@
     },
     {
       "album": {
+        "name": "TomTom",
+        "url": "https://open.spotify.com/album/7mj8zoiSp15MzAvtHl3Jqw"
+      },
+      "artists": [
+        {
+          "name": "Ejeca",
+          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180356,
+      "name": "TomTom",
+      "url": "https://open.spotify.com/track/1BKiRyWuOxET6txWRI7wXj"
+    },
+    {
+      "album": {
         "name": "Too Many Women (feat. kwn)",
         "url": "https://open.spotify.com/album/26iaTdQU3Ce1IC4Bfz6L6V"
       },
@@ -9054,7 +9216,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 241781,
       "name": "we fall",
       "url": "https://open.spotify.com/track/29tmBVWOnuKqLR4RlhKcgS"
@@ -9488,6 +9650,24 @@
       "duration_ms": 244986,
       "name": "You and Your Army",
       "url": "https://open.spotify.com/track/5sNq3ftyBFmOhfhG4u0JG5"
+    },
+    {
+      "album": {
+        "name": "You Are Never Gone From Me",
+        "url": "https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ"
+      },
+      "artists": [
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212055,
+      "name": "You Are Never Gone From Me",
+      "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
     },
     {
       "album": {

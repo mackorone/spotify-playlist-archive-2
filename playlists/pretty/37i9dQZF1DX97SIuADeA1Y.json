@@ -1,12 +1,12 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 340142,
+  "num_followers": 340146,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKXcbdFq4XiSKUsDXV1jc0STuPOF",
+  "snapshot_id": "AAAAAOE622NaNY5xRC3NWwDeaJZW+C/c",
   "tracks": [
     {
       "added_at": "2025-02-14 16:04:15",
@@ -551,26 +551,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Big Hoops",
-        "url": "https://open.spotify.com/album/4tBx7yPE2YtUqXrLldEghH"
-      },
-      "artists": [
-        {
-          "name": "JKRS",
-          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
-        },
-        {
-          "name": "LEOWI",
-          "url": "https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Big Hoops",
-      "url": "https://open.spotify.com/track/29jqFjb8D3GvGjWcCnl4IJ"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Everybody Cries",
         "url": "https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 170662,
       "name": "Everybody Cries",
       "url": "https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Big Hoops",
+        "url": "https://open.spotify.com/album/4tBx7yPE2YtUqXrLldEghH"
+      },
+      "artists": [
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        },
+        {
+          "name": "LEOWI",
+          "url": "https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Big Hoops",
+      "url": "https://open.spotify.com/track/29jqFjb8D3GvGjWcCnl4IJ"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -735,6 +735,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
+      },
+      "artists": [
+        {
+          "name": "Nora & Chris",
+          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
+        },
+        {
+          "name": "Alex Martin",
+          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 172500,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
-      },
-      "artists": [
-        {
-          "name": "Nora & Chris",
-          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
-        },
-        {
-          "name": "Alex Martin",
-          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Find U (Ready Or Not)",
+        "url": "https://open.spotify.com/album/519IjT6psFBPMdjMePkkbK"
+      },
+      "artists": [
+        {
+          "name": "YOU",
+          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
+        }
+      ],
+      "duration_ms": 137525,
+      "name": "Find U (Ready Or Not)",
+      "url": "https://open.spotify.com/track/2MAoL7dgDHVwQTZ5eRhazJ"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Fantasy Girl",
         "url": "https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 195247,
       "name": "Fantasy Girl",
       "url": "https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Find U (Ready Or Not)",
-        "url": "https://open.spotify.com/album/519IjT6psFBPMdjMePkkbK"
-      },
-      "artists": [
-        {
-          "name": "YOU",
-          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
-        }
-      ],
-      "duration_ms": 137525,
-      "name": "Find U (Ready Or Not)",
-      "url": "https://open.spotify.com/track/2MAoL7dgDHVwQTZ5eRhazJ"
     },
     {
       "added_at": "2025-02-14 16:04:15",

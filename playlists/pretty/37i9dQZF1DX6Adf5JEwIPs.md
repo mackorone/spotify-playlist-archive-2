@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: El Rabbanito y Kane Rodríguez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,038 likes - 71 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,042 likes - 71 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 70 | [Tu Secreto](https://open.spotify.com/track/4TlohQJNv0s5TEBiYBpVGm) | [Grupo La Revo](https://open.spotify.com/artist/2CCm63X8y210EdLf541qBr) | [Pa' Cortarse las Venas](https://open.spotify.com/album/4Bh1tL4ZXrHSP0v0ZhARFB) | 2:30 |
 | 71 | [El Columpio](https://open.spotify.com/track/6BQSzIm1xo8EURwo5nzPfX) | [La Banda Que Hacía Falta](https://open.spotify.com/artist/7oXxptWy0UJWRUL665ErYG) | [El Columpio](https://open.spotify.com/album/5GxdaXBSU2SjLO1EZtsDry) | 2:39 |
 
-Snapshot ID: `AAAAACZVqKBFPYC9MKt5yflukcLbFOM8`
+Snapshot ID: `AAAAAK8vOkG5ANeMkAsy2JgA8rI51QQI`

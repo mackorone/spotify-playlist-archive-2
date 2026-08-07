@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-1,066 songs - 2 day 17 hr 2 min
+1,067 songs - 2 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Don't Let This Feeling](https://open.spotify.com/track/2W6Xyj96U9ujqDPgzNMKBM) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 2:52 | 2025-04-29 | 2025-05-09 |
 | [Don't Look Back \- feat\. Van Morrison](https://open.spotify.com/track/7CTBrlgx4l9JXfJellaBOE) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 6:44 | 2026-04-18 | 2026-04-30 |
 | [donatt gonatt](https://open.spotify.com/track/1KTUanjuON1WRpdAm7K0q6) | [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Dan Nicholls](https://open.spotify.com/artist/3jPACp3hjJoZE4amLccrTW) | [Y\-OTIS TRE](https://open.spotify.com/album/5Ft7Z5wGzds53aw1ivIPAS) | 2:18 | 2025-01-21 | 2025-01-23 |
-| [Don’t Challenge Me](https://open.spotify.com/track/7keyJb7V22AHhKEXFEbwkC) | [Makers](https://open.spotify.com/artist/4o3UbCOZDjx8y4pORzt4wq) | [Don't Challenge Me / You're Shy](https://open.spotify.com/album/27yf7UUdGz4VlqiVdMBELz) | 3:05 | 2026-07-10 |  |
+| [Don’t Challenge Me](https://open.spotify.com/track/7keyJb7V22AHhKEXFEbwkC) | [Makers](https://open.spotify.com/artist/2eHWlghlbjyLgabd6hRSWp) | [Don't Challenge Me / You're Shy](https://open.spotify.com/album/27yf7UUdGz4VlqiVdMBELz) | 3:05 | 2026-07-10 |  |
 | [Doubt](https://open.spotify.com/track/2dexrJhfT8hQEvH7uqNpRf) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:00 | 2025-09-26 | 2025-11-15 |
 | [Doubt](https://open.spotify.com/track/6fFSq7gqYd1IyidV7tIBCI) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Escho 15 år: Burgers for my new life](https://open.spotify.com/album/0DyC815neW8HCVwn9SEp09) | 4:00 | 2025-02-10 | 2025-03-02 |
 | [Dozen Roses](https://open.spotify.com/track/1QM2VOPPfzGJJJ2Hgqo90m) | [Thomas Dollbaum](https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ) | [Birds of Paradise](https://open.spotify.com/album/7Lib6qYBmpQCGyh1W8L4S3) | 5:24 | 2026-05-31 |  |
@@ -1067,6 +1067,7 @@
 | [アン・オープン・ドア](https://open.spotify.com/track/1DrPpgiTvuogt6Ktxsag4h) | [FLat7](https://open.spotify.com/artist/6qWQ49hbX08ZLyRABxaasl) | [スウィート・グロウ・オブ・サイレンス](https://open.spotify.com/album/21AVBPMluy9ZI8SkMWC4Ar) | 4:43 | 2024-10-27 | 2024-11-14 |
 | [カッチンコールたいりく / Freeze Continent](https://open.spotify.com/track/0ujIsmyyJMZcq5AhMSZaCm) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Ape Escape 3 \- Originape Soundtracks / サルゲッチュ3・オリジサル・サウンドトラック](https://open.spotify.com/album/5CBUobzAmO8mdaFeuG7HJe) | 2:07 | 2025-11-14 | 2026-01-15 |
 | [不變](https://open.spotify.com/track/4pp3H1juhrzNqvkCAXDjNh) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [天空](https://open.spotify.com/album/4J3XjEzUvDKGNyCESR2Jls) | 4:45 | 2025-12-25 | 2026-03-13 |
+| [四面道歌 \- 2019 Remastering](https://open.spotify.com/track/2HDGtTkECiCygeSNYIH9RQ) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [イエロー・マジック・バンド](https://open.spotify.com/artist/5jbEAtH0taE3VOckheoojM) | [Paraiso](https://open.spotify.com/album/2WehoDdFUCXFkI1GPzNXsb) | 4:46 | 2026-08-06 |  |
 | [小っちゃな庭](https://open.spotify.com/track/1Tui361pj9E3DWwqNTVCMa) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [GLUON](https://open.spotify.com/album/7xSScon3OgjSjnbykTdM5d) | 4:36 | 2025-07-27 | 2025-09-11 |
 | [暗闇坂むささび変化](https://open.spotify.com/track/60JZapt4cncqQ0xG1iM6nM) | [はっぴいえんど](https://open.spotify.com/artist/5cE4zmLUDdmvlYp8TP1YRn) | [風街ろまん](https://open.spotify.com/album/3N3NdhXkyIKauv6xkoUpwE) | 1:58 | 2026-07-21 |  |
 | [東京幻想曲](https://open.spotify.com/track/2bWBTC67ELpbnwMHTN8lhg) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [A PRETTY DANCE](https://open.spotify.com/album/2AMTMvJufxxKc6xJoRht9t) | 4:27 | 2025-12-24 | 2026-01-15 |

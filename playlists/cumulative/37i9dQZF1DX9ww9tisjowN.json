@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: YAO (Awich + CHICO CARLITO + Paledusk + ONE OK ROCK)",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: King Gnu",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -3027,6 +3027,28 @@
     },
     {
       "album": {
+        "name": "Even a poke bowl (feat. KASANE TETO)",
+        "url": "https://open.spotify.com/album/4f1nIDg9Nv671vJK0HiuDv"
+      },
+      "artists": [
+        {
+          "name": "\u66b4\u98f2\u66b4\u98dfP",
+          "url": "https://open.spotify.com/artist/5bT9WQ6QLrbabzdzvC63EN"
+        },
+        {
+          "name": "Kasane Teto",
+          "url": "https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158627,
+      "name": "Even a poke bowl (feat. KASANE TETO)",
+      "url": "https://open.spotify.com/track/4VARGOOU2DwLEP5oQ4aELd"
+    },
+    {
+      "album": {
         "name": "Even If (Remix)",
         "url": "https://open.spotify.com/album/6yZ61GZyKlHGRKCH1uACDX"
       },
@@ -3100,7 +3122,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 191250,
       "name": "Execution Clap",
       "url": "https://open.spotify.com/track/4ImjstkvWuxK1eElOJYd6R"
@@ -5594,7 +5616,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 149400,
       "name": "JJK (with Yuki Chiba)",
       "url": "https://open.spotify.com/track/6acCX2vGgm8mBFJ65mGySQ"
@@ -7544,6 +7566,24 @@
       "duration_ms": 212181,
       "name": "Mononoke Kyoto",
       "url": "https://open.spotify.com/track/4wDQ1fxncnI7AzqD7TNEWB"
+    },
+    {
+      "album": {
+        "name": "Monstruo",
+        "url": "https://open.spotify.com/album/2w1G8FZ9tZwmamv84FWajp"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Monstruo",
+      "url": "https://open.spotify.com/track/2Sok9eIEfMOnxnSq5kI97u"
     },
     {
       "album": {
@@ -10753,6 +10793,24 @@
     },
     {
       "album": {
+        "name": "summer film",
+        "url": "https://open.spotify.com/album/1NE7XgXb1YQFCyco6AsEmC"
+      },
+      "artists": [
+        {
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349794,
+      "name": "summer film",
+      "url": "https://open.spotify.com/track/22XNz0VJZKVgM4CpbMLD0x"
+    },
+    {
+      "album": {
         "name": "ALLSEASON EP.",
         "url": "https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L"
       },
@@ -12858,7 +12916,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 198567,
       "name": "\u3044\u3061\u3054 Got it (feat. \u30d4\u30fc\u30ca\u30c3\u30c4\u304f\u3093)",
       "url": "https://open.spotify.com/track/2liY6rIILsRq7NXw1EzH7L"
@@ -17011,6 +17069,24 @@
     },
     {
       "album": {
+        "name": "\u30dd\u30c3\u30da\u30f3\u30ad\u30e5\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/6XPZ2ZuS07LFLHgNoJS1hU"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u771f\u4e2d",
+          "url": "https://open.spotify.com/artist/1XpZKw5ml9resg2tXiAk7K"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152750,
+      "name": "\u30dd\u30c3\u30da\u30f3\u30ad\u30e5\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/3mhX7RepAwqeoz04q0wCYn"
+    },
+    {
+      "album": {
         "name": "Rooom",
         "url": "https://open.spotify.com/album/3ZR0xze2etYIJEIb4HefUX"
       },
@@ -20131,6 +20207,24 @@
     },
     {
       "album": {
+        "name": "\u6674\u3005",
+        "url": "https://open.spotify.com/album/2MlZJtGX2q8z2MKqRAQpX5"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "\u6674\u3005",
+      "url": "https://open.spotify.com/track/0rlxx7HySKpl2LwyOfg2zR"
+    },
+    {
+      "album": {
         "name": "\u6674\u308b",
         "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
       },
@@ -21142,7 +21236,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 187253,
       "name": "\u7b2c\u4e09\u60d1\u661f - The Third Planet",
       "url": "https://open.spotify.com/track/75B3tVCZozY6YRkC9N6ThQ"
@@ -21258,7 +21352,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 188982,
       "name": "\u7dba\u7f85",
       "url": "https://open.spotify.com/track/4dSWGjuW29GHffKWwx0bGw"

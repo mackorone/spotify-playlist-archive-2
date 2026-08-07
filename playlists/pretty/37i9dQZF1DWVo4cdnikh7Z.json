@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : DC",
-  "num_followers": 757545,
+  "num_followers": 757693,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPm5/XDP+8YesBIkbM3WNRaaGVIQ",
+  "snapshot_id": "AAAAAHXms1LCbgeLAyk3fYrvGkEqF8jz",
   "tracks": [
     {
       "added_at": "2026-08-03 04:59:13",
@@ -221,6 +221,38 @@
       "url": "https://open.spotify.com/track/40rsaNsQOa4jFd15CvdUFX"
     },
     {
+      "added_at": "2026-08-06 11:17:55",
+      "album": {
+        "name": "Atrocity (from the Netflix Film \"Pyaar Prema Kalyanam\")",
+        "url": "https://open.spotify.com/album/5rexeAC6WM1rkFNnRQaHVs"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Mathichiyam Bala",
+          "url": "https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG"
+        },
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        },
+        {
+          "name": "Elan",
+          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
+        },
+        {
+          "name": "VENGAYO",
+          "url": "https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01"
+        }
+      ],
+      "duration_ms": 178530,
+      "name": "Atrocity (from the Netflix Film \"Pyaar Prema Kalyanam\")",
+      "url": "https://open.spotify.com/track/1cTduCpvpyg6XdDS9MwOUT"
+    },
+    {
       "added_at": "2026-07-19 03:08:15",
       "album": {
         "name": "Bum Baa Diga Diga (From \"DC\")",
@@ -313,6 +345,34 @@
       "url": "https://open.spotify.com/track/34520Ev0rl6reqiIKSr2eK"
     },
     {
+      "added_at": "2026-08-06 10:19:38",
+      "album": {
+        "name": "G.D.N (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12R7GvGtsaNDbI8ipaSIh3"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Maalavika Sundar",
+          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
+        },
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        },
+        {
+          "name": "Senthuzhan",
+          "url": "https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX"
+        }
+      ],
+      "duration_ms": 215409,
+      "name": "The Rise of GDN (From \"G.D.N.\")",
+      "url": "https://open.spotify.com/track/7MTHbNPlayXoaNi75SIYhk"
+    },
+    {
       "added_at": "2026-07-31 10:22:38",
       "album": {
         "name": "Brand New Day (From \"Spider-Man: Brand New Day\")",
@@ -320,8 +380,8 @@
       },
       "artists": [
         {
-          "name": "G.V. Prakash Kumar",
-          "url": "https://open.spotify.com/artist/75r4L4m7eDhqgKkceviKUj"
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
           "name": "VENGAYO",
@@ -331,6 +391,30 @@
       "duration_ms": 156241,
       "name": "Brand New Day (From \"Spider-Man: Brand New Day\")",
       "url": "https://open.spotify.com/track/4RiIy3pyaG1I40iW6GDLh4"
+    },
+    {
+      "added_at": "2026-08-06 10:19:38",
+      "album": {
+        "name": "Seppu Sela (From \"Ram in Leela\")",
+        "url": "https://open.spotify.com/album/0e77cZvHRmKAV2dyF6W7mZ"
+      },
+      "artists": [
+        {
+          "name": "Ankit Menon",
+          "url": "https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "Uma Devi",
+          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
+        }
+      ],
+      "duration_ms": 141290,
+      "name": "Seppu Sela - From \"Ram in Leela\"",
+      "url": "https://open.spotify.com/track/5AVYkZGQ1eHTp4yrsLdUMl"
     },
     {
       "added_at": "2026-08-04 15:45:37",
@@ -355,6 +439,58 @@
       "duration_ms": 206600,
       "name": "Sengathiye (From \"Delivery Boy\")",
       "url": "https://open.spotify.com/track/3vj0s7dBf0WmYQONf3iRs0"
+    },
+    {
+      "added_at": "2026-08-06 11:19:27",
+      "album": {
+        "name": "Crazy Love (from the Netflix Film \"Pyaar Prema Kalyanam\")",
+        "url": "https://open.spotify.com/album/7CJ8bmm1QGuqwGbukD6ss3"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Snigdha Chandra",
+          "url": "https://open.spotify.com/artist/5lkP9r6eDJY1EBvu5jYgV7"
+        },
+        {
+          "name": "Elan",
+          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
+        }
+      ],
+      "duration_ms": 190048,
+      "name": "Crazy Love (from the Netflix Film \"Pyaar Prema Kalyanam\")",
+      "url": "https://open.spotify.com/track/4mHI5yOT8i8ZkHT7hDth0q"
+    },
+    {
+      "added_at": "2026-08-06 11:13:18",
+      "album": {
+        "name": "Kaathaaga Vaazhaporom (From \"MAGUDAM\")",
+        "url": "https://open.spotify.com/album/3NZmS328NcPgsPgBgwkUU6"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "duration_ms": 121384,
+      "name": "Kaathaaga Vaazhaporom (From \"MAGUDAM\")",
+      "url": "https://open.spotify.com/track/23MTltf8rHrixsQNoVOsfY"
     },
     {
       "added_at": "2026-08-04 10:20:55",
@@ -405,6 +541,34 @@
       "url": "https://open.spotify.com/track/1hFNVN8Y8xrMaagtdQgA72"
     },
     {
+      "added_at": "2026-08-06 10:19:38",
+      "album": {
+        "name": "Battle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6JgANjnZomslDw5ZLGRJSM"
+      },
+      "artists": [
+        {
+          "name": "Raaj k chozhan",
+          "url": "https://open.spotify.com/artist/7GbQKLAM0KQfGAytrNo0az"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Vaish",
+          "url": "https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD"
+        },
+        {
+          "name": "Raj kumar Ganapathy",
+          "url": "https://open.spotify.com/artist/6fmlUxBrAbJGMHGm8Fb8E5"
+        }
+      ],
+      "duration_ms": 231870,
+      "name": "Porvizhi paarvaiyal",
+      "url": "https://open.spotify.com/track/4b3vOz7lIwyzgHa66XsQIP"
+    },
+    {
       "added_at": "2026-08-04 15:31:10",
       "album": {
         "name": "Mylanji (Original Motion Picture Soundtrack)",
@@ -451,6 +615,34 @@
       "duration_ms": 253012,
       "name": "Manasu Thannala (From \"Irumudi Kattu\")",
       "url": "https://open.spotify.com/track/3Y9q9jCs8kt1ADYYWag77L"
+    },
+    {
+      "added_at": "2026-08-06 10:19:38",
+      "album": {
+        "name": "G.D.N (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12R7GvGtsaNDbI8ipaSIh3"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Sanjana Kalmanje",
+          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
+        },
+        {
+          "name": "Uma Devi",
+          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Manasa Parichaye (From \"G.D.N.\")",
+      "url": "https://open.spotify.com/track/6PDfiyAubto4EabSrDcKq7"
     },
     {
       "added_at": "2026-08-04 10:35:42",
@@ -517,6 +709,30 @@
       "url": "https://open.spotify.com/track/7qWI3Fal0CaD9ZEqCOuVS3"
     },
     {
+      "added_at": "2026-08-06 10:19:38",
+      "album": {
+        "name": "G.D.N (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12R7GvGtsaNDbI8ipaSIh3"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Uma Devi",
+          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "duration_ms": 264923,
+      "name": "Naan Parakka Vaanam Nee ( From \"G.D.N.\")",
+      "url": "https://open.spotify.com/track/0eQgQ8Tz20eHIxdYcYLPvS"
+    },
+    {
       "added_at": "2026-07-19 03:03:44",
       "album": {
         "name": "Mandaadi Mandaadi (From \"Mandaadi\")",
@@ -541,32 +757,28 @@
       "url": "https://open.spotify.com/track/50hUrYi1cF0MPxqZrXbs9G"
     },
     {
-      "added_at": "2026-07-31 10:56:04",
+      "added_at": "2026-08-06 10:19:38",
       "album": {
-        "name": "Kongu Kummi (From \"G.D.N.\")",
-        "url": "https://open.spotify.com/album/3meQhOpHZdBYT7gJEKIUYk"
+        "name": "Uravugal Thodarkathai - Jazz Cover",
+        "url": "https://open.spotify.com/album/6aHFFjXEqLW60HwvqH1wEB"
       },
       "artists": [
         {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+          "name": "Noel Toms",
+          "url": "https://open.spotify.com/artist/3k4ieeq8zZ9g68p2Uj7qwD"
         },
         {
-          "name": "V.M. Mahalingam",
-          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
         },
         {
-          "name": "Meenakshi Elayaraja",
-          "url": "https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M"
-        },
-        {
-          "name": "Kavingar Sarathy",
-          "url": "https://open.spotify.com/artist/5yhfcqPbHJhno1xsrCoyOm"
+          "name": "Gangai Amaran",
+          "url": "https://open.spotify.com/artist/0wAdPB0vUICwqg1U5iGUJV"
         }
       ],
-      "duration_ms": 235927,
-      "name": "Kongu Kummi (From \"G.D.N.\")",
-      "url": "https://open.spotify.com/track/2i1KWBzrefjHgvBlJQ8sRx"
+      "duration_ms": 174827,
+      "name": "Uravugal Thodarkathai - Jazz Cover",
+      "url": "https://open.spotify.com/track/2Mq9TCb3YA712f6NzoKMCh"
     },
     {
       "added_at": "2026-08-04 15:31:10",
@@ -591,6 +803,26 @@
       "duration_ms": 196088,
       "name": "Daiva Coatingu",
       "url": "https://open.spotify.com/track/7dn4zH5tgERs1YM0UqZ8uj"
+    },
+    {
+      "added_at": "2026-08-06 10:19:38",
+      "album": {
+        "name": "G.D.N (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12R7GvGtsaNDbI8ipaSIh3"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Kavingar Sarathy",
+          "url": "https://open.spotify.com/artist/5yhfcqPbHJhno1xsrCoyOm"
+        }
+      ],
+      "duration_ms": 172285,
+      "name": "Poraali ( From \"G.D.N.\")",
+      "url": "https://open.spotify.com/track/5iNM2eu7KVTGqNPdLHYXt4"
     },
     {
       "added_at": "2026-08-04 16:23:29",
@@ -719,6 +951,30 @@
       "duration_ms": 162750,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/38mVCLnD3fyvFIJM7THeYz"
+    },
+    {
+      "added_at": "2026-08-06 10:19:38",
+      "album": {
+        "name": "G.D.N (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12R7GvGtsaNDbI8ipaSIh3"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Kavingar Sarathy",
+          "url": "https://open.spotify.com/artist/5yhfcqPbHJhno1xsrCoyOm"
+        },
+        {
+          "name": "Charulatha Mani",
+          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
+        }
+      ],
+      "duration_ms": 103834,
+      "name": "Nee Enadhu Maarbodu ( From \"G.D.N.\")",
+      "url": "https://open.spotify.com/track/1052hFvrh2Jj1K38oU9zPZ"
     },
     {
       "added_at": "2026-08-04 16:23:29",
@@ -1291,34 +1547,6 @@
       "duration_ms": 303055,
       "name": "Thangame Thangame",
       "url": "https://open.spotify.com/track/39WC47tKMREDYR05LVBQKV"
-    },
-    {
-      "added_at": "2026-07-08 06:12:22",
-      "album": {
-        "name": "The Rise of GDN (From \"G.D.N.\")",
-        "url": "https://open.spotify.com/album/0q7dQTfaIzfrkkUoShIbco"
-      },
-      "artists": [
-        {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
-        },
-        {
-          "name": "Maalavika Sundar",
-          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
-        },
-        {
-          "name": "JAXK",
-          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
-        },
-        {
-          "name": "Senthuzhan",
-          "url": "https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX"
-        }
-      ],
-      "duration_ms": 215409,
-      "name": "The Rise of GDN (From \"G.D.N.\")",
-      "url": "https://open.spotify.com/track/4WH0z1XvtjJvgEKbsgQjwt"
     },
     {
       "added_at": "2026-07-10 15:25:34",

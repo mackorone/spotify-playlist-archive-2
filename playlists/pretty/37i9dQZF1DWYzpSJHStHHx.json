@@ -1,12 +1,12 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484416,
+  "num_followers": 484409,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD956sREaXfTg/+hmD5Jv4Oq/mgE",
+  "snapshot_id": "AAAAAM/8Q1iwjyZNizkzBtq7uudDQc51",
   "tracks": [
     {
       "added_at": "2026-04-09 14:00:34",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "The Mystery Lights",
-        "url": "https://open.spotify.com/album/6svXmZ3D1FVUOInHI9enLp"
-      },
-      "artists": [
-        {
-          "name": "The Mystery Lights",
-          "url": "https://open.spotify.com/artist/6AQxkjJQfz7CNjwZ5CTqJX"
-        }
-      ],
-      "duration_ms": 242506,
-      "name": "What Happens When You Turn the Devil Down",
-      "url": "https://open.spotify.com/track/4nRGHjBSIDRHw1sqDXLOTX"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "L.S.D",
         "url": "https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 217538,
       "name": "L.S.D",
       "url": "https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "The Mystery Lights",
+        "url": "https://open.spotify.com/album/6svXmZ3D1FVUOInHI9enLp"
+      },
+      "artists": [
+        {
+          "name": "The Mystery Lights",
+          "url": "https://open.spotify.com/artist/6AQxkjJQfz7CNjwZ5CTqJX"
+        }
+      ],
+      "duration_ms": 242506,
+      "name": "What Happens When You Turn the Devil Down",
+      "url": "https://open.spotify.com/track/4nRGHjBSIDRHw1sqDXLOTX"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Pound For Pound",
-        "url": "https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw"
-      },
-      "artists": [
-        {
-          "name": "Ra Ra Viper",
-          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
-        }
-      ],
-      "duration_ms": 182019,
-      "name": "Tora",
-      "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 154181,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Pound For Pound",
+        "url": "https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Viper",
+          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+        }
+      ],
+      "duration_ms": 182019,
+      "name": "Tora",
+      "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Daydream Twins",
-        "url": "https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO"
-      },
-      "artists": [
-        {
-          "name": "Daydream Twins",
-          "url": "https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O"
-        }
-      ],
-      "duration_ms": 362601,
-      "name": "Carpop",
-      "url": "https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Things Left to Do",
         "url": "https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 220373,
       "name": "Yes",
       "url": "https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Daydream Twins",
+        "url": "https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO"
+      },
+      "artists": [
+        {
+          "name": "Daydream Twins",
+          "url": "https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O"
+        }
+      ],
+      "duration_ms": 362601,
+      "name": "Carpop",
+      "url": "https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Ooooo",
-        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
-      },
-      "artists": [
-        {
-          "name": "Easy Honey",
-          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
-        }
-      ],
-      "duration_ms": 154811,
-      "name": "Alright, Alright",
-      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Playful Sins",
         "url": "https://open.spotify.com/album/5LtWxH19vd7sBZUJXzozII"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 222380,
       "name": "Playful Sins",
       "url": "https://open.spotify.com/track/0FODuQjDLbTaqNIYZrEE5K"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Ooooo",
+        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+      },
+      "artists": [
+        {
+          "name": "Easy Honey",
+          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+        }
+      ],
+      "duration_ms": 154811,
+      "name": "Alright, Alright",
+      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 231950,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "I AM NOT SO TALL",
         "url": "https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 174000,
       "name": "I AM NOT SO TALL",
       "url": "https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 231950,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
+        "name": "Floating By",
+        "url": "https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT"
+      },
+      "artists": [
+        {
+          "name": "Dawson James",
+          "url": "https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL"
+        }
+      ],
+      "duration_ms": 160703,
+      "name": "Floating By",
+      "url": "https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Floating By",
-        "url": "https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT"
-      },
-      "artists": [
-        {
-          "name": "Dawson James",
-          "url": "https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL"
-        }
-      ],
-      "duration_ms": 160703,
-      "name": "Floating By",
-      "url": "https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 187345,
       "name": "Keep on",
       "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
-        "name": "Malibu Sunset b/w Hang On",
-        "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
-      },
-      "artists": [
-        {
-          "name": "The Travelers",
-          "url": "https://open.spotify.com/artist/6vayW66astvaRgv4llGBff"
-        }
-      ],
-      "duration_ms": 128194,
-      "name": "Malibu Sunset",
-      "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -1195,18 +1179,34 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Stargazer",
-        "url": "https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID"
+        "name": "Malibu Sunset b/w Hang On",
+        "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
       },
       "artists": [
         {
-          "name": "Yellow The Sun",
-          "url": "https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag"
+          "name": "The Travelers",
+          "url": "https://open.spotify.com/artist/6vayW66astvaRgv4llGBff"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Stargazer",
-      "url": "https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1"
+      "duration_ms": 128194,
+      "name": "Malibu Sunset",
+      "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Postcode Lover",
+        "url": "https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre"
+      },
+      "artists": [
+        {
+          "name": "Dear Sunday",
+          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
+        }
+      ],
+      "duration_ms": 165589,
+      "name": "Postcode Lover",
+      "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

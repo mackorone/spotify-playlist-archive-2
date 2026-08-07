@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,916 likes - 46 songs - 2 hr 35 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,917 likes - 46 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 38 | [Tom Zendaya](https://open.spotify.com/track/34SfEJafsH6FzKfwFrt8va) | [Cam Keddy](https://open.spotify.com/artist/1747Rrh8maZzzcgo2jVJkt) | [Tom Zendaya](https://open.spotify.com/album/1zF6LiXxXsCngaZ5YXpUtQ) | 2:58 |
 | 39 | [Feels Like Heaven](https://open.spotify.com/track/0UupmTsDkL9cdm8GGLzvYq) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Feels Like Heaven](https://open.spotify.com/album/35OcpT9AjynFlURa6yS2VU) | 3:17 |
 | 40 | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp) | 2:37 |
-| 41 | [Eja Meja](https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Eja Meja](https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA) | 2:38 |
+| 41 | [Eja Meja \(feat\. Asake\)](https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Eja Meja \(feat\. Asake\)](https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA) | 2:38 |
 | 42 | [Turnt To A Target](https://open.spotify.com/track/4hPfHFjl9GDxR3uvpZ7DMh) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Turnt To A Target](https://open.spotify.com/album/38nVQrUylnvcwOZIK9epvr) | 3:04 |
 | 43 | [Expensive Taste](https://open.spotify.com/track/2Q3mfoPvqOZ4TtoXr4Uyv0) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Expensive Taste](https://open.spotify.com/album/2y8hAA2WoV7ox67kYWDmul) | 3:19 |
 | 44 | [Higher \(feat\. Rita Ora\)](https://open.spotify.com/track/68ROeDTnieAmMrQrMJlnsY) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Higher \(feat\. Rita Ora\)](https://open.spotify.com/album/1KLlMRa36B3s4E4s11wcDh) | 2:30 |

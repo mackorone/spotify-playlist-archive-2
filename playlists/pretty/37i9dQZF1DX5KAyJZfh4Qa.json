@@ -1,12 +1,12 @@
 {
   "description": "it's just one of those days w/ Koyo",
-  "num_followers": 85143,
+  "num_followers": 85179,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAumQOyL0s8pn4XsSuG0NWaB0Y5U",
+  "snapshot_id": "AAAAAEgvz75LmM45m+PHVe2/ThWjiAy6",
   "tracks": [
     {
       "added_at": "2026-03-13 17:53:46",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Cooler",
-        "url": "https://open.spotify.com/album/09u6OZ2HbGNibfg7IaYb2V"
-      },
-      "artists": [
-        {
-          "name": "Sincere Engineer",
-          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
-        }
-      ],
-      "duration_ms": 197693,
-      "name": "Cooler",
-      "url": "https://open.spotify.com/track/2cdoxlerkmCNrwfCpxtXHj"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "Bored of Being Sad",
         "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 200660,
       "name": "Bored of Being Sad",
       "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "Cooler",
+        "url": "https://open.spotify.com/album/09u6OZ2HbGNibfg7IaYb2V"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "duration_ms": 197693,
+      "name": "Cooler",
+      "url": "https://open.spotify.com/track/2cdoxlerkmCNrwfCpxtXHj"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Laughing Without Smiling / Spit",
-        "url": "https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t"
-      },
-      "artists": [
-        {
-          "name": "Heart Attack Man",
-          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Laughing Without Smiling",
-      "url": "https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "Permanent Resolution",
         "url": "https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 201048,
       "name": "Permanent Resolution",
       "url": "https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "Laughing Without Smiling / Spit",
+        "url": "https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Laughing Without Smiling",
+      "url": "https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "This Is Teamwork!",
-        "url": "https://open.spotify.com/album/3nXSKrQ2LlnZNz1T1dz91E"
-      },
-      "artists": [
-        {
-          "name": "Aren't We Amphibians",
-          "url": "https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy"
-        }
-      ],
-      "duration_ms": 204815,
-      "name": "This Is Teamwork!",
-      "url": "https://open.spotify.com/track/6iUhqrBHx0ZgmKaCqsJqwY"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "the CIA",
         "url": "https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe"
       },
@@ -1063,34 +1047,18 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Stone",
-        "url": "https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK"
+        "name": "This Is Teamwork!",
+        "url": "https://open.spotify.com/album/3nXSKrQ2LlnZNz1T1dz91E"
       },
       "artists": [
         {
-          "name": "Clementine",
-          "url": "https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c"
+          "name": "Aren't We Amphibians",
+          "url": "https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy"
         }
       ],
-      "duration_ms": 214447,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
-        "name": "winning the high school talent show didnt make me more confident like i thought it would",
-        "url": "https://open.spotify.com/album/0YsUvXxQwssOCVqNS7007m"
-      },
-      "artists": [
-        {
-          "name": "empty parking lot",
-          "url": "https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB"
-        }
-      ],
-      "duration_ms": 255228,
-      "name": "winning the high school talent show didnt make me more confident like i thought it would",
-      "url": "https://open.spotify.com/track/10dYa9nzrib15HF4Z0dMu0"
+      "duration_ms": 204815,
+      "name": "This Is Teamwork!",
+      "url": "https://open.spotify.com/track/6iUhqrBHx0ZgmKaCqsJqwY"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1111,6 +1079,22 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK"
+      },
+      "artists": [
+        {
+          "name": "Clementine",
+          "url": "https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c"
+        }
+      ],
+      "duration_ms": 214447,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
         "name": "I Just Kept On Forgetting",
         "url": "https://open.spotify.com/album/0ciqBm0Emp0XdOCagR0ax6"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 150916,
       "name": "No One is Gonna Love You",
       "url": "https://open.spotify.com/track/1s9gkaK7yVGhXznpDQf2Xi"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "winning the high school talent show didnt make me more confident like i thought it would",
+        "url": "https://open.spotify.com/album/0YsUvXxQwssOCVqNS7007m"
+      },
+      "artists": [
+        {
+          "name": "empty parking lot",
+          "url": "https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB"
+        }
+      ],
+      "duration_ms": 255228,
+      "name": "winning the high school talent show didnt make me more confident like i thought it would",
+      "url": "https://open.spotify.com/track/10dYa9nzrib15HF4Z0dMu0"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
+        "name": "NUMB",
+        "url": "https://open.spotify.com/album/6qkJORPQBeXP9DOqV6u4wR"
+      },
+      "artists": [
+        {
+          "name": "Have Mercy",
+          "url": "https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM"
+        }
+      ],
+      "duration_ms": 240953,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
         "name": "Drought",
         "url": "https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 205628,
       "name": "Absolute Bloom",
       "url": "https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
-        "name": "NUMB",
-        "url": "https://open.spotify.com/album/6qkJORPQBeXP9DOqV6u4wR"
-      },
-      "artists": [
-        {
-          "name": "Have Mercy",
-          "url": "https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM"
-        }
-      ],
-      "duration_ms": 240953,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
-      },
-      "artists": [
-        {
-          "name": "Koyo",
-          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
-        }
-      ],
-      "duration_ms": 102258,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "Together In Lonesome (Acoustic EP)",
         "url": "https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 204286,
       "name": "What Tomorrow Brings / Requiem - Acoustic",
       "url": "https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "duration_ms": 102258,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Fluff My Pillow",
-        "url": "https://open.spotify.com/album/3nO2YsXGByVe5c5Sf78skN"
-      },
-      "artists": [
-        {
-          "name": "Carly Cosgrove",
-          "url": "https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx"
-        }
-      ],
-      "duration_ms": 157743,
-      "name": "Fluff My Pillow",
-      "url": "https://open.spotify.com/track/4SBD0bAYfLzq3ggGwRMqaR"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "Grendel",
         "url": "https://open.spotify.com/album/1FA9WX9DwRwR7Mdam8Ef82"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 304337,
       "name": "Grendel",
       "url": "https://open.spotify.com/track/3Pad3Y43Rlk4nSWi0etGNY"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "Fluff My Pillow",
+        "url": "https://open.spotify.com/album/3nO2YsXGByVe5c5Sf78skN"
+      },
+      "artists": [
+        {
+          "name": "Carly Cosgrove",
+          "url": "https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx"
+        }
+      ],
+      "duration_ms": 157743,
+      "name": "Fluff My Pillow",
+      "url": "https://open.spotify.com/track/4SBD0bAYfLzq3ggGwRMqaR"
     },
     {
       "added_at": "2026-03-13 17:53:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > a little rap, a little pop, a little country..\. sometimes\. BabyChiefDoIt on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,403 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,421 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 11 | [Talk](https://open.spotify.com/track/7zN5aETfVFOlhJZTUyH2pk) | [Paperboys](https://open.spotify.com/artist/74FBtqFO0SZn7nWzwql2VP), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Paperboys](https://open.spotify.com/album/5m2gqKEDfPpHaKkYerkN1z) | 2:12 |
 | 12 | [Back Home](https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 3:13 |
 | 13 | [Awful.](https://open.spotify.com/track/5s50QqqraeCG31TXuWthNJ) | [7ru7h](https://open.spotify.com/artist/5WnlPOcTodnSWDtjnrjmzv) | [Awful.](https://open.spotify.com/album/7woYa61JH27nnHpi1L7L15) | 2:46 |
-| 14 | [Crash First \(with mgk\)](https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crash First \(with mgk\)](https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi) | 3:43 |
+| 14 | [Crash First \(with mgk\)](https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crash First](https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi) | 3:43 |
 | 15 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 | 16 | [ONE of ONE](https://open.spotify.com/track/6eNfM7yVZ8LxO3dCnh3kup) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [ONE of ONE](https://open.spotify.com/album/5MYjtiBFrowd2rML0p8hyG) | 2:51 |
 | 17 | [everything tatted](https://open.spotify.com/track/0qHEjwpsef1vuOUP5OoBvZ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [everything tatted](https://open.spotify.com/album/0qr3T3nplk2vw8hYxGPicO) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 49 | [700 CLUB](https://open.spotify.com/track/3Jphy67bYJzDwmag3PKDAK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [700 CLUB](https://open.spotify.com/album/4nw9TlcaIoNpw2nE53nXJz) | 3:00 |
 | 50 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 |
 
-Snapshot ID: `AAAAAPFlzOD4QZIlWpB9UX8jVOoY1N41`
+Snapshot ID: `AAAAAPXDPycL98Wv/sSDRPHl1YJmyEzi`

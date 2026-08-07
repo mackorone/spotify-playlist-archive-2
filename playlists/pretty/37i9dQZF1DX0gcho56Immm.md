@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: daisy
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,576 likes - 175 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,675 likes - 175 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [sunbleach](https://open.spotify.com/track/4HEjp4tBASgN57RUnzxN9Z) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [daisy\*](https://open.spotify.com/album/7fQamWUazAcrFUBHI5vmuy) | 2:21 |
+| 1 | [sunbleach](https://open.spotify.com/track/4HEjp4tBASgN57RUnzxN9Z) | [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [daisy\*](https://open.spotify.com/album/7fQamWUazAcrFUBHI5vmuy) | 2:21 |
 | 2 | [Walmart](https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Walmart](https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz) | 2:51 |
 | 3 | [Molly](https://open.spotify.com/track/3nxbdIkJfC2OKx4EM57xGd) | [Patch +](https://open.spotify.com/artist/4XticJq9BkXWqqJJgDTnoF) | [Series A](https://open.spotify.com/album/5n5EMud68LW5haw0hY8odH) | 2:57 |
 | 4 | [See\-through](https://open.spotify.com/track/68Pmz9nDlz2MjpNJ3X94KQ) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [See\-through](https://open.spotify.com/album/3h4pgqLbUPj2ojUeKy0Y0G) | 4:19 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 | 174 | [sinking stone](https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W) | [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [where it melts away](https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl) | 2:44 |
 | 175 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 |
 
-Snapshot ID: `AAAAAAittAkVf8CR11rH03B6VWe6iswJ`
+Snapshot ID: `AAAAAIiczNw9VNinCJmemTiFrS859Ch8`

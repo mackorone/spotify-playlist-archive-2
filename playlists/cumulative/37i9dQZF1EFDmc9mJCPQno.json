@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "CHOOM",
+        "url": "https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206586,
+      "name": "I LIKE IT",
+      "url": "https://open.spotify.com/track/0PVC2O65Ux1aQ2PyIgeDAP"
+    },
+    {
+      "album": {
         "name": "IVE SWITCH",
         "url": "https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy"
       },
@@ -1550,6 +1568,24 @@
       "duration_ms": 159000,
       "name": "Limoncello",
       "url": "https://open.spotify.com/track/1MzrmkSpQO3z0xBIWkh9s0"
+    },
+    {
+      "album": {
+        "name": "CHOOM",
+        "url": "https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181813,
+      "name": "LOCKED IN",
+      "url": "https://open.spotify.com/track/3Kr3znUOSD3dCxmskMYtmO"
     },
     {
       "album": {

@@ -5337,6 +5337,32 @@
     },
     {
       "album": {
+        "name": "High On A Feeling",
+        "url": "https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR"
+      },
+      "artists": [
+        {
+          "name": "Layla Benitez",
+          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
+        },
+        {
+          "name": "FR3ADY",
+          "url": "https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya"
+        },
+        {
+          "name": "JULIANNA",
+          "url": "https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211535,
+      "name": "High On A Feeling",
+      "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
+    },
+    {
+      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
       },
@@ -12328,7 +12354,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 214764,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"

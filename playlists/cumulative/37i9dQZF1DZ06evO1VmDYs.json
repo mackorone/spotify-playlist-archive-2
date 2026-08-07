@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "C.E.O.",
+        "url": "https://open.spotify.com/album/02x4x22HOnv0j9Zk1FJpeY"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "C.E.O.",
+      "url": "https://open.spotify.com/track/6ZsVaTDPoRFCX9evH3x1U7"
+    },
+    {
+      "album": {
         "name": "Weezer (White Album)",
         "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
       },
@@ -326,7 +344,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 207760,
       "name": "Do You Wanna Get High?",
       "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"

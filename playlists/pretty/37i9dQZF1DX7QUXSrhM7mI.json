@@ -1,12 +1,12 @@
 {
   "description": "A dreamy, beautiful musical companion to your time for rest and relaxation.",
-  "num_followers": 97331,
+  "num_followers": 97350,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADF+afjqhlRs1fCSXawTUlnAExdt",
+  "snapshot_id": "AAAAAGHDHq+sJdXCyy5LkSPUas9U9cWU",
   "tracks": [
     {
       "added_at": "2026-07-26 19:49:10",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-07-26 19:49:10",
       "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 221335,
-      "name": "How It's Gotta Be",
-      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
-    },
-    {
-      "added_at": "2026-07-26 19:49:10",
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2026-07-26 19:49:10",
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 221335,
+      "name": "How It's Gotta Be",
+      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
     },
     {
       "added_at": "2026-07-26 19:49:10",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-07-26 19:49:10",
       "album": {
+        "name": "Music For People Who Believe In Love",
+        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 198460,
+      "name": "Honey Blonde",
+      "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
+    },
+    {
+      "added_at": "2026-07-26 19:49:10",
+      "album": {
         "name": "BIG MONEY",
         "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 251502,
       "name": "LEAN ON MY LOVE (feat. Andra Day)",
       "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
-    },
-    {
-      "added_at": "2026-07-26 19:49:10",
-      "album": {
-        "name": "Music For People Who Believe In Love",
-        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
-      },
-      "artists": [
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 198460,
-      "name": "Honey Blonde",
-      "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
     },
     {
       "added_at": "2026-07-26 19:49:10",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-07-26 19:49:10",
       "album": {
-        "name": "Can We Do This Over",
-        "url": "https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Can We Do This Over",
-      "url": "https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4"
-    },
-    {
-      "added_at": "2026-07-26 19:49:10",
-      "album": {
         "name": "Call Them And Tell Them You Love Them",
         "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 220800,
       "name": "The Moment (with KOKORO)",
       "url": "https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX"
+    },
+    {
+      "added_at": "2026-07-26 19:49:10",
+      "album": {
+        "name": "Can We Do This Over",
+        "url": "https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Can We Do This Over",
+      "url": "https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4"
     },
     {
       "added_at": "2026-07-26 19:49:10",

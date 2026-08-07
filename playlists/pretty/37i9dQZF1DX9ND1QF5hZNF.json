@@ -1,12 +1,12 @@
 {
   "description": "Evadez-vous tout en douceur... \u2600\ufe0f",
-  "num_followers": 755732,
+  "num_followers": 755822,
   "original_name": "Electro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK1LBmtUlPINR0HCBrZqveamhYi1",
+  "snapshot_id": "AAAAADs0BYmGvlIsdUgsy4S791zeXHDU",
   "tracks": [
     {
       "added_at": "2026-07-30 22:02:03",
@@ -343,6 +343,34 @@
       "duration_ms": 302509,
       "name": "Love Story - Indila Remix",
       "url": "https://open.spotify.com/track/7s5MyB83DXEcFcugi88Mjl"
+    },
+    {
+      "added_at": "2026-07-30 22:02:03",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/1UMBduXCceZatC2NBLvzJQ"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Ampermut",
+          "url": "https://open.spotify.com/artist/3NfKPE32SVWXMM4T6HUKAa"
+        },
+        {
+          "name": "Gobi Desert Collective",
+          "url": "https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp"
+        },
+        {
+          "name": "TEJA",
+          "url": "https://open.spotify.com/artist/4DgCdCHRYRjMSYtH2nWu72"
+        }
+      ],
+      "duration_ms": 204941,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/6OT7o7lIOlAR98bw8QS4Gc"
     },
     {
       "added_at": "2026-07-30 22:02:03",

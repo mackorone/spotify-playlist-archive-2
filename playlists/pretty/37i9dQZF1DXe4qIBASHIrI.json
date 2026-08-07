@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 182707,
+  "num_followers": 182743,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIk40MVm1ZUGcWYJkGR/r2oQkWzg",
+  "snapshot_id": "AAAAAKtZHBFQJr87ccYihbVsfbZd5vQY",
   "tracks": [
     {
       "added_at": "2023-09-01 16:42:45",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Mtv Unplugged",
-        "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 230346,
-      "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
-      "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Dulce Mal",
         "url": "https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 242046,
       "name": "Dulce Mal",
       "url": "https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Mtv Unplugged",
+        "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 230346,
+      "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
+      "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Never Greens, Vol. 1",
         "url": "https://open.spotify.com/album/4MV8h1smFlnTbQtgD3RxKh"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 241346,
       "name": "Ja Ja Ja",
       "url": "https://open.spotify.com/track/4uFn00BDEN9SFt1Ow93yBn"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Sistema Solar",
-        "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
-      },
-      "artists": [
-        {
-          "name": "Disco Ruido",
-          "url": "https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH"
-        }
-      ],
-      "duration_ms": 249630,
-      "name": "Amorfos",
-      "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Bella \u00c9poca",
         "url": "https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 174120,
       "name": "Dej\u00e9 de Ser Yo",
       "url": "https://open.spotify.com/track/3r9rdMjTGT9BFv4lhg3UY6"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Sistema Solar",
+        "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
+      },
+      "artists": [
+        {
+          "name": "Disco Ruido",
+          "url": "https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH"
+        }
+      ],
+      "duration_ms": 249630,
+      "name": "Amorfos",
+      "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Tiempo y la Ciudad",
-        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
-      },
-      "artists": [
-        {
-          "name": "Canseco",
-          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "T\u00fa Est\u00e1s M\u00e1s",
-      "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 173106,
       "name": "Los Bajos Fondos",
       "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "El Tiempo y la Ciudad",
+        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
+      },
+      "artists": [
+        {
+          "name": "Canseco",
+          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "T\u00fa Est\u00e1s M\u00e1s",
+      "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Marginado",
+        "url": "https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF"
+      },
+      "artists": [
+        {
+          "name": "KOK\u00d4 CEC\u00ca",
+          "url": "https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V"
+        }
+      ],
+      "duration_ms": 204660,
+      "name": "Marginado",
+      "url": "https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/5noph1AdprfKF6MZuLJyVO"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 260949,
       "name": "Sentado Aqu\u00ed",
       "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Marginado",
-        "url": "https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF"
-      },
-      "artists": [
-        {
-          "name": "KOK\u00d4 CEC\u00ca",
-          "url": "https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V"
-        }
-      ],
-      "duration_ms": 204660,
-      "name": "Marginado",
-      "url": "https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "La Fiesta de la Forma",
-        "url": "https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes del Falsete",
-          "url": "https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd"
-        }
-      ],
-      "duration_ms": 411960,
-      "name": "Mi Chica",
-      "url": "https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Hoy A Las Ocho",
         "url": "https://open.spotify.com/album/6cc1X2dYcd8yTutYZsPAv1"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 249840,
       "name": "Won't Say Anything",
       "url": "https://open.spotify.com/track/36VnkzPXKbrqCgbF0avbpp"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "La Fiesta de la Forma",
+        "url": "https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Falsete",
+          "url": "https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd"
+        }
+      ],
+      "duration_ms": 411960,
+      "name": "Mi Chica",
+      "url": "https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1559,22 +1559,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Sombras De Oro",
-        "url": "https://open.spotify.com/album/4RaT9wHZ3BtLSQaRRVTcmR"
+        "name": "Il Visore Lunatique",
+        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
       },
       "artists": [
         {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        },
-        {
-          "name": "Denise Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
         }
       ],
-      "duration_ms": 291712,
-      "name": "Por Eso",
-      "url": "https://open.spotify.com/track/4rk4v9tpdPWb1U4mJbNSfs"
+      "duration_ms": 186693,
+      "name": "The Peter Pan Syndrome",
+      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1595,18 +1591,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Il Visore Lunatique",
-        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
+        "name": "Sombras De Oro",
+        "url": "https://open.spotify.com/album/4RaT9wHZ3BtLSQaRRVTcmR"
       },
       "artists": [
         {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        },
+        {
+          "name": "Denise Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
         }
       ],
-      "duration_ms": 186693,
-      "name": "The Peter Pan Syndrome",
-      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
+      "duration_ms": 291712,
+      "name": "Por Eso",
+      "url": "https://open.spotify.com/track/4rk4v9tpdPWb1U4mJbNSfs"
     },
     {
       "added_at": "2023-09-01 16:42:45",

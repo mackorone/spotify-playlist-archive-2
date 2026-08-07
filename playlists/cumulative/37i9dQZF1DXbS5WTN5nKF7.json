@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec J\u00e9r\u00e9my Frerot",
+  "description": "Le meilleur des hits avec Jennifer Lopez & David Guetta",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -2804,6 +2804,28 @@
       "duration_ms": 174915,
       "name": "Enjoy The Silence",
       "url": "https://open.spotify.com/track/7hv1R50mjtML59cNzkiqi4"
+    },
+    {
+      "album": {
+        "name": "Ensemble",
+        "url": "https://open.spotify.com/album/6QdDXJlhY1FbOZsEYPN1lu"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189280,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/4P9fHgmGJgf460F2t7OAie"
     },
     {
       "album": {
@@ -7280,7 +7302,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-23",
+      "date_removed": null,
       "duration_ms": 163961,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R"
@@ -8546,7 +8568,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 206106,
       "name": "Stay Love",
       "url": "https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3"
@@ -9006,7 +9028,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/1cMFYGtNoh5x3hCWrHAVca"

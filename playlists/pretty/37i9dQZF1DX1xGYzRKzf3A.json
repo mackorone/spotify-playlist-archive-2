@@ -1,12 +1,12 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 174999,
+  "num_followers": 175039,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG0I0H4GkUZY/o9czRbxF0dtzH+/",
+  "snapshot_id": "AAAAADB0GQCZ/XlSS1GK2GDyTNDiKBzz",
   "tracks": [
     {
       "added_at": "2026-06-08 18:17:51",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 177200,
       "name": "So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 209040,
       "name": "Un Millon de Rosas",
       "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "De Monterrey a Sinaloa",
-        "url": "https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Borracho de Amor",
-      "url": "https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "La Burbuja",
         "url": "https://open.spotify.com/album/4WEKmA2MnfexKkfthwKv6y"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 198186,
       "name": "La Burbuja",
       "url": "https://open.spotify.com/track/1sk0LP75QkHk9xCgBQiA82"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "De Monterrey a Sinaloa",
+        "url": "https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Borracho de Amor",
+      "url": "https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Y Qu\u00e9 M\u00e1s Da",
-        "url": "https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "Amor Chiquito",
-      "url": "https://open.spotify.com/track/1N7tTYOIDxz12SANrm7PhW"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 180560,
       "name": "Ojal\u00e1 Te Animes",
       "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Y Qu\u00e9 M\u00e1s Da",
+        "url": "https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "Amor Chiquito",
+      "url": "https://open.spotify.com/track/1N7tTYOIDxz12SANrm7PhW"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Mary Lee",
-      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 180826,
       "name": "Ac\u00e1bame de Matar",
       "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Mary Lee",
+      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Algo en ti",
-        "url": "https://open.spotify.com/album/3oZu2VPa8zKrrcWk6VXTqi"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda",
-          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "Hay Algo en ti",
-      "url": "https://open.spotify.com/track/5xNqXLwdG5m5RrJfFkigVW"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Artilleria Pesada, Presenta:",
         "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 381186,
       "name": "Ileso",
       "url": "https://open.spotify.com/track/15cuGrCRcbTwSA3yVTGLnq"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Algo en ti",
+        "url": "https://open.spotify.com/album/3oZu2VPa8zKrrcWk6VXTqi"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "Hay Algo en ti",
+      "url": "https://open.spotify.com/track/5xNqXLwdG5m5RrJfFkigVW"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Fuego Eterno",
-        "url": "https://open.spotify.com/album/4WrhrIl5r8G26F9Woj3W1J"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/6EZsucUbKS1mmWohoHXtJW"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Hola Chicuelos",
         "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 216600,
       "name": "Peligroso Pop",
       "url": "https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Fuego Eterno",
+        "url": "https://open.spotify.com/album/4WrhrIl5r8G26F9Woj3W1J"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 163906,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/6EZsucUbKS1mmWohoHXtJW"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Mil Historias",
+        "url": "https://open.spotify.com/album/4XjfK4bzkOr37JS2H3XB65"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "C\u00f3mo le hago",
+      "url": "https://open.spotify.com/track/1SPWCyvl2ooPPw4iAv9S07"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 159056,
       "name": "Cholos al Punto",
       "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Mil Historias",
-        "url": "https://open.spotify.com/album/4XjfK4bzkOr37JS2H3XB65"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "C\u00f3mo le hago",
-      "url": "https://open.spotify.com/track/1SPWCyvl2ooPPw4iAv9S07"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "En Eso No Quedamos",
-      "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 186573,
       "name": "Arrastrando La Cobija",
       "url": "https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "En Eso No Quedamos",
+      "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Southern Exposure",
-        "url": "https://open.spotify.com/album/4IcHdJ6RUEIWvMjRZok2O8"
-      },
-      "artists": [
-        {
-          "name": "Emilio Navaira",
-          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
-        }
-      ],
-      "duration_ms": 231584,
-      "name": "Suficiente Amor",
-      "url": "https://open.spotify.com/track/44qOkD4nnJ5gazQTBQOYID"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 138640,
       "name": "Recordando Monterrey",
       "url": "https://open.spotify.com/track/6Fibv5E2GYxaH9HQCqxu9w"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Southern Exposure",
+        "url": "https://open.spotify.com/album/4IcHdJ6RUEIWvMjRZok2O8"
+      },
+      "artists": [
+        {
+          "name": "Emilio Navaira",
+          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
+        }
+      ],
+      "duration_ms": 231584,
+      "name": "Suficiente Amor",
+      "url": "https://open.spotify.com/track/44qOkD4nnJ5gazQTBQOYID"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Lo m\u00e1s pesado de Pesado Vol. II",
+        "url": "https://open.spotify.com/album/5Nqhw57Vduza3WnGTEIPn0"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Hasta tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6WjZJySKThuwX5cDjmouWY"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Te Sorprender\u00e1s",
         "url": "https://open.spotify.com/album/6KK83cdEilYMgI8uHPR4Rk"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 162440,
       "name": "Chao Chao Amor",
       "url": "https://open.spotify.com/track/4j5AdS0aQG5nummMEbSUNq"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Lo m\u00e1s pesado de Pesado Vol. II",
-        "url": "https://open.spotify.com/album/5Nqhw57Vduza3WnGTEIPn0"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Hasta tu coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6WjZJySKThuwX5cDjmouWY"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "La Mas Completa Coleccion (Disco 2)",
+        "url": "https://open.spotify.com/album/4QGk7hWvhae1nw2agFhN20"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/458rEJIikMTw9nrnqnPD3H"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "La Trayectoria 30 Exitos",
         "url": "https://open.spotify.com/album/7aYo3Fnbr79g0gSQS6xegH"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 181506,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/1kMcQ5ovfzCgvdMONCOWNS"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "La Mas Completa Coleccion (Disco 2)",
-        "url": "https://open.spotify.com/album/4QGk7hWvhae1nw2agFhN20"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/458rEJIikMTw9nrnqnPD3H"
     },
     {
       "added_at": "2026-06-08 18:17:51",

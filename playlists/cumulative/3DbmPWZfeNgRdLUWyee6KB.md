@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,363 songs - 3 day 7 hr 12 min
+1,365 songs - 3 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1004,6 +1004,7 @@
 | [Should I have said hello](https://open.spotify.com/track/76S02LgBBCBwEiY8lH2AZT) | [NYROS RAY](https://open.spotify.com/artist/04yVrTH59bbO6VJXQvpdZv) | [Should I have said hello](https://open.spotify.com/album/33LXVslfjxyguGWpsuj71f) | 2:48 | 2026-04-27 | 2026-06-05 |
 | [Show Must Go On](https://open.spotify.com/track/2M1zEJMy2pxdJZHbeIjCdO) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Show Must Go On](https://open.spotify.com/album/5JOKTzUqHL63Xr3OJ8YZO3) | 3:28 | 2026-04-29 | 2026-06-05 |
 | [Show the money](https://open.spotify.com/track/6GpoqbpzjLMIl5DLfpreU3) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [Show the money](https://open.spotify.com/album/5HzSVKP4s4VJHm2lP11Ctd) | 3:37 | 2023-10-26 | 2025-11-29 |
+| [Shower Song](https://open.spotify.com/track/67QhgrmrS3L4KOWkLYHeAt) | [LOOSER](https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk) | [Shower Song](https://open.spotify.com/album/01SI7DXpqEsb3DiSIrUjJD) | 3:13 | 2026-08-06 |  |
 | [Showers Bring Flowers](https://open.spotify.com/track/0iVmUQRJOeOLgnYkpMbhyh) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:58 | 2026-01-25 | 2026-02-20 |
 | [Si Loin](https://open.spotify.com/track/1SpBAk7WSEgWTAwuHS7ahH) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [La parade des loups\-garous](https://open.spotify.com/album/4EYMdV25eZul4vWVEQ9I98) | 3:32 | 2025-11-21 | 2026-01-05 |
 | [Si tal vez](https://open.spotify.com/track/0IqlX6QNbjZSQWRlYsJGCE) | [Benjamin Pujols](https://open.spotify.com/artist/4MElKrdyigZbArae4Na3TS) | [Si tal vez](https://open.spotify.com/album/1F84VmFpBI5NTfMnOaJOyN) | 2:26 | 2026-04-13 | 2026-05-14 |
@@ -1223,6 +1224,7 @@
 | [Tu sei importante](https://open.spotify.com/track/5UlwYVqgbY13cVlWx70udU) | [Nailuz](https://open.spotify.com/artist/75eTPvGYXVQkPzo0kVk6mg) | [Tu sei importante](https://open.spotify.com/album/5ZpVTnIRUJAsK1SQSJmBdZ) | 2:42 | 2026-07-29 |  |
 | [Tu Teri Baatein...](https://open.spotify.com/track/5W8haJYeMtvytreTyf6E3o) | [Kundan Agarwalla](https://open.spotify.com/artist/5Xyy1yRLlKiSVSgGUdqpHW) | [Tu Teri Baatein...](https://open.spotify.com/album/2Lf1m77LUrTrEo9k7a9nWv) | 3:06 | 2026-04-30 | 2026-06-05 |
 | [Tu último trofeo](https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [Tu último trofeo](https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt) | 3:06 | 2026-02-11 | 2026-03-15 |
+| [Turn Your Back](https://open.spotify.com/track/1aq9czg1w6yRRgL4BILJkh) | [Phoeno](https://open.spotify.com/artist/5KnD9mAsf1y1TYEqpeew7B) | [Turn Your Back](https://open.spotify.com/album/58EX7IB2QgulpvTu6TAZrO) | 3:24 | 2026-08-06 |  |
 | [Turquoise](https://open.spotify.com/track/2dO2mAcDNcrEMsQEZUoXMm) | [MAOOSA](https://open.spotify.com/artist/6Q2Tv4sMicVl2LKTnqzdyV) | [Brief](https://open.spotify.com/album/7mEjaLB5Fie1yvtMSJCHK7) | 3:35 | 2026-04-08 | 2026-05-14 |
 | [Tut mir leid](https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Tut mir leid](https://open.spotify.com/album/0n9XCoVEilAtTja23wEBhw) | 5:54 | 2026-02-09 | 2026-07-19 |
 | [Twinski](https://open.spotify.com/track/5l03og7WPmgomYbfhkEYLI) | [Kenniigram](https://open.spotify.com/artist/21ZA59JOT9aofUdUj2daa5) | [Swaggernista](https://open.spotify.com/album/4ZSEQM1mr5MRg52c7ay9ID) | 1:49 | 2026-01-14 | 2026-02-20 |

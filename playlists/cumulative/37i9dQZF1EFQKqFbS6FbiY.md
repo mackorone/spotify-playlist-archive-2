@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-761 songs - 1 day 13 hr 2 min
+763 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,7 +559,8 @@
 | [Pézin Na Rua \- Ao Vivo No Rio De Janeiro / 2019](https://open.spotify.com/track/75qv4qnNhOyZXzq2fHBjdI) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [No Morro \(Ao Vivo No Rio De Janeiro / 2019\)](https://open.spotify.com/album/5mgO08IoSpp5C1BrqdDVyr) | 2:41 | 2023-12-30 | 2024-11-21 |
 | [Quando Perde Um Amor](https://open.spotify.com/track/4m2ELhmVHZXtXpu9pI5CNf) | [Gabi & Rapha](https://open.spotify.com/artist/0wFCZHWqWZeqZGxnEPCaBD) | [Quando Perde Um Amor](https://open.spotify.com/album/3fMiMx2cV7ReHQnnTDVJix) | 3:29 | 2024-10-24 |  |
 | [Quebra Esse Gelo](https://open.spotify.com/track/2gv7ZKtzi7dHVoLFpAM6DE) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Nossa História](https://open.spotify.com/album/5o6ge5nutV05dTdfP8wUF5) | 2:56 | 2023-12-30 | 2024-06-08 |
-| [Quebra Esse Gelo](https://open.spotify.com/track/4zqD3641QULpTGKiQaGfqa) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Nossa História](https://open.spotify.com/album/7FQLDUqC75tCfP6orsmoml) | 2:56 | 2024-06-07 |  |
+| [Quebra Esse Gelo](https://open.spotify.com/track/4zqD3641QULpTGKiQaGfqa) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Nossa História](https://open.spotify.com/album/7FQLDUqC75tCfP6orsmoml) | 2:56 | 2024-06-07 | 2026-08-07 |
+| [Quebra Esse Gelo](https://open.spotify.com/track/5HlRbjoMedxFTbz7GSiA4I) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Formatura](https://open.spotify.com/album/0BO8W6Pm2WjYpQjFb5pOPn) | 2:57 | 2026-08-06 |  |
 | [Quebrado \(Steve Jobs\)](https://open.spotify.com/track/72H1qPl1XjkZog65sATTgs) | [André e Adriano](https://open.spotify.com/artist/0wZ4uNtD8ucHor5BAXtMbd) | [Quebrado \(Steve Jobs\)](https://open.spotify.com/album/5LvNiD4ASNATzDAGO9LPIS) | 2:46 | 2025-05-31 |  |
 | [Quem Ama Não Enjoa](https://open.spotify.com/track/1bM5FYtACTXbvOXjmMFXAD) | [Ricardo e João Fernando](https://open.spotify.com/artist/150zwD7rTVIEK5wO25gYez) | [Sorte](https://open.spotify.com/album/6qA6sLVPiPqgPLkpQ1j0Oh) | 2:23 | 2023-12-30 |  |
 | [Quem Foi Que Disse](https://open.spotify.com/track/5daiKEwn3MEKjfW4GbERuU) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ) | [O Cowboy Vai Te Pegar](https://open.spotify.com/album/0vi1Ub7UuFJppxd27Dy4df) | 2:50 | 2023-12-30 |  |
@@ -615,7 +616,8 @@
 | [Sexo Frágil \- Ao Vivo](https://open.spotify.com/track/5ZwIuaCGWtsOxbSsJfSD7U) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Day e Lara \(...\) \[Ao Vivo\]](https://open.spotify.com/album/4ijQqGz1C1a8JtKBykhYsj) | 3:23 | 2023-12-30 |  |
 | [Sextazona](https://open.spotify.com/track/5jCLRfRHHQOZfvdftV1MVt) | [João Stelutti](https://open.spotify.com/artist/0hdEG1P4kfjPOn1N2LkrXa), [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Sextazona](https://open.spotify.com/album/6NqTgIUrbzfvwFCpNuQ98R) | 2:26 | 2023-12-30 | 2025-06-28 |
 | [Sigo Iludido \- Ao Vivo](https://open.spotify.com/track/2WHhhSnr3befSWt1E8hW4G) | [Diego & Ramon](https://open.spotify.com/artist/4OgxwJz0WEilpnnmHLnCCR), [Bruno](https://open.spotify.com/artist/6xTE2Q6MPdXyS5FJ6JGURo) | [Sigo Iludido \(Ao Vivo\)](https://open.spotify.com/album/6jJVD2pkEqzisCaFNc7LBG) | 2:58 | 2023-12-30 |  |
-| [Sofrendo em Miami](https://open.spotify.com/track/45FnqISoTh9QrvbIBsZoIu) | [Zezo](https://open.spotify.com/artist/5R18GNmvBWGTfBAG0Xy8WT) | [De Bar em Bar](https://open.spotify.com/album/0MQKywXbkxQAjSHlVSvN03) | 2:52 | 2024-03-25 |  |
+| [Sofrendo em Miami](https://open.spotify.com/track/45FnqISoTh9QrvbIBsZoIu) | [Zezo](https://open.spotify.com/artist/5R18GNmvBWGTfBAG0Xy8WT) | [De Bar em Bar](https://open.spotify.com/album/0MQKywXbkxQAjSHlVSvN03) | 2:52 | 2024-03-25 | 2026-08-07 |
+| [Sofrendo em Miami](https://open.spotify.com/track/5s6LDY4mrrIKHsceAXcw56) | [Zezo](https://open.spotify.com/artist/3RnsHpRO6ukJGTFh0gWtza) | [De Bar em Bar](https://open.spotify.com/album/6A29zY0UL9ltCJNpx25tFP) | 2:52 | 2026-08-06 |  |
 | [Sofrendo em Miami](https://open.spotify.com/track/7iijOlRf0Sl5a4hNXYE0un) | [Zezo](https://open.spotify.com/artist/5R18GNmvBWGTfBAG0Xy8WT) | [De Bar em Bar](https://open.spotify.com/album/7HfyH5xOczzNsv0oInGzyE) | 2:52 | 2023-12-30 | 2024-03-26 |
 | [Sofrendo No Mercado](https://open.spotify.com/track/5f3Um6a4Euj9j5dXrRM2bp) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Outros 500](https://open.spotify.com/album/1ZIB0ralycQip2gjNJ1iTC) | 2:44 | 2023-12-30 |  |
 | [Sol](https://open.spotify.com/track/5cOwGFDhhTVZuJzIVb4cr4) | [Tasadi](https://open.spotify.com/artist/0nuJX5dpBfdhWb1kXdt9tO) | [The System](https://open.spotify.com/album/14CHWOXmNoxDjxwLCh76mo) | 3:55 | 2023-12-30 |  |

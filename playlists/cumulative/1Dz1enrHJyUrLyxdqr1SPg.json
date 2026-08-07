@@ -1937,6 +1937,28 @@
     },
     {
       "album": {
+        "name": "Summer Suite (Neon Puls Shifter Sunshine Remix)",
+        "url": "https://open.spotify.com/album/4jrghTrXNnSFfIJbuoJC8J"
+      },
+      "artists": [
+        {
+          "name": "MoonDreams Music",
+          "url": "https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N"
+        },
+        {
+          "name": "Neon Puls Shifter",
+          "url": "https://open.spotify.com/artist/4jQrmdTGBHPgf0hFEgkZIQ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Summer Suite - Neon Puls Shifter Sunshine Remix",
+      "url": "https://open.spotify.com/track/5oSO2F7a3e5ggjFHBAOfzZ"
+    },
+    {
+      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/2egQZgPXU5yneuJgHNhknv"
       },

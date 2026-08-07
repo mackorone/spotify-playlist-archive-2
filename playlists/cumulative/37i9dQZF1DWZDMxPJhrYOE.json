@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 206616,
       "name": "Alle Mine Veninder",
       "url": "https://open.spotify.com/track/4qbVKrjy8c0DyfpKLBSUX4"
@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 204030,
       "name": "Backshots",
       "url": "https://open.spotify.com/track/05rmBmmwJEk2qvhoK9PK98"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 194164,
       "name": "Bare La Dem",
       "url": "https://open.spotify.com/track/4sYN0jmoaiQY4WzhUdu2Ua"
@@ -5478,7 +5478,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 147451,
       "name": "DU M\u00c5 IK G\u00c5",
       "url": "https://open.spotify.com/track/4t0hAlq0Zsy0kc6ctvJEEm"
@@ -6624,7 +6624,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 144530,
       "name": "FARLIGT",
       "url": "https://open.spotify.com/track/4TEYRDBEb8KPbgPOyEs5Dr"
@@ -8888,7 +8888,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 190666,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453"
@@ -11396,7 +11396,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 168285,
       "name": "Ivrig",
       "url": "https://open.spotify.com/track/2KN3oDrrcQGVEflzdGDcDl"
@@ -11584,7 +11584,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 185875,
       "name": "Jordsk\u00e6lv",
       "url": "https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn"
@@ -11740,7 +11740,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 152560,
       "name": "Kanten",
       "url": "https://open.spotify.com/track/6hoPyaOW01F83KUbTaR1Ge"
@@ -12002,7 +12002,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 199093,
       "name": "KOMMER DU HJEM",
       "url": "https://open.spotify.com/track/00WiCCPX6cuonSNqNuu71y"
@@ -13018,7 +13018,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 247384,
       "name": "Love Is Kind",
       "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
@@ -13890,7 +13890,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 182306,
       "name": "Min Bror - akustisk version",
       "url": "https://open.spotify.com/track/30oeyNYJy9R06U1tMFhXJ0"
@@ -16516,7 +16516,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 158476,
       "name": "Recommend",
       "url": "https://open.spotify.com/track/5AKMns2BAQCuZUlVZr5GGD"
@@ -16742,6 +16742,24 @@
       "duration_ms": 191011,
       "name": "Reposado Remix",
       "url": "https://open.spotify.com/track/52Ka7bj14YpxHfSy5fnH1F"
+    },
+    {
+      "album": {
+        "name": "RESCUER",
+        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199166,
+      "name": "RESCUER",
+      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
     },
     {
       "album": {
@@ -17886,7 +17904,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 153719,
       "name": "Siden Sidst (feat. Thor Farlov)",
       "url": "https://open.spotify.com/track/2N6w7gibQTRk1a8G9ENQ5e"
@@ -17948,7 +17966,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 200200,
       "name": "Sign From God",
       "url": "https://open.spotify.com/track/465ZH6T2yFlcvb7B4J4M05"
@@ -18988,7 +19006,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 171412,
       "name": "Spr\u00e6kker ft. S\u00f8n",
       "url": "https://open.spotify.com/track/1n9crbeZNJCUnj6bZcJgxP"
@@ -21202,6 +21220,24 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "album": {
+        "name": "V\u00c6RD AT ELSKE",
+        "url": "https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,726 likes - 72 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,724 likes - 72 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 7 | [Polo](https://open.spotify.com/track/1kIaWGC4L8NhLYGh0rZg6z) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Polo](https://open.spotify.com/album/2ffckMinRVzIozuYrMWLjM) | 2:31 |
 | 8 | [Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn) | [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Expression On Your Face](https://open.spotify.com/album/0SylYxgzz1dgwuN4ItVB3u) | 2:53 |
 | 9 | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/track/5NHTGOuIM4GnLCoPTYnlvW) | [EQ](https://open.spotify.com/artist/1B8ycQsEGw3fUTkzWs5kFD), [Estratosfera](https://open.spotify.com/artist/4bmyQalHgw8xZFJ116P3ir), [Qiri](https://open.spotify.com/artist/4I9SixgrOaKltrQkY8o43u) | [B.S.A.S\. \(Si Alguna Vez te Sentís Sola de Noche\)](https://open.spotify.com/album/6LlR84Vm0bGpNxU1ZKE5Tr) | 4:24 |
-| 10 | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/track/3N4y4q2FtNyoM369niWqZW) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [NSYNC \(feat\. BEAM\)](https://open.spotify.com/album/2kXJciD20GygzPzqAWAaeA) | 2:22 |
+| 10 | [Blue Sky](https://open.spotify.com/track/3N4y4q2FtNyoM369niWqZW) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [NSYNC \(feat\. BEAM\)](https://open.spotify.com/album/2kXJciD20GygzPzqAWAaeA) | 2:22 |
 | 11 | [rapunzel](https://open.spotify.com/track/1FEC0MOeQ81n22lRujfwTk) | [iKeda](https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt) | [Pretty Little Problem](https://open.spotify.com/album/3eENZeLN29UMWJS8vSZ4vW) | 3:02 |
 | 12 | [LA PRESA \- MERCA BAE REMIX](https://open.spotify.com/track/73CsQwvIPOLX05Kwo5TaNN) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Merca Bae](https://open.spotify.com/artist/7tNlqSl7RogtzMsEA20byE) | [CLUB GRASA](https://open.spotify.com/album/72bmHBiYWuPDOZ1GphH2IR) | 2:50 |
 | 13 | [BONITO ROUBO](https://open.spotify.com/track/5bUzX2zh99Wg0fFHIEiSAN) | [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [DJ LYVIXRA](https://open.spotify.com/artist/1Q3YEzih7Pe8D7NekTkxWQ), [Hugomasked](https://open.spotify.com/artist/00VYBvDTEt0xgYpHHnuexG) | [BONITO ROUBO](https://open.spotify.com/album/60D7ZBhjh31TQemniWRWhj) | 1:37 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 68 | [Crocodile Tears \- Radio Edit](https://open.spotify.com/track/6IFcU2q3H8WPf2eSAu3nVL) | [GRADES](https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY) | [Crocodile Tears](https://open.spotify.com/album/7HJyZTmBNV8GUH1xqwjCBC) | 2:48 |
 | 69 | [Spend It](https://open.spotify.com/track/0ANKs2ux7dvLMdbmu5EpYk) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [Spend It](https://open.spotify.com/album/6eGTF5Of9yZlptghLQ0cuD) | 2:38 |
 | 70 | [Pink Champagne](https://open.spotify.com/track/6cdnvvsb2CmlzFb2WBD7op) | [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [Pink Champagne](https://open.spotify.com/album/1FpjLDaIW3i3ixmJNwLKe3) | 3:16 |
-| 71 | [NSYNC \(feat\. BEAM\)](https://open.spotify.com/track/3mZvLHvCRhY1WNvMIQ8QS7) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [NSYNC \(feat\. BEAM\)](https://open.spotify.com/album/2kXJciD20GygzPzqAWAaeA) | 2:23 |
+| 71 | [NSYNC](https://open.spotify.com/track/3mZvLHvCRhY1WNvMIQ8QS7) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [NSYNC \(feat\. BEAM\)](https://open.spotify.com/album/2kXJciD20GygzPzqAWAaeA) | 2:23 |
 | 72 | [There Is Something I Can’t Find \(feat\. Mayah Alkhateri\)](https://open.spotify.com/track/4cSb7yKcrJGK8vYOd91FdR) | [KARL F RIVAS](https://open.spotify.com/artist/2wyfVm9NWgVasdW7iFbYOK), [Mayah Alkhateri](https://open.spotify.com/artist/6pRSMw1aD3tZ6oL214hU71) | [There Is Something I Can’t Find \(feat\. Mayah Alkhateri\)](https://open.spotify.com/album/6tK7Dyy8xl325QT0u8ziQb) | 3:28 |
 
-Snapshot ID: `AAAAAH6v1WkwLoWDy0ZGQU1b7JsHZemz`
+Snapshot ID: `AAAAAPaj4CosSIGfDMjFdfy5xfPoCMlZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Josh Levi
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,895 likes - 198 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,908 likes - 198 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 75 | [Cry On You](https://open.spotify.com/track/488d0odzx7GHa427jIvnDv) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Small Chops](https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9) | 1:44 |
 | 76 | [Wouldn't You Like To Know](https://open.spotify.com/track/6Cqt0IQ4OJEB0ndMCd7BI5) | [Reign Judge](https://open.spotify.com/artist/3G7N2G4Gpx0P8uBMu2Sv9v) | [Wouldn't You Like To Know](https://open.spotify.com/album/2dgLCpy0RFM2syxoLuCUwz) | 3:27 |
 | 77 | [High](https://open.spotify.com/track/1fylUPtF8NeiiZQng4F1Tf) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [High](https://open.spotify.com/album/0iTH2MjVG0ZGxQmjYXgzy5) | 2:55 |
-| 78 | [Can't Phase Me](https://open.spotify.com/track/6CD8YpwCjh8Ma2L3rjAjEh) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Can't Phase Me](https://open.spotify.com/album/2lG12pEYFZ1GqDEJhCoQxv) | 2:47 |
+| 78 | [Can't Phase Me](https://open.spotify.com/track/6CD8YpwCjh8Ma2L3rjAjEh) | [noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Can't Phase Me](https://open.spotify.com/album/2lG12pEYFZ1GqDEJhCoQxv) | 2:47 |
 | 79 | [MY FEET](https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp) | [Khal!l](https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe) | [MY FEET](https://open.spotify.com/album/3NlIELCR7Fs7gETU7z77Cl) | 4:51 |
 | 80 | [Crashing Out!](https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Crashing Out!](https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla) | 2:33 |
 | 81 | [Beautiful Things 1st scene/audition](https://open.spotify.com/track/3FqJdAxQaJBjLPQAbf7tPS) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [UNDRA](https://open.spotify.com/album/6ZWgGE2bq3nV7dtrCX0zbG) | 2:49 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 197 | [to see thru closed eyes](https://open.spotify.com/track/5zXBf7bGyDM4TnWNTjMCfi) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [to see thru closed eyes](https://open.spotify.com/album/2r1gIPuzPCvtd4sURMPYS9) | 2:15 |
 | 198 | [Therapy](https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Therapy](https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z) | 2:03 |
 
-Snapshot ID: `AAAAAAO8qVtqPn/QueZ/6PGi2LYabbzV`
+Snapshot ID: `AAAAAMGcQfIjF/F0Rj48wouRKQFPUw6H`

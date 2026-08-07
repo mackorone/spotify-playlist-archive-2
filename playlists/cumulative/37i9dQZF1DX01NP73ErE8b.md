@@ -2,7 +2,7 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani di cui siamo ossessionati 🎧 Samurai Jay in cover
+> I brani italiani di cui siamo ossessionati 🎧 Angelina Mango e Marco Mengoni in cover
 
 686 songs - 1 day 11 hr 9 min
 

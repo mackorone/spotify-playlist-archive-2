@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1234884,
+  "num_followers": 1234931,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAAAghh1R7f7V2CYEwyIIHshX",
+  "snapshot_id": "anJ9AAAAAAD01YRFw+sL4Xse/oDd2Dpe",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "To Live & Die In L.A.",
+      "url": "https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Against The World",
         "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 279133,
       "name": "Me Against The World",
       "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 272626,
-      "name": "To Live & Die In L.A.",
-      "url": "https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4"
     },
     {
       "added_at": null,

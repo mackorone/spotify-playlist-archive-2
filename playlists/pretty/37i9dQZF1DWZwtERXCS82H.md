@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,630,893 likes - 144 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,631,057 likes - 144 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 62 | [Back Together](https://open.spotify.com/track/6t4dYNa9xTzWYHpFZmfC7U) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Back Together](https://open.spotify.com/album/7aHIJMNdGIzqyNVowCJH52) | 2:48 |
 | 63 | [Day After Day](https://open.spotify.com/track/6qG3ltDAwDTbQLF15uw78T) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Day After Day](https://open.spotify.com/album/6iSYcdeuwuwP9r66okOiJq) | 2:39 |
 | 64 | [Planity](https://open.spotify.com/track/0fWHmVCprYHID87ETym6Kk) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Planity](https://open.spotify.com/album/5Jdh57PPMUQkm5TTUGpSuN) | 2:34 |
-| 65 | [My Oddysey](https://open.spotify.com/track/1eodu9waOyCx6RTwLpJI8v) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [My Odyssey](https://open.spotify.com/album/6g3Bmw75zzdlmm8GO34zum) | 2:16 |
+| 65 | [My Odyssey](https://open.spotify.com/track/1eodu9waOyCx6RTwLpJI8v) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [My Odyssey](https://open.spotify.com/album/6g3Bmw75zzdlmm8GO34zum) | 2:16 |
 | 66 | [valse de la fille](https://open.spotify.com/track/7fxJDIIC14LZjmbtRr4lsM) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [valse de la fille](https://open.spotify.com/album/7joqEdM1MFBHHja8R2sV6Q) | 2:34 |
 | 67 | [Seville](https://open.spotify.com/track/5PG8FLh4LZbWTtWX4F1wCw) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Seville](https://open.spotify.com/album/7b0pD04k9cAOX2li8p0wpl) | 2:17 |
 | 68 | [All From Now](https://open.spotify.com/track/60pO5AlkXea3GYjRwr5s8h) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [All From Now](https://open.spotify.com/album/5PnzO89bX2hwg91RCRErHN) | 2:38 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 143 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 |
 | 144 | [Nostalgia](https://open.spotify.com/track/2VLZp2Z7FLrkn2ysVgZGKY) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Nostalgia](https://open.spotify.com/album/4tradG5YoXryCru3ftThli) | 2:12 |
 
-Snapshot ID: `AAAAAO8/9Z3bEL67xRyV2BiYJY5Fqghw`
+Snapshot ID: `AAAAAEHod+HoCJgQKt3C72iFU5gt0cvi`

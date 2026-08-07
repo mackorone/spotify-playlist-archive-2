@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie\. Cover: Sunnan
+> Det senaste och bästa från världen av indie\. Cover: Susanne Sundfør
 
-1,342 songs - 3 day 5 hr 13 min
+1,349 songs - 3 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,12 +243,14 @@
 | [Cool Cat](https://open.spotify.com/track/7dQ1RxItyqBPHfd8OD0uh8) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [Cool Cat](https://open.spotify.com/album/4XD4FEuZ7AoNa9XQjp0p8G) | 2:55 | 2026-02-12 |  |
 | [Corner Boys](https://open.spotify.com/track/6PVBY2cZJ0jdzPNiN5S2AO) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl), [Painaway](https://open.spotify.com/artist/5sXuMtnirJrHjsXwHs7xQK) | [From the Inside \(Music from the Original TV Series Från Insidan\)](https://open.spotify.com/album/7C2cmxwKD6XhanOCk3Jo4N) | 3:26 | 2024-12-12 | 2025-02-28 |
 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 | 2025-10-16 | 2026-05-01 |
+| [courage](https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [bad pieces](https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U) | 3:11 | 2026-08-06 |  |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-29 | 2025-10-10 |
 | [Crayons](https://open.spotify.com/track/6mRPNbIa1EgP5qdFZyD1kj) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Crayons](https://open.spotify.com/album/2Rfn9Sw0x80wIrJKQuBBYs) | 2:43 | 2026-04-02 |  |
 | [Crisis](https://open.spotify.com/track/3P8EiAM6PHXIQzNWiZRVor) | [Wolfschmidt](https://open.spotify.com/artist/5IHov8wtsp76uPgwMVNx0o) | [Crisis](https://open.spotify.com/album/5DonSRhBF8oTz4RFJXkNQP) | 4:31 | 2024-08-08 | 2024-09-13 |
 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 | 2025-07-03 | 2026-01-16 |
 | [Crumbs](https://open.spotify.com/track/6HzhsHoGBLP63zISjDM0sz) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Crumbs](https://open.spotify.com/album/1WchsrtjxiZ7QjmLSHKuVq) | 4:13 | 2026-03-05 |  |
 | [Crutch](https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Crutch](https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq) | 3:31 | 2026-04-30 |  |
+| [Cry With Me](https://open.spotify.com/track/0q13knzubxzrHY5ej5Hahm) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Cry With Me](https://open.spotify.com/album/4Lw2GzpeeSdjFwwmKruyhG) | 3:34 | 2026-08-06 |  |
 | [Cryptid](https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Running With Scissors](https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr) | 2:04 | 2026-01-15 |  |
 | [Cult Leader](https://open.spotify.com/track/594JFMh9jfj9k2ilbczn1m) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Cult Leader](https://open.spotify.com/album/3gaIdlvLWmj4le6rVc7b66) | 2:08 | 2024-12-12 | 2025-02-07 |
 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 | 2024-06-27 | 2024-08-16 |
@@ -308,6 +310,7 @@
 | [Dreams](https://open.spotify.com/track/4cgha4ghzfm6lLanSfdtHp) | [lene 3000](https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G) | [Dreams](https://open.spotify.com/album/4I4IpTNnfFUyh7HCpRt7FS) | 2:55 | 2026-05-28 |  |
 | [Dreams \- guitar version](https://open.spotify.com/track/73Rnzcr9nE2Hfmy3vsRAUv) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Dreams \(guitar version\)](https://open.spotify.com/album/1DeJFLR3WAxwxMQzNZEpNJ) | 4:13 | 2026-06-18 |  |
 | [Dreamweavers](https://open.spotify.com/track/7ax4HwtfP1KbxF9Q4OUdn8) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [DíSA](https://open.spotify.com/artist/4cAOGeZj3uwNHB1QR5HURM) | [Dreamweavers](https://open.spotify.com/album/4hdos8eRNVnURJOB5a7nbO) | 5:23 | 2024-06-27 | 2024-08-16 |
+| [Drywall](https://open.spotify.com/track/4ygcbHjrfBz5ULRFb0G3OV) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Drywall](https://open.spotify.com/album/01OSOU9YnGYjkpf2YORl6j) | 4:14 | 2026-08-06 |  |
 | [Du borde säga förlåt](https://open.spotify.com/track/49ad6wcUMGCD9h5xFrhXoY) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Du borde säga förlåt](https://open.spotify.com/album/4YosBhLppAzSyv2JmWGmyh) | 2:09 | 2024-09-26 | 2024-11-22 |
 | [Du tappa dä](https://open.spotify.com/track/3xBZH1auLQJOA40qmew7Wv) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Du tappa dä](https://open.spotify.com/album/1ss3TtK9plwjIBeEUkZkzo) | 3:11 | 2026-01-22 | 2026-05-29 |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-07 | 2025-05-16 |
@@ -335,6 +338,7 @@
 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 | 2024-06-27 | 2024-07-27 |
 | [EN DÖENDE PLANET](https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EN DÖENDE PLANET](https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8) | 4:03 | 2025-04-10 | 2025-07-25 |
 | [En kväll i Copacabana](https://open.spotify.com/track/3LRLFjQTsnwP0S2PSKN3ZS) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [En kväll i Copacabana](https://open.spotify.com/album/2T5Y0Eh0mQz3tr7pCKgaH9) | 3:21 | 2025-08-21 | 2026-01-16 |
+| [End of the World](https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [End of the World](https://open.spotify.com/album/5omifXCLUvR9btSGKw90En) | 2:36 | 2026-08-06 |  |
 | [Enemy](https://open.spotify.com/track/05FUbCmZfAynRkcSkOizUX) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Enemy](https://open.spotify.com/album/3lw8rxXPOtJVG1HVHC4ahM) | 4:13 | 2024-09-26 | 2025-01-17 |
 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 | 2025-11-13 |  |
 | [Errr](https://open.spotify.com/track/4ecSUTrx8xrIlwprm8bhwU) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Suisse air](https://open.spotify.com/artist/3aYP9prAwAH0eNSR4zMiZl) | [Errr](https://open.spotify.com/album/2y0oCsmZNt5cm9mxUvABFm) | 3:02 | 2026-04-30 |  |
@@ -535,6 +539,7 @@
 | [I Forgot You](https://open.spotify.com/track/4x5yHzHsdh1ynNChF3rGjp) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [I Forgot You](https://open.spotify.com/album/46Qx7jl3okiWMWkqi10eT6) | 3:10 | 2026-05-28 |  |
 | [I got god](https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It](https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu) | 3:55 | 2026-02-12 |  |
 | [I have nothing to prove to you](https://open.spotify.com/track/6VoCHZD0fvZxtihaLb03Ox) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [I have nothing to prove to you](https://open.spotify.com/album/60Wm1lDBNomVGK9rPgd8w2) | 3:18 | 2025-06-05 | 2025-10-10 |
+| [I It Am](https://open.spotify.com/track/3jsvREipunn2DsqwsrHoND) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [I It Am](https://open.spotify.com/album/0N8ZyxwpcIzyjhhuOY2D8p) | 2:42 | 2026-08-06 |  |
 | [i know u by heart](https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [i know u by heart](https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e) | 3:00 | 2026-03-19 |  |
 | [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-03-05 |  |
 | [I Know, I Was Wrong](https://open.spotify.com/track/5222GmoioO5SAXaRcsPw1k) | [Blue Age](https://open.spotify.com/artist/3butzKx7PzQ5u549zqHaTc) | [I Know, I Was Wrong](https://open.spotify.com/album/6qGvTnHMKSLXaoDyM7HYD0) | 4:23 | 2026-07-16 |  |
@@ -752,6 +757,7 @@
 | [Mascara](https://open.spotify.com/track/6cpNXgi5hDLvH2U3sQErnf) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [En popprinsessas dagbok](https://open.spotify.com/album/21lahm7AKPNx4uxiJh7kq0) | 2:37 | 2024-10-24 | 2025-01-17 |
 | [Maybe Not Tonight](https://open.spotify.com/track/1NeYdwfqPVmmItoaBNq7KJ) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Maybe Not Tonight](https://open.spotify.com/album/2mRhyVJ7pkYWN4cXq1e8QG) | 2:45 | 2025-11-13 | 2026-05-01 |
 | [Medicin](https://open.spotify.com/track/67GvcYcFauHiTEsLRxGtgl) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Medicin](https://open.spotify.com/album/5cka2ltHcvjCM5loz8snRl) | 3:38 | 2025-05-15 | 2025-10-10 |
+| [Medvind](https://open.spotify.com/track/56JIOBuj4LfhgcjNfKkMkl) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Medvind](https://open.spotify.com/album/7HvlnnMQdOGxJLKY5ANWLH) | 2:56 | 2026-08-06 |  |
 | [Meet Me In Love](https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Meet Me In Love](https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM) | 4:02 | 2026-06-18 |  |
 | [Melody Rules](https://open.spotify.com/track/1p6LSddhiya9yb8JUijvTd) | [Nicolai Dunger](https://open.spotify.com/artist/1XUJ4bS7sEaPb29R4LzY18) | [Melody Rules](https://open.spotify.com/album/1yhxNGgEcDnwMERY4hDfNz) | 4:49 | 2024-06-27 | 2024-08-09 |
 | [member](https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [member](https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE) | 3:07 | 2026-02-26 |  |
@@ -866,6 +872,7 @@
 | [One Of A Kind](https://open.spotify.com/track/4vL9jXd1sOgzcmucXOlPau) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [One Of A Kind](https://open.spotify.com/album/0uHTwI7g1Kzf1dOI4fhdC9) | 3:22 | 2025-04-17 | 2025-07-25 |
 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-01-16 | 2025-02-14 |
 | [Onenon](https://open.spotify.com/track/7Aw5qQy9zeg9ZGtsOQAcQA) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 4:04 | 2026-04-30 |  |
+| [Only metaphorically](https://open.spotify.com/track/2da6MxtV7gKlC0LYWdLgYW) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Only metaphorically](https://open.spotify.com/album/1BI2BuwSNRjGTV2ZvV6bll) | 2:16 | 2026-08-06 |  |
 | [ooo](https://open.spotify.com/track/5ZMvVmNZepJxqf2Cui2aeu) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [ooo](https://open.spotify.com/album/299nAiPsiRFHImwmxZ0HRq) | 2:19 | 2025-01-09 | 2025-02-14 |
 | [open your eyes](https://open.spotify.com/track/1ucWs6PGVsgcjNf3UcpBYF) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [open your eyes](https://open.spotify.com/album/7u5NqKmA04VA4BEU48auOY) | 2:35 | 2025-06-05 | 2025-10-10 |
 | [Operator](https://open.spotify.com/track/4YI2hqjVj38GdGWxohsA7D) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Operator](https://open.spotify.com/album/2N9bkju0LC1frvGat1uUxh) | 3:03 | 2026-01-08 |  |

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sumedh
 
-706 songs - 1 day 16 hr 0 min
+707 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Chance eh illa](https://open.spotify.com/track/6IrzJUmkdrKSHq7KwHqnEh) | [Abhilash Gupta](https://open.spotify.com/artist/1BoGQCuyexXTqacYNHCN3M) | [Chance eh illa](https://open.spotify.com/album/3thZfo5zYTNdHrQ0NZHt7C) | 3:06 | 2023-01-31 | 2023-07-04 |
 | [Chanda](https://open.spotify.com/track/0DVxGoL51eoPgFljBnbJol) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Buck](https://open.spotify.com/artist/77KDxJeNBLxEabflrrZ9DG), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Chanda](https://open.spotify.com/album/509cFj7JnwNgQZhhnjQL1m) | 3:26 | 2023-08-21 | 2024-06-22 |
 | [Chanda](https://open.spotify.com/track/3WBenVVe9S0FkVxApthEnJ) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Buck](https://open.spotify.com/artist/77KDxJeNBLxEabflrrZ9DG), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Chanda](https://open.spotify.com/album/0XpUURR7bNOYU88nkHNKjx) | 3:26 | 2023-08-21 | 2024-04-19 |
+| [Charged Up](https://open.spotify.com/track/5OBsXBUxcpLGUuBsDNLq6D) | [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl) | [Charged Up](https://open.spotify.com/album/4udiyEwX8oKNTjnfa8leQx) | 3:11 | 2026-08-06 |  |
 | [Chii](https://open.spotify.com/track/2yYr2lCywrNP3y0VjijtTV) | [Shashi Bhat](https://open.spotify.com/artist/6zrtwiBmXEAANnSe1wFYdL), [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chii](https://open.spotify.com/album/4KyidUqwKaQKzYs1OGVSPJ) | 2:42 | 2023-08-31 | 2024-03-15 |
 | [Chikkavanu](https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Chikkavanu](https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh) | 1:10 | 2023-07-27 | 2024-03-06 |
 | [Chill Madale](https://open.spotify.com/track/42ZcXFhPyt4DH9jsELRYWh) | [Akhilesh Moti](https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq) | [Chill Madale](https://open.spotify.com/album/23pxYZmTU9sQopSbSJE02w) | 3:40 | 2025-09-29 | 2026-02-25 |

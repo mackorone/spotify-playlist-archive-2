@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 25463,
+  "num_followers": 25484,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAABRA2x0C6u2mUV6L8Irk1zQ",
+  "snapshot_id": "anJ9AAAAAAB0otZ0MRfBtMDFGiZk4hOJ",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/1nV9EKNIAORTvadQ19jkik"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
         "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 137142,
       "name": "Rue's I'm Tired (with Zendaya)",
       "url": "https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/1nV9EKNIAORTvadQ19jkik"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/3fdSRtcCW3Jkl4M7Dv4rGK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FIVE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 232216,
       "name": "X (feat. Zendaya)",
       "url": "https://open.spotify.com/track/58Lj1OJrwR3huIt1xNMvkr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/3fdSRtcCW3Jkl4M7Dv4rGK"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Much (From \u201cZapped\u201d)",
-        "url": "https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zendaya",
         "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 253346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Much (From \u201cZapped\u201d)",
+        "url": "https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Live For",
         "url": "https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 230207,
       "name": "My Jam",
       "url": "https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Bottle You Up",
+      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shake It Up: Made In Japan (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5TUn50U2OFVerctibxueCs"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 176560,
       "name": "Made In Japan",
       "url": "https://open.spotify.com/track/6MVd0fiTvnNySVpKcxox6I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Bottle You Up",
-      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
     },
     {
       "added_at": null,

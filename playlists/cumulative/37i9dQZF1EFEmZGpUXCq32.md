@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-124 songs - 8 hr 21 min
+125 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [RATHER BE](https://open.spotify.com/track/4AUVtLD85OUgUROBzsCP2e) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 2:51 | 2025-11-14 |  |
 | [Revolution](https://open.spotify.com/track/4t1K5CR5k4nCnx7gavm3cP) | [Sadhguru](https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ) | [Eternal Echoes](https://open.spotify.com/album/6EM63wmKINZdwud5zUiOmb) | 3:19 | 2025-08-06 |  |
 | [Right Time](https://open.spotify.com/track/2ozIlUOSzWuS4xt6I0IWtW) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Lover Girl's Playlist Pt\. 1](https://open.spotify.com/album/2AMZkJYM8t5bloohspD4y6) | 2:26 | 2026-05-30 |  |
-| [Rise](https://open.spotify.com/track/6J9f6gb2Yqwzrzca4cZy7i) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Rise](https://open.spotify.com/album/4TnL5ML7n7N7NJtkbozZtD) | 4:34 | 2024-05-01 |  |
+| [Rise](https://open.spotify.com/track/6J9f6gb2Yqwzrzca4cZy7i) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Rise](https://open.spotify.com/album/4TnL5ML7n7N7NJtkbozZtD) | 4:34 | 2024-05-01 | 2026-08-07 |
+| [Rise \(Extended Version\)](https://open.spotify.com/track/5PtAIMVLbxFSMBF3nDcyCv) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 4:29 | 2026-08-06 |  |
 | [Round N Round](https://open.spotify.com/track/4aYpNLWSGWcI2nuS16ajNx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:07 | 2024-05-01 |  |
 | [Sackodougou](https://open.spotify.com/track/6W23bx8GlLu2X95g8Q5WMc) | [Weedie Braimah](https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo), [The Hands of Time](https://open.spotify.com/artist/22aIqIlM1T2TXltiwgWHlF), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Hands of Time](https://open.spotify.com/album/5EK25oGfbC4cZ04DsLsZwE) | 7:47 | 2025-08-06 |  |
 | [Say Their Names](https://open.spotify.com/track/0lDrL93o8AOmL2OVRjc4Ki) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:36 | 2024-05-01 |  |

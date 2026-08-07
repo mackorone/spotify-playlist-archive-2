@@ -4226,6 +4226,24 @@
     {
       "album": {
         "name": "Soulmade",
+        "url": "https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6"
+      },
+      "artists": [
+        {
+          "name": "Iris Muller",
+          "url": "https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235165,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/3RPZEkNgCXcaMRgkVCGpPQ"
+    },
+    {
+      "album": {
+        "name": "Soulmade",
         "url": "https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg"
       },
       "artists": [
@@ -4272,7 +4290,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 459459,
       "name": "Wake Up Meditation (Awakening)",
       "url": "https://open.spotify.com/track/6xbuPg8yajxrZMU7bCT4H0"

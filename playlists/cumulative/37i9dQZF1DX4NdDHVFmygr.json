@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 159661,
       "name": "Belbala",
       "url": "https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855"
@@ -1670,6 +1670,24 @@
       "duration_ms": 208695,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/3XW9zg39KnwA5v1c1EFbM6"
+    },
+    {
+      "album": {
+        "name": "Cheraniya",
+        "url": "https://open.spotify.com/album/2C0dO2uVSXLigLwcdxOErk"
+      },
+      "artists": [
+        {
+          "name": "Douaa Lahyaoui",
+          "url": "https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170062,
+      "name": "Cheraniya",
+      "url": "https://open.spotify.com/track/3EwiqimqS7nPvWExYo3jx1"
     },
     {
       "album": {

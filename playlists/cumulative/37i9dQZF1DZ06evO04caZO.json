@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Reality Awaits",
+        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258506,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/18bHbpAKgsf8dor8F6qXHF"
+    },
+    {
+      "album": {
         "name": "Going Shopping",
         "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
       },
@@ -852,7 +870,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 250213,
       "name": "Tyrants of the Mellow Moon",
       "url": "https://open.spotify.com/track/7ETbuxubRVY8WsOnAwhumP"

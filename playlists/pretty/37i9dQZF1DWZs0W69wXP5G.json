@@ -1,12 +1,12 @@
 {
   "description": "Everything Broadway-adjacent. Cover:  Hamilton at the 2025 Tony Awards",
-  "num_followers": 19043,
+  "num_followers": 19062,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHe3mSstLf6xo4dcU4yvpAaD8+KP",
+  "snapshot_id": "AAAAAAfhMfz0k8/W9sFG5GX8+IbO/VUG",
   "tracks": [
     {
       "added_at": "2026-08-05 04:29:56",
@@ -179,6 +179,38 @@
       "duration_ms": 178616,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/2jhEkqJCX7QVfBVlpV4OUq"
+    },
+    {
+      "added_at": "2026-08-05 04:29:56",
+      "album": {
+        "name": "Fire! - It's the London Life",
+        "url": "https://open.spotify.com/album/03N2fh99EjwriBHczE4qpH"
+      },
+      "artists": [
+        {
+          "name": "Richard Brown",
+          "url": "https://open.spotify.com/artist/4D57ApL3ZxruHW4hpWz7dT"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Annabelle Brown",
+          "url": "https://open.spotify.com/artist/6eulPqSsrUOUUF6Jie8pk6"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/15pWO3o9TcfhnpTPdNUjo4"
+        },
+        {
+          "name": "Benjamin Pope",
+          "url": "https://open.spotify.com/artist/7F8hlosgvfdCq4ynTBsfyU"
+        }
+      ],
+      "duration_ms": 136306,
+      "name": "Fire! - It's the London Life",
+      "url": "https://open.spotify.com/track/3JABa5GWfi66wT2AjqqTXd"
     },
     {
       "added_at": "2026-08-05 04:29:56",

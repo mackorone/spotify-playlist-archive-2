@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/6nTQY7MENn4JietjaoOjhj"
+    },
+    {
+      "album": {
         "name": "Best Of Both Worlds",
         "url": "https://open.spotify.com/album/141gy9ZTgo1fPLfCBdXKYq"
       },
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 155999,
       "name": "December",
       "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
@@ -2958,7 +2976,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 173666,
       "name": "Letter to My Ex",
       "url": "https://open.spotify.com/track/2YFtJo8IvnSGyIv17PlIIx"
@@ -4520,6 +4538,28 @@
       "duration_ms": 168159,
       "name": "Pour Me Water",
       "url": "https://open.spotify.com/track/3pbRmP0Hqit2A4FcnOGAiF"
+    },
+    {
+      "album": {
+        "name": "R.U. (Raw & Unfiltered) Vol.1",
+        "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Private Chef",
+      "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
     },
     {
       "album": {

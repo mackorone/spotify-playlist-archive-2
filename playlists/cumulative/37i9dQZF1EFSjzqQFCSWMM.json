@@ -1416,10 +1416,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 158763,
       "name": "Like I'm Missy",
       "url": "https://open.spotify.com/track/4mVirqSP1RoQIsVszbI48b"
+    },
+    {
+      "album": {
+        "name": "Still Alive, What a Shame",
+        "url": "https://open.spotify.com/album/30YPJhHOqjVjDQ35OGxVQS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Wildfern",
+          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158763,
+      "name": "Like I'm Missy",
+      "url": "https://open.spotify.com/track/5ofgbtYTDAroBh4Z7vAHuU"
     },
     {
       "album": {
@@ -2554,10 +2572,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 125850,
       "name": "Yoko",
       "url": "https://open.spotify.com/track/45gHc1QYBky7k38HSlaIft"
+    },
+    {
+      "album": {
+        "name": "What A Way To Go",
+        "url": "https://open.spotify.com/album/0GqEB3z6bCc2OlR6aR8w5d"
+      },
+      "artists": [
+        {
+          "name": "Kyle Wildfern",
+          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125850,
+      "name": "Yoko",
+      "url": "https://open.spotify.com/track/4W42xFyprnWS1ag0CW4dGF"
     },
     {
       "album": {

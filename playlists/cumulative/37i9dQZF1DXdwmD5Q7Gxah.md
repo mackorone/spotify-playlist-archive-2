@@ -4,7 +4,7 @@
 
 > Remi Wolf, we missed you 🤝 <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-3,914 songs - 8 day 22 hr 31 min
+3,915 songs - 8 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2192,7 +2192,7 @@
 | [megan fox](https://open.spotify.com/track/1ZO1oxKK88xOhvJnA1QDPM) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [megan fox](https://open.spotify.com/album/2adAlemQTvmOKs5PHY0ugx) | 2:29 | 2020-11-20 | 2021-03-19 |
 | [MELISA](https://open.spotify.com/track/7gBXc7NLb6e6tBdb4dJPW7) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper \(The Extended Cut\)](https://open.spotify.com/album/3ZfqSEOlHerP9UZJfu4tSD) | 3:36 | 2026-02-06 | 2026-06-26 |
 | [Melocotón](https://open.spotify.com/track/1qW32mkxIEhRkerlabQVOd) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 2:27 | 2020-07-24 | 2020-11-11 |
-| [melody](https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [melody](https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg) | 2:38 | 2026-07-10 |  |
+| [melody](https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt) | [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [melody](https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg) | 2:38 | 2026-07-10 |  |
 | [memories](https://open.spotify.com/track/7i3I0XokKjoLS8wEU1PThw) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs) | [memories](https://open.spotify.com/album/6YeFOv4WPmzPYwGDCj0zDv) | 1:53 | 2020-11-20 | 2020-12-31 |
 | [Memory Be a Blade](https://open.spotify.com/track/35P80VDIPyFqmoBcMuL4Li) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:41 | 2026-03-20 |  |
 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 | 2026-01-16 | 2026-03-21 |
@@ -2932,6 +2932,7 @@
 | [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 | 2022-06-21 | 2022-10-13 |
 | [shhh](https://open.spotify.com/track/36iSnMkIwxiuCcwVtNiIpC) | [child star](https://open.spotify.com/artist/42v4JUoQVfM9w186KoL5B1), [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE), [Sean Henry](https://open.spotify.com/artist/4Co3T6j4MDgFmGv2kHUVNk) | [9](https://open.spotify.com/album/1Up7dZ7UFAuzu39oA7Xu4c) | 2:04 | 2025-02-21 | 2025-03-27 |
 | [Shimmer](https://open.spotify.com/track/6SFFmZFiDoTjQG3kdECxZa) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 5:00 | 2020-02-01 | 2020-02-20 |
+| [Shiner \(The Cape\)](https://open.spotify.com/track/1gG709sk7yKhaoAK8fd9qd) | [Paulie Swan](https://open.spotify.com/artist/3gg7C3cr0fDp7MqpdZB9iQ) | [Swans Today](https://open.spotify.com/album/0E3RzONlpsXq6Qn9GxoSma) | 3:29 | 2026-08-06 |  |
 | [Shining](https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [Shining](https://open.spotify.com/album/2M6qfeYL6f0qB2FClklOat) | 2:26 | 2023-05-23 | 2023-08-16 |
 | [Shirtless](https://open.spotify.com/track/7jNNwkzkd9Y6mvfeP2lF8q) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Shirtless](https://open.spotify.com/album/1plqx9gj6tlhdEiuDfKCHM) | 3:26 | 2020-09-22 | 2020-11-11 |
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2021-12-01 | 2022-02-12 |

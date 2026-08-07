@@ -1,12 +1,12 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: A Girl Named Sue",
-  "num_followers": 70036,
+  "num_followers": 70057,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJVDKRCiXcjY4pL47EKkmkYsvZy6",
+  "snapshot_id": "AAAAAKa9+q8Bp7hloZdRDgtLi08lxM6M",
   "tracks": [
     {
       "added_at": "2026-07-31 04:03:24",
@@ -291,18 +291,26 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Voz de mi vida",
-        "url": "https://open.spotify.com/album/2s7tiJxU39CIoTA8jnmgKt"
+        "name": "ATMANS",
+        "url": "https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx"
       },
       "artists": [
         {
-          "name": "Luan Larobina",
-          "url": "https://open.spotify.com/artist/37q74NMKjVZ4fwH0OZhk6h"
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        },
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
         }
       ],
-      "duration_ms": 216080,
-      "name": "Voz de mi vida",
-      "url": "https://open.spotify.com/track/6szdFD6E3qZorOiVV5bhKk"
+      "duration_ms": 128634,
+      "name": "BURN LIKE FYA",
+      "url": "https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -343,26 +351,18 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "ATMANS",
-        "url": "https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx"
+        "name": "Voz de mi vida",
+        "url": "https://open.spotify.com/album/2s7tiJxU39CIoTA8jnmgKt"
       },
       "artists": [
         {
-          "name": "Samant",
-          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
-        },
-        {
-          "name": "Soran",
-          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
-        },
-        {
-          "name": "Zach Zoya",
-          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+          "name": "Luan Larobina",
+          "url": "https://open.spotify.com/artist/37q74NMKjVZ4fwH0OZhk6h"
         }
       ],
-      "duration_ms": 128634,
-      "name": "BURN LIKE FYA",
-      "url": "https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13"
+      "duration_ms": 216080,
+      "name": "Voz de mi vida",
+      "url": "https://open.spotify.com/track/6szdFD6E3qZorOiVV5bhKk"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Excuse-moi",
-        "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
-      },
-      "artists": [
-        {
-          "name": "Lilou Morin",
-          "url": "https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM"
-        }
-      ],
-      "duration_ms": 197145,
-      "name": "Excuse-moi",
-      "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
         "name": "les nuits sont blanches",
         "url": "https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 202493,
       "name": "verres fum\u00e9s",
       "url": "https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "Excuse-moi",
+        "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
+      },
+      "artists": [
+        {
+          "name": "Lilou Morin",
+          "url": "https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM"
+        }
+      ],
+      "duration_ms": 197145,
+      "name": "Excuse-moi",
+      "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Todas mis amigas",
-        "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Todas mis amigas",
-      "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
         "name": "rappelle-moi comme je t'aime",
         "url": "https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 147272,
       "name": "rappelle-moi comme je t'aime",
       "url": "https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "Todas mis amigas",
+        "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Todas mis amigas",
+      "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Les serpents dans l'eau",
-        "url": "https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge"
+        "name": "Westfalia",
+        "url": "https://open.spotify.com/album/443lfcpqPXNytv4Om5VQwl"
       },
       "artists": [
         {
-          "name": "c\u00e9cile",
-          "url": "https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH"
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
         }
       ],
-      "duration_ms": 217046,
-      "name": "Les serpents dans l'eau",
-      "url": "https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu"
+      "duration_ms": 117333,
+      "name": "Tout c\u2019qui faut",
+      "url": "https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -923,38 +923,18 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Westfalia",
-        "url": "https://open.spotify.com/album/443lfcpqPXNytv4Om5VQwl"
+        "name": "Les serpents dans l'eau",
+        "url": "https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge"
       },
       "artists": [
         {
-          "name": "Statzz",
-          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+          "name": "c\u00e9cile",
+          "url": "https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH"
         }
       ],
-      "duration_ms": 117333,
-      "name": "Tout c\u2019qui faut",
-      "url": "https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
-        "name": "Fleuron (feat. Helena Deland)",
-        "url": "https://open.spotify.com/album/6Qp4q7H4L6xOiR6rfpGxn0"
-      },
-      "artists": [
-        {
-          "name": "N NAO",
-          "url": "https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs"
-        },
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Fleuron (feat. Helena Deland)",
-      "url": "https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT"
+      "duration_ms": 217046,
+      "name": "Les serpents dans l'eau",
+      "url": "https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -991,6 +971,22 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
+        "name": "Revenir",
+        "url": "https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ"
+      },
+      "artists": [
+        {
+          "name": "Rick Pagano",
+          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
+        }
+      ],
+      "duration_ms": 156079,
+      "name": "Revenir",
+      "url": "https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
         "name": "xx",
         "url": "https://open.spotify.com/album/1kHCoobdUawPAZaiyll1N4"
       },
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Revenir",
-        "url": "https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ"
+        "name": "Fleuron (feat. Helena Deland)",
+        "url": "https://open.spotify.com/album/6Qp4q7H4L6xOiR6rfpGxn0"
       },
       "artists": [
         {
-          "name": "Rick Pagano",
-          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
+          "name": "N NAO",
+          "url": "https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 156079,
-      "name": "Revenir",
-      "url": "https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl"
+      "duration_ms": 195000,
+      "name": "Fleuron (feat. Helena Deland)",
+      "url": "https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
+        "name": "Je t'oublie quand m\u00eame pas",
+        "url": "https://open.spotify.com/album/0woE4E5OxLtqJpsDINKYTh"
       },
       "artists": [
         {
-          "name": "Minou",
-          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+          "name": "maudit vincent",
+          "url": "https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ"
         }
       ],
-      "duration_ms": 239047,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
+      "duration_ms": 210258,
+      "name": "Je t'oublie quand m\u00eame pas",
+      "url": "https://open.spotify.com/track/671zz3HwewTjJkZefzJSV0"
     },
     {
       "added_at": "2026-07-31 04:03:24",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-07-31 04:03:24",
       "album": {
-        "name": "Je t'oublie quand m\u00eame pas",
-        "url": "https://open.spotify.com/album/0woE4E5OxLtqJpsDINKYTh"
-      },
-      "artists": [
-        {
-          "name": "maudit vincent",
-          "url": "https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ"
-        }
-      ],
-      "duration_ms": 210258,
-      "name": "Je t'oublie quand m\u00eame pas",
-      "url": "https://open.spotify.com/track/671zz3HwewTjJkZefzJSV0"
-    },
-    {
-      "added_at": "2026-07-31 04:03:24",
-      "album": {
         "name": "Que ta lumi\u00e8re",
         "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 232319,
       "name": "Que ta lumi\u00e8re",
       "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+    },
+    {
+      "added_at": "2026-07-31 04:03:24",
+      "album": {
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
+      },
+      "artists": [
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
     },
     {
       "added_at": "2026-07-31 04:03:24",

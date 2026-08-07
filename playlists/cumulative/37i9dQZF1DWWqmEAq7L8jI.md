@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe  📸 RUGGERO
 
-489 songs - 1 day 2 hr 33 min
+490 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Corazón Salvaje](https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 4:27 | 2026-06-12 | 2026-07-25 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-27 | 2026-08-01 |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-08-11 |  |
+| [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 | 2026-07-31 |  |
 | [CUANDO ES CON VOS](https://open.spotify.com/track/5PvzYLe95r3PG8MecvWZEq) | [Ele Mariani](https://open.spotify.com/artist/4E4wkESgUKE5VTB9zo308S), [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [CUANDO ES CON VOS](https://open.spotify.com/album/1yqDhZa1XEY1pcYCnoSW84) | 3:08 | 2026-02-27 | 2026-03-28 |
 | [Cuando Estamos Tú Y Yo](https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Cuando Estamos Tú Y Yo](https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF) | 2:39 | 2025-08-01 | 2025-10-22 |
 | [Cuando Lo Veo](https://open.spotify.com/track/2vC2WsILe2MXS9pJwqmyjs) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Cuando Lo Veo](https://open.spotify.com/album/2AwXJgef7CAEAylXLqcWeF) | 4:01 | 2024-09-06 | 2026-07-18 |
@@ -377,7 +378,7 @@
 | [qué buena suerte](https://open.spotify.com/track/3KvvelJWzKjZqDVytnSlNz) | [Mika Malky](https://open.spotify.com/artist/14wzFgNMrqcOEMhUeUne8a) | [qué buena suerte](https://open.spotify.com/album/7fnEhCKLoxzrMEhFf9nMmX) | 3:05 | 2026-07-17 | 2026-08-01 |
 | [qué le pasa conmigo?](https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [qué le pasa conmigo?](https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc) | 2:47 | 2023-04-21 | 2023-07-29 |
 | [Qué Querés?](https://open.spotify.com/track/21PkuPzobaZcpp1UprW9Q1) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Qué Querés?](https://open.spotify.com/album/7HcdDDJ5aa4IaONKc02rr0) | 3:27 | 2023-07-14 | 2023-08-19 |
-| [Rabia del Corazón \- Spotify Sessions](https://open.spotify.com/track/09bdneL61K2znTspwtQYeG) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BLAIR \- Spotify Sessions](https://open.spotify.com/album/3i0tFySe2LNwrrMJ430gLT) | 4:49 | 2026-06-12 |  |
+| [Rabia del Corazón \- Spotify Sessions](https://open.spotify.com/track/09bdneL61K2znTspwtQYeG) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BLAIR \- Spotify Sessions](https://open.spotify.com/album/3i0tFySe2LNwrrMJ430gLT) | 4:49 | 2026-06-12 | 2026-08-07 |
 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 | 2023-06-22 | 2023-08-12 |
 | [Regresa](https://open.spotify.com/track/7p8SFNiZjUjbGrA9nK8tGW) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Regresa](https://open.spotify.com/album/43cwThRaGvMa8NIYPL663p) | 3:08 | 2023-08-18 | 2024-06-13 |
 | [Reina de todo](https://open.spotify.com/track/0uGYA1Mb8NdjM1KG0KjxuX) | [Margarita](https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG) | [Reina de todo](https://open.spotify.com/album/0MVg5hOxZCWZ7fcRk3m4Tq) | 2:27 | 2024-05-10 | 2024-06-01 |

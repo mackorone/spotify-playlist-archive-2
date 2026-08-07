@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Blake Proehl
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,311 likes - 199 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,342 likes - 199 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 198 | [King Of Coal Dust County](https://open.spotify.com/track/0San9RoSR136UJzhAgSug0) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj) | [King Of Coal Dust County](https://open.spotify.com/album/3tr1a9Sxn0iIfsML6tKJmZ) | 3:46 |
 | 199 | [Bleeding Out](https://open.spotify.com/track/6uWMgLQ5g0OB0lheMlw4nQ) | [Chase N Tyler](https://open.spotify.com/artist/0l0yhHebHW2nqtDIQZYsy2) | [Ain't No Quit In Our Blood](https://open.spotify.com/album/3OySPZiozg5pD2UJbMG09P) | 3:27 |
 
-Snapshot ID: `AAAAAHJ5qoGymaKnyIEw4WFYdHT++P2F`
+Snapshot ID: `AAAAAOH2Fb6MXN/pKNj0HGxLj0nRSHDZ`

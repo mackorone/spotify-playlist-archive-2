@@ -1,12 +1,12 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 124382,
+  "num_followers": 124412,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACvwUjLBFdqbAu+yycVW6zFRi10q",
+  "snapshot_id": "AAAAAIHQecIZJMUTwKSXpWQKCzBWlFcc",
   "tracks": [
     {
       "added_at": "2026-07-29 15:45:01",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "honeydew (praise the Lord)",
-        "url": "https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "honeydew (praise the Lord)",
-      "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "wake up",
         "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Sun Rises",
-        "url": "https://open.spotify.com/album/6Has46aL8NIuwJcanqM7Ha"
+        "name": "honeydew (praise the Lord)",
+        "url": "https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz"
       },
       "artists": [
         {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
         }
       ],
-      "duration_ms": 174769,
-      "name": "Sun Rises",
-      "url": "https://open.spotify.com/track/1c2EYour3VAKs2qYKLhAKy"
+      "duration_ms": 224000,
+      "name": "honeydew (praise the Lord)",
+      "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -623,6 +607,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Sun Rises",
+        "url": "https://open.spotify.com/album/6Has46aL8NIuwJcanqM7Ha"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 174769,
+      "name": "Sun Rises",
+      "url": "https://open.spotify.com/track/1c2EYour3VAKs2qYKLhAKy"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "high water",
         "url": "https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 168975,
       "name": "high water",
       "url": "https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Thank God I'm Free",
+        "url": "https://open.spotify.com/album/5fqWCD1SxUfcvMkN7x2NN4"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 171670,
+      "name": "Thank God I'm Free",
+      "url": "https://open.spotify.com/track/2yolugG5vuEjiiDq7A47mE"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -659,22 +675,6 @@
       "duration_ms": 271208,
       "name": "New Thing - Live",
       "url": "https://open.spotify.com/track/6upp8gy0AqRf0gWJ5T4lct"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Thank God I'm Free",
-        "url": "https://open.spotify.com/album/5fqWCD1SxUfcvMkN7x2NN4"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 171670,
-      "name": "Thank God I'm Free",
-      "url": "https://open.spotify.com/track/2yolugG5vuEjiiDq7A47mE"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Monday Morning Faith (Acoustic)",
+        "url": "https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        }
+      ],
+      "duration_ms": 338493,
+      "name": "Monday Morning Faith - Acoustic",
+      "url": "https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Rise My Soul, The Lord Is Risen",
         "url": "https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 200415,
       "name": "Rise My Soul, The Lord Is Risen",
       "url": "https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Monday Morning Faith (Acoustic)",
-        "url": "https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "Chelsea Plank",
-          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
-        }
-      ],
-      "duration_ms": 338493,
-      "name": "Monday Morning Faith - Acoustic",
-      "url": "https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Day The Lord Has Made",
-        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
-      },
-      "artists": [
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 304800,
-      "name": "Day The Lord Has Made",
-      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Happy Song",
         "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 147452,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Day The Lord Has Made",
+        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "duration_ms": 304800,
+      "name": "Day The Lord Has Made",
+      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Beautiful Day (House of the Lord)",
-        "url": "https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv"
-      },
-      "artists": [
-        {
-          "name": "FRVR FREE",
-          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Beautiful Day (House of the Lord)",
-      "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "The Morning",
         "url": "https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 179244,
       "name": "The Morning",
       "url": "https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Beautiful Day (House of the Lord)",
+        "url": "https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv"
+      },
+      "artists": [
+        {
+          "name": "FRVR FREE",
+          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Beautiful Day (House of the Lord)",
+      "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/4GC0oRuVTZR2a0yCnQRaNz"
-      },
-      "artists": [
-        {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
-        }
-      ],
-      "duration_ms": 163070,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/5TZQFrjxHT5rkR43PA4aF6"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "All Eyes On You",
         "url": "https://open.spotify.com/album/1mVMcsbi2aYFXH9AWm7O95"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 289946,
       "name": "All Eyes On You",
       "url": "https://open.spotify.com/track/4EYPGsRXQHnItdVT2jrNqP"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/4GC0oRuVTZR2a0yCnQRaNz"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "duration_ms": 163070,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/5TZQFrjxHT5rkR43PA4aF6"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "First Light / Last Word",
-        "url": "https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        },
-        {
-          "name": "Ben Cruse",
-          "url": "https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf"
-        }
-      ],
-      "duration_ms": 333367,
-      "name": "Morning Psalm (feat. Ben Cruse)",
-      "url": "https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 223695,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7ilYm200byu5tpaXE97NVR"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "First Light / Last Word",
+        "url": "https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        },
+        {
+          "name": "Ben Cruse",
+          "url": "https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf"
+        }
+      ],
+      "duration_ms": 333367,
+      "name": "Morning Psalm (feat. Ben Cruse)",
+      "url": "https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Wake Up (Remix)",
-        "url": "https://open.spotify.com/album/2eagZIie0DPIZqDuGiAVOY"
-      },
-      "artists": [
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        },
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 157776,
-      "name": "Wake Up - Remix",
-      "url": "https://open.spotify.com/track/4ioFDwWM3lSGDsWr4mFsVp"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Makes My Day",
         "url": "https://open.spotify.com/album/6I2CtfYURnq4OXtpEXgEu8"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 231375,
       "name": "Joy Comes",
       "url": "https://open.spotify.com/track/11cM33H4S1YN6iSjB7uAvQ"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Wake Up (Remix)",
+        "url": "https://open.spotify.com/album/2eagZIie0DPIZqDuGiAVOY"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        },
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 157776,
+      "name": "Wake Up - Remix",
+      "url": "https://open.spotify.com/track/4ioFDwWM3lSGDsWr4mFsVp"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 275726,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 183711,
       "name": "Surrounded",
       "url": "https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 275726,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/3qEVYXuGEN7eMSOBvM7vuS"
+      },
+      "artists": [
+        {
+          "name": "Adriel Cruz",
+          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
+        }
+      ],
+      "duration_ms": 232887,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/4fYyuiKLTfzlTXMDawgCNu"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/3rEGp31cARIIlik4WK9xyB"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 171923,
       "name": "So Good",
       "url": "https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/3qEVYXuGEN7eMSOBvM7vuS"
-      },
-      "artists": [
-        {
-          "name": "Adriel Cruz",
-          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
-        }
-      ],
-      "duration_ms": 232887,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/4fYyuiKLTfzlTXMDawgCNu"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "This Is the Day",
-        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 325247,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Good Morning Mercy",
         "url": "https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 190666,
       "name": "Good Morning Mercy",
       "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "This Is the Day",
+        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 325247,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
     },
     {
       "added_at": "2026-07-29 15:45:01",

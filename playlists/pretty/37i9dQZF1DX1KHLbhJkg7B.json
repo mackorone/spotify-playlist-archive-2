@@ -1,12 +1,12 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Keith Urban",
-  "num_followers": 136640,
+  "num_followers": 136650,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABAQonCxmryxhClvX58T6wPoCdXj",
+  "snapshot_id": "AAAAAD1qwh797pbKV4tAcIhih3FcgKxw",
   "tracks": [
     {
       "added_at": "2026-07-23 22:45:25",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 230546,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
-        },
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/0Cy6TGrIY2E13BwGHJl6kI"
       },
@@ -843,22 +823,6 @@
       "duration_ms": 176110,
       "name": "Iris",
       "url": "https://open.spotify.com/track/77bmyAECj4pwi6uhIjoVo1"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
-        "name": "The Show: The Encore",
-        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 242124,
-      "name": "Something In The Orange - Live From Spotify Studios",
-      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -891,6 +855,42 @@
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
+        "name": "The Show: The Encore",
+        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 242124,
+      "name": "Something In The Orange - Live From Spotify Studios",
+      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        },
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
         "name": "American Heartbreak",
         "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 177867,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
+        "name": "A Lesson In Leavin'",
+        "url": "https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        },
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
+      "duration_ms": 204603,
+      "name": "A Lesson In Leavin\u2019",
+      "url": "https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1215,22 +1219,18 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "A Lesson In Leavin'",
-        "url": "https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu"
+        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        },
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 204603,
-      "name": "A Lesson In Leavin\u2019",
-      "url": "https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A"
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG"
-      },
-      "artists": [
-        {
-          "name": "Ryan Waters Band",
-          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
         "name": "Simply The Hits",
         "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
       },
@@ -1299,22 +1283,18 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Only Daddy That'll Walk The Line",
-        "url": "https://open.spotify.com/album/2xa8mCSTqEWOUkXOoRTiSy"
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG"
       },
       "artists": [
         {
-          "name": "Gavin Adcock",
-          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
-        },
-        {
-          "name": "Country Never Dies",
-          "url": "https://open.spotify.com/artist/6TCgpmXVJnPOtKQVBWv4nk"
+          "name": "Ryan Waters Band",
+          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
         }
       ],
-      "duration_ms": 157880,
-      "name": "Only Daddy That'll Walk The Line",
-      "url": "https://open.spotify.com/track/6PyTN8XqAYMqQyKs2F9XD8"
+      "duration_ms": 237613,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1335,6 +1315,26 @@
       "duration_ms": 296866,
       "name": "Believe (with Jelly Roll)",
       "url": "https://open.spotify.com/track/3Nh5mzU8htHws2Wi7j2X4Z"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
+        "name": "Only Daddy That'll Walk The Line",
+        "url": "https://open.spotify.com/album/2xa8mCSTqEWOUkXOoRTiSy"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        },
+        {
+          "name": "Country Never Dies",
+          "url": "https://open.spotify.com/artist/6TCgpmXVJnPOtKQVBWv4nk"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "Only Daddy That'll Walk The Line",
+      "url": "https://open.spotify.com/track/6PyTN8XqAYMqQyKs2F9XD8"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Footlights",
-        "url": "https://open.spotify.com/album/1nTo7j2BBoHrr60jz56mVp"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 264626,
-      "name": "Footlights",
-      "url": "https://open.spotify.com/track/0jsJQqnaP21iMesmDucSjW"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
         "name": "HIXTAPE: Vol. 3: DIFFTAPE",
         "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
+        "name": "Footlights",
+        "url": "https://open.spotify.com/album/1nTo7j2BBoHrr60jz56mVp"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 264626,
+      "name": "Footlights",
+      "url": "https://open.spotify.com/track/0jsJQqnaP21iMesmDucSjW"
     },
     {
       "added_at": "2026-07-23 22:45:25",

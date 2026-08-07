@@ -181,6 +181,32 @@
     },
     {
       "album": {
+        "name": "2002",
+        "url": "https://open.spotify.com/album/00FNBMqXEXR0ROX1B4e5oI"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Brody",
+          "url": "https://open.spotify.com/artist/3D9u33Dil9eK1Frq3YasLE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203234,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/68Djj6rG9XWVK9NB8LnLU1"
+    },
+    {
+      "album": {
         "name": "RESONANCE",
         "url": "https://open.spotify.com/album/70djbLtJZMX8tOviF3LqW6"
       },
@@ -1490,6 +1516,28 @@
       "duration_ms": 145000,
       "name": "Baby, Honey",
       "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
+    },
+    {
+      "album": {
+        "name": "SOUL BABY",
+        "url": "https://open.spotify.com/album/5sXJul476tGRt2eHMstVDr"
+      },
+      "artists": [
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Babyy",
+      "url": "https://open.spotify.com/track/3G7yaITbl6QyDgCmcqEVTl"
     },
     {
       "album": {
@@ -3182,6 +3230,24 @@
       "duration_ms": 185169,
       "name": "Chrome Hearts",
       "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/7KkiqBBKxBdIJIAWkU5xwm"
+      },
+      "artists": [
+        {
+          "name": "Wolley",
+          "url": "https://open.spotify.com/artist/6gacUwEHtrF09FUcWOvQuc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Chung Choon",
+      "url": "https://open.spotify.com/track/7FsUed4IoZXFNKcAzsPDmv"
     },
     {
       "album": {
@@ -6326,7 +6392,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
@@ -8476,7 +8542,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 157168,
       "name": "jellyfish",
       "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
@@ -13924,7 +13990,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 164733,
       "name": "RIZZ",
       "url": "https://open.spotify.com/track/6JbyOUBLnkMadKcPQoQeTR"

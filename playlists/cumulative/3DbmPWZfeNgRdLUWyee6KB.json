@@ -18937,6 +18937,24 @@
     },
     {
       "album": {
+        "name": "Shower Song",
+        "url": "https://open.spotify.com/album/01SI7DXpqEsb3DiSIrUjJD"
+      },
+      "artists": [
+        {
+          "name": "LOOSER",
+          "url": "https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193213,
+      "name": "Shower Song",
+      "url": "https://open.spotify.com/track/67QhgrmrS3L4KOWkLYHeAt"
+    },
+    {
+      "album": {
         "name": "MMXXII",
         "url": "https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN"
       },
@@ -23204,6 +23222,24 @@
       "duration_ms": 186708,
       "name": "Tu \u00faltimo trofeo",
       "url": "https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt"
+    },
+    {
+      "album": {
+        "name": "Turn Your Back",
+        "url": "https://open.spotify.com/album/58EX7IB2QgulpvTu6TAZrO"
+      },
+      "artists": [
+        {
+          "name": "Phoeno",
+          "url": "https://open.spotify.com/artist/5KnD9mAsf1y1TYEqpeew7B"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204791,
+      "name": "Turn Your Back",
+      "url": "https://open.spotify.com/track/1aq9czg1w6yRRgL4BILJkh"
     },
     {
       "album": {

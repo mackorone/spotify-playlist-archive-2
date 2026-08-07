@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Plan De La Mariposa",
-  "num_followers": 193596,
+  "num_followers": 193611,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtermYdHhcOZEa8hWdN1NFNRIIz",
+  "snapshot_id": "AAAAAL8byFBpLO4OPwzmk2hmmvZ5vjUJ",
   "tracks": [
     {
       "added_at": "2026-06-26 15:53:51",
@@ -243,18 +243,18 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Desde Adentro - Impuesto de Fe (En Vivo)",
-        "url": "https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi"
+        "name": "Canciones Elegidas 93-04",
+        "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 177066,
-      "name": "C\u00f3mo Eran las Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7"
+      "duration_ms": 149880,
+      "name": "Tu Locura",
+      "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -291,18 +291,18 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Canciones Elegidas 93-04",
-        "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
+        "name": "Desde Adentro - Impuesto de Fe (En Vivo)",
+        "url": "https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 149880,
-      "name": "Tu Locura",
-      "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
+      "duration_ms": 177066,
+      "name": "C\u00f3mo Eran las Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
+        "name": "Polos (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC"
+      },
+      "artists": [
+        {
+          "name": "Ella Es Tan Cargosa",
+          "url": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
+        }
+      ],
+      "duration_ms": 271229,
+      "name": "En Redondel - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3iilgTLKZS1pnlwkhvO57o"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 136624,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6dkfSa5CFD3D11m5xjywO7"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
-        "name": "Polos (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC"
-      },
-      "artists": [
-        {
-          "name": "Ella Es Tan Cargosa",
-          "url": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
-        }
-      ],
-      "duration_ms": 271229,
-      "name": "En Redondel - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -627,22 +627,18 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Serenata del 900 (Casa Sole)",
-        "url": "https://open.spotify.com/album/3LCqfj3XyKijkaGuF0bgoV"
+        "name": "Pu\u00f1al",
+        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
       },
       "artists": [
         {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
         }
       ],
-      "duration_ms": 193897,
-      "name": "Serenata del 900 (Casa Sole)",
-      "url": "https://open.spotify.com/track/5lxmxVVKufdAcM2Jn5pdlB"
+      "duration_ms": 218671,
+      "name": "Soltar",
+      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -663,18 +659,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Pu\u00f1al",
-        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
+        "name": "Serenata del 900 (Casa Sole)",
+        "url": "https://open.spotify.com/album/3LCqfj3XyKijkaGuF0bgoV"
       },
       "artists": [
         {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 218671,
-      "name": "Soltar",
-      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
+      "duration_ms": 193897,
+      "name": "Serenata del 900 (Casa Sole)",
+      "url": "https://open.spotify.com/track/5lxmxVVKufdAcM2Jn5pdlB"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "D\u00e9jame Dejarte Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 204775,
-      "name": "D\u00e9jame Dejarte Atr\u00e1s",
-      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Turf",
         "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 271266,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "D\u00e9jame Dejarte Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 204775,
+      "name": "D\u00e9jame Dejarte Atr\u00e1s",
+      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Todas las Flores de Enero",
-        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 134888,
-      "name": "Todas las Flores de Enero",
-      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "No S\u00e9 Si Es Baires O Madrid",
         "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
+        "name": "Todas las Flores de Enero",
+        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
         }
       ],
-      "duration_ms": 198650,
-      "name": "Lara",
-      "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
+      "duration_ms": 134888,
+      "name": "Todas las Flores de Enero",
+      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -835,6 +819,22 @@
       "duration_ms": 174096,
       "name": "De Musica Ligera",
       "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 198650,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Romaphonic Sessions",
-        "url": "https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 279994,
-      "name": "Paloma - Romaphonic",
-      "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Ac\u00fastico Gran Rex",
         "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Loquero Viejo",
-        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+        "name": "Romaphonic Sessions",
+        "url": "https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl"
       },
       "artists": [
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 211460,
-      "name": "Loquero Viejo",
-      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
+      "duration_ms": 279994,
+      "name": "Paloma - Romaphonic",
+      "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1015,6 +999,22 @@
       "duration_ms": 165625,
       "name": "Quiero - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Loquero Viejo",
+        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 211460,
+      "name": "Loquero Viejo",
+      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Lo Que Perd\u00ed",
-        "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
-      },
-      "artists": [
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 223096,
-      "name": "Lo Que Perd\u00ed",
-      "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Seminare",
         "url": "https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 204540,
       "name": "Seminare",
       "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Lo Que Perd\u00ed",
+        "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
+      },
+      "artists": [
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 223096,
+      "name": "Lo Que Perd\u00ed",
+      "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Diecinueve",
-        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        }
-      ],
-      "duration_ms": 213105,
-      "name": "Fuimos",
-      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Se Vos",
         "url": "https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM"
       },
@@ -1391,6 +1375,38 @@
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Diecinueve",
+        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        }
+      ],
+      "duration_ms": 213105,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "AC\u00daSTICO Vol.1",
+        "url": "https://open.spotify.com/album/7cL5TVSAcTVRPxZNfbpHfx"
+      },
+      "artists": [
+        {
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Amor Roto - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4i0DjnEGMEhpZlFYL4xHz0"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "AC\u00daSTICO Vol.1",
-        "url": "https://open.spotify.com/album/7cL5TVSAcTVRPxZNfbpHfx"
-      },
-      "artists": [
-        {
-          "name": "C\u00edgaro",
-          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Amor Roto - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4i0DjnEGMEhpZlFYL4xHz0"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Esta podr\u00eda ser la se\u00f1al",
         "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
-      },
-      "artists": [
-        {
-          "name": "Los Otros D\u00edas",
-          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
-        }
-      ],
-      "duration_ms": 169487,
-      "name": "el film - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Es Broma, En Serio",
         "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Congelamiento Global",
-        "url": "https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ"
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
       },
       "artists": [
         {
-          "name": "Doble Valentina",
-          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+          "name": "Los Otros D\u00edas",
+          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
         }
       ],
-      "duration_ms": 185644,
-      "name": "Amar No Est\u00e1 de Moda",
-      "url": "https://open.spotify.com/track/6oS9syceL1xhMagN948BFn"
+      "duration_ms": 169487,
+      "name": "el film - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
+        "name": "Congelamiento Global",
+        "url": "https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ"
+      },
+      "artists": [
+        {
+          "name": "Doble Valentina",
+          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+        }
+      ],
+      "duration_ms": 185644,
+      "name": "Amar No Est\u00e1 de Moda",
+      "url": "https://open.spotify.com/track/6oS9syceL1xhMagN948BFn"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
         "name": "Como Te Voy A Olvidar",
         "url": "https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 186750,
       "name": "Como Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Amor de mi herida",
+        "url": "https://open.spotify.com/album/1pxingc83wxaMfVc7P1p6b"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        }
+      ],
+      "duration_ms": 219708,
+      "name": "Solo hace falta vivir",
+      "url": "https://open.spotify.com/track/2n1PNRppOz8t3Xgda3dqBc"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1587,38 +1603,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Amor de mi herida",
-        "url": "https://open.spotify.com/album/1pxingc83wxaMfVc7P1p6b"
-      },
-      "artists": [
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        }
-      ],
-      "duration_ms": 219708,
-      "name": "Solo hace falta vivir",
-      "url": "https://open.spotify.com/track/2n1PNRppOz8t3Xgda3dqBc"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
-        "name": "Fin de Fiesta",
-        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 101818,
-      "name": "Fin de Fiesta",
-      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Mil Caminos",
         "url": "https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 234104,
       "name": "Vete",
       "url": "https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Fin de Fiesta",
+        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 101818,
+      "name": "Fin de Fiesta",
+      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Intacto",
-        "url": "https://open.spotify.com/album/63hPjuYD7R7DJrZx7Ic4Q8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 226126,
-      "name": "Intacto",
-      "url": "https://open.spotify.com/track/6pX8DeeQI7uEnhALPoN7eM"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Hagan Correr la Voz",
         "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
@@ -1723,6 +1707,26 @@
       "duration_ms": 245373,
       "name": "Love Song - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4tDpOMKNX8oX2iQkwSnRHH"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "enero (versi\u00f3n ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        },
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 206143,
+      "name": "enero - versi\u00f3n ac\u00fastica",
+      "url": "https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

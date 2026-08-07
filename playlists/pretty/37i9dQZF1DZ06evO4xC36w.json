@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 1024928,
+  "num_followers": 1025022,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAACKFCk96mEcQbynMldaBTd1",
+  "snapshot_id": "anJ9AAAAAABEEyNXSgztusZFi6ymOeUw",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alza El Vuelo",
-        "url": "https://open.spotify.com/album/6UShlJGWod3wfFwauvmF1t"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 172361,
-      "name": "Tiernas Mentiras",
-      "url": "https://open.spotify.com/track/1elLceQ9yD7ZQwhJsSxjXb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 204933,
       "name": "Juliantla",
       "url": "https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alza El Vuelo",
+        "url": "https://open.spotify.com/album/6UShlJGWod3wfFwauvmF1t"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 172361,
+      "name": "Tiernas Mentiras",
+      "url": "https://open.spotify.com/track/1elLceQ9yD7ZQwhJsSxjXb"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 133120,
-      "name": "Muchachita De Ojos Claros",
-      "url": "https://open.spotify.com/track/6KHHFJARqCRhevKe3ozHct"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 186734,
       "name": "Melod\u00eda Para Dos",
       "url": "https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 133120,
+      "name": "Muchachita De Ojos Claros",
+      "url": "https://open.spotify.com/track/6KHHFJARqCRhevKe3ozHct"
     },
     {
       "added_at": null,

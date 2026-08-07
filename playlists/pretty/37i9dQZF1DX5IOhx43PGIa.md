@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,431 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,418 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [Sweet Satin Boy](https://open.spotify.com/track/2XRieO4EqaCRzUIxvbQfdZ) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [Sweet Satin Boy](https://open.spotify.com/album/30JilV14nAFQI9TyL8Tlka) | 3:05 |
 | 100 | [Don’t Worry](https://open.spotify.com/track/3SdpIiX0RAj9FSqpfV7mAB) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5), [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [Don’t Worry](https://open.spotify.com/album/7nANoO4JFA0TGiEtMzFdsH) | 4:08 |
 
-Snapshot ID: `AAAAAE8KhArst9PgF3uWFTPcb9QMLLYv`
+Snapshot ID: `AAAAAH3hgzd6E/q1K7fqLZcJ28Ah4sWa`

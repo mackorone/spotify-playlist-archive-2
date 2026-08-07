@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 71339,
+  "num_followers": 71333,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM2J/nyunpjT6znqr2p/gz7FAk15",
+  "snapshot_id": "AAAAAEre2ppawFddSnSU91pvooV8/lll",
   "tracks": [
     {
       "added_at": "2024-06-24 11:19:01",
@@ -419,18 +419,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Leva",
-        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
+        "name": "Weh Dem A Gwaan",
+        "url": "https://open.spotify.com/album/5r1c91KAq5CpstvR7i6WA0"
       },
       "artists": [
         {
-          "name": "Issify",
-          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
+          "name": "Kiihjano",
+          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
+        },
+        {
+          "name": "Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
         }
       ],
-      "duration_ms": 176613,
-      "name": "Leva",
-      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
+      "duration_ms": 200000,
+      "name": "Weh Dem A Gwaan",
+      "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -471,22 +475,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Weh Dem A Gwaan",
-        "url": "https://open.spotify.com/album/5r1c91KAq5CpstvR7i6WA0"
+        "name": "Leva",
+        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
       },
       "artists": [
         {
-          "name": "Kiihjano",
-          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
-        },
-        {
-          "name": "Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
+          "name": "Issify",
+          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Weh Dem A Gwaan",
-      "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
+      "duration_ms": 176613,
+      "name": "Leva",
+      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Fet Krokodil",
-        "url": "https://open.spotify.com/album/5at64z4ZwtkZGSX98y1WtB"
-      },
-      "artists": [
-        {
-          "name": "P-Danjelsa",
-          "url": "https://open.spotify.com/artist/1aRGrIf66qGIeHgLJJm3mk"
-        }
-      ],
-      "duration_ms": 194563,
-      "name": "Fet Krokodil",
-      "url": "https://open.spotify.com/track/5ee0DD0aIFVdLAmiQPPwtM"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "S\u00e5 fakking fin",
         "url": "https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 160000,
       "name": "S\u00e5 fakking fin",
       "url": "https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Fet Krokodil",
+        "url": "https://open.spotify.com/album/5at64z4ZwtkZGSX98y1WtB"
+      },
+      "artists": [
+        {
+          "name": "P-Danjelsa",
+          "url": "https://open.spotify.com/artist/1aRGrIf66qGIeHgLJJm3mk"
+        }
+      ],
+      "duration_ms": 194563,
+      "name": "Fet Krokodil",
+      "url": "https://open.spotify.com/track/5ee0DD0aIFVdLAmiQPPwtM"
     },
     {
       "added_at": "2024-06-24 11:19:01",

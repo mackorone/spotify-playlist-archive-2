@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Toxic
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,762 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,776 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Tun Tun Tun](https://open.spotify.com/track/16o3cQUe3meG3wC5B1mq3a) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Elra Kaaleliyatte Kaala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6uGdJxu86zFegCR11fHtoW) | 3:27 |
 | 75 | [Vibe Of Graamaayana \(From "Graamaayana"\)](https://open.spotify.com/track/4iJGuZLvyso0QIqApCLQMG) | [Arun M.C](https://open.spotify.com/artist/6fx6V6qKHwn2j7Uyq0K7it), [Poornachandra Tejaswi SV](https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88), [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s), [Sachin Araballi](https://open.spotify.com/artist/06Xt8RZPqsPgKDrU954ZFo), [Vihan](https://open.spotify.com/artist/6CWLxlEvYcPP1ye6hCEgoY), [Prof\. Krishne Gowda](https://open.spotify.com/artist/62KWRzZwPqPb3P39bpe7tD) | [Vibe Of Graamaayana \(From "Graamaayana"\)](https://open.spotify.com/album/4rdFMFVgpOtvaXAHO3oiKQ) | 6:04 |
 
-Snapshot ID: `AAAAAF5yrxO0rJkuLNG6DdKrg+oRgjJ7`
+Snapshot ID: `AAAAAPPqhxyC39FXZsEhr8SbZ5SNbvSE`

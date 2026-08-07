@@ -4840,7 +4840,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 153181,
       "name": "E85",
       "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
@@ -5985,6 +5985,24 @@
     },
     {
       "album": {
+        "name": "FREE AT LAST",
+        "url": "https://open.spotify.com/album/0nokDqIaXChWyg7naH2C1b"
+      },
+      "artists": [
+        {
+          "name": "Chandler Jewels",
+          "url": "https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "FREE AT LAST",
+      "url": "https://open.spotify.com/track/0mQN6moZZUUZz0N3MheGtu"
+    },
+    {
+      "album": {
         "name": "Freedom Of Speech",
         "url": "https://open.spotify.com/album/2wmsAKoZTwxdjzJgLNKji8"
       },
@@ -6354,7 +6372,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 152533,
       "name": "GEEKIN",
       "url": "https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q"
@@ -6540,6 +6558,28 @@
       "duration_ms": 178285,
       "name": "Ghetto Love Story",
       "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
+    },
+    {
+      "album": {
+        "name": "GHOST DOG.",
+        "url": "https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179130,
+      "name": "GHOST DOG.",
+      "url": "https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor"
     },
     {
       "album": {
@@ -7866,7 +7906,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 142597,
       "name": "I CONDEMN",
       "url": "https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT"
@@ -9173,6 +9213,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/3TOp1uIbREUOqYUwuXq269"
+      },
+      "artists": [
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161296,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/6uJNfV05iUiCpyWidj7HrG"
+    },
+    {
+      "album": {
         "name": "Legacy In Motion",
         "url": "https://open.spotify.com/album/39uhfknT6BV77Zb5w90bnj"
       },
@@ -9734,7 +9792,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 191328,
       "name": "London - Bonus",
       "url": "https://open.spotify.com/track/3fq2iQjL6aun4zJ4R1cJjK"
@@ -12836,6 +12894,24 @@
       "duration_ms": 168668,
       "name": "Portals",
       "url": "https://open.spotify.com/track/3zbLUGQOL6gRZC4gHSiR0W"
+    },
+    {
+      "album": {
+        "name": "Maverick \u201cAlmost Forever\u201d EP",
+        "url": "https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180369,
+      "name": "Poured",
+      "url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
     },
     {
       "album": {

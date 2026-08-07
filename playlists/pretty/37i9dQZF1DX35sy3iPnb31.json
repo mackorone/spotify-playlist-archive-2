@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: girlsweetvoiced",
-  "num_followers": 2245,
+  "num_followers": 2257,
   "original_name": "Editors' Picks: Best Canadian Songs of July",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABLMWZ9Xq5xwtPDf9hnSdE6MC2Tc",
+  "snapshot_id": "AAAAABE0OSOENVIXqaEOyw5BD7fiNFUL",
   "tracks": [
     {
       "added_at": "2026-07-31 15:05:53",
@@ -43,18 +43,18 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "HOW TO BE A LOVER",
-        "url": "https://open.spotify.com/album/0apMpMpEBEqdZj2X51ay62"
+        "name": "One Sided",
+        "url": "https://open.spotify.com/album/6LppWJEdvUgGInucQBWX34"
       },
       "artists": [
         {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
         }
       ],
-      "duration_ms": 266103,
-      "name": "HOW TO BE A LOVER",
-      "url": "https://open.spotify.com/track/1xbP92TbLVfUlS2BtkTidi"
+      "duration_ms": 182474,
+      "name": "One Sided",
+      "url": "https://open.spotify.com/track/04Z06rmw8BMSBahqr3KvS4"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -87,18 +87,18 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "One Sided",
-        "url": "https://open.spotify.com/album/6LppWJEdvUgGInucQBWX34"
+        "name": "HOW TO BE A LOVER",
+        "url": "https://open.spotify.com/album/0apMpMpEBEqdZj2X51ay62"
       },
       "artists": [
         {
-          "name": "Myles Lloyd",
-          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
         }
       ],
-      "duration_ms": 182474,
-      "name": "One Sided",
-      "url": "https://open.spotify.com/track/04Z06rmw8BMSBahqr3KvS4"
+      "duration_ms": 266103,
+      "name": "HOW TO BE A LOVER",
+      "url": "https://open.spotify.com/track/1xbP92TbLVfUlS2BtkTidi"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -151,18 +151,18 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Trap 4 a Year II",
-        "url": "https://open.spotify.com/album/4DuESzDuDknm7FSzzGz4iB"
+        "name": "Men Into Boys",
+        "url": "https://open.spotify.com/album/6NpOvDlOyqKVOnQMXYGKXu"
       },
       "artists": [
         {
-          "name": "Casper TNG",
-          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Trap 4 a Year II",
-      "url": "https://open.spotify.com/track/6ZTPxJSyLNbrBy2jyF5lJF"
+      "duration_ms": 154448,
+      "name": "Men Into Boys",
+      "url": "https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -199,34 +199,18 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Men Into Boys",
-        "url": "https://open.spotify.com/album/6NpOvDlOyqKVOnQMXYGKXu"
+        "name": "Trap 4 a Year II",
+        "url": "https://open.spotify.com/album/4DuESzDuDknm7FSzzGz4iB"
       },
       "artists": [
         {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
         }
       ],
-      "duration_ms": 154448,
-      "name": "Men Into Boys",
-      "url": "https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "DON'T DISTURB THE GROOVE: AFROSOUL",
-        "url": "https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 198948,
-      "name": "LET ME GO",
-      "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
+      "duration_ms": 155520,
+      "name": "Trap 4 a Year II",
+      "url": "https://open.spotify.com/track/6ZTPxJSyLNbrBy2jyF5lJF"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -243,6 +227,22 @@
       "duration_ms": 135581,
       "name": "i have a secret",
       "url": "https://open.spotify.com/track/5rzr7pkEiYNFU11Q71XYb3"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "DON'T DISTURB THE GROOVE: AFROSOUL",
+        "url": "https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 198948,
+      "name": "LET ME GO",
+      "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
+        "name": "Ya Hala",
+        "url": "https://open.spotify.com/album/09cYavs2exGSaMjJGIcUyE"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 142809,
+      "name": "Ya Hala",
+      "url": "https://open.spotify.com/track/4h3QHOlA0cVlN8CSpJehnd"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
         "name": "KGB (Kill Get Back)",
         "url": "https://open.spotify.com/album/0189OWiNDfbQ9gm1XBdpFo"
       },
@@ -295,6 +311,22 @@
       "duration_ms": 133546,
       "name": "KGB (Kill Get Back)",
       "url": "https://open.spotify.com/track/3GEjtr09NurAwoc2x0pSDh"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Moment Of Silence",
+        "url": "https://open.spotify.com/album/1NegFauPb9RjieMbg6g0lt"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "duration_ms": 187427,
+      "name": "Moment Of Silence",
+      "url": "https://open.spotify.com/track/0pgaU2JcaLqmGqG0oIgEsc"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -319,38 +351,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Moment Of Silence",
-        "url": "https://open.spotify.com/album/1NegFauPb9RjieMbg6g0lt"
-      },
-      "artists": [
-        {
-          "name": "Luna Elle",
-          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
-        }
-      ],
-      "duration_ms": 187427,
-      "name": "Moment Of Silence",
-      "url": "https://open.spotify.com/track/0pgaU2JcaLqmGqG0oIgEsc"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "Ya Hala",
-        "url": "https://open.spotify.com/album/09cYavs2exGSaMjJGIcUyE"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 142809,
-      "name": "Ya Hala",
-      "url": "https://open.spotify.com/track/4h3QHOlA0cVlN8CSpJehnd"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Rat Race",
         "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 190808,
       "name": "Rat Race",
       "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "intersection",
+        "url": "https://open.spotify.com/album/1QBqcimkOSDc56jvdra679"
+      },
+      "artists": [
+        {
+          "name": "fyodor",
+          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "intersection",
+      "url": "https://open.spotify.com/track/2AEkFnLKAWMQQwKmWGqxkr"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -387,22 +403,6 @@
       "duration_ms": 143200,
       "name": "Did That",
       "url": "https://open.spotify.com/track/3yk605Rv9pmjVWdA0DDgzU"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "intersection",
-        "url": "https://open.spotify.com/album/1QBqcimkOSDc56jvdra679"
-      },
-      "artists": [
-        {
-          "name": "fyodor",
-          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "intersection",
-      "url": "https://open.spotify.com/track/2AEkFnLKAWMQQwKmWGqxkr"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -515,34 +515,18 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Party Animal",
-        "url": "https://open.spotify.com/album/6i3GF9CpBa8eq5aQs55Xew"
+        "name": "RaGDOLL",
+        "url": "https://open.spotify.com/album/5h2GFhREsGskMxCQg8DwCA"
       },
       "artists": [
         {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Party Animal",
-      "url": "https://open.spotify.com/track/5eTwF5hRGuoWNhDgTZErwA"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "work",
-        "url": "https://open.spotify.com/album/0rYaE3uuSJC6lTRhTXfaCe"
-      },
-      "artists": [
-        {
-          "name": "SUUNCAAT",
-          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
-        }
-      ],
-      "duration_ms": 265551,
-      "name": "work",
-      "url": "https://open.spotify.com/track/5t9uZJUSpZ4tKrAyFFqZ1Y"
+      "duration_ms": 204313,
+      "name": "RaGDOLL",
+      "url": "https://open.spotify.com/track/1n43MqthDH1XCdTixJOCX3"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -563,54 +547,34 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Bruise",
-        "url": "https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ"
+        "name": "work",
+        "url": "https://open.spotify.com/album/0rYaE3uuSJC6lTRhTXfaCe"
       },
       "artists": [
         {
-          "name": "Dj Cin\u00e9ma Quartier Latin",
-          "url": "https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD"
+          "name": "SUUNCAAT",
+          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
         }
       ],
-      "duration_ms": 207346,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ"
+      "duration_ms": 265551,
+      "name": "work",
+      "url": "https://open.spotify.com/track/5t9uZJUSpZ4tKrAyFFqZ1Y"
     },
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "RaGDOLL",
-        "url": "https://open.spotify.com/album/5h2GFhREsGskMxCQg8DwCA"
+        "name": "Party Animal",
+        "url": "https://open.spotify.com/album/6i3GF9CpBa8eq5aQs55Xew"
       },
       "artists": [
         {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
         }
       ],
-      "duration_ms": 204313,
-      "name": "RaGDOLL",
-      "url": "https://open.spotify.com/track/1n43MqthDH1XCdTixJOCX3"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "Hershey Kiss",
-        "url": "https://open.spotify.com/album/4VxBxBwI53yqjCXJVwrfFI"
-      },
-      "artists": [
-        {
-          "name": "Naomi",
-          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
-        },
-        {
-          "name": "SLM",
-          "url": "https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r"
-        }
-      ],
-      "duration_ms": 128640,
-      "name": "Hershey Kiss",
-      "url": "https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg"
+      "duration_ms": 156000,
+      "name": "Party Animal",
+      "url": "https://open.spotify.com/track/5eTwF5hRGuoWNhDgTZErwA"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -655,6 +619,22 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
+        "name": "Bruise",
+        "url": "https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ"
+      },
+      "artists": [
+        {
+          "name": "Dj Cin\u00e9ma Quartier Latin",
+          "url": "https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
         "name": "World Tour Freestyle",
         "url": "https://open.spotify.com/album/1T6zovINsDE46fupkeHo7a"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 131111,
       "name": "World Tour Freestyle",
       "url": "https://open.spotify.com/track/4GiJmFhOuGbfPl6gdKErwe"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Hershey Kiss",
+        "url": "https://open.spotify.com/album/4VxBxBwI53yqjCXJVwrfFI"
+      },
+      "artists": [
+        {
+          "name": "Naomi",
+          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
+        },
+        {
+          "name": "SLM",
+          "url": "https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r"
+        }
+      ],
+      "duration_ms": 128640,
+      "name": "Hershey Kiss",
+      "url": "https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -699,6 +699,22 @@
       "duration_ms": 163311,
       "name": "Dogs.",
       "url": "https://open.spotify.com/track/5vw1gkiEQF4avej3LNU8iY"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "La fin",
+        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
+      },
+      "artists": [
+        {
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "La fin",
+      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -779,22 +795,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "La fin",
-        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
-      },
-      "artists": [
-        {
-          "name": "Grace of Arc",
-          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "La fin",
-      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Nouveaux Langages",
         "url": "https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "BADBIHFORTEKOMMIKASA",
-        "url": "https://open.spotify.com/album/45n9mUWjqb9XIINadv7w7Z"
-      },
-      "artists": [
-        {
-          "name": "K!RA OJI",
-          "url": "https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm"
-        }
-      ],
-      "duration_ms": 116677,
-      "name": "BADBIHFORTEKOMMIKASA",
-      "url": "https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Adam West",
         "url": "https://open.spotify.com/album/0MgV3Mr6t1dCpgHX9REqSY"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 225096,
       "name": "Adam West",
       "url": "https://open.spotify.com/track/2F5b6igudY64NBG42TCDjR"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "BADBIHFORTEKOMMIKASA",
+        "url": "https://open.spotify.com/album/45n9mUWjqb9XIINadv7w7Z"
+      },
+      "artists": [
+        {
+          "name": "K!RA OJI",
+          "url": "https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm"
+        }
+      ],
+      "duration_ms": 116677,
+      "name": "BADBIHFORTEKOMMIKASA",
+      "url": "https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b"
     }
   ],
   "unique_name": "Editors' Picks: Best Canadian Songs of July",

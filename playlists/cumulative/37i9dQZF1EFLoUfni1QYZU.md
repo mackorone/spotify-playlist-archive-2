@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-166 songs - 10 hr 20 min
+167 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Cheers \(Drink To That\)](https://open.spotify.com/track/3DDBW9yeXc0RQUAOBeKYti) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:21 | 2022-09-08 |  |
 | [Cling to Me](https://open.spotify.com/track/2e4dV55FccXOQPg5Fbx8cc) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Cling to Me](https://open.spotify.com/album/0fJsVicsUavBWSiiLBDwNJ) | 4:03 | 2022-09-08 |  |
 | [Come On & Get It](https://open.spotify.com/track/5qZZo8XGfe2XPt9ggCV3dA) | [DJ Dan](https://open.spotify.com/artist/4w7PNHWFtN2CNkDNhDL7c3), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [L.P.](https://open.spotify.com/artist/0EiFuHVGo5D7B8JeeOg3bK) | [DJ Dan Presents Future Retro](https://open.spotify.com/album/7rVQG7r5pRfKOVKRV0lX05) | 3:12 | 2022-09-08 |  |
+| [Dark Side \(Instrumental Version\) \[Originally performed by Kelly Clarkson\]](https://open.spotify.com/track/0UIz6OBemLHhD8XW8t2acZ) | [Back Track Karaoke](https://open.spotify.com/artist/0CG46RticezLidYhQ66gUW) | [Top Song's Karaoke \-Vol 3](https://open.spotify.com/album/1c7kIevmDnQPdvmeERdQj4) | 3:21 | 2026-08-06 |  |
 | [Day By Day](https://open.spotify.com/track/1AWffsRRRPuqAM6hC5atPX) | [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Day By Day](https://open.spotify.com/album/6VU1gU8DiUTwtBOglFMYGO) | 3:40 | 2022-09-08 |  |
 | [Death Valley](https://open.spotify.com/track/7lKCiqJLakjQuPZ7ZvpmPc) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 2:52 | 2022-09-08 | 2023-12-14 |
 | [Death Valley](https://open.spotify.com/track/3zqdzaUeXFrMk6wRz5Fd9A) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 2:53 | 2025-04-01 |  |

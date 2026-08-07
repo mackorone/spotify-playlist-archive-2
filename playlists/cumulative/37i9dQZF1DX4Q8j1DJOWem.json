@@ -1633,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "TORNADO",
+        "url": "https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb"
+      },
+      "artists": [
+        {
+          "name": "VVV",
+          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220615,
+      "name": "TORNADO",
+      "url": "https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/095xs3mn4Liu7EqDc8HeUO"
       },
@@ -3192,7 +3210,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 206124,
       "name": "\u0e15\u0e31\u0e27\u0e40\u0e25\u0e47\u0e01 (TUA LEK)",
       "url": "https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9"

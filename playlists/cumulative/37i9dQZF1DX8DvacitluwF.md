@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Odeal
+> The best in South African and international R&B\. Cover: FLO
 
-676 songs - 1 day 12 hr 29 min
+678 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Crash & Burn](https://open.spotify.com/track/1WtkpKhMtFgLcgOQzSODyX) | [KuchiCola](https://open.spotify.com/artist/019a0Q0A8WEfLxoWT3Fl7h), [CCG](https://open.spotify.com/artist/37330J0XOYDNzKAm7zepXg) | [Crash & Burn](https://open.spotify.com/album/169yQVAzXaaAslhqJ2IrL3) | 3:41 | 2024-06-13 | 2024-09-03 |
 | [Crown Bounce](https://open.spotify.com/track/25SZzbj6rLvbqm48QwEsAj) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Elias Slay6rr](https://open.spotify.com/artist/78rrSlHaVgfpWxgsnUtqwh) | [Crown Bounce](https://open.spotify.com/album/4C8493WEDy0Yc2tP9g2MzZ) | 2:33 | 2024-03-14 | 2024-07-12 |
 | [Cry In A Lambo Not Prius](https://open.spotify.com/track/5DHuDjgL9QsuQxLTgUYw0G) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Cry In A Lambo Not Prius](https://open.spotify.com/album/4NFd8aIfaiD64uTUkKfRPK) | 4:03 | 2025-01-17 | 2025-04-25 |
+| [Cry Ugly](https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:39 | 2026-08-07 |  |
 | [Cut You Off](https://open.spotify.com/track/7olSeEjcLypVdWRrDD7Uap) | [Solo Sae](https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU) | [Kill with Kindness](https://open.spotify.com/album/0AjgrGHWPcV3DjFbKUsQvz) | 2:37 | 2026-05-21 | 2026-06-26 |
 | [CWT \(feat\. BNXN\)](https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Are You Listening?](https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh) | 2:38 | 2024-07-11 | 2024-09-03 |
 | [Dabawo \(Rakgadi\)](https://open.spotify.com/track/5lHkT9RhO8obiD45fsYzqI) | [Wav Gardn](https://open.spotify.com/artist/5ICrK2OM6TBc2tgc3uK9rY), [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [Dabawo \(Rakgadi\)](https://open.spotify.com/album/5ulrxSaGyvsVbmybTy8h3f) | 3:57 | 2025-06-13 | 2025-06-20 |
@@ -162,6 +163,7 @@
 | [Dream About You All Through The Night.](https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Dream About You All Through The Night.](https://open.spotify.com/album/3UgF8Qrven2zn8lQfaDUYP) | 3:49 | 2024-06-13 | 2024-09-03 |
 | [Dream Girl](https://open.spotify.com/track/1TOuTSykx0UbCB2sypGBPs) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Bad Weather](https://open.spotify.com/album/5jSExNcBRGAhDFQdX3dkAV) | 3:56 | 2024-02-14 | 2024-02-23 |
 | [Dream Girl](https://open.spotify.com/track/6sefxeZxiA07DbMSQB498S) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Dream Girl](https://open.spotify.com/album/0Alr1YFzlqXuaCswGzgFsj) | 3:39 | 2024-06-27 | 2024-09-03 |
+| [Dream Girl](https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dream Girl](https://open.spotify.com/album/0MMfJjVlZwqd4lonLqFq6i) | 2:32 | 2026-08-07 |  |
 | [DRINK CHAMPS](https://open.spotify.com/track/6krwmAVXbzAcGWVYhLCf8j) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [DRINK CHAMPS](https://open.spotify.com/album/1rsnNjPDTYFUtjtE95m2Ph) | 2:20 | 2023-11-03 | 2024-03-15 |
 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 | 2024-11-15 | 2025-04-25 |
 | [Duet \(feat\. Jillz\)](https://open.spotify.com/track/7m07xNnm2xJnpkRN9JRScv) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [Jillz](https://open.spotify.com/artist/5qov3hiFB9QhOcdqDEL839) | [ForPlay](https://open.spotify.com/album/4SSFMsLPlXZ1ZA2boX5iUX) | 3:41 | 2023-11-16 | 2024-03-01 |
@@ -399,7 +401,7 @@
 | [MORE](https://open.spotify.com/track/56Oe9EY7yofIzej5nin0qa) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq), [Maloon TheBoom](https://open.spotify.com/artist/66xnl7wTIoeKdJV2YblQp4) | [MORE](https://open.spotify.com/album/2OUisYCs0NRCPFbbPCI7qX) | 2:20 | 2024-02-22 | 2024-07-27 |
 | [MORNING DEW \(DONK\)](https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MORNING DEW \(DONK\)](https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ) | 4:03 | 2026-07-10 |  |
 | [MORNING PEACE](https://open.spotify.com/track/4607H11d3SMFfITEICAFZe) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [Today's Tragedy, Tomorrow's Memory: the mixtape](https://open.spotify.com/album/4vhWSUXx9WQD5q4dZ5fq2F) | 3:58 | 2025-02-13 | 2025-03-01 |
-| [MR\. MEDIA](https://open.spotify.com/track/2d3QwiqKhKGm03xr3RlnYH) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 3:01 | 2025-08-08 |  |
+| [MR\. MEDIA](https://open.spotify.com/track/2d3QwiqKhKGm03xr3RlnYH) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 3:01 | 2025-08-08 | 2026-08-07 |
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 | 2024-02-09 |
 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 | 2024-11-29 | 2025-04-25 |
 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-10 | 2025-05-09 |
@@ -602,7 +604,7 @@
 | [Tender](https://open.spotify.com/track/6dAY1jZ9doJSFeHcPrz36U) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Tender](https://open.spotify.com/album/4Gp4JlzMRXKuH32Jee28D2) | 3:03 | 2023-10-12 | 2024-01-26 |
 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 | 2024-02-08 | 2024-04-26 |
 | [The Midnight Wanderer](https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [LUCKY UU](https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx) | 3:06 | 2025-11-07 | 2025-11-14 |
-| [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 | 2025-07-10 |  |
+| [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 | 2025-07-10 | 2026-08-07 |
 | [Think Different](https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 4:07 | 2024-06-27 | 2024-09-03 |
 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 | 2023-10-12 | 2024-03-01 |
 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 | 2023-10-12 | 2023-10-20 |

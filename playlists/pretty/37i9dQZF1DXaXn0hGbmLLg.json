@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume! August ambassador: <a href=\"spotify:artist:2sGGaKKex7GgNlH1DRXZSa\">Inez</a>",
-  "num_followers": 14343,
+  "num_followers": 14348,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADMYXEHs1bza+7g3zR7OJ9k9EGew",
+  "snapshot_id": "AAAAAPV6ZR0t6aJHTbH5MJ4zi+oO31xn",
   "tracks": [
     {
       "added_at": "2026-08-04 22:00:19",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
+        "name": "Als Ik Jou Niet Krijg",
+        "url": "https://open.spotify.com/album/0yGgXqHge6582HhTYXtNxx"
+      },
+      "artists": [
+        {
+          "name": "Laura Heijgen",
+          "url": "https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA"
+        }
+      ],
+      "duration_ms": 144101,
+      "name": "Als Ik Jou Niet Krijg",
+      "url": "https://open.spotify.com/track/7d6ep7QrqikRvmO7zBC3rX"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
         "name": "Twin Flame",
         "url": "https://open.spotify.com/album/7DbtiCKBfAyL4LbnkxAtsJ"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Als Ik Jou Niet Krijg",
-        "url": "https://open.spotify.com/album/0yGgXqHge6582HhTYXtNxx"
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/2BIhdL6klX2WyZIebY9ukR"
       },
       "artists": [
         {
-          "name": "Laura Heijgen",
-          "url": "https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA"
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
         }
       ],
-      "duration_ms": 144101,
-      "name": "Als Ik Jou Niet Krijg",
-      "url": "https://open.spotify.com/track/7d6ep7QrqikRvmO7zBC3rX"
+      "duration_ms": 144097,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/1X0K8nDSoCHMt9qZOOA4pU"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -463,22 +479,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Feestje",
-        "url": "https://open.spotify.com/album/25omnEwBe9qcWD1AgjGlhZ"
-      },
-      "artists": [
-        {
-          "name": "Femke Hengeveld",
-          "url": "https://open.spotify.com/artist/4UK3zaAUen6v98wEdv0gL5"
-        }
-      ],
-      "duration_ms": 158277,
-      "name": "Feestje",
-      "url": "https://open.spotify.com/track/3qSOnPQwf2YmGjIKdipwaQ"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Better Late Than Never",
         "url": "https://open.spotify.com/album/1p8FQRg8gaK3P6T6ioEkfQ"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 164826,
       "name": "Better Late Than Never",
       "url": "https://open.spotify.com/track/6P2k5UJMqRgYN3CMg7Kk2O"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Feestje",
+        "url": "https://open.spotify.com/album/25omnEwBe9qcWD1AgjGlhZ"
+      },
+      "artists": [
+        {
+          "name": "Femke Hengeveld",
+          "url": "https://open.spotify.com/artist/4UK3zaAUen6v98wEdv0gL5"
+        }
+      ],
+      "duration_ms": 158277,
+      "name": "Feestje",
+      "url": "https://open.spotify.com/track/3qSOnPQwf2YmGjIKdipwaQ"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -527,22 +543,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Half 8",
-        "url": "https://open.spotify.com/album/3wGnxqkeBM6UtTgK57cA5q"
-      },
-      "artists": [
-        {
-          "name": "Nienke Leone",
-          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Half 8",
-      "url": "https://open.spotify.com/track/5g2wZR34Z0owtSuENnMuPI"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "De Stilte",
         "url": "https://open.spotify.com/album/5EtuU469Nf7Ujdaz0gFqPc"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 147865,
       "name": "De Stilte",
       "url": "https://open.spotify.com/track/7unuI0bmqLzpfqoF3ONK5L"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Half 8",
+        "url": "https://open.spotify.com/album/3wGnxqkeBM6UtTgK57cA5q"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Half 8",
+      "url": "https://open.spotify.com/track/5g2wZR34Z0owtSuENnMuPI"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -615,22 +631,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Caracol",
-        "url": "https://open.spotify.com/album/2Kie6xh7kO8piNoLYIepz8"
-      },
-      "artists": [
-        {
-          "name": "Alina Pozi",
-          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
-        }
-      ],
-      "duration_ms": 177049,
-      "name": "Caracol",
-      "url": "https://open.spotify.com/track/0OoVX3AdicKdF7DSbITI3Q"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Ik Wil Je Terug",
         "url": "https://open.spotify.com/album/06L4yCUAIIVZH7XghhyDdl"
       },
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
+        "name": "Caracol",
+        "url": "https://open.spotify.com/album/2Kie6xh7kO8piNoLYIepz8"
+      },
+      "artists": [
+        {
+          "name": "Alina Pozi",
+          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "Caracol",
+      "url": "https://open.spotify.com/track/0OoVX3AdicKdF7DSbITI3Q"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
         "name": "Owe You Something",
         "url": "https://open.spotify.com/album/22KXKnrcyNxZw4nBDQZHDI"
       },
@@ -675,6 +691,22 @@
       "duration_ms": 171336,
       "name": "Owe You Something",
       "url": "https://open.spotify.com/track/7Isx6NJbq9EfoKgkFjM272"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/00wO5edPzxpaDAgQY37RoQ"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 173904,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1RXW31o9gvK3bBvIcreHFF"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -711,22 +743,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/00wO5edPzxpaDAgQY37RoQ"
-      },
-      "artists": [
-        {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
-        }
-      ],
-      "duration_ms": 173904,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/1RXW31o9gvK3bBvIcreHFF"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "lastig :(",
         "url": "https://open.spotify.com/album/4RLeuOclPtyk7RBkgJmkXk"
       },
@@ -739,54 +755,6 @@
       "duration_ms": 173870,
       "name": "lastig :(",
       "url": "https://open.spotify.com/track/1YFqduTRbwsxPWXa3d3Fe4"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Taxi",
-        "url": "https://open.spotify.com/album/6ZUmiLywnQFNRcnb0sqPvI"
-      },
-      "artists": [
-        {
-          "name": "The Klittens",
-          "url": "https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2"
-        }
-      ],
-      "duration_ms": 309946,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/6eameOYe26Fy9h11X2S4P5"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Fast Paced Society",
-        "url": "https://open.spotify.com/album/5R3nVOD8ENM6WTNflnyF8P"
-      },
-      "artists": [
-        {
-          "name": "ISHA",
-          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
-        }
-      ],
-      "duration_ms": 193589,
-      "name": "Fast Paced Society",
-      "url": "https://open.spotify.com/track/6FtD6D6SoPG0Xk3d19HJnX"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Perception",
-        "url": "https://open.spotify.com/album/2lDANQGfYfXQoY44oeLOSC"
-      },
-      "artists": [
-        {
-          "name": "Isolde Lasoen",
-          "url": "https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci"
-        }
-      ],
-      "duration_ms": 196773,
-      "name": "Perception",
-      "url": "https://open.spotify.com/track/5s6SQ85tdstlHhQKY2pVIJ"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -807,18 +775,34 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Metamorfose",
-        "url": "https://open.spotify.com/album/4G8iMtkUqayoKTSecl9GJL"
+        "name": "Fast Paced Society",
+        "url": "https://open.spotify.com/album/5R3nVOD8ENM6WTNflnyF8P"
       },
       "artists": [
         {
-          "name": "Teddy Fee",
-          "url": "https://open.spotify.com/artist/2iYrOmgElzuk50QIRtJ0qc"
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
         }
       ],
-      "duration_ms": 168927,
-      "name": "Metamorfose",
-      "url": "https://open.spotify.com/track/3OdKVzO9nvHTDG5U1pL0T5"
+      "duration_ms": 193589,
+      "name": "Fast Paced Society",
+      "url": "https://open.spotify.com/track/6FtD6D6SoPG0Xk3d19HJnX"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/6ZUmiLywnQFNRcnb0sqPvI"
+      },
+      "artists": [
+        {
+          "name": "The Klittens",
+          "url": "https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2"
+        }
+      ],
+      "duration_ms": 309946,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/6eameOYe26Fy9h11X2S4P5"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -839,6 +823,22 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/2lDANQGfYfXQoY44oeLOSC"
+      },
+      "artists": [
+        {
+          "name": "Isolde Lasoen",
+          "url": "https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/5s6SQ85tdstlHhQKY2pVIJ"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
         "name": "Love Me (Soul Card Never Declines)",
         "url": "https://open.spotify.com/album/4zNLKcm2F1Wwazx7QKj2nR"
       },
@@ -855,18 +855,34 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Sad & Horny",
-        "url": "https://open.spotify.com/album/7bb2fOmEUOosOAhinucFd0"
+        "name": "Metamorfose",
+        "url": "https://open.spotify.com/album/4G8iMtkUqayoKTSecl9GJL"
       },
       "artists": [
         {
-          "name": "Mila & Mira",
-          "url": "https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg"
+          "name": "Teddy Fee",
+          "url": "https://open.spotify.com/artist/2iYrOmgElzuk50QIRtJ0qc"
         }
       ],
-      "duration_ms": 181198,
-      "name": "Sad & Horny",
-      "url": "https://open.spotify.com/track/0qvxyEcaB9LFWpHDt0sLZe"
+      "duration_ms": 168927,
+      "name": "Metamorfose",
+      "url": "https://open.spotify.com/track/3OdKVzO9nvHTDG5U1pL0T5"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/3R9zDIiHPez2zbX0AR8yP1"
+      },
+      "artists": [
+        {
+          "name": "Iris No\u00eblle",
+          "url": "https://open.spotify.com/artist/5j64iek3q0Ma2O9HSIdkoi"
+        }
+      ],
+      "duration_ms": 147118,
+      "name": "July",
+      "url": "https://open.spotify.com/track/4lKk4P7C9aZlgpPE6LNS4J"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -887,18 +903,34 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/3R9zDIiHPez2zbX0AR8yP1"
+        "name": "Sad & Horny",
+        "url": "https://open.spotify.com/album/7bb2fOmEUOosOAhinucFd0"
       },
       "artists": [
         {
-          "name": "Iris No\u00eblle",
-          "url": "https://open.spotify.com/artist/5j64iek3q0Ma2O9HSIdkoi"
+          "name": "Mila & Mira",
+          "url": "https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg"
         }
       ],
-      "duration_ms": 147118,
-      "name": "July",
-      "url": "https://open.spotify.com/track/4lKk4P7C9aZlgpPE6LNS4J"
+      "duration_ms": 181198,
+      "name": "Sad & Horny",
+      "url": "https://open.spotify.com/track/0qvxyEcaB9LFWpHDt0sLZe"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "stupid",
+      "url": "https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -951,22 +983,6 @@
       "duration_ms": 158521,
       "name": "Toi jtm trop",
       "url": "https://open.spotify.com/track/0RUkBzISb00tMKqVUK6yay"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Slip",
-        "url": "https://open.spotify.com/album/2BIhdL6klX2WyZIebY9ukR"
-      },
-      "artists": [
-        {
-          "name": "Eyelar",
-          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
-        }
-      ],
-      "duration_ms": 144097,
-      "name": "Slip",
-      "url": "https://open.spotify.com/track/1X0K8nDSoCHMt9qZOOA4pU"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -1031,22 +1047,6 @@
       "duration_ms": 179645,
       "name": "Paper Bits",
       "url": "https://open.spotify.com/track/2IR4GcoHBGH6ayfy3GalCl"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 139974,
-      "name": "stupid",
-      "url": "https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0"
     },
     {
       "added_at": "2026-08-04 22:00:19",

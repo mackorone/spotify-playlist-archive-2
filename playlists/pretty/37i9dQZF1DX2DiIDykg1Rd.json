@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jujubballin/\">Juju Watkins</a>",
-  "num_followers": 1087,
+  "num_followers": 1088,
   "original_name": "JuJu Watkins Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH2uN/3BT5BqmEORlo4yrwniGGQ1",
+  "snapshot_id": "AAAAAGkFCkR+4K748sBexPHMAgw8dM6b",
   "tracks": [
     {
       "added_at": "2023-01-01 05:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "The Backend Child",
-        "url": "https://open.spotify.com/album/5Qg5XiK1Ovgen4JBztGbPr"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 235263,
-      "name": "Ghetto Angels",
-      "url": "https://open.spotify.com/track/0T6DHuLI3NANOAFPgE8AXR"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "Lyf\u00eb",
         "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 175998,
       "name": "Krank",
       "url": "https://open.spotify.com/track/6vddKOUj2Fx4LEAYxmsT8p"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "The Backend Child",
+        "url": "https://open.spotify.com/album/5Qg5XiK1Ovgen4JBztGbPr"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 235263,
+      "name": "Ghetto Angels",
+      "url": "https://open.spotify.com/track/0T6DHuLI3NANOAFPgE8AXR"
     },
     {
       "added_at": "2023-01-01 05:00:00",

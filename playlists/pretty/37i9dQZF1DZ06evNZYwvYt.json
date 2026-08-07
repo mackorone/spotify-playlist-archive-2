@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 20581,
+  "num_followers": 20586,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAACP9xDK8ehQvcipCeYPc0Qr",
+  "snapshot_id": "anJ9AAAAAACEQ5tUCvzfsbRN1lQOxCHR",
   "tracks": [
     {
       "added_at": null,
@@ -347,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/1i3VXXokSz7Le0xirAS615"
       },
       "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        },
         {
           "name": "De Saloon",
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Esperar",
-      "url": "https://open.spotify.com/track/1Wa76EGZZgRuCV2tnDJ01B"
+      "duration_ms": 269032,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/1yDF44z0IS7nfwt1zDPs0v"
     },
     {
       "added_at": null,
@@ -395,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/1i3VXXokSz7Le0xirAS615"
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
       },
       "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
-        },
         {
           "name": "De Saloon",
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 269032,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/1yDF44z0IS7nfwt1zDPs0v"
+      "duration_ms": 256133,
+      "name": "Esperar",
+      "url": "https://open.spotify.com/track/1Wa76EGZZgRuCV2tnDJ01B"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring MAXARKA. Curated with love by human Spotify editors. \n",
-  "num_followers": 215210,
+  "num_followers": 215230,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP6uCWED/b72z+oyvFV3Aa30KFSV",
+  "snapshot_id": "AAAAADqYKG9CGIgKHSNqelXEwDfN7vjX",
   "tracks": [
     {
       "added_at": "2026-07-31 04:02:23",
@@ -43,6 +43,22 @@
     {
       "added_at": "2026-08-06 01:55:50",
       "album": {
+        "name": "ID",
+        "url": "https://open.spotify.com/album/4HArTcixlcIpIla56geDfK"
+      },
+      "artists": [
+        {
+          "name": "Visage Music",
+          "url": "https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko"
+        }
+      ],
+      "duration_ms": 183797,
+      "name": "Onda 7",
+      "url": "https://open.spotify.com/track/3yvInCfyjakgmH50cXrE70"
+    },
+    {
+      "added_at": "2026-08-06 01:55:50",
+      "album": {
         "name": "Nevermind",
         "url": "https://open.spotify.com/album/0E759JQ6VvJzfkhrOsLB5Z"
       },
@@ -55,6 +71,26 @@
       "duration_ms": 181000,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/6gW7QZfXLHfwcuw9hZvzkB"
+    },
+    {
+      "added_at": "2026-08-06 01:55:50",
+      "album": {
+        "name": "Play it Loud (Keep it Going)",
+        "url": "https://open.spotify.com/album/70x9g70S9QnwXbRHOgHiPz"
+      },
+      "artists": [
+        {
+          "name": "DJ Dings",
+          "url": "https://open.spotify.com/artist/6pGgOtYuQJG4lVsswYpUTE"
+        },
+        {
+          "name": "Tim Rausch",
+          "url": "https://open.spotify.com/artist/6fU3MewDiqM18TonERkX6K"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Play it Loud (Keep it Going)",
+      "url": "https://open.spotify.com/track/0sKBrx6EyavERCR0jx0iBJ"
     },
     {
       "added_at": "2026-07-30 05:08:29",

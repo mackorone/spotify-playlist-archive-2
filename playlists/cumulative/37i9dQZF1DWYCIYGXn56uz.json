@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "6 \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f7 //  22simba in cover",
+  "description": "6 \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f7 //  Madame in cover",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 154500,
       "name": "10 LUGLIO",
       "url": "https://open.spotify.com/track/1fk9KUxPPL0r9HJXcgVRyS"
@@ -2371,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Belek",
+        "url": "https://open.spotify.com/album/6WyGM8HsbPI3OQSeW9PRB5"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137523,
+      "name": "Belek",
+      "url": "https://open.spotify.com/track/5P0y33C4m5uK9TcMHRnCsL"
+    },
+    {
+      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP"
       },
@@ -2604,7 +2622,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 165860,
       "name": "Binario Morto",
       "url": "https://open.spotify.com/track/49o7KtRwgmsBBkFHHbdTeR"
@@ -3822,7 +3840,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 169135,
       "name": "Cerotti 2",
       "url": "https://open.spotify.com/track/1lk4rkef1mig1wzy6Xtu1r"
@@ -20502,6 +20520,24 @@
       "duration_ms": 163728,
       "name": "Temporale (feat. LILCR & Mida)",
       "url": "https://open.spotify.com/track/6HKaTiZRaBX9CpZTMYP06E"
+    },
+    {
+      "album": {
+        "name": "PeakLifeNostalgia",
+        "url": "https://open.spotify.com/album/3fkZWqll8Trf2fdENAyB9m"
+      },
+      "artists": [
+        {
+          "name": "lildombaby",
+          "url": "https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162935,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/78Jaxa2LLQstsGyU0tE8DR"
     },
     {
       "album": {

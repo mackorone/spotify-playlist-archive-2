@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC8VYdBUi1Dlz3ZsF69e9CTyGrf8",
+  "snapshot_id": "AAAAAOg13ckNQrRXNhrIzsctX7wejaZF",
   "tracks": [
     {
       "added_at": "2026-07-21 09:28:03",
@@ -363,8 +363,8 @@
     {
       "added_at": "2026-07-21 09:28:03",
       "album": {
-        "name": "bomb",
-        "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 163243,
-      "name": "jellyous",
-      "url": "https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX"
+      "duration_ms": 168104,
+      "name": "Midnight Fiction",
+      "url": "https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo"
     },
     {
       "added_at": "2026-07-21 09:28:03",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-07-21 09:28:03",
       "album": {
-        "name": "<LOVE&POP> pt.1",
-        "url": "https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z"
-      },
-      "artists": [
-        {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Baby Flower",
-      "url": "https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN"
-    },
-    {
-      "added_at": "2026-07-21 09:28:03",
-      "album": {
         "name": "LIL FANTASY vol.1",
         "url": "https://open.spotify.com/album/5j07H7jnOu2gYRj1ZrPoak"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 168531,
       "name": "SHOOT (Firecracker)",
       "url": "https://open.spotify.com/track/0pUEewaz1L9Vt8BCEVEnxx"
+    },
+    {
+      "added_at": "2026-07-21 09:28:03",
+      "album": {
+        "name": "abouTZU",
+        "url": "https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy"
+      },
+      "artists": [
+        {
+          "name": "TZUYU",
+          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B"
     },
     {
       "added_at": "2026-07-21 09:28:03",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-07-21 09:28:03",
       "album": {
-        "name": "abouTZU",
-        "url": "https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy"
+        "name": "<LOVE&POP> pt.1",
+        "url": "https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z"
       },
       "artists": [
         {
-          "name": "TZUYU",
-          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
         }
       ],
-      "duration_ms": 198320,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B"
+      "duration_ms": 188000,
+      "name": "Baby Flower",
+      "url": "https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN"
     },
     {
       "added_at": "2026-07-21 09:28:03",

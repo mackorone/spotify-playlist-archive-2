@@ -8763,6 +8763,28 @@
     },
     {
       "album": {
+        "name": "Flights & Feelings",
+        "url": "https://open.spotify.com/album/1F1MZkajWWayqRJ72eoe28"
+      },
+      "artists": [
+        {
+          "name": "Loding",
+          "url": "https://open.spotify.com/artist/1dP3pwRjgmPMCxvVxgbC00"
+        },
+        {
+          "name": "Akuvi",
+          "url": "https://open.spotify.com/artist/41VbuWKdlHSsk8By8pA68h"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249821,
+      "name": "Flights & Feelings",
+      "url": "https://open.spotify.com/track/4tydcHNL8MdaEsPlWLfvR2"
+    },
+    {
+      "album": {
         "name": "Live More, Worry Less (Ultra)",
         "url": "https://open.spotify.com/album/2O0EpeT29gxalH7Ebp4Gqx"
       },

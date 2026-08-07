@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> We got you! Den bedste nye pop er samlet her 💖 URO
+> We got you! Den bedste nye pop er samlet her 💖 Saint Clara
 
-945 songs - 2 day 0 hr 12 min
+951 songs - 2 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,7 +574,7 @@
 | [Mig Og Min Veninde](https://open.spotify.com/track/03WDn7FfygjcXVzPNrZHlt) | [Astrid Schick](https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI) | [Mig Og Min Veninde](https://open.spotify.com/album/1I5mvadv2kjJeoodBPHHg1) | 2:52 | 2024-11-21 | 2025-01-24 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-06-27 | 2024-08-30 |
 | [Min Bror](https://open.spotify.com/track/50XScTYQGylJMD55jXpjgJ) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Min Bror](https://open.spotify.com/album/4SwKgXPEaCTUF1eHHDF91h) | 2:54 | 2024-10-10 | 2025-04-25 |
-| [Min Bror \- akustisk version](https://open.spotify.com/track/30oeyNYJy9R06U1tMFhXJ0) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Min Bror \(akustisk version\)](https://open.spotify.com/album/5BfIY9d4v2DfSv1ZPI7PzM) | 3:02 | 2026-07-10 |  |
+| [Min Bror \- akustisk version](https://open.spotify.com/track/30oeyNYJy9R06U1tMFhXJ0) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Min Bror \(akustisk version\)](https://open.spotify.com/album/5BfIY9d4v2DfSv1ZPI7PzM) | 3:02 | 2026-07-10 | 2026-08-07 |
 | [Min Ven](https://open.spotify.com/track/0xsFwrEpSw4D6NzSCP0D6U) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Min Ven](https://open.spotify.com/album/5qX1iW4bIxYjb9bwhcv3xe) | 3:15 | 2024-08-22 | 2025-04-25 |
 | [Min ven](https://open.spotify.com/track/72zmawn1ucrxKotv031bpr) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM) | [Lige Her, Lige Nu](https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W) | 2:59 | 2026-04-16 |  |
 | [Min Verden](https://open.spotify.com/track/11rDQfvESLURcnXM4ll3TQ) | [NOAH](https://open.spotify.com/artist/1M0dufGcezQSWNroSSQcK5) | [Min Verden](https://open.spotify.com/album/12F48SvxNeXfAq7RDiZIBP) | 3:09 | 2025-09-18 |  |
@@ -686,6 +686,7 @@
 | [Rend Mig I Røven](https://open.spotify.com/track/2v1TCgB9lxdMp7v2LPQ9GA) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Rend Mig I Røven](https://open.spotify.com/album/1sDdW8nuxx1aZpGNAAghSR) | 3:20 | 2025-08-14 | 2026-01-15 |
 | [Rene Hjerter](https://open.spotify.com/track/1A90dHXPAXFRrUJWdID0jJ) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Rene Hjerter Vinder Altid](https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM) | 2:49 | 2025-05-01 | 2025-07-11 |
 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 | 2024-06-27 | 2024-10-04 |
+| [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 | 2026-08-06 |  |
 | [Rise](https://open.spotify.com/track/2ziPIkuukbAOkRjJVWpZb9) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Rise](https://open.spotify.com/album/5YjCW2nweQPrLbeMhiTBvc) | 3:46 | 2026-01-29 | 2026-02-20 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-06-27 | 2024-08-30 |
 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-26 |  |
@@ -720,8 +721,10 @@
 | [Ser I Mig Nu](https://open.spotify.com/track/5vUPHxD3j8UHXXcZwNgm63) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ser I Mig Nu](https://open.spotify.com/album/6R5lKOetm0GTwtvP5msPpY) | 2:05 | 2025-01-16 | 2025-04-25 |
 | [Shalalala](https://open.spotify.com/track/6tZsiAB6ZnXe5ZO6OJSUic) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Shalalala](https://open.spotify.com/album/0uAuAGhh00zvB1SyomIzdu) | 4:06 | 2025-05-29 | 2025-07-04 |
 | [She's Missing](https://open.spotify.com/track/3zjgHWQEOHrtN801SqtOzo) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [She's Missing](https://open.spotify.com/album/7n7ktFWH8qWh5GJsOnWo4r) | 3:04 | 2026-04-16 |  |
+| [Shen Mao](https://open.spotify.com/track/087oAJywUltu0v3jetQzAm) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Shen Mao](https://open.spotify.com/album/46XqGM4PmPoyrMYEyUhbif) | 2:38 | 2026-08-06 |  |
 | [Shine](https://open.spotify.com/track/1Rt3wxfKg2dn8vjh2A7S7V) | [Donel](https://open.spotify.com/artist/6nboHpRsZBI6pPX9lSBvgT), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Shine](https://open.spotify.com/album/4o3AHAl1dknsQGp7NbJeQD) | 2:45 | 2025-08-07 | 2025-08-29 |
 | [Shine](https://open.spotify.com/track/3AG1SWCQLutTkbo2VA3gox) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [Shine](https://open.spotify.com/album/60hETkzwZwmoxjUWX9jxiA) | 2:17 | 2024-06-27 | 2024-07-30 |
+| [Shiny](https://open.spotify.com/track/4VT5PgA9dyoxhA1fGaXskM) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Shiny](https://open.spotify.com/album/5kewFw4fIw0Wa6pgJphBjb) | 2:43 | 2026-08-06 |  |
 | [Sidste Mand Der Dør](https://open.spotify.com/track/2IEGQCj6opHbd0gQZC7eR7) | [Gigis](https://open.spotify.com/artist/2JPtVnT5s9pasfOlXM6F4o), [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Sidste Mand Der Dør](https://open.spotify.com/album/28OmKtTNp2VLK6bj9qKgGa) | 3:56 | 2026-05-29 | 2026-06-12 |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-27 | 2025-04-25 |
 | [Skabt til at være to](https://open.spotify.com/track/2wilyl40E4klJdChkOcMNu) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Skabt til at være to](https://open.spotify.com/album/31iCNzDfpH8dlBBLWaDetq) | 3:23 | 2025-11-06 | 2026-02-20 |
@@ -848,6 +851,7 @@
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-22 | 2026-02-20 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-07-30 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-24 |
+| [Track 6](https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [VÆRD AT ELSKE](https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc) | 0:00 | 2026-08-06 |  |
 | [Trampoline](https://open.spotify.com/track/1seCBPXlQclXNQbDmjWAsQ) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Trampoline](https://open.spotify.com/album/1vkq5KBggKzpt7P6ZETmJb) | 3:21 | 2025-05-22 | 2025-06-27 |
 | [Trip Trip](https://open.spotify.com/track/7dFT2thcuAmKMC59rRuZ9A) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [Bby's Corner](https://open.spotify.com/album/2fOY9CevU5A47Rs5kp82cr) | 3:21 | 2025-10-02 | 2025-10-17 |
 | [Tristan & Isolde](https://open.spotify.com/track/361guhUskLY7XA6X178aEk) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Honey](https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf) | 4:50 | 2025-10-02 |  |
@@ -864,6 +868,7 @@
 | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/album/2JmLI48HyAM6YAfQB4z3vm) | 3:23 | 2024-08-29 | 2025-04-25 |
 | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx) | 2:17 | 2025-05-08 | 2025-08-15 |
 | [Tæt På Hinanden](https://open.spotify.com/track/7c5hqLMyeBTh9F1kT3xlym) | [Rasmus Walter](https://open.spotify.com/artist/3TFrzDINlnsWcldbfsZlpJ), [Siné](https://open.spotify.com/artist/5HYaLf4JMuWw7OrO01YFiN) | [Tæt På Hinanden](https://open.spotify.com/album/5YIvOucXG8IVVdxKXc7JT5) | 2:48 | 2025-10-30 | 2026-02-20 |
+| [Tættere På Hende](https://open.spotify.com/track/5g3MQe4UctqhsmR67BueRz) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz), [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Tættere På Hende](https://open.spotify.com/album/4X4omk579qRX2eKzj8UAa3) | 3:28 | 2026-08-06 |  |
 | [U Make Me Go \(Mmhh\)](https://open.spotify.com/track/7BPrjm9RNfxRatkPflgx8l) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [U Make Me Go \(Mmhh\)](https://open.spotify.com/album/0e2ztqqDZvEbYdmwHeJLk4) | 3:02 | 2024-10-24 | 2025-01-24 |
 | [Uendelighed](https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Uendelighed](https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX) | 2:53 | 2025-06-19 | 2026-02-06 |
 | [Ugly](https://open.spotify.com/track/50vTXRm8DgeuSeFKggVXnG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Ugly](https://open.spotify.com/album/4vyDBDOm0TJbxvTfsMDT9D) | 4:30 | 2025-08-07 | 2025-08-29 |
@@ -920,6 +925,7 @@
 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 | 2025-01-23 | 2025-04-25 |
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-24 | 2025-06-06 |
 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 | 2025-08-28 | 2025-09-12 |
+| [When He’s Gone](https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [When He’s Gone](https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA) | 3:06 | 2026-08-06 |  |
 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 | 2025-10-09 | 2025-11-22 |
 | [When I Open My Eyes](https://open.spotify.com/track/0thJsODpMsCoEaE1c7GCfL) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf), [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [When I Open My Eyes](https://open.spotify.com/album/5fK5IMWLlxJ7V0lc8KWjkD) | 2:31 | 2024-07-05 | 2024-10-04 |
 | [When We Were Young](https://open.spotify.com/track/6x7KACU6KC7vP8WFUwJxIz) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [A Beautiful Real Life](https://open.spotify.com/album/2SBm27QvS2epOxB2DvT5GP) | 2:55 | 2025-08-28 | 2026-02-06 |

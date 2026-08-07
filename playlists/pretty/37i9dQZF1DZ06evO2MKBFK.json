@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 632571,
+  "num_followers": 632564,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAACSIuxa5eW/K8DvNRbV/vJh",
+  "snapshot_id": "anJ9AAAAAAAqoOdi4jwrH0tjZmEPuxUO",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
-        "url": "https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Top Of The World",
-      "url": "https://open.spotify.com/track/7FXxI7DL2BDc2VgE9gRoUA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIGBANG Special Edition",
         "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 225813,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/784qSLhmIjbc37plSfaPzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
+        "url": "https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Top Of The World",
+      "url": "https://open.spotify.com/track/7FXxI7DL2BDc2VgE9gRoUA"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
-        "url": "https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
-      "url": "https://open.spotify.com/track/5brqQm02a7xLvdStXioywi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIGBANG Special Edition",
         "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 234786,
       "name": "Stupid Liar",
       "url": "https://open.spotify.com/track/0ZHfjGYU26P7B0j1MmHeG8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
+        "url": "https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
+      "url": "https://open.spotify.com/track/5brqQm02a7xLvdStXioywi"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 231816,
+      "name": "Love Dust (\uc0ac\ub791 \uba3c\uc9c0)",
+      "url": "https://open.spotify.com/track/6mTFH5acKqe2fpxuFmiDjr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2NE1 1st Mini Album",
         "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
       },
@@ -447,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
       },
       "artists": [
         {
@@ -456,9 +472,25 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 231816,
-      "name": "Love Dust (\uc0ac\ub791 \uba3c\uc9c0)",
-      "url": "https://open.spotify.com/track/6mTFH5acKqe2fpxuFmiDjr"
+      "duration_ms": 219946,
+      "name": "Cafe",
+      "url": "https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIGBANG Vol.1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9"
     },
     {
       "added_at": null,
@@ -483,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGBANG Vol.1",
-        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+        "name": "Radar de \u00c9xitos: K-Pop",
+        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
       },
       "artists": [
         {
@@ -492,9 +524,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 179586,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9"
+      "duration_ms": 245013,
+      "name": "Tell Me Goodbye",
+      "url": "https://open.spotify.com/track/44Xatq1sgo3DsmjV5l6ZFx"
     },
     {
       "added_at": null,
@@ -508,25 +540,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 219946,
-      "name": "Cafe",
-      "url": "https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Radar de \u00c9xitos: K-Pop",
-        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 245013,
-      "name": "Tell Me Goodbye",
-      "url": "https://open.spotify.com/track/44Xatq1sgo3DsmjV5l6ZFx"
+      "duration_ms": 224320,
+      "name": "What Is Right",
+      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
       "duration_ms": 238293,
       "name": "We belong together",
       "url": "https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "What Is Right",
-      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> HUGEL in cover della playlist con tutte le hit perché è la sua season 🔥🔥🔥
+> Samurai Jay in cover della playlist con tutte le hit 🔥
 
 359 songs - 18 hr 41 min
 

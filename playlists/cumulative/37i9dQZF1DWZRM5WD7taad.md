@@ -2,7 +2,7 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. LA GURU en Portada
+> Mujeres raperas rompiéndola en toda Latinoamérica\. J Noa en Portada
 
 432 songs - 21 hr 22 min
 

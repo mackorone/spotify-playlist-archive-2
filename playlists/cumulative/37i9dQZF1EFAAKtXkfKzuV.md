@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-85 songs - 3 hr 59 min
+87 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Between The Lies](https://open.spotify.com/track/6wt5mtCAxAgFJ084gobHGx) | [DHALI](https://open.spotify.com/artist/0sUz3y3TQ9UlD5qehZHfwT) | [Between The Lies](https://open.spotify.com/album/5OvACh4nCKjELix6o8yOxH) | 3:01 | 2023-06-29 | 2024-10-30 |
 | [Coastline](https://open.spotify.com/track/3uwWGnv59syk9cAbN2HXph) | [Leviro](https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl) | [Coastline](https://open.spotify.com/album/6zIMOxR0eTVMysptGAncV1) | 2:38 | 2024-09-14 |  |
 | [Dancing To Sad Songs](https://open.spotify.com/track/6MGPuQnPbVHL14l3up0nUn) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Boy Made Out Of Stars](https://open.spotify.com/album/61u3bJdUYO6zizGTPxK7zZ) | 2:44 | 2025-09-27 |  |
+| [Days Like This](https://open.spotify.com/track/5VTnuQokgQ5wXxt5u5nhxM) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Days Like This](https://open.spotify.com/album/54ESPf0Xqi6rsuGfH0mH8z) | 2:24 | 2026-08-06 |  |
 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 | 2023-06-29 |  |
 | [Diese eine Melodie](https://open.spotify.com/track/7DwX8Th7ZptXoiXXwFjCib) | [Alex Lys](https://open.spotify.com/artist/5WLNhK4QDt7xgX45A9VGec) | [Diese eine Melodie](https://open.spotify.com/album/1EmOdYjJP6yu5BjSfkyvaK) | 2:55 | 2023-06-29 |  |
 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 | 2025-01-05 |  |
@@ -43,6 +44,7 @@
 | [Inbetween](https://open.spotify.com/track/3pkNourwOQlis9iWid3h5C) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [LNZHD](https://open.spotify.com/album/6R9ddkyO2cIN2TqZGBWcvg) | 3:16 | 2023-06-29 |  |
 | [Irgendwas mit Liebe](https://open.spotify.com/track/4Bo3TBoTN1nC2Iia66Z7Rj) | [DJ Herzbeat](https://open.spotify.com/artist/0fvGBclVqAPzR4SxHhtgt4), [Marie Wegener](https://open.spotify.com/artist/6thyTBTGNwX1i95cCGCxJV) | [Dancefieber](https://open.spotify.com/album/7A0V324Q6fJfKhiJaM63b0) | 3:21 | 2025-01-09 | 2025-04-12 |
 | [Irgendwie auch nicht](https://open.spotify.com/track/0KcYpVzF1lc6m49JsTjgkC) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Vielleicht Irgendwann \(Deluxe Edition\)](https://open.spotify.com/album/7tQQXsZhZIDbI3GPeEGwMV) | 2:28 | 2023-06-29 |  |
+| [June](https://open.spotify.com/track/3HTSInPBCaG6mpwRGDc0Ss) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [June](https://open.spotify.com/album/1ZJ25L8SzfSSBrQzMrX0vL) | 2:42 | 2026-08-06 |  |
 | [Like A Riddle \(feat\. Hearts & Colors, Adam Trigger\)](https://open.spotify.com/track/2jGOQqWZKjy6A64kWIcdIs) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [Adam Trigger](https://open.spotify.com/artist/6nXmnBpdFvzImqLQb3HBa9) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 2:59 | 2023-06-29 |  |
 | [Lose It All](https://open.spotify.com/track/1rLKLphzEdI1YQqHn4n0OD) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Lose It All](https://open.spotify.com/album/4dPAqSKXgdO0YosVpLNbE4) | 2:54 | 2023-06-29 |  |
 | [Love Me Fair](https://open.spotify.com/track/6whgc901oHG6KU7zgi7Wrl) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Tetric](https://open.spotify.com/artist/0juduZf6RkEeIkMSJMpDaS), [boy with a scar](https://open.spotify.com/artist/7kunuxTlJDipiIZpC1aZqZ) | [Love Me Fair](https://open.spotify.com/album/7lRR58WWGvhoNezEqRDclz) | 2:40 | 2023-06-29 |  |

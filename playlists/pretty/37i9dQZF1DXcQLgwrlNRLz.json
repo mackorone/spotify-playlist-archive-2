@@ -1,12 +1,12 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
-  "num_followers": 17624,
+  "num_followers": 17644,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADaan1lmgC74glRwyyaktZVIxCwI",
+  "snapshot_id": "AAAAAO94eAjSQrNTa1rlM3aIl8UJxj88",
   "tracks": [
     {
       "added_at": "2026-07-24 11:14:20",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "SORRY I'M BAD",
-        "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
-      },
-      "artists": [
-        {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        }
-      ],
-      "duration_ms": 157781,
-      "name": "MA HAINE",
-      "url": "https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "CHORD",
         "url": "https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 157000,
       "name": "Bouw\u00e9y",
       "url": "https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "SORRY I'M BAD",
+        "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "duration_ms": 157781,
+      "name": "MA HAINE",
+      "url": "https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "CONCR\u00c9TISATION : L'ASCENSION",
-        "url": "https://open.spotify.com/album/62jEvfBe59Lh5LQ6DLcDpG"
-      },
-      "artists": [
-        {
-          "name": "Lamine l\u00f8ssa",
-          "url": "https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6"
-        }
-      ],
-      "duration_ms": 177815,
-      "name": "SAGACIT\u00c9",
-      "url": "https://open.spotify.com/track/7iLMhRjmsufvisk3lW4ctc"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Garde Ta Position",
         "url": "https://open.spotify.com/album/3GJvUv0vAMbQV3tomgt7h8"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 133584,
       "name": "Garde Ta Position",
       "url": "https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "CONCR\u00c9TISATION : L'ASCENSION",
+        "url": "https://open.spotify.com/album/62jEvfBe59Lh5LQ6DLcDpG"
+      },
+      "artists": [
+        {
+          "name": "Lamine l\u00f8ssa",
+          "url": "https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6"
+        }
+      ],
+      "duration_ms": 177815,
+      "name": "SAGACIT\u00c9",
+      "url": "https://open.spotify.com/track/7iLMhRjmsufvisk3lW4ctc"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "R\u00c9SONANCE",
-        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 167704,
-      "name": "Woman King (T'as Capt\u00e9)",
-      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "C pas normal",
         "url": "https://open.spotify.com/album/3uUgzic021PoofEn1wD2NK"
       },
@@ -1447,22 +1431,18 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Ma Belle",
-        "url": "https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj"
+        "name": "R\u00c9SONANCE",
+        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
       },
       "artists": [
         {
-          "name": "DCartier",
-          "url": "https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A"
-        },
-        {
-          "name": "Gino J",
-          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
         }
       ],
-      "duration_ms": 189891,
-      "name": "Ma Belle",
-      "url": "https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz"
+      "duration_ms": 167704,
+      "name": "Woman King (T'as Capt\u00e9)",
+      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1483,6 +1463,26 @@
       "duration_ms": 177692,
       "name": "Biso Mibale (feat. Jungeli)",
       "url": "https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Ma Belle",
+        "url": "https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj"
+      },
+      "artists": [
+        {
+          "name": "DCartier",
+          "url": "https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A"
+        },
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        }
+      ],
+      "duration_ms": 189891,
+      "name": "Ma Belle",
+      "url": "https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz"
     },
     {
       "added_at": "2026-07-24 11:14:20",

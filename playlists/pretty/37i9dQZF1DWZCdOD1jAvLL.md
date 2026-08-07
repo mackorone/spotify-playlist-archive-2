@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Stank face activated\. Cover: Slater Manzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,857 likes - 91 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,839 likes - 91 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 90 | [Take It All](https://open.spotify.com/track/4Su7VFUPb9KYr6bnCRBWxU) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Take It All](https://open.spotify.com/album/6Z4FhlsTWm5HaEUNcWHC6l) | 2:51 |
 | 91 | [Cash Out](https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Cash Out](https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR) | 3:02 |
 
-Snapshot ID: `AAAAAJsOF3m1MUfr3HjJqnAQ11zz1X3g`
+Snapshot ID: `AAAAADfpEf3uHPkFAo73fLROmYlo5FwZ`

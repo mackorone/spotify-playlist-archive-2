@@ -4,7 +4,7 @@
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: JayQ
 
-332 songs - 20 hr 20 min
+333 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [TIME MACHINE](https://open.spotify.com/track/3oMgDz84kGhpmoNZGLq7Dz) | [FLIRT](https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ) | [TIME MACHINE](https://open.spotify.com/album/5r8CqHiE5zvNKOSG3ki88I) | 3:06 | 2025-03-27 | 2026-04-07 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-22 | 2025-12-05 |
 | [Today's mood](https://open.spotify.com/track/4kuYISPouD11LYYVjruC8b) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [Today's mood](https://open.spotify.com/album/02FY1dr1nSrTyzMfURRJ2Q) | 2:42 | 2023-11-29 | 2024-01-12 |
+| [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 | 2026-08-05 |  |
 | [Touch](https://open.spotify.com/track/4wKbEMBUtKM2p5ZoUxCsNt) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Touch](https://open.spotify.com/album/095xs3mn4Liu7EqDc8HeUO) | 2:54 | 2025-07-04 | 2026-04-07 |
 | [TRANSFORMER](https://open.spotify.com/track/79gZEEThebUtPiqGLHMupL) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [TRANSFORMER](https://open.spotify.com/album/54fwuhzvvY36YnfA2TSezb) | 3:51 | 2024-10-04 | 2025-03-28 |
 | [Treasure](https://open.spotify.com/track/0QASGt3ZHaxXAdpW0PX9oV) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [Treasure](https://open.spotify.com/album/3Y9Z0QXHzEw7jH7NA0Z90c) | 2:42 | 2024-03-28 | 2025-02-18 |
@@ -178,7 +179,7 @@
 | [ตัดไปให้พอ](https://open.spotify.com/track/498pVEIIkgYvIkqm68PEqO) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [ตัดไปให้พอ](https://open.spotify.com/album/4Q629xdrAylg8VOpX1KC1f) | 4:38 | 2023-04-13 | 2023-09-16 |
 | [ตัวปัญหา \(Envy\)](https://open.spotify.com/track/77mRCTRtDRg7UfeOqQMidd) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [ตัวปัญหา \(Envy\)](https://open.spotify.com/album/0Dbn4xDX8mguqDOA2FTkGY) | 3:03 | 2026-04-06 |  |
 | [ตัวละครเอก](https://open.spotify.com/track/5YpgjlPpTBBvxgWJcpnVkV) | [Hunsick](https://open.spotify.com/artist/2wst2I06kgWhcA7DIhsVTv) | [ตัวละครเอก](https://open.spotify.com/album/5QNlha1lCPOsdZ1jf7yw1n) | 3:29 | 2025-03-27 | 2026-03-18 |
-| [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/album/4gf7kuptrv0VvYa6qNyyD5) | 3:26 | 2026-04-06 |  |
+| [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/album/4gf7kuptrv0VvYa6qNyyD5) | 3:26 | 2026-04-06 | 2026-08-07 |
 | [ติดฝน](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 | 2024-01-11 | 2025-12-05 |
 | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \- Gloomy](https://open.spotify.com/track/0dXpGBC0pUivUk96OrptbQ) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \[Gloomy\]](https://open.spotify.com/album/15Vu38hxu9KIZHeU9ZKsjW) | 4:17 | 2024-03-28 | 2024-10-05 |
 | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/track/5HTpwZZ7Xg5YRSbwrkvnZG) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G), [XX](https://open.spotify.com/artist/67ESbusyanUlxkaZ06dYrJ) | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/album/2Yf5NftN7hgVHKKWUkhykr) | 4:12 | 2024-07-29 | 2025-03-28 |

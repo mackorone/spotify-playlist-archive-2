@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: Tizzy Bac
 
-984 songs - 2 day 16 hr 5 min
+986 songs - 2 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -810,6 +810,7 @@
 | [穿西裝的敗類](https://open.spotify.com/track/42mOeGdB9Mr3wlMwc5jEDE) | [齒科護衛隊](https://open.spotify.com/artist/7244wV6j1dppiUIgXBKNmd) | [穿西裝的敗類](https://open.spotify.com/album/5ywULtSwFOpJ96k5GRFvyY) | 2:57 | 2025-07-03 | 2025-08-15 |
 | [窗](https://open.spotify.com/track/4foSK9qcfiaqtibQF3d8Aw) | [ELE 而樂](https://open.spotify.com/artist/7JL3DzV131zuLIRk8oWUBL) | [ELE 而樂](https://open.spotify.com/album/3HJrnaxaQcuUimrqfhLH3t) | 4:20 | 2025-05-08 | 2025-06-20 |
 | [窗](https://open.spotify.com/track/2L271GrS9ZknJo31wkWFZ4) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd), [shawnshawn](https://open.spotify.com/artist/5viROI7OAb6XHVSqtlQlpW), [ex3545](https://open.spotify.com/artist/1XBzRhnZlL4NYhpOLZWF6K), [上杉早雄](https://open.spotify.com/artist/6UOM01aXFRyfyRbxm9IA4c) | [窗](https://open.spotify.com/album/43u2fm1EvPdPmMTD906JDT) | 3:54 | 2025-09-18 | 2025-10-10 |
+| [窩養惹一隻獅子在聖地牙哥zoo](https://open.spotify.com/track/3Oir4UfIT7mxDjxp0N5N1G) | [RIKI](https://open.spotify.com/artist/03sz3uNFikpSX6YtwtXz1z) | [窩養惹一隻獅子在聖地牙哥zoo](https://open.spotify.com/album/6kQI6uTsL9zqtQoiGMoS0Q) | 4:00 | 2026-08-06 |  |
 | [第一封情書](https://open.spotify.com/track/5tjog7gO3dqoQe7qOsxNUx) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [第一封情書](https://open.spotify.com/album/1tDN1Y6T5UJur79ahhvMiX) | 4:01 | 2025-08-07 | 2025-10-31 |
 | [第一次活](https://open.spotify.com/track/37O5gaMM36jcNCxgD7QTNK) | [Wayne's so Sad](https://open.spotify.com/artist/3mgkHRW7Rgkbx2gJb5TPl7) | [把附近的影子都摘了](https://open.spotify.com/album/6e2MQgLOByjeOmVocysI8g) | 4:38 | 2026-02-12 |  |
 | [第二星系](https://open.spotify.com/track/6bRgx2NQviRyK7ltDaNoo1) | [EVENFALL](https://open.spotify.com/artist/778rPzhc5oSLtFOeA3SfyF) | [第二星系](https://open.spotify.com/album/5qyeAkTGLclOx6BW507gnG) | 4:39 | 2025-02-13 | 2025-03-07 |
@@ -957,6 +958,7 @@
 | [雨後的哲學家](https://open.spotify.com/track/6tLVmAUJILV52QSQHMw9PS) | [ZaZaZsu](https://open.spotify.com/artist/5yhkOitoNFthl3roHRSgzg) | [第一千夜](https://open.spotify.com/album/47o0z963lvOndsbjT1Olfd) | 4:32 | 2024-12-19 | 2025-02-21 |
 | [雨月物語](https://open.spotify.com/track/4KsdldOZIUez30s6Z69N9u) | [白色海岸The White Coast](https://open.spotify.com/artist/3E8hU2azxBuXCSETWgsA3T) | [雨月物語](https://open.spotify.com/album/0CjtnLf9pXzF0QUIJBvNTF) | 3:22 | 2025-08-21 | 2025-09-12 |
 | [雪地](https://open.spotify.com/track/4MhlmIQ54fxmj1J6T2w0Xc) | [野莓玻璃罐](https://open.spotify.com/artist/1L4u0BCaxTqz6z4ChBU2KT) | [雪地](https://open.spotify.com/album/6fJLwrBZBjlwhdFQNoD8PY) | 3:55 | 2025-05-01 | 2025-05-23 |
+| [電動鵪鶉](https://open.spotify.com/track/0h5YJIW3p3a62WR4uyvXby) | [電動鵪鶉E\-Quail](https://open.spotify.com/artist/4MtveAQfO12NSpeWysfNhE) | [電動鵪鶉](https://open.spotify.com/album/6m8vh0l0fc92wkFrnfwgzv) | 4:02 | 2026-08-06 |  |
 | [需要你陪](https://open.spotify.com/track/5AJZjLcTPz6aogfKK8H5nh) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [需要你陪](https://open.spotify.com/album/4vysaDNfsKNqfQPd9P5J5g) | 3:56 | 2025-02-13 | 2025-08-08 |
 | [需要被需要](https://open.spotify.com/track/3oNe40aiD739qYkepBk9jJ) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [需要被需要](https://open.spotify.com/album/566h3cT8kS2kXwhMwJFIxX) | 4:15 | 2024-09-12 | 2024-10-04 |
 | [霞](https://open.spotify.com/track/4IdPBhbIVOjbYF96uvsmPK) | [宋德鶴](https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI) | [霞](https://open.spotify.com/album/2CsVd1QgZKs0yj3HZYCVY1) | 5:16 | 2025-06-05 | 2025-06-27 |

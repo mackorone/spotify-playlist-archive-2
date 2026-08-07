@@ -222,7 +222,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 157066,
       "name": "A Pretty Girl Is Like a Melody",
       "url": "https://open.spotify.com/track/3XTGJlIluS71fut4P7uBsI"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 184320,
       "name": "A Pretty Girl Is Like a Melody",
       "url": "https://open.spotify.com/track/2QwVQbZH5ZWtbUNiFeg5EE"
@@ -375,6 +375,28 @@
     },
     {
       "album": {
+        "name": "There's No Business Like Show Business (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4m8lz4Bz6gREUfuXVesIIS"
+      },
+      "artists": [
+        {
+          "name": "Irving Berlin",
+          "url": "https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii"
+        },
+        {
+          "name": "Marilyn Monroe",
+          "url": "https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "After You Get What You Want (You Don't Want It)",
+      "url": "https://open.spotify.com/track/6glAsnEOrEowPAkCSPTQlv"
+    },
+    {
+      "album": {
         "name": "Saga All Stars: Heat Wave / Selected Film Tracks 1950-1957",
         "url": "https://open.spotify.com/album/236Ezr8x1NVDrE83ihq5YZ"
       },
@@ -386,7 +408,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 219013,
       "name": "After You Get What You Want, You Don't Want It",
       "url": "https://open.spotify.com/track/6kpiiSQlu60Ur8va5RxslB"
@@ -765,6 +787,24 @@
     },
     {
       "album": {
+        "name": "One Of These Days",
+        "url": "https://open.spotify.com/album/2F7YTJQwNR8k42SaRzoJ2j"
+      },
+      "artists": [
+        {
+          "name": "Fletcher Henderson",
+          "url": "https://open.spotify.com/artist/2ovJLSejirvJybNers2YG6"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "Araby",
+      "url": "https://open.spotify.com/track/5J8YGxcYqXMbXgMASZfNEZ"
+    },
+    {
+      "album": {
         "name": "Complete Jazz Series 1924 Vol. 3",
         "url": "https://open.spotify.com/album/1xS1Ey6wvuVCiiKXgOE4WW"
       },
@@ -776,7 +816,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 180293,
       "name": "Araby (c. 11-17-24)",
       "url": "https://open.spotify.com/track/5aNZ0Skpwo70egUQDcDwbj"
@@ -830,10 +870,28 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 217933,
       "name": "At the Devil's Ball",
       "url": "https://open.spotify.com/track/28c9eAI3PoutewpxoKDwCl"
+    },
+    {
+      "album": {
+        "name": "Scobey And Clancy",
+        "url": "https://open.spotify.com/album/1izuWaGBrUZ1xbPSo8MIgO"
+      },
+      "artists": [
+        {
+          "name": "Bob Scobey's Frisco Band",
+          "url": "https://open.spotify.com/artist/3IJReqCYh8PgMJa7Liduoh"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215101,
+      "name": "At The Devil's Ball",
+      "url": "https://open.spotify.com/track/7k5pv9rTMfA9DZQIfUE5LZ"
     },
     {
       "album": {
@@ -906,6 +964,24 @@
       "duration_ms": 147440,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/2U1recJ0al3zhnAq6pNaw3"
+    },
+    {
+      "album": {
+        "name": "Songs Are Silent Films",
+        "url": "https://open.spotify.com/album/0cnA5le3IiAwzUQfZgVLoF"
+      },
+      "artists": [
+        {
+          "name": "Jason Reeves",
+          "url": "https://open.spotify.com/artist/4ISvSAA85lr3lDwpMEBNgS"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200386,
+      "name": "Back With Me",
+      "url": "https://open.spotify.com/track/1TK8xu9soRb6ZeXwuiZqWY"
     },
     {
       "album": {
@@ -1523,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Jazz King - Paul Whiteman Vol. 1",
+        "url": "https://open.spotify.com/album/1MyuMQtdcTjzoW0XBGhN1g"
+      },
+      "artists": [
+        {
+          "name": "Paul Whiteman",
+          "url": "https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162307,
+      "name": "Crinoline Days",
+      "url": "https://open.spotify.com/track/28AeVWlDr3UoQPGAtWwVhf"
+    },
+    {
+      "album": {
         "name": "Irving Berlin Songs, Vol. 1",
         "url": "https://open.spotify.com/album/0m9fY12kVoPn8uahx9w2rW"
       },
@@ -1538,7 +1632,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 156044,
       "name": "Crinoline Days",
       "url": "https://open.spotify.com/track/3M5kUTubTapFfeGrJpCbT9"
@@ -2784,10 +2878,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 353920,
       "name": "Homeward Bound",
       "url": "https://open.spotify.com/track/1WiWWLHYGmBITuKJE953zs"
+    },
+    {
+      "album": {
+        "name": "Love Is Spoken Here",
+        "url": "https://open.spotify.com/album/5M1LnxrJ1DKqjhQ1SRcbG0"
+      },
+      "artists": [
+        {
+          "name": "The Tabernacle Choir at Temple Square",
+          "url": "https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5"
+        },
+        {
+          "name": "Orchestra at Temple Square",
+          "url": "https://open.spotify.com/artist/4kAIRZipPTtTbZBTudxcEA"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354280,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/5c0a8aL1qxkY360GU0lun9"
     },
     {
       "album": {
@@ -3387,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "Top Hat: Hits From Hollywood",
+        "url": "https://open.spotify.com/album/7g2TJ6XllrcHOMS74ntDk7"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147693,
+      "name": "I'd Rather Lead A Band",
+      "url": "https://open.spotify.com/track/0kOgm50ilnISAWkfQ4lGXu"
+    },
+    {
+      "album": {
         "name": "The Early Years at RKO",
         "url": "https://open.spotify.com/album/6c9s5OiVL6l0aM1z67K3uR"
       },
@@ -3416,7 +3550,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 150066,
       "name": "I'd Rather Lead a Band",
       "url": "https://open.spotify.com/track/4em1rM1Mbid6bo8OYYLEcv"
@@ -3620,10 +3754,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 149228,
       "name": "I'm Gonna Pin a Medal on the Girl I Left Behind",
       "url": "https://open.spotify.com/track/6vEtPQUZnpiK1zXOXHEOkH"
+    },
+    {
+      "album": {
+        "name": "Chip Deffaa's Irving Berlin: Love Songs and Such",
+        "url": "https://open.spotify.com/album/0bxORsYeZ3Ixz5qHm1hkt8"
+      },
+      "artists": [
+        {
+          "name": "Ryan Muska",
+          "url": "https://open.spotify.com/artist/5LeIaDIJrUFG97GnfDDHZ9"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149386,
+      "name": "I'm Gonna Pin My Medal on the Girl I Left Behind",
+      "url": "https://open.spotify.com/track/5WQ41Qe3nYVMw2HpDD4oJ2"
     },
     {
       "album": {
@@ -4213,6 +4365,24 @@
     },
     {
       "album": {
+        "name": "A Jazz Date With Chris Connor",
+        "url": "https://open.spotify.com/album/6VvCDBJant7nKfjVromljF"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230093,
+      "name": "It Only Happens When I Dance with You",
+      "url": "https://open.spotify.com/track/53Y6LkWqlnVwZiJfAcr9tJ"
+    },
+    {
+      "album": {
         "name": "It Had to Be You",
         "url": "https://open.spotify.com/album/0LQSznvUpppnT3iam9dB3U"
       },
@@ -4356,7 +4526,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 195720,
       "name": "It Only Happens When I Dance With You",
       "url": "https://open.spotify.com/track/6JCFawd4HysmrorZviZ6Rr"
@@ -4678,7 +4848,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 193509,
       "name": "Learn to Do the Strut",
       "url": "https://open.spotify.com/track/5vm8zaiJd0Vs6xRtnb1loz"
@@ -4703,6 +4873,24 @@
     },
     {
       "album": {
+        "name": "Paul Whiteman - King of Jazz 1920-1927",
+        "url": "https://open.spotify.com/album/0dZZd7Bao0UxfKM4VwN1b9"
+      },
+      "artists": [
+        {
+          "name": "Paul Whiteman",
+          "url": "https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198013,
+      "name": "Learn to Do the Strut",
+      "url": "https://open.spotify.com/track/77nAi93t2h2QcYOHPPl0fB"
+    },
+    {
+      "album": {
         "name": "Irving Berlin's White Christmas (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/43HbWHgKPaSlr1wcU8ppa0"
       },
@@ -4721,6 +4909,24 @@
     },
     {
       "album": {
+        "name": "Hollywood Legend",
+        "url": "https://open.spotify.com/album/0oqiAlrLH16G2ZC8iEXIjB"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Let Yourself Go",
+      "url": "https://open.spotify.com/track/2lu8plIUydtl0jTkoii8qq"
+    },
+    {
+      "album": {
         "name": "Let Yourself Go (2023 Remastered Version)",
         "url": "https://open.spotify.com/album/3KjD9AhKfdwIryLxllW86j"
       },
@@ -4732,7 +4938,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 228135,
       "name": "Let Yourself Go - 2023 Remastered Version",
       "url": "https://open.spotify.com/track/1dhvoTFqVJWHh61HGqB9gu"
@@ -5429,6 +5635,24 @@
     },
     {
       "album": {
+        "name": "Call Me Madam",
+        "url": "https://open.spotify.com/album/1juckDTMh3JsiQi75XKfIj"
+      },
+      "artists": [
+        {
+          "name": "George Sanders",
+          "url": "https://open.spotify.com/artist/3iMGWwcJibuaOORXJMwHJt"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143562,
+      "name": "Marrying for Love",
+      "url": "https://open.spotify.com/track/1XschoiqUaGSJYPw57Ba8y"
+    },
+    {
+      "album": {
         "name": "The Golden Hits of Guy Mitchell, Vol. 1",
         "url": "https://open.spotify.com/album/3XL6nd2qRaQDMgeV3XkOK2"
       },
@@ -5440,7 +5664,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 195440,
       "name": "Marrying For Love",
       "url": "https://open.spotify.com/track/0pXaoFLXluhHEAySrtfe3N"
@@ -5462,6 +5686,24 @@
       "duration_ms": 193400,
       "name": "Marrying For Love",
       "url": "https://open.spotify.com/track/3mg8BI6nYoKa7Jgkzz7ee7"
+    },
+    {
+      "album": {
+        "name": "I'm Telling The World She's Mine",
+        "url": "https://open.spotify.com/album/1ttGDkKfy6BGANVqU59Wri"
+      },
+      "artists": [
+        {
+          "name": "Al Bowlly",
+          "url": "https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194101,
+      "name": "Maybe I Love You Too Much",
+      "url": "https://open.spotify.com/track/1zFOgg1e25XnRvSin7GHLk"
     },
     {
       "album": {
@@ -5494,7 +5736,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 150693,
       "name": "Me",
       "url": "https://open.spotify.com/track/1z4FSEmQ1yEmEueJ4Pmvzs"
@@ -5552,6 +5794,24 @@
       "duration_ms": 190013,
       "name": "Me And My Melinda",
       "url": "https://open.spotify.com/track/7D2DEb4xoXl6plN8PKTn56"
+    },
+    {
+      "album": {
+        "name": "Ruth Etting : Glorifier of American Song",
+        "url": "https://open.spotify.com/album/4WFiq7C6szvReerpBSvklr"
+      },
+      "artists": [
+        {
+          "name": "Ruth Etting",
+          "url": "https://open.spotify.com/artist/49rIehT663IKJuA3c16OkI"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165558,
+      "name": "Me!",
+      "url": "https://open.spotify.com/track/6CxD0sHyZUA617bpB7jAvN"
     },
     {
       "album": {
@@ -6354,10 +6614,28 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 153756,
       "name": "Ooh! Maybe It's You",
       "url": "https://open.spotify.com/track/1ZAc9CTdBKSgUsjMeVrJDl"
+    },
+    {
+      "album": {
+        "name": "Paul Whiteman Original 1927 Recordings",
+        "url": "https://open.spotify.com/album/1Ak4pWwJi7Lylg4Xjeivi0"
+      },
+      "artists": [
+        {
+          "name": "Paul Whiteman",
+          "url": "https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161413,
+      "name": "Ooh! Maybe It's You",
+      "url": "https://open.spotify.com/track/0SUQCbSEYTX0ni9BpLuHQM"
     },
     {
       "album": {
@@ -6532,6 +6810,24 @@
       "duration_ms": 161333,
       "name": "Przez tyle lat",
       "url": "https://open.spotify.com/track/1ihJQeTbIAhRjXH68FVABW"
+    },
+    {
+      "album": {
+        "name": "Collected Works of Al Jolson",
+        "url": "https://open.spotify.com/album/5AdVVJpUCRbViybgCiWcLw"
+      },
+      "artists": [
+        {
+          "name": "Al Jolson",
+          "url": "https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172146,
+      "name": "Pullman Porters' Parade (1913)",
+      "url": "https://open.spotify.com/track/1V3WkOV5pMWIZbbi64xAQG"
     },
     {
       "album": {
@@ -6848,10 +7144,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 197226,
       "name": "Settle Down in a One-Horse Town",
       "url": "https://open.spotify.com/track/0mXIuyRnqRJnkHMIWr3zo5"
+    },
+    {
+      "album": {
+        "name": "Chip Deffaa's the Irving Berlin Duets Album, Vol. One",
+        "url": "https://open.spotify.com/album/19ZhW9agrq42AZUWqd0rwG"
+      },
+      "artists": [
+        {
+          "name": "Luka Fric",
+          "url": "https://open.spotify.com/artist/5o6JLVHMqxuryMHup2Jqe4"
+        },
+        {
+          "name": "Rachel Hundert",
+          "url": "https://open.spotify.com/artist/3vzwZW3kJDkm3NN5xeZG38"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197106,
+      "name": "Settle Down in a One-Horse Town",
+      "url": "https://open.spotify.com/track/2oU9Dgr0UxlXgRiMjWr2zZ"
     },
     {
       "album": {
@@ -7162,10 +7480,32 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 187584,
       "name": "So Help Me",
       "url": "https://open.spotify.com/track/5JZYMWbCMZlD8zJVxrlnKR"
+    },
+    {
+      "album": {
+        "name": "Carroll Gibbons & the Savoy Hotel Orpheans, Vol. 10: Dancing on a Dime",
+        "url": "https://open.spotify.com/album/66Dyo3nr4A7qudYwlLSkla"
+      },
+      "artists": [
+        {
+          "name": "Carroll Gibbons",
+          "url": "https://open.spotify.com/artist/7IFehwNMIwBSIf40iX0gm9"
+        },
+        {
+          "name": "The Savoy Hotel Orpheans",
+          "url": "https://open.spotify.com/artist/71wUzuEFduObmzKm5VTIkf"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188502,
+      "name": "So Help Me",
+      "url": "https://open.spotify.com/track/4xyL6rHMIiBHyp1nIhVqmU"
     },
     {
       "album": {
@@ -7234,10 +7574,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 161186,
       "name": "Someone Else May Be There While I'm Gone",
       "url": "https://open.spotify.com/track/3SVmXhdhywarSkAw3mmRD0"
+    },
+    {
+      "album": {
+        "name": "Souvenir Album (Vol. 3)",
+        "url": "https://open.spotify.com/album/16whRAWtAmGgFtiwwnmyeP"
+      },
+      "artists": [
+        {
+          "name": "Al Jolson",
+          "url": "https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164066,
+      "name": "Someone Else May Be There While I'm Gone",
+      "url": "https://open.spotify.com/track/7q4V0cBLMcPWujvfaXtZSO"
     },
     {
       "album": {
@@ -7256,7 +7614,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 182146,
       "name": "Something To Dance About - From \"Call Me Madam\"",
       "url": "https://open.spotify.com/track/3RnZPBux8nmAnGMnyX0NPi"
@@ -7567,6 +7925,32 @@
     },
     {
       "album": {
+        "name": "1920's Music Hits, Vol.1",
+        "url": "https://open.spotify.com/album/4QbvPkmZSFZp1U5TlwtkIg"
+      },
+      "artists": [
+        {
+          "name": "Century Jukebox",
+          "url": "https://open.spotify.com/artist/3KdFNrl4cwPfbj6Y50SXA2"
+        },
+        {
+          "name": "Paul Whiteman",
+          "url": "https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r"
+        },
+        {
+          "name": "Trebor Roderick",
+          "url": "https://open.spotify.com/artist/1XpEgq5RYJ28WHvL8bsTGs"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212461,
+      "name": "Tell Me with a Melody",
+      "url": "https://open.spotify.com/track/2b1BFoWVOgvQvvHvIqQ1an"
+    },
+    {
+      "album": {
         "name": "Puttin on The Ritz (The Songs Of Irving Berlin, Vol. 2)",
         "url": "https://open.spotify.com/album/73kXrvSybmHzzMRcBT6rzm"
       },
@@ -7578,7 +7962,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 186080,
       "name": "Tell Me With a Melody",
       "url": "https://open.spotify.com/track/4sCSQTrAeAJAx6F9Zz8FsM"
@@ -7856,10 +8240,46 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 148143,
       "name": "The Girl on the Magazine Cover",
       "url": "https://open.spotify.com/track/0Wiz3n3mWm9YZLvxpnr9QT"
+    },
+    {
+      "album": {
+        "name": "His Golden Years (Remastered)",
+        "url": "https://open.spotify.com/album/06lOwFoDKgZ1FRaHEcadve"
+      },
+      "artists": [
+        {
+          "name": "Dick Haymes",
+          "url": "https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149986,
+      "name": "The Girl on the Magazine Cover - Remastered",
+      "url": "https://open.spotify.com/track/0p36CtYBO87mcYNeiDh4Cw"
+    },
+    {
+      "album": {
+        "name": "16 Classic Tracks",
+        "url": "https://open.spotify.com/album/3o8k5KIWQd74Sq6vMrzOPH"
+      },
+      "artists": [
+        {
+          "name": "Dick Powell",
+          "url": "https://open.spotify.com/artist/5hGZNLPNm2t3W0v28geOIK"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177051,
+      "name": "The Girl On The Police Gazette",
+      "url": "https://open.spotify.com/track/77X5JDERfmQpYWprtDs6N8"
     },
     {
       "album": {
@@ -7874,7 +8294,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 279754,
       "name": "The Girl on the Police Gazette",
       "url": "https://open.spotify.com/track/0gaYCr2SJJ1jkrhVN6QLaf"
@@ -7984,7 +8404,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 206426,
       "name": "The Hostess With The Mostes' On The Ball - From \"Call Me Madam\"",
       "url": "https://open.spotify.com/track/17S4TXtQcVnPdqiiwUY4bj"
@@ -8269,6 +8689,32 @@
     },
     {
       "album": {
+        "name": "Music Man",
+        "url": "https://open.spotify.com/album/5TezdglZvo24bEqQZIt02n"
+      },
+      "artists": [
+        {
+          "name": "Robert Preston",
+          "url": "https://open.spotify.com/artist/4KMMjF738dOUpmO51lMUrf"
+        },
+        {
+          "name": "Meredith Wilson",
+          "url": "https://open.spotify.com/artist/3So4EVXHpLhjXT7Z3sgyfc"
+        },
+        {
+          "name": "Broadway Cast",
+          "url": "https://open.spotify.com/artist/4gNMEfBVkRcCQUDtGHk9sB"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102600,
+      "name": "The Sadder But Wiser Girl For Me",
+      "url": "https://open.spotify.com/track/0CkQnptSoQ3piEdACduEg3"
+    },
+    {
+      "album": {
         "name": "Just One Of Those Things",
         "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
       },
@@ -8345,6 +8791,24 @@
     },
     {
       "album": {
+        "name": "Hollywood Legend",
+        "url": "https://open.spotify.com/album/0oqiAlrLH16G2ZC8iEXIjB"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163293,
+      "name": "The Yam",
+      "url": "https://open.spotify.com/track/7iN2tzdhCt4RBNXBH1a1dS"
+    },
+    {
+      "album": {
         "name": "The Early Years at RKO",
         "url": "https://open.spotify.com/album/6c9s5OiVL6l0aM1z67K3uR"
       },
@@ -8374,7 +8838,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 141346,
       "name": "The Yam",
       "url": "https://open.spotify.com/track/425mbumyQaP6C1dNequdUe"
@@ -9105,6 +9569,24 @@
     },
     {
       "album": {
+        "name": "The Complete Recorded Works, Vol. 2: A Handful Of Keys, CD A",
+        "url": "https://open.spotify.com/album/61PrS1yZ3UOPw2umJcJGi4"
+      },
+      "artists": [
+        {
+          "name": "Fats Waller",
+          "url": "https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208515,
+      "name": "Waitin' At The End Of The Road",
+      "url": "https://open.spotify.com/track/2MJiLbmHrYO0FgQXyMH8VM"
+    },
+    {
+      "album": {
         "name": "Essential Classics, Vol. 233: Irving Berlin",
         "url": "https://open.spotify.com/album/2l534Cz1fR7zWh5RCqKyJw"
       },
@@ -9134,7 +9616,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 203500,
       "name": "Waiting At the End of the Road",
       "url": "https://open.spotify.com/track/3qyxpeBzi0aCvZ9q9qhO2v"
@@ -9214,10 +9696,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 139040,
       "name": "We Saw The Sea",
       "url": "https://open.spotify.com/track/7dU026ft83lmMBQi1HqlWC"
+    },
+    {
+      "album": {
+        "name": "Hollywood Legend",
+        "url": "https://open.spotify.com/album/0oqiAlrLH16G2ZC8iEXIjB"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140813,
+      "name": "We Saw The Sea",
+      "url": "https://open.spotify.com/track/5yC10nmCfTJwsWtWcTQuih"
     },
     {
       "album": {
@@ -9236,6 +9736,56 @@
       "duration_ms": 163280,
       "name": "We'll Never Know",
       "url": "https://open.spotify.com/track/0tVhFddPcZJDjCOHiYvPEl"
+    },
+    {
+      "album": {
+        "name": "Irving Berlin - All by Myself - Notable Compositions 1926 - 1933",
+        "url": "https://open.spotify.com/album/2WUnFTPWCdNLYZhayReMoi"
+      },
+      "artists": [
+        {
+          "name": "Rusty Dedrick Orchestra",
+          "url": "https://open.spotify.com/artist/3SoFdVXFANnzeF1CuFE8Q1"
+        },
+        {
+          "name": "Bob Wilber",
+          "url": "https://open.spotify.com/artist/38ft9KbJkq7eEVAxWt9yOs"
+        },
+        {
+          "name": "Lou McGarity",
+          "url": "https://open.spotify.com/artist/5bEbh6WNLu9Z6fb0QyLs6d"
+        },
+        {
+          "name": "Morty Lewis",
+          "url": "https://open.spotify.com/artist/6EDPEx1h5f6KtQCiZ1qGnR"
+        },
+        {
+          "name": "Ray Cohan",
+          "url": "https://open.spotify.com/artist/62cOk6y9prSk9BVruaYltJ"
+        },
+        {
+          "name": "Barry Galbraith",
+          "url": "https://open.spotify.com/artist/5LwO1uX8JISd5F3FBKT4Y9"
+        },
+        {
+          "name": "George Duvivier",
+          "url": "https://open.spotify.com/artist/1XIWgvZmYKuuAWtti6IXvE"
+        },
+        {
+          "name": "Don Lamond",
+          "url": "https://open.spotify.com/artist/55Ovx8Mif4CNrIxuITbjhd"
+        },
+        {
+          "name": "Annette Sanders",
+          "url": "https://open.spotify.com/artist/4yOSCVn6XPYUtSzOoXOTKs"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "We'll Never Know",
+      "url": "https://open.spotify.com/track/7kBHDgeV2rIm9KAWesViNY"
     },
     {
       "album": {
@@ -9275,6 +9825,24 @@
     },
     {
       "album": {
+        "name": "Here Comes Donald...",
+        "url": "https://open.spotify.com/album/2XWHabhMCeuZvDTcbYuWXZ"
+      },
+      "artists": [
+        {
+          "name": "Donald O'Connor",
+          "url": "https://open.spotify.com/artist/6JGPCu8A5iBnvYuGx5vKP0"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181866,
+      "name": "What Chance Have I With Love",
+      "url": "https://open.spotify.com/track/2WYRBeXeut5kRbpscL2EpS"
+    },
+    {
+      "album": {
         "name": "Call Me Madam (Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/5Nx7z5DYTQS2pGiAOu0C6p"
       },
@@ -9286,7 +9854,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 182853,
       "name": "What Chance Have I with Love",
       "url": "https://open.spotify.com/track/3QkQG776jWtkCKkJC7ZY1o"
@@ -9384,10 +9952,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 171160,
       "name": "When I Leave The World Behind",
       "url": "https://open.spotify.com/track/6MIx7HfUGj30qAgevxEJgm"
+    },
+    {
+      "album": {
+        "name": "Beautiful Dreamer",
+        "url": "https://open.spotify.com/album/7uCg5ttTDljaE0wvcl2wCA"
+      },
+      "artists": [
+        {
+          "name": "Rose Marie",
+          "url": "https://open.spotify.com/artist/7jo2EPvJaTMP43jgiBNz98"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181506,
+      "name": "When I Leave the World Behind",
+      "url": "https://open.spotify.com/track/46MxkqJjZ6kzvMbCZnF5nq"
     },
     {
       "album": {
@@ -9427,6 +10013,24 @@
     },
     {
       "album": {
+        "name": "Without a Song, Vol. 5",
+        "url": "https://open.spotify.com/album/66iMkhEBfmP9kpCQN0Y9tn"
+      },
+      "artists": [
+        {
+          "name": "Paul Whiteman",
+          "url": "https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "When My Dreams Come True",
+      "url": "https://open.spotify.com/track/5uq6BnrjmjWyAlSlMOsAO7"
+    },
+    {
+      "album": {
         "name": "Complete Jazz Series 1928 - 1929",
         "url": "https://open.spotify.com/album/4pH9sUEiQ6SbiaK67DEs5j"
       },
@@ -9438,7 +10042,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 187786,
       "name": "When My Dreams Come True (05-03-29)",
       "url": "https://open.spotify.com/track/6nLAritD5uI0DW5OM2mXN2"
@@ -9616,7 +10220,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 164173,
       "name": "When You're Down in Louisville (Call on Me)",
       "url": "https://open.spotify.com/track/7tG2Hv7qV5Ifptca7Dcqfo"
@@ -9990,10 +10594,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 152996,
       "name": "Woodman, Woodman, Spare That Tree",
       "url": "https://open.spotify.com/track/44aWmakMiiBMruioUKDFQe"
+    },
+    {
+      "album": {
+        "name": "The Thing",
+        "url": "https://open.spotify.com/album/1rx51oei8MgMLG1emKVzms"
+      },
+      "artists": [
+        {
+          "name": "Phil Harris and His Orchestra",
+          "url": "https://open.spotify.com/artist/5iYLu14ZXU9h6vxKlYo33d"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151640,
+      "name": "Woodman, Woodman, Spare That Tree",
+      "url": "https://open.spotify.com/track/1qnDjnEA6uLaB44FgioX4m"
     },
     {
       "album": {

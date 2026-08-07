@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Moon Sujin, Wonstein\(문수진, 원슈타인\)\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: DAYOUNG, Jay Park\)
 
-289 songs - 16 hr 59 min
+290 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [First kiss \(Feat\. Sonny zero, Harms\)](https://open.spotify.com/track/1wInZv0I7D0EDrgfSRnC33) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [Harms](https://open.spotify.com/artist/6AEdu26JUdoNP01gO8sM0N) | [A Thousand Miles](https://open.spotify.com/album/2c7wTvGT6ioIBKL3UrSGrd) | 2:35 | 2022-03-24 | 2022-07-28 |
 | [First Love Two](https://open.spotify.com/track/0WLVjvta2gELFIN5mqSFpa) | [SUNNYSIDEMJ](https://open.spotify.com/artist/50hc5LTdbu0RKvf8IuOrLq) | [Love Tape](https://open.spotify.com/album/6A8Dj6IhOrpOHfWwgh4YBw) | 3:27 | 2022-04-21 | 2022-07-26 |
 | [Fit Me](https://open.spotify.com/track/14jLZukXIILjBDMzUl5cuU) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/3TYy1tiVsuOWibt2ptlFUD) | 3:11 | 2022-05-11 | 2022-07-29 |
+| [FLIRTY](https://open.spotify.com/track/1V0U6NEryn8VzQFTLwX0dk) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [FLIRTY](https://open.spotify.com/album/2GIDfAsKGJVasFJ4BZdsX2) | 2:15 | 2026-08-07 |  |
 | [FLOAT](https://open.spotify.com/track/3i7OLkVcsYvJI8fLPCFP22) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/605rL7SKIddSSuG6klhA6V) | 3:03 | 2022-03-24 | 2022-04-21 |
 | [Flower \(With Kim Minseok of Melomance\)](https://open.spotify.com/track/0XPoeyS0UQWK24qajGTaBy) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Flower](https://open.spotify.com/album/1oWFYxp5k7nPlsdwNpmtxa) | 4:35 | 2022-04-21 | 2022-07-27 |
 | [For Some Reason 왠지 그냥](https://open.spotify.com/track/4b4pXJlphTv6xkOAhnSCgY) | [DANWU](https://open.spotify.com/artist/3hqxXifdUAzAQIKdKqda6t), [KIMEUNJI 김은지](https://open.spotify.com/artist/04gKJbZ1iABO8Azq4C9aAt) | [For Some Reason 왠지 그냥](https://open.spotify.com/album/1zlxiFx9csY1rp7of7RIiV) | 3:58 | 2022-03-24 | 2022-07-19 |
@@ -145,7 +146,7 @@
 | [Loveship](https://open.spotify.com/track/6Hqk3UKf4uIrdbkJvwM7y3) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Loveship](https://open.spotify.com/album/6bwWdBKK3YGxgFJkZ8BYVQ) | 4:19 | 2022-04-21 | 2022-07-28 |
 | [Lovey Dovey](https://open.spotify.com/track/0sDbmJillp1rvmiROBeFtW) | [YOON SAN\-HA \(ASTRO\)](https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW), [ARIN](https://open.spotify.com/artist/34hCqjzOeeJjqmfsd38zuF) | [My Girlfriend is the Man \(Original Soundtrack\) Part.2](https://open.spotify.com/album/00kngcDnCkg25qjOUNUJ7L) | 3:12 | 2025-08-01 | 2025-11-10 |
 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 | 2022-05-11 |  |
-| [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/track/1a26vkT9m6IVfZAbW1hq4Y) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/album/4saGlb83ieD2u1cpyTWKTV) | 2:34 | 2025-09-01 |  |
+| [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/track/1a26vkT9m6IVfZAbW1hq4Y) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/album/4saGlb83ieD2u1cpyTWKTV) | 2:34 | 2025-09-01 | 2026-08-07 |
 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 | 2023-09-18 |  |
 | [Mayday \(Feat\. Joy\)](https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [homemade 1](https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6) | 3:19 | 2022-07-25 | 2024-04-19 |
 | [Mayday \(Feat\. Joy\)](https://open.spotify.com/track/3k7ikTNf1Ms0ZfTsoe9Blk) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [homemade 1](https://open.spotify.com/album/75yTA2QkJzFi33JRw1q7El) | 3:19 | 2022-04-21 | 2022-07-26 |

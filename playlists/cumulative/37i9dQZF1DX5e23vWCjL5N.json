@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "+high (dammi)",
+        "url": "https://open.spotify.com/album/2xTjYWqudROTWPiUCZRa1M"
+      },
+      "artists": [
+        {
+          "name": "Yago",
+          "url": "https://open.spotify.com/artist/0V5KSQBTEZ9aMI0rzoLfRI"
+        },
+        {
+          "name": "G17",
+          "url": "https://open.spotify.com/artist/2lB36xZbos512csFypeLDI"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "+high (dammi)",
+      "url": "https://open.spotify.com/track/6p07zPReDJX2urohIoBTiT"
+    },
+    {
+      "album": {
         "name": "Orange County California",
         "url": "https://open.spotify.com/album/3dw4egjjsLDxbpgvACa3AC"
       },
@@ -170,10 +192,28 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 172800,
       "name": "2K LACRIME",
       "url": "https://open.spotify.com/track/110Ws37zgNXkjalo9p21Ql"
+    },
+    {
+      "album": {
+        "name": "31/07",
+        "url": "https://open.spotify.com/album/7GkSHFdG9dRT6SgewzUxHh"
+      },
+      "artists": [
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114636,
+      "name": "31/07",
+      "url": "https://open.spotify.com/track/5Qx6gyf8apd1tlOlvBPsqS"
     },
     {
       "album": {
@@ -592,6 +632,28 @@
       "duration_ms": 170294,
       "name": "Alette di pollo",
       "url": "https://open.spotify.com/track/3sw7Uzt8KuBd2pzsMKvYLX"
+    },
+    {
+      "album": {
+        "name": "BARS",
+        "url": "https://open.spotify.com/album/5ON5Aa28Q3fFP7uik7xqdQ"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Low Kidd",
+          "url": "https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193903,
+      "name": "ALL IN (Demo)",
+      "url": "https://open.spotify.com/track/5UkceP02klZWhR56bsR4Wi"
     },
     {
       "album": {
@@ -1778,7 +1840,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 204375,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/1KZm459Xdw6GuYjcGk3pbm"
@@ -2310,7 +2372,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 212277,
       "name": "Comunicazione (feat. Madame)",
       "url": "https://open.spotify.com/track/2BcYp63DF6TPt7eF7yKnHw"
@@ -3276,7 +3338,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 161860,
       "name": "FEBBRE DELL'ORO (feat. Ele A)",
       "url": "https://open.spotify.com/track/3LXTuGn1b170DuUnr2FLBv"
@@ -3356,10 +3418,32 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 167045,
       "name": "Flowman",
       "url": "https://open.spotify.com/track/23eB9swQaIITGMUyPP9pnc"
+    },
+    {
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/4UayEsuc9OxhYtiN6TzsJC"
+      },
+      "artists": [
+        {
+          "name": "Glauco",
+          "url": "https://open.spotify.com/artist/6zRPngg8Akh7YyNy18Pkm4"
+        },
+        {
+          "name": "Zenit",
+          "url": "https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138553,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/68ACKXDelpGdJecEWifBy2"
     },
     {
       "album": {
@@ -5606,7 +5690,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 160563,
       "name": "MEZZO BIANCO (feat. Sayf)",
       "url": "https://open.spotify.com/track/5wGwVvKu8zcmHGDfiSXPUD"
@@ -5934,6 +6018,40 @@
       "duration_ms": 237757,
       "name": "MVP RMX (feat. Kuremino, Flaco G, Don Pero, Helmi & Young Hash)",
       "url": "https://open.spotify.com/track/6JLK8nTVYPclaoQpGAoMAz"
+    },
+    {
+      "album": {
+        "name": "N.I.L.N.Y. (Naples Is Like New York)",
+        "url": "https://open.spotify.com/album/1kEYLU8I5dsuoqONZsjX7a"
+      },
+      "artists": [
+        {
+          "name": "DJ Gruff",
+          "url": "https://open.spotify.com/artist/6CaMYv7NbgNHh8npP6rzdi"
+        },
+        {
+          "name": "RayZa",
+          "url": "https://open.spotify.com/artist/5emczFUqUpws5SnXTAyRoj"
+        },
+        {
+          "name": "Dope One",
+          "url": "https://open.spotify.com/artist/3hkuxweLT2NqX7opoaRyKB"
+        },
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        },
+        {
+          "name": "Combass",
+          "url": "https://open.spotify.com/artist/6oAOLSeDrGLA8WJqRUVHej"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315968,
+      "name": "Naples is like New York",
+      "url": "https://open.spotify.com/track/0Pnj5PIHqDFZjUESFBBnLD"
     },
     {
       "album": {
@@ -7435,6 +7553,28 @@
     },
     {
       "album": {
+        "name": "QUANDO TORNI DA ME?",
+        "url": "https://open.spotify.com/album/2TxQsAuB5pwbReaufKb7No"
+      },
+      "artists": [
+        {
+          "name": "LeeZo",
+          "url": "https://open.spotify.com/artist/6hifLfYY0cuT5LXjnV3xkj"
+        },
+        {
+          "name": "Due G",
+          "url": "https://open.spotify.com/artist/7ICNoOv4dBRG72UaFP5Aba"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124789,
+      "name": "QUANDO TORNI DA ME?",
+      "url": "https://open.spotify.com/track/3dFRI056kFcBp2hkn6tI9R"
+    },
+    {
+      "album": {
         "name": "QUELLA FORESTA",
         "url": "https://open.spotify.com/album/0GkSRFc18J7vmRI8259AwO"
       },
@@ -8647,6 +8787,32 @@
     },
     {
       "album": {
+        "name": "THE BACONE",
+        "url": "https://open.spotify.com/album/65imw0E4Ro9EYBzvRGfjLO"
+      },
+      "artists": [
+        {
+          "name": "Leo Pesci",
+          "url": "https://open.spotify.com/artist/2JRSgE22ZVQ7pdqnv46QGQ"
+        },
+        {
+          "name": "Morfuco",
+          "url": "https://open.spotify.com/artist/7CXf0XjowJ7g8x70E42Gz3"
+        },
+        {
+          "name": "Tonico 70",
+          "url": "https://open.spotify.com/artist/3Cl7vpRDgXvuGEOQrI9Rwz"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203910,
+      "name": "THE BACONE",
+      "url": "https://open.spotify.com/track/4uhHuL26tYOlpuhDvlvLWy"
+    },
+    {
+      "album": {
         "name": "60 Hz II - Legacy",
         "url": "https://open.spotify.com/album/4XFYcrzf3FHbK2C8WbJ1vm"
       },
@@ -9446,7 +9612,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 228253,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/4mjXa1nq3XVm72wYeVS1Uw"

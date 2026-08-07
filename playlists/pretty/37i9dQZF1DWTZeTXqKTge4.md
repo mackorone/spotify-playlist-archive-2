@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: De Lafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,668 likes - 87 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,661 likes - 87 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 86 | [LA RICHESSE](https://open.spotify.com/track/70Uu1Q3RZHo0gzC21yX0Fh) | [FRE5H](https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe) | [LA RICHESSE](https://open.spotify.com/album/79LXOB73F6p2kmdbJj9VST) | 2:20 |
 | 87 | [Flash](https://open.spotify.com/track/3uARaNkhIsF8o85fRU9fHP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Flash](https://open.spotify.com/album/3o54ejNNHmO9PpsduX1QdW) | 3:47 |
 
-Snapshot ID: `AAAAAPxRTn14pbYXfVMkGd+j5KDi8276`
+Snapshot ID: `AAAAAHKKeN8zdlDyVMIFRaMhcRsUPm93`

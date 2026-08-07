@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Ruthie Foster
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,378 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,464 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [I Let You Think That You Do](https://open.spotify.com/track/5rhIUOc7EmYB5jbnXfCIhc) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Resurrection](https://open.spotify.com/album/3a9xrY1A9DkKauXZW17KQ8) | 3:30 |
 | 100 | [99 And 1/2 Won't Do](https://open.spotify.com/track/6SCLPf6RTXCwvYEhF5a2ME) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb), [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [99 And 1/2 Won't Do](https://open.spotify.com/album/4TWaiD0oviLCZ4d7pVA6TI) | 4:15 |
 
-Snapshot ID: `AAAAAEJhWie0VrdRDv54atIQMbijm4I9`
+Snapshot ID: `AAAAACTHqek3ShAQDf5hIf2R1vesKF9T`

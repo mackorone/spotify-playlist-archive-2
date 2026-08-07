@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 18,095 likes - 659 songs - 1 day 15 hr 2 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 18,097 likes - 659 songs - 1 day 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,7 +257,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 247 | [Shoulders / Spine](https://open.spotify.com/track/4iWbGEYM1jbwu6NNs8HFGv) | [HEAVY CHEST](https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5) | [Shoulders / Spine](https://open.spotify.com/album/3fDb8mv3tSGsXQK2H91och) | 3:03 |
 | 248 | [Clearer](https://open.spotify.com/track/3UBQq5eaQsNZ4r6VbOju9P) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Clearer](https://open.spotify.com/album/3ncfxBkQrt8ozN1YB9QNOB) | 4:14 |
 | 249 | [Baby Blue](https://open.spotify.com/track/1U8biqYHpLsJ6PD1PEgHud) | [Frazier Blue](https://open.spotify.com/artist/6tdhC262dmuL7W8MnTr1tx) | [Baby Blue](https://open.spotify.com/album/7HevGHsEW7pY3Wj56ELwZC) | 3:29 |
-| 250 | [Vertebrae](https://open.spotify.com/track/5bImEFz89tnLPQXiDc3M9d) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Vertebrae](https://open.spotify.com/album/0m3GTqifxN8YEua3vACYD2) | 2:57 |
+| 250 | [Vertebrae](https://open.spotify.com/track/5bImEFz89tnLPQXiDc3M9d) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Vertebrae](https://open.spotify.com/album/0m3GTqifxN8YEua3vACYD2) | 2:57 |
 | 251 | [Statue in the Dark](https://open.spotify.com/track/39fGhbua4rQ63JML0bgMPW) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Statue in the Dark](https://open.spotify.com/album/4sYVcbUifpyyGFdjAWQQgW) | 2:57 |
 | 252 | [Night Time](https://open.spotify.com/track/10JTcTlSRGYrAszcGFxEJz) | [Dook Walt Jr.](https://open.spotify.com/artist/3FdI5s1SLRNYNNS7yO3vMV) | [Night Time](https://open.spotify.com/album/4qRZeDMouGPifXzP3dSepz) | 3:18 |
 | 253 | [Undercover Women](https://open.spotify.com/track/4WrHmORhuDtWEfEtpcl5KZ) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Undercover Women](https://open.spotify.com/album/7bXZoUNdMjQeqVbzS4vwPU) | 2:31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "youngs soundss \ud83e\udd5e USSEL p\u00e5 forsiden ",
+  "description": "youngs soundss \ud83e\udd5e Kundo p\u00e5 forsiden ",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -5966,7 +5966,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 183488,
       "name": "sad song",
       "url": "https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P"
@@ -6186,6 +6186,24 @@
       "duration_ms": 125257,
       "name": "Ser I Mig Nu",
       "url": "https://open.spotify.com/track/5vUPHxD3j8UHXXcZwNgm63"
+    },
+    {
+      "album": {
+        "name": "Shen Mao",
+        "url": "https://open.spotify.com/album/46XqGM4PmPoyrMYEyUhbif"
+      },
+      "artists": [
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158568,
+      "name": "Shen Mao",
+      "url": "https://open.spotify.com/track/087oAJywUltu0v3jetQzAm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Greta Van Fleet
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,630 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,718 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 99 | [Play Around the Crit](https://open.spotify.com/track/7xcONsejQyabceSRpVCxJZ) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Play Around the Crit / Compound Eyes](https://open.spotify.com/album/1S1VDJRWyfHD1LoxG8A14u) | 1:28 |
 | 100 | [I Feel So Mad](https://open.spotify.com/track/42ZQFIkcmUsOJKPZoPisxb) | [Annabelle Chairlegs](https://open.spotify.com/artist/1Fr1a6j80ISD0UonvFM5V6) | [I Feel So Mad](https://open.spotify.com/album/1peFNMCyuDgana3cbgkx0Y) | 2:06 |
 
-Snapshot ID: `AAAAANnXCAqMf12jWywUFuQZrkYkUK+V`
+Snapshot ID: `AAAAAKRbEh4Z8idCIy6UlTqEPRZqpFU3`

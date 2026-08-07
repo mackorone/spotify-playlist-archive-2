@@ -1,12 +1,12 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 93383,
+  "num_followers": 93394,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACw2J/B4ufTuQLv9ev4oxgWZl1tW",
+  "snapshot_id": "AAAAAAYLHFEriUdnZaimIx5t7BIQP6eY",
   "tracks": [
     {
       "added_at": "2026-07-17 06:00:21",
@@ -127,18 +127,18 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "HIJO DE P",
-        "url": "https://open.spotify.com/album/5QFjECtvdCEB4XVJAOWCFY"
+        "name": "dormir\u00e9 sin ti",
+        "url": "https://open.spotify.com/album/4wBC6f7WBr0YfVkUvJFqxz"
       },
       "artists": [
         {
-          "name": "Kevis & Maykyy",
-          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
         }
       ],
-      "duration_ms": 181132,
-      "name": "HIJO DE P",
-      "url": "https://open.spotify.com/track/5iIpWGnsZM6Em76qUAIcRz"
+      "duration_ms": 197600,
+      "name": "dormir\u00e9 sin ti",
+      "url": "https://open.spotify.com/track/2FUnmux4XXAzdEf8ks1IhU"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -167,18 +167,18 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "dormir\u00e9 sin ti",
-        "url": "https://open.spotify.com/album/4wBC6f7WBr0YfVkUvJFqxz"
+        "name": "HIJO DE P",
+        "url": "https://open.spotify.com/album/5QFjECtvdCEB4XVJAOWCFY"
       },
       "artists": [
         {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
         }
       ],
-      "duration_ms": 197600,
-      "name": "dormir\u00e9 sin ti",
-      "url": "https://open.spotify.com/track/2FUnmux4XXAzdEf8ks1IhU"
+      "duration_ms": 181132,
+      "name": "HIJO DE P",
+      "url": "https://open.spotify.com/track/5iIpWGnsZM6Em76qUAIcRz"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "sobrio",
-        "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
-      },
-      "artists": [
-        {
-          "name": "sobresdylan",
-          "url": "https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL"
-        }
-      ],
-      "duration_ms": 240687,
-      "name": "besos de esquimal",
-      "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "Tempestad",
         "url": "https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 255605,
       "name": "Tempestad",
       "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "sobrio",
+        "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
+      },
+      "artists": [
+        {
+          "name": "sobresdylan",
+          "url": "https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL"
+        }
+      ],
+      "duration_ms": 240687,
+      "name": "besos de esquimal",
+      "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
+        "name": "Cereza",
+        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "duration_ms": 198150,
+      "name": "Cereza",
+      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
         "name": "Te Llevo A D\u00f3nde Quieras",
         "url": "https://open.spotify.com/album/4Xl7jqz3vr2eNjxaQDh3G9"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 144098,
       "name": "Te Llevo A D\u00f3nde Quieras",
       "url": "https://open.spotify.com/track/59LU3KyaBPQohgDdaHL58Q"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
-        "name": "Cereza",
-        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        }
-      ],
-      "duration_ms": 198150,
-      "name": "Cereza",
-      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -967,22 +967,18 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
+        "name": "Ping\u00fcinos",
+        "url": "https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG"
       },
       "artists": [
         {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
         }
       ],
-      "duration_ms": 245669,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
+      "duration_ms": 196629,
+      "name": "Ping\u00fcinos",
+      "url": "https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Ping\u00fcinos",
-        "url": "https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG"
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
       },
       "artists": [
         {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 196629,
-      "name": "Ping\u00fcinos",
-      "url": "https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y"
+      "duration_ms": 245669,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Cuenta mis pasos",
-        "url": "https://open.spotify.com/album/6OKxHgWUqC6BBwb8w8LHVg"
-      },
-      "artists": [
-        {
-          "name": "The Space Ocean",
-          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
-        }
-      ],
-      "duration_ms": 217473,
-      "name": "Cuenta mis pasos",
-      "url": "https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "empezar al rev\u00e9s",
         "url": "https://open.spotify.com/album/0ubjYBDDdREIRUBqRgoY5D"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 202230,
       "name": "empezar al rev\u00e9s",
       "url": "https://open.spotify.com/track/6M2sc6l4w1wCSZSwE3HVMj"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "Cuenta mis pasos",
+        "url": "https://open.spotify.com/album/6OKxHgWUqC6BBwb8w8LHVg"
+      },
+      "artists": [
+        {
+          "name": "The Space Ocean",
+          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
+        }
+      ],
+      "duration_ms": 217473,
+      "name": "Cuenta mis pasos",
+      "url": "https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE"
     },
     {
       "added_at": "2026-07-17 06:00:21",

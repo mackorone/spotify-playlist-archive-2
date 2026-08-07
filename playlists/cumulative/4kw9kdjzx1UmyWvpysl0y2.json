@@ -2141,6 +2141,32 @@
     },
     {
       "album": {
+        "name": "Bad For Me",
+        "url": "https://open.spotify.com/album/0sElqM1Zj7aQ2nvhI5MkVF"
+      },
+      "artists": [
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Delaney Jane",
+          "url": "https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168648,
+      "name": "Bad For Me",
+      "url": "https://open.spotify.com/track/72GaBNHL9g2LesqytanNbC"
+    },
+    {
+      "album": {
         "name": "Bad For You",
         "url": "https://open.spotify.com/album/6hNHNhff93z7BmdBHfnBFS"
       },
@@ -4448,7 +4474,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 234666,
       "name": "close your eyes",
       "url": "https://open.spotify.com/track/0GY3VN7i3hElhqhIqSHKQi"
@@ -7260,7 +7286,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 184414,
       "name": "ENERGY (I Feel)",
       "url": "https://open.spotify.com/track/0DZirU8OfoBgia2kga6Bzi"
@@ -14348,7 +14374,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 137538,
       "name": "midnight moon",
       "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
@@ -19948,7 +19974,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 170800,
       "name": "Secret For You",
       "url": "https://open.spotify.com/track/1P1CCxAlgAI2ugYphI7P36"

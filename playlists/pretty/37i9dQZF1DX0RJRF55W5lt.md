@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,104 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,209 likes - 75 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 71 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |
 | 72 | [Why?](https://open.spotify.com/track/4KVqDHIZYuAk7CObeTlYSU) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Best Of](https://open.spotify.com/album/3084CrngEXCmjpox0sNJqS) | 3:20 |
 | 73 | [Things We Do For Love](https://open.spotify.com/track/6WhWEu5LqhSjG37ZSk4gAe) | [Kele Le Roc](https://open.spotify.com/artist/6147A0TM1JrrEkin51nwnD), [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH) | [UK Garage Beats V4](https://open.spotify.com/album/7AzNk36ApocG0SuvlKK3K2) | 3:31 |
-| 74 | [Girls Like Us \- Radio Edit](https://open.spotify.com/track/2OiFLUUvtJg03Zh2xr7HOU) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/6dvIEb67jvtYQnnXrgwrxJ) | [Girls Like Us](https://open.spotify.com/album/2hmf2BtDupXSYz3TbXq2be) | 5:56 |
-| 75 | [Woman Trouble \- Remix](https://open.spotify.com/track/5i4ZghBHu5Eamihz9Zsbhc) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Robbie Craig](https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Woman Trouble](https://open.spotify.com/album/6zxF5nIPACXqtxnfnLiSdj) | 7:03 |
+| 74 | [Thong Song \- Artful Dodger Remix](https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg), [M.C\. Alastair](https://open.spotify.com/artist/687vo1Cb1bX0JYVRUJDRFJ) | [Unleash The Dragon \(UK COMM EXTRA TRACKS\)](https://open.spotify.com/album/2Q059JIZOx97MuuggN6PvU) | 5:34 |
+| 75 | [Imagine \- Asylum Remix](https://open.spotify.com/track/7cQjdDB3ihCB7awAOZcfuE) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Pure Garage Reload \- The Very Best Of Old Skool Garage](https://open.spotify.com/album/4FVSogOmseVSnVJwvFEwQa) | 5:41 |
 
-Snapshot ID: `AAAAANEXmTX5VLm6ohZVGvQL9M+XUUNR`
+Snapshot ID: `AAAAACTzci22sgNFOmaKpEw+OSKqnUVV`

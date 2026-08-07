@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: kwacamolee\(과카몰리\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Meaningful Stone\(김뜻돌\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,382 songs - 3 day 11 hr 38 min
+1,385 songs - 3 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [0+0](https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:12 | 2025-09-25 | 2026-04-10 |
 | [0405 \(Four Five\)](https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [0405 \(Four Five\)](https://open.spotify.com/album/1gek49hKp1pIDHDlHjudp6) | 2:43 | 2025-02-17 | 2025-05-27 |
 | [1 Chance](https://open.spotify.com/track/7hAbuARJpMuAnLeg9ORbwy) | [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [The Myth Of Sisyphus](https://open.spotify.com/album/5IjWMwBYlFaRoPKh4aFdX4) | 4:04 | 2025-11-06 | 2026-01-19 |
+| [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/track/5yS7TpHeZg96edy4KwTbKD) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [To: Hana](https://open.spotify.com/album/2DrgbIxldbp8Tb8hsuwZP9) | 3:33 | 2026-08-07 |  |
 | [1\-4\-3](https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [I MET PEEJAY](https://open.spotify.com/album/31O9E8r4PYUr4VhRAI1zM8) | 3:28 | 2025-05-07 | 2025-09-12 |
 | [100%](https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [23](https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg) | 3:11 | 2023-06-01 | 2023-06-15 |
 | [1009](https://open.spotify.com/track/4r5Qxskm1ofRU3VRzAyplg) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Hangeul](https://open.spotify.com/album/1TgWey8Gm4LOpHmzRc1sZp) | 4:03 | 2021-12-21 | 2022-04-21 |
@@ -252,7 +253,7 @@
 | [Dear weary one \(with seolkyung\)](https://open.spotify.com/track/4LwHWD8bIxLpGWaijzbESw) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Seol Kyung](https://open.spotify.com/artist/3PgHUNgvyVrM1c2S93dRTY) | [Dear weary one](https://open.spotify.com/album/0YbacYJRaVoev72V97Ofek) | 4:17 | 2025-08-26 | 2025-10-02 |
 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 | 2024-10-30 | 2025-01-15 |
 | [December](https://open.spotify.com/track/7hlJPqGPSdf9Ss76Do54zf) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [December](https://open.spotify.com/album/5KpmOvSlSMUyyuSMK1eAdy) | 3:44 | 2022-03-31 | 2022-04-21 |
-| [Deep Dive](https://open.spotify.com/track/2BWqnsiMhGNpNa9NGLv9VC) | [Alice Syndrome](https://open.spotify.com/artist/7fNeWBcx24ttY7l6TxFDJx) | [Deep Dive](https://open.spotify.com/album/6OHUIjVYP12r5212ioJtRI) | 2:21 | 2026-07-28 |  |
+| [Deep Dive](https://open.spotify.com/track/2BWqnsiMhGNpNa9NGLv9VC) | [Alice Syndrome](https://open.spotify.com/artist/7fNeWBcx24ttY7l6TxFDJx) | [Deep Dive](https://open.spotify.com/album/6OHUIjVYP12r5212ioJtRI) | 2:21 | 2026-07-28 | 2026-08-07 |
 | [deep water](https://open.spotify.com/track/3ToLIuUHoaedt4cagzX41J) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [?!](https://open.spotify.com/album/1uhyHd8foilSr6qLYjzEwc) | 3:16 | 2022-03-31 | 2022-04-14 |
 | [Deeper Than I Thought](https://open.spotify.com/track/3MTSqosDP6EjfRCuxutzHV) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [Deeper Than I Thought](https://open.spotify.com/album/5WX2sfPA2KqqpSJymxxmnq) | 3:07 | 2025-07-08 | 2025-07-10 |
 | [Default](https://open.spotify.com/track/7a9JYapvSZ6jYu2TaG7BRU) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:52 | 2024-03-20 | 2024-05-10 |
@@ -369,7 +370,7 @@
 | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4) | 2:34 | 2024-11-29 | 2025-01-31 |
 | [Fighting! 응원해](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting! 응원해](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 | 2022-10-07 | 2022-11-13 |
 | [Fighting! 응원해](https://open.spotify.com/track/6jD4BKw85zAOpK9DCx6uYm) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting! 응원해](https://open.spotify.com/album/2DGqiNKAYJIJuqcQfKU2Hi) | 3:05 | 2021-12-12 | 2022-07-21 |
-| [Find You](https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Find You](https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz) | 2:55 | 2026-04-22 |  |
+| [Find You](https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Find You](https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz) | 2:55 | 2026-04-22 | 2026-08-07 |
 | [Fine](https://open.spotify.com/track/6VVNdVTR3akq26mrvlEUQJ) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [Fine](https://open.spotify.com/album/6KXd8ZKlGFulveeHsOH5cX) | 2:57 | 2022-03-31 | 2022-04-13 |
 | [FINE](https://open.spotify.com/track/1HP9RKXLLbanlco3KB0QsN) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [FINE](https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks) | 2:37 | 2022-07-08 | 2022-08-09 |
 | [Fire](https://open.spotify.com/track/0h1KusfiDFqqWhHNPcKn0V) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [Two Faces](https://open.spotify.com/album/1xtsl99YsUY2QBbMIRQqzC) | 5:00 | 2022-12-21 | 2023-01-05 |
@@ -465,6 +466,7 @@
 | [h.a.u.](https://open.spotify.com/track/2WBTC9fwx8yCrScT60NWHq) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [h.a.u.](https://open.spotify.com/album/6wxd9jSJONHalNLePJYLC5) | 4:18 | 2026-04-06 | 2026-06-13 |
 | [Half Asleep \(feat\. Peakboy, hiko\)](https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM) | [Playground](https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej) | 3:25 | 2024-04-30 | 2024-06-17 |
 | [Hamba Kahle](https://open.spotify.com/track/314EYx2dRG3rTJWdATgmPW) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Re:5](https://open.spotify.com/album/0KJIqvPwmAu5tVzbYHhige) | 3:30 | 2025-10-21 | 2026-01-15 |
+| [HANA](https://open.spotify.com/track/4YPQaGKgOWTc16ImN17DA5) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [To: Hana](https://open.spotify.com/album/2DrgbIxldbp8Tb8hsuwZP9) | 5:02 | 2026-08-07 |  |
 | [Hanagae](https://open.spotify.com/track/4hnhipRrUg7yUCAqT9yvsR) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Hanagae](https://open.spotify.com/album/69ojcNwWWhvRkaTxxdFkGY) | 3:13 | 2021-12-12 | 2022-07-20 |
 | [Hand](https://open.spotify.com/track/6WbBMCJjrOzpur6T7czLrK) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Sanullim 50th Anniversary full length album, Vol\. 1](https://open.spotify.com/album/544JzJsgzf1hNIygvWN26P) | 3:51 | 2024-10-04 | 2024-10-16 |
 | [Hangang \(feat\. heyden\)](https://open.spotify.com/track/21YCFVm4CFHR6EjTh4T1Lh) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Hangang](https://open.spotify.com/album/0bPdAOUP9WXFrTcM9S8PMU) | 3:02 | 2025-07-23 | 2025-09-10 |
@@ -565,6 +567,7 @@
 | [Ice Dance](https://open.spotify.com/track/326DIiir3XRRgRpJinCls9) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Ice Dance](https://open.spotify.com/album/6Q2tJ19xmyWRZzlb9LypZC) | 3:47 | 2022-03-31 | 2022-06-01 |
 | [Idle Idle](https://open.spotify.com/track/17I6f6dlUmBQxHCBTWPBxT) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s) | 3:38 | 2021-12-21 | 2022-07-25 |
 | [IF](https://open.spotify.com/track/2cFHTpYafyQ6VpiHF80fd2) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Check Out the Event OST Part.2](https://open.spotify.com/album/3xYTqbkLQqCkmiWYPbuwWO) | 4:27 | 2022-04-12 | 2022-04-19 |
+| [if i’m with you](https://open.spotify.com/track/0r8x5ercAQKwRE4U85EZbE) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [if i’m with you](https://open.spotify.com/album/3AzI8LdP4LZ9wHRMqV3V2B) | 3:44 | 2026-08-07 |  |
 | [If You Ask Me](https://open.spotify.com/track/0jMjxod5Cu2IirSSBtTCVj) | [H a lot](https://open.spotify.com/artist/7y4bU9vQjZWOgfXAcVr0lj) | [H A Lot](https://open.spotify.com/album/37Fb9M3I9qJXQb2chzyRcd) | 5:00 | 2022-03-31 | 2022-04-13 |
 | [illusion](https://open.spotify.com/track/4XCAlLo7g42LPo75r5NCp5) | [H3ATHR SUN](https://open.spotify.com/artist/2pAWdjODAxk0MZPrmJEC3k) | [illusion](https://open.spotify.com/album/2ILzQn5owgy1T1RKRuHxGV) | 3:28 | 2024-11-06 | 2024-11-12 |
 | [Imagination](https://open.spotify.com/track/3aTUQhNkuzXYdWXxa83NUc) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Imagination](https://open.spotify.com/album/7toBmiCOM1ZOZiXBHsUr3w) | 3:01 | 2025-01-22 | 2025-07-30 |
@@ -672,7 +675,7 @@
 | [Little I](https://open.spotify.com/track/2AKCk3WnpK5nidRfD5fQSE) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Little I](https://open.spotify.com/album/3zQR7DxfY3i7hy7Z9uhNOk) | 3:15 | 2025-09-24 | 2025-11-03 |
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-08 | 2022-08-05 |
 | [Lone](https://open.spotify.com/track/1AF2rcwvxpkUCjicFY4dSd) | [evenif](https://open.spotify.com/artist/26sLRymbW9mmoW9g74o0AF) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 3:10 | 2025-01-30 | 2025-04-11 |
-| [Longtime Lovers](https://open.spotify.com/track/5tLxk8bnXhp5nIzENZnYb2) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [NEVER NEVER LAND](https://open.spotify.com/album/43IMYmpiKDrmE8ElTiSudS) | 3:49 | 2026-04-14 |  |
+| [Longtime Lovers](https://open.spotify.com/track/5tLxk8bnXhp5nIzENZnYb2) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [NEVER NEVER LAND](https://open.spotify.com/album/43IMYmpiKDrmE8ElTiSudS) | 3:49 | 2026-04-14 | 2026-08-07 |
 | [Look At Me Look At Me](https://open.spotify.com/track/5t2XHhWwKqgE3ZRmj8vVJ7) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Lesser Gods And Chimeras](https://open.spotify.com/album/7Gb4evIU7fNgPd3Gp7tXaC) | 3:24 | 2024-11-06 | 2024-11-21 |
 | [Look at us falling](https://open.spotify.com/track/50hwSapyIoaGiqfQSR9ocj) | [2danji](https://open.spotify.com/artist/3eAafmKFLEYAq6y9ZrWXtS) | [a public walk](https://open.spotify.com/album/1PEy98fZ5FmI2R71CCK2zt) | 1:09 | 2026-01-27 | 2026-02-24 |
 | [Loser \(with LEE DO of ONEUS\)](https://open.spotify.com/track/1bBuZZJacnkfvPQoQznjZk) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [LEE DO of ONEUS](https://open.spotify.com/artist/39r6KaYmPsgtidLS2YItV1) | [Loser, Game Over, You're the Champion](https://open.spotify.com/album/4G7tZZIl0gis3TVcYSips2) | 3:27 | 2025-01-30 | 2025-04-11 |

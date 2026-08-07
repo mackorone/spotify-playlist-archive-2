@@ -1,15 +1,135 @@
 {
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: M\u00d6RDA",
-  "num_followers": 10391,
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Elaine",
+  "num_followers": 10464,
   "original_name": "Afro House Pulse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABYye3em4doF8iPYlia3bqfyRD5Q",
+  "snapshot_id": "AAAAABmVXv5P7/lHyCA9NQsM60BgtFS5",
   "tracks": [
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
+      "album": {
+        "name": "Pole Sana",
+        "url": "https://open.spotify.com/album/1jdefKTU8madCwGhkN4fnD"
+      },
+      "artists": [
+        {
+          "name": "Samuel Cosmic",
+          "url": "https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao"
+        },
+        {
+          "name": "Winyo",
+          "url": "https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C"
+        },
+        {
+          "name": "BHANA",
+          "url": "https://open.spotify.com/artist/6mmLhRba8k5IWJD8HqJMTS"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Pole Sana",
+      "url": "https://open.spotify.com/track/1lAHfT47pOuBEF0N3Wzk1Q"
+    },
+    {
+      "added_at": "2026-08-06 22:00:58",
+      "album": {
+        "name": "MOTION",
+        "url": "https://open.spotify.com/album/4RoiGwm8XDMMNTrYqIV3Q4"
+      },
+      "artists": [
+        {
+          "name": "Palm Brothers",
+          "url": "https://open.spotify.com/artist/3UZp3SJMqLmvdbYXv2vYoq"
+        },
+        {
+          "name": "Am\u00e8",
+          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
+        },
+        {
+          "name": "PACHE",
+          "url": "https://open.spotify.com/artist/0kstGkLZL1WToK99rZmVQM"
+        },
+        {
+          "name": "Feel On Eel",
+          "url": "https://open.spotify.com/artist/2QfgJI9B4SE5PKdQfOIjjL"
+        }
+      ],
+      "duration_ms": 132250,
+      "name": "MOTION",
+      "url": "https://open.spotify.com/track/1eqmsKOw0XVBb33lywCRFw"
+    },
+    {
+      "added_at": "2026-08-06 22:00:58",
+      "album": {
+        "name": "Fitii",
+        "url": "https://open.spotify.com/album/3MOUUZ8rKxSdSGf2kVpDtk"
+      },
+      "artists": [
+        {
+          "name": "WALTHER",
+          "url": "https://open.spotify.com/artist/4ubJTb2psOOKpUmglNcrFN"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "duration_ms": 406912,
+      "name": "Fitii",
+      "url": "https://open.spotify.com/track/1eX7eRXViPUGipimCDs3wc"
+    },
+    {
+      "added_at": "2026-08-06 22:00:58",
+      "album": {
+        "name": "Bittersweet Memories",
+        "url": "https://open.spotify.com/album/1WicCGlvtgEtIRRETMkdOq"
+      },
+      "artists": [
+        {
+          "name": "ofen",
+          "url": "https://open.spotify.com/artist/2poK3O5RNozifvCICkWZG9"
+        },
+        {
+          "name": "CHUMA",
+          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "Bittersweet Memories",
+      "url": "https://open.spotify.com/track/6rRNr6g4UwF4gPnajJsvLT"
+    },
+    {
+      "added_at": "2026-08-06 22:00:58",
+      "album": {
+        "name": "One More Dance (feat. Mpho.wav & Atmos Blaq)",
+        "url": "https://open.spotify.com/album/1PHQDMFXdvbzZ2lXnvwZ81"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "One More Dance (feat. Mpho.wav & Atmos Blaq)",
+      "url": "https://open.spotify.com/track/13WESMIfueri5XdNagRGBg"
+    },
+    {
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Tiki Tiki 2.0",
         "url": "https://open.spotify.com/album/0R31RyLvvn97ugRSbOZuRJ"
@@ -37,7 +157,7 @@
       "url": "https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Asante IV",
         "url": "https://open.spotify.com/album/39ehR7VQOM2NKJFJUC1duY"
@@ -57,7 +177,7 @@
       "url": "https://open.spotify.com/track/2qMzjzammwsmi3uj6ghVYX"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Go Around (Mpho.Wav Remix)",
         "url": "https://open.spotify.com/album/2zIHooqUfOD2tv5H6cgaGM"
@@ -77,7 +197,27 @@
       "url": "https://open.spotify.com/track/7M8AxNEbOl9kv5mIPlZcNF"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
+      "album": {
+        "name": "YELE",
+        "url": "https://open.spotify.com/album/6YAcuaZ4lkpoqnDAeBmWZ8"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        }
+      ],
+      "duration_ms": 230550,
+      "name": "YELE",
+      "url": "https://open.spotify.com/track/1J8bQco6ywLX4RcstnqZEx"
+    },
+    {
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Mayawa",
         "url": "https://open.spotify.com/album/3IoHoe8bLPG0KUeOU5iwUR"
@@ -97,7 +237,7 @@
       "url": "https://open.spotify.com/track/4vHm6K2I6xNuzRbLB9956w"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "2 This",
         "url": "https://open.spotify.com/album/39YiPEbLFmOgliiXBJ63zi"
@@ -129,7 +269,27 @@
       "url": "https://open.spotify.com/track/2KRkXR3I8mHGeQjZYALfHK"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
+      "album": {
+        "name": "An Be Se",
+        "url": "https://open.spotify.com/album/1Z3eLBjnl4smn4sYJx4b8L"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Santiago Garcia",
+          "url": "https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS"
+        }
+      ],
+      "duration_ms": 179604,
+      "name": "An Be Se",
+      "url": "https://open.spotify.com/track/3yqQxlCnAvZAm35lrfQH9H"
+    },
+    {
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Yang'Bhampela (feat. Zee Nxumalo)",
         "url": "https://open.spotify.com/album/5oP4AAJPcuXKyrrOdwvKof"
@@ -149,7 +309,7 @@
       "url": "https://open.spotify.com/track/6kXy6Uij3LJO7QnNhOdy9I"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "SAWA",
         "url": "https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5"
@@ -169,7 +329,7 @@
       "url": "https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Lakay (Home)",
         "url": "https://open.spotify.com/album/439ClApLEIIK9xTm32aS0d"
@@ -189,7 +349,7 @@
       "url": "https://open.spotify.com/track/5Q4AIvjuZZojCAWiLKJ5Sn"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Better Wait",
         "url": "https://open.spotify.com/album/5Up6JD7aMmxOrMnjibpTjG"
@@ -209,7 +369,7 @@
       "url": "https://open.spotify.com/track/47ytW7FVxOdDbA4BkUrxUa"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Stumble",
         "url": "https://open.spotify.com/album/68QKrFE3Yfi5nxPjwNoAVU"
@@ -229,7 +389,7 @@
       "url": "https://open.spotify.com/track/14TGG1rBUUBFJTK0wK971H"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Secrets of the WRLD",
         "url": "https://open.spotify.com/album/0Lh96OK9UoR8pDDzeBsuzI"
@@ -249,7 +409,7 @@
       "url": "https://open.spotify.com/track/0F7VIl2pS58IFwFTwenXc3"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Hamba Nawe",
         "url": "https://open.spotify.com/album/7720b71R3tldNOQDtxI2B9"
@@ -269,7 +429,7 @@
       "url": "https://open.spotify.com/track/2wehBHqjisx7V17lBLHGSZ"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Sunset In Pretoria",
         "url": "https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD"
@@ -289,7 +449,7 @@
       "url": "https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Ijoya",
         "url": "https://open.spotify.com/album/29khdSaqDrbAQIslKf2yyZ"
@@ -313,7 +473,7 @@
       "url": "https://open.spotify.com/track/0H4vIiZP7hr4SneIFVJTNc"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/7f9MnZmMoi48gXKG1aj2ct"
@@ -337,7 +497,7 @@
       "url": "https://open.spotify.com/track/5uzwVxFxINbWYG0tqBKqXo"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "MMMCXII",
         "url": "https://open.spotify.com/album/3MGrxXwAivRhHt7BdVb5Z5"
@@ -357,7 +517,7 @@
       "url": "https://open.spotify.com/track/7qDnZtMk1yjQFkLaollEhQ"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Thando Yini (feat. MSA, Sami Kay & Ze2)",
         "url": "https://open.spotify.com/album/5jnyvBq1s4Iy0bMaNGo0Nf"
@@ -393,7 +553,7 @@
       "url": "https://open.spotify.com/track/1dIpI1o79ytxZ79WpgEqOb"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "The Road Before You",
         "url": "https://open.spotify.com/album/7stxae1ApXmRDNfXuYpMLO"
@@ -409,7 +569,7 @@
       "url": "https://open.spotify.com/track/3atKTgUQQqg3qb61mXxksS"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Come To Me (My Love)",
         "url": "https://open.spotify.com/album/2YkSQ0CGMyrvt4MLNg8N1M"
@@ -433,7 +593,7 @@
       "url": "https://open.spotify.com/track/1ZCRAO91HC9X8d4WloR59a"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/1pgnVo1I3oh6EjBdOJjgI5"
@@ -457,7 +617,7 @@
       "url": "https://open.spotify.com/track/7dfiOtJr96c3VGUI0JdnJE"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "INtombi Entsha (feat. Essa Kay, Mnqobi Yazo & Mpumi)",
         "url": "https://open.spotify.com/album/6ig0oDi8TK85VmuNuQYXKJ"
@@ -485,7 +645,7 @@
       "url": "https://open.spotify.com/track/7CI6r9oceCzafniw8Yq739"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "when the party's over",
         "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
@@ -505,7 +665,7 @@
       "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "The Gospel Vol.1",
         "url": "https://open.spotify.com/album/4CcFnIA7S27UVeKPfjnFDe"
@@ -521,7 +681,7 @@
       "url": "https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Heritage Series - Re Imagine By Oskido (Pierre Johnson & Simeon Remix)",
         "url": "https://open.spotify.com/album/4gECs8kjqn8IOM4K2Aes1f"
@@ -549,7 +709,7 @@
       "url": "https://open.spotify.com/track/06rm6WlPfObXEVWR3e0vF9"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/0edtlQTIC4ASTx7fUrXeqt"
@@ -565,7 +725,7 @@
       "url": "https://open.spotify.com/track/0PbjL16GqsdVfQzYbjodnW"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Le Royal",
         "url": "https://open.spotify.com/album/64qjm8LJ6lMBF5Sm0vILrS"
@@ -585,7 +745,7 @@
       "url": "https://open.spotify.com/track/1h0uxbGd0vEwFzu80A3ufy"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Elumelu",
         "url": "https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg"
@@ -601,7 +761,7 @@
       "url": "https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "The Drum",
         "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
@@ -621,7 +781,7 @@
       "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Rundo Wiya (Reconstructed)",
         "url": "https://open.spotify.com/album/0xJLIU6EpHAoG1yKwaHSf6"
@@ -641,7 +801,7 @@
       "url": "https://open.spotify.com/track/4YDZHuMG5Tee1EJudOrbh6"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Izinja Zam: Vol. I",
         "url": "https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH"
@@ -669,7 +829,7 @@
       "url": "https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Sikelela",
         "url": "https://open.spotify.com/album/0hXOBdWFdGyrScS3Ea4FzF"
@@ -685,7 +845,7 @@
       "url": "https://open.spotify.com/track/7deG3pJ8Gn6Kfo2VjR66Fa"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "uHambo The Journey",
         "url": "https://open.spotify.com/album/7wDJ8IQYaZ48vuZehdjOUB"
@@ -705,7 +865,7 @@
       "url": "https://open.spotify.com/track/0Fj98mq9rhN3jkLt59VySN"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Winter 2026 (DJ Mix)",
         "url": "https://open.spotify.com/album/3ZrJDjTJDIPeBjQns0E8s7"
@@ -733,7 +893,7 @@
       "url": "https://open.spotify.com/track/6lNWdI0Rfx7KYFcTZXmcVk"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Ama Cup (feat. Thukuthela)",
         "url": "https://open.spotify.com/album/7bRfCC6oOk0v8WQjhs4hD8"
@@ -761,7 +921,7 @@
       "url": "https://open.spotify.com/track/7LUGphbGEbXJKbLuREzocI"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Four Women (DESIREE Remix)",
         "url": "https://open.spotify.com/album/0eHZsn0A8VZXHJ0vRf4hLe"
@@ -781,7 +941,7 @@
       "url": "https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "A.I.E.",
         "url": "https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g"
@@ -801,7 +961,7 @@
       "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Izinto Ziman Ukwenzeka (Remixes)",
         "url": "https://open.spotify.com/album/3vFfvEkw9xTgymK7SmQRlV"
@@ -833,7 +993,7 @@
       "url": "https://open.spotify.com/track/51kkLP3QovuMb6yQCm3VK9"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Pagoni",
         "url": "https://open.spotify.com/album/7lyPJ2qqgUZi5LeS2TyW9I"
@@ -853,7 +1013,7 @@
       "url": "https://open.spotify.com/track/60aSEPwoUk5jzcFYgcZ1mS"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Angel Whispers",
         "url": "https://open.spotify.com/album/2Nf2tYF0TZgOSz9C9DpkVd"
@@ -881,7 +1041,7 @@
       "url": "https://open.spotify.com/track/0Gm3BnC8qh8DqoowbdazrL"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Ngiphuma Khona (feat. Cnethemba Gonelo & Frank Mabeat)",
         "url": "https://open.spotify.com/album/4GsbcohSWwigqQpMtqavZ7"
@@ -909,7 +1069,7 @@
       "url": "https://open.spotify.com/track/0C9tlyhcLJtbC1sdFfVRkc"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/5DLdcrZst7mOZJjjBpw0RK"
@@ -929,7 +1089,7 @@
       "url": "https://open.spotify.com/track/3quyMFpRl6Me3xdhFAnePR"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Desert Rose (Reimagined)",
         "url": "https://open.spotify.com/album/6xKAtFQb75Q5eK3dwgVBy5"
@@ -953,7 +1113,7 @@
       "url": "https://open.spotify.com/track/3CyoDLCftJcWri0FKjQ4oT"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Yuapi ?",
         "url": "https://open.spotify.com/album/6WCBXaK8YMq9HUMd883Ct1"
@@ -977,7 +1137,7 @@
       "url": "https://open.spotify.com/track/4Cfj16a3sv3Q5CYBkgufvD"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Halala",
         "url": "https://open.spotify.com/album/7qZKlqtzoB3qJ7aC2x7n6F"
@@ -1005,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5QNp6b2qsOo1EGHwMi1q0A"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Little Wonder",
         "url": "https://open.spotify.com/album/0yabTK8SYmRDrnf6IbXKJb"
@@ -1025,7 +1185,7 @@
       "url": "https://open.spotify.com/track/6kWfYsZq6tdNcSAJE4MfTv"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Njururi",
         "url": "https://open.spotify.com/album/59vwhG5i2FYnbcncmdXXfL"
@@ -1045,7 +1205,7 @@
       "url": "https://open.spotify.com/track/7tuyoCLrqLDKBWq1Wdxsge"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Bloom (re-imagined)",
         "url": "https://open.spotify.com/album/2LfRcEIXXWYAfy2Qn50FRH"
@@ -1065,7 +1225,7 @@
       "url": "https://open.spotify.com/track/6jT46sVx9YP1tPI1SYONhk"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Mean 2 Me",
         "url": "https://open.spotify.com/album/0npUtWGx1oEk4AXLoNvhKm"
@@ -1089,7 +1249,7 @@
       "url": "https://open.spotify.com/track/6IMJPS60S4PuO4dsyGSaDc"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Tales Of Our Ancestors",
         "url": "https://open.spotify.com/album/4nFjY0G6SFJoIUPzwU1kKO"
@@ -1113,7 +1273,7 @@
       "url": "https://open.spotify.com/track/3a9ZGaLVIcqFdzUAhHprSl"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "Haaa!",
         "url": "https://open.spotify.com/album/56Jk2FHFPWt6qmpFTBn9Ga"
@@ -1129,7 +1289,7 @@
       "url": "https://open.spotify.com/track/6da4dCRFfrq1JdW2GCppbY"
     },
     {
-      "added_at": "2026-07-30 22:02:00",
+      "added_at": "2026-08-06 22:00:58",
       "album": {
         "name": "INA",
         "url": "https://open.spotify.com/album/2rnsD7AJpoaGzAXA3Tlxup"
@@ -1151,74 +1311,6 @@
       "duration_ms": 280320,
       "name": "INA",
       "url": "https://open.spotify.com/track/5sxh7pOe531ahryxk56JO4"
-    },
-    {
-      "added_at": "2026-07-30 22:02:00",
-      "album": {
-        "name": "Igama",
-        "url": "https://open.spotify.com/album/62jQvCMTQX0uxrGTLfgFpn"
-      },
-      "artists": [
-        {
-          "name": "Jst Sako",
-          "url": "https://open.spotify.com/artist/7bAt7MYd2N3dRMrXVMvOug"
-        },
-        {
-          "name": "Shaik Omar",
-          "url": "https://open.spotify.com/artist/6uyYHSi3xlCzb4222Ywd7p"
-        }
-      ],
-      "duration_ms": 276610,
-      "name": "Igama",
-      "url": "https://open.spotify.com/track/3Sxg7ka3C8vm0freRis9Ef"
-    },
-    {
-      "added_at": "2026-07-30 22:02:00",
-      "album": {
-        "name": "Indaba",
-        "url": "https://open.spotify.com/album/6qLUF4L79cBhOCp4Ra45iB"
-      },
-      "artists": [
-        {
-          "name": "Aaron Sevilla",
-          "url": "https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX"
-        },
-        {
-          "name": "KIDY",
-          "url": "https://open.spotify.com/artist/7s9XRGrooghpH9SY5QXrtG"
-        },
-        {
-          "name": "Lizwi",
-          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Indaba",
-      "url": "https://open.spotify.com/track/3LwvoMmNLi6MSYnAgbEJdH"
-    },
-    {
-      "added_at": "2026-07-30 22:02:00",
-      "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/4Edvs9Ts45AaIi9RyJI41j"
-      },
-      "artists": [
-        {
-          "name": "Joezi",
-          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
-        },
-        {
-          "name": "Tayllor",
-          "url": "https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD"
-        },
-        {
-          "name": "Mr. V",
-          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
-        }
-      ],
-      "duration_ms": 156097,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/0sfXBVmMupngHnNW1hsuFj"
     }
   ],
   "unique_name": "Afro House Pulse",

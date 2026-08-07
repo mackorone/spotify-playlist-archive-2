@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Asim Azhar",
+  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Atif Aslam",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -350,6 +350,24 @@
       "duration_ms": 213818,
       "name": "About You",
       "url": "https://open.spotify.com/track/1xz6X3PwE36t89m1vFZLnT"
+    },
+    {
+      "album": {
+        "name": "Dil Kay Parday",
+        "url": "https://open.spotify.com/album/6Rkvu58QdigXXFQjLmIGG2"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170766,
+      "name": "Adakaari",
+      "url": "https://open.spotify.com/track/1HnA4vsegszytuVNzR091g"
     },
     {
       "album": {
@@ -742,7 +760,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 202916,
       "name": "Baat (From \"Meem Se Mohabbat\")",
       "url": "https://open.spotify.com/track/4yQQJ9Tj3DDYG3zgHhEgtq"
@@ -2232,7 +2250,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Guzaarishein (From \"Parwarish\") - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/1kKnxDBA03jTlAuZvkIB8r"
@@ -2400,7 +2418,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "Heer",
       "url": "https://open.spotify.com/track/4AyKPZ1b7lUlsAOb3aG6tC"
@@ -2499,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Hoor",
+        "url": "https://open.spotify.com/album/5bXnPJlYCuUK5JngUgRx3h"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210337,
+      "name": "Hoor",
+      "url": "https://open.spotify.com/track/2tmlxsN78o0hR1CXuKhBpT"
+    },
+    {
+      "album": {
         "name": "Hum",
         "url": "https://open.spotify.com/album/7idG3a5Nmotd02hA6ifD0f"
       },
@@ -2532,6 +2568,24 @@
       "duration_ms": 381848,
       "name": "Humsafar",
       "url": "https://open.spotify.com/track/3gBwuyMuSVK9ubjEhoNooA"
+    },
+    {
+      "album": {
+        "name": "Subah Aye Na",
+        "url": "https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348961,
+      "name": "Hun Ishq Main",
+      "url": "https://open.spotify.com/track/5tHkXCQ2abWE8TSPFZiNmU"
     },
     {
       "album": {
@@ -2608,6 +2662,24 @@
       "duration_ms": 258857,
       "name": "Ik Lamha",
       "url": "https://open.spotify.com/track/70MVLulHguwdhGo7100hsU"
+    },
+    {
+      "album": {
+        "name": "Intezaar",
+        "url": "https://open.spotify.com/album/0eafLtYyDaloqX2vktl5oJ"
+      },
+      "artists": [
+        {
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265714,
+      "name": "Intezaar",
+      "url": "https://open.spotify.com/track/1EJMwlHjK0tI0kEwyjoDRo"
     },
     {
       "album": {
@@ -3252,7 +3324,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 194482,
       "name": "Kanwal",
       "url": "https://open.spotify.com/track/1ZriJmDC61hn2z2eajgooI"
@@ -3288,7 +3360,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 195555,
       "name": "Karde Karam Tu (From \"Parwarish\")",
       "url": "https://open.spotify.com/track/6VOwPPenagLmIJ679Nx2ZS"
@@ -3486,6 +3558,28 @@
       "duration_ms": 204739,
       "name": "Khoj",
       "url": "https://open.spotify.com/track/28ww41eaOktVQgXZY4WA9C"
+    },
+    {
+      "album": {
+        "name": "Dil Kay Parday",
+        "url": "https://open.spotify.com/album/6Rkvu58QdigXXFQjLmIGG2"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Shehryar Khan",
+          "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204739,
+      "name": "Khoj",
+      "url": "https://open.spotify.com/track/7Axnt0Y2j5eu31pkI84HmY"
     },
     {
       "album": {
@@ -4002,7 +4096,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 205727,
       "name": "Main Rahun (From \"Parwarish\") [Original Motion Picture Soundtrack]",
       "url": "https://open.spotify.com/track/0REdqbK0A99eKrYF66zSDO"
@@ -4244,6 +4338,32 @@
       "duration_ms": 158333,
       "name": "Memories",
       "url": "https://open.spotify.com/track/0XtNMC1jG97ysiIvcAQDGN"
+    },
+    {
+      "album": {
+        "name": "Dil Kay Parday",
+        "url": "https://open.spotify.com/album/6Rkvu58QdigXXFQjLmIGG2"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Justin Bibis",
+          "url": "https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5"
+        },
+        {
+          "name": "Shehryar Khan",
+          "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/1l5efXBDhsaUNjIg22Wp3o"
     },
     {
       "album": {
@@ -4522,6 +4642,32 @@
       "duration_ms": 285957,
       "name": "Na Milay",
       "url": "https://open.spotify.com/track/3scQvCTpXolMZfuvuUXlv5"
+    },
+    {
+      "album": {
+        "name": "Naazni",
+        "url": "https://open.spotify.com/album/0HWaoplF0LAs4ciF5lPBBT"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Naazni",
+      "url": "https://open.spotify.com/track/6m5sG6iWIfnO5o9RG20xhu"
     },
     {
       "album": {
@@ -5107,6 +5253,24 @@
     },
     {
       "album": {
+        "name": "Pyaar Mein",
+        "url": "https://open.spotify.com/album/73LzbMdjxsCA3ItV7KtHYo"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Pyaar Mein",
+      "url": "https://open.spotify.com/track/0ZGfGStyu8s02fzpmmOF2l"
+    },
+    {
+      "album": {
         "name": "Qurbaniyan (Orignal Soundtrack from Dekh Zara Pyar Se)",
         "url": "https://open.spotify.com/album/0DIXsrFbfilk0FCGCZ7IyP"
       },
@@ -5316,6 +5480,32 @@
     {
       "album": {
         "name": "REGRETS/PROMISES",
+        "url": "https://open.spotify.com/album/2ZUI4Hf6oCRggTUuZgiW9a"
+      },
+      "artists": [
+        {
+          "name": "Jevin Gill",
+          "url": "https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242823,
+      "name": "REGRETS",
+      "url": "https://open.spotify.com/track/5eX5btFBsv5x6Z3ZHflgaN"
+    },
+    {
+      "album": {
+        "name": "REGRETS/PROMISES",
         "url": "https://open.spotify.com/album/5u6i5eWsGiTk325putsGZp"
       },
       "artists": [
@@ -5425,6 +5615,28 @@
     },
     {
       "album": {
+        "name": "ROOP",
+        "url": "https://open.spotify.com/album/2vVglxPoT71Mo1agJ94Bjk"
+      },
+      "artists": [
+        {
+          "name": "NAYEL",
+          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152445,
+      "name": "ROOP",
+      "url": "https://open.spotify.com/track/5RPcB8A86WxhSIFIhpJZKV"
+    },
+    {
+      "album": {
         "name": "Roshni",
         "url": "https://open.spotify.com/album/4MMcwveAu8nkkq7IeSzpMS"
       },
@@ -5466,6 +5678,24 @@
       "duration_ms": 172800,
       "name": "Rung",
       "url": "https://open.spotify.com/track/6ProxDWSLnmYbmvSIRElWy"
+    },
+    {
+      "album": {
+        "name": "Saamnay",
+        "url": "https://open.spotify.com/album/5OcSH00bOVFQj4XYdsFwnA"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "Saamnay",
+      "url": "https://open.spotify.com/track/2A8b65AmkmmxWn2aefltbB"
     },
     {
       "album": {
@@ -5568,7 +5798,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 253150,
       "name": "Sajna da Dil Torya",
       "url": "https://open.spotify.com/track/05Xd5LJpv6cKDUavCg2EWh"
@@ -5894,6 +6124,24 @@
       "duration_ms": 196932,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/6FqF5CMHIMreHf11oZJSZo"
+    },
+    {
+      "album": {
+        "name": "Subah Aye Na",
+        "url": "https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323368,
+      "name": "Subah Aye",
+      "url": "https://open.spotify.com/track/1bzcZBmmoCi415Tk7Hldyt"
     },
     {
       "album": {
@@ -6650,6 +6898,28 @@
       "duration_ms": 245538,
       "name": "WASTED",
       "url": "https://open.spotify.com/track/2KtIu2BonbDSi3tZKDxePU"
+    },
+    {
+      "album": {
+        "name": "WHERE R U",
+        "url": "https://open.spotify.com/album/0LvPT3BxK0v7hCkzHsnp5K"
+      },
+      "artists": [
+        {
+          "name": "Alistair Alvin",
+          "url": "https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221935,
+      "name": "WHERE R U",
+      "url": "https://open.spotify.com/track/15vcBRyEkUZkH8xpGs35xe"
     },
     {
       "album": {

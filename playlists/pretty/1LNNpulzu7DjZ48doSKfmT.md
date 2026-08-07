@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 472 likes - 323 songs - 16 hr 41 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 474 likes - 350 songs - 18 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -331,5 +331,32 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 321 | [Hold My Hand](https://open.spotify.com/track/12VSW6g7JGpkO6CR6AFrVl) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Hold My Hand](https://open.spotify.com/album/2JFtbXlykWQ0fU0JmnNlFH) | 3:36 |
 | 322 | [New life \- Radio Edit](https://open.spotify.com/track/4rjl4eK7VWx4UgfyZvGi9F) | [Apollo Brage](https://open.spotify.com/artist/7kyzXHi8VvhYTdIUOVBF3P), [Josoham](https://open.spotify.com/artist/1GS3MS1DtL4H3X6VO8VjrR) | [New life](https://open.spotify.com/album/5hUgDUCq2Q44rdQevAo7Ij) | 2:19 |
 | 323 | [HOLD ON](https://open.spotify.com/track/3DGVTLFReO8QqDXWALIUSP) | [AMVERZE](https://open.spotify.com/artist/4yzvh5QMdA3GOxBlnRhAc5) | [HOLD ON](https://open.spotify.com/album/5IcrA2qfALrJmga7QWz4PO) | 2:59 |
+| 324 | [Going Up](https://open.spotify.com/track/0MGwk2zflN4hsh2Kg87t7e) | [J.naZ](https://open.spotify.com/artist/4of3K5NojM7U39X97u6dj9), [Sid Severino](https://open.spotify.com/artist/6coP1aOT3tEsfwbIjGRRB7) | [Going Up](https://open.spotify.com/album/1DbiCNWBDYPvjbsJ9hcBTP) | 3:05 |
+| 325 | [Présage](https://open.spotify.com/track/2KtbT1m7e2drU1p1PMlePR) | [Elcoz](https://open.spotify.com/artist/2u9WlVGeviYXltf6rEvLBU) | [Présage](https://open.spotify.com/album/3i5WMf9lJBdGaXYUdRJ9Ak) | 3:07 |
+| 326 | [Günaydın](https://open.spotify.com/track/43XFvLMFJF0JcKYFMOnoHH) | [CEMRE YEŞİLYURT](https://open.spotify.com/artist/1PBDNmvdiPk30VgEumFudb) | [Günaydın](https://open.spotify.com/album/5zolgzmFqiMcuJfuNm9v6O) | 4:56 |
+| 327 | [EyR](https://open.spotify.com/track/6mbQVhz6HBMY5WRNDqxWld) | [EyR](https://open.spotify.com/artist/6rvOrLE2E3eJZLyfJLUw6Y), [Luisvu Tsc](https://open.spotify.com/artist/2UxqQ1rz9mWmKvjYr0U14b) | [EyR](https://open.spotify.com/album/25CdUErZaNj8CtnRhxZKgV) | 3:51 |
+| 328 | [Out of Love](https://open.spotify.com/track/1lOmZOmTOMEHCDMeLjWonq) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd) | [Out of Love](https://open.spotify.com/album/0SPQ2rU3A1caU3TZEGakAq) | 4:04 |
+| 329 | [Da te ljubim](https://open.spotify.com/track/6oymHkX0YjjNldHo6lob0E) | [Gino Marino](https://open.spotify.com/artist/6HutMDzXtV9w64kRCSYASn) | [Da te ljubim](https://open.spotify.com/album/6IlFDlivp0OOkHww0lBRaL) | 3:23 |
+| 330 | [Same Doors](https://open.spotify.com/track/3dzIOi6hf6INvRuaJJE9bK) | [YK KYPHO](https://open.spotify.com/artist/76wuAPWBxPtjkEItuWQ9xH), [Kid Vilho](https://open.spotify.com/artist/3wP4wLLGxfYaj4dSWkO1eR) | [Dystopia](https://open.spotify.com/album/7a9Y8otyjqsa6cbgNoTBxx) | 2:14 |
+| 331 | [La calle de la alegría](https://open.spotify.com/track/37LUExe8QBouKJhLAyeuTt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [La calle de la alegría](https://open.spotify.com/album/4WaspnySUvKQXHtGrnjIom) | 3:39 |
+| 332 | [TAHOES](https://open.spotify.com/track/4dB38ipVzyZxbb8m7wSJqy) | [Joshua Baker](https://open.spotify.com/artist/4F4U6Pnv7Af4ghWPtVMvQg) | [TAHOES](https://open.spotify.com/album/3JMum8Bvtudb6wg4jKkXbZ) | 2:21 |
+| 333 | [Oklahoma](https://open.spotify.com/track/1z237CMxGJ6eZJj8paJS6u) | [Steve](https://open.spotify.com/artist/4mLTfwIB2cWcP8Jy9sD4QC) | [Oklahoma](https://open.spotify.com/album/6hdStfuF4G9I2EEXajcikv) | 2:33 |
+| 334 | [J'tourne en rond](https://open.spotify.com/track/1VuMs51cMf2KSJgVtTLVNa) | [Taliy](https://open.spotify.com/artist/2C0rVrqAmZ5ON3lRnA6uwP) | [J'tourne en rond](https://open.spotify.com/album/5Ik0hUqJRodeAGI54xukPL) | 3:47 |
+| 335 | [HUMANO1D 404 \- 持國天 \(The Entropy Engine\)](https://open.spotify.com/track/7wG5Y35FNJEEbwnzssvD2S) | [Bitinjuice](https://open.spotify.com/artist/4veA8ooxCynllqgHq33XNA), [Tempiinversi](https://open.spotify.com/artist/1kiGBBb4DAJLzyj2SIqWMr) | [HUMANO1D 404 \- 持國天 \(The Entropy Engine\)](https://open.spotify.com/album/69VXKZaN3Rx1biodaY9bjR) | 4:09 |
+| 336 | [Mission on a Move](https://open.spotify.com/track/75Aui6yyKCYX9JhnqVSm5S) | [HXN](https://open.spotify.com/artist/7tJX5rskc8orHwU1Zx1aWZ) | [Sub\-Level](https://open.spotify.com/album/6dHO7raGffFCFlOHLbJtUd) | 3:45 |
+| 337 | [Somos uno](https://open.spotify.com/track/4NCjymuKLkM4T20L20Fr99) | [Broke Chain](https://open.spotify.com/artist/6qIkQukHyKGHIw9NCjqrlj) | [Somos uno](https://open.spotify.com/album/020SRlGrGH4n9U1ari3bUS) | 3:13 |
+| 338 | [Те, що я люблю](https://open.spotify.com/track/1huOrpKupXu1KDBe9Wq5Ot) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [Те, що я люблю](https://open.spotify.com/album/6sUYSApXZgF2KjzlLbJ7ps) | 2:31 |
+| 339 | [We Could Be High](https://open.spotify.com/track/6gLj6jOhW0AMw6XgTFRD9e) | [Scott Baker Graham](https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA) | [Cinématique](https://open.spotify.com/album/0f9ren18rHTQHhdqICZ9fW) | 3:02 |
+| 340 | [Madrugada](https://open.spotify.com/track/1rFssFe8elcJ1L0J2iVeu3) | [RD'RUA](https://open.spotify.com/artist/3OXf6n1Ia1Lrx41WQBr1A4) | [Madrugada](https://open.spotify.com/album/3Rsx1e6cJLYEFVVjnoz3ad) | 2:28 |
+| 341 | [Jeda](https://open.spotify.com/track/42Z4r7nU0ybiUUrU129gc3) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Hanya Harapan](https://open.spotify.com/album/1NMwn4G89U9mh2wBBz3paS) | 5:06 |
+| 342 | [Hampir Saja](https://open.spotify.com/track/402MPYl6n9BtEVH8xvjro6) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Hampir Saja](https://open.spotify.com/album/0KTMY3iGT5MDmK35lWJdph) | 3:23 |
+| 343 | [410!](https://open.spotify.com/track/3jZ5udoUrDa0zdlCBJ9gUh) | [XEEK!](https://open.spotify.com/artist/5SnSFsmWdRSFFImA1l4xt6) | [XEEK!](https://open.spotify.com/album/6dlREBSEVY5ZsGQXWRuhni) | 2:02 |
+| 344 | [Laa laa](https://open.spotify.com/track/293THyvUQqkoo4uhFvd8XA) | [Macchiateria](https://open.spotify.com/artist/3mVNgtmLiNZKwEXZXePH1f), [Bone Beatz](https://open.spotify.com/artist/4ZkMdPZDEmYCQswxnf4Y4g), [Isa G](https://open.spotify.com/artist/2dGQlNsgOf5n1hzyL3lPIv) | [Laa laa](https://open.spotify.com/album/1NA534PWOsg7bbmJFrfUAR) | 3:10 |
+| 345 | [Viva lá vibe](https://open.spotify.com/track/4wM21tYDUoKi85vcVsJkzI) | [mpdatorre](https://open.spotify.com/artist/2KK5BMlHAxC0IQYhmRBPsO) | [Viva lá vibe](https://open.spotify.com/album/0mndDTKBydnu72jTaRPcYl) | 2:36 |
+| 346 | [SMOKE OVER MOSCOW](https://open.spotify.com/track/4LNi6coo9QS2kloNkMKC8X) | [dadamoog](https://open.spotify.com/artist/27aDpUtBUYcfdjeLxb4LTl) | [SMOKE OVER MOSCOW](https://open.spotify.com/album/7LidioOAkXjpmVYEPpcb2h) | 5:34 |
+| 347 | [Overtime on My Mind](https://open.spotify.com/track/1Vks54krVhL9fpCuUUR49C) | [Gravy On Gold](https://open.spotify.com/artist/1Y0MbPi8rYpi9Pqixvoe2e) | [Overtime on My Mind](https://open.spotify.com/album/3WBJ9hAU058zEOtwNXHR0L) | 1:58 |
+| 348 | [Senescence](https://open.spotify.com/track/64Zz7p1BrUH9hlsHfJK3qi) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Breakestine](https://open.spotify.com/artist/2rCvh2rrpCxd8mVD9seDNX) | [Senescence](https://open.spotify.com/album/6QtciNI2kObVgNjlOcqy9Q) | 2:13 |
+| 349 | [FUEGO Y MOTOR](https://open.spotify.com/track/7EdPeXsUJ3yy7ejpdgXeZD) | [Capotillo Freestyle](https://open.spotify.com/artist/1Zh8D2mb5oKdx4kudfbOlf) | [FUEGO Y MOTOR](https://open.spotify.com/album/2zzdH7Tb98W7RZ4gCQBHGI) | 2:48 |
+| 350 | [La timba la pongo yo](https://open.spotify.com/track/2MIb7sxR3zcLYJdFYLxaAS) | [Esney Morales](https://open.spotify.com/artist/1qTMcw6mJn18FhdmvhHDpH) | [La timba la pongo yo](https://open.spotify.com/album/15DFYO0nRzC4hfvAPlAG3g) | 3:05 |
 
-Snapshot ID: `AAAeXKxA86ePkQGkneNPeLTeFGGoiGSa`
+Snapshot ID: `AAAed2/87TWWc/FHYfwD6p4RfKXPUTsW`

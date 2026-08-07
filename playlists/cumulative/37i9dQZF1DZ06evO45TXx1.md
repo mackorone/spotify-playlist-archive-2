@@ -4,7 +4,7 @@
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-121 songs - 5 hr 52 min
+122 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 | 2023-12-30 | 2026-03-05 |
 | [Sexo Hot](https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Quase Pronta Mixtape](https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq) | 2:48 | 2025-07-12 |  |
 | [Sexto Sentido](https://open.spotify.com/track/34j5aln1VAyWwqqENvrPBS) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 1:44 | 2024-10-13 | 2025-11-15 |
+| [Sucessagem](https://open.spotify.com/track/41Ju0wSEJXmA8KGYygwifb) | [Mulambo](https://open.spotify.com/artist/0AVKo8nQspPrPLJ9obwrqu), [ykymani](https://open.spotify.com/artist/2ckSzsg1PTecGyFiHsoKNY), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Sucessagem](https://open.spotify.com/album/5PFd9qeZkm2U9DjHxWNb7F) | 2:27 | 2026-08-07 |  |
 | [Sucessagem](https://open.spotify.com/track/7FVuASz2nK214ll8EOXFdR) | [Mulambo](https://open.spotify.com/artist/0AVKo8nQspPrPLJ9obwrqu), [ykymani](https://open.spotify.com/artist/2ckSzsg1PTecGyFiHsoKNY), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Sucessagem](https://open.spotify.com/album/7GGL2eUFmJMsPGwIGGV9Ck) | 2:27 | 2026-05-14 | 2026-05-22 |
 | [Surtada](https://open.spotify.com/track/1HBFYs68ayggUWhgySCK7j) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Mc Jhonks](https://open.spotify.com/artist/2CGJLBZFsTvboRvWoH4bu5) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 2:44 | 2024-02-15 | 2026-03-18 |
 | [Surtada](https://open.spotify.com/track/6cQFVZockgtcQRzwp2vWlt) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Mc Jhonks](https://open.spotify.com/artist/2CGJLBZFsTvboRvWoH4bu5) | [44](https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna) | 2:44 | 2026-03-18 |  |
@@ -127,7 +128,7 @@
 | [Áudio Proibido](https://open.spotify.com/track/5XrZZrWUTuv66Z9gMK7iu2) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Áudio Proibido](https://open.spotify.com/album/6HBxzrHFqJRwioFBogNii6) | 2:42 | 2024-03-23 | 2026-03-21 |
 | [Íntimo](https://open.spotify.com/track/2NReVQ3ftEDlJSSYJeESRG) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk) | [44](https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna) | 1:38 | 2026-04-30 | 2026-06-10 |
 | [Íntimo](https://open.spotify.com/track/2jaz4D3mvrdcDB17uVjqKL) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 1:38 | 2023-12-30 | 2024-02-16 |
-| [Última Vez](https://open.spotify.com/track/1LvQdwrgWZygPoAes28AbJ) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/6OFfysBJenNRYfO66nDfVX) | 1:50 | 2026-03-06 |  |
+| [Última Vez](https://open.spotify.com/track/1LvQdwrgWZygPoAes28AbJ) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/6OFfysBJenNRYfO66nDfVX) | 1:50 | 2026-03-06 | 2026-08-07 |
 | [Última Vez](https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 1:50 | 2023-12-30 | 2026-03-06 |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,589 songs - 5 day 16 hr 56 min
+2,592 songs - 5 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Bollywood Dream](https://open.spotify.com/track/0hkiW31UfPobaadcJAmCyz) | [Zoya Haque](https://open.spotify.com/artist/3YrWefCiqgTRGW8jzT0oT7) | [Bollywood Dream](https://open.spotify.com/album/4pUk45B8c2dhKq4Ndm1MbU) | 3:28 | 2026-02-09 | 2026-03-12 |
 | [Bones and Skin](https://open.spotify.com/track/0KqaKG91Crs1KfsIe3QC4e) | [Audiokicks](https://open.spotify.com/artist/3gWYgs6usgpGNbIp9GFPwN) | [Bones and Skin](https://open.spotify.com/album/0UvU4FRbaQZnKKsQFQ76IQ) | 4:20 | 2026-07-04 |  |
 | [Book boyfriend \(Booktok, love shock\)](https://open.spotify.com/track/4li11h67VktD4PcHhg5dif) | [Kind Electric](https://open.spotify.com/artist/0qnjqNAvMFdETlL5nknc89) | [Book boyfriend \(Booktok, love shock\)](https://open.spotify.com/album/7pFfAzQ9xTnECBHhI1MbAr) | 3:11 | 2026-03-26 | 2026-04-27 |
+| [Book Of The Year](https://open.spotify.com/track/3LWoSvKMSDb8u9fCe9AUk2) | [Cardinal Verlengo](https://open.spotify.com/artist/7qTS4fsJD0uBmFW0H7cdh1) | [Book Of The Year](https://open.spotify.com/album/5I0bWkG5rFppcyHwWKjwvu) | 3:01 | 2026-08-06 |  |
 | [Boom Boom](https://open.spotify.com/track/6aeavt85cGIKLF79VWNhwc) | [Amanda Jean](https://open.spotify.com/artist/6O3ew5mruts7AzkJPT39og) | [Boom Boom](https://open.spotify.com/album/044cF6YlHehBMx2N5pV0Jo) | 2:48 | 2026-02-17 | 2026-03-21 |
 | [boom boom boom](https://open.spotify.com/track/3wT1JgeBtaXfENIREHR3lu) | [Emma Robinson](https://open.spotify.com/artist/3avcX7dlis1LCPMudElpf8) | [boom boom boom](https://open.spotify.com/album/35AlaOjsLC3XD1N7hFAkJX) | 3:25 | 2026-05-18 | 2026-06-19 |
 | [Boots](https://open.spotify.com/track/1AfWbwYk5t0PajnhikSJRl) | [Eliza Prymak](https://open.spotify.com/artist/6ClK2q52aOyN0LkxwGTciz), [Alyssa Marie Coon](https://open.spotify.com/artist/3HSzJF0pqgNE1PXrbpOjVW) | [Boots](https://open.spotify.com/album/1xdk80u8PcWq7V26Dr1NI6) | 2:36 | 2026-06-16 | 2026-07-17 |
@@ -311,6 +312,7 @@
 | [Brighter than the sun](https://open.spotify.com/track/3spowjHKymv1fFlybDm1dt) | [Bumblebirdai](https://open.spotify.com/artist/3AZN3Wd2uuuzwcJBJyK8wl) | [Brighter than the sun](https://open.spotify.com/album/7HYVZsmdkIMEdzPnGyHSP2) | 3:28 | 2025-11-19 | 2025-12-21 |
 | [Brighter, Inside](https://open.spotify.com/track/278dp2hvYlfhLO1UCxfwcG) | [manattic](https://open.spotify.com/artist/3vyDUBEpFhq0Vlbc9FX5Oe) | [Brighter, Inside](https://open.spotify.com/album/3IDTCJtroXLiuDQgBJ9Cjd) | 3:56 | 2025-10-20 | 2025-11-23 |
 | [Bring Back the Feeling](https://open.spotify.com/track/09mfLrHrJZlJrzcogIIVCY) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [Bring Back the Feeling](https://open.spotify.com/album/4HKCUdRntwilj1Up7Iagn9) | 2:58 | 2026-06-24 | 2026-07-26 |
+| [Bro\-trayal](https://open.spotify.com/track/3piWmDSJJ5okDmUImTT60Q) | [Beat Riff](https://open.spotify.com/artist/2TJdRHhIYmqaO5z7HhTKN7) | [Hard Turn](https://open.spotify.com/album/4lXWK5r5YmCjltZMO663p3) | 3:36 | 2026-08-06 |  |
 | [Broke \- Instrumental](https://open.spotify.com/track/5hDq0JsMP5HF1843WY09fS) | [Musicismost](https://open.spotify.com/artist/1e9D47jZbnrgXSD9HlJSPK) | [Broke \- Instrumental](https://open.spotify.com/album/3MCAOHFZli7bcLOyRRhbTR) | 4:10 | 2025-12-13 | 2026-01-15 |
 | [Broken \(Psalm 13\)](https://open.spotify.com/track/6qSJZGM4tZaA6Wib4ci1Wq) | [We Who Wrestle](https://open.spotify.com/artist/1pfYB0WLqhlbIBWBp0lR0m) | [Every Breath](https://open.spotify.com/album/49IyajfL869H1mcKFyO4kd) | 4:23 | 2025-10-27 | 2025-11-30 |
 | [Broken Hearts](https://open.spotify.com/track/4zoUcOXipFBK89Sxk1viho) | [Mahi C.](https://open.spotify.com/artist/6lhY9gJxBcDnQhqNwJBbQ5) | [Broken Hearts](https://open.spotify.com/album/2TX9ObajaRRKXS6c8NwF0i) | 3:07 | 2026-05-25 | 2026-06-26 |
@@ -1346,6 +1348,7 @@
 | [Loved Me Yesterday](https://open.spotify.com/track/00ProhFPScjYekWKgVKepV) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Loved Me Yesterday](https://open.spotify.com/album/3ibTk9amQG5iIkjsX1929I) | 2:26 | 2026-07-21 |  |
 | [Lovekomotive](https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Lovekomotive](https://open.spotify.com/album/7oi4Z60udYyTT4UnREzG9L) | 3:33 | 2025-11-21 | 2025-12-23 |
 | [Lovely Day](https://open.spotify.com/track/3eLwumm3ieQzPeFtVPTO5p) | [NAPOCK](https://open.spotify.com/artist/77ED2nkxoyZuvzbrFqbjqG) | [Ghost Games](https://open.spotify.com/album/05C49td5PHly4WfgJEaLXI) | 4:47 | 2026-05-16 | 2026-06-17 |
+| [Lover Girl](https://open.spotify.com/track/3yz43mqNcGvfcGZib491i5) | [PM Boredom](https://open.spotify.com/artist/6dzLWk82ZkShCKRdU5q7pO) | [Lover Girl](https://open.spotify.com/album/30FKjn2avplJWAnskG85st) | 3:04 | 2026-08-06 |  |
 | [LOVESICK](https://open.spotify.com/track/18ALUYjsSaLgLH8D6gcQ8t) | [Paula Stellar](https://open.spotify.com/artist/0EDLf6tilNm7OP8Hxtx4I2) | [LOVESICK](https://open.spotify.com/album/03xDZnSXfMReWJa5nKfi0H) | 2:35 | 2026-03-27 | 2026-04-28 |
 | [Lovin' You](https://open.spotify.com/track/7AdqnWem8kGsHq1kH2VNlJ) | [EBU](https://open.spotify.com/artist/0lxcqfrow3i47FGpSPM7zz) | [Lovin' You](https://open.spotify.com/album/5pawqHtGp901m91WaCf29W) | 2:15 | 2026-03-31 | 2026-05-02 |
 | [Low Median Isolator](https://open.spotify.com/track/733EHF5j9daskmb9AsjJyh) | [Fausts' Eternal Desire](https://open.spotify.com/artist/48HsxooncwW6bDoLIr7wM8) | [Form Processor](https://open.spotify.com/album/0OggRmyhRvRUhAl9za3wUa) | 4:27 | 2026-01-10 | 2026-02-11 |

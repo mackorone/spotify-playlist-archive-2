@@ -2908,10 +2908,28 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 207240,
       "name": "I'm F***ed Up - Main Version - explicit",
       "url": "https://open.spotify.com/track/1uUs2Z0S6AI6CLImiDCRSH"
+    },
+    {
+      "album": {
+        "name": "I'm Tore Up (Main Version)",
+        "url": "https://open.spotify.com/album/30774AGnVi6PMNcyIeuwNx"
+      },
+      "artists": [
+        {
+          "name": "Dolla",
+          "url": "https://open.spotify.com/artist/5Gc3IYdgY3PVcuf8FPMxDI"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "I'm Tore Up",
+      "url": "https://open.spotify.com/track/6pKG7iidL9514kgLJPrl06"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BOWKYLION",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PUN",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -5271,6 +5271,24 @@
     },
     {
       "album": {
+        "name": "TORNADO",
+        "url": "https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb"
+      },
+      "artists": [
+        {
+          "name": "VVV",
+          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220615,
+      "name": "TORNADO",
+      "url": "https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/095xs3mn4Liu7EqDc8HeUO"
       },
@@ -5850,6 +5868,24 @@
       "duration_ms": 210697,
       "name": "You Give Me Butterflies",
       "url": "https://open.spotify.com/track/4VjdrMPJtXDEAzbaiNmh7O"
+    },
+    {
+      "album": {
+        "name": "Your Candy",
+        "url": "https://open.spotify.com/album/2dnW7kR5DcFm6rjJmGmbBg"
+      },
+      "artists": [
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Your Candy",
+      "url": "https://open.spotify.com/track/4U1QLVuGWbfx4SM1YkdFi4"
     },
     {
       "album": {
@@ -10816,7 +10852,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 246796,
       "name": "\u0e25\u0e2d\u0e07\u0e01\u0e2d\u0e14 (smoke)",
       "url": "https://open.spotify.com/track/3IRuTNP7lA7H9yad6ArQ8h"
@@ -11414,7 +11450,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 158901,
       "name": "\u0e2b\u0e07\u0e38\u0e14\u0e2b\u0e07\u0e34\u0e14 (tsk)",
       "url": "https://open.spotify.com/track/2pQmtrfkmOCq5cvo4SqYJx"

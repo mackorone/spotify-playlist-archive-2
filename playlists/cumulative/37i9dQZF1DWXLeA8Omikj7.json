@@ -8767,6 +8767,24 @@
     },
     {
       "album": {
+        "name": "Holdup",
+        "url": "https://open.spotify.com/album/4cz6FvT4wuTL8aul3R7AjQ"
+      },
+      "artists": [
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312500,
+      "name": "Holdup",
+      "url": "https://open.spotify.com/track/7D8FvmoY7F8aGMYWWdsXic"
+    },
+    {
+      "album": {
         "name": "Les rencontres d'apr\u00e8s minuit / You and the night (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0e0iTUkry67YVZYQTdKE6c"
       },
@@ -10247,6 +10265,24 @@
     },
     {
       "album": {
+        "name": "Low Life",
+        "url": "https://open.spotify.com/album/5NaLtWA6WYPU9p3pZTIB2v"
+      },
+      "artists": [
+        {
+          "name": "Cult Member",
+          "url": "https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175946,
+      "name": "just drifting",
+      "url": "https://open.spotify.com/track/76oN9d3SJHX2kHEVT0Mx9B"
+    },
+    {
+      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/0AVPusXNzK1jWwefBiPJ5I"
       },
@@ -10374,7 +10410,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 199680,
       "name": "keepsakeFM",
       "url": "https://open.spotify.com/track/66ic3WTFVUyXNGItFa7o6E"
@@ -10516,7 +10552,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 161466,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/3R5x9txlpptjoRK3BSIXoL"
@@ -15599,6 +15635,24 @@
     },
     {
       "album": {
+        "name": "Light And Time",
+        "url": "https://open.spotify.com/album/0kfKQpEqNNhJJrvEgM4oJs"
+      },
+      "artists": [
+        {
+          "name": "Steve Rachmad",
+          "url": "https://open.spotify.com/artist/4BmzfIGmnyaxu1REssIgPp"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271792,
+      "name": "Reality Programmers",
+      "url": "https://open.spotify.com/track/6KZep20QiBbcYf4Vk6ANKv"
+    },
+    {
+      "album": {
         "name": "Realize",
         "url": "https://open.spotify.com/album/2nFELeNVfdX8MECyP3ruPA"
       },
@@ -15766,7 +15820,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 540493,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/3iBrW5gWNcNhK2A8fNrWKy"

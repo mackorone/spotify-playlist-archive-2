@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 116596,
+  "num_followers": 116608,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGOloZm3Eu8bY9ACVb30ampTZVMa",
+  "snapshot_id": "AAAAAIOswduR5/RfcoOFJmFRknXHjZoq",
   "tracks": [
     {
       "added_at": "2026-07-30 22:01:19",
@@ -403,18 +403,18 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
-        "name": "Perd\u00f3name, Madre",
-        "url": "https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV"
+        "name": "Bienvenidos a Occidente",
+        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
       },
       "artists": [
         {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+          "name": "Disidencia",
+          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
         }
       ],
-      "duration_ms": 246657,
-      "name": "Perd\u00f3name, Madre",
-      "url": "https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4"
+      "duration_ms": 254946,
+      "name": "Prefiero Caminar",
+      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -451,22 +451,6 @@
       "duration_ms": 163552,
       "name": "Me Cago en Dios",
       "url": "https://open.spotify.com/track/17rKtwaMbimKRriB3MIhK5"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
-        "name": "Bienvenidos a Occidente",
-        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
-      },
-      "artists": [
-        {
-          "name": "Disidencia",
-          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
-        }
-      ],
-      "duration_ms": 254946,
-      "name": "Prefiero Caminar",
-      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -519,6 +503,22 @@
       "duration_ms": 118986,
       "name": "Tenemos a la Pasma",
       "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
+        "name": "Perd\u00f3name, Madre",
+        "url": "https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 246657,
+      "name": "Perd\u00f3name, Madre",
+      "url": "https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
+        "name": "Punk Latino Vol. 1",
+        "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
+      },
+      "artists": [
+        {
+          "name": "La Polla",
+          "url": "https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "Ellos Dicen Mierda (Live)",
+      "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
         "name": "Morir\u00e1s Sin Nada",
         "url": "https://open.spotify.com/album/74NVZLzYfhFEFC0mE4PsQh"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 219185,
       "name": "Morir\u00e1s Sin Nada",
       "url": "https://open.spotify.com/track/50OOpdpR1iITet4ZXt0BKP"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
-        "name": "Punk Latino Vol. 1",
-        "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
-      },
-      "artists": [
-        {
-          "name": "La Polla",
-          "url": "https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "Ellos Dicen Mierda (Live)",
-      "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -1223,6 +1223,42 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
+        "name": "Corona de espinas",
+        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
+      },
+      "artists": [
+        {
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Corona de espinas",
+      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
+        "name": "Pura dinamita",
+        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
+      },
+      "artists": [
+        {
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
+        }
+      ],
+      "duration_ms": 236888,
+      "name": "Pura dinamita",
+      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
         "name": "Arde Ribera",
         "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
       },
@@ -1255,38 +1291,18 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
-        "name": "Pura dinamita",
-        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
+        "name": "Ladr\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
       },
       "artists": [
         {
-          "name": "Kamikazes",
-          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
         }
       ],
-      "duration_ms": 236888,
-      "name": "Pura dinamita",
-      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
-        "name": "Corona de espinas",
-        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
-      },
-      "artists": [
-        {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Corona de espinas",
-      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
+      "duration_ms": 194192,
+      "name": "El Mes\u00edas",
+      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
-      },
-      "artists": [
-        {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
-        }
-      ],
-      "duration_ms": 249719,
-      "name": "Kualkier D\u00eda",
-      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
         "name": "Versos de Rabia",
         "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 217130,
       "name": "Ke Felicidad!",
       "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+      },
+      "artists": [
+        {
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+        }
+      ],
+      "duration_ms": 249719,
+      "name": "Kualkier D\u00eda",
+      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -1623,22 +1639,6 @@
       "duration_ms": 233200,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
-        "name": "Ladr\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 194192,
-      "name": "El Mes\u00edas",
-      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
     },
     {
       "added_at": "2026-07-30 22:01:19",

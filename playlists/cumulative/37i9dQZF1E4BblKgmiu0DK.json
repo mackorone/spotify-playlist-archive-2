@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Bif Naked, Jinx & The Royals, Die Mannequin and more",
+  "description": "With Die Mannequin, Bif Naked, Jinx & The Royals and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -830,7 +830,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 164560,
       "name": "Beat Me Up",
       "url": "https://open.spotify.com/track/6iQ6uu9FSWPbt6BuX0XsjU"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 172973,
       "name": "Comin' Around",
       "url": "https://open.spotify.com/track/35aCtgxXl9naFeiaWcgCDS"
@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 213453,
       "name": "D Is For Dangerous",
       "url": "https://open.spotify.com/track/2w89uUFddutMqIZIw6FtcG"
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 214889,
       "name": "Deal with Me",
       "url": "https://open.spotify.com/track/3080vWpFKHjG0ismpaQbOg"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 220150,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/16d0yg7oUxPbVwipccQ2L2"
@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 240233,
       "name": "Democracy Don't Die Quiet",
       "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
@@ -2682,6 +2682,24 @@
       "duration_ms": 229586,
       "name": "Differently (feat. Travis McCoy)",
       "url": "https://open.spotify.com/track/0T8H3yrVHqTAQw4HqnRvR5"
+    },
+    {
+      "album": {
+        "name": "The Hive",
+        "url": "https://open.spotify.com/album/1pAp4F7DVPAuRFF0DujwFH"
+      },
+      "artists": [
+        {
+          "name": "The Vincent Black Shadow",
+          "url": "https://open.spotify.com/artist/6K34Q4HIZBu7zw0pjLSw3H"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215733,
+      "name": "Dig Dig Dig",
+      "url": "https://open.spotify.com/track/1e0L4Twdxi2mEsJOyCTQWY"
     },
     {
       "album": {
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 207438,
       "name": "Don't Wait Up For Me",
       "url": "https://open.spotify.com/track/6BfWe8EH9Dhb68F2trNvXx"
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 167786,
       "name": "Drawing a Blank",
       "url": "https://open.spotify.com/track/4uq8q972ePu8YT6cy2eTgj"
@@ -3308,7 +3326,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -3770,7 +3788,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -3788,7 +3806,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 195146,
       "name": "Fuck You 2",
       "url": "https://open.spotify.com/track/3lOMHsQnZ5E6XXqz8fEMPD"
@@ -4256,7 +4274,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -4472,7 +4490,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -5200,7 +5218,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 131880,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1zFGHFw826rsYq9xlAX9Ox"
@@ -5323,6 +5341,24 @@
     },
     {
       "album": {
+        "name": "The Hive",
+        "url": "https://open.spotify.com/album/1pAp4F7DVPAuRFF0DujwFH"
+      },
+      "artists": [
+        {
+          "name": "The Vincent Black Shadow",
+          "url": "https://open.spotify.com/artist/6K34Q4HIZBu7zw0pjLSw3H"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "In A Row",
+      "url": "https://open.spotify.com/track/5JkPwCa3n193vuvABDadL4"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/1TL6435AGMCwkTIXzXUhA7"
       },
@@ -5406,7 +5442,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -5442,7 +5478,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 213640,
       "name": "It's Not You",
       "url": "https://open.spotify.com/track/6RjSUGBSoURetoxEdJ5JPE"
@@ -5460,7 +5496,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 213480,
       "name": "It's Not You - SC Radio Mix",
       "url": "https://open.spotify.com/track/1gswIHZ2LUd4YYTo2Rw5CV"
@@ -5702,7 +5738,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -5738,7 +5774,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 189453,
       "name": "Kiss Your Mama!",
       "url": "https://open.spotify.com/track/7DSwyrYR8nHyVIZNsfs6ei"
@@ -5774,7 +5810,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -5972,7 +6008,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -6978,7 +7014,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -7014,7 +7050,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -8682,7 +8718,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 218200,
       "name": "Rich and Filthy",
       "url": "https://open.spotify.com/track/5VEDnh2r5F5st6psB40wdf"
@@ -9497,6 +9533,24 @@
     },
     {
       "album": {
+        "name": "Fractured Signal",
+        "url": "https://open.spotify.com/album/1mv58iR2rrblNmCAvrmsyF"
+      },
+      "artists": [
+        {
+          "name": "Sylvex",
+          "url": "https://open.spotify.com/artist/1mw0mI6MPqsc48zSN8CVE4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168870,
+      "name": "Static Crown",
+      "url": "https://open.spotify.com/track/498HQm4WkKJsmysSXdJBNn"
+    },
+    {
+      "album": {
         "name": "Neon Decay",
         "url": "https://open.spotify.com/album/5BmTEHfgJm8S1mqWHvunkR"
       },
@@ -9580,7 +9634,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 175435,
       "name": "Stfu",
       "url": "https://open.spotify.com/track/2pfrfu9M4ynsEWA0bUAoc2"
@@ -9998,7 +10052,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 332138,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/6BqxVkHOdAaT8Ye1sY90KG"
@@ -10586,7 +10640,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 160732,
       "name": "Twenty Seven",
       "url": "https://open.spotify.com/track/6Y9nBNxMRXwL0JYvjsKbTN"
@@ -10946,7 +11000,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 198570,
       "name": "Welcome To The Badlands",
       "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"

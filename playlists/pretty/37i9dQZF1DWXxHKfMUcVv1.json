@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 127608,
+  "num_followers": 127611,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANO39ut5YRT7U1A3IJuFiTbV0KnS",
+  "snapshot_id": "AAAAAOMcSLxfgHgWhJhgs2H8DBi1iwAX",
   "tracks": [
     {
       "added_at": "2025-03-14 20:46:39",
@@ -339,18 +339,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Mis Noches Sin Ti",
-        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
+        "name": "Christian Puga y los Ladrones Sueltos",
+        "url": "https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E"
       },
       "artists": [
         {
-          "name": "Paiko",
-          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
+          "name": "Los Ladrones Sueltos",
+          "url": "https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF"
         }
       ],
-      "duration_ms": 205087,
-      "name": "Mis Noches Sin Ti",
-      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
+      "duration_ms": 223093,
+      "name": "Ruge Uge",
+      "url": "https://open.spotify.com/track/4qUDaUEXqZtGzxiwQbNC82"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -375,18 +375,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Christian Puga y los Ladrones Sueltos",
-        "url": "https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E"
+        "name": "Mis Noches Sin Ti",
+        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
       },
       "artists": [
         {
-          "name": "Los Ladrones Sueltos",
-          "url": "https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF"
+          "name": "Paiko",
+          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
         }
       ],
-      "duration_ms": 223093,
-      "name": "Ruge Uge",
-      "url": "https://open.spotify.com/track/4qUDaUEXqZtGzxiwQbNC82"
+      "duration_ms": 205087,
+      "name": "Mis Noches Sin Ti",
+      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -423,18 +423,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "El Rey del Norte",
-        "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
+        "name": "Paso la Vida Pensando",
+        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
       "artists": [
         {
-          "name": "Grupo Ternura",
-          "url": "https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
         }
       ],
-      "duration_ms": 198960,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
+      "duration_ms": 242277,
+      "name": "Paso la Vida Pensando",
+      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -455,22 +459,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Paso la Vida Pensando",
-        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
+        "name": "El Rey del Norte",
+        "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+          "name": "Grupo Ternura",
+          "url": "https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq"
         }
       ],
-      "duration_ms": 242277,
-      "name": "Paso la Vida Pensando",
-      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
+      "duration_ms": 198960,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -779,22 +779,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Auto",
-        "url": "https://open.spotify.com/album/3ZdRSfSaKDElyVwAvpRaQf"
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
       },
       "artists": [
         {
           "name": "El Culto Casero",
           "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
         }
       ],
-      "duration_ms": 142016,
-      "name": "Auto",
-      "url": "https://open.spotify.com/track/2deq9FLu0FHizs9pPsPCNv"
+      "duration_ms": 137584,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -867,18 +863,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
+        "name": "Auto",
+        "url": "https://open.spotify.com/album/3ZdRSfSaKDElyVwAvpRaQf"
       },
       "artists": [
         {
           "name": "El Culto Casero",
           "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
         }
       ],
-      "duration_ms": 137584,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
+      "duration_ms": 142016,
+      "name": "Auto",
+      "url": "https://open.spotify.com/track/2deq9FLu0FHizs9pPsPCNv"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

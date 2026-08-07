@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: ASER B\. Artwork: Isu Kim
 
-540 songs - 1 day 4 hr 18 min
+541 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Eh El Kalam](https://open.spotify.com/track/4YO4We8kDddlQB1KXF5hKr) | [DAL!A](https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7) | [Eh El Kalam](https://open.spotify.com/album/6rJieMMnrDfp57u4OBEG8d) | 2:36 | 2026-04-28 |  |
 | [El 3elba](https://open.spotify.com/track/3HMGWElTSffEE4MAZi8s9l) | [Ma\-Beyn](https://open.spotify.com/artist/56BacvMJfiNke5Sb6VOcQR), [Kamikazem](https://open.spotify.com/artist/0FAbIDfnnY3RRlj97zPj6h), [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [El 3elba](https://open.spotify.com/album/40rnzvnxdna70I5ENxUABY) | 3:29 | 2022-09-20 | 2022-11-09 |
 | [El 3ks](https://open.spotify.com/track/65R0EmcHSnr2dCLdEaol9C) | [Shadi Oskar](https://open.spotify.com/artist/4o7krFiVVz5QONfNTS28wX) | [El 3ks](https://open.spotify.com/album/7AfAzjjLeyR9UmbZHI4peJ) | 2:50 | 2026-04-01 |  |
+| [EL BADLA WEL FOSTAN](https://open.spotify.com/track/2xYITR2JakEl8VxnQQ0Th8) | [abulhawa](https://open.spotify.com/artist/6tRlI9czT4r9FOqR2KknHQ) | [EL BADLA WEL FOSTAN](https://open.spotify.com/album/56r3tZ6lin6O7ngwBcO4hO) | 2:55 | 2026-08-06 |  |
 | [El Beit \- البيت](https://open.spotify.com/track/0qLQsLK8HRChdTdCvO8tRn) | [Hadi Birajakli](https://open.spotify.com/artist/6KsP0EBpYgQ4hlex3c1Zmm) | [El Beit \- البيت](https://open.spotify.com/album/0UmUPQJ69Tk0wKWTMNnTaU) | 2:52 | 2024-08-13 | 2024-11-27 |
 | [El Donia Beta3ti](https://open.spotify.com/track/0D7avy8sOXIcY4ZDWuHO7R) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El Donia Beta3ti](https://open.spotify.com/album/1DZgnVuOlcIiXskI9HkYMe) | 2:50 | 2022-09-20 | 2022-09-28 |
 | [El Ghaly \- الغالي](https://open.spotify.com/track/7HYoCK8sD33WG9E8zjtdDx) | [Karamell](https://open.spotify.com/artist/0xlWY59sefpnkKzzbQhEx4), [El Nashmy](https://open.spotify.com/artist/4NqKM04BHakFHqu0wkDXKB) | [El Ghaly \- الغالي](https://open.spotify.com/album/1Ip6rfzTgNGehGe6eOrhJm) | 2:43 | 2026-04-01 |  |
@@ -376,7 +377,7 @@
 | [QARFS MERI](https://open.spotify.com/track/46H1UUgdj9WfTOrDdLAjmC) | [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD), [DOKHAN](https://open.spotify.com/artist/1tUkpIZZacamR0XXrwCp8P), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1) | [Z!EN GPT](https://open.spotify.com/album/3fIjFiV2GtzpplDSvwiQe3) | 1:46 | 2025-06-17 |  |
 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 | 2023-03-14 | 2023-07-19 |
 | [Quick Flex](https://open.spotify.com/track/4Xsgdr7McooFSUUGoYvU9g) | [NBL](https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D), [Gra](https://open.spotify.com/artist/4QFDQS3cWdDXIZRaXFvW5B), [Chasey the Illest](https://open.spotify.com/artist/42kTgzgcQLKru8mxK04VLa) | [Quick Flex](https://open.spotify.com/album/3I5pQO3UYPpQZO3xrRox9e) | 3:52 | 2024-02-20 | 2024-07-10 |
-| [RADAR](https://open.spotify.com/track/5vWZfGQMTId1KtSzs2vr6y) | [ميلو](https://open.spotify.com/artist/3mXE7BL3H3oCL16lpDtycN), [Andrew Amir](https://open.spotify.com/artist/7fTioWTi2v7zik4MMkHRsC) | [RADAR](https://open.spotify.com/album/6q0mtfCvxzMQVL64cWAnOs) | 2:20 | 2026-05-05 |  |
+| [RADAR](https://open.spotify.com/track/5vWZfGQMTId1KtSzs2vr6y) | [ميلو](https://open.spotify.com/artist/3mXE7BL3H3oCL16lpDtycN), [Andrew Amir](https://open.spotify.com/artist/7fTioWTi2v7zik4MMkHRsC) | [RADAR](https://open.spotify.com/album/6q0mtfCvxzMQVL64cWAnOs) | 2:20 | 2026-05-05 | 2026-08-07 |
 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 | 2023-05-09 | 2023-07-19 |
 | [RASSMA](https://open.spotify.com/track/2BLuMnfGLbLfpyHuWAIwEe) | [AyeLee](https://open.spotify.com/artist/6QwrTKHDZ15WyIBSAoF854) | [APORIA](https://open.spotify.com/album/4q9nP2q2Y816WLbWItT1Qw) | 2:43 | 2026-04-01 | 2026-08-01 |
 | [Rather Try](https://open.spotify.com/track/7D09Q387brpXrH6w1eXYdY) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Rather Try](https://open.spotify.com/album/14CEaWYYQN7bEqnYu21syi) | 2:37 | 2023-08-01 | 2024-05-01 |

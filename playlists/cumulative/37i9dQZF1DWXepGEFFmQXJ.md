@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Tucker Wetmore
+> The cream of today's country crop\. Cover: Shaboozey
 
-1,264 songs - 2 day 21 hr 22 min
+1,266 songs - 2 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,7 @@
 | [Homegrown Love](https://open.spotify.com/track/5f5YJPmTv7PiYgwN52btb5) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:10 | 2022-08-26 | 2022-12-09 |
 | [Hometown Like My Hometown](https://open.spotify.com/track/5szpS2LGGFu2F9n8ggly5I) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Australian Made](https://open.spotify.com/album/2Y3hVl3Ft1aSLFOMG4M9Rx) | 3:49 | 2025-09-11 | 2026-02-06 |
 | [Homewrecker](https://open.spotify.com/track/52BzAP9o0G7daDBlXrNiIh) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Homewrecker](https://open.spotify.com/album/2XDU3i198ll8mGU5zGpqgE) | 3:15 | 2024-09-05 | 2024-11-08 |
-| [Honeysuckle](https://open.spotify.com/track/2SDysVSv74sRO77e4Av4ce) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Honeysuckle](https://open.spotify.com/album/7IKzNJb9R5wI1zQbgHG0o7) | 3:15 | 2026-06-04 |  |
+| [Honeysuckle](https://open.spotify.com/track/2SDysVSv74sRO77e4Av4ce) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Honeysuckle](https://open.spotify.com/album/7IKzNJb9R5wI1zQbgHG0o7) | 3:15 | 2026-06-04 | 2026-08-07 |
 | [Honkytonk Hollywood](https://open.spotify.com/track/4es3mFowZGwyLc7x5Qq0ej) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/4pcC4GbDd5gR1rbFSMXGIl) | 3:28 | 2025-01-16 | 2025-03-07 |
 | [Hope It's Hot Out](https://open.spotify.com/track/4CH3ynSZbUWlQO9n1P8j3V) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out](https://open.spotify.com/album/7ovAaBOHPb0MhiefUZ9E8D) | 2:47 | 2022-06-02 | 2023-02-17 |
 | [Horses and Divorces \(feat\. Miranda Lambert\)](https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 2:43 | 2026-04-30 | 2026-05-29 |
@@ -692,6 +692,7 @@
 | [Love You Anyway](https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:49 | 2023-08-09 | 2023-12-20 |
 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 | 2023-02-09 | 2023-05-05 |
 | [Loving Life Again](https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Loving Life Again](https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC) | 3:46 | 2026-03-19 | 2026-04-10 |
+| [Loving You Like That](https://open.spotify.com/track/3LBOyssekEWeHA7TaGEksG) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Loving You Like That](https://open.spotify.com/album/14mWqWNWb41eUWAHFiryiH) | 4:25 | 2026-08-06 |  |
 | [Lucky](https://open.spotify.com/track/6DE1vkPkMn2I77360IBb8t) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:14 | 2023-01-27 | 2023-06-16 |
 | [Lucky](https://open.spotify.com/track/7fqqGL94As2CNyMy54plgo) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/1ZaHS1vWuq7mf7eniVTiFC) | 2:41 | 2023-04-13 | 2023-06-30 |
 | [Mad About It](https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Mad About It](https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR) | 2:37 | 2026-05-28 | 2026-07-31 |
@@ -971,7 +972,7 @@
 | [Small Town Girls](https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 2:30 | 2025-05-08 | 2025-07-18 |
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2025-01-02 | 2025-03-21 |
 | [Smoke & Embers](https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol), [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Smoke & Embers](https://open.spotify.com/album/0snVijVc3VmrYU74Uytk78) | 3:47 | 2025-04-03 | 2025-06-27 |
-| [SMOKE I'VE KNOWN](https://open.spotify.com/track/7vymnCXzsnDeQysDha7OHI) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [SMOKE I'VE KNOWN](https://open.spotify.com/album/7CbHInyRwzVithJSI2Iqjq) | 3:08 | 2026-05-28 |  |
+| [SMOKE I'VE KNOWN](https://open.spotify.com/track/7vymnCXzsnDeQysDha7OHI) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [SMOKE I'VE KNOWN](https://open.spotify.com/album/7CbHInyRwzVithJSI2Iqjq) | 3:08 | 2026-05-28 | 2026-08-07 |
 | [Smooth](https://open.spotify.com/track/334YfRsUNPz8YXKmnOfGdR) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Born Lonely](https://open.spotify.com/album/7000MO2d4WELTAJZdokU3d) | 3:30 | 2024-06-06 | 2024-08-02 |
 | [Snakeskin](https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Snakeskin](https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr) | 2:43 | 2025-06-12 | 2025-07-25 |
 | [Solid Country Gold](https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:28 | 2025-06-26 | 2025-10-03 |
@@ -1054,6 +1055,7 @@
 | [Take Me Back \(Leave Me There\)](https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Take Me Back \(Leave Me There\)](https://open.spotify.com/album/0RpCm1c0cVxRZ8C6wrKho3) | 2:58 | 2026-05-28 | 2026-06-26 |
 | [Take Me Home](https://open.spotify.com/track/2nuAkoDw5i0jLogecydq1y) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [Take Me Home](https://open.spotify.com/album/01Y0pBzYfnlxvcjG9HxCym) | 2:58 | 2023-09-28 | 2023-12-20 |
 | [Take Me Out](https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Take Me Out](https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ) | 4:03 | 2023-06-15 | 2023-10-06 |
+| [TAKES ME BACK](https://open.spotify.com/track/5ayb2novvCrkXxzDImS8GJ) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [TAKES ME BACK](https://open.spotify.com/album/01QHPTGz57pKchYM5DxnJw) | 3:09 | 2026-08-06 |  |
 | [Takin' Me Back](https://open.spotify.com/track/7vfwqVbhwWK8dSVba68EYY) | [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Takin' Me Back](https://open.spotify.com/album/7pLkHBQvgIPDH0AGXDZrkG) | 3:01 | 2021-12-30 | 2022-03-18 |
 | [Takin’ The Slow Ride](https://open.spotify.com/track/71cIncNYZRMrpqWARKNcoc) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Polaroids](https://open.spotify.com/album/54tGe0uM8bFgZMWdxr8HdI) | 3:08 | 2025-06-05 | 2025-07-11 |
 | [Tear You Apart](https://open.spotify.com/track/1TGW9R0hY4sMqMF0Spxkt5) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Tear You Apart](https://open.spotify.com/album/1H0Z6MMprrHNqQjQL3okDA) | 3:31 | 2024-05-09 | 2024-07-27 |

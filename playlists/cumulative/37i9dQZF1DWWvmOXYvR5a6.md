@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: TRADE L\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Raf Sandou\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-842 songs - 1 day 20 hr 53 min
+843 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [OKAY \(Feat\. Swings\)](https://open.spotify.com/track/4azqExDJLlQBhiSTuGi4yC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 2:40 | 2022-04-21 | 2022-07-15 |
 | [On The Rocks \(Feat\. h3hyeon, BE′O\)](https://open.spotify.com/track/0jIU2p3kJTeLa2figH0KBj) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [TOTO](https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK) | 2:33 | 2024-04-05 | 2024-06-17 |
 | [On the street \(Feat\. ASH ISLAND\)](https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [On the street](https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU) | 3:29 | 2023-08-16 |  |
+| [On the Weekend](https://open.spotify.com/track/7vSnswbt8JRufDevmFgm0n) | [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8) | [SOUL BABY](https://open.spotify.com/album/5sXJul476tGRt2eHMstVDr) | 2:31 | 2026-08-07 |  |
 | [One & Only](https://open.spotify.com/track/0kwttQkLxci6m9SU7XelgM) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Delphinium](https://open.spotify.com/album/6jdlJrLRWyCnUnKUzhPG2T) | 2:42 | 2024-08-01 | 2024-09-04 |
 | [one \(feat\. Paul Blanco, Kim Seungmin\)](https://open.spotify.com/track/6AWXGKo1zTjMV1WNjIpwhx) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [김승민](https://open.spotify.com/artist/1h8ZqUlVEXd1qvOjXVuFg2) | [one & ashes](https://open.spotify.com/album/2LpbGE8qfrCjYykxO7v3of) | 3:16 | 2022-07-14 | 2022-07-24 |
 | [one dead one alive](https://open.spotify.com/track/6yCJHQUD8nl5lxyEZkPaVo) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Voice tool tip.txt 2](https://open.spotify.com/album/2aJfdRcuY9vgr69p0K1nxd) | 2:42 | 2025-04-30 | 2025-06-07 |
@@ -816,7 +817,7 @@
 | [wish](https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:41 | 2023-01-10 | 2024-04-19 |
 | [Wish](https://open.spotify.com/track/7mLTxku0pqW3mIunoEVLx8) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Wish](https://open.spotify.com/album/4AsF24EFXz4lNOmD0oHZNY) | 2:55 | 2024-10-08 | 2025-05-19 |
 | [With Me \(Feat\. Skinny Brown\)](https://open.spotify.com/track/2BYy5t1dsEOxyiPLN9THhO) | [YUMIN](https://open.spotify.com/artist/1Wbm8a86AGAgr1S71ZNn9i), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [YM](https://open.spotify.com/album/0Ic2OI65Grdbh6QZPr94fo) | 3:04 | 2022-05-11 | 2022-07-26 |
-| [withoutyou](https://open.spotify.com/track/6aMr19dWts8J6jrWCczm8m) | [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Chaz](https://open.spotify.com/artist/4S2MHQJbgQAsUtSLQyrgKt) | [withoutyou](https://open.spotify.com/album/6htc9BgisyhWQK6c6dn5zb) | 3:37 | 2026-03-13 |  |
+| [withoutyou](https://open.spotify.com/track/6aMr19dWts8J6jrWCczm8m) | [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Chaz](https://open.spotify.com/artist/4S2MHQJbgQAsUtSLQyrgKt) | [withoutyou](https://open.spotify.com/album/6htc9BgisyhWQK6c6dn5zb) | 3:37 | 2026-03-13 | 2026-08-07 |
 | [WON \(feat\. O'Domar\)](https://open.spotify.com/track/1qj9VXRLsP9MTgWRln6WkK) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [O'domar](https://open.spotify.com/artist/2tVfmWc35v5ALhML9zgSyw) | [WILL](https://open.spotify.com/album/43SnPWobYnohvw3K5OFwZg) | 3:17 | 2022-04-01 | 2022-04-24 |
 | [Work](https://open.spotify.com/track/6vJ2VHoaUKWO21DjfBSliI) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [B.O.Y\. \(Because Of You\)](https://open.spotify.com/album/78qKsZIDGxJ21WM306NoIt) | 3:08 | 2022-04-01 | 2022-07-16 |
 | [Work Work \(Feat\. The Quiett\)](https://open.spotify.com/track/7uMk5EMgwtYjiGoshyhBsh) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [HOODSTAR 2](https://open.spotify.com/album/072f1DCwul9rf1nFyjLhoa) | 3:25 | 2023-03-22 | 2023-04-07 |

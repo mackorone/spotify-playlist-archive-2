@@ -2,9 +2,9 @@
 
 ### [Afro Indie](https://open.spotify.com/playlist/37i9dQZF1DXaYLfJcKWFfF)
 
-> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Dumama
+> Alternative / Indie / Folk cuts from Africa and diaspora to dive into\. Cover: Mishy Kope
 
-458 songs - 1 day 2 hr 27 min
+459 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [In My Soul](https://open.spotify.com/track/3CMfurJL0T1OZPKU1RdYUc) | [Shalom Dubas](https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj) | [In My Soul](https://open.spotify.com/album/5XzrqHjTXVWn6WRnLVawep) | 3:02 | 2023-10-13 | 2023-11-10 |
 | [In The Clouds](https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [In The Clouds](https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn) | 3:23 | 2022-09-23 | 2024-02-23 |
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-07-28 | 2022-11-26 |
-| [Indalo](https://open.spotify.com/track/5At39YQdvBvLvrRjFd8nnM) | [Dumama](https://open.spotify.com/artist/3uBcYRD2CiHrtAXRDc2zFq) | [Towards An Expanse](https://open.spotify.com/album/6j7YOjd4dm0lEYSEXvvBVK) | 6:20 | 2026-05-07 |  |
+| [Indalo](https://open.spotify.com/track/5At39YQdvBvLvrRjFd8nnM) | [Dumama](https://open.spotify.com/artist/3uBcYRD2CiHrtAXRDc2zFq) | [Towards An Expanse](https://open.spotify.com/album/6j7YOjd4dm0lEYSEXvvBVK) | 6:20 | 2026-05-07 | 2026-08-07 |
 | [infrunayou](https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs) | [infrunayou](https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf) | 2:24 | 2026-05-22 |  |
 | [iNtwenhle](https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Kaelan DiJulio](https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx) | [iNtwenhle](https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn) | 3:34 | 2023-11-17 | 2025-02-14 |
 | [is God unknown?](https://open.spotify.com/track/3RK4fOa14ge6zrweJBDErK) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Yxng Davi](https://open.spotify.com/artist/1ADCOPx0ZFZiVU03ooLSLI) | [is God unknown?](https://open.spotify.com/album/2bzJHsEpW4hGikRHk6ROG5) | 2:14 | 2025-08-28 | 2025-10-24 |
@@ -458,6 +458,7 @@
 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 | 2023-08-03 | 2025-08-29 |
 | [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 | 2026-01-30 |  |
 | [Yeni Abre](https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Yeni Abre](https://open.spotify.com/album/1C9Xf13fBpa09nVuwlxaWW) | 4:18 | 2023-04-27 | 2023-09-29 |
+| [YIMPI ENGAPHELIYO](https://open.spotify.com/track/2djKgPzgBjorXuGG0iFBB6) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [YIMPI ENGAPHELIYO](https://open.spotify.com/album/1p0wBmk6LYEmlmBb11OKsZ) | 3:53 | 2026-08-07 |  |
 | [You Made It Easy to Let Go](https://open.spotify.com/track/0ePA3ZPD4hQW9w0GIjwyQg) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [You Made It Easy to Let Go](https://open.spotify.com/album/3xDL92kCHBGvP6NSrowybz) | 3:01 | 2026-02-13 | 2026-04-11 |
 | [You Want Me](https://open.spotify.com/track/4uWaSDMiSisZW5cf7mCNdF) | [Rebecca Lee](https://open.spotify.com/artist/5Mm5UKAlvabjuuw6i4oz98) | [You Want Me](https://open.spotify.com/album/6DzCw29EiZh5vbzfJwo7L7) | 3:07 | 2026-04-17 |  |
 | [You're Gone](https://open.spotify.com/track/7AU8HVGvd3Jua9oLVSUgE1) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Echoes of Farewell](https://open.spotify.com/album/744YhwL1S9OvtUY6QkAPPc) | 2:49 | 2024-04-26 | 2024-05-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,756 likes - 55 songs - 3 hr 30 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,756 likes - 59 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,9 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 53 | [Lesson to Be Learned](https://open.spotify.com/track/3H3TZ6As4H5f4HpCQ9RLEp) | [Juliet's Bane](https://open.spotify.com/artist/43FGjbS68JUpmmocZSmwKh) | [HumaNature & Lesson to Be Learned](https://open.spotify.com/album/20AGbANuWzwx5p4gFJ7GUK) | 4:37 |
 | 54 | [Run](https://open.spotify.com/track/2c2Quhm8fF8MlFmiRFJ8I9) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 4:35 |
 | 55 | [Kingdoms](https://open.spotify.com/track/3iJfjc0J2xJLiweVjhwhED) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 2:51 |
+| 56 | [Shatter The Silence](https://open.spotify.com/track/3X8OW5FgyBs1KLhCS4A2rw) | [The Quiet Violence](https://open.spotify.com/artist/4UQ6F6qyHBEBWa2LyUFmLd) | [Shatter The Silence](https://open.spotify.com/album/6m1TGafjhdLDythkXvNtjW) | 4:00 |
+| 57 | [Eyes Closed](https://open.spotify.com/track/6X12EdM1tB2fPOjlwTIFul) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Eyes Closed](https://open.spotify.com/album/0jsMmLjYnphdPmOBgiAuvV) | 3:17 |
+| 58 | [No Way Out](https://open.spotify.com/track/7bqpJArivuugIHtOWnPWPf) | [DH Litra](https://open.spotify.com/artist/3BPt1GOuVCLI4qdCAJvv47) | [No Way Out](https://open.spotify.com/album/7xObv5MyYgaSJirgoBPmDa) | 3:08 |
+| 59 | [Still Here](https://open.spotify.com/track/5bAdS7FIyNwWxitOWY6XTu) | [Long Before Sunday](https://open.spotify.com/artist/0KZx907RBfXzptJlIyFrGi) | [Still Here](https://open.spotify.com/album/0JBrgQlWV3rHV3zkWD9uga) | 4:24 |
 
-Snapshot ID: `AAAO5F5jH7Ms6xfrlGsankMjrQGRc3jQ`
+Snapshot ID: `AAAO6NlPkau/GMRjdUYLEKRYTFy1cA7N`

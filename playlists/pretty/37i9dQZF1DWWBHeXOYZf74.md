@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Four Tet
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,616 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,598 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 12 | [Reverse](https://open.spotify.com/track/3JD2p4jLnXYpTfNw6Toz2Y) | [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU), [Sofia Grant](https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI) | [Reverse](https://open.spotify.com/album/5MTX1WtLafoufvJ2x1sAot) | 3:16 |
 | 13 | [Moon & I](https://open.spotify.com/track/5wM8etfBjxRW89bu70pdgj) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Céline Dessberg](https://open.spotify.com/artist/4yrAcGcuF9KXNpeLXdwlGA) | [Moon & I](https://open.spotify.com/album/5s5JyX7EXQRYxbECPhi4gl) | 3:38 |
 | 14 | [Hell of a time](https://open.spotify.com/track/1mNyD4FwFJGIAxnnDpTBtp) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Hell of a time](https://open.spotify.com/album/5rfkiovkHkwCnIZ7q3GTkF) | 3:43 |
-| 15 | [Rabbit](https://open.spotify.com/track/1BEemD48y6mh62yV0aaI6T) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [Rabbit](https://open.spotify.com/album/3wnttB1pXHezmp05emenyE) | 2:37 |
+| 15 | [Rabbit](https://open.spotify.com/track/1BEemD48y6mh62yV0aaI6T) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [Rabbit](https://open.spotify.com/album/3wnttB1pXHezmp05emenyE) | 2:37 |
 | 16 | [LANGUAGES](https://open.spotify.com/track/3KG6r8zmc3KrNxub0qxGFb) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 3:09 |
 | 17 | [Royal Courts \(Great Misfortune\)](https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Q: From Where Do Our Primal Instincts Originate? A: MTV!](https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0) | 3:54 |
 | 18 | [Train Of Thought](https://open.spotify.com/track/1zhowQgLDBGUy9WrPzNbv3) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Emotional Junglist](https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S) | 2:31 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 71 | [I Can See](https://open.spotify.com/track/2E0cEkMXWGKOA1wZx48IG5) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/04MbUzml78sr5akB33mNDG) | 5:44 |
 | 72 | [DIRTY RUMOURS](https://open.spotify.com/track/3IZIkPVcsfqbpfTg7gc1SN) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [DIRTY RUMOURS](https://open.spotify.com/album/3pb7TEfOUjkeKv8heapI6n) | 2:35 |
 | 73 | [Wushua](https://open.spotify.com/track/7oeD5jfi5PA7Aqh1xN4Nu4) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [A Constant Charade \(Deluxe\)](https://open.spotify.com/album/4Jo5mp9O4wlNAhZLJatrry) | 3:10 |
-| 74 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
+| 74 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
 | 75 | [WAX PAPER](https://open.spotify.com/track/6jwFEp5K8fJ8R0yuKKPlCW) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WAX PAPER](https://open.spotify.com/album/6zj9XJYbvNjJIJD5ItS4n6) | 2:43 |
 | 76 | [Every Single Weekend \(feat\. Jamie xx\)](https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Every Single Weekend \(feat\. Jamie xx\)](https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw) | 2:10 |
 | 77 | [JACKIE'S BACK](https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8) | [ASHMOOR](https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8) | [JACKIE'S BACK](https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Wake Up and Get Sexy](https://open.spotify.com/track/061lImbIi2dyZift5GqtIo) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [SYNY 3 Act I](https://open.spotify.com/album/7HcelJ0xbHNYZ5QaPTg3p9) | 2:33 |
 | 100 | [Trouble](https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:17 |
 
-Snapshot ID: `AAAAALYlcjzAJ8KMEMkbaCAxSp5eqQiu`
+Snapshot ID: `AAAAAB3ATXeJyJnZ/NqtYCw0fWJsdmwR`

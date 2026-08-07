@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-1,344 songs - 2 day 15 hr 27 min
+1,345 songs - 2 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Een mooie droom](https://open.spotify.com/track/6nxvSAvwbVJIK4CaAjwA5N) | [Zeb Maessen](https://open.spotify.com/artist/28GCtr7gDIxtcAeaaWwpIu) | [Een mooie droom](https://open.spotify.com/album/280hU6Lrftj2KAayzIzROw) | 3:10 | 2023-04-06 | 2024-04-06 |
 | [Effortless](https://open.spotify.com/track/7v8XcvDZLrpKYPj4uW9kft) | [Kol Sova](https://open.spotify.com/artist/5oIpTWc6hqFddZ5jWboQdP) | [Effortless](https://open.spotify.com/album/5AXmWOS74VEZQ7AWJbbJtk) | 3:13 | 2025-09-23 |  |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2023-04-06 | 2024-02-09 |
+| [Elara](https://open.spotify.com/track/3SY3ZH804S2s0YpzoJJZLV) | [Celestial Keys](https://open.spotify.com/artist/16P4gDv8CCUyHYh3A2EVMA) | [Elara](https://open.spotify.com/album/13gLETpm4NY0nWJJnZBGZt) | 2:09 | 2026-08-06 |  |
 | [Elastic](https://open.spotify.com/track/6EftNCIAUnD2eLoHvayt3R) | [iavú](https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my) | [Elastic](https://open.spotify.com/album/5r2zaZL1I9lqXxIVWRMkLy) | 3:07 | 2024-11-06 | 2026-02-25 |
 | [Elated](https://open.spotify.com/track/2puGc5PUqnR4nNGAM9Y7vr) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Elated](https://open.spotify.com/album/1iN6pA7dXhs5KGpRWS5Nxf) | 2:44 | 2026-01-12 |  |
 | [Elevated](https://open.spotify.com/track/0Pmh2p6tvo4nr1T1f9rzEE) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Elevated](https://open.spotify.com/album/4zoLhdFOUlIjo68auXJeYG) | 2:45 | 2024-04-05 | 2025-02-15 |

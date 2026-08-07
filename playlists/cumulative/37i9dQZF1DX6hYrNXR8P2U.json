@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "Chechi de Marcos en portada. ",
-  "name": "alt.ar",
+  "description": "Isla Mujeres en portada. ",
+  "name": "ALT.AR",
   "tracks": [
     {
       "album": {
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 230124,
       "name": "Cada Tanto",
       "url": "https://open.spotify.com/track/41mlpn5kYGVatkMR9m4al6"
@@ -3782,7 +3782,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 148421,
       "name": "EL MENSAJERO",
       "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
@@ -4603,6 +4603,24 @@
     },
     {
       "album": {
+        "name": "Fugaz",
+        "url": "https://open.spotify.com/album/5Vlpifi93Dh5znM0PS7PK0"
+      },
+      "artists": [
+        {
+          "name": "Micaela Basadoni",
+          "url": "https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259917,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/45CwAzvcLyikly2gXGeMO8"
+    },
+    {
+      "album": {
         "name": "FULL TIME",
         "url": "https://open.spotify.com/album/4Ruhef6h9LJpYPxAXxckx9"
       },
@@ -4974,7 +4992,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 204351,
       "name": "Himno del Mediocre",
       "url": "https://open.spotify.com/track/50XrXowktGr52De7w9MMrX"
@@ -5973,6 +5991,24 @@
     },
     {
       "album": {
+        "name": "HIJO DEL PA\u00cdS",
+        "url": "https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184374,
+      "name": "LEONES",
+      "url": "https://open.spotify.com/track/16gmJqNn2CJTjHwPGQQfOw"
+    },
+    {
+      "album": {
         "name": "Leopardos",
         "url": "https://open.spotify.com/album/67sfwNS6PquCyhLNVgHykg"
       },
@@ -6224,7 +6260,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 205819,
       "name": "Lo mejor",
       "url": "https://open.spotify.com/track/7FcL1jwNdxTTqpGOzfxYGC"
@@ -6396,7 +6432,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 290508,
       "name": "Los Beatles",
       "url": "https://open.spotify.com/track/1cmH8UDWWKIYuKi0QpkePI"
@@ -7302,6 +7338,24 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "album": {
+        "name": "HIJO DEL PA\u00cdS",
+        "url": "https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232125,
+      "name": "mi mejor intento..",
+      "url": "https://open.spotify.com/track/5hQcAoszsQ3afsessUJkXc"
     },
     {
       "album": {
@@ -9677,6 +9731,24 @@
     },
     {
       "album": {
+        "name": "TEMPORAL, LP.",
+        "url": "https://open.spotify.com/album/6ITfMwpGDKVTzl16mMXvYN"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/6OIWpIGJDSaiXxlmC0xgg2"
+    },
+    {
+      "album": {
         "name": "Poder",
         "url": "https://open.spotify.com/album/4g0rqG42TcD9fN6XmiGXfX"
       },
@@ -10383,6 +10455,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n va a cantar",
+        "url": "https://open.spotify.com/album/4XtW6stHkJaRAOEMYh5N7w"
+      },
+      "artists": [
+        {
+          "name": "Pilar Gough",
+          "url": "https://open.spotify.com/artist/4IEFqhF5DzMLIQqrTrmojr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "Qui\u00e9n va a cantar",
+      "url": "https://open.spotify.com/track/0rJFZjUamurKu7Y6jdBQx1"
+    },
+    {
+      "album": {
         "name": "OU OU OU",
         "url": "https://open.spotify.com/album/1R34cRh0qEd4YNRaGosZHY"
       },
@@ -10438,6 +10528,24 @@
       "duration_ms": 128001,
       "name": "RANDOM",
       "url": "https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP"
+    },
+    {
+      "album": {
+        "name": "Viaje Inaugural",
+        "url": "https://open.spotify.com/album/1a8MxHnHH2TZU6iFzeTlCW"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Raros Pensamientos",
+      "url": "https://open.spotify.com/track/2ObapW0rgtX4Ef6hgWYpiQ"
     },
     {
       "album": {
@@ -11317,6 +11425,28 @@
     },
     {
       "album": {
+        "name": "So\u00f1\u00e9 que te iba a cruzar",
+        "url": "https://open.spotify.com/album/6C6JkpMe2hz9dPEW6Y6PLp"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        },
+        {
+          "name": "Punto y Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/2Eh1KAvaiVKFDbzHh9KFhR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "So\u00f1\u00e9 que te iba a cruzar",
+      "url": "https://open.spotify.com/track/4lKhHtcYAw60nWJehiX2Hb"
+    },
+    {
+      "album": {
         "name": "Heathen Chemistry",
         "url": "https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T"
       },
@@ -11572,7 +11702,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 224402,
       "name": "TAL VEZ NO HAGA MAL",
       "url": "https://open.spotify.com/track/3SYpMeMfWyRB5SDLiVTRT8"

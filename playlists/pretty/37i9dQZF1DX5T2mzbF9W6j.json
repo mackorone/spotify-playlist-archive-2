@@ -1,12 +1,12 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112747,
+  "num_followers": 112777,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMiDDBFA30ojAagu/IcgG25rBsZ/",
+  "snapshot_id": "AAAAAGZLNdhQHh7x49qdHqJDpZuAV3lf",
   "tracks": [
     {
       "added_at": "2026-07-30 22:01:48",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-07-30 22:01:48",
       "album": {
+        "name": "Nie ma miejsca jak dom",
+        "url": "https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw"
+      },
+      "artists": [
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        }
+      ],
+      "duration_ms": 198060,
+      "name": "Nie ma miejsca jak dom",
+      "url": "https://open.spotify.com/track/2W61aot3YavDVRABULNHAy"
+    },
+    {
+      "added_at": "2026-07-30 22:01:48",
+      "album": {
         "name": "Chcia\u0142am Ciebie wi\u0119cej",
         "url": "https://open.spotify.com/album/77AYR4UvkJWArp6WxxClOS"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 186187,
       "name": "Chcia\u0142am Ciebie wi\u0119cej",
       "url": "https://open.spotify.com/track/2cym1s8XR4Z5b8qPCRhT1g"
-    },
-    {
-      "added_at": "2026-07-30 22:01:48",
-      "album": {
-        "name": "Nie ma miejsca jak dom",
-        "url": "https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw"
-      },
-      "artists": [
-        {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
-        }
-      ],
-      "duration_ms": 198060,
-      "name": "Nie ma miejsca jak dom",
-      "url": "https://open.spotify.com/track/2W61aot3YavDVRABULNHAy"
     },
     {
       "added_at": "2026-07-30 22:01:48",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2026-07-30 22:01:48",
       "album": {
-        "name": "Dotknij",
-        "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
+        "name": "Daj mi zna\u0107",
+        "url": "https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m"
       },
       "artists": [
         {
-          "name": "Daria Marx",
-          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        },
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
         }
       ],
-      "duration_ms": 154736,
-      "name": "Dotknij",
-      "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
+      "duration_ms": 179354,
+      "name": "Daj mi zna\u0107",
+      "url": "https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo"
     },
     {
       "added_at": "2026-07-30 22:01:48",
@@ -1079,18 +1083,18 @@
     {
       "added_at": "2026-07-30 22:01:48",
       "album": {
-        "name": "Wo\u0142am",
-        "url": "https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41"
+        "name": "Dotknij",
+        "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
       },
       "artists": [
         {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
         }
       ],
-      "duration_ms": 166315,
-      "name": "Wo\u0142am",
-      "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
+      "duration_ms": 154736,
+      "name": "Dotknij",
+      "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
     }
   ],
   "unique_name": "... ale najpierw kawa",

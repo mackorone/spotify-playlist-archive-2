@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : RnBoi
+> Le R&B français, nouvelle ère\. Photo : Aya Nakamura
 
-759 songs - 1 day 11 hr 41 min
+760 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [DMDT](https://open.spotify.com/track/7fc1LLZpddl1yES9vWdiin) | [Jay luv](https://open.spotify.com/artist/0zPKwOI3xzTHyGEsBxVqOs) | [DMDT](https://open.spotify.com/album/2FVcnJPvGMEK8gehgb8ZBK) | 2:50 | 2025-06-26 | 2025-08-15 |
 | [DONNE MOI](https://open.spotify.com/track/6zGlIUIqXOKApFfwCSLzzJ) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [DONNE MOI](https://open.spotify.com/album/4hGGe3pyyfwZ0D0wx370hg) | 3:26 | 2025-05-22 | 2025-09-12 |
 | [DONNE\-MOI TOUT](https://open.spotify.com/track/79cegZJZ5KhXeDMlhnvLoM) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [DONNE MOI TOUT](https://open.spotify.com/album/3lWXAEb4dAMNqPl2CFUw53) | 3:13 | 2025-10-02 | 2025-11-07 |
+| [Dopamine](https://open.spotify.com/track/36ntyJsQjDBDSAnjxz96MD) | [0zaru](https://open.spotify.com/artist/5LMCpz8qYwAGcVSyNX0gvH) | [Dopamine](https://open.spotify.com/album/1TihwEVRCTG3DusEz0Rlr4) | 2:31 | 2026-08-06 |  |
 | [Dose](https://open.spotify.com/track/5UgJpQ5ZAGE2mYSxsW637J) | [Kiara Prince](https://open.spotify.com/artist/69v2Fln5aOlWgbGQuOidIB) | [1m65](https://open.spotify.com/album/7yrDGWcX1r3AFHgZMoW5SY) | 3:08 | 2025-10-23 | 2025-11-14 |
 | [Double Jeu](https://open.spotify.com/track/5CkrxFlXXBSLqs3cslTnpF) | [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Double Jeu](https://open.spotify.com/album/7siHw2KsKpvxF3QWIaFAz2) | 2:44 | 2023-11-16 | 2023-12-30 |
 | [Doudou](https://open.spotify.com/track/6Gjm6vFZqzoXvHiokZLIeO) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [ELA M](https://open.spotify.com/album/3iZuHsvqzdnzRGKHGIojyA) | 2:49 | 2024-07-04 | 2024-11-15 |
@@ -647,7 +648,7 @@
 | [So nice](https://open.spotify.com/track/6Re9zzwNKxOeMfXj2muHbm) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [So nice](https://open.spotify.com/album/0ShQLD5CRIH9WVSnziuBkh) | 2:46 | 2024-07-18 | 2024-10-11 |
 | [Soeurcière](https://open.spotify.com/track/5uguWUlKcGKjt9RB2NE3r7) | [Djena Della](https://open.spotify.com/artist/3NwVTaECP58CZdzeXMPYVc) | [Soeurcière](https://open.spotify.com/album/4G1rSDRhgiL5nukWB3pJ7b) | 2:33 | 2023-03-30 | 2023-04-28 |
 | [Soir](https://open.spotify.com/track/4ZE549LjUxCk0d9OTasc99) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [WONDERSUMMER](https://open.spotify.com/album/7rs9gnSL0Jt5vve7D43wf0) | 2:15 | 2026-06-18 |  |
-| [Soko](https://open.spotify.com/track/6aEMbGeHmyih8FnAgoXQl1) | [Asnath](https://open.spotify.com/artist/4l79dXUdYJt2UJZlIeaxwx), [Negrito](https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K) | [Soko](https://open.spotify.com/album/2dBA1YHMK490XCnZ0NbP4Z) | 2:03 | 2026-07-16 |  |
+| [Soko](https://open.spotify.com/track/6aEMbGeHmyih8FnAgoXQl1) | [Asnath](https://open.spotify.com/artist/4l79dXUdYJt2UJZlIeaxwx), [Negrito](https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K) | [Soko](https://open.spotify.com/album/2dBA1YHMK490XCnZ0NbP4Z) | 2:03 | 2026-07-16 | 2026-08-07 |
 | [SOLD OUT !](https://open.spotify.com/track/5xxfiqrm3wj6h8GYS3Hwkb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:03 | 2024-02-15 | 2024-09-27 |
 | [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 | 2024-06-06 | 2025-01-03 |
 | [Solide](https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [OMW](https://open.spotify.com/album/1APrydqpXaHpfA3RZcbu07) | 3:32 | 2025-11-13 | 2026-03-27 |

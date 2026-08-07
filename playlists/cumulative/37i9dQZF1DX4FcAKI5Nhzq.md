@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: NouerA\)
+> Future K\-Pop hits! \(Cover: WHIB\)
 
-1,793 songs - 3 day 23 hr 38 min
+1,794 songs - 3 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Alone \(Feat\. LeeHi\)](https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [ALONE](https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP) | 2:59 | 2022-06-29 | 2022-09-02 |
 | [Always](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Always](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) | 3:06 | 2022-02-23 | 2022-05-14 |
 | [Always a Good Time \(Prod\. THE HUB\)](https://open.spotify.com/track/5qPb6NHs4nX6LKBWo390mx) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK) | 2:46 | 2025-05-28 | 2025-06-21 |
-| [AMAZING \(feat\. Sik\-K\)](https://open.spotify.com/track/0h97ZHSA2ZSw7Gfz1NKTDY) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FOREVER KIDS](https://open.spotify.com/album/3EhMtYhrnZ1XDJ7FyzmRLq) | 3:39 | 2026-06-27 |  |
+| [AMAZING \(feat\. Sik\-K\)](https://open.spotify.com/track/0h97ZHSA2ZSw7Gfz1NKTDY) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FOREVER KIDS](https://open.spotify.com/album/3EhMtYhrnZ1XDJ7FyzmRLq) | 3:39 | 2026-06-27 | 2026-08-07 |
 | [Amnesia](https://open.spotify.com/track/6tIIC3K58Sk6Et8KYmynez) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [CONTINUUM](https://open.spotify.com/album/2AsnF98Eiqyyz1KtvmBhQP) | 2:58 | 2023-11-24 | 2024-01-11 |
 | [AMNESIA](https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [AMNESIA](https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs) | 3:19 | 2023-12-21 | 2024-02-16 |
 | [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 | 2020-12-21 | 2021-04-22 |
@@ -288,6 +288,7 @@
 | [Cheese](https://open.spotify.com/track/6x5mCFqbpUfjAq6Egyjl2c) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Cheese](https://open.spotify.com/album/7qx75T9tAxkomFYsmFADV1) | 3:06 | 2024-05-23 | 2024-06-24 |
 | [CHERRY](https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:30 | 2021-09-28 | 2021-11-24 |
 | [Cherry Cola](https://open.spotify.com/track/1nqau4dspD8bkrNZuIcmQv) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Cherry Cola](https://open.spotify.com/album/1CdJ5zGeJ1irYnBZ59zZ5S) | 2:30 | 2026-07-04 |  |
+| [CHERRY PIE](https://open.spotify.com/track/233xgksBgzpEwH9tKiAzz9) | [WHIB](https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb) | [CHERRY PIE](https://open.spotify.com/album/6r9J12vrlqV47LJcXlYgi2) | 2:37 | 2026-08-06 |  |
 | [Cherry Talk](https://open.spotify.com/track/7CmjviM3EY4Xi7w8VzeULP) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [+\(KR\)ystal Eyes <AESTHETIC>](https://open.spotify.com/album/5GNSmUrJmZvgBvouXS8ZGp) | 2:51 | 2023-05-15 | 2023-07-26 |
 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 | 2021-06-18 | 2021-08-11 |
 | [Chi\-Ka](https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Chi\-Ka](https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb) | 3:23 | 2024-03-14 | 2024-04-19 |

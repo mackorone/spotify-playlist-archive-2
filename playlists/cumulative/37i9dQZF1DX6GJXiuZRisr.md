@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-696 songs - 1 day 23 hr 35 min
+697 songs - 1 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Hero](https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE), [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik) | [Spectacle](https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1) | 3:13 | 2021-05-07 | 2023-03-29 |
 | [Hey Boy Hey Girl \- ARTBAT Remix](https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Hey Boy Hey Girl \(ARTBAT Remix\)](https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz) | 3:12 | 2024-05-24 | 2026-03-21 |
 | [Hide and Seek \- Le Youth Remix](https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Hide and Seek \(Le Youth Remix\)](https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO) | 3:51 | 2021-05-07 | 2023-11-18 |
+| [High On A Feeling](https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [FR3ADY](https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya), [JULIANNA](https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q) | [High On A Feeling](https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR) | 3:31 | 2026-07-31 |  |
 | [Higher](https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 | 2023-08-11 | 2025-05-03 |
 | [Higher](https://open.spotify.com/track/7pBUtlTE8IJZ6mvKloa6T0) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV), [Boxer](https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG) | [Higher](https://open.spotify.com/album/6dfeKG9t94b3SZGdESfAqn) | 3:48 | 2022-01-14 | 2022-07-29 |
 | [Hold](https://open.spotify.com/track/0vF6GWMwgKg3wsQkBSIaWY) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Hold / Clear](https://open.spotify.com/album/7dqvUrexp59UCzp5ZIbDhO) | 4:07 | 2021-08-20 | 2022-07-28 |
@@ -586,7 +587,7 @@
 | [Take Me Home](https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Take Me Home](https://open.spotify.com/album/591dja1K2VghhGHhGw8adX) | 3:08 | 2024-05-03 | 2024-07-02 |
 | [Take Me There](https://open.spotify.com/track/2EeNjDGRMgtFfDbwqVVKbs) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Take Me There](https://open.spotify.com/album/67c9idGRZEMdOXjWhbhLcj) | 3:08 | 2022-03-04 | 2022-07-29 |
 | [Take Me Up](https://open.spotify.com/track/1lY2Uhz2R15ks7kqDc0tGD) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y) | [Take Me Up](https://open.spotify.com/album/7os08OWk7r3JfGw78VXMNh) | 2:27 | 2023-07-14 | 2023-09-30 |
-| [Talk](https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Talk](https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I) | 3:34 | 2026-05-15 |  |
+| [Talk](https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Talk](https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I) | 3:34 | 2026-05-15 | 2026-08-07 |
 | [Tantrum](https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tantrum](https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF) | 3:49 | 2021-10-01 | 2023-05-20 |
 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 | 2024-07-12 | 2025-05-03 |
 | [Tears Don’t Fall](https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [ENISA](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Tears Don’t Fall](https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj) | 3:34 | 2024-08-30 |  |

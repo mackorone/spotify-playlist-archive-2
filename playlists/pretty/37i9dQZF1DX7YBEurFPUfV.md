@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Sanfara
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,175 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,173 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Black List](https://open.spotify.com/track/0smqucTLlBbHGBBiyN7s28) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP) | [Podcast](https://open.spotify.com/album/114VhmYj8kqeWgSvSB1m75) | 3:20 |
-| 2 | [Soumi Ghali](https://open.spotify.com/track/06pmPZIJER841SqzqkOlgu) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Soumi Ghali](https://open.spotify.com/album/37lac9I41TB0xEslxzgFyd) | 2:56 |
+| 2 | [DIOR](https://open.spotify.com/track/0WCh8CNZumQd8RoXSvBckW) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [DIOR](https://open.spotify.com/album/0il2n2Jysdc7YTsCmWIEq1) | 2:22 |
 | 3 | [OLA MAMACITA](https://open.spotify.com/track/5ha4Kh8bZZVDZbF1GfbAte) | [XIIVI](https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N), [$MXTI](https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO) | [SOUND SHIFTA \(Vol\. 1\)](https://open.spotify.com/album/3OkS3vrMBiEHRYsclvuO1B) | 2:17 |
-| 4 | [EEE](https://open.spotify.com/track/2OmAVXEptbA2EEApxV1IoC) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa) | [GAGA](https://open.spotify.com/album/7evma9YyvpwpHd6DRoawZj) | 2:19 |
-| 5 | [DIOR](https://open.spotify.com/track/0WCh8CNZumQd8RoXSvBckW) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [DIOR](https://open.spotify.com/album/0il2n2Jysdc7YTsCmWIEq1) | 2:22 |
-| 6 | [OLA MAMACITA](https://open.spotify.com/track/177S2XhyAhcxsk3hakffJN) | [XIIVI](https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N), [$MXTI](https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO) | [OLA MAMACITA](https://open.spotify.com/album/5HaMYk2wii197932giANzQ) | 2:17 |
+| 4 | [A ce point](https://open.spotify.com/track/6R4IOjbkUhp6TqLFT424aC) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [A ce point](https://open.spotify.com/album/1GyTnZtOG9wD26lVIG99ZK) | 3:31 |
+| 5 | [Soumi Ghali](https://open.spotify.com/track/06pmPZIJER841SqzqkOlgu) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Soumi Ghali](https://open.spotify.com/album/37lac9I41TB0xEslxzgFyd) | 2:56 |
+| 6 | [EEE](https://open.spotify.com/track/2OmAVXEptbA2EEApxV1IoC) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa) | [GAGA](https://open.spotify.com/album/7evma9YyvpwpHd6DRoawZj) | 2:19 |
 | 7 | [4 You](https://open.spotify.com/track/4a8HdnGS5vrVA9Yq4gNO2o) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [4 You](https://open.spotify.com/album/37uNbBPVOXcRfNo8AUaRK8) | 2:45 |
 | 8 | [Doctorat](https://open.spotify.com/track/4QelrPc5Hukm5cM6FKIRG0) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Doctorat](https://open.spotify.com/album/673MYs7BkJz4DoHiDUOeY2) | 3:32 |
 | 9 | [Solo](https://open.spotify.com/track/35SGxqqbEWmGTXbnsKkbYt) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Solo](https://open.spotify.com/album/01H3uuzW07GqjNtveuvWiV) | 3:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 59 | [Nsit Noum](https://open.spotify.com/track/6a7mYd9Iud4JIAwUvRQtSC) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 2:53 |
 | 60 | [THANNA](https://open.spotify.com/track/6ByC9ct1jz0yUnqWa4SRdz) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:58 |
 
-Snapshot ID: `AAAAAFm53G2mjGmiMEHmHYQ+ihNwbOq/`
+Snapshot ID: `AAAAAO6vKavj1X7lMIUIzgsrAcWR9BZN`

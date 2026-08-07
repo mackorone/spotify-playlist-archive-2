@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: HOA\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: george\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-687 songs - 1 day 16 hr 19 min
+688 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [I'm still](https://open.spotify.com/track/70wcBG1lxbUprrKO0I9KZd) | [Milkyway](https://open.spotify.com/artist/6aX7ah5QJ3j0bGayACYG3T) | [I'm still](https://open.spotify.com/album/690lOUFowAqa4cUyD5ANcU) | 4:26 | 2022-03-31 | 2022-04-04 |
 | [If](https://open.spotify.com/track/4VEoAZMJIQhrCQMUuSz1EO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WOMAN \- The 9th Album](https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP) | 3:16 | 2022-03-31 | 2022-04-14 |
 | [If](https://open.spotify.com/track/0zaHICE67lr13INMJggubW) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:47 | 2021-12-10 | 2022-07-26 |
+| [if i’m with you](https://open.spotify.com/track/0r8x5ercAQKwRE4U85EZbE) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [if i’m with you](https://open.spotify.com/album/3AzI8LdP4LZ9wHRMqV3V2B) | 3:44 | 2026-08-07 |  |
 | [If We Are](https://open.spotify.com/track/09Cs0Cl8SJ7Sk7BU8XtHNW) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [O1NE](https://open.spotify.com/album/4wIYn2e6gZ4nRGCnzs1qxZ) | 4:03 | 2022-03-31 | 2022-04-19 |
 | [Illusion](https://open.spotify.com/track/5tjOoiLf3bixVzBHaEoNEP) | [피움\(P:UM\)](https://open.spotify.com/artist/7hBytcciNlKZKeI02mD3ET) | [Illusion](https://open.spotify.com/album/41ud8ZZDQOwXP374XyX3HI) | 3:42 | 2022-03-31 | 2022-04-06 |
 | [iMessage \(feat\. Yeongene\)](https://open.spotify.com/track/3UASE6XnUUZnajVFc8DgBm) | [Uaieo](https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf), [Yeongene](https://open.spotify.com/artist/6EIodgHkqbx8zdgFCE06CL) | [iMessage](https://open.spotify.com/album/1dKIGupdr1iOs4cIqPK1JW) | 3:18 | 2022-06-18 | 2022-07-05 |
@@ -539,7 +540,7 @@
 | [The end](https://open.spotify.com/track/1YtcUMj2HBDcD0wgNFGCAW) | [ONL](https://open.spotify.com/artist/0liJPOMxnzqzSVesgtun1D) | [Be opposite](https://open.spotify.com/album/7FxTHRGeQdiJSIaERNzWMZ) | 4:47 | 2023-01-25 | 2023-02-25 |
 | [The Fool](https://open.spotify.com/track/1FheANRtzXpettNJ5cK7O8) | [Hebron](https://open.spotify.com/artist/2qthTndkpNYZpgngO0yrYV) | [The Fool](https://open.spotify.com/album/2a71guGlU9TApuOxrB8cod) | 3:22 | 2024-02-07 | 2024-02-14 |
 | [The Galaxy](https://open.spotify.com/track/5NFLTPYWlGDYAtVGwRiZK6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Natural II](https://open.spotify.com/album/6BZ0Ush9k3SSeUcZTuEgs2) | 4:26 | 2024-03-28 | 2024-04-10 |
-| [The Great Hazby](https://open.spotify.com/track/3SdLsEXat6fpXaegKktrBe) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [The Great Hazby](https://open.spotify.com/album/4g0dflhZXyNLBe0WnECAsL) | 2:17 | 2026-07-24 |  |
+| [The Great Hazby](https://open.spotify.com/track/3SdLsEXat6fpXaegKktrBe) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [The Great Hazby](https://open.spotify.com/album/4g0dflhZXyNLBe0WnECAsL) | 2:17 | 2026-07-24 | 2026-08-07 |
 | [The Light and Dance Within Us](https://open.spotify.com/track/7o9tc25rXr8AJ0OKr2hlUJ) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [The Light and Dance Within Us](https://open.spotify.com/album/7xGIdGeWZTxKTBsADPBI9P) | 3:40 | 2024-10-25 | 2024-11-07 |
 | [the little bird](https://open.spotify.com/track/4gCFdnWECBfGMEsd4SIRZf) | [손지연](https://open.spotify.com/artist/6HRhT5r6vw4OVYvpewi9h5) | [synch breath](https://open.spotify.com/album/3Mw6KU6lx6BoiGTcQzUF0C) | 4:17 | 2025-07-11 | 2025-07-18 |
 | [the moment i see you](https://open.spotify.com/track/6KHoFpqwiy8W6yUTrLFXFl) | [Park Bo\-young](https://open.spotify.com/artist/0jMuf24m4Bn1vcdQmvGp3z) | [the moment i see you](https://open.spotify.com/album/6JIcH9zOzvROTIe7PtqgLq) | 3:22 | 2025-06-13 | 2025-07-24 |

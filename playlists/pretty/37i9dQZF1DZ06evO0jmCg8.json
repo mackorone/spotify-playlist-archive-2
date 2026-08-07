@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 81371,
+  "num_followers": 81378,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAABGqDPC6pHJWiAXNWQh1lAv",
+  "snapshot_id": "anJ9AAAAAABp5mW8LAVTIumMIz2Q6/RH",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 298000,
-      "name": "The Watcher",
-      "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
+      "duration_ms": 231773,
+      "name": "Deceiver, Deceiver",
+      "url": "https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 231773,
-      "name": "Deceiver, Deceiver",
-      "url": "https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp"
+      "duration_ms": 298000,
+      "name": "The Watcher",
+      "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 261706,
-      "name": "Yesterday Is Dead and Gone",
-      "url": "https://open.spotify.com/track/0AOQFMydzS4AkbElri4FGw"
+      "duration_ms": 289000,
+      "name": "Bloodstained Cross",
+      "url": "https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 289000,
-      "name": "Bloodstained Cross",
-      "url": "https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV"
+      "duration_ms": 261706,
+      "name": "Yesterday Is Dead and Gone",
+      "url": "https://open.spotify.com/track/0AOQFMydzS4AkbElri4FGw"
     },
     {
       "added_at": null,

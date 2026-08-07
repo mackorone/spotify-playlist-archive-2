@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Odeal
 
-1,400 songs - 3 day 4 hr 2 min
+1,401 songs - 3 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [I Found My Smile Again \(Radio Edit\)](https://open.spotify.com/track/3uq6qe8ouF012GLOcLyWcH) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [I Found My Smile Again](https://open.spotify.com/album/2DuxNAsjra84Q3zYu1LG6I) | 4:00 | 2025-10-15 | 2025-10-24 |
 | [I Have Nothing More To Tell You](https://open.spotify.com/track/4Bp84QWTyAebE3lh2GhSAL) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Dill](https://open.spotify.com/artist/1tSS7fsN2FGnObEOZLHnld) | [I Have Nothing More To Tell You](https://open.spotify.com/album/4yjkFiQ9D26TqJkEJDHS7t) | 2:57 | 2024-11-14 | 2025-01-17 |
 | [I Imagine \(with Hope Tala\)](https://open.spotify.com/track/430rbHunIAZUcA9Cy2ymU5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [I Imagine \(with Hope Tala\)](https://open.spotify.com/album/0piQOFAI3t9FjSP3re0Bp9) | 2:23 | 2025-06-27 | 2025-07-11 |
+| [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/track/06cz05YQ32UqnLjxYGrOvj) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Don't You Want Me](https://open.spotify.com/album/4yMS0dBNInnEnN9R3KqPQj) | 4:46 | 2026-07-30 |  |
 | [I Know, No More](https://open.spotify.com/track/3EGXdRqbMKF9Pl4k1gus19) | [HANISA](https://open.spotify.com/artist/12aAsVqTdYv0Tp3bv3g7xk), [K\. Waltz](https://open.spotify.com/artist/3BHkRxnW7S4BB7jPJWNKCB), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [RECEIPTS 01](https://open.spotify.com/album/1WAX6ORaaQk526wrXnmC9V) | 2:50 | 2025-01-24 | 2025-02-14 |
 | [I Like It \(feat\. nomoe\)](https://open.spotify.com/track/2yZZEapVT0EiQVUilkWrli) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [QUARAW](https://open.spotify.com/artist/1vwJdPI8K8wdoQQTLdv0Dc), [nomoe](https://open.spotify.com/artist/5m97aceHZJPW3c1CyxKeSu) | [I Like It \(feat\. nomoe\)](https://open.spotify.com/album/7wGzCYdTyqwBd6BtNR40mC) | 2:15 | 2025-02-27 | 2025-06-07 |
 | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/track/5S14RsWa0spDpV6ek557Wa) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/album/3z3jThgipmiUWDf9RzRPrU) | 3:04 | 2024-10-03 | 2024-12-06 |

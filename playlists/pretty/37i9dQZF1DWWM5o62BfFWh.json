@@ -1,12 +1,12 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Dany Ome & Kevincito El 13",
-  "num_followers": 167181,
+  "num_followers": 167192,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANp7PefKaGPEz2hn73hBRug5fNkT",
+  "snapshot_id": "AAAAAPdBPOV9E+cMaZmw19KNH3Ghorjk",
   "tracks": [
     {
       "added_at": "2026-07-31 16:05:56",
@@ -35,30 +35,26 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "El Doctorado (Version Reparto)",
-        "url": "https://open.spotify.com/album/7pNWXIymnnBw1juQXNYkq5"
+        "name": "Yo Voy A Mi",
+        "url": "https://open.spotify.com/album/4Vc21yuEvQkoALaEh8biTn"
       },
       "artists": [
         {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+          "name": "Ya Ice Dilan",
+          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
         },
         {
-          "name": "Seikan Anikila",
-          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
+          "name": "JipMusic Global",
+          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
         },
         {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
         }
       ],
-      "duration_ms": 221671,
-      "name": "El Doctorado - Version Reparto",
-      "url": "https://open.spotify.com/track/4qSL6Aod9WdNtIEXZpyiYO"
+      "duration_ms": 164009,
+      "name": "Yo Voy A Mi",
+      "url": "https://open.spotify.com/track/0P5jGd8WjbisrkskU4bqQI"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -95,18 +91,30 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "El Mambo",
-        "url": "https://open.spotify.com/album/4x4MeHDoVU7VRVJwrt4QRC"
+        "name": "El Doctorado (Version Reparto)",
+        "url": "https://open.spotify.com/album/7pNWXIymnnBw1juQXNYkq5"
       },
       "artists": [
         {
-          "name": "Kiko Rivera",
-          "url": "https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF"
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+        },
+        {
+          "name": "Seikan Anikila",
+          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
         }
       ],
-      "duration_ms": 129845,
-      "name": "El Mambo",
-      "url": "https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH"
+      "duration_ms": 221671,
+      "name": "El Doctorado - Version Reparto",
+      "url": "https://open.spotify.com/track/4qSL6Aod9WdNtIEXZpyiYO"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -135,6 +143,22 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
+        "name": "El Mambo",
+        "url": "https://open.spotify.com/album/4x4MeHDoVU7VRVJwrt4QRC"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rivera",
+          "url": "https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF"
+        }
+      ],
+      "duration_ms": 129845,
+      "name": "El Mambo",
+      "url": "https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
         "name": "D\u00e1ndote To'",
         "url": "https://open.spotify.com/album/6LrV0bnO1eV7cdUWSKwfFV"
       },
@@ -155,6 +179,38 @@
       "duration_ms": 169200,
       "name": "D\u00e1ndote To' - Prod. by Dj Honda x Dave Produce",
       "url": "https://open.spotify.com/track/3SUNpMRAhwDjf4aymN24kv"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
+        "name": "MA...RICONA",
+        "url": "https://open.spotify.com/album/20Vh7o18Q2ksMIWiklF1pv"
+      },
+      "artists": [
+        {
+          "name": "Ya Ice Dilan",
+          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
+        },
+        {
+          "name": "Dany Ome",
+          "url": "https://open.spotify.com/artist/4uQjbkbjzXEE1SsnMHFK1v"
+        },
+        {
+          "name": "Kevincito El 13",
+          "url": "https://open.spotify.com/artist/3ajdx40gqTuGi01ZemBDe9"
+        },
+        {
+          "name": "JipMusic Global",
+          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "duration_ms": 182631,
+      "name": "MA...RICONA - Prod. by Dj Honda",
+      "url": "https://open.spotify.com/track/5MDyrjb27trxs69A6MPegx"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -183,58 +239,6 @@
       "duration_ms": 254836,
       "name": "Pa Que Escondernos - Remix",
       "url": "https://open.spotify.com/track/3mX4eNCbBMFOXQuD5AbXsB"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
-        "name": "Un Tin",
-        "url": "https://open.spotify.com/album/09O95K9qFd4XjwXbNBGL2p"
-      },
-      "artists": [
-        {
-          "name": "Payaso x Ley",
-          "url": "https://open.spotify.com/artist/0ZbitUHy4wYrvbCiRPS1qA"
-        },
-        {
-          "name": "ROWELL URBAN",
-          "url": "https://open.spotify.com/artist/3U7jalS24p7JJRJs95Sktl"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        },
-        {
-          "name": "Befocus Music",
-          "url": "https://open.spotify.com/artist/6ovtk2HgICEX3iFpQrw4rn"
-        }
-      ],
-      "duration_ms": 209342,
-      "name": "Un Tin",
-      "url": "https://open.spotify.com/track/07Q92PJZXSZrdwM0Xm5aBd"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
-        "name": "Yo Voy A Mi",
-        "url": "https://open.spotify.com/album/4Vc21yuEvQkoALaEh8biTn"
-      },
-      "artists": [
-        {
-          "name": "Ya Ice Dilan",
-          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
-        },
-        {
-          "name": "JipMusic Global",
-          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
-        },
-        {
-          "name": "Dj Honda",
-          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
-        }
-      ],
-      "duration_ms": 164009,
-      "name": "Yo Voy A Mi",
-      "url": "https://open.spotify.com/track/0P5jGd8WjbisrkskU4bqQI"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -295,22 +299,6 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "Tiene De Mami De Papi",
-        "url": "https://open.spotify.com/album/3B2NnLawYCFqwunM315eMn"
-      },
-      "artists": [
-        {
-          "name": "Baby Maikol",
-          "url": "https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U"
-        }
-      ],
-      "duration_ms": 171461,
-      "name": "Tiene De Mami De Papi",
-      "url": "https://open.spotify.com/track/7pATpkt5YKGakLPBPMOzbW"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
         "name": "H\u00e1blame de Miami",
         "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
       },
@@ -331,34 +319,22 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "MA...RICONA",
-        "url": "https://open.spotify.com/album/20Vh7o18Q2ksMIWiklF1pv"
+        "name": "Imaginaciones M\u00edas",
+        "url": "https://open.spotify.com/album/4pPtByLZrHAvku5YHRcNVI"
       },
       "artists": [
         {
-          "name": "Ya Ice Dilan",
-          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
-        },
-        {
-          "name": "Dany Ome",
-          "url": "https://open.spotify.com/artist/4uQjbkbjzXEE1SsnMHFK1v"
-        },
-        {
-          "name": "Kevincito El 13",
-          "url": "https://open.spotify.com/artist/3ajdx40gqTuGi01ZemBDe9"
-        },
-        {
-          "name": "JipMusic Global",
-          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
+          "name": "Bebeshito",
+          "url": "https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7"
         },
         {
           "name": "Dj Honda",
           "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
         }
       ],
-      "duration_ms": 182631,
-      "name": "MA...RICONA - Prod. by Dj Honda",
-      "url": "https://open.spotify.com/track/5MDyrjb27trxs69A6MPegx"
+      "duration_ms": 185716,
+      "name": "Imaginaciones M\u00edas - Prod. by Dj Honda",
+      "url": "https://open.spotify.com/track/4GEo3qxuBxp7nmEn9cbPcO"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -403,22 +379,18 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "Imaginaciones M\u00edas",
-        "url": "https://open.spotify.com/album/4pPtByLZrHAvku5YHRcNVI"
+        "name": "Tiene De Mami De Papi",
+        "url": "https://open.spotify.com/album/3B2NnLawYCFqwunM315eMn"
       },
       "artists": [
         {
-          "name": "Bebeshito",
-          "url": "https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7"
-        },
-        {
-          "name": "Dj Honda",
-          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+          "name": "Baby Maikol",
+          "url": "https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U"
         }
       ],
-      "duration_ms": 185716,
-      "name": "Imaginaciones M\u00edas - Prod. by Dj Honda",
-      "url": "https://open.spotify.com/track/4GEo3qxuBxp7nmEn9cbPcO"
+      "duration_ms": 171461,
+      "name": "Tiene De Mami De Papi",
+      "url": "https://open.spotify.com/track/7pATpkt5YKGakLPBPMOzbW"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -471,6 +443,50 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/7C3VkDmLRuhVgJXnIhQ1Ho"
+      },
+      "artists": [
+        {
+          "name": "Wildey",
+          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
+        },
+        {
+          "name": "Anyelazo",
+          "url": "https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/298uOWWkAYQ0IgnMKbcjZX"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
+        "name": "Mi Lugar Favorito (Prod. by Ernesto Losa, Roberto Ferrante)",
+        "url": "https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
+        }
+      ],
+      "duration_ms": 158484,
+      "name": "Mi Lugar Favorito - Prod. by Ernesto Losa, Roberto Ferrante",
+      "url": "https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/6GPX8ih1SqGIY87K4dcJ2Y"
       },
@@ -503,50 +519,6 @@
       "duration_ms": 218971,
       "name": "Fantasia - Prod. by Dave Produce x Michel Boutic",
       "url": "https://open.spotify.com/track/1fm0VuzsnXbS1ovFLYol67"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
-        "name": "Mi Lugar Favorito (Prod. by Ernesto Losa, Roberto Ferrante)",
-        "url": "https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        },
-        {
-          "name": "Roberto Ferrante",
-          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
-        }
-      ],
-      "duration_ms": 158484,
-      "name": "Mi Lugar Favorito - Prod. by Ernesto Losa, Roberto Ferrante",
-      "url": "https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/7C3VkDmLRuhVgJXnIhQ1Ho"
-      },
-      "artists": [
-        {
-          "name": "Wildey",
-          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
-        },
-        {
-          "name": "Anyelazo",
-          "url": "https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/298uOWWkAYQ0IgnMKbcjZX"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -751,6 +723,50 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
+        "name": "Un Tiempo (Remix)",
+        "url": "https://open.spotify.com/album/2FDk8opYaD456Vo5BVp6aG"
+      },
+      "artists": [
+        {
+          "name": "Velito el Buf\u00f3n",
+          "url": "https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB"
+        },
+        {
+          "name": "Yorshi & Yosan",
+          "url": "https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO"
+        },
+        {
+          "name": "Charaway",
+          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
+        },
+        {
+          "name": "Fernando Produce",
+          "url": "https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ"
+        }
+      ],
+      "duration_ms": 163467,
+      "name": "Un Tiempo - Remix",
+      "url": "https://open.spotify.com/track/4GQ9GqaJgxpoYQdT9XDmys"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
         "name": "POQUITICO",
         "url": "https://open.spotify.com/album/6qHvjG50ACS7ELdCLBmOFT"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
         "name": "E-Charla",
         "url": "https://open.spotify.com/album/2mDJ4ckYrPXq8leJmFqDHp"
       },
@@ -819,34 +819,6 @@
       "duration_ms": 219107,
       "name": "E-Charla",
       "url": "https://open.spotify.com/track/2xYin099dsquBdgTEQe4Oh"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
-        "name": "Un Tiempo (Remix)",
-        "url": "https://open.spotify.com/album/2FDk8opYaD456Vo5BVp6aG"
-      },
-      "artists": [
-        {
-          "name": "Velito el Buf\u00f3n",
-          "url": "https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB"
-        },
-        {
-          "name": "Yorshi & Yosan",
-          "url": "https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO"
-        },
-        {
-          "name": "Charaway",
-          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
-        },
-        {
-          "name": "Fernando Produce",
-          "url": "https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ"
-        }
-      ],
-      "duration_ms": 163467,
-      "name": "Un Tiempo - Remix",
-      "url": "https://open.spotify.com/track/4GQ9GqaJgxpoYQdT9XDmys"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -1131,18 +1103,18 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
+        "name": "La Chiva",
+        "url": "https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct"
       },
       "artists": [
         {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+          "name": "Ronkalunga",
+          "url": "https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC"
         }
       ],
-      "duration_ms": 219333,
-      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
-      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
+      "duration_ms": 250456,
+      "name": "El Millonario",
+      "url": "https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -1167,18 +1139,34 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "La Chiva",
-        "url": "https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct"
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
       },
       "artists": [
         {
-          "name": "Ronkalunga",
-          "url": "https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC"
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
         }
       ],
-      "duration_ms": 250456,
-      "name": "El Millonario",
-      "url": "https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R"
+      "duration_ms": 219333,
+      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
+      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
+        "name": "El de Pi",
+        "url": "https://open.spotify.com/album/33DrhmxhAI9WShK28kXB9H"
+      },
+      "artists": [
+        {
+          "name": "El Chulo",
+          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+        }
+      ],
+      "duration_ms": 196472,
+      "name": "El de Pi",
+      "url": "https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG"
     }
   ],
   "unique_name": "Hecho en Cuba",

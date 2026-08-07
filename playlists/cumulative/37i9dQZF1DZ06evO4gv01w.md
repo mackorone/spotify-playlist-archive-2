@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-212 songs - 12 hr 30 min
+213 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,8 +146,9 @@
 | [Mississippi](https://open.spotify.com/track/7CXRa4YziOw5uppjyrNn4m) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Venom & Faith](https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs) | 3:39 | 2023-11-10 | 2026-01-15 |
 | [Mississippi \(feat\. Tyler Bryant\)](https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/0bTTcuusNCpoWFLnKdNZwC) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:39 | 2023-06-17 |  |
 | [Mockingbird](https://open.spotify.com/track/04GLIP00vRsOHC6m7P6Cps) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mockingbird](https://open.spotify.com/album/6hssadq1z58kah8yy7HHRS) | 4:06 | 2024-10-27 | 2024-11-24 |
-| [Mockingbird](https://open.spotify.com/track/3usTtVN7xhVDvmAD7NG5CD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2) | 4:06 | 2026-06-01 |  |
+| [Mockingbird](https://open.spotify.com/track/3usTtVN7xhVDvmAD7NG5CD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2) | 4:06 | 2026-06-01 | 2026-08-07 |
 | [Mockingbird](https://open.spotify.com/track/6J6MRQCFntHLHUovYUFJC6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mockingbird](https://open.spotify.com/album/6WXRDcHhPvdHZ2euLWGldM) | 4:06 | 2024-10-26 | 2025-02-01 |
+| [Mockingbird](https://open.spotify.com/track/6ww6Jhl1ciBSMARpaQkDp4) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/7G0BrdROBgIMcEbYyelQ71) | 4:06 | 2026-08-07 |  |
 | [Mockingbird](https://open.spotify.com/track/7kiwF7Shhi48WbBNswDhqb) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:06 | 2025-02-23 | 2026-06-01 |
 | [Mockingbird \- Unplugged](https://open.spotify.com/track/3506MAAZ175xoFrLAsp65Z) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mockingbird \(Unplugged\)](https://open.spotify.com/album/4Zpta4p5CW0taFXqri9vNj) | 4:19 | 2025-09-13 | 2025-10-09 |
 | [Nights In White Satin](https://open.spotify.com/track/1dVLQBgBkC8PEt4vd8xVOy) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme) | 3:40 | 2023-03-19 | 2026-03-09 |

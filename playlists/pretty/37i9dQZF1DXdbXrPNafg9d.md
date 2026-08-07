@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > It's been 16 years..\. Cover: The Durutti Column
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,289,454 likes - 201 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,289,399 likes - 201 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 115 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
 | 116 | [Wanna Get Free](https://open.spotify.com/track/5xOwaw30UPg9u1yJOQFujy) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Sweet Thief](https://open.spotify.com/album/6GbmTCqvdEbaKmsCIvdXYz) | 3:50 |
 | 117 | [Pieces](https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Pieces](https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj) | 2:47 |
-| 118 | [melody](https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [melody](https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg) | 2:38 |
+| 118 | [melody](https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt) | [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [melody](https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg) | 2:38 |
 | 119 | [Every Day](https://open.spotify.com/track/6LGleR0KKUqSISnXp93l4F) | [Lockimara](https://open.spotify.com/artist/6drdBXL5XPxCQnOdBz6rJx) | [Every Day](https://open.spotify.com/album/5GRVUvLhDNPG2quxf8hx5T) | 3:59 |
 | 120 | [Blood](https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Role Model Hermit](https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh) | 3:56 |
 | 121 | [Gospel Oak](https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib) | 2:35 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 200 | [naming you](https://open.spotify.com/track/6IY9hrzdfTJZm8eMtVfCp2) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [naming you / swim in illyria](https://open.spotify.com/album/1BmmcpsWMjkAFgLUSeplYp) | 3:21 |
 | 201 | [Heatwave](https://open.spotify.com/track/3l8uXR5okOwmQxAfO3xiAZ) | [Paycheque](https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe) | [Paycheque](https://open.spotify.com/album/0SKergeG1jqceKcvCw8c9J) | 3:11 |
 
-Snapshot ID: `AAAAAIvudyilDmBqwvt633xnGpuZquKH`
+Snapshot ID: `AAAAAKKmaUpdN26FKOc4kLR4l8ezTCeY`

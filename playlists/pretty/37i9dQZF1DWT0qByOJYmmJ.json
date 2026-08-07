@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 628186,
+  "num_followers": 628162,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG2hDOdzPL/x2RIQm5inL7gQ4Enl",
+  "snapshot_id": "AAAAACIz6IqScTOgiSlb0JmnHYoblQCi",
   "tracks": [
     {
       "added_at": "2024-07-11 01:38:58",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Sin Final Feliz",
-        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 144215,
-      "name": "Qu\u00e9 bonito fue",
-      "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "H\u00e1blame de T\u00fa",
         "url": "https://open.spotify.com/album/5Rao7KC9RIrW96DjBkQFiu"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 238480,
       "name": "Combusti\u00f3n",
       "url": "https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Sin Final Feliz",
+        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 144215,
+      "name": "Qu\u00e9 bonito fue",
+      "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Dueles Tan Bien",
-        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
         "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 196363,
       "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
       "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Dueles Tan Bien",
+        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Me Haces Muy Bien (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        },
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/30nITczErPVyfkYEWmpGQT"
-        }
-      ],
-      "duration_ms": 205177,
-      "name": "Me Haces Muy Bien - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
         "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 206000,
       "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
       "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Me Haces Muy Bien (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        },
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/30nITczErPVyfkYEWmpGQT"
+        }
+      ],
+      "duration_ms": 205177,
+      "name": "Me Haces Muy Bien - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -947,6 +947,26 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
+        "url": "https://open.spotify.com/album/71S5pWfykU58c88ZvIhKnw"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        },
+        {
+          "name": "Fernanda Res\u00e9ndiz",
+          "url": "https://open.spotify.com/artist/7aGG3lQllsEIVIHhxyVAid"
+        }
+      ],
+      "duration_ms": 177637,
+      "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
+      "url": "https://open.spotify.com/track/3SqFG9ovXBMqIaCLONzWpT"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Refugio",
         "url": "https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc"
       },
@@ -963,22 +983,6 @@
       "duration_ms": 230334,
       "name": "Refugio",
       "url": "https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Nunca Sabr\u00e1s",
-        "url": "https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 216017,
-      "name": "Nunca Sabr\u00e1s",
-      "url": "https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1035,6 +1039,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Nunca Sabr\u00e1s",
+        "url": "https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 216017,
+      "name": "Nunca Sabr\u00e1s",
+      "url": "https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 181240,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
-        "url": "https://open.spotify.com/album/71S5pWfykU58c88ZvIhKnw"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        },
-        {
-          "name": "Fernanda Res\u00e9ndiz",
-          "url": "https://open.spotify.com/artist/7aGG3lQllsEIVIHhxyVAid"
-        }
-      ],
-      "duration_ms": 177637,
-      "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
-      "url": "https://open.spotify.com/track/3SqFG9ovXBMqIaCLONzWpT"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Lluvia",
-        "url": "https://open.spotify.com/album/5CNV03tgJu1WWidrLr2kdo"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 228852,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Te Lo Debo Contar",
         "url": "https://open.spotify.com/album/7M0XwGUaqijknK9V82ci5Q"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 236301,
       "name": "Te Lo Debo Contar",
       "url": "https://open.spotify.com/track/6kyqvHEWqcSlWObg2bQj6M"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/5CNV03tgJu1WWidrLr2kdo"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 228852,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2kM3apVttjWFLjGPMrEwCS"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 289619,
-      "name": "Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0eQpNMgtRDmG3XKypbvhsc"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Mi Amigo Chapul\u00edn",
         "url": "https://open.spotify.com/album/6k8Qp0O4XZhnIyw8pPE2TX"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/2712DcpZs3YMjSjN71Y0t9"
+        "name": "Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2kM3apVttjWFLjGPMrEwCS"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Almeida",
-          "url": "https://open.spotify.com/artist/3ufL1LFCtKv9PY0G1jOesk"
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/5Fn4GIqzuYOheIn8HlhvJG"
+      "duration_ms": 289619,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0eQpNMgtRDmG3XKypbvhsc"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1231,22 +1215,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "No Soy Yo",
-        "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 193654,
-      "name": "No Soy Yo",
-      "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Recuerdo",
         "url": "https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8"
       },
@@ -1263,18 +1231,34 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Si Nos Volvemos A Encontrar",
-        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
+        "name": "No Soy Yo",
+        "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 204507,
-      "name": "Si Nos Volvemos A Encontrar",
-      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
+      "duration_ms": 193654,
+      "name": "No Soy Yo",
+      "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/2712DcpZs3YMjSjN71Y0t9"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Almeida",
+          "url": "https://open.spotify.com/artist/3ufL1LFCtKv9PY0G1jOesk"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/5Fn4GIqzuYOheIn8HlhvJG"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1291,6 +1275,22 @@
       "duration_ms": 201000,
       "name": "CTM",
       "url": "https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Si Nos Volvemos A Encontrar",
+        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 204507,
+      "name": "Si Nos Volvemos A Encontrar",
+      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 179959,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "AMOR O PAZ",
         "url": "https://open.spotify.com/album/4IBFRVzPbX1s20RUSf0kD5"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 250400,
       "name": "AMOR O PAZ",
       "url": "https://open.spotify.com/track/5MmZSE6JhMbup6hx3Dy1lg"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
     },
     {
       "added_at": "2024-07-11 01:38:58",

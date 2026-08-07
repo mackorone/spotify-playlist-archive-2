@@ -2,7 +2,7 @@
 
 ### [El Top 2026](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> Canciones que tenés que escuchar  📸 LIT killah
+> Canciones que tenés que escuchar  📸 Joaquin Levinton
 
 1,240 songs - 2 day 15 hr 48 min
 

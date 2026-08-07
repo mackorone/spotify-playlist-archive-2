@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,895 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,939 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 36 | [Raindrops \- Radio Edit](https://open.spotify.com/track/5harK7MSbeedWxAekeBqGZ) | [Stunt](https://open.spotify.com/artist/2thOenzsesBQDJxkDkMUGI) | [Raindrops](https://open.spotify.com/album/5iefIjpSiQUki0ZqWse3hS) | 3:34 |
 | 37 | [Dr Feelgood \- Radio Edit](https://open.spotify.com/track/2etCol6AqBN1SkenuxzBE2) | [Interphace](https://open.spotify.com/artist/5oADI8beeP63WY4xyHr7nn) | [Injected Movements Radio Versions](https://open.spotify.com/album/43ddVzrwlBtRGrDZUkr4YJ) | 3:46 |
 | 38 | [AmokK \- Radio Edit](https://open.spotify.com/track/2ozX5ETDNn7IhiNE5jodfZ) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:53 |
-| 39 | [The Ride](https://open.spotify.com/track/0cWSMnw5SX1ItDdQzBe51E) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [The Ultimate Ride](https://open.spotify.com/album/5XbDQJJx1vai2UQBG1SKYb) | 4:08 |
-| 40 | [In My Mind](https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [LP](https://open.spotify.com/album/7DItYlCOQS3UKW6scIHoDA) | 3:28 |
+| 39 | [In My Mind](https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [LP](https://open.spotify.com/album/7DItYlCOQS3UKW6scIHoDA) | 3:28 |
+| 40 | [The Ride](https://open.spotify.com/track/0cWSMnw5SX1ItDdQzBe51E) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [The Ultimate Ride](https://open.spotify.com/album/5XbDQJJx1vai2UQBG1SKYb) | 4:08 |
 | 41 | [Xpander](https://open.spotify.com/track/76mh0rcSJpNhoCCqazptWm) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [The Xpander E.P.](https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q) | 11:30 |
 | 42 | [Universal Nation](https://open.spotify.com/track/6mRj9RSLe4RU1vWarhxDnG) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [A State Of Trance 600](https://open.spotify.com/album/62lXAqif61gAUTTDtBgGQY) | 3:45 |
 | 43 | [Paradoxx \- Original Album Version](https://open.spotify.com/track/5qF7pHGeAns5TtLZDMLJ2F) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Special Edition\)](https://open.spotify.com/album/0O4qBIZ7IKKuPzLftLxA92) | 3:57 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 64 | [Believe \- Radio Version](https://open.spotify.com/track/5YoPqsi7hkinkyrdQSgrkK) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [At The Rebels Room](https://open.spotify.com/album/10kMItbeNNucdGw3RiKgci) | 3:26 |
 | 65 | [Saltwater](https://open.spotify.com/track/4cI6ONQUJyGtLXzOYaM2P0) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Best Of Chicane](https://open.spotify.com/album/3t2sS4OnOQDLZ1oqYBlTen) | 3:22 |
 | 66 | [Greece 2000 \- Original Radio Edit](https://open.spotify.com/track/6ZgjpDZrm6uvD1aLtfsMRv) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 3:54 |
-| 67 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/2wT7K2yIR1Tlf116qUc02C) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/69hzCLwyNDH2m7m2YV6FAH) | 8:42 |
+| 67 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
 | 68 | [Free](https://open.spotify.com/track/4UuA9Tn0QfBEkea3Rcf2q3) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [La Cream](https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ) | 3:10 |
-| 69 | [Played\-A\-Live \(The Bongo Song\)](https://open.spotify.com/track/3GNluLmWNf2QaK1KWTSBsp) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [The Remix Edition \- Episode ll](https://open.spotify.com/album/1nrbP2ZpwFZjiOzU4LCh8c) | 6:45 |
-| 70 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
-| 71 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/2BrQKigNLErWheTt6nXYXZ) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2IHaZr494ZaU2M4mYmIqaq) | 3:39 |
-| 72 | [Seven Days And One Week \(Radio Edit\)](https://open.spotify.com/track/1VgynfAg0hHDxmH2d9cUlt) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Games](https://open.spotify.com/album/4tx2jtvzEaqjpIPjdDVOLc) | 4:29 |
+| 69 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/2wT7K2yIR1Tlf116qUc02C) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/69hzCLwyNDH2m7m2YV6FAH) | 8:42 |
+| 70 | [Seven Days And One Week \(Radio Edit\)](https://open.spotify.com/track/1VgynfAg0hHDxmH2d9cUlt) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Games](https://open.spotify.com/album/4tx2jtvzEaqjpIPjdDVOLc) | 4:29 |
+| 71 | [Played\-A\-Live \(The Bongo Song\)](https://open.spotify.com/track/3GNluLmWNf2QaK1KWTSBsp) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [The Remix Edition \- Episode ll](https://open.spotify.com/album/1nrbP2ZpwFZjiOzU4LCh8c) | 6:45 |
+| 72 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/2BrQKigNLErWheTt6nXYXZ) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2IHaZr494ZaU2M4mYmIqaq) | 3:39 |
 | 73 | [Fly Away](https://open.spotify.com/track/4Z26wEXH0XBQwxTpaC7NyR) | [Vincent de Moor](https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk) | [Best of Vincent de Moor](https://open.spotify.com/album/3XtzJqPBCBP5eNb32tGbBe) | 8:21 |
 | 74 | [Carte Blanche \- Original Mix](https://open.spotify.com/track/2YmQ5jhgV7EX7yWR1IEP9c) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 7:04 |
 | 75 | [Just Be \- Feat\. Kirsty Hawkshaw \- Antillas Club Mix](https://open.spotify.com/track/5vXnMG3h23BUVNHwlc86LU) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/2G0gJw1meAUiD6W7cY122W) | 9:51 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 78 | [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/4U7thpneIYMNg88WqM28m5) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [Tech\-Trance Essentials, Pt\. 2](https://open.spotify.com/album/4jCUk8MIPyCwLKwMC9VrFa) | 11:15 |
 | 79 | [Freeloader \- Original Mix](https://open.spotify.com/track/62bKZ9fbZFHx5nQ1QXLhGL) | [Driftwood](https://open.spotify.com/artist/17Trjm9YXwbKVDdILNCT9t) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 6:52 |
 | 80 | [Good Time \- Original Mix](https://open.spotify.com/track/1wGjJcVAGual9ZkX3wefXV) | [Peran](https://open.spotify.com/artist/118Lw79OE3nCByRVzSGdD9) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 8:18 |
-| 81 | [4 Elements](https://open.spotify.com/track/0mObS8dydpv9z6xcrizbHV) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 7:02 |
-| 82 | [The Sound Of Goodbye \- Armin van Buuren presents Rising Star Remix](https://open.spotify.com/track/2q32sAEVRdTAMctpi9IvJh) | [Perpetuous Dreamer](https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy), [Rising Star](https://open.spotify.com/artist/3HYUBCT2pYtoo0JHztEsRJ), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [50 Best Trance Hits Ever, Vol\. 2 \(Extended Versions\)](https://open.spotify.com/album/0VofAfRcGXemmsqo0aPav9) | 10:49 |
+| 81 | [The Sound Of Goodbye \- Armin van Buuren presents Rising Star Remix](https://open.spotify.com/track/2q32sAEVRdTAMctpi9IvJh) | [Perpetuous Dreamer](https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy), [Rising Star](https://open.spotify.com/artist/3HYUBCT2pYtoo0JHztEsRJ), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [50 Best Trance Hits Ever, Vol\. 2 \(Extended Versions\)](https://open.spotify.com/album/0VofAfRcGXemmsqo0aPav9) | 10:49 |
+| 82 | [4 Elements](https://open.spotify.com/track/0mObS8dydpv9z6xcrizbHV) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 7:02 |
 
-Snapshot ID: `AAAAAPY61bbkh0Rof5VxQAuMXei7WCOB`
+Snapshot ID: `AAAAAIOVeFmMRZlkJoIY87MkFViZwQmW`

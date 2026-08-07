@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-137 songs - 8 hr 2 min
+138 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 | 2026-02-09 |  |
 | [Summer Suite](https://open.spotify.com/track/3glAritAmxyFSc772bZhU3) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Summer Suite](https://open.spotify.com/album/3VzaxX50Ecet1LbYJs0ijG) | 3:56 | 2026-02-06 |  |
 | [Summer Suite \(Shoegaze Version\)](https://open.spotify.com/track/5dBK0PW5RhFFadnUBNprNE) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Summer Suite \(Shoegaze Version\)](https://open.spotify.com/album/4RIrZGJyoh1Rmo1ekcIjTb) | 2:55 | 2026-06-05 |  |
+| [Summer Suite \- Neon Puls Shifter Sunshine Remix](https://open.spotify.com/track/5oSO2F7a3e5ggjFHBAOfzZ) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N), [Neon Puls Shifter](https://open.spotify.com/artist/4jQrmdTGBHPgf0hFEgkZIQ) | [Summer Suite \(Neon Puls Shifter Sunshine Remix\)](https://open.spotify.com/album/4jrghTrXNnSFfIJbuoJC8J) | 2:58 | 2026-08-06 |  |
 | [Sunny](https://open.spotify.com/track/40Jg0pluUomkkLyOf15ASw) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [Sunny](https://open.spotify.com/album/2egQZgPXU5yneuJgHNhknv) | 2:11 | 2026-06-05 |  |
 | [Superbloom](https://open.spotify.com/track/0LLLu9OpHI8woWnSJrWm72) | [Carolyn Barela](https://open.spotify.com/artist/07eQgknO4HhywtQGVoW50f), [Catty.L](https://open.spotify.com/artist/68FNAoroAsIuNLoecJRIZP) | [Superbloom](https://open.spotify.com/album/32P8hqUIsWNZn0gAZAfNkm) | 3:08 | 2024-06-02 |  |
 | [Supersonic drive](https://open.spotify.com/track/0nA9cLh8rUQurMJqpOGZTC) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [Supersonic drive](https://open.spotify.com/album/0OTZVC3sutznLOrCw7BQul) | 3:26 | 2024-06-18 | 2026-06-06 |

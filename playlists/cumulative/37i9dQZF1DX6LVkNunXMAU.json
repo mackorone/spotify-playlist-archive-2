@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "B612",
+        "url": "https://open.spotify.com/album/1x6H7Cli7ifsJV1vVafHM1"
+      },
+      "artists": [
+        {
+          "name": "Delfi Moore",
+          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182301,
+      "name": "B612",
+      "url": "https://open.spotify.com/track/7zvpIr1JeXMaExmcFntTyu"
+    },
+    {
+      "album": {
         "name": "Bailar en la Cuerda Floja",
         "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
       },
@@ -1732,6 +1750,24 @@
       "duration_ms": 193025,
       "name": "Cuando Estemos Solos",
       "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
+    },
+    {
+      "album": {
+        "name": "Cuando Me Fui de la Casa",
+        "url": "https://open.spotify.com/album/5KyJXKgQy0y3RSYYLCW6hh"
+      },
+      "artists": [
+        {
+          "name": "Miranda Myndlis",
+          "url": "https://open.spotify.com/artist/0PgWnms78CLlPRS1smSAnh"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180675,
+      "name": "Cuando Me Fui de la Casa",
+      "url": "https://open.spotify.com/track/5IlP9nOMECPOk0oq2HGtAh"
     },
     {
       "album": {

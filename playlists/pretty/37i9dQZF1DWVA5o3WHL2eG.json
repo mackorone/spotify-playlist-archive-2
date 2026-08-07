@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Luna Simao",
-  "num_followers": 50482,
+  "num_followers": 50533,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN+v7uVz5BN+bG9RcMMpX1yt+nkQ",
+  "snapshot_id": "AAAAAPASEUYb0w8tEG73e8+2Tk5xq8Rw",
   "tracks": [
     {
       "added_at": "2026-08-04 22:00:28",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "Pretty Boys",
-        "url": "https://open.spotify.com/album/4Srash43o3uZAC0y9q4kwe"
-      },
-      "artists": [
-        {
-          "name": "Kayla Shyx",
-          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
-        }
-      ],
-      "duration_ms": 140960,
-      "name": "Pretty Boys",
-      "url": "https://open.spotify.com/track/1z9rJxTL0tQX3XyCY9xNDf"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "IM NACHGANG",
         "url": "https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 153000,
       "name": "IM NACHGANG",
       "url": "https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "Pretty Boys",
+        "url": "https://open.spotify.com/album/4Srash43o3uZAC0y9q4kwe"
+      },
+      "artists": [
+        {
+          "name": "Kayla Shyx",
+          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
+        }
+      ],
+      "duration_ms": 140960,
+      "name": "Pretty Boys",
+      "url": "https://open.spotify.com/track/1z9rJxTL0tQX3XyCY9xNDf"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "double cheesy nachos",
-        "url": "https://open.spotify.com/album/3P1BDVWy9Lq4db42pnMrCL"
-      },
-      "artists": [
-        {
-          "name": "LOTTE",
-          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
-        }
-      ],
-      "duration_ms": 169986,
-      "name": "double cheesy nachos",
-      "url": "https://open.spotify.com/track/68jBpNl8RSMcxCSyn2AkcP"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "mit anderen augen",
         "url": "https://open.spotify.com/album/3vWSlcVRmnUZiJTBa7z42f"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 169204,
       "name": "mit anderen augen",
       "url": "https://open.spotify.com/track/4bEEO0oInGv3OYInricb0k"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "double cheesy nachos",
+        "url": "https://open.spotify.com/album/3P1BDVWy9Lq4db42pnMrCL"
+      },
+      "artists": [
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        }
+      ],
+      "duration_ms": 169986,
+      "name": "double cheesy nachos",
+      "url": "https://open.spotify.com/track/68jBpNl8RSMcxCSyn2AkcP"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "jeden tag neu",
-        "url": "https://open.spotify.com/album/2N2ogz5o77Ii7wreGUffFT"
-      },
-      "artists": [
-        {
-          "name": "cara",
-          "url": "https://open.spotify.com/artist/4kfgJKwiBXRK4hrB4vNSV0"
-        }
-      ],
-      "duration_ms": 171431,
-      "name": "jeden tag neu",
-      "url": "https://open.spotify.com/track/2BgbsLjtIlJke0OWtRynDx"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "Nokia",
         "url": "https://open.spotify.com/album/6tM1eD2UjRMeHC1s2BH9Kn"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 317922,
       "name": "Nokia",
       "url": "https://open.spotify.com/track/1eTrlwomm1doXZJQ7dKPUM"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "jeden tag neu",
+        "url": "https://open.spotify.com/album/2N2ogz5o77Ii7wreGUffFT"
+      },
+      "artists": [
+        {
+          "name": "cara",
+          "url": "https://open.spotify.com/artist/4kfgJKwiBXRK4hrB4vNSV0"
+        }
+      ],
+      "duration_ms": 171431,
+      "name": "jeden tag neu",
+      "url": "https://open.spotify.com/track/2BgbsLjtIlJke0OWtRynDx"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "c.260611",
-        "url": "https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu"
-      },
-      "artists": [
-        {
-          "name": "elimako",
-          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
-        }
-      ],
-      "duration_ms": 105234,
-      "name": "c.260611",
-      "url": "https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "Time Is Money",
         "url": "https://open.spotify.com/album/2l9iuFKUZ8AD0B5U1UXdGC"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 136815,
       "name": "Time Is Money",
       "url": "https://open.spotify.com/track/7okZjET1pM0zgwB6vDBRAu"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "c.260611",
+        "url": "https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "duration_ms": 105234,
+      "name": "c.260611",
+      "url": "https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "Opium",
-        "url": "https://open.spotify.com/album/5G6N3XR8brzL9dZBPSQ741"
-      },
-      "artists": [
-        {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
-        }
-      ],
-      "duration_ms": 146454,
-      "name": "Opium",
-      "url": "https://open.spotify.com/track/5nL5mdMNimzgHSZN6ji8kp"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "This Is Nice",
         "url": "https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "Weltuntergang",
-        "url": "https://open.spotify.com/album/5mmNtnWk2eUYA1sCV3zlDs"
+        "name": "Opium",
+        "url": "https://open.spotify.com/album/5G6N3XR8brzL9dZBPSQ741"
       },
       "artists": [
         {
-          "name": "Annett Louisan",
-          "url": "https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8"
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
         }
       ],
-      "duration_ms": 185266,
-      "name": "Weltuntergang",
-      "url": "https://open.spotify.com/track/5gprjELlbURrIgh1tSTrPb"
+      "duration_ms": 146454,
+      "name": "Opium",
+      "url": "https://open.spotify.com/track/5nL5mdMNimzgHSZN6ji8kp"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -639,18 +623,18 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "I Feel Like Shit And It's All Your Fault",
-        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
+        "name": "Weltuntergang",
+        "url": "https://open.spotify.com/album/5mmNtnWk2eUYA1sCV3zlDs"
       },
       "artists": [
         {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+          "name": "Annett Louisan",
+          "url": "https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8"
         }
       ],
-      "duration_ms": 146938,
-      "name": "Girl With A Gun, Angry",
-      "url": "https://open.spotify.com/track/4xHkDF6YXuIilC1q4sKmJ7"
+      "duration_ms": 185266,
+      "name": "Weltuntergang",
+      "url": "https://open.spotify.com/track/5gprjELlbURrIgh1tSTrPb"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -667,6 +651,22 @@
       "duration_ms": 173773,
       "name": "chasing love and missing people",
       "url": "https://open.spotify.com/track/0b0mBhKTaAbLyFcUanja51"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "I Feel Like Shit And It's All Your Fault",
+        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Girl With A Gun, Angry",
+      "url": "https://open.spotify.com/track/4xHkDF6YXuIilC1q4sKmJ7"
     },
     {
       "added_at": "2026-08-04 22:00:28",

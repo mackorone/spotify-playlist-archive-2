@@ -1,12 +1,12 @@
 {
   "description": "bailando en el antro con Karlo hasta el amanecer ",
-  "num_followers": 24559,
+  "num_followers": 24557,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGdHbO4zn/G+5eJi9vCT6O7idnZW",
+  "snapshot_id": "AAAAALPAYbLJ7/evBy38X6czkKfXGlzK",
   "tracks": [
     {
       "added_at": "2026-06-26 06:00:38",
@@ -795,6 +795,26 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "nueveonceamarillo",
+        "url": "https://open.spotify.com/album/16khlP9Sq4I2Ksg7FpOv2s"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "urboi.",
+          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "nueveonceamarillo",
+      "url": "https://open.spotify.com/track/1zJs0zwqadmFbh0zFflvAp"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "NO LO ENtENDER\u00cdAS!",
         "url": "https://open.spotify.com/album/3LFli0vb9jOAyL3cxknDak"
       },
@@ -831,22 +851,22 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "nueveonceamarillo",
-        "url": "https://open.spotify.com/album/16khlP9Sq4I2Ksg7FpOv2s"
+        "name": "Jenni Rivera",
+        "url": "https://open.spotify.com/album/3TxgKrJOzELj9jp06lytkm"
       },
       "artists": [
         {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
         },
         {
-          "name": "urboi.",
-          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
+          "name": "Fhany Santin",
+          "url": "https://open.spotify.com/artist/7pymJP5fuOGdIIJ4RbtG9h"
         }
       ],
-      "duration_ms": 212000,
-      "name": "nueveonceamarillo",
-      "url": "https://open.spotify.com/track/1zJs0zwqadmFbh0zFflvAp"
+      "duration_ms": 156466,
+      "name": "Jenni Rivera",
+      "url": "https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -863,26 +883,6 @@
       "duration_ms": 111875,
       "name": "nunca me duermo!*",
       "url": "https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "BOBOMENSOTONTO",
-      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -907,22 +907,22 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Jenni Rivera",
-        "url": "https://open.spotify.com/album/3TxgKrJOzELj9jp06lytkm"
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
       },
       "artists": [
         {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         },
         {
-          "name": "Fhany Santin",
-          "url": "https://open.spotify.com/artist/7pymJP5fuOGdIIJ4RbtG9h"
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Jenni Rivera",
-      "url": "https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3"
+      "duration_ms": 181200,
+      "name": "BOBOMENSOTONTO",
+      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "no somos iguales",
+        "url": "https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "incompatibles",
+      "url": "https://open.spotify.com/track/4UuPW5pNUwY46OhmaxwrvN"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "Explicaci\u00f3n",
         "url": "https://open.spotify.com/album/2nJGIhn24efI0YQVCvAxDp"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "no somos iguales",
-        "url": "https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI"
+        "name": "tqm <3",
+        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
       },
       "artists": [
         {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
         }
       ],
-      "duration_ms": 171533,
-      "name": "incompatibles",
-      "url": "https://open.spotify.com/track/4UuPW5pNUwY46OhmaxwrvN"
+      "duration_ms": 156426,
+      "name": "tqm <3",
+      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1167,42 +1183,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "DIME",
-        "url": "https://open.spotify.com/album/1DygHwEcUNLXePMmteh6g6"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "Baysec",
-          "url": "https://open.spotify.com/artist/5DylMz8kdzH19AwCLLXTeR"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "DIME",
-      "url": "https://open.spotify.com/track/76tAhDTUBolHxn2wOtxBlP"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "tqm <3",
-        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
-      },
-      "artists": [
-        {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
-        }
-      ],
-      "duration_ms": 156426,
-      "name": "tqm <3",
-      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "LLORAR!",
         "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 107200,
       "name": "LLORAR!",
       "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "DIME",
+        "url": "https://open.spotify.com/album/1DygHwEcUNLXePMmteh6g6"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "Baysec",
+          "url": "https://open.spotify.com/artist/5DylMz8kdzH19AwCLLXTeR"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "DIME",
+      "url": "https://open.spotify.com/track/76tAhDTUBolHxn2wOtxBlP"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Par\u00eds (Junto a Ti)",
-        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
+        "name": "DESDE EL COMA",
+        "url": "https://open.spotify.com/album/7GlWfnHMjoxbS5qdbVpADR"
       },
       "artists": [
         {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 156160,
-      "name": "Par\u00eds (Junto a Ti)",
-      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
+      "duration_ms": 123840,
+      "name": "F MY X (I'M A MESS)",
+      "url": "https://open.spotify.com/track/2NMz6woaCFgUDXnZOdNtwQ"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "DESDE EL COMA",
-        "url": "https://open.spotify.com/album/7GlWfnHMjoxbS5qdbVpADR"
+        "name": "Par\u00eds (Junto a Ti)",
+        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
       },
       "artists": [
         {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
         }
       ],
-      "duration_ms": 123840,
-      "name": "F MY X (I'M A MESS)",
-      "url": "https://open.spotify.com/track/2NMz6woaCFgUDXnZOdNtwQ"
+      "duration_ms": 156160,
+      "name": "Par\u00eds (Junto a Ti)",
+      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1531,26 +1531,22 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "La Ocasi\u00f3n",
-        "url": "https://open.spotify.com/album/1b31iLB0KUcUq9NCtHPu6V"
+        "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
+        "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
       },
       "artists": [
         {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
         },
         {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "angely2k",
-          "url": "https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl"
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
         }
       ],
-      "duration_ms": 157464,
-      "name": "La Ocasi\u00f3n",
-      "url": "https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU"
+      "duration_ms": 192000,
+      "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
+      "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
     }
   ],
   "unique_name": "ANTRO ",

@@ -4,7 +4,7 @@
 
 > Les hits zouk & kompa du moment\. Photo : Joé Dwèt Filé
 
-456 songs - 23 hr 52 min
+457 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [On Ti Kosé Posé](https://open.spotify.com/track/5BSTdR9vkOlsj8V9wqsaTJ) | [Joël GALIPO](https://open.spotify.com/artist/6rW55fOMEJYi4Gb8PPbU9p) | [On Ti Kosé Posé](https://open.spotify.com/album/0diTvlZKmfkNM061CuystB) | 3:00 | 2025-10-02 | 2025-10-24 |
 | [ONE TRACK MIND](https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ONE TRACK MIND](https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ) | 3:20 | 2026-01-15 | 2026-05-22 |
 | [ONE TRACK MIND \- PART II](https://open.spotify.com/track/6yMMKhmZVhko8t1Qb0aLp5) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [ONE TRACK MIND \(PART II\)](https://open.spotify.com/album/2hIZLwbRnxflIxCTEPzBUh) | 2:40 | 2026-05-21 |  |
-| [Otage](https://open.spotify.com/track/0vPOsFdOxppDqH8HgwcA89) | [DJ Ken](https://open.spotify.com/artist/1qyIUGgexI2Qi0NRweEVgf), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Otage](https://open.spotify.com/album/7GOLClLmSWqDCUWDVZqXHU) | 2:39 | 2026-07-02 |  |
+| [Otage](https://open.spotify.com/track/0vPOsFdOxppDqH8HgwcA89) | [DJ Ken](https://open.spotify.com/artist/1qyIUGgexI2Qi0NRweEVgf), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Otage](https://open.spotify.com/album/7GOLClLmSWqDCUWDVZqXHU) | 2:39 | 2026-07-02 | 2026-08-07 |
 | [Ou ek mwin](https://open.spotify.com/track/4p6RookEaSLNq6waIWEicL) | [VARAINE BEN](https://open.spotify.com/artist/33VRGx12FIZw3TPLU93feY), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv) | [Ou ek mwin](https://open.spotify.com/album/1vdWYpytr6NqXUtGAZkQfa) | 3:25 | 2026-06-18 | 2026-07-17 |
 | [Ou fè'm mal](https://open.spotify.com/track/5aFXwdIy5hkZ6WZZDHnEcq) | [Bryans](https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW) | [Eclosion](https://open.spotify.com/album/4n2MRSNTulYZomK6KTKKDu) | 3:18 | 2024-11-21 | 2025-02-14 |
 | [Ou fèm vakabon](https://open.spotify.com/track/5keJB9DEzsMnDw3kO6QmSq) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 4:33 | 2024-09-26 | 2024-11-08 |
@@ -399,6 +399,7 @@
 | [Tankou Mwen](https://open.spotify.com/track/6l6RR3r2eJvzbeB0bRcF69) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV), [TCK](https://open.spotify.com/artist/3WZ8ZJmiGCm3ylxokVJF3p) | [Tankou Mwen](https://open.spotify.com/album/2siMmrzb8ynUrnJ37XizPa) | 3:32 | 2026-07-16 |  |
 | [TASTY](https://open.spotify.com/track/0CUXSCaRvwcShFXPLEtz7F) | [Varaine Ben](https://open.spotify.com/artist/6dP1hrA6zbtVabsfbjiTL8) | [TASTY](https://open.spotify.com/album/1RWI2svnFLEMglOFZEsBKD) | 3:28 | 2024-03-14 | 2024-06-01 |
 | [TBS](https://open.spotify.com/track/4VTnmwiWKUFOkKiftm0iRj) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [TBS](https://open.spotify.com/album/3W6B7yuVTXLp5aiQz6MOfZ) | 2:26 | 2024-02-22 | 2024-03-15 |
+| [Tchin tchin](https://open.spotify.com/track/2pdeMRknTu6Ks0GaCBvCgH) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Tchin tchin](https://open.spotify.com/album/6Y0k7P7nKRWHTwrgaizIMu) | 2:54 | 2026-08-06 |  |
 | [Tellement doux](https://open.spotify.com/track/3o1osJPn6XpsoWa3S5AHDN) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/7z6iLtGQjSt4R2WOTSCW41) | 3:15 | 2024-03-07 | 2024-04-19 |
 | [Tellement doux](https://open.spotify.com/track/7fqvFVk7ZE7GzHQwcPJNdR) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/1njifPExP5d1ZwFuOFXa5j) | 3:15 | 2024-01-11 | 2024-06-28 |
 | [Tentation](https://open.spotify.com/track/4HlGzPPS4dYB39S8dIUv1q) | [Maeliah](https://open.spotify.com/artist/675TVTxu1DFIvB76rXpdYI), [DJ GIL](https://open.spotify.com/artist/7r1rLVcazYEHQlxRu1ftVE) | [Tentation](https://open.spotify.com/album/1MEssQTSYl0JzgAvT4Hmry) | 3:16 | 2025-11-20 | 2026-01-02 |

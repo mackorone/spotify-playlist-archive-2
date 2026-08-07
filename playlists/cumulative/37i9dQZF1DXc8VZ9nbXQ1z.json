@@ -2919,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/76G47yjoEqJWkf2i5lDKbQ"
+      },
+      "artists": [
+        {
+          "name": "CLARAA",
+          "url": "https://open.spotify.com/artist/0hzvjvnzkOTFNgVrLTwiM4"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222909,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/7cVJkj0Z9hYdMdj6mUiCmF"
+    },
+    {
+      "album": {
         "name": "Black in the Days",
         "url": "https://open.spotify.com/album/2d2zZbvXH8fh5XjvsQvyPv"
       },
@@ -3342,6 +3360,24 @@
       "duration_ms": 368389,
       "name": "Burning Bush",
       "url": "https://open.spotify.com/track/6T8RXlW01s055nR9CMIlxj"
+    },
+    {
+      "album": {
+        "name": "Caged",
+        "url": "https://open.spotify.com/album/3CkZY4v2EBUAKXTuMLfvOm"
+      },
+      "artists": [
+        {
+          "name": "Darksidevinyl",
+          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379007,
+      "name": "Caged",
+      "url": "https://open.spotify.com/track/3ASBpOtHpt2JuHN3ZQiIHx"
     },
     {
       "album": {
@@ -13124,7 +13160,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 180005,
       "name": "Looking For Change",
       "url": "https://open.spotify.com/track/0WViv2bn3fZndMTXhpfOWS"
@@ -16619,6 +16655,28 @@
     },
     {
       "album": {
+        "name": "For Headz Only",
+        "url": "https://open.spotify.com/album/5xiWFlPmGDtYUqvQefWpOn"
+      },
+      "artists": [
+        {
+          "name": "Cuebur",
+          "url": "https://open.spotify.com/artist/24gaqkuhDtbiSipIIJdRH7"
+        },
+        {
+          "name": "Marissa Guzman",
+          "url": "https://open.spotify.com/artist/4f1aXxaOrA5ILMJGEPjGsg"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403928,
+      "name": "No Doubt",
+      "url": "https://open.spotify.com/track/4KijFVAHBHvo5ftweYkmvX"
+    },
+    {
+      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/3SPrihyat4NmFhCl25K0wD"
       },
@@ -18652,7 +18710,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 457813,
       "name": "Prayer for Rain",
       "url": "https://open.spotify.com/track/3fQaQ80aDL1pgtU99jZCS4"
@@ -22040,7 +22098,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 385819,
       "name": "St\u0101y",
       "url": "https://open.spotify.com/track/4cZOb7WSh55yKFiu2C70oC"
@@ -22238,7 +22296,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 238032,
       "name": "Sunset In Pretoria",
       "url": "https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"
@@ -25503,6 +25561,28 @@
     },
     {
       "album": {
+        "name": "Wah Wah",
+        "url": "https://open.spotify.com/album/2th45b48WN0Hx7uP9vONUJ"
+      },
+      "artists": [
+        {
+          "name": "Tony Finger",
+          "url": "https://open.spotify.com/artist/7hzFQ0RFYNHtJ6aJyQeeIa"
+        },
+        {
+          "name": "CHUMA",
+          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330983,
+      "name": "Wah Wah - Extended Mix",
+      "url": "https://open.spotify.com/track/7I5NilEtVVRu596KkD5j69"
+    },
+    {
+      "album": {
         "name": "Wait For Me EP",
         "url": "https://open.spotify.com/album/7smEteRLTj8VYehKbCyXEK"
       },
@@ -25862,7 +25942,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 446438,
       "name": "We Dance Again",
       "url": "https://open.spotify.com/track/2q1qOoQjYbqcr2WG8X9qQe"
@@ -26604,6 +26684,28 @@
       "duration_ms": 316120,
       "name": "Ya Man Hawah",
       "url": "https://open.spotify.com/track/5EEkMVzbdZJozEFddQaMku"
+    },
+    {
+      "album": {
+        "name": "Ya weldi (Rocco Rodamaal Remixes)",
+        "url": "https://open.spotify.com/album/0WPsfkAuZ2w9MLXJI6UX8Y"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ha\u00efs",
+          "url": "https://open.spotify.com/artist/6cnRri5dkUwbn0jsjXJrdA"
+        },
+        {
+          "name": "Rocco Rodamaal",
+          "url": "https://open.spotify.com/artist/3NwffipFBRlnHBV9iQoB5l"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528331,
+      "name": "Ya weldi - Rocco Rodamaal Remix",
+      "url": "https://open.spotify.com/track/6IL35fhnQHl3xbtCp3HRcq"
     },
     {
       "album": {

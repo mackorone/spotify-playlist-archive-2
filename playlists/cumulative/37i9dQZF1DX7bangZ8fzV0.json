@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Bernice West en Barto",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Karlien Van Jaarsveld en Zaan Sonnekus",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -4978,7 +4978,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 203413,
       "name": "Nonna",
       "url": "https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g"
@@ -7496,6 +7496,36 @@
       "duration_ms": 161589,
       "name": "Wynland",
       "url": "https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX"
+    },
+    {
+      "album": {
+        "name": "Yippee-Ki-Yay",
+        "url": "https://open.spotify.com/album/3jP9jmpIdtFrayt50gd6FR"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        },
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        },
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        },
+        {
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220049,
+      "name": "Yippee-Ki-Yay",
+      "url": "https://open.spotify.com/track/4kF7Z6BsBpcuQQCJTiazsP"
     },
     {
       "album": {

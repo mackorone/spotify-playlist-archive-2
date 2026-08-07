@@ -4,7 +4,7 @@
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR?si=be4f643eccaa4571">Solana</a>\. Artwork: Isu Kim.
 
-1,511 songs - 3 day 3 hr 40 min
+1,512 songs - 3 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Flatline](https://open.spotify.com/track/0yQgIZUjBqIcE6mMj1nBM6) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ), [Angel Abaya](https://open.spotify.com/artist/5LJFmizHbr1z46HUEl1F13) | [The Third Kind](https://open.spotify.com/album/5RswtvkaBBt1KivjwF3Hl4) | 3:27 | 2023-10-25 | 2023-11-30 |
 | [Flavour](https://open.spotify.com/track/3UDpshQVVtSUfTuMKNH1p4) | [Sabi Wu](https://open.spotify.com/artist/0Lb6QZKrLMSzlcljXexbtB) | [Bed Of Roses, Vol\. 2](https://open.spotify.com/album/7dF1plJvan17pckxW8jyCT) | 2:20 | 2023-01-25 | 2023-02-23 |
 | [Flight Alerts](https://open.spotify.com/track/6DXKx48PuV4dlzkV1AN6dY) | [Ukairo](https://open.spotify.com/artist/0GOMjP8OTfdLxxR4W8djOA) | [Flight Alerts](https://open.spotify.com/album/6Wpf2otM5pn7AAiGethQK9) | 4:31 | 2024-02-06 | 2024-03-06 |
+| [Flights & Feelings](https://open.spotify.com/track/4tydcHNL8MdaEsPlWLfvR2) | [Loding](https://open.spotify.com/artist/1dP3pwRjgmPMCxvVxgbC00), [Akuvi](https://open.spotify.com/artist/41VbuWKdlHSsk8By8pA68h) | [Flights & Feelings](https://open.spotify.com/album/1F1MZkajWWayqRJ72eoe28) | 4:09 | 2026-08-05 |  |
 | [FLOSSIN'](https://open.spotify.com/track/5xFF8GIUzTtXWQF0CRRWbN) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [E.V.E](https://open.spotify.com/artist/3b861IDPVZ62XphaKiKlOc) | [Live More, Worry Less \(Ultra\)](https://open.spotify.com/album/2O0EpeT29gxalH7Ebp4Gqx) | 2:20 | 2024-04-03 | 2024-05-02 |
 | [Flow Proper](https://open.spotify.com/track/3aXdWV0LWeVlG6rvn0tsMu) | [Avit](https://open.spotify.com/artist/1pWNPxR4s1pbNP9bouFeqO) | [Flow Proper](https://open.spotify.com/album/2cD12BFj5Mw3gpK9cjQICu) | 3:10 | 2024-10-04 | 2024-11-07 |
 | [Flowers](https://open.spotify.com/track/3ilP9ixF3L5wM9dJWTaSid) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Flowers](https://open.spotify.com/album/2wHdzPoNzGCKToVOwfpVIM) | 2:18 | 2025-04-10 | 2025-10-07 |

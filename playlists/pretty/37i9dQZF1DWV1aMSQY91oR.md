@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Lou Phelps
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,378 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,397 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [KGB \(Kill Get Back\)](https://open.spotify.com/track/3GEjtr09NurAwoc2x0pSDh) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [KGB \(Kill Get Back\)](https://open.spotify.com/album/0189OWiNDfbQ9gm1XBdpFo) | 2:13 |
 | 49 | [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 |
 
-Snapshot ID: `AAAAAAxfRBP6Nnv1yGwHylwyXQwxBaAJ`
+Snapshot ID: `AAAAAH4+f2Ux6kVp8+EYw9C7qty2Zh+v`

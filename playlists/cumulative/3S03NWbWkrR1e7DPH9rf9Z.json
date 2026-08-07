@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/4kUNMYZC7Y18NwwizGvCsN"
+      },
+      "artists": [
+        {
+          "name": "Matt Ice",
+          "url": "https://open.spotify.com/artist/08m37iZCXNDii26j1peJpE"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/6cLnrcL5sDWlC1EdpjWAYx"
+    },
+    {
+      "album": {
         "name": "Desert Mirage",
         "url": "https://open.spotify.com/album/68zEXkCIH1fsFApt3xHxLM"
       },

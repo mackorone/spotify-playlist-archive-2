@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,887 likes - 73 songs - 4 hr 48 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,887 likes - 74 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,15 +71,16 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 61 | [Kneel Before the Light \(Humilitas\)](https://open.spotify.com/track/2SUzUZ3o1wmwUmeUW8RuaE) | [Hasamura](https://open.spotify.com/artist/1bbe83p1En6vfNkPTvTErG) | [Soulwave](https://open.spotify.com/album/4CblvjKa4GZ2ZBhKShQ2Vb) | 4:52 |
 | 62 | [Funkin Blues](https://open.spotify.com/track/6wqlg869am54Wqbct45PYF) | [The Cadillac Cats](https://open.spotify.com/artist/2WctWN3DeyAvtYI1sKvvJi) | [Funkin Blues](https://open.spotify.com/album/25QR5rLpR6jg4wYH9LSdeh) | 3:23 |
 | 63 | [Only words](https://open.spotify.com/track/0WyuNAuLJgYadDsq1TSHpD) | [Black Hound](https://open.spotify.com/artist/3snFZIyWovDIXyPo2K83qV) | [Takin it all](https://open.spotify.com/album/3C1OezOI61eFvLXipftoWZ) | 4:31 |
-| 64 | [Life \(You Saved Me\)](https://open.spotify.com/track/1lZ1Sh1rz8b0lscfMkPEVD) | [The K.I.J Experience](https://open.spotify.com/artist/67HdfJ5atBe2crSt6ohfWB) | [Life \(You Saved Me\)](https://open.spotify.com/album/4FRCPWM4JildwwplokEkh8) | 3:01 |
-| 65 | [MUJER ESPAÑOLA](https://open.spotify.com/track/72T2vuQ6yNiJo0eajDRje3) | [Vástago](https://open.spotify.com/artist/6G3hE13qUdyo5k3xHBktOV) | [MUJER ESPAÑOLA](https://open.spotify.com/album/644Cr2kvQskcuzHe9ySrm4) | 3:46 |
-| 66 | [Et tu retiens](https://open.spotify.com/track/2zRJj0YSRWzjoAYc102oFX) | [Jimmy Blo](https://open.spotify.com/artist/6ABf9lpBnhcd4krOQOq8Qh) | [Et tu retiens](https://open.spotify.com/album/00UTUJdi8ziTCEMTu4iQAF) | 3:22 |
-| 67 | [City Life](https://open.spotify.com/track/0Drc5FqVoJKozyyzzRsujs) | [MOKAs](https://open.spotify.com/artist/1IczCTas4lUyZa8wQRst9C) | [City Life](https://open.spotify.com/album/5gSYQTFL50MJ4ThTzYmJgg) | 3:33 |
-| 68 | [Amandote Amandonos](https://open.spotify.com/track/6sEdBo2YhjUkQp8unWRp23) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Amandote Amandonos](https://open.spotify.com/album/2fOSgaYOPP6p9VZwbuyNkF) | 4:30 |
-| 69 | [It Hurt so Bad](https://open.spotify.com/track/2qsT8O0iWzxEDvZ1Cmoikh) | [The Lone Pine Revival](https://open.spotify.com/artist/0K2T1uTgbW7ZVEoWr99Qhh) | [It Hurt so Bad](https://open.spotify.com/album/6NixljQ0E8wrQOrPXKsS9U) | 4:11 |
-| 70 | [They Say the Sky Is Just a Wall](https://open.spotify.com/track/0ovI74HduC4HW1ucCuKpRb) | [Tarsik](https://open.spotify.com/artist/2530s2wwvLVcrdDZHMR0vE) | [End Game](https://open.spotify.com/album/6I5vOYOMKs2ia10GV07zcm) | 3:16 |
-| 71 | [Why Don't They Care?](https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Why Don't They Care?](https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM) | 3:04 |
-| 72 | [Zäme](https://open.spotify.com/track/3138PLDl4FJywh7QfQDy4K) | [Plouderi](https://open.spotify.com/artist/2cxFZYsHbjN2abjxd4ACv8) | [Putzt u Gschträut](https://open.spotify.com/album/3xqW0lJECZbCk6Jdu4rLgw) | 3:35 |
-| 73 | [Punch the Clown](https://open.spotify.com/track/2T8etM0uAXR8w4LI2iBmGg) | [Captain Side Eye](https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr) | [Punch the Clown](https://open.spotify.com/album/16tI9R9L3aJyHYksO5A0vF) | 3:28 |
+| 64 | [Tell Me Why](https://open.spotify.com/track/14xVr1mTSAwFY22RgIEzkb) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Tell Me Why](https://open.spotify.com/album/02QFtQGt2W4dzCWCaIvQJ7) | 3:21 |
+| 65 | [Life \(You Saved Me\)](https://open.spotify.com/track/1lZ1Sh1rz8b0lscfMkPEVD) | [The K.I.J Experience](https://open.spotify.com/artist/67HdfJ5atBe2crSt6ohfWB) | [Life \(You Saved Me\)](https://open.spotify.com/album/4FRCPWM4JildwwplokEkh8) | 3:01 |
+| 66 | [MUJER ESPAÑOLA](https://open.spotify.com/track/72T2vuQ6yNiJo0eajDRje3) | [Vástago](https://open.spotify.com/artist/6G3hE13qUdyo5k3xHBktOV) | [MUJER ESPAÑOLA](https://open.spotify.com/album/644Cr2kvQskcuzHe9ySrm4) | 3:46 |
+| 67 | [Et tu retiens](https://open.spotify.com/track/2zRJj0YSRWzjoAYc102oFX) | [Jimmy Blo](https://open.spotify.com/artist/6ABf9lpBnhcd4krOQOq8Qh) | [Et tu retiens](https://open.spotify.com/album/00UTUJdi8ziTCEMTu4iQAF) | 3:22 |
+| 68 | [City Life](https://open.spotify.com/track/0Drc5FqVoJKozyyzzRsujs) | [MOKAs](https://open.spotify.com/artist/1IczCTas4lUyZa8wQRst9C) | [City Life](https://open.spotify.com/album/5gSYQTFL50MJ4ThTzYmJgg) | 3:33 |
+| 69 | [Amandote Amandonos](https://open.spotify.com/track/6sEdBo2YhjUkQp8unWRp23) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Amandote Amandonos](https://open.spotify.com/album/2fOSgaYOPP6p9VZwbuyNkF) | 4:30 |
+| 70 | [It Hurt so Bad](https://open.spotify.com/track/2qsT8O0iWzxEDvZ1Cmoikh) | [The Lone Pine Revival](https://open.spotify.com/artist/0K2T1uTgbW7ZVEoWr99Qhh) | [It Hurt so Bad](https://open.spotify.com/album/6NixljQ0E8wrQOrPXKsS9U) | 4:11 |
+| 71 | [They Say the Sky Is Just a Wall](https://open.spotify.com/track/0ovI74HduC4HW1ucCuKpRb) | [Tarsik](https://open.spotify.com/artist/2530s2wwvLVcrdDZHMR0vE) | [End Game](https://open.spotify.com/album/6I5vOYOMKs2ia10GV07zcm) | 3:16 |
+| 72 | [Why Don't They Care?](https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Why Don't They Care?](https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM) | 3:04 |
+| 73 | [Zäme](https://open.spotify.com/track/3138PLDl4FJywh7QfQDy4K) | [Plouderi](https://open.spotify.com/artist/2cxFZYsHbjN2abjxd4ACv8) | [Putzt u Gschträut](https://open.spotify.com/album/3xqW0lJECZbCk6Jdu4rLgw) | 3:35 |
+| 74 | [Punch the Clown](https://open.spotify.com/track/2T8etM0uAXR8w4LI2iBmGg) | [Captain Side Eye](https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr) | [Punch the Clown](https://open.spotify.com/album/16tI9R9L3aJyHYksO5A0vF) | 3:28 |
 
-Snapshot ID: `AAAMMOCYfcFAHFoDwMUVmVWIWR3EM9Bu`
+Snapshot ID: `AAAMMYEfYRjaL5P5zHjP4iqogO8wR006`

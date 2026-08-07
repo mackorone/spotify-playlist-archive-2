@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Mihail",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Florian Rus",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 177000,
       "name": "Doi Eroi",
       "url": "https://open.spotify.com/track/3jNbjFryn449AQejgoDPRT"
@@ -4185,6 +4185,28 @@
     },
     {
       "album": {
+        "name": "Gangsta Luv",
+        "url": "https://open.spotify.com/album/6f8t3CYByKFuKuUBRHEjzf"
+      },
+      "artists": [
+        {
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133886,
+      "name": "Gangsta Luv",
+      "url": "https://open.spotify.com/track/3aMVeiJKtSSwhYwafOSZnM"
+    },
+    {
+      "album": {
         "name": "Gangster",
         "url": "https://open.spotify.com/album/6aNgwWg6m7YrxETvgwVvjs"
       },
@@ -4740,7 +4762,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 196551,
       "name": "Imi E Dor",
       "url": "https://open.spotify.com/track/26rDaNZOMxaAtNmYRb3otX"
@@ -6477,6 +6499,28 @@
     },
     {
       "album": {
+        "name": "Nebun",
+        "url": "https://open.spotify.com/album/4s4mRoaX04tEzhRYHywQTW"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
+        },
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Nebun",
+      "url": "https://open.spotify.com/track/417i3felnUsd1voZ7yOh04"
+    },
+    {
+      "album": {
         "name": "Neinten\u021bionat",
         "url": "https://open.spotify.com/album/4W4P0MLEzgp1aHyP8l2dRv"
       },
@@ -6804,7 +6848,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 154128,
       "name": "Nu m\u0103 gr\u0103besc",
       "url": "https://open.spotify.com/track/2ZiAm5VbNwdmi3Z7uwTXne"
@@ -7182,6 +7226,28 @@
       "duration_ms": 131499,
       "name": "O Pies\u0103 RnB",
       "url": "https://open.spotify.com/track/4Hl4L9Zqqb3iY2PONU2P9p"
+    },
+    {
+      "album": {
+        "name": "O sa te las sa ma pierzi",
+        "url": "https://open.spotify.com/album/1hsZIp1bQsLDmTVWgH0wkf"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        },
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146328,
+      "name": "O sa te las sa ma pierzi",
+      "url": "https://open.spotify.com/track/18uBNP9zbBA9bI8rLEXxMG"
     },
     {
       "album": {
@@ -8881,6 +8947,24 @@
     },
     {
       "album": {
+        "name": "Starleta",
+        "url": "https://open.spotify.com/album/4ou1jZVw34c58C79QkmVKx"
+      },
+      "artists": [
+        {
+          "name": "Florian Rus",
+          "url": "https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172766,
+      "name": "Starleta",
+      "url": "https://open.spotify.com/track/2roc9VDWHgmO7K1927dXpO"
+    },
+    {
+      "album": {
         "name": "Str\u0103ine",
         "url": "https://open.spotify.com/album/4otEmPxjyykWd8tvmy3UGs"
       },
@@ -10058,7 +10142,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 163150,
       "name": "Vara cand Pamantul s-a oprit",
       "url": "https://open.spotify.com/track/2MZvGBHJlZ7zNIq5i1XkKn"

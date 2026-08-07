@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Anabel Rose",
+  "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Zaylevelten ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -386,7 +386,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 112116,
       "name": "4 LIF3",
       "url": "https://open.spotify.com/track/6ln56LeB7NsVaeCiS4t5lL"
@@ -6050,7 +6050,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 260000,
       "name": "Don't Chase Me Away",
       "url": "https://open.spotify.com/track/41UIC44Fw79UUdwlt9Vgqs"
@@ -10360,6 +10360,24 @@
       "duration_ms": 168018,
       "name": "INTERMISSION",
       "url": "https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ"
+    },
+    {
+      "album": {
+        "name": "International Collector / Oz.",
+        "url": "https://open.spotify.com/album/3HEIDd1ULSIGXLySINdbaK"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115470,
+      "name": "International Collector",
+      "url": "https://open.spotify.com/track/3loWkeEtVnG0RoJjkzm760"
     },
     {
       "album": {
@@ -16315,6 +16333,24 @@
     },
     {
       "album": {
+        "name": "Borokiri Boy",
+        "url": "https://open.spotify.com/album/10YwFj8FlECaPGcVxmkniA"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Pitakwa Girls Riddim",
+      "url": "https://open.spotify.com/track/0l3GrZX1V14Nl7wDGqpcdL"
+    },
+    {
+      "album": {
         "name": "Pain/Pleasure",
         "url": "https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19"
       },
@@ -18074,7 +18110,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 116869,
       "name": "SAME TIME",
       "url": "https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb"
@@ -20910,6 +20946,24 @@
       "duration_ms": 108000,
       "name": "Tease",
       "url": "https://open.spotify.com/track/5aY8QMTFfS8Tc0DBydnBDE"
+    },
+    {
+      "album": {
+        "name": "B4SAVEME",
+        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120302,
+      "name": "Tease Me",
+      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
     },
     {
       "album": {

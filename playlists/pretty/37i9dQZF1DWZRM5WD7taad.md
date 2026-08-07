@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. LA GURU en Portada
+> Mujeres raperas rompiéndola en toda Latinoamérica\. J Noa en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,471 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,477 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Premiere](https://open.spotify.com/track/5QEKEOsZsq0Xyr69c9AR5K) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Agítese Bien Antes de Usar](https://open.spotify.com/album/1IIRVxKUt8DiEMVbPVZg6s) | 3:16 |
-| 2 | [BIAF <3](https://open.spotify.com/track/2niaqfUN4XWJ6BuDEm77Vh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIAF <3](https://open.spotify.com/album/0GnGHUSD8DxEU0ejWjvCNA) | 2:50 |
-| 3 | [ANTISISTEMA](https://open.spotify.com/track/3cKnb09OERSpDLC5dqaP1y) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [ANTISISTEMA](https://open.spotify.com/album/5EZgOVl4ZDzNOc10oJwXnA) | 4:09 |
+| 1 | [ANTISISTEMA](https://open.spotify.com/track/3cKnb09OERSpDLC5dqaP1y) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [ANTISISTEMA](https://open.spotify.com/album/5EZgOVl4ZDzNOc10oJwXnA) | 4:09 |
+| 2 | [La Premiere](https://open.spotify.com/track/5QEKEOsZsq0Xyr69c9AR5K) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Agítese Bien Antes de Usar](https://open.spotify.com/album/1IIRVxKUt8DiEMVbPVZg6s) | 3:16 |
+| 3 | [BIAF <3](https://open.spotify.com/track/2niaqfUN4XWJ6BuDEm77Vh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIAF <3](https://open.spotify.com/album/0GnGHUSD8DxEU0ejWjvCNA) | 2:50 |
 | 4 | [Haciendo Historia](https://open.spotify.com/track/6rWAcPtpA9RYF4sXLwgWQX) | [Abril Mancilla](https://open.spotify.com/artist/5BavlViN948RmxrVtJtOMC), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Haciendo Historia](https://open.spotify.com/album/11evZAc3UqRicwsXvN2Jd2) | 3:21 |
 | 5 | [Quieto](https://open.spotify.com/track/06esPmZZwz8QXHf0rdKFiE) | [Afromak](https://open.spotify.com/artist/00QZMNWkHo1k4dFLQVpqHK), [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [Humor Negro](https://open.spotify.com/album/7Ck5A6IwYLur5QCobZb4CM) | 2:22 |
 | 6 | [Costra](https://open.spotify.com/track/1KPPXNEFBj6lA6uujiJXlE) | [Afromak](https://open.spotify.com/artist/00QZMNWkHo1k4dFLQVpqHK), [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [Costra](https://open.spotify.com/album/0FMyMmdM0GvgKZwKd4F7kb) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 99 | [LÁSER](https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [LÁSER](https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC) | 2:39 |
 | 100 | [Hija De P](https://open.spotify.com/track/6JJOE8YrmGN7N9y9yDuEVz) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Hija De P](https://open.spotify.com/album/5ayP0qmXTKQfGUgMRXoEg9) | 2:05 |
 
-Snapshot ID: `AAAAAODg7dvMwOP1+QDmG0Q6TrQLEIim`
+Snapshot ID: `AAAAAHO2lI9qBXaqwNzwXzwYm8jhXSOj`

@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 16559,
+  "num_followers": 16564,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAAAdkbjlf042bOwoc+pSFPsj",
+  "snapshot_id": "anJ9AAAAAAAaEO9Zi1Zd2Plz8M8Ltkuf",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Conex\u00e3o - EP",
+        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 299131,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/4vvFklYoPTicMqbYUo7qyG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 174396,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/0ChXlpQEMGYU0HLNjGXqCR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conex\u00e3o - EP",
-        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 299131,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/4vvFklYoPTicMqbYUo7qyG"
     },
     {
       "added_at": null,
@@ -379,6 +379,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loosies",
+        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 151371,
+      "name": "Stop Calling Me",
+      "url": "https://open.spotify.com/track/6SXLH5379TcMvuWp1RVsnt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 258526,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/7AQRpyFBYQqtWfkmlqkw4l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JUMP (feat. Steve Vai & Travis Barker) [PEDRO SAMPAIO Remix / Coca-Cola Anthem for the FIFA World Cup 26\u2122]",
         "url": "https://open.spotify.com/album/0w12oT9jXYqaOUofQByQsg"
       },
@@ -411,38 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 258526,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/7AQRpyFBYQqtWfkmlqkw4l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loosies",
-        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 151371,
-      "name": "Stop Calling Me",
-      "url": "https://open.spotify.com/track/6SXLH5379TcMvuWp1RVsnt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3:33am",
         "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
       },
@@ -455,42 +455,6 @@
       "duration_ms": 208472,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/15ahKSfjvqH5hfsnjyoASJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conex\u00e3o - EP",
-        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 232273,
-      "name": "Love Is Stronger Than Pride",
-      "url": "https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like A Hunger",
-        "url": "https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3"
-      },
-      "artists": [
-        {
-          "name": "Wilma Archer",
-          "url": "https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx"
-        },
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 272736,
-      "name": "Like A Hunger",
-      "url": "https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA"
     },
     {
       "added_at": null,
@@ -511,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "3:33am",
-        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
+        "name": "Conex\u00e3o - EP",
+        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
       },
       "artists": [
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Mia Mark",
-          "url": "https://open.spotify.com/artist/6p0LCYIWaoyyUGdwra3DF1"
         }
       ],
-      "duration_ms": 277151,
-      "name": "Monsoon",
-      "url": "https://open.spotify.com/track/04G8U1rkNbiiLNsWo2doW2"
+      "duration_ms": 232273,
+      "name": "Love Is Stronger Than Pride",
+      "url": "https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX"
     },
     {
       "added_at": null,
@@ -551,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space & Time",
-        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
+        "name": "3:33am",
+        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
       },
       "artists": [
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Mia Mark",
+          "url": "https://open.spotify.com/artist/6p0LCYIWaoyyUGdwra3DF1"
         }
       ],
-      "duration_ms": 183980,
-      "name": "Space & Time",
-      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
+      "duration_ms": 277151,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/04G8U1rkNbiiLNsWo2doW2"
     },
     {
       "added_at": null,
@@ -579,6 +543,42 @@
       "duration_ms": 211878,
       "name": "City Starlight",
       "url": "https://open.spotify.com/track/6MgnX2FYtJCP61pjl8tj0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like A Hunger",
+        "url": "https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3"
+      },
+      "artists": [
+        {
+          "name": "Wilma Archer",
+          "url": "https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 272736,
+      "name": "Like A Hunger",
+      "url": "https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 183980,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Most Men - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 253375,
+      "name": "Most Men - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Bus",
         "url": "https://open.spotify.com/album/0tBwgaezW7QUFPSlobYAqi"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Most Men - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 253375,
-      "name": "Most Men - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loosies",
         "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
       },
@@ -755,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Generous",
-        "url": "https://open.spotify.com/album/0TCR8wB4v4fstHa3CJmZG4"
+        "name": "A.A.F.B-Sides",
+        "url": "https://open.spotify.com/album/5LYjokc0bkRmpo3zh43e3s"
       },
       "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 164029,
-      "name": "Generous",
-      "url": "https://open.spotify.com/track/6bgPMgXiSvSxRS6qKn9wK4"
+      "duration_ms": 198520,
+      "name": "4 Wheel Truck",
+      "url": "https://open.spotify.com/track/3IgTe28roXdZtmvIUTcO7W"
     },
     {
       "added_at": null,
@@ -783,6 +787,22 @@
       "duration_ms": 269523,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/5DQ45iTgC4PgcaYt89gg6y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Generous",
+        "url": "https://open.spotify.com/album/0TCR8wB4v4fstHa3CJmZG4"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 164029,
+      "name": "Generous",
+      "url": "https://open.spotify.com/track/6bgPMgXiSvSxRS6qKn9wK4"
     },
     {
       "added_at": null,
@@ -811,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3:33am",
+        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 203530,
+      "name": "Regret",
+      "url": "https://open.spotify.com/track/4wQp3kcxjM778uwcymCXK4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAKER'S DESIGN",
         "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
       },
@@ -827,22 +863,6 @@
       "duration_ms": 209773,
       "name": "GODDESS REIGN",
       "url": "https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3:33am",
-        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 203530,
-      "name": "Regret",
-      "url": "https://open.spotify.com/track/4wQp3kcxjM778uwcymCXK4"
     },
     {
       "added_at": null,
@@ -867,26 +887,6 @@
       "duration_ms": 226537,
       "name": "Trees On Fire (ft. Amber Mark and Marco McKinnis)",
       "url": "https://open.spotify.com/track/5xoWa1jhbcg8i0Z2cRtphe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reminiscence (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6eyrmkH16YkwGFyWanYa82"
-      },
-      "artists": [
-        {
-          "name": "Lonr.",
-          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
-        },
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 193907,
-      "name": "Save My Love (feat. Amber Mark)",
-      "url": "https://open.spotify.com/track/5tson2htpYtXMALweS4aW5"
     }
   ],
   "unique_name": "This Is Amber Mark",

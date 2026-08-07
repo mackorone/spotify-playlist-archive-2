@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Yammi
+> What is your love language? Say it in Swahili\.  Cover: Nandy
 
-380 songs - 21 hr 16 min
+381 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Nioneshe](https://open.spotify.com/track/6UBHxdwtS4kTvpq3rv7Uxn) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Nioneshe](https://open.spotify.com/album/3v3I7BtYIjtVQzvj5cJfwi) | 3:25 | 2022-05-26 | 2022-09-24 |
 | [Nipepee](https://open.spotify.com/track/6Cpbvi6GoTfDBYkObnuNNp) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nipepee](https://open.spotify.com/album/12AXAhxziLLk6R33nyxejH) | 3:26 | 2022-05-26 | 2023-06-03 |
 | [Nipo Nae](https://open.spotify.com/track/69MBM4xMmFI2yq3o6myuAC) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Definition Of Love](https://open.spotify.com/album/6Tc5JDXdbemLvldos05cfp) | 3:26 | 2022-05-26 | 2023-04-14 |
-| [Nisamehe](https://open.spotify.com/track/7gCNxAoiZ3IuVwzPlDE4rt) | [D Love](https://open.spotify.com/artist/6X3Lq8GTJirf9y3mfvDoPU) | [Nisamehe](https://open.spotify.com/album/2eRNVAGYAXIXo7VCz6CGPF) | 3:44 | 2026-03-27 |  |
+| [Nisamehe](https://open.spotify.com/track/7gCNxAoiZ3IuVwzPlDE4rt) | [D Love](https://open.spotify.com/artist/6X3Lq8GTJirf9y3mfvDoPU) | [Nisamehe](https://open.spotify.com/album/2eRNVAGYAXIXo7VCz6CGPF) | 3:44 | 2026-03-27 | 2026-08-07 |
 | [Nishazoea](https://open.spotify.com/track/2aZEeQqaEcQzwOXKSrDw7s) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Nishazoea](https://open.spotify.com/album/0WsAaPPks6bFE1KXWgEigu) | 3:01 | 2022-09-08 | 2023-02-10 |
 | [Nisiulizwe](https://open.spotify.com/track/0CLSneXYlfGvzuzDQeCiao) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Nisiulizwe](https://open.spotify.com/album/0hM3BzYlQs3FyZQxwZdhpv) | 3:09 | 2024-02-29 | 2026-03-27 |
 | [Nitadumu Nae](https://open.spotify.com/track/0BP9o03jFihRWj5aDrBYE2) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nitadumu Nae](https://open.spotify.com/album/3t9HBzFxZqDGqRMX26xp02) | 3:33 | 2024-09-12 | 2025-08-08 |
@@ -315,6 +315,7 @@
 | [Siwezi](https://open.spotify.com/track/5rHwhDMhECn3kuE9zH4gZF) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Siwezi](https://open.spotify.com/album/5DZnhDiqjk4VHKRs9trO9D) | 3:22 | 2025-12-18 | 2026-07-24 |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-05-26 | 2023-07-28 |
 | [Siwezi](https://open.spotify.com/track/71dAnBhTrNKhsUfL7IJ8ht) | [RICH MAVOKO](https://open.spotify.com/artist/4aeCyyHNM1iZbxz48788cd) | [Siwezi](https://open.spotify.com/album/6kqYOHMLPw6yERhUiQ7QFP) | 2:33 | 2025-10-30 | 2026-04-17 |
+| [Somebody](https://open.spotify.com/track/3CFCxKoA91XYhTh452SAJj) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Somebody](https://open.spotify.com/album/6Lbkqp4MmahYVWmBq6LUWR) | 3:51 | 2026-08-06 |  |
 | [Subira](https://open.spotify.com/track/2utgOHRwphmYpiSP3CHN5p) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Subira](https://open.spotify.com/album/1v0fPa8B379OhGZg2dMW2D) | 4:05 | 2026-07-30 |  |
 | [SUGAR](https://open.spotify.com/track/46P7l0UD1ZvNj24PHMY4wB) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [SUGAR](https://open.spotify.com/album/3t54foBHypQsPElET1ls6c) | 2:22 | 2026-05-28 |  |
 | [Sugar](https://open.spotify.com/track/7geOX315j041sZXu7B1Kpf) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Sugar](https://open.spotify.com/album/0ala3wvsS9xR8wVcUyvfOh) | 3:25 | 2025-01-16 | 2026-06-12 |

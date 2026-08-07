@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,598 songs - 10 day 7 hr 10 min
+4,599 songs - 10 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4264,6 +4264,7 @@
 | [Veneer Theory](https://open.spotify.com/track/48gmrvTWw5vwUCyEQVNQ20) | [The Fu King](https://open.spotify.com/artist/35TcrL9g3yu0tOfiTB4rVZ) | [From The Tide](https://open.spotify.com/album/0EQLgTtAsgyeQV9V1OmUPF) | 7:58 | 2025-10-27 |  |
 | [Venere](https://open.spotify.com/track/6AvF1GPp3DFE0mVfI1XImn) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [ЯEWIND](https://open.spotify.com/album/47XFlQXQtC3meDw6qDEV85) | 3:07 | 2025-10-23 |  |
 | [Venom Empire](https://open.spotify.com/track/0e4yxUFFm0nZG84xLAJqrI) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:50 | 2025-09-16 |  |
+| [Venom Era](https://open.spotify.com/track/4BxCmLkY01OrdmwCRRGj1x) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [Venom Era](https://open.spotify.com/album/4v10iyNKix3Sn7tHL934di) | 3:25 | 2026-08-06 |  |
 | [Venom Heart \#Music \#NewMusic \#Viral](https://open.spotify.com/track/1jTm59EhkuMUDnAiyzmmPc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 3:29 | 2025-09-15 |  |
 | [Vento di Carta](https://open.spotify.com/track/5vN7af7Dnmn11oYdSfUOEE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica pop in italiano 2025](https://open.spotify.com/album/28rwBadApgcQzz4GIG0fLX) | 2:49 | 2025-09-17 |  |
 | [Vento di Carta \(another\)](https://open.spotify.com/track/2icxpkHMvRpCoGBevZJQ67) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica pop in italiano 2025](https://open.spotify.com/album/28rwBadApgcQzz4GIG0fLX) | 2:57 | 2025-09-17 |  |

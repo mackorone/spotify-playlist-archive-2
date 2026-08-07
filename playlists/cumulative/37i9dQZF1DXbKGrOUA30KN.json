@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: cami",
+  "description": "Deutschpop, der jetzt passiert. Cover: Jonny Mahoro",
   "name": "POPLAND",
   "tracks": [
     {
@@ -2583,6 +2583,28 @@
     },
     {
       "album": {
+        "name": "disstrack",
+        "url": "https://open.spotify.com/album/1cKqmrqpLqQv7w36THAaUh"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        },
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160210,
+      "name": "disstrack",
+      "url": "https://open.spotify.com/track/1DvE4PD6gtLCOJqpORDqG2"
+    },
+    {
+      "album": {
         "name": "Doktor Doktor",
         "url": "https://open.spotify.com/album/0tMdfQhBku9acAvBGS3Ta6"
       },
@@ -2985,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "ein zwei aperol",
+        "url": "https://open.spotify.com/album/2ltEQhZzdoRUbsKsYvW1st"
+      },
+      "artists": [
+        {
+          "name": "smello",
+          "url": "https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144204,
+      "name": "ein zwei aperol",
+      "url": "https://open.spotify.com/track/06AFtWhDruNqPNn92idRJ1"
+    },
+    {
+      "album": {
         "name": "Einer liebt immer mehr",
         "url": "https://open.spotify.com/album/7DbdSd2anwbRHx1F5Igkm4"
       },
@@ -3303,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angels",
+        "url": "https://open.spotify.com/album/66EqavYBHcsw3euTXjynu8"
+      },
+      "artists": [
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168762,
+      "name": "Fallen Angels",
+      "url": "https://open.spotify.com/track/59rChsXAmfQCLsXuViF5CK"
+    },
+    {
+      "album": {
         "name": "falsches spiel",
         "url": "https://open.spotify.com/album/31uToeJUjp4OVGfjuhwdgb"
       },
@@ -3516,7 +3574,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 170033,
       "name": "Fluchtinstinkt",
       "url": "https://open.spotify.com/track/3FHJTdWmTrvK4FG4mOnslp"
@@ -3614,6 +3672,24 @@
       "duration_ms": 136205,
       "name": "fremdknutschen",
       "url": "https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN"
+    },
+    {
+      "album": {
+        "name": "Freu mich f\u00fcr dich",
+        "url": "https://open.spotify.com/album/6IXyoY3otcsEyKryt5Uuch"
+      },
+      "artists": [
+        {
+          "name": "ENKAY",
+          "url": "https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143898,
+      "name": "Freu mich f\u00fcr dich",
+      "url": "https://open.spotify.com/track/65rdSewPZ9xCmHx1XoiELx"
     },
     {
       "album": {
@@ -3744,6 +3820,24 @@
       "duration_ms": 172023,
       "name": "F\u00fcr immer",
       "url": "https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr immer",
+        "url": "https://open.spotify.com/album/1gRjCkne7aC5q2GQ7UE5qN"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132502,
+      "name": "F\u00fcr immer",
+      "url": "https://open.spotify.com/track/5lfrv9rNFHIfdF0IWNWg5U"
     },
     {
       "album": {
@@ -3946,7 +4040,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 139296,
       "name": "gespenst",
       "url": "https://open.spotify.com/track/65pvdGSYLDAhUKrArfi0WR"
@@ -4351,6 +4445,24 @@
     },
     {
       "album": {
+        "name": "Halsschmerzen",
+        "url": "https://open.spotify.com/album/6ugq0TqcjOaFGnCpTTpkGw"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00ebl & Jonas",
+          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164973,
+      "name": "Halsschmerzen",
+      "url": "https://open.spotify.com/track/0tTCUgWATAj0ivm8qQbLaO"
+    },
+    {
+      "album": {
         "name": "Sterne stehen gut",
         "url": "https://open.spotify.com/album/7cUO1GkjJ2AYZb12Cl3MQe"
       },
@@ -4532,7 +4644,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 141931,
       "name": "Heiraten",
       "url": "https://open.spotify.com/track/39fXWFLPIaJJPmfenK7jL9"
@@ -4818,7 +4930,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 160000,
       "name": "himbeersorbet",
       "url": "https://open.spotify.com/track/1dNOuGSRY0F6QwN0B75mts"
@@ -5978,7 +6090,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 118206,
       "name": "Kleine Krise",
       "url": "https://open.spotify.com/track/63r4SEhodUPyahvju2XS1F"
@@ -6630,7 +6742,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 145135,
       "name": "Letztes Hemd",
       "url": "https://open.spotify.com/track/0YpB4NWyNRbVJo3hCWhPcy"
@@ -7014,7 +7126,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 133866,
       "name": "Manchmal",
       "url": "https://open.spotify.com/track/4DdvFeLEKGwK2oDYwoxBZf"
@@ -9300,7 +9412,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 139365,
       "name": "Schwimme (ich ertrink)",
       "url": "https://open.spotify.com/track/4kIeSEmVGZyl0F3Ar76R7y"
@@ -9340,6 +9452,24 @@
       "duration_ms": 140428,
       "name": "Sch\u00f6n",
       "url": "https://open.spotify.com/track/0qcVNd4VcOqxfRisjPa6fu"
+    },
+    {
+      "album": {
+        "name": "Sch\u00f6ne Dinge",
+        "url": "https://open.spotify.com/album/3R9Ry8ajXF3eEUnLZ9ixsu"
+      },
+      "artists": [
+        {
+          "name": "Jonny Mahoro",
+          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128039,
+      "name": "Sch\u00f6ne Dinge",
+      "url": "https://open.spotify.com/track/09RGNVNIZxz465MyuzNBUs"
     },
     {
       "album": {
@@ -10471,6 +10601,24 @@
     },
     {
       "album": {
+        "name": "Verlieb dich nicht",
+        "url": "https://open.spotify.com/album/4PlAMPAytlCPFflTVvpud2"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112736,
+      "name": "Verlieb dich nicht",
+      "url": "https://open.spotify.com/track/17JghsEEdoSepywa7aMBAb"
+    },
+    {
+      "album": {
         "name": "VERLIEBT IN MICH",
         "url": "https://open.spotify.com/album/1mgjUkBHhJLQlrcxtC3QOX"
       },
@@ -10638,6 +10786,24 @@
       "duration_ms": 176129,
       "name": "Vielleicht in einem anderen Leben",
       "url": "https://open.spotify.com/track/3koGoS4iwYQcrnrL2ban2M"
+    },
+    {
+      "album": {
+        "name": "Von Allein",
+        "url": "https://open.spotify.com/album/4seW2mzRBYAR0zUdUzdrjb"
+      },
+      "artists": [
+        {
+          "name": "Queen Mahoro",
+          "url": "https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120359,
+      "name": "Von Allein",
+      "url": "https://open.spotify.com/track/4aETrfOQnEIX76NM6KZmhy"
     },
     {
       "album": {
@@ -10848,6 +11014,24 @@
       "duration_ms": 124250,
       "name": "was bleibt dann zwischen uns?",
       "url": "https://open.spotify.com/track/76DasZKUhyLV7tQX1Scq4A"
+    },
+    {
+      "album": {
+        "name": "Was du nicht siehst",
+        "url": "https://open.spotify.com/album/2kAwZrc9hLYkS8O0W5xBeH"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Was du nicht siehst",
+      "url": "https://open.spotify.com/track/4J19Wgpl3k1mNzaCWbEWsG"
     },
     {
       "album": {
@@ -11582,7 +11766,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 158012,
       "name": "Wie Du",
       "url": "https://open.spotify.com/track/6f4v65I6KCWtG0241uyAJp"
@@ -12084,7 +12268,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 136204,
       "name": "zufrieden",
       "url": "https://open.spotify.com/track/5H9Zad8uqdWkfKygwYjZvv"

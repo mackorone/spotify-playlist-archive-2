@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Jaime Cheung \u5f35\u5929\u7a4e",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: FYP",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 195272,
       "name": "Christmas Sale",
       "url": "https://open.spotify.com/track/7bm9goZ8eugKwnJvSGh9pF"
@@ -10756,7 +10756,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 111027,
       "name": "LOOK AT ME",
       "url": "https://open.spotify.com/track/3gLeXQE3RZ8UDeT5ZE2WAs"
@@ -11582,7 +11582,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 339000,
       "name": "Martyr#1",
       "url": "https://open.spotify.com/track/6cMAWahZmQfn57wmxGcxfM"
@@ -11850,7 +11850,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 309000,
       "name": "Midnight Gospel",
       "url": "https://open.spotify.com/track/3cZ4ohsf6tU8E7PBE11KNl"
@@ -13004,7 +13004,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 206332,
       "name": "No More Lonely Christmas",
       "url": "https://open.spotify.com/track/6tfM6NgaqAeyfOOvTGRZ5g"
@@ -14166,7 +14166,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 140642,
       "name": "PARADISE - Stripped Version",
       "url": "https://open.spotify.com/track/2K26zQP0wCV6ZeBrhQTvY7"
@@ -21840,7 +21840,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 164067,
       "name": "\u4e09\u5f35",
       "url": "https://open.spotify.com/track/1WLnyDNgahmGxWLwHIif3p"
@@ -22032,7 +22032,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 220769,
       "name": "\u4e0d\u5982\u6d6a\u6f2b\u4e00\u6b21",
       "url": "https://open.spotify.com/track/6Gwysycdz2wu8JK8Pm88Nz"
@@ -22308,7 +22308,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 109655,
       "name": "\u4e5c\u90fd\u6703\u8a66",
       "url": "https://open.spotify.com/track/5LEg6V8yyGfjEjnlHUwTez"
@@ -24853,6 +24853,24 @@
     },
     {
       "album": {
+        "name": "\u5929\u4e0b\u4e5f\u4e00\u6a23",
+        "url": "https://open.spotify.com/album/7AxGhLKa3TmOG3edAZobl1"
+      },
+      "artists": [
+        {
+          "name": "FYP",
+          "url": "https://open.spotify.com/artist/4p0rkZqkBevR2hDsNmOLRM"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237888,
+      "name": "\u5929\u4e0b\u4e5f\u4e00\u6a23",
+      "url": "https://open.spotify.com/track/7rQcwYCHD6Kcm8B9taUzA0"
+    },
+    {
+      "album": {
         "name": "\u5929\u4f7f999%",
         "url": "https://open.spotify.com/album/5sG2VZ8ou6pGukVpWvNnn1"
       },
@@ -26048,7 +26066,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 205885,
       "name": "\u5fae\u7b11\u6291\u9b31\u75c7",
       "url": "https://open.spotify.com/track/1OSWoSmCIughniERrfpmpM"
@@ -29849,6 +29867,24 @@
     },
     {
       "album": {
+        "name": "\u754c\u9650\u75c7",
+        "url": "https://open.spotify.com/album/5A2j0BkH2wUT9I0plBLcTy"
+      },
+      "artists": [
+        {
+          "name": "Instinct of Sight",
+          "url": "https://open.spotify.com/artist/69daEmEDuIbefSrerLcNhA"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179191,
+      "name": "\u754c\u9650\u75c7",
+      "url": "https://open.spotify.com/track/7sBV4RnLh35eXTwuwq6DEQ"
+    },
+    {
+      "album": {
         "name": "\u7559\u5728\u539f\u5730\u7b49\u4f60\u8ffd",
         "url": "https://open.spotify.com/album/4QBcJM4hB8sRAQP2s6SRDL"
       },
@@ -29936,7 +29972,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 191866,
       "name": "\u771f\u5fc3\u6709\u75c5",
       "url": "https://open.spotify.com/track/2VWFZ4SGhtQO7ldILHGBC7"
@@ -30886,7 +30922,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 250624,
       "name": "\u8349\u897f",
       "url": "https://open.spotify.com/track/3jFv65hSmXNh8XUuFbcDJ0"
@@ -31874,7 +31910,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 219500,
       "name": "\u9084\u6211",
       "url": "https://open.spotify.com/track/09b0961uajpyHJI44TwAvU"

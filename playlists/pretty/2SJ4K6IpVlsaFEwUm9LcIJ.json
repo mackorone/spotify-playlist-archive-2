@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-august 2026 (previous playlists archived on my profile)",
-  "num_followers": 24372,
+  "num_followers": 24371,
   "original_name": "spacked out!!!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOrSolK4JChBSpo7wOWZpC64y2OwKw",
+  "snapshot_id": "AAAOrkBgX5oHr12FhrCcLtcsurq9Fu0p",
   "tracks": [
     {
       "added_at": "2026-07-06 01:28:22",
@@ -201,7 +201,7 @@
       "artists": [
         {
           "name": "Makers",
-          "url": "https://open.spotify.com/artist/4o3UbCOZDjx8y4pORzt4wq"
+          "url": "https://open.spotify.com/artist/2eHWlghlbjyLgabd6hRSWp"
         }
       ],
       "duration_ms": 185098,
@@ -687,6 +687,26 @@
       "duration_ms": 70899,
       "name": "Lighthouses",
       "url": "https://open.spotify.com/track/6XQXL1fJFWHr78vRaWHh3i"
+    },
+    {
+      "added_at": "2026-08-06 18:59:46",
+      "album": {
+        "name": "Paraiso",
+        "url": "https://open.spotify.com/album/2WehoDdFUCXFkI1GPzNXsb"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        },
+        {
+          "name": "\u30a4\u30a8\u30ed\u30fc\u30fb\u30de\u30b8\u30c3\u30af\u30fb\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/5jbEAtH0taE3VOckheoojM"
+        }
+      ],
+      "duration_ms": 286120,
+      "name": "\u56db\u9762\u9053\u6b4c - 2019 Remastering",
+      "url": "https://open.spotify.com/track/2HDGtTkECiCygeSNYIH9RQ"
     }
   ],
   "unique_name": "spacked out!!!",

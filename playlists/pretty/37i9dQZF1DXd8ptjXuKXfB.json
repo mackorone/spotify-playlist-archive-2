@@ -1,12 +1,12 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 32764,
+  "num_followers": 32772,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABRgWMkiYWAqOririlPL6nxxgp9/",
+  "snapshot_id": "AAAAAJJ7DFBxNH5bKa417S9wNBm06B/C",
   "tracks": [
     {
       "added_at": "2026-07-20 14:25:42",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "S\u00d6T\u00c9T",
         "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
       },
@@ -767,34 +747,22 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "D\u00c9RYN\u00c9",
-        "url": "https://open.spotify.com/album/3MJhjKloPuhFD6D75aJsYk"
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN"
       },
       "artists": [
         {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "D\u00c9RYN\u00c9",
-      "url": "https://open.spotify.com/track/0oDmYaiTVDwZ9VBmprkKYE"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
-        "name": "Gyerekek",
-        "url": "https://open.spotify.com/album/0oOywwZrjosDWVG95s9GBE"
-      },
-      "artists": [
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
         {
-          "name": "Halott P\u00e9nz",
-          "url": "https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 156678,
-      "name": "Gyerekek",
-      "url": "https://open.spotify.com/track/08na9p4pgKiHEoxZQwMdB2"
+      "duration_ms": 220080,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -819,6 +787,38 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
+        "name": "Gyerekek",
+        "url": "https://open.spotify.com/album/0oOywwZrjosDWVG95s9GBE"
+      },
+      "artists": [
+        {
+          "name": "Halott P\u00e9nz",
+          "url": "https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h"
+        }
+      ],
+      "duration_ms": 156678,
+      "name": "Gyerekek",
+      "url": "https://open.spotify.com/track/08na9p4pgKiHEoxZQwMdB2"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "D\u00c9RYN\u00c9",
+        "url": "https://open.spotify.com/album/3MJhjKloPuhFD6D75aJsYk"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "D\u00c9RYN\u00c9",
+      "url": "https://open.spotify.com/track/0oDmYaiTVDwZ9VBmprkKYE"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
         "name": "VINNER",
         "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "Talpra cig\u00e1nyok",
-        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 146808,
-      "name": "Talpra cig\u00e1nyok",
-      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "WAZZUP",
         "url": "https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 158750,
       "name": "WAZZUP",
       "url": "https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "Talpra cig\u00e1nyok",
+        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 146808,
+      "name": "Talpra cig\u00e1nyok",
+      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "Vinnipu",
-        "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 108746,
-      "name": "Vinnipu",
-      "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 188642,
       "name": "PANASONIC",
       "url": "https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "Vinnipu",
+        "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 108746,
+      "name": "Vinnipu",
+      "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "Csurran, cseppen",
-        "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
-      },
-      "artists": [
-        {
-          "name": "Majka",
-          "url": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Csurran, cseppen",
-      "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "DUMDUM",
         "url": "https://open.spotify.com/album/74DQzDPzD0euWtsnBClgYH"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 155094,
       "name": "DUMDUM",
       "url": "https://open.spotify.com/track/7ppCZOGHW33FT9d9NWh1kY"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "Csurran, cseppen",
+        "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
+      },
+      "artists": [
+        {
+          "name": "Majka",
+          "url": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Csurran, cseppen",
+      "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "vrumm",
-        "url": "https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ"
+        "name": "TOP TIER (SPACCONE)",
+        "url": "https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx"
       },
       "artists": [
         {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
         }
       ],
-      "duration_ms": 146581,
-      "name": "vrumm",
-      "url": "https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw"
+      "duration_ms": 122500,
+      "name": "TOP TIER - SPACCONE",
+      "url": "https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -1079,22 +1079,6 @@
       "duration_ms": 137999,
       "name": "DADDY",
       "url": "https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
-        "name": "TOP TIER (SPACCONE)",
-        "url": "https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "TOP TIER - SPACCONE",
-      "url": "https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -1135,22 +1119,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "Sephora",
-        "url": "https://open.spotify.com/album/57wKUH3yHkLcxx6F0yNQ0w"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 271272,
-      "name": "Sephora",
-      "url": "https://open.spotify.com/track/0spi2UrCGiakkBcKhGUlHE"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "BULLSHIT",
         "url": "https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW"
       },
@@ -1167,6 +1135,38 @@
       "duration_ms": 138947,
       "name": "BULLSHIT",
       "url": "https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "vrumm",
+        "url": "https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 146581,
+      "name": "vrumm",
+      "url": "https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "Sephora",
+        "url": "https://open.spotify.com/album/57wKUH3yHkLcxx6F0yNQ0w"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 271272,
+      "name": "Sephora",
+      "url": "https://open.spotify.com/track/0spi2UrCGiakkBcKhGUlHE"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "Four Seasons - Spring",
-        "url": "https://open.spotify.com/album/4iDm13QQDysn1H3w0cZypc"
-      },
-      "artists": [
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        }
-      ],
-      "duration_ms": 149352,
-      "name": "Gate Closed",
-      "url": "https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "Suttog a sz\u00e9l",
         "url": "https://open.spotify.com/album/4IxmvNpvwBFC8vj1JVl9qY"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 271090,
       "name": "F\u00fajj meg sz\u00e9l",
       "url": "https://open.spotify.com/track/4pWG3fl6XukJyLm349JLfS"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "Four Seasons - Spring",
+        "url": "https://open.spotify.com/album/4iDm13QQDysn1H3w0cZypc"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 149352,
+      "name": "Gate Closed",
+      "url": "https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -1311,6 +1311,38 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
+        "name": "Bad Boyz",
+        "url": "https://open.spotify.com/album/2mmhWbYDMbtr24xzCO5Z0U"
+      },
+      "artists": [
+        {
+          "name": "Burai",
+          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
+        },
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+        },
+        {
+          "name": "Goore",
+          "url": "https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp"
+        },
+        {
+          "name": "Kretz",
+          "url": "https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Bad Boyz",
+      "url": "https://open.spotify.com/track/1hu77lKSi2nViKzWsAJJzY"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
         "name": "STRESSZ",
         "url": "https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ"
       },
@@ -1343,38 +1375,6 @@
       "duration_ms": 131250,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/0e0rMDNx3D0xMgOAcZQ2rj"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
-        "name": "Bad Boyz",
-        "url": "https://open.spotify.com/album/2mmhWbYDMbtr24xzCO5Z0U"
-      },
-      "artists": [
-        {
-          "name": "Burai",
-          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
-        },
-        {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
-        },
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
-        },
-        {
-          "name": "Goore",
-          "url": "https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp"
-        },
-        {
-          "name": "Kretz",
-          "url": "https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Bad Boyz",
-      "url": "https://open.spotify.com/track/1hu77lKSi2nViKzWsAJJzY"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "PLETYKA",
-        "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 155121,
-      "name": "PLETYKA",
-      "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "Nesztek!",
         "url": "https://open.spotify.com/album/0m26JdOSr7CXT37JQp3wkF"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 127572,
       "name": "Nesztek!",
       "url": "https://open.spotify.com/track/1dAke6f5iFbycgLmX4Uv9o"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "PLETYKA",
+        "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 155121,
+      "name": "PLETYKA",
+      "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
     },
     {
       "added_at": "2026-07-20 14:25:42",

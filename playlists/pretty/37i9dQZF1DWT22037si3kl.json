@@ -1,12 +1,12 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: M'DEP, DESSIIIK ",
-  "num_followers": 150548,
+  "num_followers": 150574,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEg7We0cq8kI4hKygZw7YOEVYMAu",
+  "snapshot_id": "AAAAACAcNsC9ZRX0dVWjkz6LRV6F5O/4",
   "tracks": [
     {
       "added_at": "2026-08-03 21:24:05",
@@ -1047,26 +1047,30 @@
     {
       "added_at": "2026-08-03 21:24:05",
       "album": {
-        "name": "Spliff",
-        "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
+        "name": "N\u00d3S CONTRA O MUNDO",
+        "url": "https://open.spotify.com/album/2Cs5AiZ8KTYGWPA5vqIMni"
       },
       "artists": [
         {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+          "name": "RIRI",
+          "url": "https://open.spotify.com/artist/3rxmvehXBhivLmpy0wBUgS"
         },
         {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+          "name": "SlimeCunha",
+          "url": "https://open.spotify.com/artist/6aFo1ie5TeHMbcuffLkw7a"
         },
         {
-          "name": "Vertigo",
-          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "NXRTHFACE14X",
+          "url": "https://open.spotify.com/artist/1tFeb1mSWakaz6SPK5fwF2"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Spliff",
-      "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
+      "duration_ms": 167575,
+      "name": "EU SOU A FONTE",
+      "url": "https://open.spotify.com/track/7DvBUHXM86WjVQiDLASMyy"
     },
     {
       "added_at": "2026-08-03 21:24:05",
@@ -1103,6 +1107,30 @@
     {
       "added_at": "2026-08-03 21:24:05",
       "album": {
+        "name": "Spliff",
+        "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        },
+        {
+          "name": "Vertigo",
+          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Spliff",
+      "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
+    },
+    {
+      "added_at": "2026-08-03 21:24:05",
+      "album": {
         "name": "Ruas Frias",
         "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
       },
@@ -1115,34 +1143,6 @@
       "duration_ms": 213333,
       "name": "Ruas Frias",
       "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
-    },
-    {
-      "added_at": "2026-08-03 21:24:05",
-      "album": {
-        "name": "N\u00d3S CONTRA O MUNDO",
-        "url": "https://open.spotify.com/album/2Cs5AiZ8KTYGWPA5vqIMni"
-      },
-      "artists": [
-        {
-          "name": "RIRI",
-          "url": "https://open.spotify.com/artist/3rxmvehXBhivLmpy0wBUgS"
-        },
-        {
-          "name": "SlimeCunha",
-          "url": "https://open.spotify.com/artist/6aFo1ie5TeHMbcuffLkw7a"
-        },
-        {
-          "name": "Cashley",
-          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
-        },
-        {
-          "name": "NXRTHFACE14X",
-          "url": "https://open.spotify.com/artist/1tFeb1mSWakaz6SPK5fwF2"
-        }
-      ],
-      "duration_ms": 167575,
-      "name": "EU SOU A FONTE",
-      "url": "https://open.spotify.com/track/7DvBUHXM86WjVQiDLASMyy"
     },
     {
       "added_at": "2026-08-03 21:24:05",

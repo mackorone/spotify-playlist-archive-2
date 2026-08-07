@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1176556,
+  "num_followers": 1176697,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAABtyqLb38SbVqqpAEJL+L+E",
+  "snapshot_id": "anJ9AAAAAAAO4R47XJDHm5af1GIcGuVf",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 249995,
-      "name": "Only over You - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6zAwSWQywmeEFP11tK7t5W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 217573,
       "name": "Tusk - 2015 Remaster",
       "url": "https://open.spotify.com/track/0iINibMKtoS8duvexsqnm5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 249995,
+      "name": "Only over You - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6zAwSWQywmeEFP11tK7t5W"
     },
     {
       "added_at": null,

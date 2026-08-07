@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Vishwanath & Sons",
-  "num_followers": 212152,
+  "num_followers": 212260,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIRVwFrlzxKk8kfMss7/4YHdQhbo",
+  "snapshot_id": "AAAAADJfGthI7A/b5NOE1TMLGRR+A1mE",
   "tracks": [
     {
       "added_at": "2026-06-19 13:18:57",
@@ -247,6 +247,34 @@
       "duration_ms": 151680,
       "name": "Aasa Pulla (From \"Youth\")",
       "url": "https://open.spotify.com/track/1CP3eJVGHGN6IaUAlEgQeM"
+    },
+    {
+      "added_at": "2026-08-06 11:20:47",
+      "album": {
+        "name": "Crazy Love (from the Netflix Film \"Pyaar Prema Kalyanam\")",
+        "url": "https://open.spotify.com/album/7CJ8bmm1QGuqwGbukD6ss3"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Snigdha Chandra",
+          "url": "https://open.spotify.com/artist/5lkP9r6eDJY1EBvu5jYgV7"
+        },
+        {
+          "name": "Elan",
+          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
+        }
+      ],
+      "duration_ms": 190048,
+      "name": "Crazy Love (from the Netflix Film \"Pyaar Prema Kalyanam\")",
+      "url": "https://open.spotify.com/track/4mHI5yOT8i8ZkHT7hDth0q"
     },
     {
       "added_at": "2026-08-04 15:48:22",
@@ -636,8 +664,8 @@
           "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
         },
         {
-          "name": "G.V. Prakash Kumar",
-          "url": "https://open.spotify.com/artist/75r4L4m7eDhqgKkceviKUj"
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
           "name": "Vishnu Edavan",
@@ -1183,30 +1211,6 @@
       "duration_ms": 269154,
       "name": "Edhukku Dhan Indha Kaadhal",
       "url": "https://open.spotify.com/track/7AgTsP87xw1OpQ3lmeDf6Z"
-    },
-    {
-      "added_at": "2026-01-15 06:49:30",
-      "album": {
-        "name": "Vaalile Samurai x Rajavin Paarvai (From \"Vaa Vaathiyaar\")",
-        "url": "https://open.spotify.com/album/5H3hO7cjnCdVybJTWX5RDL"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Sathyan Mahalingam",
-          "url": "https://open.spotify.com/artist/0VXtbLfOdJp6egQJhjEqn2"
-        },
-        {
-          "name": "Vijaynarain",
-          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
-        }
-      ],
-      "duration_ms": 206217,
-      "name": "Vaalile Samurai x Rajavin Paarvai (From \"Vaa Vaathiyaar\")",
-      "url": "https://open.spotify.com/track/6aDxnH2dZ4JuiDBKRHH9qi"
     }
   ],
   "unique_name": "Latest Love Tamil",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "Baba God, run am \ud83d\ude4f. \nCover:  EF Moon & Ayo Maff",
+  "description": "Baba God, run am \ud83d\ude4f. \nCover:  Llona",
   "name": "afro adura ",
   "tracks": [
     {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 185000,
       "name": "Ara (600M)",
       "url": "https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 152135,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1KRjAOPqmQtP6fwTKxH0zR"
@@ -696,7 +696,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 163944,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR"
@@ -736,6 +736,28 @@
       "duration_ms": 138187,
       "name": "Comforter",
       "url": "https://open.spotify.com/track/12uJDbjH0gwh0fs4gFgDhQ"
+    },
+    {
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161920,
+      "name": "Cry (with Black Sherif)",
+      "url": "https://open.spotify.com/track/6Xec7VYM3Y98esBVd6VCPh"
     },
     {
       "album": {
@@ -887,7 +909,7 @@
     },
     {
       "album": {
-        "name": "Eja Meja",
+        "name": "Eja Meja (feat. Asake)",
         "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
       },
       "artists": [
@@ -904,7 +926,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158108,
-      "name": "Eja Meja",
+      "name": "Eja Meja (feat. Asake)",
       "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
     },
     {
@@ -1306,7 +1328,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 119347,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU"
@@ -2406,7 +2428,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 131592,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
@@ -2504,7 +2526,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
@@ -2978,7 +3000,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 252903,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/4hm34en9vhwHwHsOTHrHzM"

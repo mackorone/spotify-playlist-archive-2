@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: JayQ
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,853 likes - 34 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,860 likes - 34 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 22 | [จุมพิต](https://open.spotify.com/track/3leItPP2XIt4eVia7kQ7ey) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MCB : Blonde Do It Better](https://open.spotify.com/album/49qzkCIVXuEu9vPqgN9UYJ) | 3:22 |
 | 23 | [ไปต่อหรือพอแค่นี้](https://open.spotify.com/track/0LIrz28O9gQqKgki2i09l5) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [ไปต่อหรือพอแค่นี้](https://open.spotify.com/album/0wktt1y5XwMR8qXvKaXNtM) | 3:36 |
 | 24 | [Zindaria](https://open.spotify.com/track/6QdbidmtvK7LMRsj8rSY2w) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [Zindaria](https://open.spotify.com/album/0woWWAaYtb3ovQBsUBKn8V) | 2:23 |
-| 25 | [silly nature](https://open.spotify.com/track/39TQI4MMElmwhA0f07apQ8) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 2:27 |
-| 26 | [ง่ายไป \(Love is Verb\)](https://open.spotify.com/track/3NuFCD3AHydEznL3WBMTfa) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [ง่ายไป \(Love is Verb\)](https://open.spotify.com/album/3V4VMN5AklsUFACWZYK5IL) | 2:59 |
+| 25 | [ง่ายไป \(Love is Verb\)](https://open.spotify.com/track/3NuFCD3AHydEznL3WBMTfa) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [ง่ายไป \(Love is Verb\)](https://open.spotify.com/album/3V4VMN5AklsUFACWZYK5IL) | 2:59 |
+| 26 | [silly nature](https://open.spotify.com/track/39TQI4MMElmwhA0f07apQ8) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 2:27 |
 | 27 | [เนิร์ดดี \(Nerdy\)](https://open.spotify.com/track/21NwwpDdex2A27E87VGqRX) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [เนิร์ดดี \(Nerdy\)](https://open.spotify.com/album/3ID5rgCeHEpASNQjQmXmxN) | 2:33 |
 | 28 | [Crv](https://open.spotify.com/track/4L2DOfgRpdSF0Qs5WNsaIh) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 3:39 |
 | 29 | [ABUM](https://open.spotify.com/track/4fua2kyOh4I2wQGjuLtSYc) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [ABUM](https://open.spotify.com/album/2rPwuobO3nwliWwrw3IK8F) | 3:32 |
 | 30 | [ผิดจังหวะ \(Off Beat\)](https://open.spotify.com/track/0iLTFTrTcXlIO9EjSgPCGl) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [ผิดจังหวะ \(Off Beat\)](https://open.spotify.com/album/1y9QFEwGrVNeni6D8XXgJS) | 2:54 |
 | 31 | [จับกุม \(JUB KUM\)](https://open.spotify.com/track/3r4H68mQ7kFORbqnSL151b) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [จับกุม \(JUB KUM\)](https://open.spotify.com/album/4qCctbbJBvQxMayG7409eD) | 3:32 |
-| 32 | [Roo Gun](https://open.spotify.com/track/68v61y5TQzhK6cbUZQ7E3K) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 4:15 |
-| 33 | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/album/4gf7kuptrv0VvYa6qNyyD5) | 3:26 |
+| 32 | [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 |
+| 33 | [Roo Gun](https://open.spotify.com/track/68v61y5TQzhK6cbUZQ7E3K) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 4:15 |
 | 34 | [ThaiKids](https://open.spotify.com/track/4GlV2xjoki70itp4GMFPgo) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [ThaiKids](https://open.spotify.com/album/7bRV2jXhlJVxHGdA4h7pIy) | 3:18 |
 
-Snapshot ID: `AAAAANfw7NtaMP/ok6BQv3vF9RJdM2YS`
+Snapshot ID: `AAAAADmPlc7czOILETfKFQ18YSKYk2Jv`

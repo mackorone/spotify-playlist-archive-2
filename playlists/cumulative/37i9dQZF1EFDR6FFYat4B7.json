@@ -1765,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "Exhibit A",
+        "url": "https://open.spotify.com/album/51ZXr1PSFscY478GVD7Qux"
+      },
+      "artists": [
+        {
+          "name": "Androppolis",
+          "url": "https://open.spotify.com/artist/4qwtoERXntUZinWjz3Xk5p"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120077,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/06IkwCCdPyhRKlpr3GOdYu"
+    },
+    {
+      "album": {
         "name": "Live or Die",
         "url": "https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72"
       },

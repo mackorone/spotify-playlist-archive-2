@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 440183,
+  "num_followers": 440577,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAAB4hFoHK99Ft2wrljbI/36+",
+  "snapshot_id": "anJ9AAAAAADBYnSogpREAn1NsoFKhcle",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Looking Out For #1",
-      "url": "https://open.spotify.com/track/6fjO1ydi9dNB0nooAI2g3C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ignition (2008 Remaster)",
         "url": "https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 152466,
       "name": "Session - 2008 Remaster",
       "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Looking Out For #1",
+      "url": "https://open.spotify.com/track/6fjO1ydi9dNB0nooAI2g3C"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Behind Your Walls",
-      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 196373,
       "name": "Kick Him When He's Down",
       "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Behind Your Walls",
+      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
     },
     {
       "added_at": null,

@@ -5914,7 +5914,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 152693,
       "name": "Cherry Blossom Sky",
       "url": "https://open.spotify.com/track/63HUPODfR1TEcUNvMtYnkh"
@@ -13026,7 +13026,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 216520,
       "name": "F\u00f6r n\u00e4ra solen",
       "url": "https://open.spotify.com/track/6J71OcLTKjZIIH9AlYu0LW"
@@ -14308,6 +14308,24 @@
       "duration_ms": 194880,
       "name": "Grand Hotel",
       "url": "https://open.spotify.com/track/4AFWZcUaYfYIU3EAoTK0Dz"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/4KaqbSuXThiupKsPGA097L"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193386,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/27NCPgfAJ3i4epMbWcMfd1"
     },
     {
       "album": {
@@ -16092,7 +16110,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 170735,
       "name": "Hillbillyn i mig",
       "url": "https://open.spotify.com/track/7Ie1Fr2n3bBLp2Q17rbf9a"
@@ -33777,6 +33795,24 @@
     },
     {
       "album": {
+        "name": "Sommarflamma",
+        "url": "https://open.spotify.com/album/7cBwO2EKohCzADXdUBn9lI"
+      },
+      "artists": [
+        {
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167693,
+      "name": "Sommarflamma",
+      "url": "https://open.spotify.com/track/4Yy2IG4c2R5SpmqmZWmXNM"
+    },
+    {
+      "album": {
         "name": "Sommarland",
         "url": "https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo"
       },
@@ -39062,6 +39098,28 @@
       "duration_ms": 219362,
       "name": "T\u00e4nd alla ljus f\u00f6r mig",
       "url": "https://open.spotify.com/track/3heNhbAlaEYepS9PMkqX3w"
+    },
+    {
+      "album": {
+        "name": "T\u00e4nk om",
+        "url": "https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        },
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "T\u00e4nk om",
+      "url": "https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0"
     },
     {
       "album": {

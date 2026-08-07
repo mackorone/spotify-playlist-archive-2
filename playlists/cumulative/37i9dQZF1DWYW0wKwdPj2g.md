@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-350 songs - 1 day 23 hr 56 min
+352 songs - 2 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,8 @@
 | [Separate and Set Apart \- Live](https://open.spotify.com/track/73sM6yB7aVAnxIkXsmKSab) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Separate and Set Apart \(Live\)](https://open.spotify.com/album/2fJNJYJp9xgvszDVXqlp29) | 11:24 | 2024-07-19 | 2024-11-01 |
 | [Set me on Fire \(Spontaneous\) \- Live](https://open.spotify.com/track/5WFRlXEzVc4lMrTWr38fo1) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi) | [Set me on Fire \(Spontaneous\) \[Live\]](https://open.spotify.com/album/2EpYbLNXu2dbGLEltYinIL) | 7:41 | 2025-05-30 | 2025-08-08 |
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2024-02-23 |  |
+| [Show Up \- Live](https://open.spotify.com/track/4huqKWlhldHQOz66KW60iK) | [Jeremiah Nkwocha](https://open.spotify.com/artist/1kHd1wOgZPzBQsprlGBJ8a), [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [Show Up \(Live\)](https://open.spotify.com/album/1JMkm1qzX54Dm0sqgP6aNr) | 16:53 | 2026-08-07 |  |
+| [Silawule \- Live](https://open.spotify.com/track/2A6gGJlu0Tsxqfk0vZwtaH) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Silawule \(Live\)](https://open.spotify.com/album/3FD1NloKwsEmpD7XpWsUxv) | 6:37 | 2026-08-07 |  |
 | [Sing For Joy](https://open.spotify.com/track/0cdH2VxYlwElQl4nN5DqjW) | [Ccioma](https://open.spotify.com/artist/4KUBNwD9GNCDXGGHJqRbpF) | [Sing For Joy](https://open.spotify.com/album/2bLnPf8G08JcrL4N4VWGQz) | 7:09 | 2024-08-02 | 2024-11-08 |
 | [Siyabonga Jesu \(Wahamba Nathi\) \[Live\]](https://open.spotify.com/track/4nmRnP0r7F4apXJLxGQ3MG) | [Solly Mahlangu](https://open.spotify.com/artist/7mZOspv12XLvP1LQL6DmqR) | [Mwamba Mwamba \(Live\) Recorded at Big Top Arena Carnival City](https://open.spotify.com/album/2grRNjByBgEo00XJueSanO) | 6:51 | 2024-02-23 |  |
 | [Sleeping Giant \- Live](https://open.spotify.com/track/2Fd0Rb6CLlylofYzCXMu5b) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Sleeping Giant \(Live\)](https://open.spotify.com/album/4bkueR59u5NloiHDZy6tUA) | 7:27 | 2025-03-28 | 2025-05-30 |

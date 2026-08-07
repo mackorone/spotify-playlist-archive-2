@@ -410,7 +410,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 182400,
       "name": "All For Me",
       "url": "https://open.spotify.com/track/4DaNJaRuXeaUCtv7c9itey"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 418550,
       "name": "Always Doing Good",
       "url": "https://open.spotify.com/track/3rGwkG01eYjGotsDJekog4"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 387749,
       "name": "Amen Amen",
       "url": "https://open.spotify.com/track/45beXwi0eSva0HfDDZJhjR"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 217385,
       "name": "Control",
       "url": "https://open.spotify.com/track/0nHzBpcPbGM1sR9KTAQe6Y"
@@ -2380,7 +2380,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 145531,
       "name": "DO",
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
@@ -3042,7 +3042,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 195347,
       "name": "Everybody Tobechukwu",
       "url": "https://open.spotify.com/track/344k8s5ytcIOHEDgaGHPs3"
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 586140,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI"
@@ -3348,7 +3348,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 265611,
       "name": "Fi Life",
       "url": "https://open.spotify.com/track/73YHEkRd1VtJfrc53mMWrX"
@@ -3562,23 +3562,19 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
         },
         {
           "name": "Chandler Moore",
           "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Todd Galberth",
-          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
         }
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 498332,
-      "name": "For My Good (feat. Todd Galberth)",
+      "name": "For My Good (feat. Todd Galberth, Chandler Moore )",
       "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
     },
     {
@@ -3843,6 +3839,28 @@
     },
     {
       "album": {
+        "name": "Glorified",
+        "url": "https://open.spotify.com/album/43uCot5puRm6FRYsaBnsCe"
+      },
+      "artists": [
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        },
+        {
+          "name": "Churemi",
+          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Glorified",
+      "url": "https://open.spotify.com/track/6Lldkt5PhRsKWQ5zelEZbg"
+    },
+    {
+      "album": {
         "name": "Glory On The Other Side (Live Acoustic)",
         "url": "https://open.spotify.com/album/4ywsKcwF8mUfuKUwnIgTKf"
       },
@@ -4000,7 +4018,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 151485,
       "name": "GOOD FEELIN",
       "url": "https://open.spotify.com/track/3kDMSBvc2zfjZBjvFqV8ZQ"
@@ -4528,7 +4546,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-23",
+      "date_removed": null,
       "duration_ms": 416232,
       "name": "Halleluyah",
       "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
@@ -4956,7 +4974,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
@@ -5890,7 +5908,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 278778,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/2X1KhBy93qsWLWmuYjDyTF"
@@ -5974,7 +5992,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 206550,
       "name": "Jesus Has Won",
       "url": "https://open.spotify.com/track/2Zs2RddCnSBPQJXZyVXCSB"
@@ -6636,7 +6654,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 158490,
       "name": "Love Bet",
       "url": "https://open.spotify.com/track/68OIGx3DQ9CEK6jNFPuGBe"
@@ -6782,6 +6800,24 @@
       "duration_ms": 164210,
       "name": "Made Me Glad",
       "url": "https://open.spotify.com/track/5bOzP0pJX3zTS5KnuZ5S3p"
+    },
+    {
+      "album": {
+        "name": "Many",
+        "url": "https://open.spotify.com/album/1UrUin8IxAkH39CfanCbxW"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158478,
+      "name": "Many",
+      "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
     },
     {
       "album": {
@@ -7244,7 +7280,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 275000,
       "name": "My Ebenezer",
       "url": "https://open.spotify.com/track/6FRNX4eCgujb0KdATJxRRu"
@@ -7506,7 +7542,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 267572,
       "name": "Na You Dey Reign",
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
@@ -7528,7 +7564,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
@@ -7976,7 +8012,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 300878,
       "name": "Obinasom",
       "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
@@ -8210,7 +8246,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 656000,
       "name": "Oluwatosin II",
       "url": "https://open.spotify.com/track/6WjfbwsyCYAO4ukmityPSY"
@@ -8973,6 +9009,24 @@
     },
     {
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/3sOlsUQdc0pjldeZERnZIQ"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151327,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4Q6nJI4EWgreJiMmRIinky"
+    },
+    {
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -9126,7 +9180,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 537386,
       "name": "Reckless Lover",
       "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
@@ -9410,10 +9464,28 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 424053,
       "name": "Sing Hallelujah",
       "url": "https://open.spotify.com/track/6vuhl7uNuPXT2GkWCxORG2"
+    },
+    {
+      "album": {
+        "name": "Sinner 2 Winner",
+        "url": "https://open.spotify.com/album/1ElsAvq1I2kv4JKdxmqSob"
+      },
+      "artists": [
+        {
+          "name": "Natalie Okri",
+          "url": "https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162405,
+      "name": "Sinner 2 Winner",
+      "url": "https://open.spotify.com/track/2aq0XbEOoxJH3t3o7iZp6y"
     },
     {
       "album": {
@@ -10352,7 +10424,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 199023,
       "name": "Titilailai II",
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
@@ -10432,6 +10504,24 @@
       "duration_ms": 370964,
       "name": "Too Faithful",
       "url": "https://open.spotify.com/track/4VAX2Vu5fpGYxgUqfcFiNX"
+    },
+    {
+      "album": {
+        "name": "BABA SIYABONGA",
+        "url": "https://open.spotify.com/album/6yH43drdOZTVRNgLvmWfyZ"
+      },
+      "artists": [
+        {
+          "name": "Umlazi Gospel Choir The Original",
+          "url": "https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/3P5iI9ugl1d0P5muGcT3Q8"
     },
     {
       "album": {
@@ -10718,7 +10808,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 344733,
       "name": "Victory Belongs To Jesus (Live)",
       "url": "https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP"
@@ -10740,7 +10830,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 165014,
       "name": "Victory II",
       "url": "https://open.spotify.com/track/0wHtW8xL9e8ZcmYHZF2Z56"

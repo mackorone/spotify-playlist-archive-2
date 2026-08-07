@@ -800,7 +800,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 159834,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/16rIY1qbudPY5bi827Zxuz"
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 204000,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/40WOqqydIlVzhbCHYsXejk"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 214284,
       "name": "Eyes Turn Blue",
       "url": "https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T"
@@ -2050,6 +2050,28 @@
       "duration_ms": 192344,
       "name": "get it right.",
       "url": "https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP"
+    },
+    {
+      "album": {
+        "name": "Get Me Down (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194038,
+      "name": "Get Me Down (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU"
     },
     {
       "album": {
@@ -2771,6 +2793,28 @@
     },
     {
       "album": {
+        "name": "Into The Dark",
+        "url": "https://open.spotify.com/album/3PzNHCsrWowJAsTZnqZSRD"
+      },
+      "artists": [
+        {
+          "name": "QZB",
+          "url": "https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9"
+        },
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207931,
+      "name": "Into The Dark",
+      "url": "https://open.spotify.com/track/38ftLCfarof2vlj8ETIH0s"
+    },
+    {
+      "album": {
         "name": "Intrigue",
         "url": "https://open.spotify.com/album/6UmvC0qaSHA3y6K5vTFDyz"
       },
@@ -2968,7 +3012,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 257328,
       "name": "Lawyer",
       "url": "https://open.spotify.com/track/56a2UyKtYKnHdKMPPPiAUR"
@@ -3398,7 +3442,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 267586,
       "name": "Melancholy",
       "url": "https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl"
@@ -3905,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "Under Canopy",
+        "url": "https://open.spotify.com/album/5l608cQe6eX2ZUJN2u4qVO"
+      },
+      "artists": [
+        {
+          "name": "Marshman",
+          "url": "https://open.spotify.com/artist/2xRy3NQ3a7u2ONwGcAcp77"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179665,
+      "name": "Play Along",
+      "url": "https://open.spotify.com/track/0O3aNrxjV0tkgeqVnTD69M"
+    },
+    {
+      "album": {
         "name": "Pumpkin",
         "url": "https://open.spotify.com/album/73pQqn9qLZVadbGZFTg2gH"
       },
@@ -4135,6 +4197,28 @@
     },
     {
       "album": {
+        "name": "Roam",
+        "url": "https://open.spotify.com/album/1KvEa6mcPlaPQdh0ilJDxi"
+      },
+      "artists": [
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        },
+        {
+          "name": "Lottie Jones",
+          "url": "https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213147,
+      "name": "Roam",
+      "url": "https://open.spotify.com/track/7KMxu4DECxwktb26HUAX5Y"
+    },
+    {
+      "album": {
         "name": "Shades Of Rave, Vol. 1",
         "url": "https://open.spotify.com/album/378kzYI6up2OySAM8IFhKn"
       },
@@ -4190,6 +4274,32 @@
       "duration_ms": 181034,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1RC2jgk8nnxArMGxjt8yEN"
+    },
+    {
+      "album": {
+        "name": "This Is Riyality",
+        "url": "https://open.spotify.com/album/78nynwEosZprYfnTG2ZUos"
+      },
+      "artists": [
+        {
+          "name": "Riya",
+          "url": "https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb"
+        },
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        },
+        {
+          "name": "Gemma Rose",
+          "url": "https://open.spotify.com/artist/69e7Hu1jSzXawYb4pZQVLX"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Sapphire Skies",
+      "url": "https://open.spotify.com/track/5BMrCe5wYJVDWoXIDKTeqk"
     },
     {
       "album": {
@@ -5471,6 +5581,28 @@
     },
     {
       "album": {
+        "name": "What You're Missing",
+        "url": "https://open.spotify.com/album/0FgKxzDvDcsiKH7Bmd3PNq"
+      },
+      "artists": [
+        {
+          "name": "BCee",
+          "url": "https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ"
+        },
+        {
+          "name": "Javeon",
+          "url": "https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227044,
+      "name": "What You're Missing",
+      "url": "https://open.spotify.com/track/2EYxACUBpqAOshcvfo8vuD"
+    },
+    {
+      "album": {
         "name": "When the Dawn Breaks",
         "url": "https://open.spotify.com/album/3e90wdBsVki90Y9paEUS8X"
       },
@@ -5551,6 +5683,28 @@
     },
     {
       "album": {
+        "name": "Where Did You Go",
+        "url": "https://open.spotify.com/album/4OS3dCk8wOXZ37UnefWCEy"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253793,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/5a62ibJyiPkTZ7q4m8D33H"
+    },
+    {
+      "album": {
         "name": "Where The Flowers Grow",
         "url": "https://open.spotify.com/album/2mICl0woSF5tieybH5Theo"
       },
@@ -5566,7 +5720,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 233000,
       "name": "Where The Flowers Grow",
       "url": "https://open.spotify.com/track/6hf4kAaXmv4eqxuXu0FWB1"
@@ -5796,7 +5950,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 278500,
       "name": "You",
       "url": "https://open.spotify.com/track/1ZXuKEuTuptd2iuJXPrEF5"

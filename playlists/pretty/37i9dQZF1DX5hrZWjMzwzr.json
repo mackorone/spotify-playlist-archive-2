@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZK/FocZPhTc/iuPh22v79lxEwA",
+  "snapshot_id": "AAAAAO1Bz7DAHxUywZZIeNyO8YJcdL3J",
   "tracks": [
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Przytul Jacka",
-        "url": "https://open.spotify.com/album/66nDvtAJIbAG085Ow4vedG"
-      },
-      "artists": [
-        {
-          "name": "Wini",
-          "url": "https://open.spotify.com/artist/2sIuhMKS4v6WOeS0HLS24r"
-        },
-        {
-          "name": "DJ Pete",
-          "url": "https://open.spotify.com/artist/4Kpm1vfuya0iB0ksyL3gX0"
-        }
-      ],
-      "duration_ms": 307562,
-      "name": "Przytul Jacka",
-      "url": "https://open.spotify.com/track/7uxrhskRmMqgH1WkQtNVVb"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "PATOPARTY",
         "url": "https://open.spotify.com/album/1KWozUxqSFnTwUPAa8lzqA"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 285714,
       "name": "PATOPARTY",
       "url": "https://open.spotify.com/track/702Qa7dwKfXvIOGremdjSc"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Przytul Jacka",
+        "url": "https://open.spotify.com/album/66nDvtAJIbAG085Ow4vedG"
+      },
+      "artists": [
+        {
+          "name": "Wini",
+          "url": "https://open.spotify.com/artist/2sIuhMKS4v6WOeS0HLS24r"
+        },
+        {
+          "name": "DJ Pete",
+          "url": "https://open.spotify.com/artist/4Kpm1vfuya0iB0ksyL3gX0"
+        }
+      ],
+      "duration_ms": 307562,
+      "name": "Przytul Jacka",
+      "url": "https://open.spotify.com/track/7uxrhskRmMqgH1WkQtNVVb"
     },
     {
       "added_at": "2026-04-09 22:12:46",

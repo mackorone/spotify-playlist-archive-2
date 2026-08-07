@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,372 likes - 41 songs - 2 hr 45 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,371 likes - 42 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 9 | [I Was The Dancer](https://open.spotify.com/track/2MATQphNB3FUAJGfeGD5bn) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly) | 3:14 |
 | 10 | [I Am The Key \- Key 103, Jan '89](https://open.spotify.com/track/3kHEQxN6i74s5BQpYquuLd) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's \(Deluxe Edition\)](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 3:04 |
 | 11 | [Changeling](https://open.spotify.com/track/5DIaZd2T8XohPHN72PkxTq) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 7:16 |
-| 12 | [Don’t Challenge Me](https://open.spotify.com/track/7keyJb7V22AHhKEXFEbwkC) | [Makers](https://open.spotify.com/artist/4o3UbCOZDjx8y4pORzt4wq) | [Don't Challenge Me / You're Shy](https://open.spotify.com/album/27yf7UUdGz4VlqiVdMBELz) | 3:05 |
+| 12 | [Don’t Challenge Me](https://open.spotify.com/track/7keyJb7V22AHhKEXFEbwkC) | [Makers](https://open.spotify.com/artist/2eHWlghlbjyLgabd6hRSWp) | [Don't Challenge Me / You're Shy](https://open.spotify.com/album/27yf7UUdGz4VlqiVdMBELz) | 3:05 |
 | 13 | [Mizake the Mizan](https://open.spotify.com/track/15EpITP684el9sd1UFWgI9) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Iceblink Luck](https://open.spotify.com/album/2NSJ5ABdmwwoFpZWzY9wzQ) | 3:00 |
 | 14 | [Gift](https://open.spotify.com/track/7udaKPj4op8kSUIcJpQlYD) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Solo](https://open.spotify.com/album/71hbXLIenMTEfyDfPRfq2r) | 5:01 |
 | 15 | [FRESH FEELING](https://open.spotify.com/track/2DgfmAKx2fdAkqhqMboZKA) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 9:22 |
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 39 | [Friday](https://open.spotify.com/track/2GgLfbZo03tEDEvvEDFYJG) | [Yuri Umemoto](https://open.spotify.com/artist/0Ioeg29B84j3L0yQDrSK3J) | [Concerts](https://open.spotify.com/album/78nBGVieGEyU8KV2DMfS8s) | 2:03 |
 | 40 | [Goldregen](https://open.spotify.com/track/1Ragk51wAgVQLMis5aMyLq) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Wenn der Südwind weht](https://open.spotify.com/album/00bAjAIqUpoyE1TpJPjz14) | 1:04 |
 | 41 | [Lighthouses](https://open.spotify.com/track/6XQXL1fJFWHr78vRaWHh3i) | [Janet Beat](https://open.spotify.com/artist/1IQI6f8qnG9neMplw9Cs78) | [Pioneering Knob Twiddler](https://open.spotify.com/album/3zNaGrh7gOVmtuSwoEBlxs) | 1:10 |
+| 42 | [四面道歌 \- 2019 Remastering](https://open.spotify.com/track/2HDGtTkECiCygeSNYIH9RQ) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [イエロー・マジック・バンド](https://open.spotify.com/artist/5jbEAtH0taE3VOckheoojM) | [Paraiso](https://open.spotify.com/album/2WehoDdFUCXFkI1GPzNXsb) | 4:46 |
 
-Snapshot ID: `AAAOrSolK4JChBSpo7wOWZpC64y2OwKw`
+Snapshot ID: `AAAOrkBgX5oHr12FhrCcLtcsurq9Fu0p`

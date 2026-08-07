@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: no na
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,985 likes - 106 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,946 likes - 106 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 105 | [Amoeba](https://open.spotify.com/track/1z3yelL9joxerhXDqG96vy) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Amoeba](https://open.spotify.com/album/7c17U6VtyH0xRoWqfDcKrn) | 3:16 |
 | 106 | [Swimming In Jeans](https://open.spotify.com/track/1aRUn0iZxcHJWvAcwXjesg) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Swimming In Jeans](https://open.spotify.com/album/5yfbXRKwUFKIWrvUBcNx5N) | 2:56 |
 
-Snapshot ID: `AAAAAFEHygHKm92AjEMmS8xC6BK4lyPx`
+Snapshot ID: `AAAAACNcn22CymOdbAG/Vijr21YNGzbw`

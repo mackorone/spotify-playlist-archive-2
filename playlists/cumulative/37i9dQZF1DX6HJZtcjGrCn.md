@@ -2,9 +2,9 @@
 
 ### [Cena Indie](https://open.spotify.com/playlist/37i9dQZF1DX6HJZtcjGrCn)
 
-> Música independente\. A tua alternativa ao mainstream\. Foto: M1ke, Ze Maria
+> Música independente\. A tua alternativa ao mainstream\. Foto: Jasmim
 
-540 songs - 1 day 8 hr 0 min
+542 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Cantiga Bailada](https://open.spotify.com/track/4YnQXNJ0G1xldvkQVwcE86) | [Máximo](https://open.spotify.com/artist/6vBFZrcAJhzNdO3h4wdSgX) | [Cantiga Bailada](https://open.spotify.com/album/75FcjR0WYp5XXYNkRbvIg2) | 8:05 | 2026-02-06 | 2026-02-13 |
 | [Canção de águas mil](https://open.spotify.com/track/6aBlpwwH4QK1val0g6FDUe) | [Samuel Úria](https://open.spotify.com/artist/5RRpftRxDNxlmo5lSn5UCg) | [Canção de águas mil](https://open.spotify.com/album/2mf1hnQvz6QWP3pfcfTFZU) | 3:58 | 2024-10-03 | 2024-10-18 |
 | [Cara Podre](https://open.spotify.com/track/4Gu5ixQt28pRRdHOCPZpjO) | [Cara de Espelho](https://open.spotify.com/artist/7LsBb6YXqYf3UJvsjpRHxF) | [B](https://open.spotify.com/album/00twO8ody4T6tMUNUBauHt) | 4:18 | 2026-01-30 | 2026-03-13 |
+| [Caracol](https://open.spotify.com/track/2TOLW6pFjPtBkzLPWJCkgd) | [Jasmim](https://open.spotify.com/artist/6mlXL4N89h0PDcPSQPCKbc) | [Caracol](https://open.spotify.com/album/1DX0FocG7uPcYIrkpERGNg) | 2:56 | 2026-08-06 |  |
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-28 | 2025-11-28 |
 | [Cartas](https://open.spotify.com/track/1FI2DJdGaw1xDAEQHBdiga) | [Amor Perdido](https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs) | [Cartas](https://open.spotify.com/album/5CB93jpjrgGVOn5LVt1Py4) | 2:03 | 2026-03-20 | 2026-04-03 |
 | [Castaway](https://open.spotify.com/track/4rD9YjjzbA2kAdUM7QlVqN) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Castaway](https://open.spotify.com/album/0dBFjxAi2chf1pfLuK6J63) | 3:19 | 2025-08-28 | 2025-09-19 |
@@ -179,6 +180,7 @@
 | [FEELING SO NICE](https://open.spotify.com/track/4YgA5mWlaxeFb6aQxlMl3n) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:45 | 2026-02-13 | 2026-02-20 |
 | [Fetiche Fonético](https://open.spotify.com/track/7wwrbIzbPcFLFi2tv454bV) | [Ganso](https://open.spotify.com/artist/4wpd66S5iheFM5GJqauV4E), [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [Fetiche Fonético](https://open.spotify.com/album/5I36uX3qzwV2KOanXPFUWy) | 4:28 | 2024-10-03 | 2024-12-13 |
 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 | 2026-04-16 |  |
+| [Floette ft\. John Glacier](https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Floette ft\. John Glacier](https://open.spotify.com/album/6CQ0DN6ovZhxyECQwmqwrJ) | 3:12 | 2026-08-06 |  |
 | [FLORESFALSAS](https://open.spotify.com/track/6XrTsMWZmnNMkDq4Facoue) | [CELSO](https://open.spotify.com/artist/3PCBbWR92UoUvHNYqf4N27) | [INDIECORNO](https://open.spotify.com/album/1xttBqv6sVRosomK0k6skp) | 3:29 | 2026-02-27 | 2026-03-13 |
 | [Florida!!! \(feat\. Florence + The Machine\)](https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:35 | 2024-06-20 | 2025-09-12 |
 | [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 | 2024-08-08 | 2025-11-28 |
@@ -337,7 +339,7 @@
 | [Not Enough](https://open.spotify.com/track/60wP3TZcl0sOFVfWrbADui) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Not Enough](https://open.spotify.com/album/6KRb9k8wlZBhtDyhgDZqWF) | 3:11 | 2026-02-13 | 2026-02-20 |
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-25 | 2024-08-09 |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-06-20 | 2026-04-10 |
-| [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 | 2026-07-09 |  |
+| [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 | 2026-07-09 | 2026-08-07 |
 | [Não Canto Porque Sonho](https://open.spotify.com/track/3mG6GWAF7XlQxSD8pIWV3F) | [Pedro Branco](https://open.spotify.com/artist/7BCNNSSoCrteCcRoEKlm0g), [Noiserv](https://open.spotify.com/artist/2DLUyAtFcP1bEOd8l6ZMys), [Tipo](https://open.spotify.com/artist/6i09xszvXLDEQps4uMzqck) | [Não Canto Porque Sonho](https://open.spotify.com/album/1FW4Zl8cuSF7jxfc5MaxPu) | 4:14 | 2026-07-02 |  |
 | [Não Como Antes](https://open.spotify.com/track/1Y8N1MAmlpiO3GKiBZXgfw) | [Amor Perdido](https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs) | [Não Como Antes](https://open.spotify.com/album/74A3yL4TxlTL9dzbQQ4r2O) | 3:26 | 2026-02-27 | 2026-04-17 |
 | [Não Me Dou a Ninguém \(feat\. A Sul\)](https://open.spotify.com/track/0n6JKQ4C4sVNbqyY4OpQTU) | [CAIO](https://open.spotify.com/artist/7L9u5BLeFDSbRy6w2cz4KE), [A Sul](https://open.spotify.com/artist/4NvLQBWEqobucggCo6zIEC) | [Ritmo da Procura](https://open.spotify.com/album/554A8QAqM83b3eCluFg2vc) | 4:16 | 2024-11-08 | 2024-12-13 |
@@ -469,7 +471,7 @@
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-14 | 2025-11-28 |
 | [The God of Lying \(feat\. IDLES\)](https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The God Of Lying \(feat\. IDLES\)](https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho) | 3:09 | 2025-11-07 |  |
 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 | 2025-09-11 | 2025-10-24 |
-| [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 | 2025-07-10 |  |
+| [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 | 2025-07-10 | 2026-08-07 |
 | [The Juggler](https://open.spotify.com/track/6XQ7yNZogbyocwk3VOuTrK) | [Sara Cruz](https://open.spotify.com/artist/0MKeDWrI54fdwBtvdtc19A) | [Fourteen Forty\-Five](https://open.spotify.com/album/7bB3QRooFFLUhUSQSB4D1t) | 2:54 | 2024-10-17 | 2024-11-15 |
 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 | 2026-07-23 |  |
 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 | 2025-06-05 |  |

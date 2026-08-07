@@ -1,13 +1,33 @@
 {
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: DOMi & JD BECK",
-  "num_followers": 65176,
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Arlo Parks",
+  "num_followers": 65184,
   "original_name": "X-Over \u30b8\u30e3\u30ba!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOi8lEiDjablRpWz92fxvd5nUsjJ",
+  "snapshot_id": "AAAAALw8PQ//6NpgS6vjo1J7LkigH85B",
   "tracks": [
+    {
+      "added_at": "2026-08-06 15:00:23",
+      "album": {
+        "name": "Floette ft. John Glacier",
+        "url": "https://open.spotify.com/album/6CQ0DN6ovZhxyECQwmqwrJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 192212,
+      "name": "Floette ft. John Glacier",
+      "url": "https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9"
+    },
     {
       "added_at": "2026-07-30 15:00:29",
       "album": {
@@ -75,6 +95,26 @@
       "duration_ms": 286306,
       "name": "I Knew You Were Waiting (For Me) (with Cynthia Erivo)",
       "url": "https://open.spotify.com/track/7fq9tnk9YZVEwt65d4HO8g"
+    },
+    {
+      "added_at": "2026-08-06 15:00:23",
+      "album": {
+        "name": "I Can't Help It",
+        "url": "https://open.spotify.com/album/6VCMNQwnUHyXt7smoWHrQH"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        },
+        {
+          "name": "Takumi Kaneko",
+          "url": "https://open.spotify.com/artist/6GaU1oIXLnxCY0yxoR1KVg"
+        }
+      ],
+      "duration_ms": 326872,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/7veJXpYJJyfSzKUp3tSeab"
     },
     {
       "added_at": "2026-07-14 15:00:22",
@@ -227,6 +267,22 @@
       "duration_ms": 229813,
       "name": "The Damndest",
       "url": "https://open.spotify.com/track/0bQnibueVGGxE7FBbzdMtI"
+    },
+    {
+      "added_at": "2026-08-06 15:00:23",
+      "album": {
+        "name": "Converge",
+        "url": "https://open.spotify.com/album/44h8qzfOx8ggPhglolrNjY"
+      },
+      "artists": [
+        {
+          "name": "Still Caravan",
+          "url": "https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Hammond Hunt",
+      "url": "https://open.spotify.com/track/4FcX2VUrfo6X5XbPcebwkk"
     },
     {
       "added_at": "2026-06-24 06:15:24",

@@ -13715,6 +13715,28 @@
     },
     {
       "album": {
+        "name": "HELSKOTTA",
+        "url": "https://open.spotify.com/album/0omlx6tJkALKWC8ued9sOA"
+      },
+      "artists": [
+        {
+          "name": "Rivstart",
+          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
+        },
+        {
+          "name": "Mange Olsson",
+          "url": "https://open.spotify.com/artist/40vl1jO3M2576V7tP8h4SR"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137931,
+      "name": "HELSKOTTA",
+      "url": "https://open.spotify.com/track/6BeuVNODzNOx6ZWIJJmqot"
+    },
+    {
+      "album": {
         "name": "Helt Aktiv",
         "url": "https://open.spotify.com/album/0XcZV8OZ00dj6IYbfTrpaI"
       },

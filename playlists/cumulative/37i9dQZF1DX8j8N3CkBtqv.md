@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring maahi, Outstation, TUSHAR JOSHI and other exciting artists.
 
-1,537 songs - 3 day 12 hr 32 min
+1,538 songs - 3 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -722,6 +722,7 @@
 | [Kho Jaana Hai](https://open.spotify.com/track/2U3GWKLkfKjWbeWmLXr7q3) | [Yashraj Kapil](https://open.spotify.com/artist/5FVGmxlFLT1qhfFnpCsvvn) | [Kho Jaana Hai](https://open.spotify.com/album/3Elfca1vU0Q6oFpG2oMMHI) | 4:56 | 2023-11-24 | 2023-12-16 |
 | [Kho Jana](https://open.spotify.com/track/2XSH1wdyQaBGlciZr2zDQR) | [Arush Dayal](https://open.spotify.com/artist/6sR8GLnQ0W1OLymvs0eSBS), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Kho Jana](https://open.spotify.com/album/6vb7Nccnmdcr21Qq2dz4O1) | 2:53 | 2026-02-06 | 2026-04-25 |
 | [Kho Jaun](https://open.spotify.com/track/2mJKQI674JrUbK7IyrWtXV) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kho Jaun](https://open.spotify.com/album/6H9IuvaOYAoxBPykDz7WHJ) | 3:00 | 2024-12-13 | 2025-03-01 |
+| [Kho Na Jaana](https://open.spotify.com/track/6Uy3r5FioaMExYJUSHvypc) | [Purusharth Jain](https://open.spotify.com/artist/5qHTw4EBukwn3GFseugVmc) | [Kho Na Jaana](https://open.spotify.com/album/2vF1wirYtaHam7U7PBdiO8) | 2:47 | 2026-07-31 |  |
 | [Khoj](https://open.spotify.com/track/4z7NoO2owEf6uD4CsJV2WY) | [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ), [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [KHOJ / GUMSHUDA](https://open.spotify.com/album/3YldvIhpkUKBqYRwzOySp2) | 2:50 | 2024-02-23 | 2024-03-30 |
 | [Khoon](https://open.spotify.com/track/6N1nsAE2LfoXET9JG5CU3C) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Khoon](https://open.spotify.com/album/6yHQo67wEqmBn30Rs2i8vy) | 4:18 | 2025-01-24 | 2025-03-01 |
 | [Khota](https://open.spotify.com/track/44e9k4IgN9HjKbZfPMBRQC) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khota](https://open.spotify.com/album/0alinKnUVspdYqQiMhHr6X) | 3:33 | 2026-04-17 | 2026-07-11 |
@@ -906,7 +907,7 @@
 | [Mere Hisse Ki 'Jayedaad'](https://open.spotify.com/track/3DurrqBX5nKpHbciiDIsp4) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Mere Hisse Ki 'Jayedaad'](https://open.spotify.com/album/6ZbOnCubi9CdiAHRPDQqnW) | 3:44 | 2025-12-19 | 2026-02-07 |
 | [Mere Ho Tum](https://open.spotify.com/track/61oCaW4kdKZtH2V8BU4zc9) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Mere Ho Tum](https://open.spotify.com/album/7riVtJbtVcXkZkHSHi5mIW) | 3:35 | 2024-10-25 | 2025-01-18 |
 | [Mere Maahiya](https://open.spotify.com/track/6uRD5I9a7bje38E3rmUUTf) | [Abhimanyu\-Pragya](https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr) | [Mere Maahiya](https://open.spotify.com/album/0l2OruB8Be4CpcwElIj0R3) | 2:41 | 2026-02-20 | 2026-04-06 |
-| [Mere Maahiya](https://open.spotify.com/track/1cjvSUS3FtUtpjf4Zejcbm) | [Abhiruchi Singh](https://open.spotify.com/artist/5sXiybe3UfmLCx6RJygKg4), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Mere Maahiya](https://open.spotify.com/album/61M2R0qEQDN5Ji7fmvN2kf) | 3:54 | 2026-05-29 |  |
+| [Mere Maahiya](https://open.spotify.com/track/1cjvSUS3FtUtpjf4Zejcbm) | [Abhiruchi Singh](https://open.spotify.com/artist/5sXiybe3UfmLCx6RJygKg4), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Mere Maahiya](https://open.spotify.com/album/61M2R0qEQDN5Ji7fmvN2kf) | 3:54 | 2026-05-29 | 2026-08-07 |
 | [Mere Qareeb](https://open.spotify.com/track/4dzde0m9Lw4P7lAvCf4w8h) | [Nupoor Khedkar](https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Mere Qareeb](https://open.spotify.com/album/6Pvi11haDMjBKRNq8nIPJo) | 3:09 | 2024-03-01 | 2024-04-19 |
 | [Mere Ranjhana](https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Mere Ranjhana](https://open.spotify.com/album/2F8arPSNA94kkSPTyShIoj) | 3:42 | 2023-12-08 | 2024-02-24 |
 | [Mere Saamne](https://open.spotify.com/track/6aprpTQqxq1Y5nxDuUjIdx) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Irtiza\-Asad](https://open.spotify.com/artist/5oKmeLfJn2WvNUYc9z2Zon) | [Mere Saamne](https://open.spotify.com/album/2cNWkDBveweg2JpzjVxmsv) | 3:03 | 2024-08-09 | 2024-09-21 |

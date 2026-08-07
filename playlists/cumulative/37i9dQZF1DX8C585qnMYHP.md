@@ -4,7 +4,7 @@
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:4QVnoNeoWQkbb9oOG4Ce2f">Gloorp</a> on cover\. Artwork by Thami Nabil.
 
-2,258 songs - 7 day 6 hr 17 min
+2,261 songs - 7 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Dora Neko](https://open.spotify.com/track/3s6pOKYVVQow6p5Y9nTcW9) | [Maniac Maison](https://open.spotify.com/artist/0XEn02WmKNdgoJJ8xMiXWw), [Lucien Fraipont](https://open.spotify.com/artist/5xlV2sksUvgv2ZgWEdRjbY), [Shoko Igarashi](https://open.spotify.com/artist/0rhogygCtWJLauB3rYvQsK), [Casimir Liberski](https://open.spotify.com/artist/3rvT6hIhacQRDl1STJ2rTT) | [Maniac Maison](https://open.spotify.com/album/7oVNvh5oCBt6ukhF7KDQ8A) | 3:12 | 2026-05-28 |  |
 | [Dot](https://open.spotify.com/track/0f0c0GFBCoqLGbXLdO3wTD) | [dal:um](https://open.spotify.com/artist/4DE7afkjFxYier8CkuQUJb) | [Dot](https://open.spotify.com/album/6xvkmv9aiJ5FMEe9ASa9tE) | 3:58 | 2023-02-01 | 2023-03-23 |
 | [Dots Revisited](https://open.spotify.com/track/7eDDosKY7yPLdLudAru8ej) | [6zm](https://open.spotify.com/artist/7LB4wq9odJ0CzZXr0HYpIJ) | [Dots](https://open.spotify.com/album/37vqkrSRu7lMRzsRP1ka37) | 7:28 | 2024-09-11 | 2024-12-05 |
+| [Doves \(Kiss\)](https://open.spotify.com/track/3wOq7CzGbosIvWt7s7oZu7) | [Eev Frances](https://open.spotify.com/artist/1nmVkT3ow1TfNZS44sxM81), [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Doves \(Kiss\)](https://open.spotify.com/album/13zh95e93f3IVurVaDoAkP) | 5:53 | 2026-08-06 |  |
 | [Drangsville Drowns](https://open.spotify.com/track/0osIAWdFisbIUvKNvoI46q) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 5:06 | 2022-04-06 | 2022-06-30 |
 | [Dream Like That](https://open.spotify.com/track/7ryceVlnP9sDL48Gy6a2k6) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Just Wanna Live Some](https://open.spotify.com/album/0PGfRDzCPVoOjdVj8X22fB) | 2:28 | 2025-10-24 | 2026-03-21 |
 | [Dream of a Bee](https://open.spotify.com/track/385cALQGkPx2cN9zNufayd) | [Dijit](https://open.spotify.com/artist/111svV0XajpGXS91vpByLF) | [The Room](https://open.spotify.com/album/2SlbPrS0ZP8JNOikttSwvl) | 4:40 | 2023-05-10 | 2023-08-17 |
@@ -629,6 +630,7 @@
 | [Eternal Whisper](https://open.spotify.com/track/5s0F9AmiXVvzqMpFP4XaTI) | [C O N T X T](https://open.spotify.com/artist/0HCS1dsUZDmjB8lSAMaYjW) | [Lone Memory](https://open.spotify.com/album/6g6FwKH02JkWomYFdVZnno) | 4:39 | 2023-05-17 | 2023-08-31 |
 | [Ethos](https://open.spotify.com/track/4olzx0OYnHcaN9wv3OqeYE) | [Anna Bielli](https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo), [Silvia Olivier](https://open.spotify.com/artist/3v2jSQQAGfj0oiFW7V4Anv) | [Ethos](https://open.spotify.com/album/2KjLTXmmnuc32xO2X0N68y) | 3:00 | 2025-05-07 | 2025-09-21 |
 | [Ett visst fängelse](https://open.spotify.com/track/40qQK6EwccUHakM0Cdn2uQ) | [VED](https://open.spotify.com/artist/2gJZDY6Eow1T1T4Cb9cVYm) | [Ett visst fängelse](https://open.spotify.com/album/3mOCn0GyjEJBVfp9MyM1BP) | 4:37 | 2021-04-15 | 2021-06-24 |
+| [Europeanized Atrophy \(Debris\)](https://open.spotify.com/track/7MysKpqCkn4A1iLEgBQCnW) | [Agazero](https://open.spotify.com/artist/3CmY3G8IVu7K8IOa5ivn4N), [Iguana](https://open.spotify.com/artist/4vbznL0JiWzs9dbkcNdP3a) | [Dissidente](https://open.spotify.com/album/4mrmw6ilNZeyVfXVgzVorQ) | 3:07 | 2026-08-06 |  |
 | [Eurybia](https://open.spotify.com/track/507fLAOWKOut8biyt9mGyX) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/5e1pTFakXmZhCi18qt3IBm) | 6:02 | 2022-05-18 | 2022-08-04 |
 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 | 2022-08-24 | 2022-10-05 |
 | [Even Stones Change](https://open.spotify.com/track/6huSTPaEw3K3bJhEleNzPi) | [Sharp Veins](https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2) | [Even Stones Change](https://open.spotify.com/album/5jD0z5Ju7YVqMM3PKVZS1P) | 8:36 | 2023-05-10 | 2023-08-11 |
@@ -1580,6 +1582,7 @@
 | [Ritus](https://open.spotify.com/track/5A6W79nwUxR8QVZQ7mx2HO) | [Kris Vango](https://open.spotify.com/artist/4RVRABMRTQgd1KRrnJfxMT) | [Venus Ritus](https://open.spotify.com/album/7BZh9HdCQi16563gCFpVAe) | 2:19 | 2020-10-30\* | 2021-01-15 |
 | [Road to Techno](https://open.spotify.com/track/3Qc7eb1JrtCPjMjwhmzhxh) | [Adrian Dett](https://open.spotify.com/artist/1wpeyU0O8FMgp5QNSMuIx3) | [Road to Techno](https://open.spotify.com/album/1eAgVQ6XRrOtbiFbeWzre8) | 8:00 | 2023-03-01 | 2023-04-06 |
 | [ROAD2RAILS](https://open.spotify.com/track/78J3e3c0GWy3Crw8jzaqwy) | [NIGELTHREETIMES](https://open.spotify.com/artist/2idYU20N0SmiDmd3KLhcsK) | [METROPOLIS N](https://open.spotify.com/album/2XPIMtFys1sMHfnjLTsBVU) | 4:51 | 2024-01-10 | 2024-04-04 |
+| [Rodeo \- Arushi Jain Remix](https://open.spotify.com/track/2KsMp380IDNZJ679Ya6Ian) | [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Duniya Kya Hai \(Remixes\)](https://open.spotify.com/album/19yUtyc8mPkZSaRgcfA3Of) | 4:29 | 2026-08-06 |  |
 | [Room of Fear](https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm) | [AIKA](https://open.spotify.com/artist/45Yg0CLJFZcueQqoR4CS5m) | [Rebirth](https://open.spotify.com/album/631ofUEwlUCpCoeLVUseu6) | 1:54 | 2023-08-01 | 2023-10-26 |
 | [roots](https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [forevermore](https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN) | 2:39 | 2025-03-25 | 2025-06-14 |
 | [Roots](https://open.spotify.com/track/4mrYVeASpXLLKF1jXpTnhV) | [Malvae](https://open.spotify.com/artist/3xDYZyU0u2UORxJh6BcZe4) | [Roots](https://open.spotify.com/album/0tcqytj09avkRwgKoE12WT) | 4:23 | 2022-04-06 | 2022-06-30 |

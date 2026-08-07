@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,449 songs - 6 day 0 hr 11 min
+2,450 songs - 6 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -931,6 +931,7 @@
 | [Hyper\-Focus Mode](https://open.spotify.com/track/3UaxkSuqkQaG1KnudJsIFZ) | [Odyra](https://open.spotify.com/artist/1sgLt5j4wGd1c8JCmmnGk4) | [MIDNIGHT TRENDS](https://open.spotify.com/album/0cOYQSynJChd7kPtF7JyI7) | 3:56 | 2026-07-21 |  |
 | [Hypomania](https://open.spotify.com/track/2VdwLwj3eS9wT3I9GF9AwL) | [half\-past nine](https://open.spotify.com/artist/5AQdnxlAP1whBuRmbCHsdb) | [9:30 PM: Unanswered Calls](https://open.spotify.com/album/0BS8Ln2dmv9P1bjAGugrnZ) | 2:57 | 2026-01-30 |  |
 | [Hysteria](https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:47 | 2024-03-04 |  |
+| [Héroe](https://open.spotify.com/track/6Ch3Cw2zSpBDOEvCJz7f07) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Héroe](https://open.spotify.com/album/6J63RWGRhO59R406st0Z0X) | 3:29 | 2026-08-06 |  |
 | [I](https://open.spotify.com/track/6heF1ldh4Tr4mvMAxYuGnL) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 2:30 | 2026-02-05 |  |
 | [I & I](https://open.spotify.com/track/56k9DBQWfEKFWaySbOTVcW) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 2](https://open.spotify.com/album/4fVqUY29YSEFx1B0yTR27Q) | 3:41 | 2024-05-01 |  |
 | [I Am](https://open.spotify.com/track/5FRgx1KZYq5AUsebojppwz) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 3:47 | 2025-05-02 |  |

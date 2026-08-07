@@ -2,9 +2,9 @@
 
 ### [ฮิตติดกระแส](https://open.spotify.com/playlist/37i9dQZF1DWW1S2VXZ4bIj)
 
-> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: BOWKYLION
+> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: PUN
 
-767 songs - 1 day 22 hr 35 min
+769 songs - 1 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [TOAST TO ME](https://open.spotify.com/track/5Bk1Qo8MLvDdLLC38sXKkL) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [TOAST TO ME](https://open.spotify.com/album/2WSuD4vUoT8VVx6FTPRAUl) | 3:20 | 2025-10-10 | 2025-10-21 |
 | [Too Perfect for You \(สวย เริ่ด เชิด\)](https://open.spotify.com/track/4XpxNZcQdqRk6MC6JtG1US) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Too Perfect for You \(สวย เริ่ด เชิด\)](https://open.spotify.com/album/4LQh1EYtYbml9sNKr7lq4M) | 3:06 | 2025-09-11 | 2025-09-27 |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-06-27 | 2024-09-20 |
+| [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 | 2026-08-06 |  |
 | [Touch](https://open.spotify.com/track/4wKbEMBUtKM2p5ZoUxCsNt) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Touch](https://open.spotify.com/album/095xs3mn4Liu7EqDc8HeUO) | 2:54 | 2025-07-03 | 2025-08-09 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-10-18 | 2024-11-02 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-01-25 |
@@ -310,6 +311,7 @@
 | [WONDERING](https://open.spotify.com/track/0ghEYrlqpL0BBcuEJzKP01) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/5XhVclR4Vb6o4TNOzRtVzP) | 2:48 | 2025-10-10 | 2025-11-15 |
 | [YOU ALREADY KNOW](https://open.spotify.com/track/6vsPPVol0ZNKux0Zkdg5zj) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [YOU ALREADY KNOW](https://open.spotify.com/album/4xp4UP0eFK2d8UaEAjlskb) | 3:03 | 2024-10-18 | 2024-11-02 |
 | [You Give Me Butterflies](https://open.spotify.com/track/4VjdrMPJtXDEAzbaiNmh7O) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ), [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [You Give Me Butterflies](https://open.spotify.com/album/1zaRbxugwNRnSY0HeJDx4b) | 3:30 | 2026-02-13 | 2026-02-27 |
+| [Your Candy](https://open.spotify.com/track/4U1QLVuGWbfx4SM1YkdFi4) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [Your Candy](https://open.spotify.com/album/2dnW7kR5DcFm6rjJmGmbBg) | 2:49 | 2026-08-06 |  |
 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 | 2024-10-11 |  |
 | [YSL GIRL](https://open.spotify.com/track/3VfV03FETvqZ8nlt993mes) | [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE), [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [YSL GIRL](https://open.spotify.com/album/5ytE3dBSHCAZ1SFIvLeY7p) | 3:32 | 2026-03-20 | 2026-04-04 |
 | [กรุงเทพมหานคร](https://open.spotify.com/track/4sQjVDas1lw04lj3NGsoDC) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:44 | 2025-10-27 | 2026-06-12 |
@@ -566,7 +568,7 @@
 | [รู้ตัวอีกที](https://open.spotify.com/track/7kiPXq1mQ8yakcIYmqrw6t) | [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ) | [รู้ตัวอีกที](https://open.spotify.com/album/4r1iXiLyOrHnfn0v3NADld) | 3:10 | 2026-01-15 | 2026-05-16 |
 | [ร้องไปกับฟ้า \(Original Soundtrack "ภาพยนตร์ 4KINGS II"\) \[feat\. D Gerrard\]](https://open.spotify.com/track/18VklhRVxmgQZAwtDkeC8K) | [LHAM](https://open.spotify.com/artist/5sQPdv73d3BMuyCCEt6qtY), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [ร้องไปกับฟ้า \(Original Soundtrack "ภาพยนตร์ 4KINGS II"\) \[feat\. D Gerrard\]](https://open.spotify.com/album/1M9XGBJ9uHtnRaSxjmfHGn) | 4:12 | 2024-06-27 | 2024-08-08 |
 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 | 2024-08-09 | 2025-07-12 |
-| [ลองกอด \(smoke\)](https://open.spotify.com/track/3IRuTNP7lA7H9yad6ArQ8h) | [DICEBLUE](https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv), [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [ลองกอด \(smoke\)](https://open.spotify.com/album/4j5mY7lTZYH99bY7EB1gac) | 4:06 | 2026-07-23 |  |
+| [ลองกอด \(smoke\)](https://open.spotify.com/track/3IRuTNP7lA7H9yad6ArQ8h) | [DICEBLUE](https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv), [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [ลองกอด \(smoke\)](https://open.spotify.com/album/4j5mY7lTZYH99bY7EB1gac) | 4:06 | 2026-07-23 | 2026-08-07 |
 | [ละลาย \(LaLaLye\)](https://open.spotify.com/track/0sGRwyZJH9lRft6hoNWDPU) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [ละลาย \(LaLaLye\) \- Single](https://open.spotify.com/album/1aWimcmep85JiuUE2shfny) | 3:43 | 2024-12-06 | 2024-12-21 |
 | [ละอองดาว \(Fading\)](https://open.spotify.com/track/218RfuLb5cx1g6Wj8aeH2f) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ละอองดาว \(Fading\)](https://open.spotify.com/album/52EWLPuVAPFavHS6DUVkD0) | 4:44 | 2026-04-03 | 2026-04-18 |
 | [ละเมอดาว \(Starry Night\)](https://open.spotify.com/track/6JpF08HpTe7I5IYH5nx7Rl) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [ละเมอดาว \(Starry Night\)](https://open.spotify.com/album/2zG73XChEkI2PaoQnIrxdr) | 3:45 | 2025-10-24 | 2025-11-07 |
@@ -597,7 +599,7 @@
 | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn) | 5:14 | 2025-01-24 |  |
 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 | 2024-06-27 | 2025-05-17 |
 | [ส่วนหนึ่งของชีวิต](https://open.spotify.com/track/1HoCrGXJ4WraZzqUobVZDr) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ส่วนหนึ่งของชีวิต](https://open.spotify.com/album/4qNTUyLYLkYywSP4iqQlgn) | 4:19 | 2026-05-22 | 2026-06-12 |
-| [หงุดหงิด \(tsk\)](https://open.spotify.com/track/2pQmtrfkmOCq5cvo4SqYJx) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [หงุดหงิด \(tsk\)](https://open.spotify.com/album/26XCV8Fkwbr7Rz8S1J1f96) | 2:38 | 2026-07-23 |  |
+| [หงุดหงิด \(tsk\)](https://open.spotify.com/track/2pQmtrfkmOCq5cvo4SqYJx) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [หงุดหงิด \(tsk\)](https://open.spotify.com/album/26XCV8Fkwbr7Rz8S1J1f96) | 2:38 | 2026-07-23 | 2026-08-07 |
 | [หนังทุนต่ำ](https://open.spotify.com/track/0nQ3fky5NxECcuMv4GqFaO) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [หนังทุนต่ำ](https://open.spotify.com/album/2CChPhekJ2rzRQNbNe0iH1) | 4:40 | 2026-05-29 | 2026-06-12 |
 | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/track/5GwXBrY91rDCB18cwpjsBz) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/album/2S1NnWORdoVfgwFFHK2xww) | 3:56 | 2026-02-26 |  |
 | [หนึ่งในมาช้า](https://open.spotify.com/track/5b80Ugh1bPrVK84JK4hYgi) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [หนึ่งในมาช้า](https://open.spotify.com/album/3I09i71ENf6fZSnRmjj7L3) | 3:34 | 2024-10-11 | 2024-10-19 |

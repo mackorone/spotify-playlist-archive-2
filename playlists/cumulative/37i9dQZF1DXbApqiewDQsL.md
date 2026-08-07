@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Anakin Larios, Erick TQ
 
-682 songs - 1 day 11 hr 15 min
+683 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [EN ALTAVOZ](https://open.spotify.com/track/0YpYqtnjIWYR516n46of97) | [Cheluis](https://open.spotify.com/artist/08EHv9ysRhyjFxU8woWkRh) | [Por Amores No Lloro](https://open.spotify.com/album/25Du1tvxBaNnYfNLGKGvw6) | 2:57 | 2025-08-06 | 2025-11-08 |
 | [En Preparacion](https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:07 | 2024-04-24 | 2024-08-08 |
 | [ENEMIGOS](https://open.spotify.com/track/5GOGiyBR5R8G9TiyN6TsxL) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M) | [ENEMIGOS](https://open.spotify.com/album/5r3WNiwSIOSwgXpoTIHcY6) | 2:16 | 2025-06-20 | 2025-09-18 |
+| [Enero](https://open.spotify.com/track/6BDtDqVnx53X8WCGiqBe0o) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Enero](https://open.spotify.com/album/1tktkOQNG1CT9WONe4EvIu) | 3:15 | 2026-08-06 |  |
 | [Enfermo de Riqueza](https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Enfermo de Riqueza](https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr) | 3:54 | 2022-05-13 | 2024-04-24 |
 | [ENPUTIZA](https://open.spotify.com/track/23iLYDUGEvf8GVlZhKowc0) | [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3) | [ENPUTIZA](https://open.spotify.com/album/6hePLw073er4OhztBJw1TY) | 2:30 | 2024-10-02 | 2024-12-05 |
 | [Entiéndeme](https://open.spotify.com/track/2hbhRUSjTy6r8NXu3Wq7kT) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B) | [Entiéndeme](https://open.spotify.com/album/1OPwzuGTVRI0ZKvZevwG0Z) | 3:01 | 2025-05-30 | 2025-09-18 |
@@ -629,7 +630,7 @@
 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 | 2022-05-13 | 2024-04-24 |
 | [ULTIMA OPCION](https://open.spotify.com/track/3E3hfu34KnYPYQAaU3JNlt) | [Alexis Rodriguez](https://open.spotify.com/artist/2YvXip6VsQV2CVkyEbvLR8) | [ULTIMA OPCION](https://open.spotify.com/album/0SbLplyFLR0yoiayXXmurF) | 3:24 | 2026-02-10 | 2026-03-05 |
 | [Un Cigarrito](https://open.spotify.com/track/1F8Q8Ye8TGvh5m0EcQA3sH) | [Gio Machado](https://open.spotify.com/artist/6XfR7v2Ni1FilUBYcSWfcR) | [Un Cigarrito](https://open.spotify.com/album/1bKA8BDYcOgU1MzXZB235e) | 2:29 | 2026-02-10 | 2026-03-05 |
-| [Un Leve](https://open.spotify.com/track/5NrR1FbyOwL3g97hnKwCIV) | [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3) | [Un Leve](https://open.spotify.com/album/78OUUBWCYNkNNJKV92GGCL) | 2:56 | 2026-06-10 |  |
+| [Un Leve](https://open.spotify.com/track/5NrR1FbyOwL3g97hnKwCIV) | [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3) | [Un Leve](https://open.spotify.com/album/78OUUBWCYNkNNJKV92GGCL) | 2:56 | 2026-06-10 | 2026-08-07 |
 | [Un Loco Enamorado](https://open.spotify.com/track/1He0O3zoEa7LZbfNK9ieoP) | [Boy Junior](https://open.spotify.com/artist/7oewpx3rYQv76GZ3GAq5Yq) | [Un Loco Enamorado](https://open.spotify.com/album/2fiLW10yDhtTIJVcHOXV4O) | 3:41 | 2024-10-02 | 2025-01-16 |
 | [Un Loqueron](https://open.spotify.com/track/7rRcOWFMB45JEnx9X9WHKE) | [MURUA](https://open.spotify.com/artist/3G8cp3fcZvVRWkb4vqbuhz) | [Un Loqueron](https://open.spotify.com/album/5NPygpY4RWRs9vowWgX6QW) | 3:15 | 2024-08-07 | 2024-10-10 |
 | [Un Meme](https://open.spotify.com/track/5Z3dmPyQMAG0Yf9EGKlgIG) | [Neto Becerra](https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Prólogo](https://open.spotify.com/album/5YtoefEnOJIL4d9BftGBKj) | 2:53 | 2024-10-25 | 2024-12-05 |

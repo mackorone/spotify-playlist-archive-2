@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 18210,
+  "num_followers": 18223,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG/Ch4M0kceDaGtwSlZeCq0VDA8n",
+  "snapshot_id": "AAAAANxM4Krq/zoUo0fUx01jdXbk8Rzx",
   "tracks": [
     {
       "added_at": "2026-03-12 23:38:53",
@@ -187,26 +187,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Ote Me Mu",
-        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
-      },
-      "artists": [
-        {
-          "name": "Ohemaa Mercy",
-          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
-        },
-        {
-          "name": "MOG",
-          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
-        }
-      ],
-      "duration_ms": 275551,
-      "name": "Ote Me Mu",
-      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "Agbebolo",
         "url": "https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 332695,
       "name": "Agbebolo",
       "url": "https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "Ote Me Mu",
+        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
+      },
+      "artists": [
+        {
+          "name": "Ohemaa Mercy",
+          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
+        },
+        {
+          "name": "MOG",
+          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
+        }
+      ],
+      "duration_ms": 275551,
+      "name": "Ote Me Mu",
+      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
+        "name": "Agbadza Gospel Medley II (Live)",
+        "url": "https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I"
+      },
+      "artists": [
+        {
+          "name": "Bethel Revival Choir",
+          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
+        }
+      ],
+      "duration_ms": 513044,
+      "name": "Agbadza Gospel Medley II (Live)",
+      "url": "https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
         "name": "VICTORY",
         "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Agbadza Gospel Medley II (Live)",
-        "url": "https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I"
+        "name": "Deeper Touch",
+        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
       },
       "artists": [
         {
-          "name": "Bethel Revival Choir",
-          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
         }
       ],
-      "duration_ms": 513044,
-      "name": "Agbadza Gospel Medley II (Live)",
-      "url": "https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT"
+      "duration_ms": 781930,
+      "name": "Deeper Medley",
+      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -675,22 +691,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Deeper Touch",
-        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
-      },
-      "artists": [
-        {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
-        }
-      ],
-      "duration_ms": 781930,
-      "name": "Deeper Medley",
-      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "Sing",
         "url": "https://open.spotify.com/album/775gzUzBh5ga4fThcVEflT"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 198315,
       "name": "Sing",
       "url": "https://open.spotify.com/track/2vaKwFtTvNmq2PAbKtxPpH"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
-        "name": "Golden Oil",
-        "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 274599,
-      "name": "Se Mekume Ho",
-      "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -755,6 +739,22 @@
       "duration_ms": 566414,
       "name": "Ghana Local Praise Medley",
       "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "Golden Oil",
+        "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 274599,
+      "name": "Se Mekume Ho",
+      "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
+        "name": "Efiri Nyame",
+        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Me Ko M'Anim",
+      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
         "name": "Me Dan Wo (feat. Kweku Teye)",
         "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 372240,
       "name": "Me Dan Wo (feat. Kweku Teye)",
       "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
-        "name": "Efiri Nyame",
-        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Me Ko M'Anim",
-      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
     }
   ],
   "unique_name": "Aseda",

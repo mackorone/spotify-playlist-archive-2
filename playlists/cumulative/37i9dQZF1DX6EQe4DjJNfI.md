@@ -2,9 +2,9 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Chris MC, BIN
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: THAMI, Luedji Luna
 
-362 songs - 18 hr 35 min
+363 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Notificação](https://open.spotify.com/track/3ot87RehrieMlYEzKMDFPb) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Notificação](https://open.spotify.com/album/7I2tjoEMssBPwcmcQFDuJX) | 2:57 | 2024-11-04 | 2025-06-28 |
 | [Novehoras](https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu) | [João Loroza](https://open.spotify.com/artist/44ejp0LgYiq7kLEUjXiZzR), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [DJ TamY](https://open.spotify.com/artist/78BI41VSButcqEG7ptvi17) | [Novehoras](https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw) | 3:31 | 2025-10-10 |  |
 | [Novela](https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Novela](https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh) | 2:24 | 2023-07-21 | 2026-04-25 |
-| [não dou valor](https://open.spotify.com/track/1oKbigIydvg4qww4qkYEH0) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN), [REAL PS](https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I) | [não dou valor](https://open.spotify.com/album/01xuyjmFrJO4R42lYNXjVV) | 2:28 | 2025-10-24 |  |
+| [não dou valor](https://open.spotify.com/track/1oKbigIydvg4qww4qkYEH0) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN), [REAL PS](https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I) | [não dou valor](https://open.spotify.com/album/01xuyjmFrJO4R42lYNXjVV) | 2:28 | 2025-10-24 | 2026-08-07 |
 | [Não Quero Te Perder](https://open.spotify.com/track/5m2DgR3ZWv1GYwF9NPh4mP) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Não Quero Te Perder](https://open.spotify.com/album/5ndAdf9telWSbdHoy8IYh0) | 2:49 | 2022-11-18 | 2023-07-15 |
 | [Não quis enxergar](https://open.spotify.com/track/6QxqoEinReEb5KuWIQhQB8) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Não quis enxergar](https://open.spotify.com/album/2J73R8Jzjx5ILRLBxuMo9A) | 3:02 | 2022-11-18 | 2023-01-28 |
 | [Não Tenho Tempo](https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Não Tenho Tempo](https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP) | 2:05 | 2023-11-24 | 2023-12-16 |
@@ -255,6 +255,7 @@
 | [Pra Ninguém](https://open.spotify.com/track/355a1BU5F1BSofA99ZNejR) | [Elijah](https://open.spotify.com/artist/5y3vYetg0yJc4y4rvsxqKk) | [Pra Ninguém](https://open.spotify.com/album/4tZ6QIEkiD1aEjzx6XJK8f) | 3:49 | 2024-01-26 | 2024-02-03 |
 | [Pra Você](https://open.spotify.com/track/2WsXjgk3SAO9iSjFq9KteU) | [Risô](https://open.spotify.com/artist/7uYVtd6jZBcSSkJQozcGw2), [FIFO](https://open.spotify.com/artist/35gtv5W1SQ8Oj9jP85QfQ4), [Briozzini](https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj) | [Pra Você](https://open.spotify.com/album/2mecm3batbb0siwrRmaZRK) | 2:28 | 2022-11-18 | 2023-03-11 |
 | [Preta](https://open.spotify.com/track/4da13NOAbtTcFCWTEy5sRc) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Selene](https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX) | 2:30 | 2024-11-04 | 2025-05-16 |
+| [Prisioneira de Mim](https://open.spotify.com/track/6wt6zTlUopQ8yR1rTUZIrA) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Relevuras](https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h) | 3:17 | 2026-08-07 |  |
 | [Prisma](https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Prisma](https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W) | 4:14 | 2026-05-08 |  |
 | [Proposta](https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 3:46 | 2022-11-18 | 2023-03-03 |
 | [Proposta](https://open.spotify.com/track/6GDEzb8YsJRBFGRt8Uu1ua) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Proposta](https://open.spotify.com/album/1J4ITzL4iz9SLRwKGlEpaJ) | 2:51 | 2023-12-15 | 2024-07-19 |

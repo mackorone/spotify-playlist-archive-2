@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Sunsick Daisy",
+  "description": "New and local indie noise. Cover: Le Shiv",
   "name": "Local Noise",
   "tracks": [
     {
@@ -330,6 +330,42 @@
       "duration_ms": 198786,
       "name": "A Little More",
       "url": "https://open.spotify.com/track/102ije0G4zfAUBsLV5wVkW"
+    },
+    {
+      "album": {
+        "name": "A Long Long Time",
+        "url": "https://open.spotify.com/album/5iQmTOwVzxHct0oNobCNx4"
+      },
+      "artists": [
+        {
+          "name": "Stimpies",
+          "url": "https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258054,
+      "name": "A Long Long Time",
+      "url": "https://open.spotify.com/track/4I0Bw6QCpkd1udPHP8ciU3"
+    },
+    {
+      "album": {
+        "name": "it got quiet",
+        "url": "https://open.spotify.com/album/4Y9n2h01CfHQU05rbYMBej"
+      },
+      "artists": [
+        {
+          "name": "B Murph",
+          "url": "https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157586,
+      "name": "a place they can't find",
+      "url": "https://open.spotify.com/track/5Cm8qpPJk2aaBzAB0ClX6y"
     },
     {
       "album": {
@@ -1616,6 +1652,28 @@
       "duration_ms": 197400,
       "name": "BIG MACHINE",
       "url": "https://open.spotify.com/track/1nMIgMOFK9c5xNFm4OuRLM"
+    },
+    {
+      "album": {
+        "name": "BIG NOTER (feat. Joe Talbot)",
+        "url": "https://open.spotify.com/album/0tFREqnNgiKUT5gINUiEi4"
+      },
+      "artists": [
+        {
+          "name": "BIG NOTER",
+          "url": "https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B"
+        },
+        {
+          "name": "Joe Talbot",
+          "url": "https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "BIG NOTER (feat. Joe Talbot)",
+      "url": "https://open.spotify.com/track/25SRep6PSGi4jVVt5aJdB2"
     },
     {
       "album": {
@@ -4818,7 +4876,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 222541,
       "name": "Easy Way Out",
       "url": "https://open.spotify.com/track/4mR52uZ6043ZtJBVpmbDmN"
@@ -6435,6 +6493,24 @@
     },
     {
       "album": {
+        "name": "Concrete Surfers",
+        "url": "https://open.spotify.com/album/3lnGzdR87KNi4Yex2fRv8Y"
+      },
+      "artists": [
+        {
+          "name": "Concrete Surfers",
+          "url": "https://open.spotify.com/artist/4c4yCU2MyS5qHVxMAN7Xc6"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167889,
+      "name": "Go Ahead",
+      "url": "https://open.spotify.com/track/56CY415TH9GfEP4j42cGRl"
+    },
+    {
+      "album": {
         "name": "GLORY (Deluxe)",
         "url": "https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV"
       },
@@ -6500,7 +6576,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 189906,
       "name": "Gold Things",
       "url": "https://open.spotify.com/track/3wH727bYhimLg5cCL9ZCy7"
@@ -6702,6 +6778,24 @@
       "duration_ms": 215527,
       "name": "Guillotine",
       "url": "https://open.spotify.com/track/7yQnOAYsaRfDIXGKW8ZCtl"
+    },
+    {
+      "album": {
+        "name": "Gummy Bear",
+        "url": "https://open.spotify.com/album/2xRcRgR5v3IarPPqByXE6Y"
+      },
+      "artists": [
+        {
+          "name": "Le Shiv",
+          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164757,
+      "name": "Gummy Bear",
+      "url": "https://open.spotify.com/track/3QyuHDL1hZyISsSfCrjgP9"
     },
     {
       "album": {
@@ -8756,7 +8850,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 162773,
       "name": "Keepsake",
       "url": "https://open.spotify.com/track/5Kp7StD6u2gQP9Di1mUnyJ"
@@ -9322,7 +9416,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 219204,
       "name": "LIFE KEEPS GOING",
       "url": "https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H"
@@ -9556,7 +9650,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 270666,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/7hB4r7dLiIBdkMmVjvRsYM"
@@ -10651,6 +10745,24 @@
     },
     {
       "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/0WCQBtGYGv5KDhLoMQNzwP"
+      },
+      "artists": [
+        {
+          "name": "Little Quirks",
+          "url": "https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208613,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/4LkVAR9zY9SlFmrwZlIWgR"
+    },
+    {
+      "album": {
         "name": "Moving Out",
         "url": "https://open.spotify.com/album/7djWr41uB6oGxWJNLgkPhn"
       },
@@ -10716,7 +10828,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 221878,
       "name": "Mulberry",
       "url": "https://open.spotify.com/track/1l8ygcDa2l5GhuyyNvQb6Q"
@@ -11152,6 +11264,24 @@
       "duration_ms": 182039,
       "name": "NIGHTCHILLS",
       "url": "https://open.spotify.com/track/0ol9nUJwdlPfuZebW4Hjbx"
+    },
+    {
+      "album": {
+        "name": "Nightmare's Coming Back",
+        "url": "https://open.spotify.com/album/1d0Mzy1Kzqct3lrUl47FHT"
+      },
+      "artists": [
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206810,
+      "name": "Nightmare's Coming Back",
+      "url": "https://open.spotify.com/track/29h7IcCPJ93bkyQ1KpBpMI"
     },
     {
       "album": {
@@ -12340,7 +12470,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 201624,
       "name": "Pet",
       "url": "https://open.spotify.com/track/72OZvuSbJdtetbkeCaNLS8"
@@ -12600,6 +12730,24 @@
       "duration_ms": 134295,
       "name": "Pocket Rocket",
       "url": "https://open.spotify.com/track/0EmJ7H6NmylmtmXh0x9xxJ"
+    },
+    {
+      "album": {
+        "name": "Poles",
+        "url": "https://open.spotify.com/album/2zjRFFrvL698MI1tk2NKow"
+      },
+      "artists": [
+        {
+          "name": "Special Features",
+          "url": "https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218856,
+      "name": "Poles",
+      "url": "https://open.spotify.com/track/0RUVO780hvunl7IZBgbc01"
     },
     {
       "album": {
@@ -14300,7 +14448,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 211980,
       "name": "Short Lived",
       "url": "https://open.spotify.com/track/7ivGafFpwaDfWxc2WUyT8e"
@@ -16820,7 +16968,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 219863,
       "name": "The Mouse",
       "url": "https://open.spotify.com/track/3i2rjBcpRDhDESxfq5sYh1"
@@ -17473,6 +17621,24 @@
     },
     {
       "album": {
+        "name": "Wabi Sabi",
+        "url": "https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn"
+    },
+    {
+      "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00"
       },
@@ -17668,6 +17834,24 @@
       "duration_ms": 132034,
       "name": "twentytwentythree",
       "url": "https://open.spotify.com/track/31RBep2ROc1EgNWWfFEjV4"
+    },
+    {
+      "album": {
+        "name": "TWINSTAR",
+        "url": "https://open.spotify.com/album/3rM47P8MOmCrzBvPXyJx3K"
+      },
+      "artists": [
+        {
+          "name": "RAGEFLOWER",
+          "url": "https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227309,
+      "name": "TWINSTAR",
+      "url": "https://open.spotify.com/track/0snCIa3RCpwdIyonZDhhVS"
     },
     {
       "album": {
@@ -18583,6 +18767,24 @@
     },
     {
       "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5WXs3gKH5ZjIBAryUs7qMn"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170473,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/4VdbjQigFukJA2ccXurthd"
+    },
+    {
+      "album": {
         "name": "Winnie Blues",
         "url": "https://open.spotify.com/album/4PsIFrW4NqO9I29UfQSfFg"
       },
@@ -18594,7 +18796,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 236000,
       "name": "Winnie Blues",
       "url": "https://open.spotify.com/track/4DM0ElPzu56FdVC8d46WVA"
@@ -18872,7 +19074,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 251023,
       "name": "You Don't Think You Like People Like Me (feat. Tegan and Sara)",
       "url": "https://open.spotify.com/track/4vN9PmQuNREN52fnolsCvx"

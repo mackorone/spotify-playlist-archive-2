@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 349 likes - 2,528 songs - 6 day 4 hr 40 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 349 likes - 2,530 songs - 6 day 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2536,5 +2536,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2526 | [Chill & Grind](https://open.spotify.com/track/16GXhEHAqhlz7B6Y8CVG3T) | [Funk Lazarus](https://open.spotify.com/artist/27Lj5gvLs9RK7jYpd3q5Cf), [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Chill & Grind](https://open.spotify.com/album/6F9ZJH5RvxQklzvkewbTO4) | 2:53 |
 | 2527 | [Resting in Change](https://open.spotify.com/track/1Nh0MxAfQSdPUOYXjxKs3i) | [Mishu Cerri](https://open.spotify.com/artist/2Az66PYe7XDPUqUTgSrmfq) | [Resting in Change](https://open.spotify.com/album/2FHxPk4uWZYSY1F7pTIGZB) | 4:21 |
 | 2528 | [Cognac and Cinders](https://open.spotify.com/track/7j7yOjVdOIbhaS0arc46QI) | [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Velvet Contraband](https://open.spotify.com/album/3HBsvCYydiN3PxCJUlhoGn) | 3:58 |
+| 2529 | [LOADSTONE \- SINGOLO](https://open.spotify.com/track/2yLJnJl5fZWU1r5AUkNiBl) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [LOADSTONE \(SINGOLO\)](https://open.spotify.com/album/1Cx5pyhdifjYwPVZESXdJT) | 3:23 |
+| 2530 | [Héroe](https://open.spotify.com/track/6Ch3Cw2zSpBDOEvCJz7f07) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Héroe](https://open.spotify.com/album/6J63RWGRhO59R406st0Z0X) | 3:29 |
 
-Snapshot ID: `AAAKustAGefONFSpRmypeUNWluTH+6s2`
+Snapshot ID: `AAAKvNWpqVwlYSh5pMejCo9ypTms3R4N`

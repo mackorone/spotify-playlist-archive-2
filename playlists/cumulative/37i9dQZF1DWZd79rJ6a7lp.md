@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-1,787 songs - 3 day 14 hr 53 min
+1,790 songs - 3 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Celestia](https://open.spotify.com/track/1KL3vXV6GaClrlhNkt1TR9) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Celestia](https://open.spotify.com/album/7HoO3mUB1L6mRK5BP6kidR) | 2:44 | 2025-10-21 |  |
 | [Celestial Bliss](https://open.spotify.com/track/7KM2IzL238AnUMw7FqWrRB) | [Felix Lancaster](https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4) | [Celestial Bliss](https://open.spotify.com/album/2k7vTKuo2IRa2niagED1z1) | 2:36 | 2024-10-14 |  |
 | [Celestial Drift](https://open.spotify.com/track/7tShTLflfkgBxjMEFs6N8l) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Celestial Drift](https://open.spotify.com/album/4xgtSnUGTIyIPA7oZQsCWX) | 3:00 | 2024-01-17 | 2024-05-21 |
+| [Celestial Equator](https://open.spotify.com/track/5e5L600nlVClP0Xiu7Gooi) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Celestial Equator](https://open.spotify.com/album/4PMxCaYEuW2r0HVAKm560o) | 3:20 | 2026-08-06 |  |
 | [Celestial Lights](https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Celestial Lights](https://open.spotify.com/album/2FkbPQFsoBizcGbrkT4u7S) | 2:40 | 2025-01-22 |  |
 | [Celestial Road](https://open.spotify.com/track/21aYPXbbkxxulmXdZU8LCN) | [Valeria Rosso](https://open.spotify.com/artist/7JlZ9FK5ZjKgXZnNFfjBlu) | [Celestial Road](https://open.spotify.com/album/4MYXh9dywCZQOvmonCe4W5) | 2:17 | 2020-10-20\* | 2021-03-14 |
 | [Celestial Serenity](https://open.spotify.com/track/10qAwjxWsZCrnHwrHcxJh9) | [Elysia Adler](https://open.spotify.com/artist/2h1JbJb38it4V14TTHwkha) | [Celestial Serenity](https://open.spotify.com/album/2uO2aY0fJuJwA1fglKA6Aw) | 3:02 | 2024-02-26 | 2025-04-24 |
@@ -618,6 +619,7 @@
 | [Finally In Peace](https://open.spotify.com/track/52tcU3qihtTISeQJz1JFfl) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 2:56 | 2020-10-20\* | 2020-12-12 |
 | [Find Me](https://open.spotify.com/track/6jDM7dC4rmCFaB6J1huffu) | [Leyton Miller](https://open.spotify.com/artist/1Ne3d3mvmU8z83OHnVFSxu) | [Find Me](https://open.spotify.com/album/5ix4GEUCC9ITQRBN5tTeLI) | 3:21 | 2021-07-07 | 2022-03-25 |
 | [Finding Z](https://open.spotify.com/track/6wxi3k13LLevWzehEbQCaN) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Finding Z](https://open.spotify.com/album/52Q1HU0Kr1n2gxElmS2zNA) | 3:37 | 2021-08-17 | 2021-09-22 |
+| [First Light of Dawn](https://open.spotify.com/track/3FvNzkkZxjpHpGMVOroMJr) | [Dawnveil](https://open.spotify.com/artist/6CYkhlH8BegFF1PSBGT4fm) | [First Light of Dawn](https://open.spotify.com/album/6EDtdJdf1wtDRsbLqm6rRz) | 2:27 | 2026-08-06 |  |
 | [Fjord](https://open.spotify.com/track/5F820xSuKiMLpGOV04Xs3c) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Fjord](https://open.spotify.com/album/6uJxTkCL8G3hjXi7S3ejkJ) | 2:54 | 2022-12-20 | 2024-02-08 |
 | [Flashback](https://open.spotify.com/track/37VNAvc9lZC70FcViKcI6f) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Brightness](https://open.spotify.com/album/6mRVmuhkO5VClWaRgVHcCf) | 3:17 | 2021-06-16 | 2021-09-03 |
 | [Fleeting Moments](https://open.spotify.com/track/4ISFjCBsY21GgFnjMd8V17) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Fleeting Moments](https://open.spotify.com/album/3mSXs8THWgZ6dCFWHVusmb) | 2:40 | 2025-01-14 | 2025-04-10 |
@@ -811,6 +813,7 @@
 | [Interstellar](https://open.spotify.com/track/6DLx436guAqpJ8piBZyXqC) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Chasma](https://open.spotify.com/album/61Y2geXoBdrrPvE3IJcB9W) | 2:30 | 2022-04-07 | 2024-02-08 |
 | [Interstellar](https://open.spotify.com/track/4MGGK38wotU544Uq9ouZvW) | [Escape Velocity](https://open.spotify.com/artist/2tb72keD7ZfOudHYldg84Z) | [Trojan](https://open.spotify.com/album/2zXu0weQP2kQktWq6UmMJJ) | 3:09 | 2020-10-20\* | 2020-12-12 |
 | [Interval](https://open.spotify.com/track/5beZ2FfZVWYUfguamVswOD) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [Interval](https://open.spotify.com/album/2Lp1JXEQHW4W7uSGteugMY) | 2:28 | 2025-09-10 |  |
+| [Into Patterns](https://open.spotify.com/track/674oMsUedkBCVK85NDA4R1) | [Stellian](https://open.spotify.com/artist/0J7ija5d6fGOPYGODzuRLq) | [Into Patterns](https://open.spotify.com/album/6RB0bQ9Kg5QtGTW1bsNgVi) | 2:40 | 2026-08-06 |  |
 | [Into the light](https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Into the light](https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id) | 2:26 | 2022-08-23 | 2024-02-08 |
 | [Into The Light](https://open.spotify.com/track/1qNDx2ajmcECC1mVzJl3oO) | [Vígi Seaghdh](https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm) | [Into The Light](https://open.spotify.com/album/5losUh2Qx9FbrjcESjo8sE) | 3:24 | 2024-02-26 | 2026-02-28 |
 | [Into the Quiet](https://open.spotify.com/track/4cYUIjtVBnq71PlHvaYXQc) | [Stellar Voyager](https://open.spotify.com/artist/3yO4gt9FGhJNeaeLbxIVTQ) | [Into the Quiet](https://open.spotify.com/album/06HzVCSW7suHfuHGp7rJHg) | 2:06 | 2025-09-24 |  |

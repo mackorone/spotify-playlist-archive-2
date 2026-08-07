@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Isaiah Falls
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,627 likes - 275 songs - 14 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,638 likes - 275 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,7 +267,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 257 | [Wishing Well](https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Wishing Well](https://open.spotify.com/album/5yVOyzUQcQFGsXkn8IsSI6) | 3:52 |
 | 258 | [Life Isn't Fair](https://open.spotify.com/track/2JnzP01yZEDcTx86FG18XL) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [The Celestials!](https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9) | [Life Isn't Fair](https://open.spotify.com/album/4nKb1cY6EU7Y2DIJHeZm3s) | 4:33 |
 | 259 | [Slowly Burning](https://open.spotify.com/track/4jaB32QgvmVG2VOh9dUBtc) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Slowly Burning](https://open.spotify.com/album/2gtPAOr3emVRJprUuXbgsA) | 2:40 |
-| 260 | [Weak With Me](https://open.spotify.com/track/5GydYs178vVYnf30AEoonc) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Safe To Be \_](https://open.spotify.com/album/5FwW4Cq3Ml8IFaXCdFQgmH) | 3:12 |
+| 260 | [Weak With Me](https://open.spotify.com/track/5GydYs178vVYnf30AEoonc) | [noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Safe To Be \_](https://open.spotify.com/album/5FwW4Cq3Ml8IFaXCdFQgmH) | 3:12 |
 | 261 | [Bitter](https://open.spotify.com/track/0DPpiymqSt6ULGJLiM10AG) | [Lee Lewis](https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D) | [HOWL](https://open.spotify.com/album/0QQamCfblYCjkjmEOd32cw) | 3:01 |
 | 262 | [Ignore](https://open.spotify.com/track/3lIxpq24g8IJpisCDs9dOH) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Loser.](https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6) | 2:22 |
 | 263 | [Red Wine](https://open.spotify.com/track/2zzRZifs4lSWR2f0Ose6iI) | [June Buggg](https://open.spotify.com/artist/02kg58vCMTNPBaPNQdYEJi), [Qui](https://open.spotify.com/artist/0G2LfRTlpJ9sqb8bWH4396) | [Red Wine](https://open.spotify.com/album/1bC7JvA6Wu1yYUie7rYXLl) | 2:05 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 274 | [After Party](https://open.spotify.com/track/22Icf9HFciTcBTcQc908uu) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [After Party](https://open.spotify.com/album/2wC9Q0kbqgU0xpI4o4xZw0) | 2:16 |
 | 275 | [High](https://open.spotify.com/track/1fylUPtF8NeiiZQng4F1Tf) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [High](https://open.spotify.com/album/0iTH2MjVG0ZGxQmjYXgzy5) | 2:55 |
 
-Snapshot ID: `AAAAAMOks+Al7ox4kXhtlonWfqhfB49w`
+Snapshot ID: `AAAAAGMkJmhFOgRduFdHFiXlgvgiETzu`

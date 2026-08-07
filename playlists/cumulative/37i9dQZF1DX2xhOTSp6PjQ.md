@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Maqatha
+> Khuphuka lapho… seku\-late! Cover: Feza
 
-307 songs - 1 day 0 hr 9 min
+308 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [U XA](https://open.spotify.com/track/2iUNIB5d8YnPEYvn3QjaAg) | [UMnotho](https://open.spotify.com/artist/2h2oLC9oYSV4kYoAnHQHhd), [Mjabulisi](https://open.spotify.com/artist/7cHTggdS9DqKE9oP1FTuZS) | [U XA](https://open.spotify.com/album/6bgrhWDlYyAGIIeUz7Ppjk) | 3:23 | 2026-07-23 |  |
 | [Ubambo lwami](https://open.spotify.com/track/7lqlmV3prYYMQvyswraACT) | [uMdumazi](https://open.spotify.com/artist/1FaD9YX3OovAhntq4aV1DC), [Mjolisi](https://open.spotify.com/artist/1WVxTF7mgVH51W5qTSSKY7) | [Uyinja](https://open.spotify.com/album/0oCCoXAo3PJn6oTKnoY2Sz) | 4:54 | 2025-06-27 |  |
 | [Ubasela ama\-Ex](https://open.spotify.com/track/5Z41KRKlonoT7McWnIPCrY) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Healing](https://open.spotify.com/album/60sN6VCrfd9JS3oGRL8b9e) | 4:31 | 2025-04-24 |  |
+| [uBhanyazile](https://open.spotify.com/track/2vAXhH6mBuKPD3hb0xHQne) | [Njabulo Langa](https://open.spotify.com/artist/4bQehldM97MVpqKISNhZzV), [Mjikelo](https://open.spotify.com/artist/2rD7mKcV2fhMpn4M56sDFA) | [uBhanyazile](https://open.spotify.com/album/6lRouipryqjU61JGR9YKWH) | 5:04 | 2026-08-06 |  |
 | [Ubhuti Wabantu](https://open.spotify.com/track/30hNrNo7QjfXkwKT3AvNPU) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Sphesihle Zulu](https://open.spotify.com/artist/2Q87XMh9dkkI1FOG9uCeCG) | [Ispoki Esingafi](https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu) | 5:06 | 2022-09-01 | 2023-11-24 |
 | [Ubu Ghost bami](https://open.spotify.com/track/18135pAIhu4DClNzwruriW) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Intombi yasoLundi](https://open.spotify.com/artist/4Bn20pYoT2Dij98WIQc4lt) | [Ng'funa intozami](https://open.spotify.com/album/5hXdv6EKkrLBoK0diMQwT6) | 2:51 | 2025-11-14 |  |
 | [uHerodi](https://open.spotify.com/track/2OaiWMFJMnUSFLpdsYWgup) | [Madlala](https://open.spotify.com/artist/0e7YfyK9v0fTHo43iJV8Oj) | [Sizohlabelela](https://open.spotify.com/album/2X6RQrGxetaRNPOdx1TgGo) | 3:54 | 2023-08-24 | 2026-04-11 |

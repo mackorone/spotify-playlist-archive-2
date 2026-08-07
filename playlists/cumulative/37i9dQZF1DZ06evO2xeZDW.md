@@ -4,7 +4,7 @@
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-64 songs - 2 hr 56 min
+65 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Cast of Cooks](https://open.spotify.com/track/7EXDfmnGVSA6tmFHldB6hv) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 1:41 | 2026-07-19 |  |
 | [Catwoman](https://open.spotify.com/track/3Bd12fCAzf7NQHCtb3p2Si) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 3:03 | 2026-07-08 |  |
 | [Colette Shows Him Le Ropes](https://open.spotify.com/track/6p8lCOvTbSI4eijtyw6pW4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:56 | 2026-07-08 | 2026-07-19 |
+| [Come Fly With Me \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/52Yvf4pN9wixK7ePyQ2irH) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Brand New Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6) | 0:30 | 2026-08-07 |  |
 | [Enterprising Young Men](https://open.spotify.com/track/0NGVyXhUkqE3MRN6TmSzuG) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek \(Music From The Motion Picture\)](https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe) | 2:39 | 2026-07-08 |  |
 | [Episode 2](https://open.spotify.com/track/2EmihuJbmXOcfN3QafNIkJ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 0:50 | 2026-07-13 | 2026-07-28 |
 | [Exit Through the Lobby \- from "Spider\-Man: No Way Home" Soundtrack](https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: No Way Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL) | 4:15 | 2026-07-08 |  |
@@ -27,7 +28,7 @@
 | [Guardians of the Whills Suite](https://open.spotify.com/track/5A2mIs9L0Cqqg1b5FHuDf8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:52 | 2026-07-08 | 2026-07-27 |
 | [Hope](https://open.spotify.com/track/2x5aboMwAwEIucjDwZsBEv) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 1:37 | 2026-07-08 | 2026-07-15 |
 | [Hot Fursuit](https://open.spotify.com/track/7AstzUKILlxTDESo09PLKG) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 2:55 | 2026-07-08 |  |
-| [It's Finn McMissile! \- From "Cars 2"/Score](https://open.spotify.com/track/2iiOa1urBDqoKwjCLkIiG5) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 5:54 | 2026-07-08 |  |
+| [It's Finn McMissile! \- From "Cars 2"/Score](https://open.spotify.com/track/2iiOa1urBDqoKwjCLkIiG5) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 5:54 | 2026-07-08 | 2026-08-07 |
 | [Journey to the Journal](https://open.spotify.com/track/7JuNAiek69RpHtYW9Wsuwv) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:20 | 2026-07-08 | 2026-08-03 |
 | [Jyn Erso & Hope Suite](https://open.spotify.com/track/4tD2tUs8Bf4X5dMS6CxccV) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 5:51 | 2026-07-08 |  |
 | [Kate Makes A Splash](https://open.spotify.com/track/02virfGq4V7hyZOVGNCKzP) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Lost: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/4HnYTgnefUufJTvBfOr6fZ) | 0:30 | 2026-07-31 | 2026-08-02 |

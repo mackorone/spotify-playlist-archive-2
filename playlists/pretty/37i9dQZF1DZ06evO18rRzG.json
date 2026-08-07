@@ -1,12 +1,12 @@
 {
   "description": "This is Daniel Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 443101,
+  "num_followers": 443351,
   "original_name": "This Is Daniel Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAABSC/8W+6Hf/oe8dMMvVP4l",
+  "snapshot_id": "anJ9AAAAAABECIUEtFfLi7Se6ZZyM4E+",
   "tracks": [
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Root of all Evil",
-      "url": "https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd"
+      "duration_ms": 225875,
+      "name": "Have A Baby (With Me)",
+      "url": "https://open.spotify.com/track/7sXOV8uUpxPtyTZoV2iqYa"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Sign Of The Times",
-      "url": "https://open.spotify.com/track/4idq70ESkXPCPhCCnzBK1y"
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 225875,
-      "name": "Have A Baby (With Me)",
-      "url": "https://open.spotify.com/track/7sXOV8uUpxPtyTZoV2iqYa"
+      "duration_ms": 231800,
+      "name": "Sign Of The Times",
+      "url": "https://open.spotify.com/track/4idq70ESkXPCPhCCnzBK1y"
     },
     {
       "added_at": null,

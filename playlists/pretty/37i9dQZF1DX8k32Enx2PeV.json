@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17052,
+  "num_followers": 17057,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG2WEEpBrn52IJ2qUvdrF20lEChe",
+  "snapshot_id": "AAAAAJGHW71TWAWYF5rQtFrjHtmjkYuY",
   "tracks": [
     {
       "added_at": "2026-06-19 04:59:04",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "TRESCENDER",
-        "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 161030,
-      "name": "Regalito",
-      "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Los Nuevos Reyes",
         "url": "https://open.spotify.com/album/6q7NqAYt7mBBpAdA0lyfAo"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 231100,
       "name": "La Canci\u00f3n De Los Dos",
       "url": "https://open.spotify.com/track/3zVwgwb0Q9ZAoJdp949VXJ"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "TRESCENDER",
+        "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 161030,
+      "name": "Regalito",
+      "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -651,30 +651,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Belleza",
-        "url": "https://open.spotify.com/album/7dFEzeWR3MbGdQEykDTVbF"
-      },
-      "artists": [
-        {
-          "name": "Montano",
-          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
-        }
-      ],
-      "duration_ms": 240006,
-      "name": "Belleza",
-      "url": "https://open.spotify.com/track/1RCLBRAJc2iEDE8DTXHCxj"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
         "url": "https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 211200,
       "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
       "url": "https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Belleza",
+        "url": "https://open.spotify.com/album/7dFEzeWR3MbGdQEykDTVbF"
+      },
+      "artists": [
+        {
+          "name": "Montano",
+          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "duration_ms": 240006,
+      "name": "Belleza",
+      "url": "https://open.spotify.com/track/1RCLBRAJc2iEDE8DTXHCxj"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Pailas Parcera",
-        "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
+        "name": "EMDDMV",
+        "url": "https://open.spotify.com/album/6ziWmkk7khSe5U5QstUNtV"
       },
       "artists": [
         {
-          "name": "Slow Mike",
-          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
-        },
-        {
-          "name": "Luister La Voz",
-          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
         }
       ],
-      "duration_ms": 188936,
-      "name": "Pailas Parcera",
-      "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
+      "duration_ms": 172800,
+      "name": "EMDDMV",
+      "url": "https://open.spotify.com/track/7iR2INATAqjNsevyTqojre"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1071,22 +1067,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "EMDDMV",
-        "url": "https://open.spotify.com/album/6ziWmkk7khSe5U5QstUNtV"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "EMDDMV",
-      "url": "https://open.spotify.com/track/7iR2INATAqjNsevyTqojre"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Pailas Parcera",
+        "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
+      },
+      "artists": [
+        {
+          "name": "Slow Mike",
+          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
+        },
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "Pailas Parcera",
+      "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Buen Pez (Deluz)",
         "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 177213,
       "name": "Regalo",
       "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Supernatural Love",
-        "url": "https://open.spotify.com/album/0m1LXn0YdEzzKfXN3Hvtsl"
-      },
-      "artists": [
-        {
-          "name": "Sidestepper",
-          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Fuego Que Te Llama",
-      "url": "https://open.spotify.com/track/31fZqDxIEk8qDa4Fi0BISL"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "El \u00c1lbum de las Ilusiones",
         "url": "https://open.spotify.com/album/7wTHrCoUQJNtkhQRFreDiW"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 261786,
       "name": "Conectar",
       "url": "https://open.spotify.com/track/4w95fyTD2dawHjWZCnV7Vk"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Supernatural Love",
+        "url": "https://open.spotify.com/album/0m1LXn0YdEzzKfXN3Hvtsl"
+      },
+      "artists": [
+        {
+          "name": "Sidestepper",
+          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Fuego Que Te Llama",
+      "url": "https://open.spotify.com/track/31fZqDxIEk8qDa4Fi0BISL"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Losken Roland",
-        "url": "https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 140955,
-      "name": "Losken Roland",
-      "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "M\u00e1quina Del Tiempo",
         "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "Losken Roland",
+        "url": "https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 140955,
+      "name": "Losken Roland",
+      "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/1m41idRHu1CBWPGwQpXiWd"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 202888,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6GXiF7VKiCC4dZRQyWu8Sj"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Pa' que lo bailen (Radio Edit)",
+        "url": "https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 194770,
+      "name": "Pa' que lo bailen - Radio Edit",
+      "url": "https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1615,22 +1631,6 @@
       "duration_ms": 214129,
       "name": "Cosas del Destino",
       "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Pa' que lo bailen (Radio Edit)",
-        "url": "https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 194770,
-      "name": "Pa' que lo bailen - Radio Edit",
-      "url": "https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Yo Quisiera",
-        "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
-      },
-      "artists": [
-        {
-          "name": "Golpe a Golpe",
-          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
-        }
-      ],
-      "duration_ms": 177446,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Yo Quisiera",
+        "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        }
+      ],
+      "duration_ms": 177446,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Sol Y Lluvia",
-        "url": "https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 184925,
-      "name": "Como Fuego",
-      "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Mudanza",
         "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 212178,
       "name": "Mudanza",
       "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Sol Y Lluvia",
+        "url": "https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 184925,
+      "name": "Como Fuego",
+      "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "La Revancha del Burro",
+        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 311981,
+      "name": "El Boton del Pantalon",
+      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
       },
@@ -1919,18 +1935,26 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "La Revancha del Burro",
-        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
+        "name": "Un D\u00eda a la Vez",
+        "url": "https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA"
       },
       "artists": [
         {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "NOREH",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
         }
       ],
-      "duration_ms": 311981,
-      "name": "El Boton del Pantalon",
-      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
+      "duration_ms": 246000,
+      "name": "Un D\u00eda a la Vez",
+      "url": "https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -2019,22 +2043,6 @@
       "duration_ms": 211891,
       "name": "Tierra de Promesas (Sierra Nevada)",
       "url": "https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     }
   ],
   "unique_name": "Palmera",

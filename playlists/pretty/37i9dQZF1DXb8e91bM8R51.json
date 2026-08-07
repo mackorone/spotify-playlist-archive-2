@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 53019,
+  "num_followers": 53023,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADx9XdSwZJLF8lry8ZagB9ooBtTz",
+  "snapshot_id": "AAAAAPT6Zaqd6xvMGG8SloVaJgi79Cvd",
   "tracks": [
     {
       "added_at": "2026-08-03 21:14:45",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
+        "name": "In My Lifetime",
+        "url": "https://open.spotify.com/album/7Am0PvxtFWNhK3s1L2iz6C"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "In My Lifetime",
+      "url": "https://open.spotify.com/track/4BgGvnwGSkFVLO2od8FNUX"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 263941,
-      "name": "Funny Papers",
-      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -255,22 +255,18 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "float 2.0",
-        "url": "https://open.spotify.com/album/1r4QvO5mB5VncnRaIKcBQA"
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
       "artists": [
         {
-          "name": "Kairo Keyz",
-          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
-        },
-        {
-          "name": "Thiago Sub",
-          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 110464,
-      "name": "float 2.0",
-      "url": "https://open.spotify.com/track/1nPuPXBojDHIsoY0DCXDxm"
+      "duration_ms": 263941,
+      "name": "Funny Papers",
+      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -291,18 +287,22 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "In My Lifetime",
-        "url": "https://open.spotify.com/album/7Am0PvxtFWNhK3s1L2iz6C"
+        "name": "float 2.0",
+        "url": "https://open.spotify.com/album/1r4QvO5mB5VncnRaIKcBQA"
       },
       "artists": [
         {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        },
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
         }
       ],
-      "duration_ms": 267413,
-      "name": "In My Lifetime",
-      "url": "https://open.spotify.com/track/4BgGvnwGSkFVLO2od8FNUX"
+      "duration_ms": 110464,
+      "name": "float 2.0",
+      "url": "https://open.spotify.com/track/1nPuPXBojDHIsoY0DCXDxm"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Blackberry Marmalade",
-        "url": "https://open.spotify.com/album/109EG53gglqHzxhMHUR916"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Blackberry Marmalade",
-      "url": "https://open.spotify.com/track/3FxrOAlvKSGGloyWOOgRDA"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
         "url": "https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 227234,
       "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
       "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "Blackberry Marmalade",
+        "url": "https://open.spotify.com/album/109EG53gglqHzxhMHUR916"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Blackberry Marmalade",
+      "url": "https://open.spotify.com/track/3FxrOAlvKSGGloyWOOgRDA"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "I GOT ISSUES",
         "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
         "name": "Rice N Gravy - A COLORS SHOW",
         "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
       },
@@ -955,22 +955,6 @@
       "duration_ms": 159733,
       "name": "Rice N Gravy - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
-        "name": "MR.",
-        "url": "https://open.spotify.com/album/5VOHcEH6D1DMngkxky552g"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 174944,
-      "name": "Day Ones",
-      "url": "https://open.spotify.com/track/62pdElk3kkVED8psyBQptz"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1019,6 +1003,22 @@
       "duration_ms": 288200,
       "name": "Bitch Please II",
       "url": "https://open.spotify.com/track/0NWtAf6HtnfA5KFCaX6Wtz"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "MR.",
+        "url": "https://open.spotify.com/album/5VOHcEH6D1DMngkxky552g"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 174944,
+      "name": "Day Ones",
+      "url": "https://open.spotify.com/track/62pdElk3kkVED8psyBQptz"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 232017,
-      "name": "Office Hours (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 108387,
       "name": "In my lifetime (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 222497,
-      "name": "Father Time (feat. Sampha)",
-      "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "College Park",
         "url": "https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0"
       },
@@ -1775,22 +1755,22 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "AIGHT (feat. Shelley FKA DRAM)",
-        "url": "https://open.spotify.com/album/5DYcaafg3wKwL7jAvRRPzC"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
       "artists": [
         {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 164136,
-      "name": "AIGHT (feat. Shelley FKA DRAM)",
-      "url": "https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60"
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1819,6 +1799,26 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
+        "name": "AIGHT (feat. Shelley FKA DRAM)",
+        "url": "https://open.spotify.com/album/5DYcaafg3wKwL7jAvRRPzC"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        },
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 164136,
+      "name": "AIGHT (feat. Shelley FKA DRAM)",
+      "url": "https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
         "name": "Party Is Goin' On, Vol. 2",
         "url": "https://open.spotify.com/album/0bvcLiGrCY9gXLv2dDRfdS"
       },
@@ -1835,6 +1835,38 @@
       "duration_ms": 300066,
       "name": "All Good",
       "url": "https://open.spotify.com/track/0rOx5AT657O5E4tCKx0YOp"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "duration_ms": 223944,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "Super",
+        "url": "https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 177553,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1895,22 +1927,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk"
-      },
-      "artists": [
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
-        }
-      ],
-      "duration_ms": 223944,
-      "name": "Quicksand",
-      "url": "https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "Taylor Allderdice",
         "url": "https://open.spotify.com/album/5cpYhM2NdVjJXMy9uZhD2J"
       },
@@ -1927,6 +1943,22 @@
       "duration_ms": 232053,
       "name": "My Favorite Song",
       "url": "https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "AMERICAN HORROR STORY",
+        "url": "https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 309570,
+      "name": "AMERICAN HORROR STORY",
+      "url": "https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1955,22 +1987,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Super",
-        "url": "https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 177553,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "Torpedo",
         "url": "https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 240967,
       "name": "Torpedo",
       "url": "https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
-        "name": "AMERICAN HORROR STORY",
-        "url": "https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 309570,
-      "name": "AMERICAN HORROR STORY",
-      "url": "https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj"
     },
     {
       "added_at": "2026-08-03 21:14:45",

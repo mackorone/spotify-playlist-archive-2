@@ -672,7 +672,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 136540,
       "name": "Assurance",
       "url": "https://open.spotify.com/track/3uPYUqwxreOB85WGpYyaho"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 657912,
       "name": "Big God",
       "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
@@ -3568,7 +3568,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 195347,
       "name": "Everybody Tobechukwu",
       "url": "https://open.spotify.com/track/344k8s5ytcIOHEDgaGHPs3"
@@ -3990,7 +3990,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 265611,
       "name": "Fi Life",
       "url": "https://open.spotify.com/track/73YHEkRd1VtJfrc53mMWrX"
@@ -4341,6 +4341,24 @@
     },
     {
       "album": {
+        "name": "Give Am Praise",
+        "url": "https://open.spotify.com/album/01r98bMngk1MOMjY50Kvhm"
+      },
+      "artists": [
+        {
+          "name": "Mera Owili",
+          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421707,
+      "name": "Give Am Praise",
+      "url": "https://open.spotify.com/track/3PVoW55Hs6hfokXqnBc0u2"
+    },
+    {
+      "album": {
         "name": "Giver of Good Things",
         "url": "https://open.spotify.com/album/6jUm0DbfPTh0KQlPDMj10E"
       },
@@ -4664,7 +4682,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 151485,
       "name": "GOOD FEELIN",
       "url": "https://open.spotify.com/track/3kDMSBvc2zfjZBjvFqV8ZQ"
@@ -4900,7 +4918,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 150600,
       "name": "Grace",
       "url": "https://open.spotify.com/track/5XVmn6b4EvfC8em0H4npoM"
@@ -6040,7 +6058,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 610039,
       "name": "I See The Lord - Live",
       "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
@@ -6174,7 +6192,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 234500,
       "name": "If E No Be You Jesus",
       "url": "https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv"
@@ -6294,7 +6312,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 211831,
       "name": "Ifeoma",
       "url": "https://open.spotify.com/track/3vSUYERQ3tudbBmsQQrBzT"
@@ -6643,6 +6661,24 @@
     },
     {
       "album": {
+        "name": "Ina Son Ka",
+        "url": "https://open.spotify.com/album/58lHqK7yn74I9xJ6or5UFV"
+      },
+      "artists": [
+        {
+          "name": "Dr Becky Paul-Enenche",
+          "url": "https://open.spotify.com/artist/3uVRRvZIlNO21kzY2gsJ9n"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220318,
+      "name": "Ina Son Ka",
+      "url": "https://open.spotify.com/track/0O6Zxeej9w2w8cA4gG8xUu"
+    },
+    {
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/3crM24IhsBAT89dd46Lp48"
       },
@@ -6978,7 +7014,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 196363,
       "name": "Jireh",
       "url": "https://open.spotify.com/track/3PzMMIwLiUTvirBij9AcSw"
@@ -7902,7 +7938,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 248054,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
@@ -9470,7 +9506,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 193781,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/6H9ykVIRifCHXS7iCMTtqi"
@@ -10550,6 +10586,24 @@
       "duration_ms": 281543,
       "name": "Presence Of The Lord",
       "url": "https://open.spotify.com/track/75zDWZQl2FzZSSdWRJ4Pe1"
+    },
+    {
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/3sOlsUQdc0pjldeZERnZIQ"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151327,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4Q6nJI4EWgreJiMmRIinky"
     },
     {
       "album": {
@@ -12062,7 +12116,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 199023,
       "name": "Titilailai II",
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"

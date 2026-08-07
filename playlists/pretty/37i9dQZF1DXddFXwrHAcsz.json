@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 80's! Cover: Andr\u00e9 Hazes",
-  "num_followers": 75430,
+  "num_followers": 75456,
   "original_name": "80's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPACgmm6cz5qIkK8m4OjOztmv4SC",
+  "snapshot_id": "AAAAAM/TW4NWMIIyp86LglIXmJuv1zsK",
   "tracks": [
     {
       "added_at": "2022-10-11 07:08:55",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Deurdonderen",
-        "url": "https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx"
-      },
-      "artists": [
-        {
-          "name": "Normaal",
-          "url": "https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Mamma, woar is mien pils",
-      "url": "https://open.spotify.com/track/3LSXZhstWrAdQZC8C8moU0"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
         "name": "Alles",
         "url": "https://open.spotify.com/album/71uQhj11xtVa1H2yN4fDjq"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 241906,
       "name": "O O Den Haag",
       "url": "https://open.spotify.com/track/2F5HbFGRgJNzLvSU17sw2N"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
+        "name": "Deurdonderen",
+        "url": "https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx"
+      },
+      "artists": [
+        {
+          "name": "Normaal",
+          "url": "https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Mamma, woar is mien pils",
+      "url": "https://open.spotify.com/track/3LSXZhstWrAdQZC8C8moU0"
     },
     {
       "added_at": "2022-10-11 07:08:55",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
+        "name": "Het Beste Van Rob de Nijs",
+        "url": "https://open.spotify.com/album/58vsFzEznEkpo2aHRKRzZa"
+      },
+      "artists": [
+        {
+          "name": "Rob De Nijs",
+          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Foto Van Vroeger",
+      "url": "https://open.spotify.com/track/0uFuy26Esw0CBMAsFya8Im"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
         "name": "Nederpop Hits uit de 80's - deel 2",
         "url": "https://open.spotify.com/album/17mzba0JG0RAEw821PUTtT"
       },
@@ -659,24 +675,8 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Het Beste Van Rob de Nijs",
-        "url": "https://open.spotify.com/album/58vsFzEznEkpo2aHRKRzZa"
-      },
-      "artists": [
-        {
-          "name": "Rob De Nijs",
-          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Foto Van Vroeger",
-      "url": "https://open.spotify.com/track/0uFuy26Esw0CBMAsFya8Im"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
-        "name": "Het Beste Van",
-        "url": "https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc"
+        "name": "Alle 40 Goed",
+        "url": "https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
         }
       ],
-      "duration_ms": 226693,
-      "name": "Bloedend Hart",
-      "url": "https://open.spotify.com/track/21UjnG4SVJlOO4WDrUBaTJ"
+      "duration_ms": 268640,
+      "name": "Dansen Op De Vulkaan",
+      "url": "https://open.spotify.com/track/3ME8xqtIl1nHWJIUGP39l9"
     },
     {
       "added_at": "2022-10-11 07:08:55",
@@ -707,6 +707,42 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
+        "name": "Hazes 100",
+        "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Ik Meen 'T",
+      "url": "https://open.spotify.com/track/49EPxidDCfWYg0cIKmTxHB"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
+        "name": "Hollandse Sterren Collectie",
+        "url": "https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk"
+      },
+      "artists": [
+        {
+          "name": "Willeke Alberti",
+          "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
+        },
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "Niemand Laat Zijn Eigen Kind Alleen",
+      "url": "https://open.spotify.com/track/4cj2rF9TMmxYAVTNSAQ9P0"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
         "name": "Het Beste Van Peter Koelewijn",
         "url": "https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2"
       },
@@ -723,18 +759,18 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Hazes 100",
-        "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
+        "name": "Het Beste Van",
+        "url": "https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc"
       },
       "artists": [
         {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+          "name": "De Dijk",
+          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
         }
       ],
-      "duration_ms": 167533,
-      "name": "Zeg Maar Niets Meer",
-      "url": "https://open.spotify.com/track/1YEUqTuDGVNVt9d6eDMSF8"
+      "duration_ms": 226693,
+      "name": "Bloedend Hart",
+      "url": "https://open.spotify.com/track/21UjnG4SVJlOO4WDrUBaTJ"
     },
     {
       "added_at": "2022-10-11 07:08:55",
@@ -755,18 +791,18 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Zullen We Dansen - Het Beste Van De Dijk 1981 - 2006",
-        "url": "https://open.spotify.com/album/6rH1vmQTFjbXmCRYYtD2Q3"
+        "name": "Hazes 100",
+        "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
       },
       "artists": [
         {
-          "name": "De Dijk",
-          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 285666,
-      "name": "Binnen Zonder Kloppen",
-      "url": "https://open.spotify.com/track/3MclndtcndEVz0gKOXdM71"
+      "duration_ms": 167533,
+      "name": "Zeg Maar Niets Meer",
+      "url": "https://open.spotify.com/track/1YEUqTuDGVNVt9d6eDMSF8"
     },
     {
       "added_at": "2022-10-11 07:08:55",
@@ -803,18 +839,18 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Hazes 100",
-        "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
+        "name": "Zullen We Dansen - Het Beste Van De Dijk 1981 - 2006",
+        "url": "https://open.spotify.com/album/6rH1vmQTFjbXmCRYYtD2Q3"
       },
       "artists": [
         {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+          "name": "De Dijk",
+          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
         }
       ],
-      "duration_ms": 213920,
-      "name": "Ik Meen 'T",
-      "url": "https://open.spotify.com/track/49EPxidDCfWYg0cIKmTxHB"
+      "duration_ms": 285666,
+      "name": "Binnen Zonder Kloppen",
+      "url": "https://open.spotify.com/track/3MclndtcndEVz0gKOXdM71"
     },
     {
       "added_at": "2022-10-11 07:08:55",
@@ -831,42 +867,6 @@
       "duration_ms": 207026,
       "name": "Ik Voel Me Zo Verdomd Alleen",
       "url": "https://open.spotify.com/track/1CIsHtxYZl0e6N2DkXa89H"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
-        "name": "Alle 40 Goed",
-        "url": "https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR"
-      },
-      "artists": [
-        {
-          "name": "De Dijk",
-          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Dansen Op De Vulkaan",
-      "url": "https://open.spotify.com/track/3ME8xqtIl1nHWJIUGP39l9"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
-        "name": "Hollandse Sterren Collectie",
-        "url": "https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk"
-      },
-      "artists": [
-        {
-          "name": "Willeke Alberti",
-          "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
-        },
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "Niemand Laat Zijn Eigen Kind Alleen",
-      "url": "https://open.spotify.com/track/4cj2rF9TMmxYAVTNSAQ9P0"
     },
     {
       "added_at": "2022-10-11 07:08:55",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Mijn Levenslied",
-        "url": "https://open.spotify.com/album/1ZsiKqXJH3U7qN6pX3nHme"
-      },
-      "artists": [
-        {
-          "name": "Danny De Munk",
-          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
-        }
-      ],
-      "duration_ms": 191653,
-      "name": "Mijn Stad",
-      "url": "https://open.spotify.com/track/3NytgJzTuo28YJXP82ys1y"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
         "name": "De Verzonken Stad & Andere Hits",
         "url": "https://open.spotify.com/album/2KDci5Jcw5iP7UEVud2nLV"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 194813,
       "name": "Pierrot",
       "url": "https://open.spotify.com/track/3vgw77I33tT8m2T0MYbsM2"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
+        "name": "Mijn Levenslied",
+        "url": "https://open.spotify.com/album/1ZsiKqXJH3U7qN6pX3nHme"
+      },
+      "artists": [
+        {
+          "name": "Danny De Munk",
+          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
+        }
+      ],
+      "duration_ms": 191653,
+      "name": "Mijn Stad",
+      "url": "https://open.spotify.com/track/3NytgJzTuo28YJXP82ys1y"
     },
     {
       "added_at": "2022-10-11 07:08:55",

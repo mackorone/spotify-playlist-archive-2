@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 316 songs - 20 hr 13 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 318 songs - 20 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -324,5 +324,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 314 | [Black Sheep](https://open.spotify.com/track/0b5Ck9iMhTNpnmUjdbsfsQ) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Water \(S\)](https://open.spotify.com/album/39yAlNzbQD6MAvveqeY3IP) | 3:17 |
 | 315 | [Freaky Times](https://open.spotify.com/track/36vKmkJMLUoivd7tk7k9KU) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Time](https://open.spotify.com/album/2p8VeG5r2aadenxHViCibr) | 3:17 |
 | 316 | [Runnin'](https://open.spotify.com/track/7bqTOtOJKoXSa6ar6lozvF) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Tony Yayo](https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 4:26 |
+| 317 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/6dc1efEhnYMzVwz05VY4ZP) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:10 |
+| 318 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/6dc1efEhnYMzVwz05VY4ZP) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:10 |
 
-Snapshot ID: `AAAgoDd2L5lIsnD5aAXInB5IwW+69F6I`
+Snapshot ID: `AAAgoo316Spp+hHXACF7QRSndOgWVnP5`

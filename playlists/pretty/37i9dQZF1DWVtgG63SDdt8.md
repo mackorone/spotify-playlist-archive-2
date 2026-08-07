@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Hopeful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,799 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,813 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Give Me Joy](https://open.spotify.com/track/65g5hAMnsr9Zug4vGWrPgS) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Give Me Joy](https://open.spotify.com/album/6sTnl17phWJeWoEMOm3wQ7) | 4:43 |
 | 100 | [Road Less Traveled](https://open.spotify.com/track/4B9rtS3inS4qsmbEB8ysGl) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Road Less Traveled](https://open.spotify.com/album/3N003bQiYF4NymTauky8B3) | 3:03 |
 
-Snapshot ID: `AAAAALYSHte+9DIhCGV9aWCZggpXHFZ5`
+Snapshot ID: `AAAAAGJQZ0CNEaelffqNVgzYtdmY5sMr`

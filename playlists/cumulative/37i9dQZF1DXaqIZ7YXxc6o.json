@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Your weekly dose of new dance. Cover: Loods",
+  "description": "Your weekly dose of new dance. Cover: SACHI",
   "name": "New Dance Beats",
   "tracks": [
     {
@@ -2231,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Pure Devotion",
+        "url": "https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195285,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
+    },
+    {
+      "album": {
         "name": "After You (feat. FAANGS)",
         "url": "https://open.spotify.com/album/2RabLUJKd1jpDS9NbojepU"
       },
@@ -3342,7 +3360,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 183682,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1hpFRo4tvWvcKR4fQwPvqz"
@@ -10510,7 +10528,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 181185,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/3L8B3G1GPRiN3a4RET63rL"
@@ -12238,6 +12256,36 @@
       "duration_ms": 172727,
       "name": "Can't Deny It",
       "url": "https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ"
+    },
+    {
+      "album": {
+        "name": "Can't Fit In",
+        "url": "https://open.spotify.com/album/5NPEOUKNNug2BHNTrqIlds"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        },
+        {
+          "name": "Kingstarlight",
+          "url": "https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179945,
+      "name": "Can't Fit In",
+      "url": "https://open.spotify.com/track/2AYqs8XQ5fGMJZlAlunvRX"
     },
     {
       "album": {
@@ -17434,6 +17482,24 @@
       "duration_ms": 278154,
       "name": "Damaged Goods",
       "url": "https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV"
+    },
+    {
+      "album": {
+        "name": "Damager",
+        "url": "https://open.spotify.com/album/6EKtSv8zBOW3XHyhHlj9ct"
+      },
+      "artists": [
+        {
+          "name": "Lowbrain",
+          "url": "https://open.spotify.com/artist/3GPYxTFTrtFQPS8MzJVhek"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188489,
+      "name": "Damager",
+      "url": "https://open.spotify.com/track/1kAhxL1f93s3FopOlplqbx"
     },
     {
       "album": {
@@ -24338,7 +24404,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 221383,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/4V3EtdgvklTDTMBuGveFGS"
@@ -25268,7 +25334,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 165105,
       "name": "Feel For You",
       "url": "https://open.spotify.com/track/5erP6H73cDKlE3ChJz3KCt"
@@ -29338,7 +29404,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 201521,
       "name": "Funk Drunk",
       "url": "https://open.spotify.com/track/19h72fx2iP7Y4Xvct4x7Fs"
@@ -30006,6 +30072,28 @@
       "duration_ms": 150344,
       "name": "Get Shaky",
       "url": "https://open.spotify.com/track/4SpNPuNZ1wXN8tixk1Jgc4"
+    },
+    {
+      "album": {
+        "name": "Get Shaky",
+        "url": "https://open.spotify.com/album/2QBBTLp8egbbcx4ZFn11oJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Hunt",
+          "url": "https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf"
+        },
+        {
+          "name": "Carter Walsh",
+          "url": "https://open.spotify.com/artist/5JL7mddmhq9K6dZqEaAyHG"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179342,
+      "name": "Get Shaky",
+      "url": "https://open.spotify.com/track/31lQj7xMCEBA1bOwXVu7Pn"
     },
     {
       "album": {
@@ -31210,7 +31298,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 187297,
       "name": "Going Existential In The Rave",
       "url": "https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0"
@@ -36572,7 +36660,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 199858,
       "name": "Human (Feat. John Martin)",
       "url": "https://open.spotify.com/track/426LH4RVp0WvxX69NQCTGl"
@@ -39032,7 +39120,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 201520,
       "name": "If Ya Know",
       "url": "https://open.spotify.com/track/1ywXyZT1gVukeig10Ly0L7"
@@ -46999,6 +47087,28 @@
     },
     {
       "album": {
+        "name": "Love Sensation",
+        "url": "https://open.spotify.com/album/4b0rAUWZJA6s3RQC3zIguc"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374410,
+      "name": "Love Sensation - Afterhours Mix",
+      "url": "https://open.spotify.com/track/5nxpg2Yvg8286aJ6L6w7DD"
+    },
+    {
+      "album": {
         "name": "Love Somebody",
         "url": "https://open.spotify.com/album/48D4yO08LDoMC6BkJfyJDO"
       },
@@ -48666,7 +48776,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 196686,
       "name": "Massive (feat. Uffie)",
       "url": "https://open.spotify.com/track/53aykf6d6UVPFqpHeJxQIF"
@@ -52054,6 +52164,24 @@
       "duration_ms": 178153,
       "name": "My Own Thang (To The Beat)",
       "url": "https://open.spotify.com/track/675XtSIBWY5q5D5lxdp40M"
+    },
+    {
+      "album": {
+        "name": "My People",
+        "url": "https://open.spotify.com/album/6ypD23tp3wECaBpN14ATKD"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164317,
+      "name": "My People",
+      "url": "https://open.spotify.com/track/0IMnvDOnuuBvPWeZoiPVXC"
     },
     {
       "album": {
@@ -59954,7 +60082,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 189077,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/2D6N5vMsHCHzCaPDZZzfYV"
@@ -61411,6 +61539,28 @@
     },
     {
       "album": {
+        "name": "Put It On",
+        "url": "https://open.spotify.com/album/6GqrnbNzMfdC1xptE8Fm0F"
+      },
+      "artists": [
+        {
+          "name": "Just For Fun",
+          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
+        },
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232616,
+      "name": "Put It On",
+      "url": "https://open.spotify.com/track/0m8snJeote0c7mfV150PK2"
+    },
+    {
+      "album": {
         "name": "Put That Banger On Next",
         "url": "https://open.spotify.com/album/1MNMB9fCDWKHW5bA4iSgCy"
       },
@@ -62006,6 +62156,24 @@
       "duration_ms": 141176,
       "name": "Rave To The Grave",
       "url": "https://open.spotify.com/track/3cTncddIg0cBjuwPRlew0r"
+    },
+    {
+      "album": {
+        "name": "Ravers",
+        "url": "https://open.spotify.com/album/4jLIjmfkRz1jIZinv6BtFU"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206272,
+      "name": "Ravers",
+      "url": "https://open.spotify.com/track/5oVbId7tF4pAwQYN9t4v0B"
     },
     {
       "album": {
@@ -64186,7 +64354,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 215930,
       "name": "Rollin",
       "url": "https://open.spotify.com/track/5o7ZSTA0Grlc2dOwATEONk"
@@ -65842,6 +66010,24 @@
       "duration_ms": 242076,
       "name": "Say It To Me",
       "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
+    },
+    {
+      "album": {
+        "name": "Say More",
+        "url": "https://open.spotify.com/album/4wC4ICBkDThSb5ughE7g5q"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265821,
+      "name": "Say More",
+      "url": "https://open.spotify.com/track/05bxSphYo33P4gSAu7QiQD"
     },
     {
       "album": {
@@ -74005,6 +74191,28 @@
     },
     {
       "album": {
+        "name": "SYW (feat. Cecile Believe)",
+        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "SYW (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
+    },
+    {
+      "album": {
         "name": "TAKA",
         "url": "https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40"
       },
@@ -77644,7 +77852,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 176228,
       "name": "Think I Am",
       "url": "https://open.spotify.com/track/6H7Qr6HvsSpCVbn8EIjb4n"
@@ -83483,6 +83691,24 @@
     },
     {
       "album": {
+        "name": "We Not Tired",
+        "url": "https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172921,
+      "name": "We Not Tired",
+      "url": "https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH"
+    },
+    {
+      "album": {
         "name": "We Own The Night (feat. Chandan Shetty) [RCB Anthem]",
         "url": "https://open.spotify.com/album/5QAqZusJWVUs4EVadWu1Oc"
       },
@@ -83887,7 +84113,7 @@
     },
     {
       "album": {
-        "name": "What A Life (feat. Florence Arman)",
+        "name": "What A Life",
         "url": "https://open.spotify.com/album/4hBfeHsWFWOzy0Hi4RXusR"
       },
       "artists": [
@@ -83904,7 +84130,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189398,
-      "name": "What A Life (feat. Florence Arman)",
+      "name": "What A Life",
       "url": "https://open.spotify.com/track/17Yb6SqefJod2ANofe8kZg"
     },
     {

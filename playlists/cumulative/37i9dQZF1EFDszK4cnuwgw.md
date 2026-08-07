@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-100 songs - 5 hr 17 min
+101 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Aye Day Pay Day](https://open.spotify.com/track/4FRldwNovP8muUNJi0TifE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Aye Day Pay Day](https://open.spotify.com/album/2nln0OkUaKQIoPrirm15ZY) | 2:12 | 2024-06-13 |  |
 | [B.B.B.](https://open.spotify.com/track/5nL3Znmt9VaTg5cRsj1cMi) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Kween](https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM) | 2:35 | 2026-06-19 |  |
 | [Bad Bitch Anthem](https://open.spotify.com/track/0pq5dsJfIhJ7G5jMWcl5GP) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 2:39 | 2024-06-13 |  |
-| [Beat Box \(feat\. Young M.A\) \- Freestyle](https://open.spotify.com/track/67RGFObGLxBAJDLrukSusE) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Beat Box \(feat\. Young M.A\) \[Freestyle\]](https://open.spotify.com/album/7FE3YIWEmLjcVIubyIWAS3) | 3:29 | 2024-06-13 |  |
+| [Beat Box](https://open.spotify.com/track/3wCx8pwK7J1LVe13dFXjPm) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Beat Box](https://open.spotify.com/album/3ZrmqgaJ6LzRstwWe3k9si) | 1:50 | 2026-08-06 |  |
+| [Beat Box \(feat\. Young M.A\) \- Freestyle](https://open.spotify.com/track/67RGFObGLxBAJDLrukSusE) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Beat Box \(feat\. Young M.A\) \[Freestyle\]](https://open.spotify.com/album/7FE3YIWEmLjcVIubyIWAS3) | 3:29 | 2024-06-13 | 2026-08-07 |
 | [Beautiful Pain](https://open.spotify.com/track/6p3NQ3PE8k1FUdSSLMoOUC) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Kween](https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM) | 2:44 | 2026-06-19 |  |
 | [BIG](https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:45 | 2024-06-13 |  |
 | [Big Steppa](https://open.spotify.com/track/7ykQl8nuiITtSkKH3eTvcG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:14 | 2024-06-13 |  |

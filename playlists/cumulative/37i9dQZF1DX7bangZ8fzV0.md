@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Bernice West en Barto
+> Net die beste Afrikaanse musiek! Omslag: Karlien Van Jaarsveld en Zaan Sonnekus
 
-400 songs - 22 hr 4 min
+401 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 | 2025-09-25 |  |
 | [NIKS OM OOR HUIS TOE TE SKRYF NIE](https://open.spotify.com/track/6rUJ1EiVhylKHZTEeqOV05) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [NIKS OM OOR HUIS TOE TE SKRYF NIE](https://open.spotify.com/album/2wmWlHaZ0TgQ6SkymBEgSK) | 2:58 | 2023-06-29 | 2023-07-21 |
 | [Nommer Hou](https://open.spotify.com/track/57OTW0AVZzCVowuqFQyryQ) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Nommer Hou](https://open.spotify.com/album/4M4W4MIDgja1IM0aK5u1Mj) | 3:06 | 2025-07-24 | 2025-10-02 |
-| [Nonna](https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Patriot](https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM) | 3:23 | 2023-03-09 |  |
+| [Nonna](https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Patriot](https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM) | 3:23 | 2023-03-09 | 2026-08-07 |
 | [Nonna](https://open.spotify.com/track/7FZGY1vyOFGvPNeeKDEzBl) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Afrikaans Is Groot, Vol\. 13 \(Deluxe Uitgawe\)](https://open.spotify.com/album/02h1bL3h2aIViJ3NZVQp54) | 3:23 | 2024-02-15 | 2024-04-27 |
 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 | 2022-12-08 | 2024-06-21 |
 | [Nou Raak Dit Lekker](https://open.spotify.com/track/3tSXiJtOuS51swYUuW8y16) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t) | [Nou Raak Dit Lekker](https://open.spotify.com/album/297pJLze89iTiAwJbm1Fyx) | 3:02 | 2025-01-02 | 2025-02-07 |
@@ -407,6 +407,7 @@
 | [Witblits](https://open.spotify.com/track/1MJagJs7aC4UJYZK3j5iIO) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Witblits](https://open.spotify.com/album/1j0JxyVmQLkrFIZRY4m9xT) | 3:07 | 2022-07-07 | 2023-03-25 |
 | [Witblits](https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:07 | 2023-03-09 | 2026-07-31 |
 | [Wynland](https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Wynland](https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS) | 2:41 | 2023-06-03 | 2025-11-11 |
+| [Yippee\-Ki\-Yay](https://open.spotify.com/track/4kF7Z6BsBpcuQQCJTiazsP) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Yippee\-Ki\-Yay](https://open.spotify.com/album/3jP9jmpIdtFrayt50gd6FR) | 3:40 | 2026-08-06 |  |
 | [Yskas Skuif](https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Yskas Skuif](https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ) | 3:24 | 2024-11-21 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

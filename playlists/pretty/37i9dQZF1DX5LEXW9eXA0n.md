@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: sunwoojunga\(선우정아\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,211 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,188 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [When It’s Called Love](https://open.spotify.com/track/6iDfmFtNZGtXnpok8E7kbS) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON Digital Single ‘When It’s Called Love’](https://open.spotify.com/album/5cXFzlzAkJjKZU6mys5NEV) | 2:50 |
 | 100 | [Stay here with me](https://open.spotify.com/track/14CBiz2JfZUOVWINmQJSnO) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Stay here with me](https://open.spotify.com/album/4i9kZ248naIF315HIh8mrA) | 3:04 |
 
-Snapshot ID: `AAAAAI01A6szVeoZDzSU4adQkXcgFi6c`
+Snapshot ID: `AAAAAIukoB7TzvddZFoteL1XEi1YHUpi`

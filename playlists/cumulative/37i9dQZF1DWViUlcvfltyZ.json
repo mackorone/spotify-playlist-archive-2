@@ -4021,6 +4021,24 @@
     },
     {
       "album": {
+        "name": "Bright Shadow",
+        "url": "https://open.spotify.com/album/5N4jBQJChdxcRStqrn1GQS"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bison",
+          "url": "https://open.spotify.com/artist/0TE7bBoZ1pF0yjfmxlFFwz"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433333,
+      "name": "Bright Shadow",
+      "url": "https://open.spotify.com/track/1GUUcTv3qVUIZhi21a64Ud"
+    },
+    {
+      "album": {
         "name": "Brilla",
         "url": "https://open.spotify.com/album/5PxxsDsiDpxzLdDtJf8YAS"
       },
@@ -26478,7 +26496,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 215456,
       "name": "Prima pioggia",
       "url": "https://open.spotify.com/track/3Qmxe8yaTPz3bXIyHiZ6d3"

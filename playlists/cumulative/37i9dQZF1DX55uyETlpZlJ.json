@@ -2369,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Charged Up",
+        "url": "https://open.spotify.com/album/4udiyEwX8oKNTjnfa8leQx"
+      },
+      "artists": [
+        {
+          "name": "Rohan San",
+          "url": "https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191711,
+      "name": "Charged Up",
+      "url": "https://open.spotify.com/track/5OBsXBUxcpLGUuBsDNLq6D"
+    },
+    {
+      "album": {
         "name": "Chii",
         "url": "https://open.spotify.com/album/4KyidUqwKaQKzYs1OGVSPJ"
       },

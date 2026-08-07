@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Kings Elliot
 
-572 songs - 1 day 5 hr 43 min
+574 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Human](https://open.spotify.com/track/23LdwA5JFwn6416UxOPfH8) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Human](https://open.spotify.com/album/50cF2MeZrL5vVnoavsDBDW) | 3:28 | 2025-09-25 | 2026-02-20 |
 | [Hurricane](https://open.spotify.com/track/32J5dIL3ougXNls1bpxm0Y) | [SOLEROY](https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM) | [Hurricane](https://open.spotify.com/album/63obpfI1ml9lYY0MxFyvXI) | 3:01 | 2026-02-12 |  |
 | [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 | 2024-06-27 | 2025-05-09 |
+| [Hurry up and Wait](https://open.spotify.com/track/4UwRZVAyydIORHHzebnerV) | [Lovebugs](https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89) | [Hurry up and Wait](https://open.spotify.com/album/1wiPjvPlhIcCtcWU5RNbnp) | 4:22 | 2026-08-06 |  |
 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 | 2024-06-27 | 2026-03-20 |
 | [Hör mir noch einmal zu](https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Schwarz auf Grün](https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5) | 2:26 | 2024-10-03 | 2024-10-24 |
 | [I han es Zündhölzli azündt](https://open.spotify.com/track/1BgnJyDB7jEYoAMpHqKbcn) | [Mani Matter](https://open.spotify.com/artist/7wkPBPwF9oOZJ8lEbQjIVt) | [I han es Zündhölzli azündt](https://open.spotify.com/album/04MiVKnlpaFvjQY0LBLmry) | 1:33 | 2025-05-08 | 2025-05-16 |
@@ -493,7 +494,7 @@
 | [The World \(AR\)](https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [The World \(AR\)](https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6) | 3:47 | 2025-11-06 |  |
 | [The Wrong Cards](https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [The Wrong Cards](https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA) | 2:54 | 2025-06-05 | 2025-11-28 |
 | [The Years of the in Between](https://open.spotify.com/track/1pHCmwclPk8KYrOgTZURp3) | [Nick Mellow](https://open.spotify.com/artist/2Ltz77e0WzkbszFytIy6SY) | [The Years of the in Between](https://open.spotify.com/album/3QrpI4Li79r7iWo0xGKxuR) | 3:01 | 2025-09-19 | 2025-09-26 |
-| [Therapist](https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5) | [Malummí](https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl) | [Damaged By Their Silence](https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI) | 4:31 | 2026-03-12 |  |
+| [Therapist](https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5) | [Malummí](https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl) | [Damaged By Their Silence](https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI) | 4:31 | 2026-03-12 | 2026-08-07 |
 | [There For You](https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [There For You](https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv) | 3:25 | 2025-11-20 |  |
 | [theremin](https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [theremin](https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1) | 2:41 | 2024-11-01 | 2025-01-12 |
 | [These Walls](https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [These Walls](https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g) | 3:04 | 2026-01-23 |  |
@@ -505,6 +506,7 @@
 | [Tontauben](https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Tontauben](https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z) | 3:16 | 2025-03-21 |  |
 | [Too Late](https://open.spotify.com/track/3ujKtX9veDSd8L7xsghjx3) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Too Late](https://open.spotify.com/album/47Klgsbt8GiMzK2c7N5xrU) | 3:06 | 2025-07-10 | 2025-10-05 |
 | [Too Long Ago](https://open.spotify.com/track/0QfqAcgO0LKS3c8eLw9G01) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Too Long Ago](https://open.spotify.com/album/1iisgK1KPYxkG3Oa10R6Zl) | 2:42 | 2025-10-16 | 2025-10-20 |
+| [Too Tired](https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Too Tired](https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX) | 3:51 | 2026-08-06 |  |
 | [torn](https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [torn](https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW) | 2:43 | 2024-06-27 | 2024-10-04 |
 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 | 2025-04-24 | 2025-05-02 |
 | [Toti Chatz](https://open.spotify.com/track/5K1QCmyfRpGylVR3Cj6Gj6) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Toti Chatz](https://open.spotify.com/album/6kWFAwpZ9L7wd9FeZH6v7v) | 3:30 | 2025-04-24 | 2025-05-02 |
@@ -537,7 +539,7 @@
 | [Warrior](https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Warrior](https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa) | 2:28 | 2024-10-11 | 2025-02-04 |
 | [Was Hokksch](https://open.spotify.com/track/2a1KfNrr4wKFNyOxtkn0sb) | [Melina Nora](https://open.spotify.com/artist/0vUj7AXRiRVgGy700ZFSgF) | [Was Hokksch](https://open.spotify.com/album/6wc04duGz2asgmo4tu8G7U) | 3:07 | 2025-04-17 | 2025-04-25 |
 | [was wir möchten](https://open.spotify.com/track/3VTUfB1bU4ojHwBXkWZWem) | [bennet](https://open.spotify.com/artist/69fTTPnlYWytPTTN8zBZgw) | [was wir möchten](https://open.spotify.com/album/36CvDiiGbtrJUbvmI8CB5k) | 2:06 | 2024-08-09 | 2024-09-10 |
-| [Wash My Pain Away](https://open.spotify.com/track/0O5WTZ1HqTHLWWBsDwP5VS) | [Femi Luna](https://open.spotify.com/artist/76e5g5LPWUlEHtTjKwSfsW) | [Wash My Pain Away](https://open.spotify.com/album/18C1zHsomKERvtv69EzVak) | 2:53 | 2026-04-16 |  |
+| [Wash My Pain Away](https://open.spotify.com/track/0O5WTZ1HqTHLWWBsDwP5VS) | [Femi Luna](https://open.spotify.com/artist/76e5g5LPWUlEHtTjKwSfsW) | [Wash My Pain Away](https://open.spotify.com/album/18C1zHsomKERvtv69EzVak) | 2:53 | 2026-04-16 | 2026-08-07 |
 | [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 | 2024-06-27 |  |
 | [Wasting Gold](https://open.spotify.com/track/40AAaGE7ajARCdyLuBhH3F) | [Lunik](https://open.spotify.com/artist/14Rprm0mUuQI7kXnC9fF3I) | [Wasting Gold](https://open.spotify.com/album/0gGdiFdGZzkyds8L2Sc33a) | 3:43 | 2026-02-05 | 2026-02-27 |
 | [Water Sign](https://open.spotify.com/track/2mzpqasElvXCZWk4mRrY2R) | [Taender](https://open.spotify.com/artist/0IIpoKeAICGwEouaLmrjci) | [Water Sign](https://open.spotify.com/album/3yVbzkOjfKQaSRxm8TOtsK) | 3:31 | 2025-04-17 | 2025-04-25 |

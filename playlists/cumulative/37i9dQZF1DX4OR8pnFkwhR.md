@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: kurayamisaka
 
-2,383 songs - 6 day 0 hr 53 min
+2,384 songs - 6 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -829,7 +829,7 @@
 | [My Little Ginger](https://open.spotify.com/track/5u13n1FMmKdf0EErfPdXXr) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl) | [Fragile Thing](https://open.spotify.com/album/3UmXlKtA5i7oE3xRIKsXmC) | 3:58 | 2025-07-22 | 2025-11-19 |
 | [My Mutant Ride \(feat\. 柴田聡子 & TAKU INOUE\)](https://open.spotify.com/track/2jXy46Txmlx5cSzKrTHzna) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:03 | 2025-01-09 | 2025-09-11 |
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-01-12 | 2023-04-05 |
-| [My Rhapsody](https://open.spotify.com/track/33qPdOgz1EmgmAMJeDbfIw) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [My Rhapsody](https://open.spotify.com/album/0pSdQr09yMSnExMSEvjlj3) | 4:32 | 2026-05-12 |  |
+| [My Rhapsody](https://open.spotify.com/track/33qPdOgz1EmgmAMJeDbfIw) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [My Rhapsody](https://open.spotify.com/album/0pSdQr09yMSnExMSEvjlj3) | 4:32 | 2026-05-12 | 2026-08-07 |
 | [My Samba \(feat\. Skaai\)](https://open.spotify.com/track/22vlyrI5cI6bnyCg2suFFs) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [My Samba \(feat\. Skaai\)](https://open.spotify.com/album/53Y6SKRMpcTFjHDavqEyV6) | 3:15 | 2026-01-27 | 2026-03-18 |
 | [N o o N](https://open.spotify.com/track/34p27cOsC6Y6FBNEAoHMkU) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [N o o N](https://open.spotify.com/album/5il9QjoszOMgc3H7S4OTTP) | 3:19 | 2022-02-17 | 2022-03-09 |
 | [n+1](https://open.spotify.com/track/4cqhx5Uu8PiOrgbSesIdrs) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [n+1](https://open.spotify.com/album/7hw0G861cF3p6co2EZCW01) | 3:36 | 2024-10-29 | 2024-12-11 |
@@ -1018,6 +1018,7 @@
 | [Red Lights](https://open.spotify.com/track/1M7FWAED7yPzGhRaZwtol6) | [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4) | [Red Lights](https://open.spotify.com/album/251iGxnvDjU1Kl8wruMS4n) | 2:50 | 2025-08-05 | 2025-11-05 |
 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-09-12 | 2023-11-08 |
 | [relief](https://open.spotify.com/track/4csYt589RX2gFLzCATie2v) | [春風レコード](https://open.spotify.com/artist/22XYJGn2ZmvGfY2FOwTfeD) | [relief](https://open.spotify.com/album/3rkVNqoCz1xdB63zAgS5lS) | 3:03 | 2025-02-25 | 2025-03-26 |
+| [REM](https://open.spotify.com/track/2ap4cu2SyRJyqFBeZWck0s) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [REM](https://open.spotify.com/album/5hhXdMgzGkgjYDJyc8pQiR) | 3:05 | 2026-08-06 |  |
 | [Remedy](https://open.spotify.com/track/6SmMxxyfp0KnQ09PrX7Jtb) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Remedy](https://open.spotify.com/album/71UDGPHFGxJ0SuzyMcKzvT) | 3:27 | 2025-05-13 | 2025-05-21 |
 | [remember](https://open.spotify.com/track/1N3aRV3skqgOkKmjyPkoH8) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [remember](https://open.spotify.com/album/1gYO2DYihDGB14Wm7KnbFJ) | 2:53 | 2026-01-15 | 2026-01-28 |
 | [Remember Summer Love](https://open.spotify.com/track/2bROm2JsrFREGHFnF57tqh) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Remember Summer Love](https://open.spotify.com/album/0nAExno0K5Vd6NITbAurD4) | 3:50 | 2025-08-06 | 2025-09-26 |

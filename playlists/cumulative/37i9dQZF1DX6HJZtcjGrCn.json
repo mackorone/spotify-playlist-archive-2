@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: M1ke, Ze Maria",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Jasmim",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -1432,6 +1432,24 @@
       "duration_ms": 258041,
       "name": "Cara Podre",
       "url": "https://open.spotify.com/track/4Gu5ixQt28pRRdHOCPZpjO"
+    },
+    {
+      "album": {
+        "name": "Caracol",
+        "url": "https://open.spotify.com/album/1DX0FocG7uPcYIrkpERGNg"
+      },
+      "artists": [
+        {
+          "name": "Jasmim",
+          "url": "https://open.spotify.com/artist/6mlXL4N89h0PDcPSQPCKbc"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176402,
+      "name": "Caracol",
+      "url": "https://open.spotify.com/track/2TOLW6pFjPtBkzLPWJCkgd"
     },
     {
       "album": {
@@ -3184,6 +3202,28 @@
       "duration_ms": 204233,
       "name": "First Light",
       "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
+    },
+    {
+      "album": {
+        "name": "Floette ft. John Glacier",
+        "url": "https://open.spotify.com/album/6CQ0DN6ovZhxyECQwmqwrJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192212,
+      "name": "Floette ft. John Glacier",
+      "url": "https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9"
     },
     {
       "album": {
@@ -6162,7 +6202,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 190213,
       "name": "Notting Hill",
       "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
@@ -8670,7 +8710,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 216964,
       "name": "The Hudson",
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"

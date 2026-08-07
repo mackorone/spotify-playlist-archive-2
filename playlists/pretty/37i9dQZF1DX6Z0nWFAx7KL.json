@@ -1,12 +1,12 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 168121,
+  "num_followers": 168112,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOPd4+G40D7cUlqFMslKcpGeZerT",
+  "snapshot_id": "AAAAABtWArWOd9+xm2TeVnS42Fkh4ggf",
   "tracks": [
     {
       "added_at": "2026-06-08 07:23:44",
@@ -135,18 +135,18 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/44ttbL2Fz4egisPoRcNnkk"
+        "name": "Body To Body",
+        "url": "https://open.spotify.com/album/6JERuxCyACZD96Jd8ifyWs"
       },
       "artists": [
         {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+          "name": "Jorden Dux",
+          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Anywhere You Go",
-      "url": "https://open.spotify.com/track/6OzdWQeYMHqXsINla4BgP8"
+      "duration_ms": 165725,
+      "name": "Body To Body",
+      "url": "https://open.spotify.com/track/0n8zKkpwdnWk23ovyAF2cO"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Body To Body",
-        "url": "https://open.spotify.com/album/6JERuxCyACZD96Jd8ifyWs"
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/44ttbL2Fz4egisPoRcNnkk"
       },
       "artists": [
         {
-          "name": "Jorden Dux",
-          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
         }
       ],
-      "duration_ms": 165725,
-      "name": "Body To Body",
-      "url": "https://open.spotify.com/track/0n8zKkpwdnWk23ovyAF2cO"
+      "duration_ms": 180480,
+      "name": "Anywhere You Go",
+      "url": "https://open.spotify.com/track/6OzdWQeYMHqXsINla4BgP8"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "Locked In Paradise",
+        "url": "https://open.spotify.com/album/3ruNkQX7OX7lXxhkiFiGzd"
+      },
+      "artists": [
+        {
+          "name": "KNJA",
+          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Locked In Paradise",
+      "url": "https://open.spotify.com/track/6z6Wyf1By6TZEXs5aBiU9U"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "Under The Same Sun",
         "url": "https://open.spotify.com/album/309NyVvA8HXRov57v0PMaP"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 157500,
       "name": "Under The Same Sun",
       "url": "https://open.spotify.com/track/6jaHe3gyK9hS6DYpmvVlam"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Locked In Paradise",
-        "url": "https://open.spotify.com/album/3ruNkQX7OX7lXxhkiFiGzd"
-      },
-      "artists": [
-        {
-          "name": "KNJA",
-          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Locked In Paradise",
-      "url": "https://open.spotify.com/track/6z6Wyf1By6TZEXs5aBiU9U"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "Need A Break",
+        "url": "https://open.spotify.com/album/3ayu0iDvhYm0QEP7G2tO2j"
+      },
+      "artists": [
+        {
+          "name": "MAKS (FR)",
+          "url": "https://open.spotify.com/artist/0C3AuNGBY39ioSTA79TzMz"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Need A Break",
+      "url": "https://open.spotify.com/track/0est3WrsDX02oU8CumrLpz"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/38siYOqyNabvKqGmmermGx"
       },
@@ -863,26 +879,6 @@
       "duration_ms": 151153,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/3uXUraey5i1oKa3yYnOTia"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Wait No More",
-        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
-      },
-      "artists": [
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Lost Ways",
-          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
-        }
-      ],
-      "duration_ms": 142956,
-      "name": "Wait No More",
-      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -911,22 +907,6 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Need A Break",
-        "url": "https://open.spotify.com/album/3ayu0iDvhYm0QEP7G2tO2j"
-      },
-      "artists": [
-        {
-          "name": "MAKS (FR)",
-          "url": "https://open.spotify.com/artist/0C3AuNGBY39ioSTA79TzMz"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Need A Break",
-      "url": "https://open.spotify.com/track/0est3WrsDX02oU8CumrLpz"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
         "name": "You Have To Have A Goal",
         "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
       },
@@ -939,6 +919,46 @@
       "duration_ms": 133924,
       "name": "You Have To Have A Goal",
       "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Wait No More",
+        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Lost Ways",
+          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
+        }
+      ],
+      "duration_ms": 142956,
+      "name": "Wait No More",
+      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/65SfjWg7fnUSzwGN9MuJd9"
+      },
+      "artists": [
+        {
+          "name": "Starzun",
+          "url": "https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4"
+        },
+        {
+          "name": "Vitaly Gray",
+          "url": "https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8"
+        }
+      ],
+      "duration_ms": 129901,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/3PJbCJqnh9ShH17iE8k8lJ"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -967,26 +987,6 @@
       "duration_ms": 172398,
       "name": "All In One",
       "url": "https://open.spotify.com/track/20vOpfuWTquWZzqHX5kMYP"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/65SfjWg7fnUSzwGN9MuJd9"
-      },
-      "artists": [
-        {
-          "name": "Starzun",
-          "url": "https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4"
-        },
-        {
-          "name": "Vitaly Gray",
-          "url": "https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8"
-        }
-      ],
-      "duration_ms": 129901,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/3PJbCJqnh9ShH17iE8k8lJ"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Beats & Pieces II",
-        "url": "https://open.spotify.com/album/0yQHW3TPiuNdfWvkumo4ac"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 278217,
-      "name": "Iajo",
-      "url": "https://open.spotify.com/track/70QunfArMKaFnMKTzv2C9x"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
         "name": "Full Speed",
         "url": "https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq"
       },
@@ -1075,26 +1055,42 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Eyes All Over Mine",
-        "url": "https://open.spotify.com/album/2sin8txJflst7fhouxDKy6"
+        "name": "Beats & Pieces II",
+        "url": "https://open.spotify.com/album/0yQHW3TPiuNdfWvkumo4ac"
       },
       "artists": [
         {
-          "name": "Dawty",
-          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         },
         {
-          "name": "Joshua Robbie",
-          "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
-        },
-        {
-          "name": "Preston Harris",
-          "url": "https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8"
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
         }
       ],
-      "duration_ms": 152943,
-      "name": "Eyes All Over Mine",
-      "url": "https://open.spotify.com/track/2IWHXB8dwvZR8cfdOx172B"
+      "duration_ms": 278217,
+      "name": "Iajo",
+      "url": "https://open.spotify.com/track/70QunfArMKaFnMKTzv2C9x"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Young Forever",
+        "url": "https://open.spotify.com/album/0QeT4JzH46XY7cTTTD6tkR"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        },
+        {
+          "name": "Flip Flop Joe",
+          "url": "https://open.spotify.com/artist/4mEoZalalxfXjM63DMaJmA"
+        }
+      ],
+      "duration_ms": 137739,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/2GnOlapaZMJ0swQynBCs8Q"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -1119,22 +1115,26 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Young Forever",
-        "url": "https://open.spotify.com/album/0QeT4JzH46XY7cTTTD6tkR"
+        "name": "Eyes All Over Mine",
+        "url": "https://open.spotify.com/album/2sin8txJflst7fhouxDKy6"
       },
       "artists": [
         {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+          "name": "Dawty",
+          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
         },
         {
-          "name": "Flip Flop Joe",
-          "url": "https://open.spotify.com/artist/4mEoZalalxfXjM63DMaJmA"
+          "name": "Joshua Robbie",
+          "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
+        },
+        {
+          "name": "Preston Harris",
+          "url": "https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8"
         }
       ],
-      "duration_ms": 137739,
-      "name": "Young Forever",
-      "url": "https://open.spotify.com/track/2GnOlapaZMJ0swQynBCs8Q"
+      "duration_ms": 152943,
+      "name": "Eyes All Over Mine",
+      "url": "https://open.spotify.com/track/2IWHXB8dwvZR8cfdOx172B"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -1207,22 +1207,18 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/3qt6VmrM2TqtaU5dhSi847"
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/4qxBwTSqsUTIy0NnThwvcE"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        },
-        {
-          "name": "Hyce",
-          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
         }
       ],
-      "duration_ms": 170297,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/5i3fyz5jSbt0YEMR9qrLbo"
+      "duration_ms": 144412,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/3YyyrX4LkrEVTm5rFX3PBG"
     }
   ],
   "unique_name": "Chill Dance",

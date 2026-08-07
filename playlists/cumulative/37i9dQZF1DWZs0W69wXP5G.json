@@ -1471,6 +1471,40 @@
     },
     {
       "album": {
+        "name": "Fire! - It's the London Life",
+        "url": "https://open.spotify.com/album/03N2fh99EjwriBHczE4qpH"
+      },
+      "artists": [
+        {
+          "name": "Richard Brown",
+          "url": "https://open.spotify.com/artist/4D57ApL3ZxruHW4hpWz7dT"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Annabelle Brown",
+          "url": "https://open.spotify.com/artist/6eulPqSsrUOUUF6Jie8pk6"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/15pWO3o9TcfhnpTPdNUjo4"
+        },
+        {
+          "name": "Benjamin Pope",
+          "url": "https://open.spotify.com/artist/7F8hlosgvfdCq4ynTBsfyU"
+        }
+      ],
+      "date_added": "2026-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136306,
+      "name": "Fire! - It's the London Life",
+      "url": "https://open.spotify.com/track/3JABa5GWfi66wT2AjqqTXd"
+    },
+    {
+      "album": {
         "name": "Wild About You (World Premiere Recording)",
         "url": "https://open.spotify.com/album/6cUSDnALTsDCfCUz7F1qi9"
       },

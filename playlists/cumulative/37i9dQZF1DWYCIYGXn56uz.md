@@ -2,15 +2,15 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> 6 🤷🏼‍♂️7 //  22simba in cover
+> 6 🤷🏼‍♂️7 //  Madame in cover
 
-1,219 songs - 2 day 8 hr 54 min
+1,221 songs - 2 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#cannavaro](https://open.spotify.com/track/1GbuCcP5T7MM6qIY3A8LWQ) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L), [Pentola](https://open.spotify.com/artist/3K4rEZFW6Y93pEXaOtlSJM) | [\#cannavaro](https://open.spotify.com/album/3blrfGD0QaVacdmiXURSTu) | 2:03 | 2026-07-23 |  |
 | [+LOVE](https://open.spotify.com/track/6nB7LNZAhKUy21dLYyxLwa) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Dicono che tutte le cose belle poi finiscono](https://open.spotify.com/album/0GvR494NESoa7lpDgsB4ql) | 2:28 | 2026-05-14 | 2026-07-10 |
-| [10 LUGLIO](https://open.spotify.com/track/1fk9KUxPPL0r9HJXcgVRyS) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [10 LUGLIO](https://open.spotify.com/album/2B7rGvcvBc5UP379kd4JJv) | 2:34 | 2026-07-09 |  |
+| [10 LUGLIO](https://open.spotify.com/track/1fk9KUxPPL0r9HJXcgVRyS) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [10 LUGLIO](https://open.spotify.com/album/2B7rGvcvBc5UP379kd4JJv) | 2:34 | 2026-07-09 | 2026-08-07 |
 | [100 Sigarette](https://open.spotify.com/track/2OOitJLWO975yrhBRC29dM) | [Trigno](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [100 Sigarette](https://open.spotify.com/album/0n8xLvt6AOl4SDppXjgBXC) | 3:01 | 2025-03-31 | 2026-01-16 |
 | [100MILA COLPI](https://open.spotify.com/track/5pgx6z2KwNwUUAUMGcRHYI) | [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI) | [100MILA COLPI](https://open.spotify.com/album/0HaZnjadcLH3rZqfUYnM0h) | 2:31 | 2026-02-05 | 2026-03-06 |
 | [16 ANNI](https://open.spotify.com/track/1Wenaz8dPS0oMEkkCOXCFS) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [16 ANNI](https://open.spotify.com/album/5FrL7UoJGs5hHKLKE3BSze) | 2:15 | 2026-01-22 | 2026-02-13 |
@@ -131,6 +131,7 @@
 | [Batticuore](https://open.spotify.com/track/7JkwDSroJk0cw9p1Q3VlDe) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Batticuore](https://open.spotify.com/album/0MwE0hjww0qCzjNy23IdGD) | 2:40 | 2025-05-01 | 2025-10-10 |
 | [bby che male c'è](https://open.spotify.com/track/4Qsa3f8CUiehln4zVqLOR8) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [bby che male c'è](https://open.spotify.com/album/4PIENeUrat2Itulcw8OlG7) | 2:29 | 2026-05-07 | 2026-05-29 |
 | [Bel venerdì](https://open.spotify.com/track/7e3L4E70QnI1hierB1Lynk) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione \(Deluxe\)](https://open.spotify.com/album/084PMCGrwjTtiUBD8ITXbg) | 3:11 | 2026-05-07 |  |
+| [Belek](https://open.spotify.com/track/5P0y33C4m5uK9TcMHRnCsL) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Belek](https://open.spotify.com/album/6WyGM8HsbPI3OQSeW9PRB5) | 2:17 | 2026-08-06 |  |
 | [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 | 2023-06-29 | 2024-08-02 |
 | [Bella](https://open.spotify.com/track/5ahyDnrhuLYEKtjZ61iF00) | [Urano](https://open.spotify.com/artist/4boc9WGDp4rS4bObD8WtlU) | [Bella](https://open.spotify.com/album/27GpI3zmiIvkETQKirKqXJ) | 2:11 | 2024-04-04 | 2024-04-19 |
 | [Bella \(ft\. Boro\)](https://open.spotify.com/track/1yBBuN8zzSXkew8qe12Xlt) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [VILLABANKS](https://open.spotify.com/album/1v4ennAZieVxb71tEgpjnZ) | 2:06 | 2023-10-26 | 2023-11-24 |
@@ -142,7 +143,7 @@
 | [Bevendo Fumando](https://open.spotify.com/track/22RkrLiuGv7YGHLl9qTQ3b) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [Bevendo Fumando](https://open.spotify.com/album/2tHziGnrc0Fqge0bXQHclo) | 2:12 | 2025-07-24 | 2025-09-19 |
 | [BIANCA\-PRADA](https://open.spotify.com/track/0j5S4DxU8aMbjo1b0ZemsF) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [BIANCA\-PRADA](https://open.spotify.com/album/0PIy4f1aG1Ap9ltu6OVJDV) | 2:29 | 2025-05-13 | 2025-07-25 |
 | [Bianco luna](https://open.spotify.com/track/2e50IuXTFJQNupiDZSD8Ge) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Universale](https://open.spotify.com/album/7jg6xJn7nWX7ewwruRG8sj) | 3:31 | 2023-06-01 | 2023-06-16 |
-| [Binario Morto](https://open.spotify.com/track/49o7KtRwgmsBBkFHHbdTeR) | [AyEm](https://open.spotify.com/artist/6EmlTOLU2nKoltjhXC1oqS) | [Binario Morto](https://open.spotify.com/album/5Dx7QVdwK1a6sZagYlDMVp) | 2:45 | 2026-07-09 |  |
+| [Binario Morto](https://open.spotify.com/track/49o7KtRwgmsBBkFHHbdTeR) | [AyEm](https://open.spotify.com/artist/6EmlTOLU2nKoltjhXC1oqS) | [Binario Morto](https://open.spotify.com/album/5Dx7QVdwK1a6sZagYlDMVp) | 2:45 | 2026-07-09 | 2026-08-07 |
 | [BLACKOUT](https://open.spotify.com/track/4HKQTz6RoJkFwlFLBAsJqm) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:06 | 2023-09-14 | 2023-10-20 |
 | [Blu Profondo](https://open.spotify.com/track/19mc4e0KrrnjQAUM0KSiVr) | [Tommy Indaco](https://open.spotify.com/artist/7k5IhSViCRasY6a7LWhgx5) | [Blu Profondo](https://open.spotify.com/album/2LrMFU1PrLQnAeQT2s82Sb) | 3:30 | 2025-06-26 | 2025-09-05 |
 | [Blue Sky](https://open.spotify.com/track/3J90t7XbwIsoa43WHbIKEK) | [Anfysia](https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll) | [Blue Sky](https://open.spotify.com/album/04YyyVB1w2l98HJ91R44k3) | 2:52 | 2025-04-24 | 2025-05-23 |
@@ -207,7 +208,7 @@
 | [Cause Perse](https://open.spotify.com/track/7zbLHH0prN66iIognD95F6) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/3aJU4Ey5gJcUOIWwwG40ix) | 2:21 | 2023-03-23 | 2023-05-26 |
 | [CEMENTO](https://open.spotify.com/track/3vB23v6nNjrnXWUgF9BoML) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [CEMENTO](https://open.spotify.com/album/57yOle6fNUZN99nfVM5W1C) | 2:30 | 2025-01-30 | 2025-05-30 |
 | [Cercapersone](https://open.spotify.com/track/2SywfrWnlBy49pkHkLC26J) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Cercapersone](https://open.spotify.com/album/1SYhkoiZ4UDCeoAGWAJEMc) | 3:19 | 2025-06-12 | 2025-07-25 |
-| [Cerotti 2](https://open.spotify.com/track/1lk4rkef1mig1wzy6Xtu1r) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Cerotti 2](https://open.spotify.com/album/6CBzd8AYYDb0EmeoJEZQxZ) | 2:49 | 2026-06-25 |  |
+| [Cerotti 2](https://open.spotify.com/track/1lk4rkef1mig1wzy6Xtu1r) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Cerotti 2](https://open.spotify.com/album/6CBzd8AYYDb0EmeoJEZQxZ) | 2:49 | 2026-06-25 | 2026-08-07 |
 | [Che bella che sei](https://open.spotify.com/track/5hKnSsWTspcGHY7iciiVwT) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [CRICCA](https://open.spotify.com/album/3GUQc2bZUzFlK9MwnrFfWI) | 2:43 | 2023-06-22 | 2023-07-07 |
 | [Che cos'è l'amore ? \- from Billboard Italia "Women in Music"](https://open.spotify.com/track/4Oe6STEZRIeprSX8lhHCeH) | [NICOL](https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg) | [Che cos'è l'amore ? \(from Billboard Italia "Women in Music"\)](https://open.spotify.com/album/3wyE4cwkTAKOzYCIB0WG24) | 2:32 | 2025-11-27 | 2026-01-30 |
 | [CHE FAI](https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [CHE FAI](https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah) | 2:21 | 2023-11-07 | 2024-05-17 |
@@ -1074,6 +1075,7 @@
 | [Te l'avevo detto](https://open.spotify.com/track/0ZUPm1XuImtDZmw2NvoC9L) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Te l'avevo detto](https://open.spotify.com/album/5Sab48rzK75ifp6qpOQi2Z) | 2:52 | 2025-11-06 | 2025-12-05 |
 | [TEMPO \(all the things she said\)](https://open.spotify.com/track/2g8j6NUFxmJmJOiTaR4iCv) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [TEMPO \(all the things she said\)](https://open.spotify.com/album/2Yrm4TpKSLkJBR1BuDgzLI) | 2:49 | 2024-04-18 | 2024-10-04 |
 | [Temporale \(feat\. LILCR & Mida\)](https://open.spotify.com/track/6HKaTiZRaBX9CpZTMYP06E) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Temporale \(feat\. LILCR & Mida\)](https://open.spotify.com/album/2gEv5J4oyuMHo3Nsy9yoYV) | 2:43 | 2026-06-25 |  |
+| [Tequila](https://open.spotify.com/track/78Jaxa2LLQstsGyU0tE8DR) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [PeakLifeNostalgia](https://open.spotify.com/album/3fkZWqll8Trf2fdENAyB9m) | 2:42 | 2026-08-06 |  |
 | [Terapia 3, feat Chi C'era](https://open.spotify.com/track/75aMyprbVkQqeFpZ1k68J2) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Terapia 3, feat Chi C'era](https://open.spotify.com/album/1ixmUYWi5vUiSK63DFQu8h) | 3:18 | 2026-02-05 | 2026-03-06 |
 | [testa a posto](https://open.spotify.com/track/1p8wFMI8mZcdmQeMP56FBl) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [testa a posto](https://open.spotify.com/album/3oKp6EE6NXHv04vYkJPee0) | 2:17 | 2026-02-12 | 2026-03-27 |
 | [Testa o Croce](https://open.spotify.com/track/3YrI7ZCMy655cpdMQUWCoE) | [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Testa o Croce](https://open.spotify.com/album/42c4lSMW3xF0ilUS65Kw38) | 2:27 | 2024-07-04 | 2024-10-18 |

@@ -2,9 +2,9 @@
 
 ### [nuovo pop 🇮🇹](https://open.spotify.com/playlist/37i9dQZF1DX2c7QgpQBJFr)
 
-> la nuova scena pop italiana 🇮🇹 cover: Sethu
+> la nuova scena pop italiana 🇮🇹 cover: Rareș
 
-1,488 songs - 2 day 22 hr 59 min
+1,489 songs - 2 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1200,6 +1200,7 @@
 | [Sensazioni ㆆ](https://open.spotify.com/track/6kITcT8VjCMTy7mpWFT6fn) | [DARRN](https://open.spotify.com/artist/7tIRfM2ZxdW5Qz2qVQIpB4) | [Sensazioni ㆆ](https://open.spotify.com/album/0MatjTN53CGvIVuvGn9Kg3) | 3:57 | 2024-09-26 | 2024-10-18 |
 | [Sentimento](https://open.spotify.com/track/1AJIZRupsdAWhuTtWr5XMs) | [Hēir](https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW) | [Sentimento](https://open.spotify.com/album/3hiXS5OWjXuCpmVJDT0epb) | 3:46 | 2024-07-11 | 2024-11-13 |
 | [Sentire \(feat\. Angelina Mango\)](https://open.spotify.com/track/1hIwH3jEyXBgk8FflP3UNy) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Speriamo](https://open.spotify.com/album/5945EwcH66jMpVaJOI60Cj) | 3:20 | 2025-11-27 | 2026-01-16 |
+| [Senza anima](https://open.spotify.com/track/1qUDt6riIeqV7XZf2KzBiz) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Senza anima](https://open.spotify.com/album/5ucF08XqnXv0Gt71DidcOG) | 2:50 | 2026-08-06 |  |
 | [Senza di te](https://open.spotify.com/track/5Wdrly4BRmqgsUQOy7XadG) | [GUSA](https://open.spotify.com/artist/14Vlzht8zPQPQNHDCnNshZ) | [Senza di te](https://open.spotify.com/album/7fCaJObcr9YwqO10GBphUf) | 3:35 | 2025-02-27 | 2025-04-04 |
 | [SENZA REGOLE](https://open.spotify.com/track/48457TAso8iLsuGweSjXLm) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SENZA REGOLE](https://open.spotify.com/album/1nXWQA1u94SLP0FJHyIhOj) | 2:10 | 2025-05-22 | 2025-08-08 |
 | [Senza vestiti](https://open.spotify.com/track/5PnpH0YgeOQ7m1Yn3B17CI) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [Senza vestiti](https://open.spotify.com/album/0dxz0GxUcYXloy0ClIvz9h) | 3:00 | 2026-05-28 | 2026-06-26 |
@@ -1285,7 +1286,7 @@
 | [Speciali +](https://open.spotify.com/track/0UwZWPgwJMvdstEZUTEaMl) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Speciali +](https://open.spotify.com/album/5qLvhBeNHl6FgWfSKk7eMn) | 2:58 | 2024-12-10 | 2025-03-21 |
 | [SPIAGGE](https://open.spotify.com/track/29vydXyOsVviJH0xuQammy) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [SPIAGGE](https://open.spotify.com/album/204IypitKgeI1J833cKAuq) | 2:51 | 2025-11-11 | 2026-04-03 |
 | [Spifferi](https://open.spotify.com/track/0ZLbDTe13dsyd0tf3hj3O1) | [Amanda Roberts](https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD) | [NOELIA](https://open.spotify.com/album/6SNOmi8oBAon4C8yK4H794) | 3:10 | 2025-10-02 | 2025-11-07 |
-| [Spiritual Gangsta](https://open.spotify.com/track/7v443lZ7wJ2pUJGODiEpA1) | [NOVELLA](https://open.spotify.com/artist/1EO7o1TyuvGyEdUIv0uDGM) | [Evoluzione](https://open.spotify.com/album/522j1PF48EFQQ3xqawdeuH) | 2:35 | 2026-07-09 |  |
+| [Spiritual Gangsta](https://open.spotify.com/track/7v443lZ7wJ2pUJGODiEpA1) | [NOVELLA](https://open.spotify.com/artist/1EO7o1TyuvGyEdUIv0uDGM) | [Evoluzione](https://open.spotify.com/album/522j1PF48EFQQ3xqawdeuH) | 2:35 | 2026-07-09 | 2026-08-07 |
 | [SPUNTA BLU](https://open.spotify.com/track/6pkx41c7BZukiBOxgVOnX4) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [The Ceasars](https://open.spotify.com/artist/0MwDm81UjbaXIeFCeCa5sw), [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k) | [SPUNTA BLU](https://open.spotify.com/album/6xq8k8yP1tzAAzD13dIXEu) | 2:46 | 2024-06-27 | 2024-07-12 |
 | [SQUALI SQUALI SQUALI](https://open.spotify.com/track/0aEQ9mByS29fO1yDatmwR6) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [SQUALI SQUALI SQUALI](https://open.spotify.com/album/3WQCXAN7a3JDcswwTVd26W) | 2:21 | 2025-07-10 | 2025-09-19 |
 | [Stamina](https://open.spotify.com/track/2ABnuR6MnlQpKFiPsJpVqq) | [LOWRAH](https://open.spotify.com/artist/2JDox6TzjUdGSIaFPPCa1d) | [Stamina](https://open.spotify.com/album/0NcwgDwdINubbzZGnWTR5l) | 2:25 | 2025-05-15 | 2025-08-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Q\u00b4Lokura, Lauta & Amigo de Artistas",
-  "num_followers": 816295,
+  "num_followers": 816252,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHuXlF3+vPspqYDkknsTKAc8SS/q",
+  "snapshot_id": "AAAAAJc8JHNgNU5dYlsE1NNQXgrtqAf7",
   "tracks": [
     {
       "added_at": "2026-07-20 15:33:17",
@@ -371,30 +371,6 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
-        "name": "En Otra Vida - Versi\u00f3n Cuarteto",
-        "url": "https://open.spotify.com/album/5iMYvZp2PQDHiC1s3P4rRA"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        }
-      ],
-      "duration_ms": 148200,
-      "name": "En Otra Vida - Versi\u00f3n Cuarteto",
-      "url": "https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
         "name": "Cuarteto Caracter\u00edstico (A2000)",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -431,6 +407,30 @@
       "duration_ms": 168000,
       "name": "Mentiras | CROSSOVER #3",
       "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
+        "name": "En Otra Vida - Versi\u00f3n Cuarteto",
+        "url": "https://open.spotify.com/album/5iMYvZp2PQDHiC1s3P4rRA"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "En Otra Vida - Versi\u00f3n Cuarteto",
+      "url": "https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE"
     },
     {
       "added_at": "2026-07-20 15:33:17",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
+        "name": "Cuarteteando",
+        "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 354626,
+      "name": "Ocho Cuarenta",
+      "url": "https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
         "name": "Latidos",
         "url": "https://open.spotify.com/album/307d2X9AdbxbyFd008xmn7"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 181538,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/2WFrChyI5KlmxunG45Sqws"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
-        "name": "Cuarteteando",
-        "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 354626,
-      "name": "Ocho Cuarenta",
-      "url": "https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE"
     },
     {
       "added_at": "2026-07-20 15:33:17",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
+        "name": "Cuarteto Caracter\u00edstico (A2000)",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Fuego y Pasion",
+      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
         "name": "Luck Ra | Mission 15",
         "url": "https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 133284,
       "name": "Luck Ra | Mission 15",
       "url": "https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
-        "name": "Cuarteto Caracter\u00edstico (A2000)",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Fuego y Pasion",
-      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
     },
     {
       "added_at": "2026-07-20 15:33:17",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
+        "name": "Cuarteto Caracter\u00edstico (A2000)",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 302800,
+      "name": "Soy Cordobes",
+      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
         "name": "Si Esta Casa Hablara / Tu Misterioso Alguien (En Vivo)",
         "url": "https://open.spotify.com/album/118S7OqtZMQPnHpvFFB0xp"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 219061,
       "name": "Si Esta Casa Hablara / Tu Misterioso Alguien - En Vivo",
       "url": "https://open.spotify.com/track/6jNl3MK9WF5HV2SivemFC5"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
-        "name": "Cuarteto Caracter\u00edstico (A2000)",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 302800,
-      "name": "Soy Cordobes",
-      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
     },
     {
       "added_at": "2026-07-20 15:33:17",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
+        "name": "Imag\u00ednate (En Vivo)",
+        "url": "https://open.spotify.com/album/0d2hnjRggNyqLk4Y7l8Fsb"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 153809,
+      "name": "Imag\u00ednate - En Vivo",
+      "url": "https://open.spotify.com/track/4MpquRs20zncElQWfdMXpw"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
         "name": "Bien Ah\u00ed !",
         "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 331160,
       "name": "Ramito de violetas",
       "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
-        "name": "Imag\u00ednate (En Vivo)",
-        "url": "https://open.spotify.com/album/0d2hnjRggNyqLk4Y7l8Fsb"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 153809,
-      "name": "Imag\u00ednate - En Vivo",
-      "url": "https://open.spotify.com/track/4MpquRs20zncElQWfdMXpw"
     },
     {
       "added_at": "2026-07-20 15:33:17",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
-        "name": "Con Otra (En Vivo)",
-        "url": "https://open.spotify.com/album/6eNEntGXLfxZu7cblWuuLj"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Con Otra - En Vivo",
-      "url": "https://open.spotify.com/track/7L1xVDPk3nLxQIGOOryW7p"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
         "name": "En la piel",
         "url": "https://open.spotify.com/album/6atk3EZyEKZF03JBdTeRVQ"
       },
@@ -911,6 +891,26 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
+        "name": "Con Otra (En Vivo)",
+        "url": "https://open.spotify.com/album/6eNEntGXLfxZu7cblWuuLj"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Con Otra - En Vivo",
+      "url": "https://open.spotify.com/track/7L1xVDPk3nLxQIGOOryW7p"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
         "name": "Te Suena?",
         "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
       },
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
-        "name": "Si Fuera Tan F\u00e1cil",
-        "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 207843,
-      "name": "Si Fuera Tan F\u00e1cil",
-      "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
         "name": "No Puedo Fingirlo",
         "url": "https://open.spotify.com/album/300aT1T1b5w3BVlKnwxSDB"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 219093,
       "name": "No Puedo Fingirlo",
       "url": "https://open.spotify.com/track/1OEZzIyMUzSU8ZZc9C6OdD"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
+        "name": "Si Fuera Tan F\u00e1cil",
+        "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 207843,
+      "name": "Si Fuera Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
     },
     {
       "added_at": "2026-07-20 15:33:17",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/7CY3qNCVgYSMgL0Wwjrdq3"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 185844,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/0FKCceXl1539dva0c7cNVJ"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
         "name": "Fui Nada",
         "url": "https://open.spotify.com/album/7E31JX7OVjx9d3d9SffeBE"
       },
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/7CY3qNCVgYSMgL0Wwjrdq3"
+        "name": "En otra vida (En Vivo)",
+        "url": "https://open.spotify.com/album/0Ujtg97hUUgW4pabzGnMuB"
       },
       "artists": [
         {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
         }
       ],
-      "duration_ms": 185844,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/0FKCceXl1539dva0c7cNVJ"
+      "duration_ms": 139465,
+      "name": "En otra vida - En Vivo",
+      "url": "https://open.spotify.com/track/07IixpZJQJZSvNAWiLOfck"
     },
     {
       "added_at": "2026-07-20 15:33:17",
@@ -1107,22 +1123,6 @@
       "duration_ms": 303253,
       "name": "Beso a beso",
       "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
-        "name": "En otra vida (En Vivo)",
-        "url": "https://open.spotify.com/album/0Ujtg97hUUgW4pabzGnMuB"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 139465,
-      "name": "En otra vida - En Vivo",
-      "url": "https://open.spotify.com/track/07IixpZJQJZSvNAWiLOfck"
     },
     {
       "added_at": "2026-07-20 15:33:17",
@@ -1279,34 +1279,6 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
-        "name": "Tattoo (Remix)",
-        "url": "https://open.spotify.com/album/64C5QZJEp9Y81zt6XilwwN"
-      },
-      "artists": [
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Renzo Luca",
-          "url": "https://open.spotify.com/artist/3qJn7VaFAHdWmm9IpZaHEc"
-        }
-      ],
-      "duration_ms": 158684,
-      "name": "Tattoo - Remix",
-      "url": "https://open.spotify.com/track/56yAIzNg5SAbUKUKR9UXmf"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/1JaN9qPAa5PqyfFyv1WCK0"
       },
@@ -1327,22 +1299,6 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
-        "name": "A Toda Fiesta",
-        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Amor Infiel",
-      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
         "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
         "url": "https://open.spotify.com/album/4tjJGUArl5zuJzbTMpZoDE"
       },
@@ -1359,6 +1315,22 @@
       "duration_ms": 204705,
       "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6QmQXIf2VffSXXlyPe85lv"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
+        "name": "A Toda Fiesta",
+        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Amor Infiel",
+      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
     },
     {
       "added_at": "2026-07-20 15:33:17",
@@ -1407,6 +1379,34 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
+        "name": "Tattoo (Remix)",
+        "url": "https://open.spotify.com/album/64C5QZJEp9Y81zt6XilwwN"
+      },
+      "artists": [
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Renzo Luca",
+          "url": "https://open.spotify.com/artist/3qJn7VaFAHdWmm9IpZaHEc"
+        }
+      ],
+      "duration_ms": 158684,
+      "name": "Tattoo - Remix",
+      "url": "https://open.spotify.com/track/56yAIzNg5SAbUKUKR9UXmf"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
         "name": "Un Nuevo Tiempo",
         "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
-      },
-      "artists": [
-        {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
         "name": "Antologia Carlitos La Mona Jimenez",
         "url": "https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 245053,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2026-07-20 15:33:17",
@@ -1703,18 +1703,22 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
-        "name": "Somos Todos",
-        "url": "https://open.spotify.com/album/78ZNNRr6kp0tJ40YKwwVMt"
+        "name": "Amor Secreto",
+        "url": "https://open.spotify.com/album/1qFNf8L4IPmAykJSk9AON2"
       },
       "artists": [
         {
-          "name": "Cachumba",
-          "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        },
+        {
+          "name": "Facu Y La Fuerza",
+          "url": "https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU"
         }
       ],
-      "duration_ms": 271516,
-      "name": "Amor de Papel / Enamorado de Ti / En Libertad",
-      "url": "https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw"
+      "duration_ms": 184375,
+      "name": "Amor Secreto",
+      "url": "https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd"
     },
     {
       "added_at": "2026-07-20 15:33:17",
@@ -1739,22 +1743,18 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
-        "name": "Amor Secreto",
-        "url": "https://open.spotify.com/album/1qFNf8L4IPmAykJSk9AON2"
+        "name": "Somos Todos",
+        "url": "https://open.spotify.com/album/78ZNNRr6kp0tJ40YKwwVMt"
       },
       "artists": [
         {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        },
-        {
-          "name": "Facu Y La Fuerza",
-          "url": "https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU"
+          "name": "Cachumba",
+          "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
         }
       ],
-      "duration_ms": 184375,
-      "name": "Amor Secreto",
-      "url": "https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd"
+      "duration_ms": 271516,
+      "name": "Amor de Papel / Enamorado de Ti / En Libertad",
+      "url": "https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw"
     },
     {
       "added_at": "2026-07-20 15:33:17",
@@ -1859,6 +1859,42 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 244900,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
+        "name": "Atado a un Sentimiento",
+        "url": "https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS"
+      },
+      "artists": [
+        {
+          "name": "Chipote",
+          "url": "https://open.spotify.com/artist/6zuShqSKzYP7ZPGMkMFhbL"
+        }
+      ],
+      "duration_ms": 238576,
+      "name": "Los Gatos No Ladran",
+      "url": "https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF"
+    },
+    {
+      "added_at": "2026-07-20 15:33:17",
+      "album": {
         "name": "Dejarnos Ir",
         "url": "https://open.spotify.com/album/4blgi7a5EMVZT2vnpRObV1"
       },
@@ -1883,26 +1919,6 @@
     {
       "added_at": "2026-07-20 15:33:17",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 244900,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
         "name": "50% (En Vivo)",
         "url": "https://open.spotify.com/album/2EpxFlCsjh51kHO60qQG1I"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 225077,
       "name": "50% - En Vivo",
       "url": "https://open.spotify.com/track/5CjlFUbDhFW8U85kjRjf2E"
-    },
-    {
-      "added_at": "2026-07-20 15:33:17",
-      "album": {
-        "name": "Atado a un Sentimiento",
-        "url": "https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS"
-      },
-      "artists": [
-        {
-          "name": "Chipote",
-          "url": "https://open.spotify.com/artist/6zuShqSKzYP7ZPGMkMFhbL"
-        }
-      ],
-      "duration_ms": 238576,
-      "name": "Los Gatos No Ladran",
-      "url": "https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF"
     },
     {
       "added_at": "2026-07-20 15:33:17",

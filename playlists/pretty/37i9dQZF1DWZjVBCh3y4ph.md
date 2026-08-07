@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Joé Dwèt Filé
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,328 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,367 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 14 | [Konpa Paradise 4 \- Wasnt me remix](https://open.spotify.com/track/7aVCFK6lDTQlaLa5voH5pf) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Forever Music](https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje) | [Konpa Paradise 4 \(Wasnt me remix\)](https://open.spotify.com/album/7dOC0qSj6TQmOlcNyCxDco) | 2:59 |
 | 15 | [18h33](https://open.spotify.com/track/4csNEKq3IsUGdDYBQjp5gM) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [18h33](https://open.spotify.com/album/6XDtFxofhjtinkzxV5Puou) | 2:37 |
 | 16 | [Tes mots](https://open.spotify.com/track/3n0LFME8XILdU1WcCAg37A) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6), [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv) | [Tes mots](https://open.spotify.com/album/11NX2XtA4FYWLSPSiz0HkN) | 3:03 |
-| 17 | [Natacha](https://open.spotify.com/track/01aRMjUBdK0TlE3K8wCxmj) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Natacha](https://open.spotify.com/album/6IFdY9fQYO22PRyrbZVN31) | 2:36 |
-| 18 | [Mamzel](https://open.spotify.com/track/3vUvjtYO8qsQzL2EghFFbu) | [Marshall](https://open.spotify.com/artist/3PVXeZI5d2zsKUDjmxOKtM), [DJ MiMi](https://open.spotify.com/artist/0nM2p46IFFB8f3NQxspjG5) | [Mamzel](https://open.spotify.com/album/1gw9v61MePSRxyfighLbHl) | 3:10 |
-| 19 | [ILLIMITÉ](https://open.spotify.com/track/4b9Z3twr11YoLsK2iEgztD) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [ILLIMITÉ](https://open.spotify.com/album/2FpLKBaZZEeX6c4lF8KGTA) | 2:21 |
-| 20 | [Otage](https://open.spotify.com/track/0vPOsFdOxppDqH8HgwcA89) | [DJ Ken](https://open.spotify.com/artist/1qyIUGgexI2Qi0NRweEVgf), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Otage](https://open.spotify.com/album/7GOLClLmSWqDCUWDVZqXHU) | 2:39 |
+| 17 | [Tchin tchin](https://open.spotify.com/track/2pdeMRknTu6Ks0GaCBvCgH) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Tchin tchin](https://open.spotify.com/album/6Y0k7P7nKRWHTwrgaizIMu) | 2:54 |
+| 18 | [Natacha](https://open.spotify.com/track/01aRMjUBdK0TlE3K8wCxmj) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Natacha](https://open.spotify.com/album/6IFdY9fQYO22PRyrbZVN31) | 2:36 |
+| 19 | [Mamzel](https://open.spotify.com/track/3vUvjtYO8qsQzL2EghFFbu) | [Marshall](https://open.spotify.com/artist/3PVXeZI5d2zsKUDjmxOKtM), [DJ MiMi](https://open.spotify.com/artist/0nM2p46IFFB8f3NQxspjG5) | [Mamzel](https://open.spotify.com/album/1gw9v61MePSRxyfighLbHl) | 3:10 |
+| 20 | [ILLIMITÉ](https://open.spotify.com/track/4b9Z3twr11YoLsK2iEgztD) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [ILLIMITÉ](https://open.spotify.com/album/2FpLKBaZZEeX6c4lF8KGTA) | 2:21 |
 | 21 | [M'en Aller](https://open.spotify.com/track/4yMKFwzdBXs7sH9zvOVeAA) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [M'en Aller](https://open.spotify.com/album/2I84m5gBW8jck2PEHrkIn9) | 2:28 |
 | 22 | [Pour Lui](https://open.spotify.com/track/1DdPH9CMxhSxRw4l6kWzNY) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Pour Lui](https://open.spotify.com/album/0KjM0igBdyGEXLHyeUdi31) | 4:02 |
 | 23 | [J'ai mal](https://open.spotify.com/track/2oW0vvqgNUSZyET55JAGNc) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [J'ai mal](https://open.spotify.com/album/1mgk83l9omGatU0flDJSgk) | 3:09 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [À l'infini](https://open.spotify.com/track/4vm325WI6Ip5mOsUfYiCNt) | [Algéric](https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY) | [À l'infini](https://open.spotify.com/album/5a3hsHzXxYXwfnO1fG6mwQ) | 3:27 |
 | 40 | [Ce Soir](https://open.spotify.com/track/5JoiT8yPlAtYMmYhF2DSLL) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Ce Soir](https://open.spotify.com/album/5z9ciR0ejGN614p9i9CBi7) | 3:45 |
 
-Snapshot ID: `AAAAAHuVCcy+boX2k/qCFR+HA6XpBaD+`
+Snapshot ID: `AAAAAFSNWVm1TCG4eJqiFGt235BB3GL/`

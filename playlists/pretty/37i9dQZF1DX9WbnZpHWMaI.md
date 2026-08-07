@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Chloé Caillet .
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,558 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,574 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bad Bara](https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Bad Bara](https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg) | 4:05 |
 | 2 | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC) | 3:14 |
-| 3 | [sunbleach](https://open.spotify.com/track/4HEjp4tBASgN57RUnzxN9Z) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [daisy\*](https://open.spotify.com/album/7fQamWUazAcrFUBHI5vmuy) | 2:21 |
+| 3 | [sunbleach](https://open.spotify.com/track/4HEjp4tBASgN57RUnzxN9Z) | [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [daisy\*](https://open.spotify.com/album/7fQamWUazAcrFUBHI5vmuy) | 2:21 |
 | 4 | [Talk nice](https://open.spotify.com/track/6i1D8BSUDo5WHIDvl9sMqp) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Talk nice](https://open.spotify.com/album/58QTVyvEXnWqmrGSSHh6nt) | 3:58 |
 | 5 | [GATA FINA](https://open.spotify.com/track/3KXTLmaGqZi4hXmR9MWTcQ) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG), [Fiah](https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5) | [GATA FINA](https://open.spotify.com/album/7JZaxWnKp4W8R9miByYEEK) | 5:07 |
 | 6 | [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 99 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 100 | [Fun Times](https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Fun Times](https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS) | 4:13 |
 
-Snapshot ID: `AAAAAFEDMniyOYe0HvmfF1zupjttt8EJ`
+Snapshot ID: `AAAAALU9nb40RE7hZspz9TIka2n21sWV`

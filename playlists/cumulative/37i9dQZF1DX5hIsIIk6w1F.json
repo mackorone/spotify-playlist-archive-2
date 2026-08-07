@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Blessd & Jere Klein.",
+  "description": "Este Flow tiene otro Flow. Foto: DrefQuila",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -1753,6 +1753,32 @@
     },
     {
       "album": {
+        "name": "DIABLO SANTO 2",
+        "url": "https://open.spotify.com/album/3HYMzWiVuq3BX102OH6VhY"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "DONNER",
+          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206621,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/0eIORudF8TZvkZO3yWhRW4"
+    },
+    {
+      "album": {
         "name": "Anti Rana",
         "url": "https://open.spotify.com/album/5waPP31TcvQa9KCO1eO6XW"
       },
@@ -2034,6 +2060,32 @@
       "duration_ms": 181604,
       "name": "Aunque Me Caigo Me Paro",
       "url": "https://open.spotify.com/track/3zW8kxLiE0L7KZLz6TZzVF"
+    },
+    {
+      "album": {
+        "name": "AuRA PERRe0",
+        "url": "https://open.spotify.com/album/0DNinheDuLwyzASpPa2wtm"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169617,
+      "name": "AuRA PERRe0",
+      "url": "https://open.spotify.com/track/1RvNe5pPb0N3VoYm7SbZZ2"
     },
     {
       "album": {
@@ -3499,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "BRINQUEN T",
+        "url": "https://open.spotify.com/album/67ZD28k7DHJal2OBF5R28L"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132406,
+      "name": "BRINQUEN T",
+      "url": "https://open.spotify.com/track/2MbLsWsYw16ighg0iR56RU"
+    },
+    {
+      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi"
       },
@@ -4474,7 +4544,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 220000,
       "name": "Comando Estelar",
       "url": "https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N"
@@ -5140,7 +5210,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 185000,
       "name": "Cositas Prohibidas",
       "url": "https://open.spotify.com/track/0GAkNIe7zPovzFzXCMQOGx"
@@ -5280,7 +5350,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 147710,
       "name": "CUANDO Y DONDE?",
       "url": "https://open.spotify.com/track/5Rg4GShgcz9r1Cmt6IubbA"
@@ -5460,7 +5530,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 105806,
       "name": "CUPIDO 404",
       "url": "https://open.spotify.com/track/3hD70Q4GG0siK12cLEwx0y"
@@ -6502,7 +6572,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 134693,
       "name": "DobleG",
       "url": "https://open.spotify.com/track/2SqWPobgwhELYIomoqsyRY"
@@ -6568,7 +6638,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 203757,
       "name": "Doler\u00e1",
       "url": "https://open.spotify.com/track/5HQFn63YuzsXhxDDv68YMv"
@@ -8152,7 +8222,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 121874,
       "name": "EXTRA\u00d1O A MI EX",
       "url": "https://open.spotify.com/track/7KpRHaYMzmFWcSimxMJVh0"
@@ -10088,7 +10158,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 147130,
       "name": "Imbattuto",
       "url": "https://open.spotify.com/track/5hsv9cLF2MVMyXiHFUTemt"
@@ -11282,7 +11352,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 176601,
       "name": "LA TRIPLE C",
       "url": "https://open.spotify.com/track/7rGY1XjoF36W8DlJWgzvFB"
@@ -11950,7 +12020,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 118720,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/58b42JiczBQZ6d3ulCVTYe"
@@ -13704,7 +13774,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 136046,
       "name": "MAT\u00cdAS MU\u00d1OZ",
       "url": "https://open.spotify.com/track/5XJ1fwfRo4zvGaxpA9jqfa"
@@ -16010,7 +16080,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 159130,
       "name": "NASA",
       "url": "https://open.spotify.com/track/04NuaQGYNseHOE0fjLS4jf"
@@ -18726,7 +18796,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 202710,
       "name": "Pichea",
       "url": "https://open.spotify.com/track/5SqLfBDwcFRoptIGyN38w5"
@@ -20213,6 +20283,36 @@
     },
     {
       "album": {
+        "name": "Quiero Saber",
+        "url": "https://open.spotify.com/album/4z5YKgiON42LXrJLGpzSf7"
+      },
+      "artists": [
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265200,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/1tuZalqqeP2lq8g1xBmOMx"
+    },
+    {
+      "album": {
         "name": "Quisiera Ser Yo",
         "url": "https://open.spotify.com/album/3fbfiAX88ZujCFZ4BAmLeB"
       },
@@ -21158,7 +21258,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 172500,
       "name": "Se Acab\u00f3",
       "url": "https://open.spotify.com/track/1xPbP3K2QLPzijX1e6iExG"
@@ -21384,7 +21484,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 145000,
       "name": "Sensaci\u00f3n de Calor",
       "url": "https://open.spotify.com/track/39XF6X4WfhPDoNxEV5Ybsb"
@@ -24568,7 +24668,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 150923,
       "name": "Tu Juego",
       "url": "https://open.spotify.com/track/354oYvQxjG2eOAfyDwi9CM"
@@ -25708,7 +25808,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 134582,
       "name": "VEN AC\u00c1",
       "url": "https://open.spotify.com/track/67VOcsWPZ38BXFL2NnJWs6"
@@ -26144,7 +26244,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 183789,
       "name": "Vuele",
       "url": "https://open.spotify.com/track/4ArEaGCWtc5NMRC8BAGToR"

@@ -32,6 +32,28 @@
       },
       "artists": [
         {
+          "name": "Victoria Clark",
+          "url": "https://open.spotify.com/artist/2KSCnFEc7wBSpCZJsmZvhV"
+        },
+        {
+          "name": "Laura Osnes",
+          "url": "https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141533,
+      "name": "\"Impossible\"",
+      "url": "https://open.spotify.com/track/1S6e1Mkcx0KkCmXmxdDG1J"
+    },
+    {
+      "album": {
+        "name": "Rodgers + Hammerstein's Cinderella (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5"
+      },
+      "artists": [
+        {
           "name": "Laura Osnes",
           "url": "https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF"
         }
@@ -201,6 +223,24 @@
     },
     {
       "album": {
+        "name": "The King And I",
+        "url": "https://open.spotify.com/album/0tlzLJMJqzoYoc8Kb8UxRE"
+      },
+      "artists": [
+        {
+          "name": "Gertrude Lawrence",
+          "url": "https://open.spotify.com/artist/03MvlpAB5fFwixjw1AQQsP"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215120,
+      "name": "A Puzzlement",
+      "url": "https://open.spotify.com/track/5OvUiUMdZXjp0Lo88BIR4X"
+    },
+    {
+      "album": {
         "name": "The King And I: Music From The Motion Picture (Remastered 2001)",
         "url": "https://open.spotify.com/album/5EFwxguMRkFvuy1PJbZN9b"
       },
@@ -220,7 +260,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 207800,
       "name": "A Puzzlement - Remastered 2001",
       "url": "https://open.spotify.com/track/7Jiybd4axJSbH6J1c26ESv"
@@ -817,6 +857,32 @@
     },
     {
       "album": {
+        "name": "Victory at Sea",
+        "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240133,
+      "name": "Beneath the Southern Cross",
+      "url": "https://open.spotify.com/track/569FoXMMFmzSfM4aJLIQEb"
+    },
+    {
+      "album": {
         "name": "Victory At Sea",
         "url": "https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd"
       },
@@ -1292,10 +1358,36 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 188226,
       "name": "Cottonfields",
       "url": "https://open.spotify.com/track/2ovyc23r7j4BuHadvWdKHN"
+    },
+    {
+      "album": {
+        "name": "Victory at Sea",
+        "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348160,
+      "name": "D-Day",
+      "url": "https://open.spotify.com/track/5qEmlArfSomoXtOkss5HT2"
     },
     {
       "album": {
@@ -1332,7 +1424,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 349264,
       "name": "D-Day - Remastered",
       "url": "https://open.spotify.com/track/2xN9bOYlGottHvMEiSMvGp"
@@ -1354,10 +1446,36 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 231634,
       "name": "Danger Down Deep",
       "url": "https://open.spotify.com/track/2nODfvtMNFVidNKxAHpulq"
+    },
+    {
+      "album": {
+        "name": "Victory at Sea, Vol. 2",
+        "url": "https://open.spotify.com/album/1pBFHYMbP2Xxdj0NiRadTG"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284213,
+      "name": "Danger Down Deep",
+      "url": "https://open.spotify.com/track/7vQoonTyBfTYF6rccknHPy"
     },
     {
       "album": {
@@ -1401,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Everything I've Got",
+        "url": "https://open.spotify.com/album/62Lb1NJWvKYnZ5UcidJ7T2"
+      },
+      "artists": [
+        {
+          "name": "Honor Blackman",
+          "url": "https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130691,
+      "name": "Den Of Iniquity",
+      "url": "https://open.spotify.com/track/7sNCJGb7lhIE0a5gzE8gCi"
+    },
+    {
+      "album": {
         "name": "Pal Joey (1995 Original New York Cast)",
         "url": "https://open.spotify.com/album/1etGLImerWgKPaXEQYNobr"
       },
@@ -1416,7 +1552,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 198093,
       "name": "Den Of Iniquity",
       "url": "https://open.spotify.com/track/4pSPwg8Uuc7oz9cHvilbwt"
@@ -2024,7 +2160,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 293600,
       "name": "Drag City",
       "url": "https://open.spotify.com/track/4KxQMqhEkj175vH2wk7yMv"
@@ -2060,7 +2196,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 202338,
       "name": "Eager Beaver",
       "url": "https://open.spotify.com/track/74LBURWiLvzUzVxmIqEvdu"
@@ -2082,6 +2218,24 @@
       "duration_ms": 143600,
       "name": "Eager Beaver",
       "url": "https://open.spotify.com/track/4waCfqopGKKwQz6tEcgL1W"
+    },
+    {
+      "album": {
+        "name": "Kenton In Hi-Fi",
+        "url": "https://open.spotify.com/album/5rX287e1tFCBOkjObugghB"
+      },
+      "artists": [
+        {
+          "name": "Stan Kenton",
+          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202866,
+      "name": "Eager Beaver",
+      "url": "https://open.spotify.com/track/7xmtq49duxRAK9WCsIxqDU"
     },
     {
       "album": {
@@ -2196,6 +2350,24 @@
       "duration_ms": 149800,
       "name": "Everything I've Got",
       "url": "https://open.spotify.com/track/526RZHnkSJs51Zqr3LW3qZ"
+    },
+    {
+      "album": {
+        "name": "Reggae Anthology: Music Is The Rod",
+        "url": "https://open.spotify.com/album/3JIyyQ4Re9JW5BB706adXk"
+      },
+      "artists": [
+        {
+          "name": "Garnet Silk",
+          "url": "https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212826,
+      "name": "Everything I've Got",
+      "url": "https://open.spotify.com/track/1Zh8BXvxFNDZceyIz6bG2j"
     },
     {
       "album": {
@@ -2429,6 +2601,32 @@
     },
     {
       "album": {
+        "name": "Victory at Sea, Vol. 2",
+        "url": "https://open.spotify.com/album/1pBFHYMbP2Xxdj0NiRadTG"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346333,
+      "name": "Fire on the Waters",
+      "url": "https://open.spotify.com/track/5qjWMvBeiWw3j9Ff6gTbRK"
+    },
+    {
+      "album": {
         "name": "Victory At Sea",
         "url": "https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd"
       },
@@ -2516,10 +2714,28 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 164120,
       "name": "From Another World",
       "url": "https://open.spotify.com/track/0lSWrViRlGMFF3veICVHg8"
+    },
+    {
+      "album": {
+        "name": "Mildred Bailey, Mrs Swing",
+        "url": "https://open.spotify.com/album/2cVr6IKbeRcvr8KawaAOMq"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170209,
+      "name": "From Another World",
+      "url": "https://open.spotify.com/track/2ZQ8so5VXsrygQSqdBq7FQ"
     },
     {
       "album": {
@@ -2720,7 +2936,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 343200,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1nrFcIegZ5tqF5AM7pD7Qn"
@@ -2746,6 +2962,32 @@
       "duration_ms": 187066,
       "name": "Guadalcanal March",
       "url": "https://open.spotify.com/track/0GxEdP4hgo4C31cg5kGFMg"
+    },
+    {
+      "album": {
+        "name": "Victory at Sea",
+        "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184733,
+      "name": "Guadalcanal March",
+      "url": "https://open.spotify.com/track/67Ll8q38tCnDLyoev3wPlp"
     },
     {
       "album": {
@@ -2898,10 +3140,36 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 219808,
       "name": "Hard Work and Horseplay",
       "url": "https://open.spotify.com/track/6fERPlTGSVToidhIOePyhn"
+    },
+    {
+      "album": {
+        "name": "Victory at Sea",
+        "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Hard Work and Horseplay",
+      "url": "https://open.spotify.com/track/2vyEAjfNrrsehzjY0bsl9x"
     },
     {
       "album": {
@@ -2960,7 +3228,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 217462,
       "name": "Hard Work and Horseplay - Remastered",
       "url": "https://open.spotify.com/track/4NzgPyLWCnKOKmm5TtN4mp"
@@ -3037,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "Beyond The Sea O.S.T.",
+        "url": "https://open.spotify.com/album/5ZfPr3L1QlCS4DAEhbMu67"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Sea - Kevin Spacey",
+          "url": "https://open.spotify.com/artist/5fb7kYoVnOzPNjZEzOvLmO"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111786,
+      "name": "Hello Young Lovers",
+      "url": "https://open.spotify.com/track/1PtxH2pq6ANzBa6vPQusxk"
+    },
+    {
+      "album": {
         "name": "My Cherie Amour",
         "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
       },
@@ -3048,7 +3334,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 194386,
       "name": "Hello Young Lovers",
       "url": "https://open.spotify.com/track/3MBtLt6wkxFt5PZNfrmzxW"
@@ -3156,10 +3442,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 105800,
       "name": "Honey Bun",
       "url": "https://open.spotify.com/track/3XYEV3l6Dfm0skHyzknAGn"
+    },
+    {
+      "album": {
+        "name": "Mitzi and Morris At the Movies",
+        "url": "https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4"
+      },
+      "artists": [
+        {
+          "name": "Mitzi Gaynor",
+          "url": "https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6"
+        },
+        {
+          "name": "Ray Walston",
+          "url": "https://open.spotify.com/artist/4s45u1B14sGpHW3tdumVgV"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108360,
+      "name": "Honey Bun (From \"South Pacific\")",
+      "url": "https://open.spotify.com/track/5GzKP0NRBRJIlv0Jg6UU6y"
     },
     {
       "album": {
@@ -3250,7 +3558,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 238440,
       "name": "I Cain\u2019t Say No",
       "url": "https://open.spotify.com/track/3TKMuxhbBvGBeO8wyKAPzs"
@@ -3703,6 +4011,24 @@
     },
     {
       "album": {
+        "name": "Mitzi Gaynor Sings",
+        "url": "https://open.spotify.com/album/72BW0Dfh1Ms4CNwVD7KUGo"
+      },
+      "artists": [
+        {
+          "name": "Mitzi Gaynor",
+          "url": "https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "I'm Gonna Wash That Man Right Outta My Hair",
+      "url": "https://open.spotify.com/track/7j42cXsxhgClrigvlsBdej"
+    },
+    {
+      "album": {
         "name": "Mitzi and Morris At the Movies",
         "url": "https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4"
       },
@@ -3714,7 +4040,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 176533,
       "name": "I'm Gonna Wash That Man Right Outta My Hair (From \"South Pacific\")",
       "url": "https://open.spotify.com/track/3nMCmZay3np5RmUyYU8Hpb"
@@ -4184,7 +4510,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 150893,
       "name": "Kansas City",
       "url": "https://open.spotify.com/track/6gnfJ5EetG7MtU7Ra4Q9aM"
@@ -4242,10 +4568,60 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 170906,
       "name": "Ladies Of The Evening",
       "url": "https://open.spotify.com/track/0D1nTmTvJNpZBxvlObK0o5"
+    },
+    {
+      "album": {
+        "name": "The Boys From Syracuse: A Musical Comedy Sensation (1997 Original New York Recording)",
+        "url": "https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Eichenberger",
+          "url": "https://open.spotify.com/artist/3SkCWMkRAXjK9ZXf2W3jQY"
+        },
+        {
+          "name": "Susan Emerson",
+          "url": "https://open.spotify.com/artist/1UmYoJWaFWt1Jg4lj34hlD"
+        },
+        {
+          "name": "Rachel Jones",
+          "url": "https://open.spotify.com/artist/5pLaXv3xf6shazgJiNIIsl"
+        },
+        {
+          "name": "Sheryl McCallum",
+          "url": "https://open.spotify.com/artist/2Uqr3eEEeig2qMccfI6l1i"
+        },
+        {
+          "name": "Alet Oury",
+          "url": "https://open.spotify.com/artist/6C0UmSVmWWFYUirDCal7C5"
+        },
+        {
+          "name": "Julie Halston",
+          "url": "https://open.spotify.com/artist/3EByS5LE3yUrfpF9a5D8Qk"
+        },
+        {
+          "name": "Patrick Quinn",
+          "url": "https://open.spotify.com/artist/01IfgtjGDee7BsoXu50er6"
+        },
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Lorenz Hart",
+          "url": "https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245346,
+      "name": "Ladies Of The Evening",
+      "url": "https://open.spotify.com/track/6ViIGY0ccjs6y5P8dlbg22"
     },
     {
       "album": {
@@ -4401,6 +4777,24 @@
     },
     {
       "album": {
+        "name": "The Sweetest Swingin' Sounds Of No Strings",
+        "url": "https://open.spotify.com/album/0EcIjwyUAwRP8Hvyc15bUN"
+      },
+      "artists": [
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113226,
+      "name": "Love Makes The World Go",
+      "url": "https://open.spotify.com/track/3YsQuYgpHJseCt1Ezt0HAe"
+    },
+    {
+      "album": {
         "name": "Remastered Classics, Vol. 6, Billy May",
         "url": "https://open.spotify.com/album/5l2PIiKh9lsM0znc9mCNjw"
       },
@@ -4430,7 +4824,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 108166,
       "name": "Love Makes the World Go (Remastered 2014)",
       "url": "https://open.spotify.com/track/4cMplv1u0bzFHMVhRt7QjN"
@@ -4507,6 +4901,24 @@
     },
     {
       "album": {
+        "name": "Passage of Time",
+        "url": "https://open.spotify.com/album/4Jm3FfpxzjVYXVqJMCxPOs"
+      },
+      "artists": [
+        {
+          "name": "Liz Callaway",
+          "url": "https://open.spotify.com/artist/4hcWMDrWJYyU66HA583nCb"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266320,
+      "name": "Make Someone Happy/Something Wonderful",
+      "url": "https://open.spotify.com/track/5cdXbtQ6i6OmALSrO01fBq"
+    },
+    {
+      "album": {
         "name": "Once Upon A Summertime",
         "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
       },
@@ -4525,6 +4937,36 @@
     },
     {
       "album": {
+        "name": "Oklahoma! (Original Broadway Cast 1943)",
+        "url": "https://open.spotify.com/album/1EqFgtBnrEQ3Uyp33jetaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Schwartzdorf",
+          "url": "https://open.spotify.com/artist/679Pb7DIAI00NbwbTlZKVA"
+        },
+        {
+          "name": "St. James Theatre Orchestra",
+          "url": "https://open.spotify.com/artist/29Wob3qbTCy4PYaOlsENO7"
+        },
+        {
+          "name": "St. James Theatre Chorus",
+          "url": "https://open.spotify.com/artist/6QQIOVSyQXu1MWzcDYOKNJ"
+        },
+        {
+          "name": "Joan Roberts",
+          "url": "https://open.spotify.com/artist/5sJ9YrCxG1476KaBL6RFxb"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178072,
+      "name": "Many a New Day",
+      "url": "https://open.spotify.com/track/48BRpMpXaopFrbkMvuqzrD"
+    },
+    {
+      "album": {
         "name": "Oklahoma! (Expanded Edition/Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8"
       },
@@ -4540,10 +4982,36 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 186426,
       "name": "Many A New Day - From \"Oklahoma!\" Soundtrack",
       "url": "https://open.spotify.com/track/37vZmkPWMYUnsFgykCqZsA"
+    },
+    {
+      "album": {
+        "name": "Victory at Sea",
+        "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264933,
+      "name": "Mare Nostrum",
+      "url": "https://open.spotify.com/track/3IdIiXQRNFUWzoG5u2ytGS"
     },
     {
       "album": {
@@ -4598,7 +5066,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 264206,
       "name": "Mare Nostrum - Remastered",
       "url": "https://open.spotify.com/track/67O6tDIomxoNtYov06p6L4"
@@ -4680,10 +5148,36 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 196153,
       "name": "Mediterranean Mosaic",
       "url": "https://open.spotify.com/track/4u3mpD2zaagN2K46y5tPiH"
+    },
+    {
+      "album": {
+        "name": "Victory at Sea, Vol. 2",
+        "url": "https://open.spotify.com/album/1pBFHYMbP2Xxdj0NiRadTG"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342640,
+      "name": "Mediterranean Mosaic",
+      "url": "https://open.spotify.com/track/4gttCXj49egSoR0bchhTlL"
     },
     {
       "album": {
@@ -4881,6 +5375,28 @@
     },
     {
       "album": {
+        "name": "South Pacific (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/4tNqn0l06EKcfVHZD0OQxg"
+      },
+      "artists": [
+        {
+          "name": "Bill Lee",
+          "url": "https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ"
+        },
+        {
+          "name": "Mitzi Gaynor",
+          "url": "https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99586,
+      "name": "My Girl Back Home",
+      "url": "https://open.spotify.com/track/33XFHLAzZj6sQt4qsKT0mm"
+    },
+    {
+      "album": {
         "name": "South Pacific (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN"
       },
@@ -4896,7 +5412,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 100226,
       "name": "My Girl Back Home",
       "url": "https://open.spotify.com/track/51olew3lXYIWqsNxeYUizR"
@@ -5182,7 +5698,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 408400,
       "name": "No. 1",
       "url": "https://open.spotify.com/track/28XwjxOFfOM8IhUdbfJHar"
@@ -5430,10 +5946,36 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 198825,
       "name": "Oklahoma",
       "url": "https://open.spotify.com/track/4jY8gtspcMz2NYeuE6E3xy"
+    },
+    {
+      "album": {
+        "name": "Gordon MacRae - Greatest Hits",
+        "url": "https://open.spotify.com/album/7CanZpnDy3yEsP5DN7Az6x"
+      },
+      "artists": [
+        {
+          "name": "Gordon MacRae",
+          "url": "https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof"
+        },
+        {
+          "name": "Shirley Jones",
+          "url": "https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok"
+        },
+        {
+          "name": "Charlotte Greenwood",
+          "url": "https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "Oklahoma (From Oklahoma)",
+      "url": "https://open.spotify.com/track/6zKx9rkqsnFDIvIe8V41KH"
     },
     {
       "album": {
@@ -5494,7 +6036,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 67653,
       "name": "Oklahoma!, Act 2: No. 28, Oklahoma (Encore)",
       "url": "https://open.spotify.com/track/0DmlnqIVssAuN73KG5kvpf"
@@ -5538,7 +6080,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 526960,
       "name": "On Your Toes, Act II: Slaughter On Tenth Avenue",
       "url": "https://open.spotify.com/track/3U7frlEZ12HCBEgFKjLemY"
@@ -5662,6 +6204,32 @@
       "duration_ms": 93293,
       "name": "Overture",
       "url": "https://open.spotify.com/track/4rIBBY2ODjtkbEzyGe4ivD"
+    },
+    {
+      "album": {
+        "name": "Oklahoma! (Original Broadway Cast 1943)",
+        "url": "https://open.spotify.com/album/1EqFgtBnrEQ3Uyp33jetaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Schwartzdorf",
+          "url": "https://open.spotify.com/artist/679Pb7DIAI00NbwbTlZKVA"
+        },
+        {
+          "name": "St. James Theatre Orchestra",
+          "url": "https://open.spotify.com/artist/29Wob3qbTCy4PYaOlsENO7"
+        },
+        {
+          "name": "St. James Theatre Chorus",
+          "url": "https://open.spotify.com/artist/6QQIOVSyQXu1MWzcDYOKNJ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315000,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/0lwtgfd7Asz21a3sexSbnj"
     },
     {
       "album": {
@@ -6010,7 +6578,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 215260,
       "name": "Peleliu - Remastered",
       "url": "https://open.spotify.com/track/4VegkfSSBg8zGm5mqLw5MU"
@@ -6071,6 +6639,28 @@
     },
     {
       "album": {
+        "name": "Essential Classics, Vol. 402: Shirley Jones",
+        "url": "https://open.spotify.com/album/0xvV06Wge36ieBJ2ltIAup"
+      },
+      "artists": [
+        {
+          "name": "Shirley Jones",
+          "url": "https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok"
+        },
+        {
+          "name": "Gordon MacRae",
+          "url": "https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256600,
+      "name": "Poor Jud is Dead",
+      "url": "https://open.spotify.com/track/1zTuSkHG9DmQq9JvYLYDSr"
+    },
+    {
+      "album": {
         "name": "Oklahoma! (2019 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP"
       },
@@ -6086,7 +6676,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 268506,
       "name": "Pore Jud Is Daid",
       "url": "https://open.spotify.com/track/4dbYEYqNVV1LIzdjqdhFqj"
@@ -6208,7 +6798,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 169000,
       "name": "Questions and Answers",
       "url": "https://open.spotify.com/track/2V6hLl08CgVtninX6bMaGN"
@@ -6284,7 +6874,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 350293,
       "name": "Ramblin' Boy",
       "url": "https://open.spotify.com/track/7eSFxSPZGbDZpSiTSOqmOV"
@@ -6324,7 +6914,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 386268,
       "name": "Rings Around Rabaul",
       "url": "https://open.spotify.com/track/5JLkyHNTMuL6oPWwY0LU3f"
@@ -6560,7 +7150,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 285948,
       "name": "Ships That Pass",
       "url": "https://open.spotify.com/track/53ojEaouWcmvp1he9Is6cB"
@@ -6643,6 +7233,24 @@
     },
     {
       "album": {
+        "name": "Slaughter on 10th Avenue",
+        "url": "https://open.spotify.com/album/1L2lo2rf5H3Y6FJkiNfHTU"
+      },
+      "artists": [
+        {
+          "name": "Mick Ronson",
+          "url": "https://open.spotify.com/artist/2jzjxYOe3G5aeucbMg0Smp"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278666,
+      "name": "Slaughter on Tenth Avenue",
+      "url": "https://open.spotify.com/track/2f4Dn5ikkaNmU1AH6GvTLj"
+    },
+    {
+      "album": {
         "name": "Knock Me Out!",
         "url": "https://open.spotify.com/album/62qjOqQheVc1wWqp2oe4KS"
       },
@@ -6654,10 +7262,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 134613,
       "name": "Slaughter On Tenth Avenue",
       "url": "https://open.spotify.com/track/3VxUtFxGSazOdEMriRMoXv"
+    },
+    {
+      "album": {
+        "name": "100 Fiedler Favorites",
+        "url": "https://open.spotify.com/album/3HKbNGgqCr0ExYgGcPFv9F"
+      },
+      "artists": [
+        {
+          "name": "Arthur Fiedler",
+          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532400,
+      "name": "Slaughter on Tenth Avenue (From \"On Your Toes\")",
+      "url": "https://open.spotify.com/track/6kUB4PjzrDsiNcqgdiUqll"
     },
     {
       "album": {
@@ -6918,7 +7548,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 171400,
       "name": "Something Wonderful",
       "url": "https://open.spotify.com/track/2F9Fa6OjqlWr41VgkulONg"
@@ -6962,7 +7592,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "South Pacific Overture",
       "url": "https://open.spotify.com/track/1qjQkToZIwvNjve8EG8u48"
@@ -6980,7 +7610,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 182760,
       "name": "South Pacific Overture (The Orchestra) - 2020 Digitally Remastered",
       "url": "https://open.spotify.com/track/6CQZ5ihFemOW20hlzUxUoj"
@@ -7733,6 +8363,32 @@
     },
     {
       "album": {
+        "name": "Victory at Sea, Vol. 2",
+        "url": "https://open.spotify.com/album/1pBFHYMbP2Xxdj0NiRadTG"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334173,
+      "name": "The Magnetic North",
+      "url": "https://open.spotify.com/track/605NYlfr0qSG227qGPpW5z"
+    },
+    {
+      "album": {
         "name": "Victory At Sea",
         "url": "https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd"
       },
@@ -7850,10 +8506,36 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 340676,
       "name": "The Pacific Boils Over",
       "url": "https://open.spotify.com/track/51DG64foq7TbpFq6FLkLoi"
+    },
+    {
+      "album": {
+        "name": "Victory at Sea",
+        "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340266,
+      "name": "The Pacific Boils Over",
+      "url": "https://open.spotify.com/track/5vEirdbF9vdiErKCeoQG48"
     },
     {
       "album": {
@@ -7934,7 +8616,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 243840,
       "name": "The Sinking Of the Reuben James",
       "url": "https://open.spotify.com/track/5ZzSwtPj2JqF5N78O5khiR"
@@ -7952,10 +8634,36 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 302381,
       "name": "The Song of the High Seas",
       "url": "https://open.spotify.com/track/1YvKBYRtJOcPkXbFgbhFem"
+    },
+    {
+      "album": {
+        "name": "Victory at Sea",
+        "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301760,
+      "name": "The Song of the High Seas",
+      "url": "https://open.spotify.com/track/3iEZYdCTjDNjCBEt8mwIll"
     },
     {
       "album": {
@@ -8356,10 +9064,36 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 344001,
       "name": "Theme of the Fast Carriers",
       "url": "https://open.spotify.com/track/2UXcGQO9zmErnoZYBYcEDN"
+    },
+    {
+      "album": {
+        "name": "Victory at Sea",
+        "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402826,
+      "name": "Theme of the Fast Carriers",
+      "url": "https://open.spotify.com/track/0gOTUeTdQ9nxPMqo4qv3tX"
     },
     {
       "album": {
@@ -8461,6 +9195,28 @@
     },
     {
       "album": {
+        "name": "Edie Adams",
+        "url": "https://open.spotify.com/album/423tutuajJ4iOZ4DCUGquI"
+      },
+      "artists": [
+        {
+          "name": "Edie Adams",
+          "url": "https://open.spotify.com/artist/20xJMiNKh4U7fPPZMcqS34"
+        },
+        {
+          "name": "Joe Leahy Orchestra",
+          "url": "https://open.spotify.com/artist/7KGif6Pwikw0EuWwKLWnyI"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123434,
+      "name": "There's so Much More",
+      "url": "https://open.spotify.com/track/23Aa0sqtxrNlvs81nWx3sI"
+    },
+    {
+      "album": {
         "name": "Mr. Wonderful: The Complete RCA Singles",
         "url": "https://open.spotify.com/album/1URB7jUrm7pBi6wES6lTLR"
       },
@@ -8472,7 +9228,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 168133,
       "name": "There's So Much More",
       "url": "https://open.spotify.com/track/5RBUcrFD3rhXhluOs6Dzbf"
@@ -8818,10 +9574,36 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 371292,
       "name": "Victory at Sea",
       "url": "https://open.spotify.com/track/2XSn943xFsdmKdVeTrzHB0"
+    },
+    {
+      "album": {
+        "name": "Victory at Sea",
+        "url": "https://open.spotify.com/album/4WyaMVV738kl836ERZDQoF"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "NBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7JiZysLPLBijVnS9uWX312"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366133,
+      "name": "Victory at Sea",
+      "url": "https://open.spotify.com/track/54RrDpGkzALDbVqKy0ag30"
     },
     {
       "album": {
@@ -8880,7 +9662,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 378951,
       "name": "Voyage into Fate - Remastered",
       "url": "https://open.spotify.com/track/3WZgfaQq25vnWiwC1ckap7"
@@ -9238,10 +10020,28 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 356906,
       "name": "Whiskey In the Jar",
       "url": "https://open.spotify.com/track/6V9KqcUq399US4bL2kwoDa"
+    },
+    {
+      "album": {
+        "name": "Escape from New York (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/10loIW5T89s8nLCa73GxiF"
+      },
+      "artists": [
+        {
+          "name": "Kurt Russell",
+          "url": "https://open.spotify.com/artist/3inse6IgsRovvG6oTiTYEc"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27826,
+      "name": "Who Are You?",
+      "url": "https://open.spotify.com/track/19StSmBVKXxXH66CB0vrWC"
     },
     {
       "album": {
@@ -9449,6 +10249,24 @@
     },
     {
       "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/4rvJbUohpGYUd7EUh7BnKn"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook",
+          "url": "https://open.spotify.com/artist/6SY4hPB2QITF4kQUui96EP"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167146,
+      "name": "You Have Cast Your Shadow On The Sea",
+      "url": "https://open.spotify.com/track/4maCmCylOp7XCNz5pyPAPm"
+    },
+    {
+      "album": {
         "name": "The Boys From Syracuse: A Musical Comedy Sensation (1997 Original New York Recording)",
         "url": "https://open.spotify.com/album/6pbEFAchBRfN5AoZNd4nyp"
       },
@@ -9472,7 +10290,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 190920,
       "name": "You Have Cast Your Shadow On The Sea",
       "url": "https://open.spotify.com/track/6FyZmtNLTrmImAkzIlAToM"

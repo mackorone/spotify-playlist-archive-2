@@ -1,13 +1,37 @@
 {
   "description": "neler ya\u015fam\u0131\u015f\u0131m ben ya...",
-  "num_followers": 410,
+  "num_followers": 411,
   "original_name": "Works by Mert \u00c7odur \u270d\ud83c\udffb",
   "owner": {
     "name": "\u00c7odur",
     "url": "https://open.spotify.com/user/mertcodur"
   },
-  "snapshot_id": "AAAA3eQTUVlGS86YiSQD66coUcEFHxzl",
+  "snapshot_id": "AAAA37SS3SxbjfQKMVlCwJw38ihV3Uzt",
   "tracks": [
+    {
+      "added_at": "2026-08-06 23:27:24",
+      "album": {
+        "name": "\u00c7\u0131kt\u0131 Yang\u0131nlar",
+        "url": "https://open.spotify.com/album/25KF6IYYRYUGbPBcIOKCY8"
+      },
+      "artists": [
+        {
+          "name": "Ayse Hatun Onal",
+          "url": "https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS"
+        },
+        {
+          "name": "\u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        },
+        {
+          "name": "Ozan Bayra\u015fa",
+          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
+        }
+      ],
+      "duration_ms": 169796,
+      "name": "\u00c7\u0131kt\u0131 Yang\u0131nlar",
+      "url": "https://open.spotify.com/track/4kjQ47cziTQ17YIA62KcgX"
+    },
     {
       "added_at": "2025-05-23 08:41:07",
       "album": {

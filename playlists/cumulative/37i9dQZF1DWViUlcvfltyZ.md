@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 irossa sui vostri schermi
 
-2,022 songs - 4 day 16 hr 47 min
+2,023 songs - 4 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Briciole](https://open.spotify.com/track/0WsYtbZjsv4oguJtVJvevh) | [Astruso](https://open.spotify.com/artist/3KAdDKm0QZlus9E20UaZlp) | [Guardare](https://open.spotify.com/album/02UAzCAkKXBy44EbmUTEpS) | 2:29 | 2024-02-08 | 2024-03-01 |
 | [Briciole](https://open.spotify.com/track/4aJvcKyKlB9plU78kLzgJ4) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [Preda dei venti](https://open.spotify.com/album/7B0UiGsUxljGcZd3qKLsDA) | 2:56 | 2025-10-23 | 2026-01-30 |
 | [Bright Black Hole](https://open.spotify.com/track/3cVTr5LRWm1ypwCUjfWN2t) | [Big Mountain County](https://open.spotify.com/artist/4DzWstaAmf3JWxAWt3THQm) | [Bright Black Hole](https://open.spotify.com/album/1B53G1w8WQBYc18ynX2waG) | 3:20 | 2024-11-14 | 2025-01-03 |
+| [Bright Shadow](https://open.spotify.com/track/1GUUcTv3qVUIZhi21a64Ud) | [Mr\. Bison](https://open.spotify.com/artist/0TE7bBoZ1pF0yjfmxlFFwz) | [Bright Shadow](https://open.spotify.com/album/5N4jBQJChdxcRStqrn1GQS) | 7:13 | 2026-08-06 |  |
 | [Brilla](https://open.spotify.com/track/69794T4KbrULnP9yLn1nMW) | [MIVERGOGNO](https://open.spotify.com/artist/2ViO7phpBZJNKwhNqoWSau) | [Brilla](https://open.spotify.com/album/5PxxsDsiDpxzLdDtJf8YAS) | 2:50 | 2025-08-07 | 2025-08-22 |
 | [Bring beers and food](https://open.spotify.com/track/3qldGxGO2yO9fSDB9mfoke) | [Sleap\-e](https://open.spotify.com/artist/0zaHskaZiKsAmGMPWp0iNS) | [Bring beers and food](https://open.spotify.com/album/7HxsPjxKYkERworsy4xi3J) | 2:22 | 2026-05-21 | 2026-07-10 |
 | [Broccoletti Goes Punk](https://open.spotify.com/track/1g8YIqdmnPl4B7YXtmWlKk) | [Marchiza](https://open.spotify.com/artist/1dyLjZ261DhTy6Qq2EmNJJ) | [Broccoletti Goes Punk](https://open.spotify.com/album/3NryFAzIjGgs8kWEdK06PR) | 2:39 | 2023-06-08 | 2023-06-30 |
@@ -1433,7 +1434,7 @@
 | [Prigionia](https://open.spotify.com/track/1zAim4kAlqGntjUw6P6Sov) | [Breathe Me In](https://open.spotify.com/artist/78XpnnstgBFWLIG2ZiDKY7) | [Prigionia](https://open.spotify.com/album/1txqMh7EDjj3V1yJwHmafr) | 3:32 | 2022-09-01 | 2022-10-28 |
 | [prima d'ora](https://open.spotify.com/track/1hwVmePqZwItex3vcnyxI5) | [PRIMADORA](https://open.spotify.com/artist/6pq7P6NRqunloWGIv4NdUL) | [prima d'ora](https://open.spotify.com/album/2QAySnwfQYK7DqJ6AMZaxn) | 2:46 | 2024-10-17 | 2024-11-29 |
 | [Prima di te](https://open.spotify.com/track/2WOERJt8fA1SWlWxkiLaJi) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Prima di te](https://open.spotify.com/album/6wbMBxHiNuQblUhPTUa6r9) | 3:05 | 2023-11-30 | 2024-01-26 |
-| [Prima pioggia](https://open.spotify.com/track/3Qmxe8yaTPz3bXIyHiZ6d3) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Prima pioggia](https://open.spotify.com/album/5G5cShcIutTZIY1cNBKpXM) | 3:35 | 2026-06-18 |  |
+| [Prima pioggia](https://open.spotify.com/track/3Qmxe8yaTPz3bXIyHiZ6d3) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Prima pioggia](https://open.spotify.com/album/5G5cShcIutTZIY1cNBKpXM) | 3:35 | 2026-06-18 | 2026-08-07 |
 | [PRIMA VERA](https://open.spotify.com/track/7vatCI1IdxSTH7DumTPGMH) | [Kalpa](https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9) | [PRIMA VERA](https://open.spotify.com/album/0SuKKHLUGuGTevdJTGKkR2) | 3:38 | 2025-06-05 | 2025-07-18 |
 | [Primavera](https://open.spotify.com/track/3I9H6Ut8XH1BUMYVe2PVfe) | [Atlante](https://open.spotify.com/artist/0xLBGvXZZt5vhuTOtqXrvY) | [Primavera](https://open.spotify.com/album/6lmQSCPbEVeYzvqHW6SHRm) | 5:12 | 2024-03-21 | 2024-05-10 |
 | [PRIMAVERA](https://open.spotify.com/track/43oTFvtvlDw4pLWkYEzXgO) | [ZEBRA TSO](https://open.spotify.com/artist/5Oy94OaXUZiAWLqoTWAjQ2) | [PRIMAVERA](https://open.spotify.com/album/25jMfZtV88himejvLv6b59) | 3:12 | 2025-01-09 | 2025-02-07 |

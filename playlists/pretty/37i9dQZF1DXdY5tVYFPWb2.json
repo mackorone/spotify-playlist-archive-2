@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 182602,
+  "num_followers": 182628,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKbPVC7Upk10x35Laf6E6y9NP21t",
+  "snapshot_id": "AAAAALdmncWuMCHyAk9tfNgLwQlNTnIO",
   "tracks": [
     {
       "added_at": "2026-07-28 15:01:10",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-07-28 15:01:10",
       "album": {
-        "name": "Purple Dream",
-        "url": "https://open.spotify.com/album/3RmwOMZX7KqloQesVFo90q"
-      },
-      "artists": [
-        {
-          "name": "Emi Aramaki",
-          "url": "https://open.spotify.com/artist/1pqWTWc4xYNC2vH0hxTwmk"
-        }
-      ],
-      "duration_ms": 256096,
-      "name": "Purple Dream",
-      "url": "https://open.spotify.com/track/4FicsGG1Qz8LjI0bEoxPa4"
-    },
-    {
-      "added_at": "2026-07-28 15:01:10",
-      "album": {
         "name": "Watching Over You",
         "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
+    },
+    {
+      "added_at": "2026-07-28 15:01:10",
+      "album": {
+        "name": "Purple Dream",
+        "url": "https://open.spotify.com/album/3RmwOMZX7KqloQesVFo90q"
+      },
+      "artists": [
+        {
+          "name": "Emi Aramaki",
+          "url": "https://open.spotify.com/artist/1pqWTWc4xYNC2vH0hxTwmk"
+        }
+      ],
+      "duration_ms": 256096,
+      "name": "Purple Dream",
+      "url": "https://open.spotify.com/track/4FicsGG1Qz8LjI0bEoxPa4"
     },
     {
       "added_at": "2026-07-28 15:01:10",
@@ -999,6 +999,22 @@
       "duration_ms": 248098,
       "name": "TOMODACHI",
       "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
+    },
+    {
+      "added_at": "2026-07-28 15:01:10",
+      "album": {
+        "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa"
     },
     {
       "added_at": "2026-07-28 15:01:10",
@@ -1039,22 +1055,6 @@
       "duration_ms": 224600,
       "name": "\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
-    },
-    {
-      "added_at": "2026-07-28 15:01:10",
-      "album": {
-        "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
-        "url": "https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
-      "url": "https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa"
     },
     {
       "added_at": "2026-07-28 15:01:10",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-07-28 15:01:10",
       "album": {
-        "name": "Grow apart",
-        "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
+        "name": "RELOADING CITY",
+        "url": "https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI"
       },
       "artists": [
         {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
         }
       ],
-      "duration_ms": 192000,
-      "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
-      "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
+      "duration_ms": 264360,
+      "name": "\u30a2\u30dd\u30ed",
+      "url": "https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD"
     },
     {
       "added_at": "2026-07-28 15:01:10",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-07-28 15:01:10",
       "album": {
-        "name": "RELOADING CITY",
-        "url": "https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI"
+        "name": "Grow apart",
+        "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
       },
       "artists": [
         {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
         }
       ],
-      "duration_ms": 264360,
-      "name": "\u30a2\u30dd\u30ed",
-      "url": "https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD"
+      "duration_ms": 192000,
+      "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
+      "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
     },
     {
       "added_at": "2026-07-28 15:01:10",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-07-28 15:01:10",
       "album": {
-        "name": "\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u30a2\u30ed\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/3XO7V4ThUG4ytIau8qSxaL"
-      },
-      "artists": [
-        {
-          "name": "RETRORIRON",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 298715,
-      "name": "\u3075\u305f\u308a",
-      "url": "https://open.spotify.com/track/6mWM2XvitdQyMPOhPKiOSX"
-    },
-    {
-      "added_at": "2026-07-28 15:01:10",
-      "album": {
         "name": "NEW GRAVITY",
         "url": "https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 225746,
       "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
       "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
+    },
+    {
+      "added_at": "2026-07-28 15:01:10",
+      "album": {
+        "name": "\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u30a2\u30ed\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/3XO7V4ThUG4ytIau8qSxaL"
+      },
+      "artists": [
+        {
+          "name": "RETRORIRON",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 298715,
+      "name": "\u3075\u305f\u308a",
+      "url": "https://open.spotify.com/track/6mWM2XvitdQyMPOhPKiOSX"
     },
     {
       "added_at": "2026-07-28 15:01:10",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-07-28 15:01:10",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 217659,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
-    },
-    {
-      "added_at": "2026-07-28 15:01:10",
-      "album": {
         "name": "Drink!",
         "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 187862,
       "name": "Drink!",
       "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
+    },
+    {
+      "added_at": "2026-07-28 15:01:10",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
     },
     {
       "added_at": "2026-07-28 15:01:10",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-07-28 15:01:10",
       "album": {
-        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
-        "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
-      },
-      "artists": [
-        {
-          "name": "RETRORIRON",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 325898,
-      "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
-      "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
-    },
-    {
-      "added_at": "2026-07-28 15:01:10",
-      "album": {
         "name": "tonun 2",
         "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
       },
@@ -1571,34 +1555,18 @@
     {
       "added_at": "2026-07-28 15:01:10",
       "album": {
-        "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
-        "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
       },
       "artists": [
         {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+          "name": "RETRORIRON",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
         }
       ],
-      "duration_ms": 255293,
-      "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
-    },
-    {
-      "added_at": "2026-07-28 15:01:10",
-      "album": {
-        "name": "Living Room",
-        "url": "https://open.spotify.com/album/17wsj6ok978OcBQhmNexce"
-      },
-      "artists": [
-        {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
-      "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"
+      "duration_ms": 325898,
+      "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
+      "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
     },
     {
       "added_at": "2026-07-28 15:01:10",
@@ -1627,22 +1595,18 @@
     {
       "added_at": "2026-07-28 15:01:10",
       "album": {
-        "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
-        "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
+        "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
+        "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
       },
       "artists": [
         {
-          "name": "TOSHIKI HAYASHI(%C)",
-          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
-        },
-        {
-          "name": "Emi Okamoto",
-          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
         }
       ],
-      "duration_ms": 248842,
-      "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
-      "url": "https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm"
+      "duration_ms": 255293,
+      "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
     },
     {
       "added_at": "2026-07-28 15:01:10",
@@ -1663,18 +1627,18 @@
     {
       "added_at": "2026-07-28 15:01:10",
       "album": {
-        "name": "Rainy Runway",
-        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
+        "name": "Living Room",
+        "url": "https://open.spotify.com/album/17wsj6ok978OcBQhmNexce"
       },
       "artists": [
         {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
         }
       ],
-      "duration_ms": 241680,
-      "name": "Rainy Runway",
-      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+      "duration_ms": 251600,
+      "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
+      "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"
     },
     {
       "added_at": "2026-07-28 15:01:10",
@@ -1691,6 +1655,42 @@
       "duration_ms": 201600,
       "name": "Flower Garden",
       "url": "https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj"
+    },
+    {
+      "added_at": "2026-07-28 15:01:10",
+      "album": {
+        "name": "Rainy Runway",
+        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Rainy Runway",
+      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+    },
+    {
+      "added_at": "2026-07-28 15:01:10",
+      "album": {
+        "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
+        "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "Emi Okamoto",
+          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
+        }
+      ],
+      "duration_ms": 248842,
+      "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
+      "url": "https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm"
     },
     {
       "added_at": "2026-07-28 15:01:10",

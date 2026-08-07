@@ -1,12 +1,12 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 518092,
+  "num_followers": 518183,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFFwIowy3jat4Hk268vrl355v8Q4",
+  "snapshot_id": "AAAAALX74uc2n613nuYsGD8iWrbLXBi+",
   "tracks": [
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Todos Mis Mejores Amigos",
+        "url": "https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 305573,
+      "name": "M\u00e1s All\u00e1 De Tu Ventana",
+      "url": "https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Ganas de Vivir",
         "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
       },
@@ -1687,26 +1707,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Todos Mis Mejores Amigos",
-        "url": "https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 305573,
-      "name": "M\u00e1s All\u00e1 De Tu Ventana",
-      "url": "https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Tienes que Creer",
         "url": "https://open.spotify.com/album/6TZZT6jNGCn6DMKnGjFBwl"
       },
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "La Sunamita",
-        "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        },
-        {
-          "name": "Alex Marquez Oficial",
-          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
-        }
-      ],
-      "duration_ms": 773909,
-      "name": "La Sunamita",
-      "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Lo Peor de Mi",
         "url": "https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 280450,
       "name": "Lo Peor de Mi",
       "url": "https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "La Sunamita",
+        "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        },
+        {
+          "name": "Alex Marquez Oficial",
+          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
+        }
+      ],
+      "duration_ms": 773909,
+      "name": "La Sunamita",
+      "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
     },
     {
       "added_at": "2026-05-12 05:08:23",

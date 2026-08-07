@@ -2,12 +2,13 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Endah N Rhesa
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Atlesta
 
-564 songs - 1 day 11 hr 54 min
+567 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["obsessed"](https://open.spotify.com/track/0JdCGnIfvQWWm1SkMx3KfT) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | ["obsessed"](https://open.spotify.com/album/3hQ1Y0qo7qLFVeF7gDkVbH) | 2:50 | 2026-08-07 |  |
 | [+B\-3\-X+ \(Perunggu ver.\)](https://open.spotify.com/track/4L6oqjoKS0IlEOwrVjvMAD) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [DIFFERENT](https://open.spotify.com/album/0h7BShQP66wqF0tGgTXl4T) | 3:41 | 2025-03-21 | 2025-10-24 |
 | [20 Tahun](https://open.spotify.com/track/2IWpyADDSrmNvSCpWOBh5t) | [Nona Sepatu Kaca](https://open.spotify.com/artist/1dl0ubPoe0cD2Du6nujVJE) | [20 Tahun](https://open.spotify.com/album/3wNUDgGjBaWKHM1s23qGLw) | 5:01 | 2024-11-28 | 2025-10-24 |
 | [6 Years](https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [6 Years](https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM) | 2:42 | 2026-05-15 |  |
@@ -73,6 +74,7 @@
 | [Blues dari Rumah](https://open.spotify.com/track/75SPAZgHvdQ72a0MwFb1ev) | [Christabel Annora](https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq) | [Sudut Kamar](https://open.spotify.com/album/2WXRlR4QoYDhmD7OZsgcI9) | 2:25 | 2024-08-09 | 2024-10-04 |
 | [Boy](https://open.spotify.com/track/0ZTmXwcJHScpFKYvpn1GxY) | [FARUZ](https://open.spotify.com/artist/46eConcY4MjCgE1vZSZkiO) | [Boy](https://open.spotify.com/album/5C94LDJzlNnEyViDX8GQiQ) | 3:44 | 2024-08-29 | 2024-11-08 |
 | [Break Your Wall](https://open.spotify.com/track/3rndqiKUhfZouJZDTYYQTK) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Break Your Wall](https://open.spotify.com/album/4cGbfTJQjfsvCSe4mkJNmc) | 3:09 | 2026-01-30 | 2026-05-09 |
+| [Building](https://open.spotify.com/track/3KeW6p83GJwuNUfegAGH1m) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Building](https://open.spotify.com/album/6TziaCeqD9bpWb2GlyULmW) | 3:58 | 2026-08-07 |  |
 | [Bunga Mawas](https://open.spotify.com/track/6W80U6x8yW8JoeOQysSuG1) | [Rigaskara](https://open.spotify.com/artist/2cfQKHwOPRF2UyEiKLexPW) | [Bunga Mawas](https://open.spotify.com/album/58OsknBLelN6eMs7DIRcWQ) | 3:03 | 2024-10-07 | 2025-03-07 |
 | [Burn](https://open.spotify.com/track/0yR1fy72LIFLQqfjVVnFhN) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Burn](https://open.spotify.com/album/75YDVoGjHMD7r7OY5vJEIm) | 3:07 | 2024-06-27 | 2024-08-30 |
 | [Burner](https://open.spotify.com/track/2x2CSutqHcnAGNbewINTy0) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Balancing Act](https://open.spotify.com/album/7qxu4XZfchLLdmXKOh84xs) | 2:43 | 2024-10-31 | 2025-02-14 |
@@ -158,7 +160,7 @@
 | [Fantasi](https://open.spotify.com/track/2gd4rxTdI3eDWJDJO55dQj) | [Crayon Cosmos](https://open.spotify.com/artist/22iWhjjaX8kiL2HcPEwdvt) | [Fantasi](https://open.spotify.com/album/4s9KCrpNlQoEJ1WG1qHuqw) | 2:33 | 2025-07-17 | 2025-10-24 |
 | [Fashion Star](https://open.spotify.com/track/1iKk2lQGjltQkxqXm7SFb9) | [Helicat](https://open.spotify.com/artist/14n0XRttSZ4loKncdbUXe3) | [Fashion Star](https://open.spotify.com/album/0dnYbCK4yVF0y9dhwfFwzf) | 3:38 | 2026-06-26 |  |
 | [Fatamorgana](https://open.spotify.com/track/4rqEnEq8CQzOzjwU2iCHxn) | [Yudis Dwiko](https://open.spotify.com/artist/5Ud9VCmLavle5o180t45fZ) | [Fatamorgana](https://open.spotify.com/album/7IyIwRaq66irZCv1n8sdEo) | 3:37 | 2024-09-13 | 2024-11-29 |
-| [February Ends](https://open.spotify.com/track/4cVwMS4jnuLRFvmEc3O5b6) | [aditt](https://open.spotify.com/artist/7cFuwo3V3uBt5FT62ap6gj) | [Trilogy of Gratitude](https://open.spotify.com/album/62fTJGjNItIoxe4p18KTRm) | 2:59 | 2026-05-01 |  |
+| [February Ends](https://open.spotify.com/track/4cVwMS4jnuLRFvmEc3O5b6) | [aditt](https://open.spotify.com/artist/7cFuwo3V3uBt5FT62ap6gj) | [Trilogy of Gratitude](https://open.spotify.com/album/62fTJGjNItIoxe4p18KTRm) | 2:59 | 2026-05-01 | 2026-08-07 |
 | [Feeling for You](https://open.spotify.com/track/0NA1nlCQ9BlRbbY8F6UTN9) | [LONE](https://open.spotify.com/artist/5HeBFZyF0fqXHw7SU1xZHF) | [Feeling for You](https://open.spotify.com/album/49FXRUWF9fMNgV5BF8vAyk) | 4:13 | 2024-06-27 | 2024-07-05 |
 | [Fell 4 U](https://open.spotify.com/track/2NW2dhhqVi2zyWWrht0Yxh) | [Alika](https://open.spotify.com/artist/3cOIvAvtcVtmNwwfrjNLv5) | [Fell 4 U](https://open.spotify.com/album/4sMOy7wGvjBKFurJBcfa5F) | 3:24 | 2026-03-26 | 2026-06-26 |
 | [Fermeture](https://open.spotify.com/track/7gwmbKdpNWwFQrr7554mnF) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 1:04 | 2024-07-16 | 2024-08-30 |
@@ -294,7 +296,7 @@
 | [Let's Go To The Beach \(I Will Bring You\)](https://open.spotify.com/track/2TvVi3hAKPhUsox6TcgAcg) | [Ocean Beach Vibration](https://open.spotify.com/artist/3ELIP8n3uOx5yGfsJ1g2T8) | [Let's Go To The Beach \(I Will Bring You\)](https://open.spotify.com/album/2vCXALDSdpVMTPUyIv1ckt) | 2:14 | 2025-03-03 | 2025-04-26 |
 | [Lika Liku Skenario](https://open.spotify.com/track/0NBzQ32l4GRHSpB8T6iVNW) | [Binar](https://open.spotify.com/artist/0Q0tNebCddkZXmn5MQBCol) | [Lika Liku Skenario](https://open.spotify.com/album/4G2qCL6sGBLwYnSFpFI7ja) | 3:39 | 2025-12-11 | 2026-05-09 |
 | [Lionel](https://open.spotify.com/track/0ahxXloiXety15M48Jgxsi) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Lionel](https://open.spotify.com/album/1RQyw3gtJMQD7xxfk9SqWS) | 3:31 | 2024-08-16 | 2024-11-01 |
-| [Local Wisdumb](https://open.spotify.com/track/2XCvkqpaTqjqlVTXrTipco) | [Aldy Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Local Wisdumb](https://open.spotify.com/album/4EfSZ4WZVkAUwmi0Ur7C5C) | 2:30 | 2026-04-24 |  |
+| [Local Wisdumb](https://open.spotify.com/track/2XCvkqpaTqjqlVTXrTipco) | [Aldy Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Local Wisdumb](https://open.spotify.com/album/4EfSZ4WZVkAUwmi0Ur7C5C) | 2:30 | 2026-04-24 | 2026-08-07 |
 | [Local Wisdumb](https://open.spotify.com/track/0LhFKfrliFkoRKUgr1fzAs) | [Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Local Wisdumb](https://open.spotify.com/album/3RaeNdg9IIf04OFSFv6qrX) | 2:30 | 2025-04-25 | 2025-06-20 |
 | [Lost](https://open.spotify.com/track/6RJIX0DfN4TAhxZCf8v8rE) | [re:NAN](https://open.spotify.com/artist/1JtMRbvX7bgGBifCBhgPFW) | [Lost Consciousness, Pt​.​2](https://open.spotify.com/album/5ADuz65F3CITmNYen4Bx9v) | 2:42 | 2024-07-19 | 2024-08-30 |
 | [Lost \- Remastered](https://open.spotify.com/track/2T01si7GbNoELB3pMG4GSj) | [Frys](https://open.spotify.com/artist/4lCBdUlETFSzE8JhSHyhyJ) | [La Journée](https://open.spotify.com/album/6MwK3P1HHWGBQAK7Wl9yq8) | 2:52 | 2024-11-28 | 2025-01-03 |
@@ -451,6 +453,7 @@
 | [Sembunyi](https://open.spotify.com/track/2UhSDafBQvRgdUbkE0LFwe) | [Pertunjukan](https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4) | [Sembunyi](https://open.spotify.com/album/4z2p6BK8w2VF6SKZIWg5Tx) | 4:52 | 2026-02-12 | 2026-05-09 |
 | [Sembunyi Dulu](https://open.spotify.com/track/2ZKB9tTGEIvDxxRTRb9eo7) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Observasi Transisi](https://open.spotify.com/album/3Unye4dZgHfEcLN3foo8X0) | 4:00 | 2025-11-06 | 2026-05-23 |
 | [Semesta Asmara](https://open.spotify.com/track/0tn3dQuEHJEhGlILenLYnM) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Semesta Asmara](https://open.spotify.com/album/5J9ZbBkXToilNQefkoL5Aq) | 3:47 | 2025-02-13 |  |
+| [Semu](https://open.spotify.com/track/11rWQVHyNB0Ok5LzAKosvP) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Semu](https://open.spotify.com/album/6Eqo3gZE9zuCM9kCSod2Ei) | 3:48 | 2026-08-07 |  |
 | [Semua lagu cinta](https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:51 | 2024-06-27 | 2025-02-21 |
 | [Senandung Bergembira \(Pararararararam\)](https://open.spotify.com/track/11Cwy0JX8ms1NIe8QMqbpW) | [Miss and Sir Lary](https://open.spotify.com/artist/4PjqbCsuNkb4mu82mpUXV5) | [Senandung Bergembira \(Pararararararam\)](https://open.spotify.com/album/3XakPYy6B1mJ5VK7z9WhVg) | 6:22 | 2025-06-19 | 2025-08-22 |
 | [Sendiri](https://open.spotify.com/track/0rny1DwAxNE4RGdt5taChr) | [Tokyolite](https://open.spotify.com/artist/5B5CUIyGVsu1aJdLvqH2m5) | [Modern Pastiche](https://open.spotify.com/album/4seZUm3oqgEiOhdgzISZOa) | 3:52 | 2025-02-13 | 2025-04-11 |
@@ -476,7 +479,7 @@
 | [Sofa](https://open.spotify.com/track/6T0TCXAjAClGjtRrtXNCCj) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Sofa](https://open.spotify.com/album/3As3ggTCinS2YTULKru48j) | 4:54 | 2025-02-20 |  |
 | [Some Things Change](https://open.spotify.com/track/1Bf4teWLvVPtZpknMHeaOF) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Awkward Pop Music](https://open.spotify.com/album/70Br2gTCCJoO7hYQfH6Mvt) | 2:18 | 2025-05-16 | 2025-07-04 |
 | [Somebody](https://open.spotify.com/track/2pEQ9g8Onxp3cxK6DMpln5) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Somebody](https://open.spotify.com/album/6xG1Tz7Li6xSmdJJHClCxk) | 3:18 | 2025-11-06 | 2026-01-15 |
-| [Somebody to Love](https://open.spotify.com/track/7cGivVuKgxzPEncphBHK4F) | [Inis](https://open.spotify.com/artist/3ZEWZc8OXQTxWyiCQrnqi3) | [Somebody to Love](https://open.spotify.com/album/4Q6vt0pyZkJ0YR3Cx1y9fA) | 3:17 | 2026-03-26 |  |
+| [Somebody to Love](https://open.spotify.com/track/7cGivVuKgxzPEncphBHK4F) | [Inis](https://open.spotify.com/artist/3ZEWZc8OXQTxWyiCQrnqi3) | [Somebody to Love](https://open.spotify.com/album/4Q6vt0pyZkJ0YR3Cx1y9fA) | 3:17 | 2026-03-26 | 2026-08-07 |
 | [Someone Made For Me](https://open.spotify.com/track/1E38mDGZntSrz0dot6A6y1) | [Asteriska](https://open.spotify.com/artist/24j6RDsf06YOAKudHmvPry) | [Someone Made For Me](https://open.spotify.com/album/3l7dUQ6SNnMVkqJWKJvL2G) | 3:04 | 2025-04-25 | 2025-06-20 |
 | [special wishes 3](https://open.spotify.com/track/4n2F4nUFAEZwYNJ5dFQ8CU) | [Kareem Soenharjo](https://open.spotify.com/artist/3a8I3dOLEe0Mliys7Jaxdp) | [special wishes 3](https://open.spotify.com/album/2hVfef0fTfby543LtGPmgP) | 2:38 | 2024-12-13 | 2025-02-21 |
 | [Stay](https://open.spotify.com/track/1Mk7OXg1AxopGOWsPL5GQf) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [Stay](https://open.spotify.com/album/1oA3WqpcTfAGsYzMixuToO) | 4:02 | 2026-04-24 |  |

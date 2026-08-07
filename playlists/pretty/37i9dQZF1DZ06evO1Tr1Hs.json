@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 46969,
+  "num_followers": 46979,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAADxsKQqICbcYD7b/4Labgf/",
+  "snapshot_id": "anJ9AAAAAADcQSfgt5tHMe4h8ck1U/zB",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 173195,
+      "name": "Fell In Love (with Ken Carson)",
+      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Chaos",
         "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
       },
@@ -259,22 +279,6 @@
       "duration_ms": 230923,
       "name": "Blakk Rokkstar",
       "url": "https://open.spotify.com/track/1LsisG6aoqfsF1r6M4LpMO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "yes",
-        "url": "https://open.spotify.com/album/7IKQ2LS9mqFhGMB1M0IJrt"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 174989,
-      "name": "yes",
-      "url": "https://open.spotify.com/track/0AsznzqG4tJ0qnrWBZHrJO"
     },
     {
       "added_at": null,
@@ -315,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+        "name": "yes",
+        "url": "https://open.spotify.com/album/7IKQ2LS9mqFhGMB1M0IJrt"
       },
       "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 173195,
-      "name": "Fell In Love (with Ken Carson)",
-      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
+      "duration_ms": 174989,
+      "name": "yes",
+      "url": "https://open.spotify.com/track/0AsznzqG4tJ0qnrWBZHrJO"
     },
     {
       "added_at": null,

@@ -3465,6 +3465,32 @@
     },
     {
       "album": {
+        "name": "FOTO",
+        "url": "https://open.spotify.com/album/5JqdbGF5lsAj5DPCvV88me"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "FOTO",
+      "url": "https://open.spotify.com/track/68MyQ74n2P9F20sF0ojgVC"
+    },
+    {
+      "album": {
         "name": "FOUTINI",
         "url": "https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8"
       },
@@ -4294,7 +4320,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 159635,
       "name": "INSOMNIA HOTEL",
       "url": "https://open.spotify.com/track/6AdlRsXVF7FppB7d02xfFm"

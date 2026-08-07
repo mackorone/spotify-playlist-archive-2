@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Selfi Yamma
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,761 likes - 106 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,769 likes - 106 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 9 | [Benang dan Layang\-Layang](https://open.spotify.com/track/6hwlxRTmTJz9eHNiplV1V3) | [Mansyur S](https://open.spotify.com/artist/4uq6QLz8nA9LAj01MDk58W) | [Benang dan Layang\-Layang](https://open.spotify.com/album/3hkxt8AjCoWE0w3NaYyfUi) | 3:23 |
 | 10 | [Oey](https://open.spotify.com/track/5OFFf5MNEEFhdDPWTrdcwf) | [Afan](https://open.spotify.com/artist/0861WHgbfpUBsvIbU1b1ZD) | [Oey](https://open.spotify.com/album/0s1qmw1uBh9Lj7YbQ7TUX9) | 3:19 |
 | 11 | [Cincin Kepalsuan](https://open.spotify.com/track/635cvp7jE8hZXu8F85Ek4f) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Cincin Kepalsuan](https://open.spotify.com/album/6Sjtc1kGTX45UfxOxqYZj8) | 5:36 |
-| 12 | [Ay](https://open.spotify.com/track/3F2SABxuCnGm2QvtFYf0yo) | [Eby](https://open.spotify.com/artist/5gDlLgkZisEeYWMUvarltN), [Zahra Sima](https://open.spotify.com/artist/2aMVsQ9863eLAFplMCk30O) | [Ay](https://open.spotify.com/album/2EDSNZkY9bmeHholssPObo) | 3:37 |
+| 12 | [Ay](https://open.spotify.com/track/3F2SABxuCnGm2QvtFYf0yo) | [Eby](https://open.spotify.com/artist/5gDlLgkZisEeYWMUvarltN), [Zahra DA7](https://open.spotify.com/artist/0snMso9CwRUFq0IUQYredt) | [Ay](https://open.spotify.com/album/2EDSNZkY9bmeHholssPObo) | 3:37 |
 | 13 | [Seperti Mati Lampu](https://open.spotify.com/track/42v0kZBM2ZuurbBamHYMlT) | [King nassar](https://open.spotify.com/artist/2SsGOU0OZ5ElIz6PN7aSYg) | [Seperti Mati Lampu](https://open.spotify.com/album/3rEM45bNPbJbhyc7AGgUcK) | 4:07 |
 | 14 | [Maunya Apa Sih?](https://open.spotify.com/track/5ztHGFd8hHMYPSGERevtOY) | [Tommy Ali](https://open.spotify.com/artist/4eBRdZqPrrm48UmWCYngha) | [Maunya Apa Sih?](https://open.spotify.com/album/129lOLBQMRnOPWJcY8nC4e) | 3:40 |
 | 15 | [PEPATAH \(Perantau Pantang Menyerah\)](https://open.spotify.com/track/5npmNVwv1aDEUGXh4XQGoo) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [PEPATAH \(Perantau Pantang Menyerah\)](https://open.spotify.com/album/2uveD0xqni46XNiKrQiclW) | 4:05 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 105 | [Khianatiku](https://open.spotify.com/track/2TtWxUm8XnwMmKFEdw8FZN) | [Andre Mastijan](https://open.spotify.com/artist/4CaULC2hulDukMworEU70V) | [Khianatiku](https://open.spotify.com/album/2IuAi1TB6o7IVql5MKNAHI) | 4:18 |
 | 106 | [Egois](https://open.spotify.com/track/4avHigwVYoL7TD48EhcNFK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Egois](https://open.spotify.com/album/4wnJOz5Oeg9tVK7MonAwnt) | 4:17 |
 
-Snapshot ID: `AAAAAJgqdLCkIIR2jYAWJ/WsPGA6HIdL`
+Snapshot ID: `AAAAABjwFvaTJhuwMfCMorHZv7EysSz6`

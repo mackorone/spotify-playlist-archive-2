@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 121062,
       "name": "6pm",
       "url": "https://open.spotify.com/track/7089sv3SdB56MofZo1Qsas"
@@ -546,6 +546,24 @@
       "duration_ms": 180533,
       "name": "As You Go",
       "url": "https://open.spotify.com/track/0epc6FCUxWAOYI5q7nyIQu"
+    },
+    {
+      "album": {
+        "name": "Asleep Talking",
+        "url": "https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ferrell",
+          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156329,
+      "name": "Asleep Talking",
+      "url": "https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC"
     },
     {
       "album": {
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 268049,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1YJ0idEEKJtToXT8ynpY85"
@@ -4626,6 +4644,24 @@
       "duration_ms": 175094,
       "name": "Not Even In Vegas",
       "url": "https://open.spotify.com/track/7py49RvdjMaZCEDPzMTgo9"
+    },
+    {
+      "album": {
+        "name": "Officially",
+        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205144,
+      "name": "Officially",
+      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
     },
     {
       "album": {

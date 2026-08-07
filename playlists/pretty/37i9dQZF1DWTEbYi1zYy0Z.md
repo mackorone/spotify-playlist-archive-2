@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,059 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,101 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [This Time Around \(Radio Version\)](https://open.spotify.com/track/3gLRVrB27WFfu0EnpiO6UG) | [Four80East](https://open.spotify.com/artist/2xiHxT5QkkxHVhljrRGbW9) | [This Time Around \(Radio Version\)](https://open.spotify.com/album/0H21NRwSaH33O0jiXZNwTC) | 4:24 |
 | 100 | [Solag](https://open.spotify.com/track/6NR43oOqDquzfkAVdldWJ7) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Solag](https://open.spotify.com/album/27L1aYTKh0rNNnOTt9fp9t) | 2:59 |
 
-Snapshot ID: `AAAAADs+Bxox8XJH3/k/mBYU3vgz9cWg`
+Snapshot ID: `AAAAAAbw45BKmDy+z1cAD6t2jpkzLsWr`

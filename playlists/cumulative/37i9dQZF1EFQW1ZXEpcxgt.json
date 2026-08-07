@@ -3393,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "Vans On",
+        "url": "https://open.spotify.com/album/54AFsTGuBaGll5nhcCZbwX"
+      },
+      "artists": [
+        {
+          "name": "Travis Mills",
+          "url": "https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177640,
+      "name": "Vans On",
+      "url": "https://open.spotify.com/track/620HJqJyx6sB4yt5WdHuPg"
+    },
+    {
+      "album": {
         "name": "Leaving Home EP",
         "url": "https://open.spotify.com/album/5nIrQ7v6eerzwqcsappkxE"
       },
@@ -3404,7 +3422,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 178026,
       "name": "Vans On - Explicit Edit",
       "url": "https://open.spotify.com/track/0XdSXNkZ16iDnuDPiiB5aq"

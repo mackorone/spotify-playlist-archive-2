@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 234550,
+  "num_followers": 234533,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAADE1V/PclBIZMknWhyNio9G",
+  "snapshot_id": "anJ9AAAAAABIOJmvEZHrLFUVECSzfa8N",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cali Y El Dandee: Fiesta",
+        "url": "https://open.spotify.com/album/0tb6uSXTCSnViCjTJo0hwb"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5f2LcI06r5cpp99ozVVuM4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar 2",
         "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 232666,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/6XHAknr2XSEmfN09SRHyJa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cali Y El Dandee: Fiesta",
-        "url": "https://open.spotify.com/album/0tb6uSXTCSnViCjTJo0hwb"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5f2LcI06r5cpp99ozVVuM4"
     },
     {
       "added_at": null,
@@ -379,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mientras Me Enamoras",
+        "url": "https://open.spotify.com/album/1dM6TuQuv0TRWLHbooLxTn"
+      },
+      "artists": [
+        {
+          "name": "Lalo Brito",
+          "url": "https://open.spotify.com/artist/4OZ9NCfN5GczACLIYvDCz7"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 209824,
+      "name": "Mientras Me Enamoras",
+      "url": "https://open.spotify.com/track/3PzZNV9AANQ1VFs80IHOEx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar 2",
         "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
       },
@@ -403,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Me Enamoras",
-        "url": "https://open.spotify.com/album/1dM6TuQuv0TRWLHbooLxTn"
-      },
-      "artists": [
-        {
-          "name": "Lalo Brito",
-          "url": "https://open.spotify.com/artist/4OZ9NCfN5GczACLIYvDCz7"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 209824,
-      "name": "Mientras Me Enamoras",
-      "url": "https://open.spotify.com/track/3PzZNV9AANQ1VFs80IHOEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Despertar: Reggaeton",
         "url": "https://open.spotify.com/album/4zE5Cz09g8ZMcuLCbbOI4A"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 182813,
       "name": "No Bailes Sola",
       "url": "https://open.spotify.com/track/18Ehq6VGcQOYfVBT4EYed5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Valiente",
-      "url": "https://open.spotify.com/track/5bHUugTGfu636hC4knWtVP"
     },
     {
       "added_at": null,
@@ -479,6 +463,22 @@
       "duration_ms": 153109,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/1hgXogcqTeq5Ht1tn36460"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Valiente",
+      "url": "https://open.spotify.com/track/5bHUugTGfu636hC4knWtVP"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Lilibeth Lilibeth",
-          "url": "https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Amor De Ni\u00f1os",
-      "url": "https://open.spotify.com/track/42Nsc9ulcdrZlAYuJGoKaN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atrevete A So\u00f1ar (Original Sountrack)",
         "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 162440,
       "name": "Quiero Quedarme Aqui",
       "url": "https://open.spotify.com/track/5NbKBvXnw5YhkHbzMkfJSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Lilibeth Lilibeth",
+          "url": "https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Amor De Ni\u00f1os",
+      "url": "https://open.spotify.com/track/42Nsc9ulcdrZlAYuJGoKaN"
     },
     {
       "added_at": null,

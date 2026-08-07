@@ -1,12 +1,12 @@
 {
   "description": "Genre-less. Quality first always. Cover: Four Tet",
-  "num_followers": 1326616,
+  "num_followers": 1326598,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALYlcjzAJ8KMEMkbaCAxSp5eqQiu",
+  "snapshot_id": "AAAAAB3ATXeJyJnZ/NqtYCw0fWJsdmwR",
   "tracks": [
     {
       "added_at": "2026-07-31 04:02:41",
@@ -296,7 +296,7 @@
           "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
         },
         {
-          "name": "daisy",
+          "name": "daisy*",
           "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
         }
       ],
@@ -1364,7 +1364,7 @@
       },
       "artists": [
         {
-          "name": "daisy",
+          "name": "daisy*",
           "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
         }
       ],

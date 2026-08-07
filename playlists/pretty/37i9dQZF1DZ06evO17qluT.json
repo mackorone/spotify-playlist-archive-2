@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 110062,
+  "num_followers": 110141,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAACvuwsOA8LNRhRXYKqSuQy2",
+  "snapshot_id": "anJ9AAAAAADVWXke9btbYLVtXjajQXx+",
   "tracks": [
     {
       "added_at": null,
@@ -919,6 +919,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALFA",
+        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 231110,
+      "name": "Karat\u00ea",
+      "url": "https://open.spotify.com/track/5Lvm4MGdCXErM0Svb8ICUC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Odeio o Dia dos Namorados",
         "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
       },
@@ -967,34 +995,6 @@
       "duration_ms": 225803,
       "name": "Vinho, Voz e Viol\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/1wx8J9hbkS1m2KMiXN9Q7B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALFA",
-        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 231110,
-      "name": "Karat\u00ea",
-      "url": "https://open.spotify.com/track/5Lvm4MGdCXErM0Svb8ICUC"
     },
     {
       "added_at": null,

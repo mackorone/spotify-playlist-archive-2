@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-740 songs - 2 day 3 hr 13 min
+741 songs - 2 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Blue Avenue](https://open.spotify.com/track/6CK7N5K49iTzBnReWF89Nj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:18 | 2022-09-08 |  |
 | [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 |  |
 | [Blue Wonderful](https://open.spotify.com/track/5goFdE9LTs1r0JgVvOdMZ8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:37 | 2022-09-08 |  |
-| [Blues](https://open.spotify.com/track/6SIkDFZKXzXBddYshDrgvl) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [Back Country Suite](https://open.spotify.com/album/6Fe7ELZVZw5Qn3vdVtOvvF) | 1:24 | 2026-02-12 |  |
+| [Blues](https://open.spotify.com/track/6SIkDFZKXzXBddYshDrgvl) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [Back Country Suite](https://open.spotify.com/album/6Fe7ELZVZw5Qn3vdVtOvvF) | 1:24 | 2026-02-12 | 2026-08-07 |
 | [Blues For Baby And Me](https://open.spotify.com/track/2MaW82qnGVIVTDi4KeA4Y8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 5:38 | 2022-09-08 |  |
 | [Blues Never Fade Away](https://open.spotify.com/track/4gdH8mfTgmEgFyts0eq2a6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:45 | 2022-09-08 |  |
 | [Bon Voyage](https://open.spotify.com/track/2rHo3SUGeCVH2Kz7Z2jwWC) | [The Devil Wears Prada Original West End Cast](https://open.spotify.com/artist/3b9mqCrbSkiDrvLZujmVd9), [Amy Di Bartolomeo](https://open.spotify.com/artist/3gRf6nS8Qhq5SJLmbeFxjB), [Georgie Buckland](https://open.spotify.com/artist/29T4BD2F39CvYCt1n94fPN), [Liam Marcellino](https://open.spotify.com/artist/4tHXhHIiMCImdPgnLn6R41) | [The Devil Wears Prada: A New Musical](https://open.spotify.com/album/4wVOH8PfZ1PCYsGqyVjOYM) | 4:12 | 2025-09-21 |  |
@@ -742,6 +742,7 @@
 | [You Without Me](https://open.spotify.com/track/1976jJn3uLmKNUa9cIWm5q) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:39 | 2025-10-30 |  |
 | [You're So Static \- Remastered 1995](https://open.spotify.com/track/58OD5vBX95OdelGNOvpvEw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:53 | 2022-09-08 |  |
 | [Young Man's Blues](https://open.spotify.com/track/3YB0DVr8wWLyZmGvnvkUdA) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [Mose Allison Sings](https://open.spotify.com/album/5a5XbcCrFeD24y2ZdUOhFL) | 1:23 | 2022-09-08 | 2026-02-13 |
+| [Young Man's Blues](https://open.spotify.com/track/4XTnkbaZ8yJ2xwnWXuGlbx) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [Mose Allison \[2\-fer\]](https://open.spotify.com/album/2gGyT3XsV20lQg1zy0w467) | 1:28 | 2026-08-06 |  |
 | [Your Sister Can't Twist \(But She Can Rock'n' Roll\) \- Remastered 2014](https://open.spotify.com/track/2fYxpSFhg95sBwaGp5JlFU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 2:41 | 2022-09-08 |  |
 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 | 2022-09-08 |  |
 | [Your Song](https://open.spotify.com/track/4olgfOwijIxciV0RKawvFo) | [Isla Bell](https://open.spotify.com/artist/0W4zTvt8vI2WqTHuDluYth) | [Keyside](https://open.spotify.com/album/6c4QsoNkS3hGpNsLDwefZQ) | 4:25 | 2022-09-08 | 2025-11-21 |

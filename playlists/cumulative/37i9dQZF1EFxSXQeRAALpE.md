@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wb3dcSPYJ6xlVpP6HG0u8">Kristen Anderson\-Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-197 songs - 8 hr 44 min
+198 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [The Tummy Song](https://open.spotify.com/track/4nk0bMWjzMU0ds2VWxlmnK) | [Jim Cummings](https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG), [Robert Lopez](https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB) | [Winnie the Pooh](https://open.spotify.com/album/38lqlFkYKpEa3LgDQtqVdo) | 1:07 | 2024-07-26 |  |
 | [Tiger Shark](https://open.spotify.com/track/1pMPiT4LBpztRN4QAkHlsp) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Scott Porter](https://open.spotify.com/artist/43C3SHgh5VkxLhXvZJy4uM), [Carlos Valdes](https://open.spotify.com/artist/4Ya1zqEk4JbCoyZBgUMNKI) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 3:03 | 2024-07-26 |  |
 | [To Really Know Someone](https://open.spotify.com/track/2M6zpDnIXmoF9rNE7pbkQr) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Mae Whitman](https://open.spotify.com/artist/4vOzhuYhVNHVToghhXMwPw), [Sophia Hammons](https://open.spotify.com/artist/4QJfrqcHIzoFwiP90qmWvF), [John Hodgman](https://open.spotify.com/artist/1B9hohYDOxFbOScp2QAayW), [Katie Finneran](https://open.spotify.com/artist/7CV1kXmo2dc3mmH3UjTN1j) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 2:52 | 2024-07-26 |  |
-| [True Love \- From "Frozen: The Broadway Musical"](https://open.spotify.com/track/5LBKT2mbkMbsVOWmurRqYy) | [Patti Murin](https://open.spotify.com/artist/4wWuKGRcPwVaItabLxnObP) | [Frozen: The Broadway Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2rCCUNn3PUaTsKRAKBIzh4) | 2:54 | 2024-07-26 |  |
+| [True Love \- From "Frozen: The Broadway Musical"](https://open.spotify.com/track/5LBKT2mbkMbsVOWmurRqYy) | [Patti Murin](https://open.spotify.com/artist/4wWuKGRcPwVaItabLxnObP) | [Frozen: The Broadway Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2rCCUNn3PUaTsKRAKBIzh4) | 2:54 | 2024-07-26 | 2026-08-07 |
+| [True Love \- From "Frozen: The Broadway Musical" / First Listen](https://open.spotify.com/track/1BD2AIIgnq2NhRARNqAdAB) | [Patti Murin](https://open.spotify.com/artist/4wWuKGRcPwVaItabLxnObP) | [True Love \(From "Frozen: The Broadway Musical" / First Listen\)](https://open.spotify.com/album/7j8R2YV8zXmk6UYSfqyjac) | 2:54 | 2026-08-06 |  |
 | [Unmeltable Me \- Outtake](https://open.spotify.com/track/0UHLKg0rdoOGZaxBi85DU0) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Frozen 2 \(Banda Sonora Original en Español/Edición Deluxe\)](https://open.spotify.com/album/1ltVI90usp38HOd7QmSSD2) | 1:25 | 2025-01-18 | 2025-01-20 |
 | [Unmeltable Me \- Outtake](https://open.spotify.com/track/1d1QoTsJoL17RvTLvoWu9w) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [La Reine des Neiges 2 \(Bande Originale Française du Film/Deluxe Edition\)](https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT) | 1:25 | 2025-01-19 | 2025-01-22 |
 | [Unmeltable Me \- Outtake](https://open.spotify.com/track/2hbzMb4Md31NVuLIP3I0HD) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Frozen 2 \(Originele Nederlandstalige Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3kL8E8BhaivWmyOjnms0gl) | 1:25 | 2024-07-26 | 2025-01-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Kapo, Clarent, benny blanco, Selena Gomez and Becky G,  Marca MP & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,315 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,381 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 48 | [Todo Es Magia](https://open.spotify.com/track/6dY6DSQzORiACueN2QPHdA) | [Agenda Ritual](https://open.spotify.com/artist/0vveG6WXYuE37Eln0SUbsG) | [Todo Es Magia](https://open.spotify.com/album/30KnoRWVub3L1eDgasBV8z) | 2:41 |
 | 49 | [Liebre](https://open.spotify.com/track/6ITo8VAcShkjNnjAPPes9r) | [Valentina Tross](https://open.spotify.com/artist/3DHBbvXDFxpnGvTGLP07YN) | [Liebre](https://open.spotify.com/album/6sHIjyrCaB1BqB8uN16Ehh) | 3:16 |
 
-Snapshot ID: `AAAAACbJbcrq6rvlTO5e80UNE9BNG4/x`
+Snapshot ID: `AAAAAI8noeus00oxG2LB4V+VGurWRRl6`

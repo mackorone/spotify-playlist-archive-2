@@ -13355,6 +13355,24 @@
     },
     {
       "album": {
+        "name": "Mix Amor Sincero",
+        "url": "https://open.spotify.com/album/2ZTDN2xRiZTtMKQ3NlxIEM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Amor Rebelde",
+          "url": "https://open.spotify.com/artist/7o87YDHbNRlbpGoZXiKwF2"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316685,
+      "name": "Mix Amor Sincero",
+      "url": "https://open.spotify.com/track/3uvB72qGSAsBY7h9daH4WX"
+    },
+    {
+      "album": {
         "name": "Mix Chelero (El Chelero/En Donde Est\u00e1s Amor/En una Esquina Cuando Yo Cantaba)",
         "url": "https://open.spotify.com/album/2stYuAebCnWttW4lANFBUv"
       },
@@ -17946,7 +17964,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"

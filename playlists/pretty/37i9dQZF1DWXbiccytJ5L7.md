@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow\. Cover: Big Mo
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,818 likes - 120 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,884 likes - 120 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 30 | [Lifeline](https://open.spotify.com/track/1y0UdMX6sLtarE8oJBGUZF) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Lifeline](https://open.spotify.com/album/7ifWIFxDEeJ72ZdhnyAXDf) | 2:56 |
 | 31 | [Runnin](https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 3:07 |
 | 32 | [Shot for You](https://open.spotify.com/track/6drWeyOfzFSp5MHBtO7cbJ) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Shot for You](https://open.spotify.com/album/16xY44VL9nAocX855PN4PR) | 3:03 |
-| 33 | [FKN Hate You](https://open.spotify.com/track/5siIfgfQ1ZmmUOpPsBcALG) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [FKN Hate You](https://open.spotify.com/album/6ZItnHl9phSgmCyPdgWYxQ) | 2:31 |
+| 33 | [FKN Hate You \(feat\. JaYy Wick\)](https://open.spotify.com/track/5siIfgfQ1ZmmUOpPsBcALG) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [FKN Hate You](https://open.spotify.com/album/6ZItnHl9phSgmCyPdgWYxQ) | 2:31 |
 | 34 | [Z71 \(BOOSTED\) \(feat\. Colt Graves\)](https://open.spotify.com/track/1v5kQnkl0RRDPGEnwOo2Wo) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb), [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ) | [Z71 \(BOOSTED\) \[feat\. Colt Graves\]](https://open.spotify.com/album/5JGKYXY2nUPqaJLcwZfkTx) | 3:23 |
 | 35 | [About You \(feat\. Tucker Wetmore\)](https://open.spotify.com/track/4mDeL6rcWzsCLVYcdnzDo5) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:56 |
 | 36 | [COUNTRY GRIPPIN](https://open.spotify.com/track/78cht5chnXRJwouQNouAfr) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [COUNTRY GRIPPIN](https://open.spotify.com/album/6ZsqzXvIif4OsRBIDUutJs) | 2:56 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 119 | [Ride 4 Me](https://open.spotify.com/track/7yyEXTDz5p8BrN60dmYOJ3) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Ride 4 Me](https://open.spotify.com/album/0GikiFDQpTLKZ6ytl4zms0) | 3:12 |
 | 120 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 |
 
-Snapshot ID: `AAAAAJrZszGTX14JFEKFmiNk/MOdOemr`
+Snapshot ID: `AAAAABA9a/575wn8QqT5rusX1fHIbqL/`

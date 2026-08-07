@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 1137000,
       "name": "Fantasy on Gershwin's 'Porgy and Bess'",
       "url": "https://open.spotify.com/track/0uQFLOGhBoL38Bibkd2SfX"
@@ -2088,10 +2088,28 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 153162,
       "name": "How Long Has This Been Going On (12)",
       "url": "https://open.spotify.com/track/7gb1OisMzANSBw19eBt0WM"
+    },
+    {
+      "album": {
+        "name": "All About Chris",
+        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153720,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/6MSPmlosmWdBLPxXxLfhTW"
     },
     {
       "album": {
@@ -2459,6 +2477,28 @@
     },
     {
       "album": {
+        "name": "Gershwin: Fascinating Rhythm \u2013 The Complete Music for Solo Piano",
+        "url": "https://open.spotify.com/album/1VCP79nHexqkrQ5jXe58bY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Angela Brownridge",
+          "url": "https://open.spotify.com/artist/7suBrtDHxXAC0bJ0TIiL4S"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67733,
+      "name": "Impromptu in Two Keys",
+      "url": "https://open.spotify.com/track/45vUR9PqS5o98Wifcpxp86"
+    },
+    {
+      "album": {
         "name": "Impromptu",
         "url": "https://open.spotify.com/album/2UYasjewDpuyNVxO32ytnD"
       },
@@ -2478,7 +2518,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 147666,
       "name": "Impromptu in Two Keys",
       "url": "https://open.spotify.com/track/1jvsvbfQfCwh6maXlLzsnV"
@@ -3104,10 +3144,32 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 239693,
       "name": "Love Walked In",
       "url": "https://open.spotify.com/track/0EKksM4Hbt4DwTTApwBcDZ"
+    },
+    {
+      "album": {
+        "name": "Love Walked In (Arr. Percy Grainger)",
+        "url": "https://open.spotify.com/album/12PCYr9QviilnSMXybwHAq"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Moye Chen",
+          "url": "https://open.spotify.com/artist/4IlPCg2HdMaCvvm06VSHZ1"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231733,
+      "name": "Love Walked In (Arr. Percy Grainger)",
+      "url": "https://open.spotify.com/track/4UJHs6QvUDDnRuO1JMtfls"
     },
     {
       "album": {
@@ -3191,6 +3253,28 @@
     },
     {
       "album": {
+        "name": "Gershwin: Fascinating Rhythm \u2013 The Complete Music for Solo Piano",
+        "url": "https://open.spotify.com/album/1VCP79nHexqkrQ5jXe58bY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Angela Brownridge",
+          "url": "https://open.spotify.com/artist/7suBrtDHxXAC0bJ0TIiL4S"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83200,
+      "name": "Merry Andrew",
+      "url": "https://open.spotify.com/track/5fNvX28LpI8ltYOiYBQZ2A"
+    },
+    {
+      "album": {
         "name": "Gershwin Take Two",
         "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
       },
@@ -3206,7 +3290,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 119040,
       "name": "Merry Andrew",
       "url": "https://open.spotify.com/track/39HgE8EHWibUXzE1waoq1j"
@@ -4708,10 +4792,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 211426,
       "name": "Put Me To The Test",
       "url": "https://open.spotify.com/track/35nR4t1rvjYOd6xoLsuCqg"
+    },
+    {
+      "album": {
+        "name": "Cover Girl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4hCZgqDi7pv86WeUuae4JV"
+      },
+      "artists": [
+        {
+          "name": "Gene Kelly",
+          "url": "https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200515,
+      "name": "Put Me to the Test",
+      "url": "https://open.spotify.com/track/1Aj3aGCcKyn2x6v4qkfqaC"
     },
     {
       "album": {

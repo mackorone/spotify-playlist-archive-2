@@ -1,12 +1,12 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: Asake",
-  "num_followers": 320644,
+  "num_followers": 320637,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM7ddYNlK0ydqhyyelO8Ghr6pX/2",
+  "snapshot_id": "AAAAAFPLrzslOwlb8q+kjtVP727DhcUI",
   "tracks": [
     {
       "added_at": "2026-07-23 23:00:54",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
-        "name": "Des mythos",
-        "url": "https://open.spotify.com/album/1oEH5R9wEyBGUfutYhtv8I"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 177601,
-      "name": "Des mythos",
-      "url": "https://open.spotify.com/track/2Gysuuhf0SEoIsEiRuLVcY"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
         "name": "Talk To Me Nuh",
         "url": "https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 126042,
       "name": "Talk To Me Nuh",
       "url": "https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
+        "name": "Des mythos",
+        "url": "https://open.spotify.com/album/1oEH5R9wEyBGUfutYhtv8I"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 177601,
+      "name": "Des mythos",
+      "url": "https://open.spotify.com/track/2Gysuuhf0SEoIsEiRuLVcY"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
-        "name": "Shy Lover",
-        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Shy Lover",
-      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
         "name": "when the party's over",
         "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 184203,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
+        "name": "Shy Lover",
+        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Shy Lover",
+      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
-        "name": "Escaladizzy",
-        "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "WAVE$TAR",
-          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Escaladizzy",
-      "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
         "name": "Formation",
         "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 156666,
       "name": "Formation",
       "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
+        "name": "Escaladizzy",
+        "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Escaladizzy",
+      "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
+        "name": "Cyah Behave",
+        "url": "https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        }
+      ],
+      "duration_ms": 161736,
+      "name": "Cyah Behave",
+      "url": "https://open.spotify.com/track/5XrReM1qnTTG04tLjfKg7c"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
         "name": "No Stress",
         "url": "https://open.spotify.com/album/0GaXk84jAdVN9ya3x8Keud"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
-        "name": "Cyah Behave",
-        "url": "https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G"
+        "name": "TEMPERATURE",
+        "url": "https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy"
       },
       "artists": [
         {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
         }
       ],
-      "duration_ms": 161736,
-      "name": "Cyah Behave",
-      "url": "https://open.spotify.com/track/5XrReM1qnTTG04tLjfKg7c"
+      "duration_ms": 157727,
+      "name": "TEMPERATURE",
+      "url": "https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -667,22 +683,6 @@
       "duration_ms": 167355,
       "name": "PARTYGYAL",
       "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
-        "name": "TEMPERATURE",
-        "url": "https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy"
-      },
-      "artists": [
-        {
-          "name": "Skeete",
-          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
-        }
-      ],
-      "duration_ms": 157727,
-      "name": "TEMPERATURE",
-      "url": "https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
+        "name": "Worthwhile",
+        "url": "https://open.spotify.com/album/1OcnDnSl6uryQgYcjJWHS0"
+      },
+      "artists": [
+        {
+          "name": "NESTA",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Worthwhile",
+      "url": "https://open.spotify.com/track/4GVkOSoojuaTTWQgPqGjPj"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
         "name": "CiCi (Deluxe)",
         "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
-        "name": "Worthwhile",
-        "url": "https://open.spotify.com/album/1OcnDnSl6uryQgYcjJWHS0"
-      },
-      "artists": [
-        {
-          "name": "NESTA",
-          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Worthwhile",
-      "url": "https://open.spotify.com/track/4GVkOSoojuaTTWQgPqGjPj"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 212553,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
         "name": "OFE NSALA",
         "url": "https://open.spotify.com/album/4NNGYV2DNrAerETQDyNUPi"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 130084,
       "name": "OFE NSALA",
       "url": "https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 212553,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI"
     },
     {
       "added_at": "2026-07-23 23:00:54",

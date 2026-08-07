@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 30032,
+  "num_followers": 30041,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAACWfV/2SwfbaBqJzjVLK5sN",
+  "snapshot_id": "anJ9AAAAAACjWun2Q4caSHVcyQ3sDtO9",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gran Turismo 5 (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 327080,
-      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"On a G String\" (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/4ksxLnn1ymLGRKnwhba45Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mozart: Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\"",
         "url": "https://open.spotify.com/album/2j6Cg49cL6PtyDODubUzGY"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 291666,
       "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
       "url": "https://open.spotify.com/track/0iGDZom5WctL4eSQogMhMp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gran Turismo 5 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 327080,
+      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"On a G String\" (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/4ksxLnn1ymLGRKnwhba45Y"
     },
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 335360,
-      "name": "Limu, limu, lima (Arr. Schindler for Piano)",
-      "url": "https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voyager - Essential Max Richter",
         "url": "https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd"
       },
@@ -347,6 +327,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 335360,
+      "name": "Limu, limu, lima (Arr. Schindler for Piano)",
+      "url": "https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
+        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
+      },
+      "artists": [
+        {
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 89280,
+      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
+      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tailleferre: Valse lente",
         "url": "https://open.spotify.com/album/1ZYsAlMxGeLxcflbZOV7pZ"
       },
@@ -363,6 +383,26 @@
       "duration_ms": 166386,
       "name": "Valse lente",
       "url": "https://open.spotify.com/track/5LRwngQ52nUePgI91FNhfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 321066,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
     },
     {
       "added_at": null,
@@ -391,46 +431,6 @@
       "duration_ms": 108706,
       "name": "Portrait of Mom",
       "url": "https://open.spotify.com/track/0D3J2SJrmHmRMeuaHieHq3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 321066,
-      "name": "Goldberg Variations, BWV 988: Aria",
-      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
-        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
-      },
-      "artists": [
-        {
-          "name": "Muzio Clementi",
-          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 89280,
-      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
-      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Don\u2019t Talk About Bruno (From \"Encanto\")",
+        "url": "https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 244311,
+      "name": "We Don\u2019t Talk About Bruno - From \"Encanto\"",
+      "url": "https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Book 2",
         "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 170733,
       "name": "To Zanarkand (From \"Final Fantasy X\")",
       "url": "https://open.spotify.com/track/1k1zai8aT3y6BSlxAxQMTF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Don\u2019t Talk About Bruno (From \"Encanto\")",
-        "url": "https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 244311,
-      "name": "We Don\u2019t Talk About Bruno - From \"Encanto\"",
-      "url": "https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lang Lang - Live at Carnegie Hall",
-        "url": "https://open.spotify.com/album/2cdlYtPJ7rhnbDBH5uj12t"
-      },
-      "artists": [
-        {
-          "name": "Tan Dun",
-          "url": "https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 102813,
-      "name": "8 Memories in Watercolour, Op. 1: No. 6, Floating Clouds - Live",
-      "url": "https://open.spotify.com/track/2oxkzU9hSyW9N3cdKWUeyd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lang Lang at Royal Albert Hall",
         "url": "https://open.spotify.com/album/1SATY0ddfZt1ybNSeYBLp9"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 174013,
       "name": "Intermezzo No. 1 in E Minor",
       "url": "https://open.spotify.com/track/150Bw3QbPjlFcjmfJojLLf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lang Lang - Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/2cdlYtPJ7rhnbDBH5uj12t"
+      },
+      "artists": [
+        {
+          "name": "Tan Dun",
+          "url": "https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 102813,
+      "name": "8 Memories in Watercolour, Op. 1: No. 6, Floating Clouds - Live",
+      "url": "https://open.spotify.com/track/2oxkzU9hSyW9N3cdKWUeyd"
     },
     {
       "added_at": null,

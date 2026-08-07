@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1869087,
+  "num_followers": 1868976,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACg5zq6ZszVKEQl/p+Nci7PWyDV4",
+  "snapshot_id": "AAAAAELQgpzV/8p0uflVSne//zOgMcv9",
   "tracks": [
     {
       "added_at": "2026-06-05 20:48:48",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "True Sadness",
-        "url": "https://open.spotify.com/album/6aMhaNYwh1OwoJnNrNbm6Q"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Ain't No Man",
-      "url": "https://open.spotify.com/track/6XMYnm4OTEysN8blzqiCL9"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Milo Greene",
         "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 204213,
       "name": "1957",
       "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "True Sadness",
+        "url": "https://open.spotify.com/album/6aMhaNYwh1OwoJnNrNbm6Q"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 212346,
+      "name": "Ain't No Man",
+      "url": "https://open.spotify.com/track/6XMYnm4OTEysN8blzqiCL9"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Walking Through The Water",
-        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 301376,
-      "name": "Walking Through The Water",
-      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 253848,
       "name": "The Breach",
       "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Walking Through The Water",
+        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 301376,
+      "name": "Walking Through The Water",
+      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Nightjar and the Nightingale",
-        "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "I Just Love You",
-      "url": "https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Taking Things For Granted",
         "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "honey!",
-        "url": "https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE"
+        "name": "Nightjar and the Nightingale",
+        "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
       },
       "artists": [
         {
-          "name": "Mike Duhaime",
-          "url": "https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq"
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
         }
       ],
-      "duration_ms": 234000,
-      "name": "honey!",
-      "url": "https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo"
+      "duration_ms": 195453,
+      "name": "I Just Love You",
+      "url": "https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -995,6 +979,22 @@
       "duration_ms": 215173,
       "name": "Down In The Dirt",
       "url": "https://open.spotify.com/track/7tOqak4EI2F6D1x6Qa1FnL"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "honey!",
+        "url": "https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE"
+      },
+      "artists": [
+        {
+          "name": "Mike Duhaime",
+          "url": "https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "honey!",
+      "url": "https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Sweet Unknown",
-        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
-      },
-      "artists": [
-        {
-          "name": "Ceramic Animal",
-          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Tangled",
-      "url": "https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Celia",
         "url": "https://open.spotify.com/album/2Va2fcsc6K3k9q0YZv2K9M"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 200538,
       "name": "Celia",
       "url": "https://open.spotify.com/track/71vTcEAzho6KibO9OyG4GL"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Sweet Unknown",
+        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
+      },
+      "artists": [
+        {
+          "name": "Ceramic Animal",
+          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Tangled",
+      "url": "https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Early in the Morning (Special Edition)",
-        "url": "https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 219952,
-      "name": "Sparrow and the Wolf",
-      "url": "https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Wild Spirit",
         "url": "https://open.spotify.com/album/6uRqR9oIdKcdOeW3xNtIUf"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Fast Like a Match",
-        "url": "https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6"
+        "name": "Early in the Morning (Special Edition)",
+        "url": "https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i"
       },
       "artists": [
         {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 161013,
-      "name": "Fast Like a Match",
-      "url": "https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc"
+      "duration_ms": 219952,
+      "name": "Sparrow and the Wolf",
+      "url": "https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1511,6 +1495,22 @@
       "duration_ms": 207069,
       "name": "Easy, Love",
       "url": "https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Fast Like a Match",
+        "url": "https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "Fast Like a Match",
+      "url": "https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1611,22 +1611,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Half Your Love",
-        "url": "https://open.spotify.com/album/6k8jU0hWDAPJTSZybkUTC4"
+        "name": "Give Me The Reason (Stripped Acoustic)",
+        "url": "https://open.spotify.com/album/3EtG50pcQ4QExmabzcHnzn"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        },
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 143416,
-      "name": "Half Your Love (with The Secret Sisters)",
-      "url": "https://open.spotify.com/track/0g4u514UEj6kGOAanCaD2d"
+      "duration_ms": 234186,
+      "name": "Give Me The Reason",
+      "url": "https://open.spotify.com/track/7d6ECwiSQEikOrJt5SNWMo"
     }
   ],
   "unique_name": "Happy Folk",

@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Bridget Blue
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Ila Nia
 
-369 songs - 20 hr 51 min
+370 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Chai ya saa kumi](https://open.spotify.com/track/1gQsbe5nVBPmfj5Y1d1kec) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Chai ya saa kumi](https://open.spotify.com/album/6zo9fgnkIliVQoZLSB9Wh5) | 4:00 | 2026-05-07 |  |
 | [Cham Thum \(Atoti\)](https://open.spotify.com/track/1BmwbhNlcgVsv8eSp4E0sJ) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Double Treble](https://open.spotify.com/album/2JheMlR0zti0sznMydH2rJ) | 4:13 | 2025-02-13 | 2025-02-21 |
 | [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 | 2025-02-13 | 2026-07-31 |
+| [Choosing You](https://open.spotify.com/track/387HAijpDGR7NYyFbbLuUC) | [Ila Nia](https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp), [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [Choosing You](https://open.spotify.com/album/691tRaAFHRDgxpt9LxbRnO) | 3:02 | 2026-08-06 |  |
 | [Closer](https://open.spotify.com/track/1GcVWnkn97MRFPfn2MdzVm) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Closer](https://open.spotify.com/album/2DBe7nfLlOyptHcyY0nSwF) | 3:22 | 2026-05-29 |  |
 | [Closer To Me](https://open.spotify.com/track/7mWYPdQS1MBEtWMHqAHjUa) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Closer To Me](https://open.spotify.com/album/3CRiDFu1JxHKZ9bij10BoA) | 2:44 | 2024-01-26 | 2024-06-14 |
 | [Coka Mucie](https://open.spotify.com/track/4WUB5yrRvObEzUIld8zRm8) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Coka Mucie](https://open.spotify.com/album/77IgdQQfnJkNuRtjSN3DtP) | 4:13 | 2021-12-28 | 2024-10-11 |
@@ -123,7 +124,7 @@
 | [Hold Me](https://open.spotify.com/track/4ZeGRehi5kL2TL4Lkc30Cw) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Eternal](https://open.spotify.com/album/50LpyVLTSFsbTQTLlFiSz7) | 4:21 | 2026-03-05 |  |
 | [Homabay](https://open.spotify.com/track/6a6k7ieZ83lmqqpw9pYhwS) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Blink](https://open.spotify.com/album/6vzfIdktz4sBazv4NSOz1n) | 3:23 | 2026-07-15 | 2026-07-23 |
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-06-10 | 2024-02-16 |
-| [Hooptie Dreaming](https://open.spotify.com/track/24RziR14e8PcXwQE0PjARY) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ) | [9](https://open.spotify.com/album/5UmCWZYsFIfjTQM9qcBdQk) | 3:20 | 2025-10-02 |  |
+| [Hooptie Dreaming](https://open.spotify.com/track/24RziR14e8PcXwQE0PjARY) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ) | [9](https://open.spotify.com/album/5UmCWZYsFIfjTQM9qcBdQk) | 3:20 | 2025-10-02 | 2026-08-07 |
 | [How Do I Love You?](https://open.spotify.com/track/0ORidvLztLQP8FlTt3D6Wv) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [How Do I Love You?](https://open.spotify.com/album/4Z3COKGKGS2f7TOhO3wnQE) | 3:49 | 2025-08-14 | 2026-07-31 |
 | [HOW FAR](https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [HOW FAR](https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W) | 3:40 | 2024-05-16 | 2024-11-29 |
 | [Hujawahi Nipenda](https://open.spotify.com/track/1KpsGQ1CE8jOHBSAyqIz5e) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Hujawahi Nipenda](https://open.spotify.com/album/3FsC48Ey5w01pDux5ec2Um) | 2:30 | 2025-03-07 | 2026-01-30 |

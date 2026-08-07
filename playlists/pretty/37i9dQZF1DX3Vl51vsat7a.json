@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAiSfXv9CPrcu8kGxLez+5Eb68Ya",
+  "snapshot_id": "AAAAAOv9lTpbzA9bgGhknZhwD7P5YRja",
   "tracks": [
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "I Feel Like Shit And It's All Your Fault",
         "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
@@ -25,7 +25,27 @@
       "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
+      "album": {
+        "name": "disstrack",
+        "url": "https://open.spotify.com/album/1cKqmrqpLqQv7w36THAaUh"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        },
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        }
+      ],
+      "duration_ms": 160210,
+      "name": "disstrack",
+      "url": "https://open.spotify.com/track/1DvE4PD6gtLCOJqpORDqG2"
+    },
+    {
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "HOMECOMING",
         "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Ich hasse die Sonne",
         "url": "https://open.spotify.com/album/18rA6WaQpeQ9900eATDeuA"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/5nxq7zSGWdE9RZYolZaxdt"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Kamera Blitzlicht",
         "url": "https://open.spotify.com/album/646xIOsDbv5KQq09Vgt3eg"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/1iqw9RC7HckP1b75DkO2es"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "himbeersorbet",
         "url": "https://open.spotify.com/album/01junsA8SQhsHhjYZbdH4Q"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/1dNOuGSRY0F6QwN0B75mts"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "This Is Nice",
         "url": "https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/1PATluDwNKgyj88RJA4a1Z"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Zwilling",
         "url": "https://open.spotify.com/album/2kZQkjTic3M1mG1dVIB0Av"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/28eswYbPQEl1dCvxz5lWQc"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "erst recht",
         "url": "https://open.spotify.com/album/2y0yqDdEMm3TcX4CGODbTC"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/0ZKIhZ5jljuJLbRCK5H9Ky"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "gespenst",
         "url": "https://open.spotify.com/album/3gPpx1Da0u90mR0WhEsfqb"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/65pvdGSYLDAhUKrArfi0WR"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "i'm not here for you",
         "url": "https://open.spotify.com/album/28FKhG2juuloRcJE3uA5xq"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/6klzatwC5cmgTCzQ1n1o31"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Wieso",
         "url": "https://open.spotify.com/album/6K1nYULYod3v6ffOKwp5ei"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "klein sein",
         "url": "https://open.spotify.com/album/25avQp1HWKPYlMAiBUgNxG"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/6trZW0tMFDcxTcUuIngVNv"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Explaining Men",
         "url": "https://open.spotify.com/album/1X8ehV7zFRKkN46jp4ZYdo"
@@ -233,7 +253,7 @@
       "url": "https://open.spotify.com/track/5umPRKheAMtcTjdrYRHBd7"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Can\u2019t Get Over Me",
         "url": "https://open.spotify.com/album/1Tlm3OKT8jc9zwbbgjPIuK"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/1jW0VX0lQlkCNK9f9pMhhe"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/6AbCeJrzZyaHhm7DWDeZ24"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/2zVfQnoQ13vUtDgeQtdAHQ"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "WHERE\u2019S THE FUN?",
         "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "es ist okay, dass du f\u00fchlst",
         "url": "https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "jAGUAR",
         "url": "https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "i saw it in a dream",
         "url": "https://open.spotify.com/album/5pNDz23eMMeWYzBYIKyuAQ"
@@ -329,23 +349,7 @@
       "url": "https://open.spotify.com/track/5CPxByKjPDgdFgNifgE4Ae"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
-      "album": {
-        "name": "baby T EP",
-        "url": "https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC"
-      },
-      "artists": [
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "dein buhmann !!!",
-      "url": "https://open.spotify.com/track/5jJcmufdbaUJrG1UiLTKM2"
-    },
-    {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Jamais \u00c9t\u00e9 (Cool)",
         "url": "https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra"
@@ -361,7 +365,7 @@
       "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "wundersch\u00f6n",
         "url": "https://open.spotify.com/album/7FZb8KVTiFmxpUmTaduyJT"
@@ -377,7 +381,7 @@
       "url": "https://open.spotify.com/track/1zFQF4A7SOCcBFvcZZNKns"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Will You Take Me As I Am?",
         "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
@@ -393,23 +397,7 @@
       "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
-      "album": {
-        "name": "baby T EP",
-        "url": "https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC"
-      },
-      "artists": [
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "duration_ms": 126200,
-      "name": "schwindelig (omgomgomg)",
-      "url": "https://open.spotify.com/track/6hQgOls99mEFCS8LSOQSUx"
-    },
-    {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "FEHLER",
         "url": "https://open.spotify.com/album/2rFYSttek6eovCXxI704e8"
@@ -425,7 +413,7 @@
       "url": "https://open.spotify.com/track/5FtUIB7VhWGi9ZmcFFeNHU"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "ein Lied f\u00fcr mich",
         "url": "https://open.spotify.com/album/4r9HLxIb968I4FynItwxFj"
@@ -441,7 +429,7 @@
       "url": "https://open.spotify.com/track/5Fsu0TrOztCwhpt0TXhY3M"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "bullfight",
         "url": "https://open.spotify.com/album/6nrmlkU9elKQBL5rePqqaD"
@@ -461,27 +449,7 @@
       "url": "https://open.spotify.com/track/1wM7wW0GWCvWcWyDUjuQOF"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
-      "album": {
-        "name": "isy",
-        "url": "https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL"
-      },
-      "artists": [
-        {
-          "name": "yola",
-          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
-        },
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "duration_ms": 150199,
-      "name": "isy",
-      "url": "https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH"
-    },
-    {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Vergeben (ans Leben)",
         "url": "https://open.spotify.com/album/72yvEy7DONAkwTvch9C2rl"
@@ -497,7 +465,7 @@
       "url": "https://open.spotify.com/track/3duSLGUdDRMd2xTnfk4xq8"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Everything\u2019s Built To Last",
         "url": "https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk"
@@ -513,7 +481,7 @@
       "url": "https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Moth Music",
         "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp"
@@ -533,7 +501,7 @@
       "url": "https://open.spotify.com/track/7fidUHHPzuVuN6ECBsp2vJ"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Dankbar",
         "url": "https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm"
@@ -549,7 +517,7 @@
       "url": "https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Sesquicentennial",
         "url": "https://open.spotify.com/album/6oA7RFLJEdoJBlRWrsIb0a"
@@ -565,7 +533,7 @@
       "url": "https://open.spotify.com/track/2mL6kQBqh3uy8RqYftposl"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Mich selbst",
         "url": "https://open.spotify.com/album/0GVBQN5S6CykRYpprV3l0d"
@@ -581,7 +549,7 @@
       "url": "https://open.spotify.com/track/42qXgF9aACLBZjcMnpfO36"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Gib uns nicht auf",
         "url": "https://open.spotify.com/album/3uMI5CuOOqZLw2rUqa5uit"
@@ -601,7 +569,7 @@
       "url": "https://open.spotify.com/track/4Rfv2xTvaOIrJpYTmrMiju"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Milk",
         "url": "https://open.spotify.com/album/5YSgMAS15Hai4c69Gfnzez"
@@ -617,7 +585,7 @@
       "url": "https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Speakers Blowing",
         "url": "https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN"
@@ -633,7 +601,7 @@
       "url": "https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "soft prn",
         "url": "https://open.spotify.com/album/4ni9Y0IHtsDXzTqG4fPatp"
@@ -649,7 +617,7 @@
       "url": "https://open.spotify.com/track/19KtAWkvjC37sWGIDf76CH"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Brich mich",
         "url": "https://open.spotify.com/album/3T5br6m5wsjODxas4HyLeN"
@@ -665,7 +633,7 @@
       "url": "https://open.spotify.com/track/2r67sBB5WQWUdrVKz8sFnU"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
@@ -681,7 +649,7 @@
       "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "dr\u00fcber",
         "url": "https://open.spotify.com/album/32Iwnr4veZIN6DfBvlGjup"
@@ -697,7 +665,7 @@
       "url": "https://open.spotify.com/track/6Nba0kHJYsPaPZ575l2huu"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "SEKTION 4",
         "url": "https://open.spotify.com/album/4l2Jz96DR1AldgAYtJVnra"
@@ -713,7 +681,7 @@
       "url": "https://open.spotify.com/track/02E8qv06f7gm7q1tontVZh"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "MASI",
         "url": "https://open.spotify.com/album/6Oys1wD8ZKLfIxyqkMf9gp"
@@ -729,7 +697,23 @@
       "url": "https://open.spotify.com/track/5d5G6tTUaZcZovudQMdW42"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
+      "album": {
+        "name": "baby T EP",
+        "url": "https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "dein buhmann !!!",
+      "url": "https://open.spotify.com/track/5jJcmufdbaUJrG1UiLTKM2"
+    },
+    {
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "This is normal now",
         "url": "https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I"
@@ -745,7 +729,7 @@
       "url": "https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Pretty Words",
         "url": "https://open.spotify.com/album/6qEbR3N1Gvf9TGTUnUBqST"
@@ -761,7 +745,7 @@
       "url": "https://open.spotify.com/track/2CzPV6BQsDX3UXoi4w7hyj"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/73eC5wTTB0XFpHUZ29ma8X"
@@ -781,7 +765,7 @@
       "url": "https://open.spotify.com/track/0Z6wRXvwfrCGZSZRmbOnAi"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Room Service",
         "url": "https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ"
@@ -797,7 +781,27 @@
       "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
     },
     {
-      "added_at": "2026-07-23 22:01:18",
+      "added_at": "2026-08-06 22:00:50",
+      "album": {
+        "name": "isy",
+        "url": "https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "duration_ms": 150199,
+      "name": "isy",
+      "url": "https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH"
+    },
+    {
+      "added_at": "2026-08-06 22:00:50",
       "album": {
         "name": "Dienstag",
         "url": "https://open.spotify.com/album/0gidecBoYd1pQrhgj1hYnH"

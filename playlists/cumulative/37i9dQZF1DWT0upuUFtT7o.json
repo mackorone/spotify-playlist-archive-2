@@ -3550,7 +3550,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 125849,
       "name": "androgynous",
       "url": "https://open.spotify.com/track/42EW9h83a492E9z9Kh4n0y"
@@ -30238,7 +30238,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 166167,
       "name": "i wait, i sink",
       "url": "https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN"
@@ -39176,7 +39176,7 @@
       },
       "artists": [
         {
-          "name": "daisy",
+          "name": "daisy*",
           "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
         }
       ],
@@ -53485,6 +53485,24 @@
     },
     {
       "album": {
+        "name": "Swans Today",
+        "url": "https://open.spotify.com/album/0E3RzONlpsXq6Qn9GxoSma"
+      },
+      "artists": [
+        {
+          "name": "Paulie Swan",
+          "url": "https://open.spotify.com/artist/3gg7C3cr0fDp7MqpdZB9iQ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209750,
+      "name": "Shiner (The Cape)",
+      "url": "https://open.spotify.com/track/1gG709sk7yKhaoAK8fd9qd"
+    },
+    {
+      "album": {
         "name": "Shining",
         "url": "https://open.spotify.com/album/2M6qfeYL6f0qB2FClklOat"
       },
@@ -63240,6 +63258,24 @@
       "duration_ms": 183800,
       "name": "Tim Burton's Tower",
       "url": "https://open.spotify.com/track/1VtCpx0h8tZUFSHq01dS2X"
+    },
+    {
+      "album": {
+        "name": "Don't Spare Me",
+        "url": "https://open.spotify.com/album/3DAs5Ynjx29nAGbnksRdPU"
+      },
+      "artists": [
+        {
+          "name": "swell foop",
+          "url": "https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159900,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1Xx3qUcT0g0MJY43rzzOUe"
     },
     {
       "album": {

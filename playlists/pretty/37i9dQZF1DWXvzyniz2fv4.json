@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158255,
+  "num_followers": 158251,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD7AB2N9xk8k69ybDhVqhR9dyVSl",
+  "snapshot_id": "AAAAAF7GUrNBok4Y/hHRG7jL3dxmmO56",
   "tracks": [
     {
       "added_at": "2026-07-27 16:32:59",
@@ -955,30 +955,6 @@
     {
       "added_at": "2026-07-27 16:32:59",
       "album": {
-        "name": "VIRADA DE CHAVE",
-        "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
-      },
-      "artists": [
-        {
-          "name": "OGermano",
-          "url": "https://open.spotify.com/artist/47Ugcwxj6p08XSn39xnGqs"
-        },
-        {
-          "name": "Douglas Lemos",
-          "url": "https://open.spotify.com/artist/2jKDUa4Or2jrPrvE1EIyp8"
-        },
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        }
-      ],
-      "duration_ms": 188470,
-      "name": "QUARTAS DE CINZA",
-      "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
-    },
-    {
-      "added_at": "2026-07-27 16:32:59",
-      "album": {
         "name": "Oriente Ac\u00fastico",
         "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 160500,
       "name": "Moz\u00e3o",
       "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
+    },
+    {
+      "added_at": "2026-07-27 16:32:59",
+      "album": {
+        "name": "VIRADA DE CHAVE",
+        "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
+      },
+      "artists": [
+        {
+          "name": "OGermano",
+          "url": "https://open.spotify.com/artist/47Ugcwxj6p08XSn39xnGqs"
+        },
+        {
+          "name": "Douglas Lemos",
+          "url": "https://open.spotify.com/artist/2jKDUa4Or2jrPrvE1EIyp8"
+        },
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "duration_ms": 188470,
+      "name": "QUARTAS DE CINZA",
+      "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
     },
     {
       "added_at": "2026-07-27 16:32:59",

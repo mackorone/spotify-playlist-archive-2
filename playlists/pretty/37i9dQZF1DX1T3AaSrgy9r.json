@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 173272,
+  "num_followers": 173323,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADkRdEUUDXJkvyp4HB2epO54x+1r",
+  "snapshot_id": "AAAAANygUHAFWgBQy9ORVaU3/oX1lTBn",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 382360,
-      "name": "Original - Remastered",
-      "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Republica",
         "url": "https://open.spotify.com/album/5KIb3c4z28CHa5snztEMNK"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 301066,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 382360,
+      "name": "Original - Remastered",
+      "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 411466,
-      "name": "Open Up - Remastered",
-      "url": "https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "In Sides",
         "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 359586,
       "name": "The Box - Part 2",
       "url": "https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 411466,
+      "name": "Open Up - Remastered",
+      "url": "https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Kid A",
-        "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Idioteque",
-      "url": "https://open.spotify.com/track/7xqeIdLJSf3bgmZ7vUvHrE"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Windowlicker",
         "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
       },
@@ -1155,18 +1139,34 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/5YBiwZtLNfixvdnZfue2HC"
+        "name": "Kid A",
+        "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
       },
       "artists": [
         {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 218026,
-      "name": "Red Alert (Jaxx Radio Mix)",
-      "url": "https://open.spotify.com/track/5uTjEhlLv2YHNna0ojb5Az"
+      "duration_ms": 309093,
+      "name": "Idioteque",
+      "url": "https://open.spotify.com/track/7xqeIdLJSf3bgmZ7vUvHrE"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Dummy (Non UK Version)",
+        "url": "https://open.spotify.com/album/3gxOtUSRzweDWBKlpj7cG6"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 305560,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/68oUQRwGJGExtkpaSvSbgb"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1195,34 +1195,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dummy (Non UK Version)",
-        "url": "https://open.spotify.com/album/3gxOtUSRzweDWBKlpj7cG6"
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5YBiwZtLNfixvdnZfue2HC"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
         }
       ],
-      "duration_ms": 305560,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/68oUQRwGJGExtkpaSvSbgb"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "The Fat of the Land",
-        "url": "https://open.spotify.com/album/0cThoJ3Tz1XFYyHjUyEiw6"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 342733,
-      "name": "Smack My Bitch Up",
-      "url": "https://open.spotify.com/track/1TXBYUD9hRWkuVb3uLw5Yx"
+      "duration_ms": 218026,
+      "name": "Red Alert (Jaxx Radio Mix)",
+      "url": "https://open.spotify.com/track/5uTjEhlLv2YHNna0ojb5Az"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1243,18 +1227,34 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+        "name": "The Fat of the Land",
+        "url": "https://open.spotify.com/album/0cThoJ3Tz1XFYyHjUyEiw6"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
         }
       ],
-      "duration_ms": 298373,
-      "name": "Midnight In A Perfect World",
-      "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
+      "duration_ms": 342733,
+      "name": "Smack My Bitch Up",
+      "url": "https://open.spotify.com/track/1TXBYUD9hRWkuVb3uLw5Yx"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 151520,
+      "name": "Roygbiv",
+      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1275,6 +1275,54 @@
       "duration_ms": 416933,
       "name": "Somersault",
       "url": "https://open.spotify.com/track/6CgIaRVXNmpUgeVuHmA4a2"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Midnight In A Perfect World",
+      "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/51LMZCfC9erobzqcVNWYNE"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Army Of Me",
+      "url": "https://open.spotify.com/track/2AS1h6NKoBzCoxlnmddOjI"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Music for the Jilted Generation",
+        "url": "https://open.spotify.com/album/3HpFr2EeE38hr706Rxtmjy"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 387066,
+      "name": "Voodoo People",
+      "url": "https://open.spotify.com/track/03QUcrQ2EyMJv6q7KY3kS5"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1343,22 +1391,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 151520,
-      "name": "Roygbiv",
-      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
       },
@@ -1371,38 +1403,6 @@
       "duration_ms": 117240,
       "name": "Organ Donor",
       "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Music for the Jilted Generation",
-        "url": "https://open.spotify.com/album/3HpFr2EeE38hr706Rxtmjy"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 387066,
-      "name": "Voodoo People",
-      "url": "https://open.spotify.com/track/03QUcrQ2EyMJv6q7KY3kS5"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/51LMZCfC9erobzqcVNWYNE"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Army Of Me",
-      "url": "https://open.spotify.com/track/2AS1h6NKoBzCoxlnmddOjI"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Reconstructed : The Best Of DJ Shadow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "New Forms",
         "url": "https://open.spotify.com/album/0RFE2IiZa7OCGrEZngGlGJ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 542933,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/4i3JEpLw2pC4xfiTF30hUG"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Reconstructed : The Best Of DJ Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
     },
     {
       "added_at": "2021-07-14 17:36:34",

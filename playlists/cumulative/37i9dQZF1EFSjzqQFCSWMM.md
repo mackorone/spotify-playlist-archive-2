@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-139 songs - 6 hr 29 min
+141 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [LEGEND, Pt\. 1](https://open.spotify.com/track/7hrHSXqKIz2kTN7N7gfk1Y) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/2YGdr1a5c3V6mpC6pxvEYU) | 2:21 | 2026-02-10 |  |
 | [LET IT GO](https://open.spotify.com/track/6U0aE7POLQ0mQJd3gutMub) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [LVL 36](https://open.spotify.com/album/2en8CrkQChgJ8YJMyJPtmF) | 3:36 | 2023-12-13 |  |
 | [Lift Off](https://open.spotify.com/track/70H6NS297gvxm2TQAeMmQj) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Light Path 8](https://open.spotify.com/album/7fzkvNhOaUDsihQRGLl1K9) | 2:53 | 2023-12-13 |  |
-| [Like I'm Missy](https://open.spotify.com/track/4mVirqSP1RoQIsVszbI48b) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Like I'm Missy](https://open.spotify.com/album/2no35ZrZcU7BXNFnJ0Yk4k) | 2:38 | 2023-12-13 |  |
+| [Like I'm Missy](https://open.spotify.com/track/4mVirqSP1RoQIsVszbI48b) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Like I'm Missy](https://open.spotify.com/album/2no35ZrZcU7BXNFnJ0Yk4k) | 2:38 | 2023-12-13 | 2026-08-07 |
+| [Like I'm Missy](https://open.spotify.com/track/5ofgbtYTDAroBh4Z7vAHuU) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Still Alive, What a Shame](https://open.spotify.com/album/30YPJhHOqjVjDQ35OGxVQS) | 2:38 | 2026-08-06 |  |
 | [Love Me Again](https://open.spotify.com/track/0tq66loaJTREh2wYnShVL9) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:18 | 2023-12-13 |  |
 | [LowBatt](https://open.spotify.com/track/0mJlScE5wSE1LW2IrVmbMD) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Gravity](https://open.spotify.com/album/27QdjDHdl4pbV4vNF0S4T2) | 2:41 | 2023-12-13 |  |
 | [Mandown](https://open.spotify.com/track/1FUs8JnPJnZyDiRHNNzaQ3) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:12 | 2023-12-13 |  |
@@ -143,7 +144,8 @@
 | [Y OFC](https://open.spotify.com/track/6aeIdLzhvGKXJ0YSRCg0fJ) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/2YGdr1a5c3V6mpC6pxvEYU) | 3:23 | 2026-02-12 |  |
 | [Y OFC](https://open.spotify.com/track/6oGcbDKQFAcIfmFJYSlGxf) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 3:23 | 2023-12-13 | 2026-02-13 |
 | [YA HABIBI YA](https://open.spotify.com/track/0GSkQ4C8Jy2tDZ1ehnK4OM) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [YA HABIBI YA](https://open.spotify.com/album/3rLnnMnP1plDkNdUmN83Mu) | 3:06 | 2023-12-13 |  |
-| [Yoko](https://open.spotify.com/track/45gHc1QYBky7k38HSlaIft) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Yoko](https://open.spotify.com/album/7MX7xfLckdaiMg1POPrs42) | 2:05 | 2024-03-13 |  |
+| [Yoko](https://open.spotify.com/track/45gHc1QYBky7k38HSlaIft) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Yoko](https://open.spotify.com/album/7MX7xfLckdaiMg1POPrs42) | 2:05 | 2024-03-13 | 2026-08-07 |
+| [Yoko](https://open.spotify.com/track/4W42xFyprnWS1ag0CW4dGF) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [What A Way To Go](https://open.spotify.com/album/0GqEB3z6bCc2OlR6aR8w5d) | 2:05 | 2026-08-06 |  |
 | [YOUR BODY](https://open.spotify.com/track/10aq1Dy6DGeiV4zzwqmVdQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [UP & RUNNIN6](https://open.spotify.com/album/5EomOd5HdWMyenGsSv61D2) | 2:46 | 2024-12-11 | 2025-11-15 |
 | [Your Body](https://open.spotify.com/track/470eCN1XiajTVHgKYyzgov) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Up & Runnin6](https://open.spotify.com/album/5br8JnAS02lVhIr9YfgJHT) | 2:46 | 2025-11-14 |  |
 | [Zorba](https://open.spotify.com/track/3tzL8exhBLU5ZD724djHZs) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Aletheia](https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ) | 2:16 | 2023-12-13 |  |

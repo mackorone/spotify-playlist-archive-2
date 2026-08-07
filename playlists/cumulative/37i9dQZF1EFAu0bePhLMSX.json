@@ -2790,7 +2790,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 165693,
       "name": "Rettungsschwimmer",
       "url": "https://open.spotify.com/track/20n7znKJtjth2aRVoTD3OS"
@@ -3874,6 +3874,24 @@
       "duration_ms": 191213,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/6rYVBkMNqLBH5kw7AcBz77"
+    },
+    {
+      "album": {
+        "name": "Wannabe (Originally by Spice Girls)",
+        "url": "https://open.spotify.com/album/1C3bGMs9VIxx87QF1rEGS8"
+      },
+      "artists": [
+        {
+          "name": "I'me",
+          "url": "https://open.spotify.com/artist/2it5LXzCl301gyPGRrE0rA"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1F4rxpxuwGu2FdugC1iQkY"
     },
     {
       "album": {

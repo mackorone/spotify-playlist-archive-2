@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Evening Elephants
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,654 likes - 149 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,646 likes - 149 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 49 | [dark heaven](https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [dark heaven](https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM) | 3:32 |
 | 50 | [2am](https://open.spotify.com/track/6Z0hRKIT9jKUd5LLqVBh8p) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [2am](https://open.spotify.com/album/2QUcjg8wGsLEsQo0Hvc6as) | 3:03 |
 | 51 | [Seasons Change](https://open.spotify.com/track/0DRwpqgzcug1j16A6ktmZm) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [Seasons Change](https://open.spotify.com/album/3HNK1DEB400fb3HR4QubmX) | 3:52 |
-| 52 | [Crash First \(with mgk\)](https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crash First \(with mgk\)](https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi) | 3:43 |
+| 52 | [Crash First \(with mgk\)](https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crash First](https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi) | 3:43 |
 | 53 | [TELL ME WHY \(feat\. Mark Hoppus, Danny Elfman, Eric Nally, and Sorry My Love\)](https://open.spotify.com/track/3CYQ2bxyRAqt3ELgvCxXnk) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Eric Nally](https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn) | [JINX](https://open.spotify.com/album/35rdxaliabwQm6RTam3Wtk) | 3:35 |
 | 54 | [Molecular Conversion](https://open.spotify.com/track/3H7xHy4qOTKYdBwE0secGZ) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Molecular Conversion](https://open.spotify.com/album/7Foc5QzspTaA0YLdT4dEoE) | 3:52 |
 | 55 | [Cold](https://open.spotify.com/track/4y8GmSvRn26bR7TTp4qhWW) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Cold](https://open.spotify.com/album/0yvtMW364oSGkhwOWIGDzm) | 4:31 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 148 | [Run away with me](https://open.spotify.com/track/6LT3c2tVapQRzHQSne8gYI) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Run away with me](https://open.spotify.com/album/2ZOVj0KkuAxyKh9Dxonjof) | 3:58 |
 | 149 | [I Can't Die Like That](https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [I Can't Die Like That](https://open.spotify.com/album/313t051eeaMazltopmnbhm) | 2:31 |
 
-Snapshot ID: `AAAAALZmG8LTnsp4D6YJwiSXDWDUE2sa`
+Snapshot ID: `AAAAAAi2FwEjb6pN0ChGINZy4caH4DPo`

@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music\. Cover: Nia Archives
 
-1,141 songs - 3 day 10 hr 21 min
+1,142 songs - 3 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1) | 3:36 | 2023-03-16 | 2023-05-26 |
 | [Freaker](https://open.spotify.com/track/2LjcX9WmQTYWw7UYA7xbbw) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ) | [Freaker](https://open.spotify.com/album/3TcAQVAFJxk7Bb1JDIPEvO) | 4:39 | 2025-05-08 | 2025-10-13 |
 | [Free My Mind \- William Kiss Remix](https://open.spotify.com/track/4J1KyTPvAH6CB21rdXOILX) | [La Fleur](https://open.spotify.com/artist/5bt7DkWw4iHzjzRF2d9scU), [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx) | [Free My Mind \(William Kiss Remix\)](https://open.spotify.com/album/3OSxGuiFWtwQjtn3F1c403) | 3:27 | 2025-05-29 | 2025-10-13 |
+| [Free The Drums](https://open.spotify.com/track/1csNIbXIhGt3tdFyesyNtq) | [Redrago](https://open.spotify.com/artist/1xK643wA7N0ym7AhaEY2iB), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [She Got It Wrong](https://open.spotify.com/album/0vk14QIJCJ6DSGU8hZYQXR) | 3:20 | 2026-08-06 |  |
 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 | 2023-08-17 | 2024-02-10 |
 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 | 2024-10-03 | 2024-12-13 |
 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 | 2025-05-01 | 2025-12-19 |
@@ -472,7 +473,7 @@
 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 | 2022-12-08 | 2022-12-24 |
 | [Haraka "حركة"](https://open.spotify.com/track/5y0PD7uX1pQwT7vgeeGiZ2) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa), [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Haraka "حركة"](https://open.spotify.com/album/5vMEcdEtAvgDvOOnvLk1qV) | 5:01 | 2024-02-29 | 2024-06-01 |
 | [Hard Work](https://open.spotify.com/track/7pU9cVvLedZy0E0GFJE2K7) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Hard Work](https://open.spotify.com/album/2iVbkwx7qKJz6jqfPoqxBz) | 3:39 | 2025-06-12 | 2025-10-13 |
-| [HARDSTYLE 2](https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [HARDSTYLE 2](https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U) | 4:46 | 2025-12-18 |  |
+| [HARDSTYLE 2](https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [HARDSTYLE 2](https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U) | 4:46 | 2025-12-18 | 2026-08-07 |
 | [Harmonic Eye](https://open.spotify.com/track/001vFsfpwFMz8sssCMBVrj) | [Andy Rantzen](https://open.spotify.com/artist/0JB0gu9r44nDQdov58H5sB) | [Track Six / Harmonic Eye](https://open.spotify.com/album/5kvBA8Kycj14z5TY5jZrq1) | 4:11 | 2026-04-30 | 2026-05-22 |
 | [Hawt](https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Hawt](https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM) | 2:37 | 2022-12-08 | 2023-01-20 |
 | [Heartbeat](https://open.spotify.com/track/6MOTR6xzFe5fVTz7rum6qX) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Heartbeat](https://open.spotify.com/album/7gRArqRwOK3uXvcJXm3EO0) | 4:00 | 2023-04-27 | 2023-07-07 |

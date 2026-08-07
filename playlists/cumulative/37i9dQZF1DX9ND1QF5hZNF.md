@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur..\. ☀️
 
-434 songs - 22 hr 15 min
+435 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Nothing To Lose](https://open.spotify.com/track/14wHR7C9aPI5cH4l0wPnI4) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Nothing To Lose](https://open.spotify.com/album/7J3GKL2W7I86L3EpGQwxDi) | 3:48 | 2026-04-10 | 2026-05-15 |
 | [Now I See You](https://open.spotify.com/track/01ipvqWQEz6Xr5LVQLCNmA) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [LEØN](https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB), [Aeni](https://open.spotify.com/artist/1VBgJ5HRetfyv7SW8PQdEF), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Now I See You](https://open.spotify.com/album/1bO09VShyl7ZOeYZnHERXY) | 2:47 | 2025-05-23 | 2025-06-28 |
 | [Now You Know](https://open.spotify.com/track/41iKApBwuxn4DlCulZGmYj) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn), [Nounours](https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46) | [Now You Know](https://open.spotify.com/album/3P99SdLrd82kcVaB6XlRLw) | 2:49 | 2022-12-20 | 2023-05-13 |
+| [Oasis](https://open.spotify.com/track/6OT7o7lIOlAR98bw8QS4Gc) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Ampermut](https://open.spotify.com/artist/3NfKPE32SVWXMM4T6HUKAa), [Gobi Desert Collective](https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp), [TEJA](https://open.spotify.com/artist/4DgCdCHRYRjMSYtH2nWu72) | [Oasis](https://open.spotify.com/album/1UMBduXCceZatC2NBLvzJQ) | 3:24 | 2026-07-30 |  |
 | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu) | 2:54 | 2025-06-27 | 2025-07-19 |
 | [On Hold](https://open.spotify.com/track/60wepy1GBYHThysmuDwzIt) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS) | [Endless Melancholia](https://open.spotify.com/album/2BFFpgJ24j3RyW9UPrkUml) | 3:48 | 2026-03-13 | 2026-05-15 |
 | [On My Mind](https://open.spotify.com/track/4OqCbJgaxx0VuL8Q7leohP) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [On My Mind](https://open.spotify.com/album/1JsWPuCub4zigHwKxlGAxI) | 4:19 | 2026-02-27 | 2026-06-13 |

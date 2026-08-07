@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 196266,
+  "num_followers": 196277,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM/+tOmg1pipp8cKnzeMQv9rZFp7",
+  "snapshot_id": "AAAAADWFgoMvceV3jBo8vz7FOQFl08az",
   "tracks": [
     {
       "added_at": "2024-07-05 19:49:15",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "To Who Knows Where",
-        "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
-      },
-      "artists": [
-        {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "To Who Knows Where",
-      "url": "https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Vanishing Shores",
         "url": "https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 212725,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "To Who Knows Where",
+        "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
+      },
+      "artists": [
+        {
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "To Who Knows Where",
+      "url": "https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Oh My God",
+        "url": "https://open.spotify.com/album/3Xugyt3sTfDgvALU1St1QA"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 262542,
+      "name": "Sing a Glad Song",
+      "url": "https://open.spotify.com/track/1rKcc3LdBjj2mTLBSjSYfW"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Liz Cooper & the Stampede | Audiotree Far Out",
         "url": "https://open.spotify.com/album/6HDTKU5sFW1SwJ0CParyYQ"
       },
@@ -831,6 +847,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Bottle It In",
+        "url": "https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Loading Zones",
+      "url": "https://open.spotify.com/track/69o00fGvsei250jH7bF781"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Island Time",
         "url": "https://open.spotify.com/album/0ILY6L8LhDDnmfctnXdwjj"
       },
@@ -875,22 +907,6 @@
       "duration_ms": 376618,
       "name": "Habbie Doobie",
       "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Oh My God",
-        "url": "https://open.spotify.com/album/3Xugyt3sTfDgvALU1St1QA"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 262542,
-      "name": "Sing a Glad Song",
-      "url": "https://open.spotify.com/track/1rKcc3LdBjj2mTLBSjSYfW"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -971,22 +987,6 @@
       "duration_ms": 192027,
       "name": "Windows",
       "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Bottle It In",
-        "url": "https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Loading Zones",
-      "url": "https://open.spotify.com/track/69o00fGvsei250jH7bF781"
     }
   ],
   "unique_name": "Psych & Groove",

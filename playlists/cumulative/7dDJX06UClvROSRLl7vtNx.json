@@ -4762,7 +4762,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 195164,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/35zduYKb7Eh7ynK7RyKVix"
@@ -28210,6 +28210,24 @@
     {
       "album": {
         "name": "The Unknown",
+        "url": "https://open.spotify.com/album/55E42ULHQsxqTkJj4GydcO"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/3M7SP8B3ndoK7Ft18ozYV9"
+    },
+    {
+      "album": {
+        "name": "The Unknown",
         "url": "https://open.spotify.com/album/4v75tDnXnFX094cTrPH53i"
       },
       "artists": [
@@ -31164,6 +31182,24 @@
       "duration_ms": 148875,
       "name": "Who",
       "url": "https://open.spotify.com/track/0iwPDxjMWFudZfAorIfoFE"
+    },
+    {
+      "album": {
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/03PWUyoxbqPw6W1uKZL3nK"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9o",
+          "url": "https://open.spotify.com/artist/5Pv2JCct27DJTWvUJnbHIY"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/6yvFZzhEdkTWpdzuDFRcwr"
     },
     {
       "album": {

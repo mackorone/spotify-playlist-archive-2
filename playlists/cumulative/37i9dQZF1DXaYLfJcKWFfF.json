@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Dumama",
+  "description": "Alternative / Indie / Folk cuts from Africa and diaspora to dive into. Cover: Mishy Kope",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 380861,
       "name": "Indalo",
       "url": "https://open.spotify.com/track/5At39YQdvBvLvrRjFd8nnM"
@@ -8734,6 +8734,24 @@
       "duration_ms": 258081,
       "name": "Yeni Abre",
       "url": "https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ"
+    },
+    {
+      "album": {
+        "name": "YIMPI ENGAPHELIYO",
+        "url": "https://open.spotify.com/album/1p0wBmk6LYEmlmBb11OKsZ"
+      },
+      "artists": [
+        {
+          "name": "Mishy Kope",
+          "url": "https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233739,
+      "name": "YIMPI ENGAPHELIYO",
+      "url": "https://open.spotify.com/track/2djKgPzgBjorXuGG0iFBB6"
     },
     {
       "album": {

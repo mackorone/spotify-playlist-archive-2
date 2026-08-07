@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MARCKRIS OF BUS",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: VVV",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 176703,
       "name": "67",
       "url": "https://open.spotify.com/track/0HUI4f3Rw5zCR0g8nVxZka"
@@ -588,6 +588,24 @@
       "duration_ms": 228000,
       "name": "Because of You, I Shine",
       "url": "https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6"
+    },
+    {
+      "album": {
+        "name": "Before you go (\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e44\u0e1b)",
+        "url": "https://open.spotify.com/album/0KwKVcXNkZ8dh3vezkcYOy"
+      },
+      "artists": [
+        {
+          "name": "FAVIQ",
+          "url": "https://open.spotify.com/artist/0hBsY2QdtUQZIbPMajvLYM"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Before you go (\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e44\u0e1b)",
+      "url": "https://open.spotify.com/track/2MdaYNX7QRQeKW78cZbl16"
     },
     {
       "album": {
@@ -2930,7 +2948,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 214800,
       "name": "Mask On",
       "url": "https://open.spotify.com/track/0OLhVkAwugUjODeQgdIiC8"
@@ -4633,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "TORNADO",
+        "url": "https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb"
+      },
+      "artists": [
+        {
+          "name": "VVV",
+          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220615,
+      "name": "TORNADO",
+      "url": "https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF"
+    },
+    {
+      "album": {
         "name": "TOUCH",
         "url": "https://open.spotify.com/album/2BsXooxF3qdP8wiMlUqFae"
       },
@@ -5008,7 +5044,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 208000,
       "name": "Wasting Time",
       "url": "https://open.spotify.com/track/1VzwCri9lwLsOH2AjhwoLj"
@@ -5460,6 +5496,24 @@
       "duration_ms": 228631,
       "name": "YOU OF THE YEAR",
       "url": "https://open.spotify.com/track/7IGMR3tJIZn4IF5OL0P1BX"
+    },
+    {
+      "album": {
+        "name": "Your Candy",
+        "url": "https://open.spotify.com/album/2dnW7kR5DcFm6rjJmGmbBg"
+      },
+      "artists": [
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Your Candy",
+      "url": "https://open.spotify.com/track/4U1QLVuGWbfx4SM1YkdFi4"
     },
     {
       "album": {
@@ -9655,6 +9709,24 @@
     },
     {
       "album": {
+        "name": "\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01\u0e43\u0e19\u0e43\u0e08 (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e30\u0e40\u0e27\u0e17\u0e35 \"Once Again \u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07... \u0e22\u0e34\u0e48\u0e07\u0e40\u0e08\u0e47\u0e1a \u0e22\u0e34\u0e48\u0e07\u0e08\u0e33 \u0e22\u0e34\u0e48\u0e07\u0e23\u0e31\u0e01\")",
+        "url": "https://open.spotify.com/album/6us6CgYMEwZUAtABei8qqf"
+      },
+      "artists": [
+        {
+          "name": "\u0e1a\u0e39\u0e21 \u0e2a\u0e2b\u0e23\u0e31\u0e10",
+          "url": "https://open.spotify.com/artist/6vtsGxEqyEEVH9G85W6hD5"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01\u0e43\u0e19\u0e43\u0e08 - \u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e30\u0e40\u0e27\u0e17\u0e35 \"Once Again \u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07... \u0e22\u0e34\u0e48\u0e07\u0e40\u0e08\u0e47\u0e1a \u0e22\u0e34\u0e48\u0e07\u0e08\u0e33 \u0e22\u0e34\u0e48\u0e07\u0e23\u0e31\u0e01\"",
+      "url": "https://open.spotify.com/track/3Z6YtFTLorGQGcVbgNLvLd"
+    },
+    {
+      "album": {
         "name": "\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d\u0e27\u0e48\u0e32\u0e0a\u0e2d\u0e1a\u0e14\u0e32\u0e27 (Starry Diary)",
         "url": "https://open.spotify.com/album/3pjQCR9Roe4OdVnZjVv1gN"
       },
@@ -10600,7 +10672,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 166000,
       "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32 (You with Me) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"\u0e21\u0e35\u0e2a\u0e15\u0e34\u0e41\u0e25\u0e49\u0e27\u0e25\u0e39\u0e01\u0e1e\u0e35\u0e0a Peach And Me\"",
       "url": "https://open.spotify.com/track/1lv4lZpBhfRBTrwz0IgyFt"

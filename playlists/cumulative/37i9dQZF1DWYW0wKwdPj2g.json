@@ -5305,6 +5305,46 @@
     },
     {
       "album": {
+        "name": "Show Up (Live)",
+        "url": "https://open.spotify.com/album/1JMkm1qzX54Dm0sqgP6aNr"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Nkwocha",
+          "url": "https://open.spotify.com/artist/1kHd1wOgZPzBQsprlGBJ8a"
+        },
+        {
+          "name": "Tee Worship",
+          "url": "https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1013647,
+      "name": "Show Up - Live",
+      "url": "https://open.spotify.com/track/4huqKWlhldHQOz66KW60iK"
+    },
+    {
+      "album": {
+        "name": "Silawule (Live)",
+        "url": "https://open.spotify.com/album/3FD1NloKwsEmpD7XpWsUxv"
+      },
+      "artists": [
+        {
+          "name": "Busi Sibiya",
+          "url": "https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397000,
+      "name": "Silawule - Live",
+      "url": "https://open.spotify.com/track/2A6gGJlu0Tsxqfk0vZwtaH"
+    },
+    {
+      "album": {
         "name": "Sing For Joy",
         "url": "https://open.spotify.com/album/2bLnPf8G08JcrL4N4VWGQz"
       },

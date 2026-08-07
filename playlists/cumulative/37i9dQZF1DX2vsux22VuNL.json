@@ -135,6 +135,32 @@
     },
     {
       "album": {
+        "name": "Achei que era Doce",
+        "url": "https://open.spotify.com/album/7H5BPDj13U6ZyohcUtFQyX"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "Achei que era Doce",
+      "url": "https://open.spotify.com/track/2NoqX00Ko6Fa9H0xqgyRb9"
+    },
+    {
+      "album": {
         "name": "Acordo Cedo",
         "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
       },
@@ -3024,7 +3050,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 148058,
       "name": "Dona de Si Mesma",
       "url": "https://open.spotify.com/track/03DjVfaxXfAcZmOuGetngw"
@@ -3160,7 +3186,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 183867,
       "name": "Eita",
       "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
@@ -4500,7 +4526,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 201600,
       "name": "Fora da Lei",
       "url": "https://open.spotify.com/track/2N2iV005DwQZEYfQxFM3Bp"
@@ -4686,6 +4712,24 @@
       "duration_ms": 288400,
       "name": "F\u00e9 Imensa",
       "url": "https://open.spotify.com/track/7Ay3bqPd31lSVCN73EJvJe"
+    },
+    {
+      "album": {
+        "name": "Tempo Bom",
+        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Gamou",
+      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
     },
     {
       "album": {
@@ -6822,6 +6866,24 @@
       "duration_ms": 169646,
       "name": "No Controle",
       "url": "https://open.spotify.com/track/5N3Eev4bnivAyCQabpYPLX"
+    },
+    {
+      "album": {
+        "name": "MOSAICO",
+        "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224800,
+      "name": "No Pain No Gain",
+      "url": "https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K"
     },
     {
       "album": {

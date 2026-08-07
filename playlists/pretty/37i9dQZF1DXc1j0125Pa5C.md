@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Pagode do Adame
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,439 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,954 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Temaki / Me Bloqueia / Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/4defLEzJaYHkpCgVY0Xkmh) | [SoulBlack](https://open.spotify.com/artist/0TIUr5SWYSc8fMkrCLeqEx) | [Temaki / Me Bloqueia / Nosso Primeiro Beijo \(Ao Vivo\)](https://open.spotify.com/album/4YqQWiYeMJtN7PQMdPosZT) | 5:37 |
 | 75 | [Amor no elevador \- Demorou \- Golpe do baú](https://open.spotify.com/track/6IR7dHiM805BaTdZefOp04) | [Charlles Andre](https://open.spotify.com/artist/0Ix6zRLUpdMRnkN8Sjqjyf) | [Amor no elevador \- Demorou \- Golpe do baú](https://open.spotify.com/album/6G9hVW7D4VRtuBkdXvJLEW) | 4:46 |
 
-Snapshot ID: `AAAAAJxdaxw78/RSFiQe5+D7Q6IdKtTN`
+Snapshot ID: `AAAAAFt914aZHtxMiWTVorL4LOnOdsyi`

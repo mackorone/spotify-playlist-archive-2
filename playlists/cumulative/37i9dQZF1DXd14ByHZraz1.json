@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: INNDRIVE",
+  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Alok",
   "name": "mint brasil",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 235615,
       "name": "A New Day",
       "url": "https://open.spotify.com/track/2eaS1iJ2COp7sZWYL6IAFd"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 203636,
       "name": "AWAKE",
       "url": "https://open.spotify.com/track/5XH7i3B4Q6ZPHhdv07SEdf"
@@ -848,6 +848,28 @@
       "duration_ms": 141610,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/7y10NhdvokswimTGeYyZ98"
+    },
+    {
+      "album": {
+        "name": "Bring The Beat Back",
+        "url": "https://open.spotify.com/album/3lgwAztqNRf5uupPe88kOR"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Mr. V",
+          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275232,
+      "name": "Bring The Beat Back",
+      "url": "https://open.spotify.com/track/1xTrhGzjQXcWZOT4Xq4tZC"
     },
     {
       "album": {
@@ -3482,7 +3504,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 222148,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6r6MPuQfr3riRVWcJnfKNe"
@@ -4004,6 +4026,28 @@
       "duration_ms": 126508,
       "name": "last night i dreamt i fell in love",
       "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
+    },
+    {
+      "album": {
+        "name": "Let It Drop",
+        "url": "https://open.spotify.com/album/5fisNLHDre4GmMi2a1AbSS"
+      },
+      "artists": [
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        },
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Let It Drop",
+      "url": "https://open.spotify.com/track/570GfmaPCjck0y8IbLmgBn"
     },
     {
       "album": {
@@ -6172,7 +6216,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 186461,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/05TXeKZzynUYm5fSlEAo3F"
@@ -6382,6 +6426,28 @@
       "duration_ms": 207842,
       "name": "Sophisticated",
       "url": "https://open.spotify.com/track/0Wz8Q9U1m2UkZxCdYa47eH"
+    },
+    {
+      "album": {
+        "name": "Soul Gazing",
+        "url": "https://open.spotify.com/album/0G2b6bwS24q5Bb9j4G69Ru"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Curol",
+          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225476,
+      "name": "Soul Gazing",
+      "url": "https://open.spotify.com/track/1H6SuDLJE2AsamirMImv8X"
     },
     {
       "album": {
@@ -7112,6 +7178,24 @@
       "duration_ms": 161904,
       "name": "Vale la Pena",
       "url": "https://open.spotify.com/track/1BEgJDSmeQKAgMNrN1TOU7"
+    },
+    {
+      "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/5042fATwMi4Ca0KRWRpS2A"
+      },
+      "artists": [
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225048,
+      "name": "VEINS",
+      "url": "https://open.spotify.com/track/4VMtE52J98ZoF6tLIHNjJ8"
     },
     {
       "album": {

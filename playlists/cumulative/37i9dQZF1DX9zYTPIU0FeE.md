@@ -2,9 +2,9 @@
 
 ### [Jazz NEXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the sounds of South African Jazz\. Cover: Johnny Clegg
+> Journey through the sounds of South African Jazz\. Cover: Linda Sikhakhane
 
-374 songs - 1 day 12 hr 54 min
+375 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Imveku](https://open.spotify.com/track/3H1qQcS2K5MqOMzmrlAep7) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Umthombo](https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV) | 6:08 | 2025-06-13 | 2025-06-20 |
 | [In\-Between I'll Eat Dark Chocolate](https://open.spotify.com/track/3kpM17oVfkzhE9UjKCHzOn) | [Carlo Mombelli](https://open.spotify.com/artist/5SGxbLgESsfPMmbA2C1NDF), [Adrian Mears](https://open.spotify.com/artist/0ajBfmY4vclVtH9jZBULsd), [Daniel Pezzotti](https://open.spotify.com/artist/6hiqvlaEKu5AZV76IwaPFj), [Dejan Terzic](https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065) | [Stories](https://open.spotify.com/album/5gaSkf3zFJkE6wh7mAndWl) | 6:16 | 2023-11-01 | 2023-11-17 |
 | [Indawu](https://open.spotify.com/track/1nKWE1I0RRz5RgykyKPEDB) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Modes Of Communication: Letters From The Underworlds](https://open.spotify.com/album/6D5gR5dxP0iUeueQlwRQDe) | 8:34 | 2022-04-28 | 2023-03-18 |
+| [Indlela](https://open.spotify.com/track/324SBOfJSuYvIKs0vGLWh3) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Indlela](https://open.spotify.com/album/1gcWKL3gQyUe03ussRKqNX) | 4:09 | 2026-08-06 |  |
 | [indlela](https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:52 | 2024-04-25 |  |
 | [Indlela Ikhona](https://open.spotify.com/track/6t86xpHg2FbUA4kQbAxjnl) | [Thembi Dunjana](https://open.spotify.com/artist/6YTWqfsYjk52c4aO3Hsbud) | [God Bless iKapa\. God Bless Mzantsi.](https://open.spotify.com/album/5c3uu1hEvY29Q5kWsmwzSN) | 9:52 | 2024-07-11 | 2025-06-25 |
 | [Inkehli](https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Inkehli](https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm) | 6:53 | 2024-05-30 | 2025-11-12 |
@@ -343,7 +344,7 @@
 | [Unh!](https://open.spotify.com/track/01cQKyyDqA0l7r9hyMbzde) | [Philip Tabane](https://open.spotify.com/artist/3wC1W9e4Ycoji9LEM1MBTa), [Malombo](https://open.spotify.com/artist/4bXWyXENW0qmuSg1Lnkj7q) | [Unh!](https://open.spotify.com/album/3teAF7CtG2q9seDpgiZ9zJ) | 3:33 | 2023-11-01 | 2023-11-17 |
 | [uNongoma](https://open.spotify.com/track/2vcHzKopy1YAUDU074p503) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [Isambulo](https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs) | 6:01 | 2022-06-23 | 2026-05-22 |
 | [uNongoma](https://open.spotify.com/track/58pRCGe1pQguRfIuZeFS7v) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [uNongoma](https://open.spotify.com/album/62qSpZQ42mPEVKX1cq2j9L) | 6:01 | 2022-06-23 | 2022-11-02 |
-| [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 7:51 | 2024-10-24 |  |
+| [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 7:51 | 2024-10-24 | 2026-08-07 |
 | [Uthando \- Live at Atomic Studios, Cape Town, South Africa](https://open.spotify.com/track/1nZ0WY69Y4Y5w1TkBCkISy) | [Thandeka Dladla](https://open.spotify.com/artist/7ntMlnq9iQvy3ZPehbenHc) | [Live at Atomic Studios, Cape Town, South Africa](https://open.spotify.com/album/0cWkF9XXlWbomDZtw3Lkqp) | 7:48 | 2025-06-13 | 2025-06-20 |
 | [uThixo uKhona](https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Azania](https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v) | 4:13 | 2023-08-25 |  |
 | [Uzobuya!](https://open.spotify.com/track/0u5urN2wuDS1rahejSh9WX) | [Avu.](https://open.spotify.com/artist/5IZPUhuds8snUAM8cTESFs) | [Uzobuya!](https://open.spotify.com/album/1VLzMMHbP8d6Bw5AnthoQ6) | 2:55 | 2025-06-13 | 2025-06-20 |

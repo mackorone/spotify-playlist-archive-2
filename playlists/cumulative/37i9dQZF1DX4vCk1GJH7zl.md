@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Maglore
 
-240 songs - 14 hr 21 min
+241 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Memórias](https://open.spotify.com/track/4rHISiwlhhO5bIdkCOjd26) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju) | [Memórias](https://open.spotify.com/album/0ckBKXD4UEGH9ZWo0G7cap) | 3:49 | 2024-05-03 | 2024-06-29 |
 | [Menina Linda](https://open.spotify.com/track/1YnLOI6vNwFKUPD0Ym1zQg) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/02G0M9OAq48KLDJ06m6eRU) | 3:00 | 2024-04-19 | 2025-02-15 |
 | [Menina Linda](https://open.spotify.com/track/7HUiek8MyBiLGM33NzgUSm) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE) | 3:00 | 2023-07-21 | 2024-04-19 |
+| [MENINA VENENO](https://open.spotify.com/track/4RjyulOffxqkRxtPujLqQQ) | [HOZE](https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB) | [MENINA VENENO](https://open.spotify.com/album/1VDiXRgtgdHPfWIrEAKIft) | 2:48 | 2026-08-07 |  |
 | [Mercado](https://open.spotify.com/track/18o5wKZ5M3onKU69OZD5Cs) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [B\-Sides Gêmeos](https://open.spotify.com/album/1ef3KBKANvCTkDauRecAa5) | 3:06 | 2023-07-21 | 2023-08-05 |
 | [Moletom](https://open.spotify.com/track/6sYEvTZfUFDo9IY02b1DD1) | [Ondastral](https://open.spotify.com/artist/1PLVBYQrlY7TUtoyRspbuV) | [Moletom](https://open.spotify.com/album/5yVc8jYrfoQy007gd3teKt) | 2:53 | 2025-07-19 | 2026-04-04 |
 | [Monólogo](https://open.spotify.com/track/16Ll3Z8PNf86gll9zV5Lq8) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn), [Hecto](https://open.spotify.com/artist/0HVR1Glif6i2NiU9OzYCJ9) | [Canções Para Um Novo Mundo](https://open.spotify.com/album/0tTtokpLm9C1CvMD0JWIA5) | 3:12 | 2025-01-10 | 2025-10-18 |
@@ -215,7 +216,7 @@
 | [Ta foda sem você](https://open.spotify.com/track/7fulDUERDYPB7gtk5DP6oU) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [LIVRE](https://open.spotify.com/album/2ObDNDaZYuKEVBgyKb2zaG) | 3:19 | 2024-06-14 | 2024-06-29 |
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-10 | 2024-06-01 |
 | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 | 2025-10-17 | 2025-12-19 |
-| [Te Beijei](https://open.spotify.com/track/33w69xKoZqw9SZBjH0t8Mj) | [Yahoo](https://open.spotify.com/artist/29bYY1WyOuJ3Z2jxYhT7kM) | [Te Beijei](https://open.spotify.com/album/5KWtMye0hULoCq2CZ5DBDP) | 4:14 | 2026-04-17 |  |
+| [Te Beijei](https://open.spotify.com/track/33w69xKoZqw9SZBjH0t8Mj) | [Yahoo](https://open.spotify.com/artist/29bYY1WyOuJ3Z2jxYhT7kM) | [Te Beijei](https://open.spotify.com/album/5KWtMye0hULoCq2CZ5DBDP) | 4:14 | 2026-04-17 | 2026-08-07 |
 | [Te procurando \(Saturno\)](https://open.spotify.com/track/0d2hvijCjozSP5sZQtkFJg) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Te procurando \(Saturno\)](https://open.spotify.com/album/356KtUTSYSU5khCZlEXWWb) | 2:49 | 2024-06-21 | 2025-05-31 |
 | [Te Ver Superar](https://open.spotify.com/track/6jv4iTAifiW8IQfWQkBAjK) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Te Ver Superar](https://open.spotify.com/album/4gYeHMeI7uSLxlNpCUifvO) | 3:44 | 2023-07-21 |  |
 | [Tela Quente \- Acústico](https://open.spotify.com/track/1PvGWfUNdGceuhwKR5ruha) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Acústico](https://open.spotify.com/album/62ZewpKcRoXUCdOcSJuWkR) | 3:13 | 2024-05-03 |  |

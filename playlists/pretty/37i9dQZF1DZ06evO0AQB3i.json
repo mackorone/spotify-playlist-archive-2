@@ -1,12 +1,12 @@
 {
   "description": "This is Alabama Shakes. The essential tracks, all in one playlist.",
-  "num_followers": 64734,
+  "num_followers": 64744,
   "original_name": "This Is Alabama Shakes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAAAZbVeOupl2ZXB+v/bf0tlO",
+  "snapshot_id": "anJ9AAAAAAB88QdGL4fF2+6ofqIv6JB6",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 188613,
-      "name": "Rise To The Sun",
-      "url": "https://open.spotify.com/track/4jdBFqrhH2ed69JnR1H27e"
+      "duration_ms": 254760,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
       "duration_ms": 230198,
       "name": "Until There's Nothing Left",
       "url": "https://open.spotify.com/track/0S6wKHJNqjACfIfGIGX6xR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 299042,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE"
     },
     {
       "added_at": null,
@@ -344,9 +360,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 254760,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ"
+      "duration_ms": 188613,
+      "name": "Rise To The Sun",
+      "url": "https://open.spotify.com/track/4jdBFqrhH2ed69JnR1H27e"
     },
     {
       "added_at": null,

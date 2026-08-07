@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Pool Girl
 
-3,913 songs - 9 day 0 hr 37 min
+3,915 songs - 9 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [AN ELEPHANT NEVER FORGETS](https://open.spotify.com/track/5KiIH8xcGoBdpj7oUJHjDH) | [KatzPascale](https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H) | [ELEGY](https://open.spotify.com/album/3RSbclUQoSu7wVmSYa7Bd8) | 5:00 | 2026-06-17 | 2026-08-06 |
 | [An Entire Lifetime](https://open.spotify.com/track/17zub37eu5CkHW1vgaop8W) | [Liv Slingerland](https://open.spotify.com/artist/7yXoQcO4C5HP5PyaU8pbAb) | [An Entire Lifetime](https://open.spotify.com/album/4PAO3jd5thDzSGdALWWH67) | 2:59 | 2022-04-12 | 2022-05-05 |
 | [Anaesthesia](https://open.spotify.com/track/1Lk6Mv5T0oQaXqTeXsHU9G) | [Softmax](https://open.spotify.com/artist/7kZQFVgQexxLdZn5XNcz0N) | [Anaesthesia / Ghost In The Shell](https://open.spotify.com/album/6THxX8Yk9vS3TEAYlYi59B) | 3:53 | 2025-04-30 | 2025-06-12 |
-| [androgynous](https://open.spotify.com/track/42EW9h83a492E9z9Kh4n0y) | [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH) | [engine heartbreak](https://open.spotify.com/album/1Z2k9Ol6vCUkcGpoy4vcBC) | 2:05 | 2026-05-20 |  |
+| [androgynous](https://open.spotify.com/track/42EW9h83a492E9z9Kh4n0y) | [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH) | [engine heartbreak](https://open.spotify.com/album/1Z2k9Ol6vCUkcGpoy4vcBC) | 2:05 | 2026-05-20 | 2026-08-07 |
 | [ANGEL](https://open.spotify.com/track/5Kk8AiJSxdhT5nflK8l4oE) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [ANGEL](https://open.spotify.com/album/6OGMwoSKdKLbTfKfaAGkaV) | 2:40 | 2025-06-25 | 2025-08-28 |
 | [Angel](https://open.spotify.com/track/5PJ7wQ44XFAHP3AYI4QoSB) | [Lys Allen](https://open.spotify.com/artist/04JlOtr9klyjygCO2aNqkk) | [Angel](https://open.spotify.com/album/29Mkbkys0H1wYgMa0MdNTV) | 3:32 | 2025-05-14 | 2025-07-10 |
 | [Angel Baby](https://open.spotify.com/track/2rQ21Ja2Pg3O88NGFEC9v3) | [Suzie True](https://open.spotify.com/artist/4COdM5vE5byEogAXp1cghR) | [Angel Baby](https://open.spotify.com/album/7kLZSaOb6EwfZ3gj7ynwQR) | 3:33 | 2024-02-21 | 2025-01-16 |
@@ -1667,7 +1667,7 @@
 | [I Think I'm in Tokyo](https://open.spotify.com/track/64Jy8mwPNmVHihnedbNMtr) | [Dog Orchestra](https://open.spotify.com/artist/1kyTjoLy5Ec4ztAlxKpw2G) | [I Think I'm in Tokyo](https://open.spotify.com/album/2puiinAcTvkpd5qKA3bN5n) | 3:04 | 2022-03-30 | 2022-04-27 |
 | [I Thought I Could Be Alone](https://open.spotify.com/track/6AeN6ulWEY8j83QpypLFMF) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [I Thought I Could Be Alone](https://open.spotify.com/album/6fl6DiBDOurxqWj3Yo9Co4) | 4:40 | 2023-06-21 | 2023-07-26 |
 | [I Used To](https://open.spotify.com/track/0YatoTSyHsq4J6CZacYHEC) | [Cdubz](https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH) | [I Used To](https://open.spotify.com/album/38GhGbTcdvmvX58jI5JnxR) | 3:06 | 2025-02-12 | 2025-05-01 |
-| [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 | 2026-05-13 |  |
+| [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 | 2026-05-13 | 2026-08-07 |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2021-12-01 | 2022-01-13 |
 | [i wanna](https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [i wanna](https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i) | 2:19 | 2025-04-25 | 2025-06-12 |
 | [I Wanna Die](https://open.spotify.com/track/6iD7dAFbgvW9A6ihi2iMJq) | [kayls](https://open.spotify.com/artist/22oJC8kxHJbZTFn2iKwbTe) | [I Wanna Die](https://open.spotify.com/album/0jLr8c5tvUYNTcqpL7Np2g) | 2:47 | 2025-09-10 | 2025-12-04 |
@@ -2157,7 +2157,7 @@
 | [Meet Me In The Forest](https://open.spotify.com/track/2pV9JcmZBmBB1mSTYfBhac) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Songs From The Woods](https://open.spotify.com/album/3ijVpnglTn2BBI6DTDcHRV) | 6:06 | 2024-01-10 | 2024-02-08 |
 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-11 | 2024-01-04 |
 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2023-11-08 | 2024-01-11 |
-| [melody](https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [melody](https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg) | 2:38 | 2026-07-09 |  |
+| [melody](https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt) | [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [melody](https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg) | 2:38 | 2026-07-09 |  |
 | [Melody Machine](https://open.spotify.com/track/1cimggVM2iCiohMVFhQCpb) | [BOYSCOUTMARIE](https://open.spotify.com/artist/37blbfuDsR9IpqCWtTqxZE) | [Melody Machine](https://open.spotify.com/album/0izXpZcwkeEZnJDq74W7Tv) | 2:56 | 2023-07-27 | 2023-09-14 |
 | [Melon\-Candy](https://open.spotify.com/track/3B1b8vZ5arER92CjjGUwr6) | [Key Lime Coast](https://open.spotify.com/artist/550Y3JXcRbEpvMH6FEZjiv) | [Melon\-Candy](https://open.spotify.com/album/1VyPAwtvdOiOkD1E5GQYfD) | 3:02 | 2022-02-09 | 2022-02-23 |
 | [Melt](https://open.spotify.com/track/41kgbvc2t0U8g1H2yDU9P2) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite EP](https://open.spotify.com/album/0tK8eY4V3CywBybDvu8P1N) | 3:04 | 2023-07-11 | 2024-01-11 |
@@ -2940,6 +2940,7 @@
 | [She Won't Say](https://open.spotify.com/track/4gW30b9D7MofR7Rxb8E7gm) | [Cal in Red](https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1) | [She Won't Say](https://open.spotify.com/album/0O7EKzIMFX3zDGz56ujXkI) | 2:35 | 2024-06-19 | 2024-07-18 |
 | [she's in a cage](https://open.spotify.com/track/4HDKe2j93rapEMlfY4knZ5) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [she's in a cage](https://open.spotify.com/album/7IeGWk2pmhU6aQmZNwjpgH) | 4:30 | 2022-08-10 | 2022-09-29 |
 | [Shepherd's Carol](https://open.spotify.com/track/1J2OTTZmDPm0Klo43pMzsX) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Shepherd's Carol](https://open.spotify.com/album/0R4nyHfZZwP9ZScvJR8w8S) | 5:11 | 2024-03-06 | 2024-04-04 |
+| [Shiner \(The Cape\)](https://open.spotify.com/track/1gG709sk7yKhaoAK8fd9qd) | [Paulie Swan](https://open.spotify.com/artist/3gg7C3cr0fDp7MqpdZB9iQ) | [Swans Today](https://open.spotify.com/album/0E3RzONlpsXq6Qn9GxoSma) | 3:29 | 2026-08-06 |  |
 | [Shining](https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [Shining](https://open.spotify.com/album/2M6qfeYL6f0qB2FClklOat) | 2:26 | 2023-05-31 | 2023-07-11 |
 | [Shining](https://open.spotify.com/track/7lzQIMpOQtYmKwDS7hT7jo) | [Sinjin Jaguar](https://open.spotify.com/artist/3kxIrFOm5ppe9IhFw8y3pq) | [Shining](https://open.spotify.com/album/2OJfJTxU3RbRjrAaEwGsGS) | 3:10 | 2023-06-14 | 2023-07-12 |
 | [Shirley Temples](https://open.spotify.com/track/6nlIdCg7pnZhFDupxYaCT9) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Shirley Temples](https://open.spotify.com/album/1agX1wv4ttBf8KEuYw7Z3b) | 3:23 | 2025-02-12 | 2025-04-03 |
@@ -3475,6 +3476,7 @@
 | [TIKTOK](https://open.spotify.com/track/3GIUq2N1YFL1KZe2zjw7qz) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [AS SEEN ON TV](https://open.spotify.com/album/35G6ItQb4YVubOm6fuThYh) | 2:47 | 2023-05-31 | 2023-06-15 |
 | [Til The End](https://open.spotify.com/track/7ukHqbAH8JtsOQxaEZcpmc) | [October and The Eyes](https://open.spotify.com/artist/574mPFNcTeUvbnEI86x2Qj) | [Til The End](https://open.spotify.com/album/1AjZWLwSvvarLqDC5KnwsW) | 2:55 | 2024-07-03 | 2024-08-01 |
 | [Tim Burton's Tower](https://open.spotify.com/track/1VtCpx0h8tZUFSHq01dS2X) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [Love, Darla](https://open.spotify.com/album/5uBC8aCrfB62aLIJzPty4y) | 3:03 | 2025-09-17 | 2025-12-04 |
+| [Time](https://open.spotify.com/track/1Xx3qUcT0g0MJY43rzzOUe) | [swell foop](https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r) | [Don't Spare Me](https://open.spotify.com/album/3DAs5Ynjx29nAGbnksRdPU) | 2:39 | 2026-08-06 |  |
 | [Time](https://open.spotify.com/track/41qdWNsErI9BmpLkjGYySL) | [The Sway](https://open.spotify.com/artist/6B6d0AGSEYsweJ1siqwyZb) | [Time](https://open.spotify.com/album/1Jj8kohQNdznBurVl94OVe) | 3:24 | 2022-04-06 | 2022-04-27 |
 | [Time Bomb](https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Sunshine, I'm Counting on You!](https://open.spotify.com/album/0Flk6B4XLCxviaNVfsTZwO) | 4:15 | 2023-01-11 | 2024-01-11 |
 | [Time Is Forever](https://open.spotify.com/track/11LJTCJQB9f5O51iVz45cw) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Time Is Forever](https://open.spotify.com/album/4nPxhSRgMI8fV4JlVItpI8) | 4:04 | 2024-02-07 | 2024-03-21 |

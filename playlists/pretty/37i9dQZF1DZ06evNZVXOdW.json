@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9699,
+  "num_followers": 9701,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAAAa8Cnli7lwpKhlqUUlCABU",
+  "snapshot_id": "anJ9AAAAAABAc7LI8zJZuoC/mn/niFXk",
   "tracks": [
     {
       "added_at": null,
@@ -255,18 +255,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+        "name": "Trip the Night Fantastic",
+        "url": "https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0"
       },
       "artists": [
         {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        },
+        {
+          "name": "Social Science",
+          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
+        },
+        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        },
+        {
+          "name": "Rashaan Carter",
+          "url": "https://open.spotify.com/artist/0aDfV9CStk7AwSQCurBKsQ"
+        },
+        {
+          "name": "Morgan Guerin",
+          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
         }
       ],
-      "duration_ms": 232360,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/7g4891487QfCuRrENM8vUs"
+      "duration_ms": 337717,
+      "name": "Prayer Song",
+      "url": "https://open.spotify.com/track/4dfxyErdt8o8WceKTpXTTQ"
     },
     {
       "added_at": null,
@@ -311,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 232360,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7g4891487QfCuRrENM8vUs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love In Exile",
         "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
       },
@@ -331,42 +367,6 @@
       "duration_ms": 486598,
       "name": "Sajni",
       "url": "https://open.spotify.com/track/2IsMmLgrMbFjfDFe2Beur5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trip the Night Fantastic",
-        "url": "https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0"
-      },
-      "artists": [
-        {
-          "name": "Terri Lyne Carrington",
-          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
-        },
-        {
-          "name": "Social Science",
-          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Moor Mother",
-          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
-        },
-        {
-          "name": "Rashaan Carter",
-          "url": "https://open.spotify.com/artist/0aDfV9CStk7AwSQCurBKsQ"
-        },
-        {
-          "name": "Morgan Guerin",
-          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
-        }
-      ],
-      "duration_ms": 337717,
-      "name": "Prayer Song",
-      "url": "https://open.spotify.com/track/4dfxyErdt8o8WceKTpXTTQ"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 556525,
-      "name": "To Remain/To Return",
-      "url": "https://open.spotify.com/track/50gJubW06WlbN9zRqaSp6v"
+      "duration_ms": 879797,
+      "name": "Eyes Of The Endless",
+      "url": "https://open.spotify.com/track/0GZAb4y6jTKKdTIsRSvPKT"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 879797,
-      "name": "Eyes Of The Endless",
-      "url": "https://open.spotify.com/track/0GZAb4y6jTKKdTIsRSvPKT"
+      "duration_ms": 556525,
+      "name": "To Remain/To Return",
+      "url": "https://open.spotify.com/track/50gJubW06WlbN9zRqaSp6v"
     },
     {
       "added_at": null,

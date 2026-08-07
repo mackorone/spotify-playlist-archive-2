@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ?si=eecfd04e89de4853">Elliott Skinner</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,938 likes - 150 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,016 likes - 150 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 46 | [Wushua](https://open.spotify.com/track/7oeD5jfi5PA7Aqh1xN4Nu4) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [A Constant Charade \(Deluxe\)](https://open.spotify.com/album/4Jo5mp9O4wlNAhZLJatrry) | 3:10 |
 | 47 | [the sand](https://open.spotify.com/track/0QC8VH5imGJelOPsYK2RTJ) | [Good Girl](https://open.spotify.com/artist/7gvV7aprNobdugISHkqTb2) | [Sugar Honey EP](https://open.spotify.com/album/6cayAM87JSifVzTxQ7fWMW) | 1:52 |
 | 48 | [Ignore](https://open.spotify.com/track/3lIxpq24g8IJpisCDs9dOH) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Loser.](https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6) | 2:22 |
-| 49 | [Weak With Me](https://open.spotify.com/track/5GydYs178vVYnf30AEoonc) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Safe To Be \_](https://open.spotify.com/album/5FwW4Cq3Ml8IFaXCdFQgmH) | 3:12 |
+| 49 | [Weak With Me](https://open.spotify.com/track/5GydYs178vVYnf30AEoonc) | [noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Safe To Be \_](https://open.spotify.com/album/5FwW4Cq3Ml8IFaXCdFQgmH) | 3:12 |
 | 50 | [kiss in public](https://open.spotify.com/track/0WnMUNeIhkBEX4uJqEnxtC) | [LARIICA](https://open.spotify.com/artist/4ToRGHPORYxQMdyn7nKm9h), [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [kiss in public](https://open.spotify.com/album/4m8i3uNKMsVUGr4fbhFvL9) | 2:30 |
 | 51 | [I Was Just A Child](https://open.spotify.com/track/6Ke0sweMUwFGxtqqzvpS5a) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [I Was Just A Child](https://open.spotify.com/album/1BBlYVdvalqeBp1Du8boPN) | 3:24 |
 | 52 | [Brand New](https://open.spotify.com/track/6v5XL6WD4iVxNEDZmRHTju) | [Henry James](https://open.spotify.com/artist/7nb7q22PULYrjfn8KJGOoj) | [Brand New](https://open.spotify.com/album/6l5ppq2ZVv28B6UBvVARIt) | 3:59 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 149 | [Move on](https://open.spotify.com/track/2x3ysVnMpdIwtski9oYQPJ) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Move on](https://open.spotify.com/album/2nLoFygVWZrgN2Bxf3B40q) | 2:30 |
 | 150 | [raindance](https://open.spotify.com/track/127BebV29M41FmJqcl8k20) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [raindance](https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD) | 3:38 |
 
-Snapshot ID: `AAAAACCd4i5Kv9CM/B8wCEIRZicpxOQI`
+Snapshot ID: `AAAAAOQY1TEu8sHlzEalh4WyS/FjwcIx`

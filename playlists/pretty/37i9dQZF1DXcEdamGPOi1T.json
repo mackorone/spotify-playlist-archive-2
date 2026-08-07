@@ -1,12 +1,12 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 20643,
+  "num_followers": 20686,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPIWU6jawh7K6H5GEuZzbw9V+GBq",
+  "snapshot_id": "AAAAAIleDpY+pqCs22BUiqcFTkzh2wJe",
   "tracks": [
     {
       "added_at": "2026-07-31 04:03:37",
@@ -547,6 +547,26 @@
     {
       "added_at": "2026-07-31 04:03:37",
       "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "added_at": "2026-07-31 04:03:37",
+      "album": {
         "name": "SHAKE IT TO THE MAX (FLY) (REMIX)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 178775,
       "name": "SHAKE IT TO THE MAX (FLY) - REMIX",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
-    },
-    {
-      "added_at": "2026-07-31 04:03:37",
-      "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2026-07-31 04:03:37",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-07-31 04:03:37",
       "album": {
-        "name": "Maladie",
-        "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 192005,
-      "name": "Maladie",
-      "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
-    },
-    {
-      "added_at": "2026-07-31 04:03:37",
-      "album": {
         "name": "Jananto",
         "url": "https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 181445,
       "name": "Jananto",
       "url": "https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM"
+    },
+    {
+      "added_at": "2026-07-31 04:03:37",
+      "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 192005,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
     },
     {
       "added_at": "2026-07-31 04:03:37",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-07-31 04:03:37",
       "album": {
-        "name": "YA BABA",
-        "url": "https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 168894,
-      "name": "YA BABA",
-      "url": "https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y"
-    },
-    {
-      "added_at": "2026-07-31 04:03:37",
-      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "added_at": "2026-07-31 04:03:37",
+      "album": {
+        "name": "YA BABA",
+        "url": "https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 168894,
+      "name": "YA BABA",
+      "url": "https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y"
     },
     {
       "added_at": "2026-07-31 04:03:37",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-07-31 04:03:37",
       "album": {
-        "name": "Soleil dans ma t\u00eate",
-        "url": "https://open.spotify.com/album/4wtfS8im6vop0N1u5EsDMj"
-      },
-      "artists": [
-        {
-          "name": "Keen' V",
-          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
-        }
-      ],
-      "duration_ms": 150999,
-      "name": "Soleil dans ma t\u00eate",
-      "url": "https://open.spotify.com/track/62j5dQuXwRnUOZGoDhwBOd"
-    },
-    {
-      "added_at": "2026-07-31 04:03:37",
-      "album": {
         "name": "Madame",
         "url": "https://open.spotify.com/album/5SOuiSAWU96n3aOnTp838P"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 118431,
       "name": "Madame",
       "url": "https://open.spotify.com/track/0K9EmVgpvkteeQwzhmb4oM"
+    },
+    {
+      "added_at": "2026-07-31 04:03:37",
+      "album": {
+        "name": "Soleil dans ma t\u00eate",
+        "url": "https://open.spotify.com/album/4wtfS8im6vop0N1u5EsDMj"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "duration_ms": 150999,
+      "name": "Soleil dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/62j5dQuXwRnUOZGoDhwBOd"
     },
     {
       "added_at": "2026-07-31 04:03:37",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-07-31 04:03:37",
       "album": {
+        "name": "La Nuit des Longs Couteaux",
+        "url": "https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Cinq \u00e0 sept",
+      "url": "https://open.spotify.com/track/6XS5Qi2wUMgj88QdBXx69B"
+    },
+    {
+      "added_at": "2026-07-31 04:03:37",
+      "album": {
         "name": "My Motivation (feat. NAIIM)",
         "url": "https://open.spotify.com/album/2S0fAWBZHxr1QG2BwGD4Yf"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 148250,
       "name": "My Motivation (feat. NAIIM)",
       "url": "https://open.spotify.com/track/2JZHtLw2uT5vWEhpFCBSv9"
-    },
-    {
-      "added_at": "2026-07-31 04:03:37",
-      "album": {
-        "name": "La Nuit des Longs Couteaux",
-        "url": "https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Cinq \u00e0 sept",
-      "url": "https://open.spotify.com/track/6XS5Qi2wUMgj88QdBXx69B"
     },
     {
       "added_at": "2026-07-31 04:03:37",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-07-31 04:03:37",
       "album": {
-        "name": "Pardon Maman",
-        "url": "https://open.spotify.com/album/41uud6lHFFsOQxf7ttDs0C"
-      },
-      "artists": [
-        {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
-        }
-      ],
-      "duration_ms": 140512,
-      "name": "Pardon Maman",
-      "url": "https://open.spotify.com/track/4G5w7H0JSDIpGHo4xoUTRN"
-    },
-    {
-      "added_at": "2026-07-31 04:03:37",
-      "album": {
         "name": "Mok ya mok",
         "url": "https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 158987,
       "name": "Mok ya mok",
       "url": "https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr"
+    },
+    {
+      "added_at": "2026-07-31 04:03:37",
+      "album": {
+        "name": "Pardon Maman",
+        "url": "https://open.spotify.com/album/41uud6lHFFsOQxf7ttDs0C"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "duration_ms": 140512,
+      "name": "Pardon Maman",
+      "url": "https://open.spotify.com/track/4G5w7H0JSDIpGHo4xoUTRN"
     },
     {
       "added_at": "2026-07-31 04:03:37",

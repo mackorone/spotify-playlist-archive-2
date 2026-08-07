@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Joshua Aaron
 
-833 songs - 1 day 23 hr 8 min
+835 songs - 1 day 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Idhayame \- From "SS Stories.LE"](https://open.spotify.com/track/4BNozZyxWkqZFwp90j6oJe) | [Sibu Sukumaran](https://open.spotify.com/artist/3keNxNmATzwZrIbAl2eyei), [Rashmi Panikar](https://open.spotify.com/artist/7tppwV5vf6KHwF26qIqF0D), [Nikhil Anil Kumar](https://open.spotify.com/artist/1cLx5oaXhvIcSNfJCkGtwv), [Abi Abbaz](https://open.spotify.com/artist/1hIe3kTpc6Bu3ov9n9H7Nq) | [Idhayame](https://open.spotify.com/album/5YMnIgS9qvhO3bg2Nc1sbr) | 4:11 | 2025-11-03 | 2026-02-07 |
 | [Idi Thaangidum Idhayam](https://open.spotify.com/track/77e85kLgLGrYvchzlzXZdw) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Idi Thaangidum Idhayam](https://open.spotify.com/album/0UUrqUVkiOxXbj6H7Q8RCq) | 2:50 | 2026-02-06 | 2026-05-01 |
 | [Ilanthalizhe](https://open.spotify.com/track/3WHTMsgJEdVAaNk4C4KUjn) | [Nouf Aloufiz](https://open.spotify.com/artist/0lhgeOIYdvd6JVX5Qqrd04), [Athithyan](https://open.spotify.com/artist/7luB4uNlhp3lGJAf9xVmpQ) | [Ilanthalizhe](https://open.spotify.com/album/13kI9nQ3eCTr4BqTzkeumw) | 3:10 | 2023-04-24 | 2023-06-24 |
+| [Immy Gimmy](https://open.spotify.com/track/2Vvv7DwO5CQ4HMKeWF1FzG) | [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [Shahnaz Abdul Raoof](https://open.spotify.com/artist/090pU6PI3Fk7TRDeLdQDCY), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu), [Ashku](https://open.spotify.com/artist/2ICU5Htew2uhWBpJWjjbqG) | [Immy Gimmy](https://open.spotify.com/album/4rl19JnZ9MTQOPtNq4p9s6) | 2:31 | 2026-08-06 |  |
 | [In Her Wish](https://open.spotify.com/track/0Omi2iGlADD7gVJX8KUaIT) | [Ajayy K](https://open.spotify.com/artist/1PgASqMDJgiJA5incZF56n) | [In Her Wish](https://open.spotify.com/album/5mMCxKbUXIXS0qBLnivrEk) | 2:27 | 2024-07-29 | 2024-12-14 |
 | [Ini Ondraai](https://open.spotify.com/track/3jE4ZFOG9R5c0w4tSuMtE4) | [Nishad G](https://open.spotify.com/artist/4TFk73Ah5yIrc6fSamHkF6), [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Suthan Bala](https://open.spotify.com/artist/4aRgesxnwlaNo8bSiM14ka) | [Ini Ondraai](https://open.spotify.com/album/2o6gfMNnjzImRNbZfikj6u) | 5:05 | 2026-01-27 | 2026-05-16 |
 | [Inidhai](https://open.spotify.com/track/0uYwGSjdw4xpIVMppngaOM) | [Sandhya Chari](https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X) | [Inidhai](https://open.spotify.com/album/7BqfCxTAUt9Dnowv2za6pC) | 4:00 | 2024-10-18 | 2026-01-15 |
@@ -479,6 +480,7 @@
 | [Nenjukulla](https://open.spotify.com/track/3OYjfa7A8EkqUZkEtkwOgJ) | [Abubakkar](https://open.spotify.com/artist/4cwsFr09QJtWxxNNZN1ASb) | [Nenjukulla](https://open.spotify.com/album/1PTz76Cyxu9OrOGWvDfHXL) | 3:10 | 2024-07-08 | 2024-12-06 |
 | [Nenjukulla oru Sogamilla](https://open.spotify.com/track/5gJCoYhiya64f5emZxuEoT) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq) | [Nenjukulla oru Sogamilla](https://open.spotify.com/album/6f9c45nTF4RSV1pfFJCnnz) | 2:36 | 2024-01-15 | 2024-07-30 |
 | [Neram](https://open.spotify.com/track/38Tb67e6nPNjKxtKFfGI3Y) | [Tarun Lucas](https://open.spotify.com/artist/4CwXkAApZDWux0Ppl6GVLM) | [Neram](https://open.spotify.com/album/7aS9XY7sAnrPg6SXukhrAH) | 3:42 | 2024-05-27 | 2024-09-21 |
+| [Neram Ilaa Radhai](https://open.spotify.com/track/23ncGHyB0DXrczXgsGZFho) | [Santhan Anebajagane](https://open.spotify.com/artist/7C0XpfZfYRJrDXK0lA2LSq), [Vallavan](https://open.spotify.com/artist/31JlpIXSw3SDT7wrDOU4bz), [Rajnivel](https://open.spotify.com/artist/2oTIkLwKleKb6bZ5f1bqiZ) | [Neram Ilaa Radhai](https://open.spotify.com/album/5PUzzmyAPYYNfUWkY51BwQ) | 3:21 | 2026-08-06 |  |
 | [Neram Mayangavillai](https://open.spotify.com/track/64YUic5Fh4jjQonuCVlqNT) | [Vishnu Sunil](https://open.spotify.com/artist/7mleenu1O4TItvEJ1pnze6) | [Neram Mayangavillai](https://open.spotify.com/album/47OTiEDWNBSCxKYX9B4hXh) | 2:58 | 2025-09-08 | 2026-01-28 |
 | [Neruppu Nadai](https://open.spotify.com/track/67vh1P1sZ1Rr0vwk8j5vHs) | [B&K Vibrant Vibes](https://open.spotify.com/artist/0JDNwkCqILNOuohFogImCR) | [Roar of the Veeran: The Tiger Chronicles](https://open.spotify.com/album/2aJK22DHqp7xtPIxioPZV2) | 2:53 | 2025-05-30 | 2025-09-05 |
 | [Nettotto](https://open.spotify.com/track/4gyJNevPPkX5ZHYyVLm9LV) | [Zeusheelan](https://open.spotify.com/artist/1qfr8yoyXA3bnan7cexvSN), [Vishnu Das](https://open.spotify.com/artist/4VGE3ZXetNWbFoE59hVRrF), [Rehna Shaz](https://open.spotify.com/artist/0sqtUy5FyYwyRptp7SOx44), [Shafi Ali](https://open.spotify.com/artist/6U09TVU3LUO6LZzwcgh6FG) | [Nettotto](https://open.spotify.com/album/3DP8uyWEk9WxxEG1yRg6p4) | 3:35 | 2025-08-18 | 2026-01-17 |

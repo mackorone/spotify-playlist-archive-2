@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,683 songs - 2 day 21 hr 50 min
+1,684 songs - 2 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [HELAN GÅR](https://open.spotify.com/track/6cvbfSWecTmdF7eRbOcPIg) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud) | [HELAN GÅR](https://open.spotify.com/album/6nAERnJf33y6ok9x0pXLTG) | 1:57 | 2024-03-07 | 2024-03-29 |
 | [Hele natta](https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI) | [Hele natta](https://open.spotify.com/album/3uVAwQKUH2tDeVxQzA9CXZ) | 2:29 | 2026-02-05 | 2026-06-26 |
 | [HELIUM](https://open.spotify.com/track/0T8jHBhiFd1uN4A3Xv8DUP) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [HELIUM](https://open.spotify.com/album/781cQIDALbPg6cv4DYTkTk) | 2:46 | 2024-05-09 | 2024-06-21 |
+| [HELSKOTTA](https://open.spotify.com/track/6BeuVNODzNOx6ZWIJJmqot) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj), [Mange Olsson](https://open.spotify.com/artist/40vl1jO3M2576V7tP8h4SR) | [HELSKOTTA](https://open.spotify.com/album/0omlx6tJkALKWC8ued9sOA) | 2:17 | 2026-08-06 |  |
 | [Helt Aktiv](https://open.spotify.com/track/0bjlFt58yASZpLsTPb1eT1) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ), [Kid Canady](https://open.spotify.com/artist/3dk8QXIPYOpzqiQkcA7NYN) | [Helt Aktiv](https://open.spotify.com/album/0XcZV8OZ00dj6IYbfTrpaI) | 2:18 | 2025-11-20 | 2026-04-03 |
 | [Helt Jävla Dum](https://open.spotify.com/track/2duXCmf44h6zbBV8fVGcfC) | [Gruvknegarn](https://open.spotify.com/artist/4Fou3orLfT05WzkA9vzYEb) | [Helt Jävla Dum](https://open.spotify.com/album/6jPferYkeSmj10TbXK0wK4) | 2:16 | 2023-03-02 | 2023-03-25 |
 | [Helt kanon](https://open.spotify.com/track/0hZyGgPkyDk2pk29G2j83D) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Helt kanon](https://open.spotify.com/album/5DqJKucV1HvUP0AFk0kaCW) | 2:40 | 2023-07-06 | 2023-09-15 |

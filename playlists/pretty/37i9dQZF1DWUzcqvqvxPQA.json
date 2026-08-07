@@ -1,12 +1,12 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 33993,
+  "num_followers": 34012,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABms7sKkPTqf5i/1hgWgKi7OThgw",
+  "snapshot_id": "AAAAALnVcxhRp2Dq4iVWbgjkW1ZddeG3",
   "tracks": [
     {
       "added_at": "2026-07-17 05:41:07",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Like I Am Yours",
-        "url": "https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF"
-      },
-      "artists": [
-        {
-          "name": "Hopeful.",
-          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
-        }
-      ],
-      "duration_ms": 184712,
-      "name": "Like I Am Yours",
-      "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "Nothin' Sweeter",
         "url": "https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 176929,
       "name": "Nothin' Sweeter",
       "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "Hello Human",
+        "url": "https://open.spotify.com/album/2fnesitdAJXRxbsv9fCThx"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2CQPcqiBrGm19Gx2I2EqB2"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -443,18 +443,18 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Hello Human",
-        "url": "https://open.spotify.com/album/2fnesitdAJXRxbsv9fCThx"
+        "name": "Like I Am Yours",
+        "url": "https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
         }
       ],
-      "duration_ms": 179843,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2CQPcqiBrGm19Gx2I2EqB2"
+      "duration_ms": 184712,
+      "name": "Like I Am Yours",
+      "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Highs Get Low",
-        "url": "https://open.spotify.com/album/0KC98S3aACVGZbX3Avxe1f"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Highs Get Low",
-      "url": "https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "Good Day",
         "url": "https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 173637,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "Highs Get Low",
+        "url": "https://open.spotify.com/album/0KC98S3aACVGZbX3Avxe1f"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Highs Get Low",
+      "url": "https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Woke Up",
-        "url": "https://open.spotify.com/album/1Yfmg2d9nIcaeZNRjjJdzX"
-      },
-      "artists": [
-        {
-          "name": "Beach Chapel",
-          "url": "https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5"
-        }
-      ],
-      "duration_ms": 226253,
-      "name": "Woke Up",
-      "url": "https://open.spotify.com/track/0AZCy3fFvxFh3RENipwxvK"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "JESUS IS LORD",
         "url": "https://open.spotify.com/album/1EFA5KDZNc6UE7MNIlwwne"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 111110,
       "name": "JESUS IS LORD",
       "url": "https://open.spotify.com/track/2YYWFVVEKQbn74uifc6gLh"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "Woke Up",
+        "url": "https://open.spotify.com/album/1Yfmg2d9nIcaeZNRjjJdzX"
+      },
+      "artists": [
+        {
+          "name": "Beach Chapel",
+          "url": "https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5"
+        }
+      ],
+      "duration_ms": 226253,
+      "name": "Woke Up",
+      "url": "https://open.spotify.com/track/0AZCy3fFvxFh3RENipwxvK"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "One Day At A Time",
-        "url": "https://open.spotify.com/album/4HNaIUAQzvzWyjEUlDRgN3"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 224992,
-      "name": "One Day At A Time",
-      "url": "https://open.spotify.com/track/3GztbZYcEJ4hNfqd0Fsx4d"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "No Problem",
         "url": "https://open.spotify.com/album/3Yg6huueqSi6zCTUhVNwj0"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 197485,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/3mbIcfHkyJmQgGbwxOVbui"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "One Day At A Time",
+        "url": "https://open.spotify.com/album/4HNaIUAQzvzWyjEUlDRgN3"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 224992,
+      "name": "One Day At A Time",
+      "url": "https://open.spotify.com/track/3GztbZYcEJ4hNfqd0Fsx4d"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Reclaiming My Life",
-        "url": "https://open.spotify.com/album/3jSAvxbIXfFGJLFgANIQOZ"
-      },
-      "artists": [
-        {
-          "name": "LIN D",
-          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
-        }
-      ],
-      "duration_ms": 140168,
-      "name": "Reclaiming My Life",
-      "url": "https://open.spotify.com/track/6eCBo9z46siKjidtcm0dWR"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 213912,
       "name": "Turbulent Skies",
       "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "Reclaiming My Life",
+        "url": "https://open.spotify.com/album/3jSAvxbIXfFGJLFgANIQOZ"
+      },
+      "artists": [
+        {
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+        }
+      ],
+      "duration_ms": 140168,
+      "name": "Reclaiming My Life",
+      "url": "https://open.spotify.com/track/6eCBo9z46siKjidtcm0dWR"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
-      },
-      "artists": [
-        {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        },
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "whisper and the wind (b+CL version)",
         "url": "https://open.spotify.com/album/3nLiutNSYBngqPRzTOB7Br"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 198522,
       "name": "whisper and the wind - b+CL version",
       "url": "https://open.spotify.com/track/4ccZ3mBc2gtSRW6xzrxEQb"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
+        "name": "How Good of God",
+        "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 164632,
+      "name": "How Good of God",
+      "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
         "name": "MILLION WAYS",
         "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "How Good of God",
-        "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
+        "name": "Into The Wild",
+        "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
         }
       ],
-      "duration_ms": 164632,
-      "name": "How Good of God",
-      "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
+      "duration_ms": 168096,
+      "name": "Into The Wild",
+      "url": "https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1123,22 +1139,6 @@
       "duration_ms": 191979,
       "name": "Take Over Me",
       "url": "https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
-        "name": "Into The Wild",
-        "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 168096,
-      "name": "Into The Wild",
-      "url": "https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "OFFDAYS",
-        "url": "https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK"
+        "name": "FOUGHT 4 LOVE",
+        "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
       },
       "artists": [
         {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+          "name": "Vision of Leo",
+          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 175968,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6"
+      "duration_ms": 150000,
+      "name": "FOUGHT 4 LOVE",
+      "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1263,22 +1267,18 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "FOUGHT 4 LOVE",
-        "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
+        "name": "OFFDAYS",
+        "url": "https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK"
       },
       "artists": [
         {
-          "name": "Vision of Leo",
-          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
         }
       ],
-      "duration_ms": 150000,
-      "name": "FOUGHT 4 LOVE",
-      "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
+      "duration_ms": 175968,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "Making Ways",
         "url": "https://open.spotify.com/album/4YkJDG3y5yVcQwE69IOohK"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
         "name": "God Must Be Smiling On Me",
         "url": "https://open.spotify.com/album/30bQKLeJpgIXBu9DfWQ78d"
       },
@@ -1427,6 +1427,22 @@
       "duration_ms": 175809,
       "name": "God Must Be Smiling On Me",
       "url": "https://open.spotify.com/track/1lFHxOLEmI9NoXnUXQW2IS"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 362346,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1447,22 +1463,6 @@
       "duration_ms": 237257,
       "name": "Emmaus",
       "url": "https://open.spotify.com/track/1ZtVGvGRzpEHlEwEgLgyh0"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 362346,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
     },
     {
       "added_at": "2026-07-17 05:41:07",

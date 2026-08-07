@@ -4,10 +4,11 @@
 
 > E lei traballa dentro all'auto e l'auto è tutta scassata
 
-1,085 songs - 2 day 7 hr 41 min
+1,086 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#hihaters \(feat\. Enny P\)](https://open.spotify.com/track/7hE0Grm8Fx7DSltgcTFavY) | [Yung Pips](https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7), [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [euroshit](https://open.spotify.com/album/7CZD8ijtlClkWrRuIWCmn0) | 2:05 | 2026-08-06 |  |
 | [$ I P P](https://open.spotify.com/track/3JcAHhNsQKVzd8Zajtjrsw) | [$iPP](https://open.spotify.com/artist/6kXOHDXixySzXahoADlMWn) | [$ I P P](https://open.spotify.com/album/0lCXORtY2X8eLcEztIkR8E) | 2:36 | 2025-12-09 | 2025-12-30 |
 | [0 CONFIANZA](https://open.spotify.com/track/3DoQI6dr5XDc7hChrkA1lD) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [EL TIBURÓN](https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3) | 3:37 | 2024-05-30 | 2024-06-29 |
 | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr) | 2:58 | 2023-04-06 | 2024-07-02 |

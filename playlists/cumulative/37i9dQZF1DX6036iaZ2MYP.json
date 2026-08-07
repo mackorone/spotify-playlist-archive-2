@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Davido",
+  "description": "Tracks popping off in the Afro scene. Cover: Rema",
   "name": "Afro Station",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 154077,
       "name": "Adaeze",
       "url": "https://open.spotify.com/track/4dMP8nk9hEmfU9Qzb1KQ20"
@@ -3333,6 +3333,28 @@
     },
     {
       "album": {
+        "name": "Beslama Alik",
+        "url": "https://open.spotify.com/album/7qR2Tmi2ZPZqANNJSaDvE0"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165456,
+      "name": "Beslama Alik",
+      "url": "https://open.spotify.com/track/7jINoZBnFqHGPpM2jHuPF4"
+    },
+    {
+      "album": {
         "name": "Bienvenue",
         "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
       },
@@ -3828,7 +3850,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 159433,
       "name": "Bolide",
       "url": "https://open.spotify.com/track/4g7LV162pOmYV5tjzSXSh6"
@@ -4002,7 +4024,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 146880,
       "name": "BOUCANTIER",
       "url": "https://open.spotify.com/track/0cyIbRfL8NNkAz9QgQ61mi"
@@ -5478,6 +5500,28 @@
       "duration_ms": 150337,
       "name": "Ciryl Gane",
       "url": "https://open.spotify.com/track/6pLsGc4Qd9jajvlsVfGfPl"
+    },
+    {
+      "album": {
+        "name": "CLAAT!",
+        "url": "https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174150,
+      "name": "CLAAT!",
+      "url": "https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6"
     },
     {
       "album": {
@@ -8043,7 +8087,7 @@
     },
     {
       "album": {
-        "name": "Eja Meja",
+        "name": "Eja Meja (feat. Asake)",
         "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
       },
       "artists": [
@@ -8060,7 +8104,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158108,
-      "name": "Eja Meja",
+      "name": "Eja Meja (feat. Asake)",
       "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
     },
     {
@@ -8310,6 +8354,28 @@
       "duration_ms": 141474,
       "name": "Emma",
       "url": "https://open.spotify.com/track/7BL2OpC3THBsHNaNoDLHAS"
+    },
+    {
+      "album": {
+        "name": "En bikini (feat. Ntaba 2 London)",
+        "url": "https://open.spotify.com/album/4OINQlBueruaXVSUGyTtKz"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Ntaba 2 London",
+          "url": "https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118746,
+      "name": "En bikini (feat. Ntaba 2 London)",
+      "url": "https://open.spotify.com/track/7cbTMgTnTp70RYPqKXBKzq"
     },
     {
       "album": {
@@ -13010,7 +13076,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 134769,
       "name": "K.O",
       "url": "https://open.spotify.com/track/0wkn35bVSegbkHKhTKnesi"
@@ -15770,6 +15836,24 @@
       "duration_ms": 223912,
       "name": "Maweja",
       "url": "https://open.spotify.com/track/1FG6GOqADBVlIbkpOkctj5"
+    },
+    {
+      "album": {
+        "name": "MAYAH",
+        "url": "https://open.spotify.com/album/1WPRquYx4ShoAkLc5Liyox"
+      },
+      "artists": [
+        {
+          "name": "Jeady Jay",
+          "url": "https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158406,
+      "name": "MAYAH",
+      "url": "https://open.spotify.com/track/6GgXkelC3Ws2zExxE5ib61"
     },
     {
       "album": {
@@ -19230,7 +19314,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 159069,
       "name": "Otage",
       "url": "https://open.spotify.com/track/0vPOsFdOxppDqH8HgwcA89"
@@ -20684,6 +20768,28 @@
       "duration_ms": 180612,
       "name": "Princess Treatment",
       "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
+    },
+    {
+      "album": {
+        "name": "R.U. (Raw & Unfiltered) Vol.1",
+        "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Private Chef",
+      "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
     },
     {
       "album": {
@@ -23917,6 +24023,24 @@
     },
     {
       "album": {
+        "name": "TEA",
+        "url": "https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "TEA",
+      "url": "https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK"
+    },
+    {
+      "album": {
         "name": "TECHNICIAN",
         "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
       },
@@ -24172,10 +24296,32 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 176876,
       "name": "THAT GIRL",
       "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
+    },
+    {
+      "album": {
+        "name": "THAT GIRL!",
+        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132817,
+      "name": "THAT GIRL!",
+      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
     },
     {
       "album": {
@@ -25053,6 +25199,32 @@
     },
     {
       "album": {
+        "name": "Tu danses pas tu bois pas",
+        "url": "https://open.spotify.com/album/4yZu1QWbLL4XoeL2Lemtz0"
+      },
+      "artists": [
+        {
+          "name": "La Traine",
+          "url": "https://open.spotify.com/artist/5tk0jsqb4leLOR0BFzg2ZR"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Wiils",
+          "url": "https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156562,
+      "name": "Tu danses pas tu bois pas",
+      "url": "https://open.spotify.com/track/20TUbbBCFlJr7oar6IiNdB"
+    },
+    {
+      "album": {
         "name": "Tu dis quoi?",
         "url": "https://open.spotify.com/album/6OM8IMDKA5LhlOsBWFhjoe"
       },
@@ -25076,7 +25248,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 147231,
       "name": "Tu dis quoi?",
       "url": "https://open.spotify.com/track/1js2ctvtBznFXyMkhOXw3t"
@@ -25408,7 +25580,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 247655,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/6wffE1E39cj1JUg6vhLKQG"

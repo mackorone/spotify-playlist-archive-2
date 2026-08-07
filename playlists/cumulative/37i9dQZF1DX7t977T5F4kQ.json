@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover:   AraTheJay",
+  "description": "The hottest and recent Ghana party starters. Cover:   Sarkodie and Dopenation",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -2203,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "Bill",
+        "url": "https://open.spotify.com/album/7tgdDsE9mwqu2yG2wRNDH8"
+      },
+      "artists": [
+        {
+          "name": "Ypee",
+          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Bill",
+      "url": "https://open.spotify.com/track/1Epd5KdbrDRFp1anBjcHh8"
+    },
+    {
+      "album": {
         "name": "Billionaire",
         "url": "https://open.spotify.com/album/4u2kjSO5FlYAp2GC8MzWaH"
       },
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 153782,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX"
@@ -3729,6 +3747,28 @@
     },
     {
       "album": {
+        "name": "E No Easy",
+        "url": "https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190719,
+      "name": "E No Easy",
+      "url": "https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x"
+    },
+    {
+      "album": {
         "name": "Eboso",
         "url": "https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP"
       },
@@ -3882,7 +3922,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 179393,
       "name": "Enjoy",
       "url": "https://open.spotify.com/track/0FmafCL3pqIIbvki7KQKP9"
@@ -4204,7 +4244,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 145364,
       "name": "Fall",
       "url": "https://open.spotify.com/track/3i6IBV2KcWadZOmPNkOEas"
@@ -5610,7 +5650,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 142135,
       "name": "HANDKERCHIEF",
       "url": "https://open.spotify.com/track/5Qvd27vGJ2quOlD3HG5qDU"
@@ -5880,7 +5920,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 157013,
       "name": "Hollata Story",
       "url": "https://open.spotify.com/track/3LQrSeMsNf9P4QSaoH2PrF"
@@ -13054,7 +13094,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 132000,
       "name": "TREASURE",
       "url": "https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW"
@@ -13872,7 +13912,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 289325,
       "name": "Work Before You Marry",
       "url": "https://open.spotify.com/track/5aTWchFSWm5MPwa9YrOHNd"

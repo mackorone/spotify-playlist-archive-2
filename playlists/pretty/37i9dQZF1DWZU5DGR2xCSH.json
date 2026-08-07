@@ -1,12 +1,12 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1109652,
+  "num_followers": 1109495,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMc+y2YXMiJckiQ2cCX9QapxCSlb",
+  "snapshot_id": "AAAAAOgzJCjW5g5JVSqWbSqnzqPQehQl",
   "tracks": [
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Piano Bar",
-        "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 135853,
-      "name": "Demoliendo Hoteles",
-      "url": "https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Pappo's Blues, Vol. 8: Caso Cerrado",
         "url": "https://open.spotify.com/album/3tMA4MFLKNJUDJuvQAoPpk"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 186911,
       "name": "Ruta 66",
       "url": "https://open.spotify.com/track/4gN4cSdHUbd6eLzkWL1vdI"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 135853,
+      "name": "Demoliendo Hoteles",
+      "url": "https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt"
     },
     {
       "added_at": "2024-11-11 16:58:11",

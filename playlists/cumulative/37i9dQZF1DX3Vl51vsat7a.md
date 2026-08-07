@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Lina\-Mariah
 
-534 songs - 1 day 3 hr 6 min
+535 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Diese Nacht](https://open.spotify.com/track/2wrB2jRPTd1wujQlWWnJ0r) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/5seerIZ96Tknor62ygW3on) | 2:34 | 2022-09-15 | 2022-09-18 |
 | [Diese Nacht](https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB) | 2:34 | 2022-09-15 | 2023-11-24 |
 | [Dimelo](https://open.spotify.com/track/0EExLvFDjUzoonMODtXkOm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Dimelo](https://open.spotify.com/album/72rHHjp2UVsp6DlfSLToHu) | 3:18 | 2024-05-09 | 2026-01-23 |
+| [disstrack](https://open.spotify.com/track/1DvE4PD6gtLCOJqpORDqG2) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [disstrack](https://open.spotify.com/album/1cKqmrqpLqQv7w36THAaUh) | 2:40 | 2026-08-06 |  |
 | [Do One](https://open.spotify.com/track/0m8IKzcaOnjMIDMgFzmkFE) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Do One](https://open.spotify.com/album/2ENUR4w5JHhovY6tKRX7DS) | 2:38 | 2025-07-17 | 2026-01-30 |
 | [Domino](https://open.spotify.com/track/1S0n6HR1ZHZ8vOzMJiQKQE) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Unfinished](https://open.spotify.com/album/0b6nhv53sGGd3jsjxZU96a) | 3:00 | 2025-06-12 | 2026-02-27 |
 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:27 | 2021-12-16 | 2022-09-02 |
@@ -393,7 +394,7 @@
 | [Schnelle Brille](https://open.spotify.com/track/0WujdAWFACZ7AKmxnFg52I) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Altbau](https://open.spotify.com/album/2qwFhDKCrCy5sYU6lqGC77) | 2:18 | 2022-11-17 | 2023-03-25 |
 | [School Friends](https://open.spotify.com/track/5QNmYUtAV91xj3LHePazkl) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [School Friends](https://open.spotify.com/album/4l86mdEGe67Ilg2dNCelZq) | 3:30 | 2022-04-07 | 2022-05-27 |
 | [schwarzer Renault](https://open.spotify.com/track/20EdweAxnMgjJLnXJiJJYm) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [schwarzer Renault](https://open.spotify.com/album/2H7oTzq7ciKgEGawrYVFEu) | 2:53 | 2022-07-14 | 2022-10-28 |
-| [schwindelig \(omgomgomg\)](https://open.spotify.com/track/6hQgOls99mEFCS8LSOQSUx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby T EP](https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC) | 2:06 | 2026-04-03 |  |
+| [schwindelig \(omgomgomg\)](https://open.spotify.com/track/6hQgOls99mEFCS8LSOQSUx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby T EP](https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC) | 2:06 | 2026-04-03 | 2026-08-07 |
 | [schönhauser \(feat\. Gustav\)](https://open.spotify.com/track/0jsnXwAKMBZ455LiT5ovGj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [schönhauser EP](https://open.spotify.com/album/5WuZ1IE5sEBIRSlJUcXjdq) | 2:00 | 2025-04-04 | 2026-02-27 |
 | [seele berührst](https://open.spotify.com/track/5AIDqFb0rSQ57uEjvLXoYM) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [seele berührst](https://open.spotify.com/album/36WF7ZWbfoYQFMuJp4IVQ5) | 2:31 | 2026-01-13 | 2026-01-30 |
 | [Seit du da bist](https://open.spotify.com/track/6UKEr68Gqgq9LAwdLDfW85) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Seit du da bist](https://open.spotify.com/album/7aSlrqxnr9OZc69O9Vnvlh) | 2:30 | 2023-07-11 | 2023-09-08 |

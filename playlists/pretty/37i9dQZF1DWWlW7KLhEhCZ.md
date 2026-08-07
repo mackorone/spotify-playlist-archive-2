@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Akashi Cruz, MHRAP
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,759 likes - 74 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,756 likes - 74 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 73 | [Fatos Reais](https://open.spotify.com/track/1bRZKPWiVdjC4jNQzJzk0f) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Fatos Reais](https://open.spotify.com/album/30lzqW1TGAtj0895NLmGb6) | 2:22 |
 | 74 | [LX \- PENSE FORA DA CAIXA \#3](https://open.spotify.com/track/5hTEvX7IVOfGpmk5Nv3H3U) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO) | [LX \- PENSE FORA DA CAIXA \#3](https://open.spotify.com/album/1rAYYlRuvQIrJj2s6RCMsE) | 2:31 |
 
-Snapshot ID: `AAAAALNM5U5Z6Yhiob5axqhKUdeSVKMb`
+Snapshot ID: `AAAAAJJnXmwqGO618VIXNvNWSuRq0yCw`

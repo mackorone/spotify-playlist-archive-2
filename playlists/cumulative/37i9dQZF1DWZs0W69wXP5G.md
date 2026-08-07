@@ -4,7 +4,7 @@
 
 > Everything Broadway\-adjacent\. Cover:  Hamilton at the 2025 Tony Awards
 
-237 songs - 14 hr 18 min
+238 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Everything's Alright](https://open.spotify.com/track/63V7zJBnSrPEqKJtcJtruQ) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5), [Morgan James & Company](https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG) | [Jesus Christ Superstar: Highlights From the All\-Female Studio Cast Recording](https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn) | 4:16 | 2022-08-12 | 2025-03-04 |
 | [Fall \- from "Witness Uganda \- An American Musical"](https://open.spotify.com/track/09KncKX0D2yrqAgkNTcQ9g) | [Griffin Matthews](https://open.spotify.com/artist/1iZnRB3xKHWnMkUeEAM8xu), [Emma Hunton](https://open.spotify.com/artist/2AaAHKo5kfPhzIrSFFZhVs), [Cast of Witness Uganda \(An American Musical\)](https://open.spotify.com/artist/1gLx4mq3vyW4nZ64O6jBt8) | [Fall \(from "Witness Uganda \- An American Musical"\)](https://open.spotify.com/album/5jY4WhUyAPkc6glBwiW4zV) | 3:12 | 2022-08-12 | 2026-02-07 |
 | [Falling Slowly \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/1xubaVW0WOyUJu65gSaxXQ) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Kevin Dias](https://open.spotify.com/artist/3UBr7nFzZBhdtfghEZiOrp) | [Emily in Paris \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6XjTTsL4pzC7RVXIBAyzNX) | 3:07 | 2022-08-12 |  |
+| [Fire! \- It's the London Life](https://open.spotify.com/track/3JABa5GWfi66wT2AjqqTXd) | [Richard Brown](https://open.spotify.com/artist/4D57ApL3ZxruHW4hpWz7dT), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Annabelle Brown](https://open.spotify.com/artist/6eulPqSsrUOUUF6Jie8pk6), [David Leonard](https://open.spotify.com/artist/15pWO3o9TcfhnpTPdNUjo4), [Benjamin Pope](https://open.spotify.com/artist/7F8hlosgvfdCq4ynTBsfyU) | [Fire! \- It's the London Life](https://open.spotify.com/album/03N2fh99EjwriBHczE4qpH) | 2:16 | 2026-08-05 |  |
 | [Floating And Falling](https://open.spotify.com/track/0AknRryO2t19Y1WgBDxsru) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Wild About You \(World Premiere Recording\)](https://open.spotify.com/album/6cUSDnALTsDCfCUz7F1qi9) | 3:31 | 2024-03-08 | 2024-04-19 |
 | [Floating and Falling](https://open.spotify.com/track/6UmQE6MN92yrCQYjObOjxx) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Wild About You \(World Premiere Recording\)](https://open.spotify.com/album/7yIhi0NBwYTItw2ln4zF6S) | 3:31 | 2023-12-01 |  |
 | [For Good](https://open.spotify.com/track/3oFQ5DiJOnkLeAycsoryop) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [For Good](https://open.spotify.com/album/6dE6tWXLEinXB6VaFccD5t) | 4:20 | 2025-12-12 |  |

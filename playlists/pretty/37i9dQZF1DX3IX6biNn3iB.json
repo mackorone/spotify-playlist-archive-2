@@ -1,12 +1,12 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 3092,
+  "num_followers": 3095,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMVMZSIJRDo+xZpnLRk2Js4yykwZ",
+  "snapshot_id": "AAAAAE6t7yx7ant+tF6ikzgPhlS7dz9Y",
   "tracks": [
     {
       "added_at": "2025-10-10 17:36:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "Low Sun (Spotify OUTSIDE Version) - Live from Ghost Ranch",
-        "url": "https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Low Sun - (Spotify OUTSIDE Version) - Live from Ghost Ranch",
-      "url": "https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "SOLTERA",
         "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 178312,
       "name": "SOLTERA",
       "url": "https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "Low Sun (Spotify OUTSIDE Version) - Live from Ghost Ranch",
+        "url": "https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Low Sun - (Spotify OUTSIDE Version) - Live from Ghost Ranch",
+      "url": "https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "Ivory (Marfil)",
-        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 146786,
-      "name": "En El Olvido",
-      "url": "https://open.spotify.com/track/6cj2ifwMpLG8EiOUGfsFX0"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "cuida",
         "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 166866,
       "name": "cuida",
       "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "Ivory (Marfil)",
+        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 146786,
+      "name": "En El Olvido",
+      "url": "https://open.spotify.com/track/6cj2ifwMpLG8EiOUGfsFX0"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "la emoci\u00f3n",
-        "url": "https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N"
-      },
-      "artists": [
-        {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
-        }
-      ],
-      "duration_ms": 193097,
-      "name": "la emoci\u00f3n",
-      "url": "https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "No Me Importa",
         "url": "https://open.spotify.com/album/4BsrrIsCrOVGmIzGYHTWEd"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 186339,
       "name": "\u00bfQui\u00e9n de Ustedes?",
       "url": "https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "la emoci\u00f3n",
+        "url": "https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 193097,
+      "name": "la emoci\u00f3n",
+      "url": "https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA"
     },
     {
       "added_at": "2025-10-10 17:36:00",

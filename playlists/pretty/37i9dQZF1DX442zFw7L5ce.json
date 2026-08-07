@@ -1,12 +1,12 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Sreeleela",
-  "num_followers": 62808,
+  "num_followers": 62828,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADfLfbpkuZmj9y8MsntArTFrug+n",
+  "snapshot_id": "AAAAAC3CScqI7GJ7ZSB4s9UHONfbyM9q",
   "tracks": [
     {
       "added_at": "2026-05-20 07:09:05",
@@ -651,6 +651,26 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
+        "name": "Gabbar Singh",
+        "url": "https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Gopika Poornima",
+          "url": "https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF"
+        }
+      ],
+      "duration_ms": 291188,
+      "name": "Akasam Ammayaithe",
+      "url": "https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
         "name": "Jalsa",
         "url": "https://open.spotify.com/album/4TmtWuheIr8ejxIjBpLU2u"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 331133,
       "name": "Ninnu Chudagaane",
       "url": "https://open.spotify.com/track/1E5zyR7GT3PKjH3cqhVXVf"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Gabbar Singh",
-        "url": "https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Gopika Poornima",
-          "url": "https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF"
-        }
-      ],
-      "duration_ms": 291188,
-      "name": "Akasam Ammayaithe",
-      "url": "https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -743,22 +743,18 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Race Gurram",
-        "url": "https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n"
+        "name": "Attarrintiki Daaredi",
+        "url": "https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk"
       },
       "artists": [
         {
-          "name": "Siddharth Mahadevan",
-          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
-        },
-        {
-          "name": "Rabbit M C",
-          "url": "https://open.spotify.com/artist/3EwmY8hOYo6ApKtlOIfgVV"
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
         }
       ],
-      "duration_ms": 265283,
-      "name": "Sweety",
-      "url": "https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW"
+      "duration_ms": 280000,
+      "name": "Bapu Gari Bommo",
+      "url": "https://open.spotify.com/track/1e3pqyiPgPzqnDm8m91x5F"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -779,18 +775,22 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Attarrintiki Daaredi",
-        "url": "https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk"
+        "name": "Race Gurram",
+        "url": "https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n"
       },
       "artists": [
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        },
+        {
+          "name": "Rabbit M C",
+          "url": "https://open.spotify.com/artist/3EwmY8hOYo6ApKtlOIfgVV"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Bapu Gari Bommo",
-      "url": "https://open.spotify.com/track/1e3pqyiPgPzqnDm8m91x5F"
+      "duration_ms": 265283,
+      "name": "Sweety",
+      "url": "https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -807,6 +807,38 @@
       "duration_ms": 319686,
       "name": "Emaindhi Eevela",
       "url": "https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7"
+    },
+    {
+      "added_at": "2023-02-02 11:15:02",
+      "album": {
+        "name": "Govindudu Andarivaadele",
+        "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Gulabi Kallu Rendu Mullu",
+      "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Nuvvostanante Nenoddantana",
+        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "duration_ms": 255292,
+      "name": "Chandrullo Unde",
+      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -857,22 +889,6 @@
       "url": "https://open.spotify.com/track/3P8sXN7vsucV5k80lReeeq"
     },
     {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Nuvvostanante Nenoddantana",
-        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 255292,
-      "name": "Chandrullo Unde",
-      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
-    },
-    {
       "added_at": "2024-10-04 05:05:53",
       "album": {
         "name": "Sarrainodu",
@@ -901,20 +917,24 @@
       "url": "https://open.spotify.com/track/1dV7KaJKMVIBCrHdmCAdyA"
     },
     {
-      "added_at": "2023-02-02 11:15:02",
+      "added_at": "2024-10-04 04:54:19",
       "album": {
-        "name": "Govindudu Andarivaadele",
-        "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
+        "name": "Rangasthalam",
+        "url": "https://open.spotify.com/album/7tSkAxhqw7Gb2lvnAjxvwF"
       },
       "artists": [
         {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Gulabi Kallu Rendu Mullu",
-      "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
+      "duration_ms": 262122,
+      "name": "Yentha Sakkagunnave",
+      "url": "https://open.spotify.com/track/6ZwkWDAoj6aDCbng3xnGSl"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -935,26 +955,6 @@
       "duration_ms": 271882,
       "name": "Urumulu Nimuvvalai",
       "url": "https://open.spotify.com/track/2rTmVSZOPnS9jrgcl6EjV0"
-    },
-    {
-      "added_at": "2024-10-04 04:54:19",
-      "album": {
-        "name": "Rangasthalam",
-        "url": "https://open.spotify.com/album/7tSkAxhqw7Gb2lvnAjxvwF"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
-        }
-      ],
-      "duration_ms": 262122,
-      "name": "Yentha Sakkagunnave",
-      "url": "https://open.spotify.com/track/6ZwkWDAoj6aDCbng3xnGSl"
     },
     {
       "added_at": "2022-10-13 05:39:22",

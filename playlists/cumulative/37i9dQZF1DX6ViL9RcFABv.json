@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Fernando Daniel ",
+  "description": "Uma playlist de pura alma pop! Foto: \u00c1TOA, D.A.M.A",
   "name": "Pop PT",
   "tracks": [
+    {
+      "album": {
+        "name": "0 aos 100",
+        "url": "https://open.spotify.com/album/5sDSK4IEE9507mx3YanTtm"
+      },
+      "artists": [
+        {
+          "name": "Catarina Filipe",
+          "url": "https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161881,
+      "name": "0 aos 100",
+      "url": "https://open.spotify.com/track/1cNNvILcp78k0vCrXKgreb"
+    },
     {
       "album": {
         "name": "1,2,3",
@@ -42,6 +60,28 @@
       "duration_ms": 168505,
       "name": "10MIN \u2206",
       "url": "https://open.spotify.com/track/0ciIldffIACGFzaQ8PuQ6t"
+    },
+    {
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/2sVzmJD3aVBHz6AWrgAKAQ"
+      },
+      "artists": [
+        {
+          "name": "\u00c1TOA",
+          "url": "https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7"
+        },
+        {
+          "name": "D.A.M.A",
+          "url": "https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180526,
+      "name": "112",
+      "url": "https://open.spotify.com/track/3ZZmXNPMGV7xtCp6xVtewK"
     },
     {
       "album": {
@@ -534,7 +574,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 170000,
       "name": "Amo-Te",
       "url": "https://open.spotify.com/track/5go4DvQuFhzBgczUKsnLjV"
@@ -2646,7 +2686,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 162352,
       "name": "Deixa Ir",
       "url": "https://open.spotify.com/track/0qMrUlIyYpTVuFcjcklKer"
@@ -4607,6 +4647,24 @@
     },
     {
       "album": {
+        "name": "HOJE TEM",
+        "url": "https://open.spotify.com/album/3rqHBjTiYbb5BekHM97r19"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171681,
+      "name": "HOJE TEM",
+      "url": "https://open.spotify.com/track/27qMXEJjDpbd1fr4SKxswN"
+    },
+    {
+      "album": {
         "name": "Hora de Ponta",
         "url": "https://open.spotify.com/album/6H1BsQ3YAMvA3LQ0EHk8Y5"
       },
@@ -6442,7 +6500,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 182430,
       "name": "Noite Inteira",
       "url": "https://open.spotify.com/track/56KqvI0JSmptWkM2XEG4sX"
@@ -7079,6 +7137,28 @@
     },
     {
       "album": {
+        "name": "OURO",
+        "url": "https://open.spotify.com/album/7jsZfXAngyR01vfF7PGKIi"
+      },
+      "artists": [
+        {
+          "name": "bapcat",
+          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "OURO",
+      "url": "https://open.spotify.com/track/7KAJgeuLZSZoWoId8G9CAs"
+    },
+    {
+      "album": {
         "name": "Outra vez",
         "url": "https://open.spotify.com/album/3yWpMdltdVtWr4IB0ZWWRU"
       },
@@ -7308,6 +7388,42 @@
       "duration_ms": 163750,
       "name": "Peda\u00e7o De Bom Caminho",
       "url": "https://open.spotify.com/track/12mSyoPyGcxkh97T4vQl6L"
+    },
+    {
+      "album": {
+        "name": "PEGA OU LARGA",
+        "url": "https://open.spotify.com/album/2VX6c4eIikqcEYRd7qN4GQ"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "PEGA OU LARGA",
+      "url": "https://open.spotify.com/track/2KFdCxV6nVqHaQogMnCkio"
+    },
+    {
+      "album": {
+        "name": "Pele e Sal",
+        "url": "https://open.spotify.com/album/4Ly62GHqpnnFK0mNOVPWrE"
+      },
+      "artists": [
+        {
+          "name": "TT",
+          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186653,
+      "name": "Pele e Sal",
+      "url": "https://open.spotify.com/track/4tEnMO8dMoz3OoKKNQhxed"
     },
     {
       "album": {
@@ -8614,7 +8730,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 165000,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/2fJJ2NTXbElvZPNXqbjIZH"
@@ -9444,7 +9560,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 198583,
       "name": "Sortudo",
       "url": "https://open.spotify.com/track/4OH6FyO1A6OIDdmMxTX39x"
@@ -10054,7 +10170,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 177228,
       "name": "Tipicamente Casados",
       "url": "https://open.spotify.com/track/0yvE6oZRThZMSbiBDJ4ukO"

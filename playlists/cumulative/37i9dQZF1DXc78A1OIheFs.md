@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-358 songs - 20 hr 31 min
+359 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Didn't Change A Thing](https://open.spotify.com/track/2OgPwHAA08O8gPkX2S6ujL) | [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [Didn't Change A Thing](https://open.spotify.com/album/7q6gFymoUw39CUBeDQJTkr) | 2:44 | 2026-01-08 | 2026-07-24 |
 | [DIRECTIONS](https://open.spotify.com/track/5i3HrRfp6MLIsWSUrPmPGI) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [DIRECTIONS](https://open.spotify.com/album/1iMQhjN7Jt8fhkf47pLYh3) | 3:02 | 2024-12-05 | 2025-02-21 |
 | [Distance](https://open.spotify.com/track/37iubkt9ZLMvMpXby6ZXKY) | [Sam V](https://open.spotify.com/artist/6m0VpWIUbhI3aITZFK2hmr) | [Distance](https://open.spotify.com/album/1k1JRpGWhKAeExQwbjDYVK) | 4:36 | 2024-05-20 | 2024-11-08 |
-| [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 | 2024-08-15 |  |
+| [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 | 2024-08-15 | 2026-08-07 |
 | [Dive In](https://open.spotify.com/track/0BWKkETNA7fSckRvLtvkK8) | [Bailey Kauri](https://open.spotify.com/artist/0QaFU0eedD5rZ0BjUdON5Q) | [Dive In](https://open.spotify.com/album/1rTnfx8RRbpqgJYz4f7ecJ) | 3:08 | 2024-05-20 | 2024-11-08 |
 | [Doesn't Really Matter \(feat\. BEXY\)](https://open.spotify.com/track/68CFmjw8xUSiiRvJvWR3SV) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [The Lovers](https://open.spotify.com/album/0a0Trgb4aUfCgsmlwJcPNR) | 3:23 | 2024-05-20 | 2024-11-08 |
 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 | 2025-07-17 | 2026-04-26 |
@@ -334,6 +334,7 @@
 | [TN's](https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [TN's](https://open.spotify.com/album/6re07313Esj1OipNfjjUdh) | 3:16 | 2025-07-17 | 2026-03-27 |
 | [tomato baby](https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [tomato baby](https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV) | 2:48 | 2026-05-25 |  |
 | [Too Busy](https://open.spotify.com/track/0SPLtdmnEr2h0lL6C5uaBO) | [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Too Busy](https://open.spotify.com/album/0jA7TBoL1ctiW0t9m92YjY) | 2:15 | 2024-10-03 | 2024-11-08 |
+| [Track 5](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 0:00 | 2026-08-06 |  |
 | [Troubles](https://open.spotify.com/track/6yjUcWU2Se6A26htiGZkPS) | [EDYONTHEBEAT](https://open.spotify.com/artist/5rO3cIUpqwYXBNk6cdSdGC), [Donson PK](https://open.spotify.com/artist/0Ffe4obY6qq9TzAvYm7fqg) | [Troubles](https://open.spotify.com/album/5kNqMZgBP1lh5as2AVerBY) | 3:15 | 2026-07-09 |  |
 | [Try](https://open.spotify.com/track/6pVFYKsXXQyIv7imo8s6NN) | [The Butlers](https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN) | [Try](https://open.spotify.com/album/07E0R5RVXE04BzSapxwGwS) | 3:33 | 2024-11-07 | 2024-11-29 |
 | [Try \(Just a little\)](https://open.spotify.com/track/4jJutsIi6rFhBNTmXsE4J5) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU), [Jaevan](https://open.spotify.com/artist/6yJBRzKZFT12hdhYF6evzD) | [Try \(Just a little\)](https://open.spotify.com/album/2wy1Z44RfSo1oWNV2Ws27c) | 2:43 | 2024-05-20 | 2024-11-08 |

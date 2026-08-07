@@ -3146,10 +3146,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 177031,
       "name": "Paris Blues",
       "url": "https://open.spotify.com/track/37oXUGR543Dt5z8DW2W0lB"
+    },
+    {
+      "album": {
+        "name": "Statements",
+        "url": "https://open.spotify.com/album/5bxVM8MACi8tPeNZqeaxIs"
+      },
+      "artists": [
+        {
+          "name": "Milt Jackson Quartet",
+          "url": "https://open.spotify.com/artist/0OkXd29wRAUpYRin6jbXMQ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177821,
+      "name": "Paris Blues",
+      "url": "https://open.spotify.com/track/0QRJ1gkliQdYdny35prqT2"
     },
     {
       "album": {

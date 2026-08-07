@@ -70,10 +70,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 183250,
       "name": "Asi Esta la Cosa",
       "url": "https://open.spotify.com/track/2WdqnZOLjFtfunFv3SkLnY"
+    },
+    {
+      "album": {
+        "name": "Si Te Soy Sincera",
+        "url": "https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179887,
+      "name": "As\u00ed Est\u00e1 la Cosa",
+      "url": "https://open.spotify.com/track/4UpOroHpBHGEBwTVwl5S3L"
     },
     {
       "album": {
@@ -700,10 +718,32 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 217500,
       "name": "Nada de Nada",
       "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
+    },
+    {
+      "album": {
+        "name": "Si Te Soy Sincera",
+        "url": "https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        },
+        {
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/56WrqjnxbwgEn7gJfb9DAL"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216243,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/13bCqpVBFPdxdYdApC9zal"
     },
     {
       "album": {

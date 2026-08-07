@@ -1,15 +1,79 @@
 {
   "description": "Jahaan bhi dekho tera nishaan hai, mahraab-i dil men teri azaan hai.",
-  "num_followers": 176507,
+  "num_followers": 176536,
   "original_name": "South Asian Sufi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHMnhXzGJXY0W9aW59jfZpWnq63v",
+  "snapshot_id": "AAAAAJtuQiYRJHOZ427iuJ42Gc7KkLiQ",
   "tracks": [
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
+      "album": {
+        "name": "Baadal",
+        "url": "https://open.spotify.com/album/6QcuBHjc2SUXPTYP6hwNRW"
+      },
+      "artists": [
+        {
+          "name": "Sajjad Ali",
+          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
+        }
+      ],
+      "duration_ms": 182052,
+      "name": "Baadal",
+      "url": "https://open.spotify.com/track/2rVbFEMTklg9usVUYL2xG5"
+    },
+    {
+      "added_at": "2026-08-07 03:12:31",
+      "album": {
+        "name": "Tere Ishq Nachaya",
+        "url": "https://open.spotify.com/album/0hUZf9KULmMjYe46Fime7V"
+      },
+      "artists": [
+        {
+          "name": "Usamasutra",
+          "url": "https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Tere Ishq Nachaya",
+      "url": "https://open.spotify.com/track/6u7NaI2LXXNkKN5eTV4tFx"
+    },
+    {
+      "added_at": "2026-08-07 03:12:31",
+      "album": {
+        "name": "Payal",
+        "url": "https://open.spotify.com/album/7MNrBVw4NGm838YknNXi3a"
+      },
+      "artists": [
+        {
+          "name": "Akbar Ali",
+          "url": "https://open.spotify.com/artist/2gSKEcwiRau9vlGjkvLd7Z"
+        }
+      ],
+      "duration_ms": 217816,
+      "name": "Payal",
+      "url": "https://open.spotify.com/track/2yAbeTGt83gjaTZQ6QaZ7p"
+    },
+    {
+      "added_at": "2026-08-07 03:12:31",
+      "album": {
+        "name": "Dilri Lutti",
+        "url": "https://open.spotify.com/album/0cXufxwLjYxfaxiMDQARta"
+      },
+      "artists": [
+        {
+          "name": "Awais Raza Nekokara",
+          "url": "https://open.spotify.com/artist/2SDTWdhn6ef8EV5ULeCQ7Q"
+        }
+      ],
+      "duration_ms": 326275,
+      "name": "Dilri Lutti",
+      "url": "https://open.spotify.com/track/4TZkLEvtOMXgFLyQzX67WO"
+    },
+    {
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Dhamaal (Haq Ali)",
         "url": "https://open.spotify.com/album/65aYMOvux8d0WoXhL8kzQe"
@@ -25,7 +89,7 @@
       "url": "https://open.spotify.com/track/3TsgUQzdphXX5yJ1kmzdRw"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Aatish",
         "url": "https://open.spotify.com/album/1UiQTSF62IFdoOoGcW04xc"
@@ -45,7 +109,7 @@
       "url": "https://open.spotify.com/track/6bJJMam29IyvathYLst3uY"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Koi Achi Khabar",
         "url": "https://open.spotify.com/album/31vDQhzEaHpugJ7tayZbiQ"
@@ -65,7 +129,7 @@
       "url": "https://open.spotify.com/track/70XZSAiqgFv44DgphHIwIM"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Daman Lagiyan",
         "url": "https://open.spotify.com/album/4pcLVMjiU84Dceb6wE4Qwa"
@@ -85,7 +149,7 @@
       "url": "https://open.spotify.com/track/2uWyqK8pjaVMqXMjR4HUMr"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Peeran",
         "url": "https://open.spotify.com/album/6IcfYrEbYRXh4ojDNc6O0L"
@@ -101,7 +165,7 @@
       "url": "https://open.spotify.com/track/4jSJ185RtHo2dQ3AFw8cLi"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Anjaana Anjaani",
         "url": "https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9"
@@ -125,7 +189,7 @@
       "url": "https://open.spotify.com/track/0hVXFWS00liq3W2YAQUma4"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Jhoomo Re",
         "url": "https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5"
@@ -149,7 +213,7 @@
       "url": "https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Jhoom Lia",
         "url": "https://open.spotify.com/album/1XHiTMWgdRVQHEs1dSXoH4"
@@ -165,7 +229,7 @@
       "url": "https://open.spotify.com/track/104yfNysGBlWilnzxpZo0r"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Bajrangi Bhaijaan",
         "url": "https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t"
@@ -189,7 +253,7 @@
       "url": "https://open.spotify.com/track/52qnHAlqWpo3kgEteAPjRf"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Anwar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc"
@@ -205,7 +269,7 @@
       "url": "https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Tu Jhoom",
         "url": "https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M"
@@ -225,7 +289,7 @@
       "url": "https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8"
@@ -249,7 +313,7 @@
       "url": "https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Jodhaa Akbar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW"
@@ -265,7 +329,7 @@
       "url": "https://open.spotify.com/track/4Zuei1UAP5pB5ovra9dnnp"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Tajdar-E-Haram Coke Studio Season 8",
         "url": "https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t"
@@ -281,7 +345,7 @@
       "url": "https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Alif Allah",
         "url": "https://open.spotify.com/album/4ujPZXrHcBjRIGbsUXa2PH"
@@ -305,7 +369,7 @@
       "url": "https://open.spotify.com/track/48nNYfMib6yRaZ4SF8EL8D"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Raqs-e-Bismil",
         "url": "https://open.spotify.com/album/40m7KZRpYGJ1vgRAuKpl1R"
@@ -321,7 +385,7 @@
       "url": "https://open.spotify.com/track/2GZMJVqqEMM2uSHF1Uak6y"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Tu Kuja Man Kuja",
         "url": "https://open.spotify.com/album/1lmGcDNyECCYqVUI7fAGaR"
@@ -337,7 +401,7 @@
       "url": "https://open.spotify.com/track/0P39jvplTOS0eLSBWxmlHx"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa"
@@ -357,7 +421,7 @@
       "url": "https://open.spotify.com/track/3WbmZDODopN9M7lDWd6uey"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Tune Dewana Banaya",
         "url": "https://open.spotify.com/album/38bkGAUNsOEchtWQ5IT8Gh"
@@ -373,7 +437,7 @@
       "url": "https://open.spotify.com/track/3eA5kQKut97n90LGLLmX3x"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Delhi-6",
         "url": "https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh"
@@ -401,7 +465,7 @@
       "url": "https://open.spotify.com/track/3V80Iv04B9XAqGHbXdtRT1"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Karde Karam Tu (From \"Parwarish\")",
         "url": "https://open.spotify.com/album/0HNO3WO0pzK2gsaDsVnCjg"
@@ -417,7 +481,7 @@
       "url": "https://open.spotify.com/track/6VOwPPenagLmIJ679Nx2ZS"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
@@ -449,7 +513,7 @@
       "url": "https://open.spotify.com/track/5JCDVLwteSXuwVqjCa7SwH"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Anwar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc"
@@ -469,7 +533,7 @@
       "url": "https://open.spotify.com/track/7KKgE6UHxqhuxkNV2k3AKn"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Coke Studio Sessions: Season 3",
         "url": "https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY"
@@ -489,7 +553,7 @@
       "url": "https://open.spotify.com/track/7krpkx52sDmcO6U8ujbref"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
@@ -509,7 +573,7 @@
       "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Alif",
         "url": "https://open.spotify.com/album/2KUzNELLaCZrTUuDzd1Gtd"
@@ -529,7 +593,7 @@
       "url": "https://open.spotify.com/track/1IjVbXiyU4MVXWa2Gtkzxv"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Ishq Namaz",
         "url": "https://open.spotify.com/album/3NbXJZVxCODC0k1NyieVjF"
@@ -549,7 +613,7 @@
       "url": "https://open.spotify.com/track/6zKfuiTQAfA6YqWHMVVULN"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
@@ -573,7 +637,7 @@
       "url": "https://open.spotify.com/track/0Bz7dfqPY4JOGZO3O1j8Wh"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa"
@@ -601,7 +665,7 @@
       "url": "https://open.spotify.com/track/0tY8ZIArzjkH6dbXp42ohg"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Ainay",
         "url": "https://open.spotify.com/album/72zheRsnYxLWNuHv6dHXiL"
@@ -621,7 +685,7 @@
       "url": "https://open.spotify.com/track/6f9D7nVZVcMJvCuqVvD5LE"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Wajd, Vol. 1",
         "url": "https://open.spotify.com/album/6vjOYyX7IFntL0d7nnMf5R"
@@ -637,7 +701,7 @@
       "url": "https://open.spotify.com/track/7J2YEpZ1fIodpfsZqSY6wK"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Dil",
         "url": "https://open.spotify.com/album/6p8nXdpQGXG3KLzQpm8pK5"
@@ -653,7 +717,7 @@
       "url": "https://open.spotify.com/track/2XiVM2X9nqh9tnPq37GhLo"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Coke Studio: Season 9",
         "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
@@ -673,7 +737,7 @@
       "url": "https://open.spotify.com/track/1LuLpzIUbHC400nO8XRs5t"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Raanjhanaa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/24C47633GRlozws7WBth7t"
@@ -697,7 +761,7 @@
       "url": "https://open.spotify.com/track/7o9kPO1qalH8szQlYnMI6C"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "The Best of Wadali Brothers",
         "url": "https://open.spotify.com/album/6t70d2Plw6ILCHLZ6mCBQe"
@@ -717,7 +781,7 @@
       "url": "https://open.spotify.com/track/5Fu9Axrk4D9tJ72VDqtAOi"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Wohi Khuda",
         "url": "https://open.spotify.com/album/4obnIXVOOxpSRY8mgzsDjp"
@@ -733,7 +797,7 @@
       "url": "https://open.spotify.com/track/0c8eAkUFDMCgJB53lplqJv"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Ye Rang",
         "url": "https://open.spotify.com/album/1cM92PlMSWbqwRhRhglrS9"
@@ -753,7 +817,7 @@
       "url": "https://open.spotify.com/track/7cM0mHXDVmyBjWHzLqlwZh"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Maikada 2",
         "url": "https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0"
@@ -769,7 +833,7 @@
       "url": "https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Jugni",
         "url": "https://open.spotify.com/album/5qAg8dmPonqUJMIY77VYxh"
@@ -785,7 +849,7 @@
       "url": "https://open.spotify.com/track/4amYI9jDDirSXoZoDJN97w"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "SAEN V",
         "url": "https://open.spotify.com/album/4kqmmKtqwpehMneabNjdv6"
@@ -805,7 +869,7 @@
       "url": "https://open.spotify.com/track/2aoxNtHgeXaKk2wkuzYQc0"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
@@ -825,7 +889,7 @@
       "url": "https://open.spotify.com/track/1FVMCf8F6RgTVrIaN2R9tV"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Coke Studio Season 10: Episode 7",
         "url": "https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3"
@@ -841,7 +905,7 @@
       "url": "https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Piyaji Dekho",
         "url": "https://open.spotify.com/album/4PHh64ZWLc3lBuoW3h8BbK"
@@ -857,7 +921,7 @@
       "url": "https://open.spotify.com/track/5JsTXZfnzZh0LcV30bPxwT"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Salle Alla",
         "url": "https://open.spotify.com/album/3OjpUyw8B63wMLB1Snp514"
@@ -881,7 +945,7 @@
       "url": "https://open.spotify.com/track/6Pp8UsVAzoqCojPWEFFnYT"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Bandeya Ho",
         "url": "https://open.spotify.com/album/5XxrMEnLiOvGQ3wnvT3Ayd"
@@ -897,7 +961,7 @@
       "url": "https://open.spotify.com/track/0SOD8Y5sTbMbyu1dC7HUWJ"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Tu Mane Ya Na Mane",
         "url": "https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI"
@@ -913,7 +977,7 @@
       "url": "https://open.spotify.com/track/6Lks1JEnWDejwxwGIUGzRI"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Main Kaun Hoon",
         "url": "https://open.spotify.com/album/46N671VY1hEdrSdVMbMVDE"
@@ -929,7 +993,7 @@
       "url": "https://open.spotify.com/track/2hK1LA9GCG23VinwnlLfMS"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Khaled Anam",
         "url": "https://open.spotify.com/album/2K3TNBb3ETblTPmUAy2Izg"
@@ -945,7 +1009,7 @@
       "url": "https://open.spotify.com/track/5yiY1CdV3YKTOgEwe4tTJj"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Haq Ali",
         "url": "https://open.spotify.com/album/0FJlpw4MuPuYh2STnJVHt7"
@@ -977,7 +1041,7 @@
       "url": "https://open.spotify.com/track/4KdVxITCH0jol5Dbq2x68H"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Coke Studio Season 11: Episode 3 (Rung)",
         "url": "https://open.spotify.com/album/58D1HICtvmP5L9c3MIHo2J"
@@ -993,7 +1057,7 @@
       "url": "https://open.spotify.com/track/7GzO8lnk3k8g5QDdKk69ge"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Sufi Medley",
         "url": "https://open.spotify.com/album/7qMlaMJNlHUJjpRLQfj3L6"
@@ -1009,7 +1073,7 @@
       "url": "https://open.spotify.com/track/5NnRYBrDpYLvoBHaR3KMPQ"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Naina",
         "url": "https://open.spotify.com/album/6SwKz4ZFJuMw5BKy20SYPR"
@@ -1029,7 +1093,7 @@
       "url": "https://open.spotify.com/track/39BdrPzA4UL05QCqdp2d7D"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Salaam",
         "url": "https://open.spotify.com/album/10F3wxfHMiYO6De0UPF3X2"
@@ -1045,7 +1109,7 @@
       "url": "https://open.spotify.com/track/69gnztZiBrymiPoZmiZf8n"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
@@ -1061,7 +1125,7 @@
       "url": "https://open.spotify.com/track/3RCfKFNxqYyvyULjAWq8Wg"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Wajd, Vol. 1",
         "url": "https://open.spotify.com/album/6vjOYyX7IFntL0d7nnMf5R"
@@ -1077,7 +1141,7 @@
       "url": "https://open.spotify.com/track/0KRVbjl6ScvtBhBk72fYsW"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Man Kunto Maula",
         "url": "https://open.spotify.com/album/4aDtJNM4kem6tl4CeR7YAt"
@@ -1097,7 +1161,7 @@
       "url": "https://open.spotify.com/track/7yFs95J0gZt15FjC4ylJVj"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Tasbih",
         "url": "https://open.spotify.com/album/40i5w2FOxwHsnO6ubxn5kF"
@@ -1121,7 +1185,7 @@
       "url": "https://open.spotify.com/track/01X1vwWYDvUzIW78ZmBO7q"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
@@ -1137,7 +1201,7 @@
       "url": "https://open.spotify.com/track/3vd0Z4j9xwLVZUGUbmQTUV"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Nach Punjaban",
         "url": "https://open.spotify.com/album/1eGjOBGtw2tT4lVWGuM5kf"
@@ -1153,7 +1217,7 @@
       "url": "https://open.spotify.com/track/5nfT5lpnN49MHbvEREXrHf"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Allah Tero Naam",
         "url": "https://open.spotify.com/album/0mD0vgIJNp1LkrqESr3SGW"
@@ -1181,7 +1245,7 @@
       "url": "https://open.spotify.com/track/6sAausYGMZTP2GYVt9tbIm"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Maula Toh Puch",
         "url": "https://open.spotify.com/album/7tD8D4xZ5WlHcP1K9oPebf"
@@ -1209,7 +1273,7 @@
       "url": "https://open.spotify.com/track/6lnJrKSdVbGYdN1qK2ESSP"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Karde Karam Maula",
         "url": "https://open.spotify.com/album/3clbWouITYey6EPsDPKykP"
@@ -1229,7 +1293,7 @@
       "url": "https://open.spotify.com/track/5Athu3P1hU22e3GgX4oKFx"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Aaqa - Coke Studio Season 9",
         "url": "https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl"
@@ -1249,7 +1313,7 @@
       "url": "https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "30 Greatest Hits Rahat and Nusrat Fateh Ali Khan",
         "url": "https://open.spotify.com/album/3NGs9Qp17dqWazKfqrkZMs"
@@ -1265,7 +1329,7 @@
       "url": "https://open.spotify.com/track/46QBWRo5ar8B3pGjgAOANI"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Chahat Meri",
         "url": "https://open.spotify.com/album/1sGE43Uxo5l5wyJP3LRoVo"
@@ -1289,7 +1353,7 @@
       "url": "https://open.spotify.com/track/3cUduIIrrn9OhFpyhssh4N"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Wajd, Vol. 1",
         "url": "https://open.spotify.com/album/6vjOYyX7IFntL0d7nnMf5R"
@@ -1305,7 +1369,7 @@
       "url": "https://open.spotify.com/track/62vCn3L8IyRhlxMgsYmSwT"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Wajd, Vol. 1",
         "url": "https://open.spotify.com/album/6vjOYyX7IFntL0d7nnMf5R"
@@ -1321,7 +1385,7 @@
       "url": "https://open.spotify.com/track/2wCldqdsaqfVZ3w9vbM5g9"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Tu Aur Mein",
         "url": "https://open.spotify.com/album/5v3GvrCLJgpRwkQHsvbkbY"
@@ -1341,7 +1405,7 @@
       "url": "https://open.spotify.com/track/6ZDleQWGHGfjC80EPN0gQs"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Coke Studio: Season 9",
         "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
@@ -1361,7 +1425,7 @@
       "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
@@ -1377,7 +1441,7 @@
       "url": "https://open.spotify.com/track/68KDUiU15BzPLbZwpqVCw5"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
@@ -1393,7 +1457,7 @@
       "url": "https://open.spotify.com/track/2G91arznljxk6VonGl0s2i"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Coke Studio Season 6",
         "url": "https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky"
@@ -1417,7 +1481,7 @@
       "url": "https://open.spotify.com/track/7pHeWftiVZ64s3E7gnTz3n"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Fanoos",
         "url": "https://open.spotify.com/album/4yuJMjY7oKMamaf8apSGgl"
@@ -1437,7 +1501,7 @@
       "url": "https://open.spotify.com/track/2VwOt0wnXOylavVC4Z34Qq"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Pardadari",
         "url": "https://open.spotify.com/album/2bfwHKbSwfUFeMVGY1Fb4n"
@@ -1453,7 +1517,7 @@
       "url": "https://open.spotify.com/track/0avkBFSFOWyZVfccT2u3Ag"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Itni Si Baat",
         "url": "https://open.spotify.com/album/1Ym7tJyn4rN0l2MvIxxmqI"
@@ -1469,7 +1533,7 @@
       "url": "https://open.spotify.com/track/7o5YQtpPl4VwzWXElwjBJN"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Ho Karam Ya Khuda",
         "url": "https://open.spotify.com/album/0st2yGSssJh7hoAW8JWxbf"
@@ -1485,7 +1549,7 @@
       "url": "https://open.spotify.com/track/1nqsF6d9oNxnLuKaOBW64P"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Sarkaar",
         "url": "https://open.spotify.com/album/01rTh8tR8ew27CknLMfsQ2"
@@ -1501,7 +1565,7 @@
       "url": "https://open.spotify.com/track/2yQmsb3aNJGU4JwKRca9BE"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Mustafa",
         "url": "https://open.spotify.com/album/2BuXoKhUVHYj54Nf35pxsF"
@@ -1521,7 +1585,7 @@
       "url": "https://open.spotify.com/track/2x3yTfciFTgT35FqowKMhE"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Aao Taiba Ko Chale",
         "url": "https://open.spotify.com/album/0SnGb3Fgc7EZYD3qZzQjLK"
@@ -1541,7 +1605,7 @@
       "url": "https://open.spotify.com/track/2jHHAFybJwRDxjUM13LSU9"
     },
     {
-      "added_at": "2026-06-18 18:02:36",
+      "added_at": "2026-08-07 03:12:31",
       "album": {
         "name": "Alif",
         "url": "https://open.spotify.com/album/2k3gqwadiMhiTlF5UXUn1J"

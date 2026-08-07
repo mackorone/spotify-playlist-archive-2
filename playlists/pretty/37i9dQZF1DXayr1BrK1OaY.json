@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free \u2764\ufe0f\u200d\ud83e\ude79",
-  "num_followers": 853688,
+  "num_followers": 853676,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKc3OFhGfKwxyKRikwzNaBu5Zntu",
+  "snapshot_id": "AAAAAF4YI3QRRd4BzPZWDCvytAa0ece0",
   "tracks": [
     {
       "added_at": "2026-07-31 19:26:45",
@@ -667,18 +667,22 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
-        "name": "Can't Help But Worry (Every Night Every Day)",
-        "url": "https://open.spotify.com/album/7vJm6qiekHsbQ5HJBSnfwX"
+        "name": "Heartbreak Melody",
+        "url": "https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4"
       },
       "artists": [
         {
-          "name": "Soluna",
-          "url": "https://open.spotify.com/artist/2fRP0DEazBFA0FoLvkyHTY"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "FAANGS",
+          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
         }
       ],
-      "duration_ms": 109440,
-      "name": "Can't Help But Worry (Every Night Every Day)",
-      "url": "https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i"
+      "duration_ms": 191830,
+      "name": "Heartbreak Melody",
+      "url": "https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -703,22 +707,18 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
-        "name": "Heartbreak Melody",
-        "url": "https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4"
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "FAANGS",
-          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 191830,
-      "name": "Heartbreak Melody",
-      "url": "https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V"
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -779,18 +779,22 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+      "duration_ms": 144000,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -851,22 +855,18 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
+        "name": "Can't Help But Worry (Every Night Every Day)",
+        "url": "https://open.spotify.com/album/7vJm6qiekHsbQ5HJBSnfwX"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Soluna",
+          "url": "https://open.spotify.com/artist/2fRP0DEazBFA0FoLvkyHTY"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
+      "duration_ms": 109440,
+      "name": "Can't Help But Worry (Every Night Every Day)",
+      "url": "https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
-        "name": "Only Friends",
-        "url": "https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Only Friends",
-      "url": "https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"
-    },
-    {
-      "added_at": "2026-07-31 19:26:45",
-      "album": {
         "name": "Actual Life (April 14 - December 17 2020)",
         "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 285093,
       "name": "Angie (i\u2019ve been lost) [feat. Angie McMahon]",
       "url": "https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR"
+    },
+    {
+      "added_at": "2026-07-31 19:26:45",
+      "album": {
+        "name": "Only Friends",
+        "url": "https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Only Friends",
+      "url": "https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
+        "name": "ten days",
+        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 214469,
+      "name": "fear less",
+      "url": "https://open.spotify.com/track/4IHblO52meh2jwqES1BA7X"
+    },
+    {
+      "added_at": "2026-07-31 19:26:45",
+      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/5R6Hhxu8qohIsu7w3nJDfo"
       },
@@ -1299,26 +1319,6 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
-        "name": "ten days",
-        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 214469,
-      "name": "fear less",
-      "url": "https://open.spotify.com/track/4IHblO52meh2jwqES1BA7X"
-    },
-    {
-      "added_at": "2026-07-31 19:26:45",
-      "album": {
         "name": "reserved...",
         "url": "https://open.spotify.com/album/5YhLiGMPFYbg4tdTnUrsuU"
       },
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
+        "name": "IN THIS DARKNESS",
+        "url": "https://open.spotify.com/album/3JsDbqGYDvE0dZVHZJYftY"
+      },
+      "artists": [
+        {
+          "name": "Ecchi.mp4",
+          "url": "https://open.spotify.com/artist/43rijQ3n85cBIp2xHJgXBI"
+        }
+      ],
+      "duration_ms": 181681,
+      "name": "IN THIS DARKNESS",
+      "url": "https://open.spotify.com/track/21pN6f1lJT7Hwc8zDllsUR"
+    },
+    {
+      "added_at": "2026-07-31 19:26:45",
+      "album": {
         "name": "Say No Prayer",
         "url": "https://open.spotify.com/album/6GyxOBOOGtlJMZzbyJ6vEc"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 149428,
       "name": "Say No Prayer",
       "url": "https://open.spotify.com/track/3k9EAHWqEmKgPqsHUKNKOV"
-    },
-    {
-      "added_at": "2026-07-31 19:26:45",
-      "album": {
-        "name": "IN THIS DARKNESS",
-        "url": "https://open.spotify.com/album/3JsDbqGYDvE0dZVHZJYftY"
-      },
-      "artists": [
-        {
-          "name": "Ecchi.mp4",
-          "url": "https://open.spotify.com/artist/43rijQ3n85cBIp2xHJgXBI"
-        }
-      ],
-      "duration_ms": 181681,
-      "name": "IN THIS DARKNESS",
-      "url": "https://open.spotify.com/track/21pN6f1lJT7Hwc8zDllsUR"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -1503,26 +1503,18 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
-        "name": "Without You (feat. Sasha Alex Sloan)",
-        "url": "https://open.spotify.com/album/7EAs7BfYqQ1vmzBzI529Nk"
+        "name": "Break My Love",
+        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 176258,
-      "name": "Without You (feat. Sasha Alex Sloan)",
-      "url": "https://open.spotify.com/track/57LQfowCxQ3BmdlsyN9leg"
+      "duration_ms": 260400,
+      "name": "Break My Love",
+      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -1551,22 +1543,6 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
-        "name": "Break My Love",
-        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Break My Love",
-      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
-    },
-    {
-      "added_at": "2026-07-31 19:26:45",
-      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -1587,6 +1563,30 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
+        "name": "Without You (feat. Sasha Alex Sloan)",
+        "url": "https://open.spotify.com/album/7EAs7BfYqQ1vmzBzI529Nk"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 176258,
+      "name": "Without You (feat. Sasha Alex Sloan)",
+      "url": "https://open.spotify.com/track/57LQfowCxQ3BmdlsyN9leg"
+    },
+    {
+      "added_at": "2026-07-31 19:26:45",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
       },
@@ -1603,26 +1603,6 @@
       "duration_ms": 200637,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
-    },
-    {
-      "added_at": "2026-07-31 19:26:45",
-      "album": {
-        "name": "BLINK",
-        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 237938,
-      "name": "Keep Love Waiting",
-      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
+        "name": "BLINK",
+        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 237938,
+      "name": "Keep Love Waiting",
+      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
+    },
+    {
+      "added_at": "2026-07-31 19:26:45",
+      "album": {
         "name": "CAN'T FIND YOU",
         "url": "https://open.spotify.com/album/66oS6DryteXBVpmetDGPAi"
       },
@@ -1671,6 +1671,22 @@
       "duration_ms": 215357,
       "name": "CAN'T FIND YOU",
       "url": "https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j"
+    },
+    {
+      "added_at": "2026-07-31 19:26:45",
+      "album": {
+        "name": "Electric High",
+        "url": "https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Electric High",
+      "url": "https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -1695,22 +1711,6 @@
       "duration_ms": 186461,
       "name": "Go Home With A Stranger",
       "url": "https://open.spotify.com/track/6bQGjCqJLedU9x6ZAmIKE8"
-    },
-    {
-      "added_at": "2026-07-31 19:26:45",
-      "album": {
-        "name": "Electric High",
-        "url": "https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Electric High",
-      "url": "https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG"
+    },
+    {
+      "added_at": "2026-07-31 19:26:45",
+      "album": {
         "name": "Crashing Down",
         "url": "https://open.spotify.com/album/7KiXlo5ZH1O5fPCRyoWWXb"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 186884,
       "name": "Crashing Down",
       "url": "https://open.spotify.com/track/1vvahR9zmdgvhybeEqkOeX"
-    },
-    {
-      "added_at": "2026-07-31 19:26:45",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
-    },
-    {
-      "added_at": "2026-07-31 19:26:45",
-      "album": {
         "name": "To This Day",
         "url": "https://open.spotify.com/album/5rTV7nsg4Ty4Nr3kBPTSSQ"
       },
@@ -2079,18 +2063,18 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
-        "name": "Drifting Away",
-        "url": "https://open.spotify.com/album/22V7Zz6Qo8eXrRmLmMp8qr"
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
       },
       "artists": [
         {
-          "name": "Mattilo",
-          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
         }
       ],
-      "duration_ms": 184650,
-      "name": "Drifting Away",
-      "url": "https://open.spotify.com/track/3Qcy8RFnLu2R7LooFrfkq6"
+      "duration_ms": 238506,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -2127,6 +2111,22 @@
       "duration_ms": 169655,
       "name": "Tear Drops",
       "url": "https://open.spotify.com/track/2KVJEq0uhuKTqxpkb9srV6"
+    },
+    {
+      "added_at": "2026-07-31 19:26:45",
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/22V7Zz6Qo8eXrRmLmMp8qr"
+      },
+      "artists": [
+        {
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+        }
+      ],
+      "duration_ms": 184650,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/3Qcy8RFnLu2R7LooFrfkq6"
     },
     {
       "added_at": "2026-07-31 19:26:45",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-07-31 19:26:45",
       "album": {
-        "name": "You Said Forever",
-        "url": "https://open.spotify.com/album/3Sga55WOeWr0G12vzC2GoQ"
-      },
-      "artists": [
-        {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
-        }
-      ],
-      "duration_ms": 147187,
-      "name": "You Said Forever",
-      "url": "https://open.spotify.com/track/5fjIr7fMC19Jmz97GmmSB7"
-    },
-    {
-      "added_at": "2026-07-31 19:26:45",
-      "album": {
         "name": "THINKIN' BOUT U",
         "url": "https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 216336,
       "name": "Condition",
       "url": "https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol"
+    },
+    {
+      "added_at": "2026-07-31 19:26:45",
+      "album": {
+        "name": "You Said Forever",
+        "url": "https://open.spotify.com/album/3Sga55WOeWr0G12vzC2GoQ"
+      },
+      "artists": [
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        }
+      ],
+      "duration_ms": 147187,
+      "name": "You Said Forever",
+      "url": "https://open.spotify.com/track/5fjIr7fMC19Jmz97GmmSB7"
     }
   ],
   "unique_name": "crying on the dance floor",

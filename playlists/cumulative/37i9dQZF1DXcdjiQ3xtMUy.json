@@ -2852,7 +2852,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 142795,
       "name": "Gypsy Girl",
       "url": "https://open.spotify.com/track/1YLbaW7lnYHbYBe805jsn2"
@@ -4502,6 +4502,28 @@
       "duration_ms": 182618,
       "name": "OOH AHH",
       "url": "https://open.spotify.com/track/4myl74vHJYTlDxwWnudejJ"
+    },
+    {
+      "album": {
+        "name": "I TRIED",
+        "url": "https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Danae",
+          "url": "https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "OPOU KI AN PAS",
+      "url": "https://open.spotify.com/track/0MHTVZhRsPi9PcbTceEMq8"
     },
     {
       "album": {

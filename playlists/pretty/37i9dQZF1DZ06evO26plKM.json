@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 32037,
+  "num_followers": 32398,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAACFGh+RusSPdOXXRurc3hVo",
+  "snapshot_id": "anJ9AAAAAACAVQHn5eKRDAZgucWwujWP",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythm And Repose (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0wOZWFsq2ChZI7Gu7WPqal"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Song of Good Hope",
+      "url": "https://open.spotify.com/track/7oFCqRce7JYQHoLQ3yAK6f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Between Two Shores",
         "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 183293,
       "name": "Why Woman",
       "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Winning Streak",
-      "url": "https://open.spotify.com/track/2vaoKrieU38LtJAYWXpeju"
     },
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Winning Streak",
+      "url": "https://open.spotify.com/track/2vaoKrieU38LtJAYWXpeju"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm And Repose (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0wOZWFsq2ChZI7Gu7WPqal"
       },
@@ -116,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 228333,
-      "name": "Song of Good Hope",
-      "url": "https://open.spotify.com/track/7oFCqRce7JYQHoLQ3yAK6f"
+      "duration_ms": 330053,
+      "name": "Maybe Not Tonight",
+      "url": "https://open.spotify.com/track/09GpXIZcLM34XWmsQeCZR3"
     },
     {
       "added_at": null,
@@ -147,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "My Little Ruin",
-      "url": "https://open.spotify.com/track/2aay5Exr9xPNdvLztiWl35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
       },
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "My Little Ruin",
+      "url": "https://open.spotify.com/track/2aay5Exr9xPNdvLztiWl35"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm And Repose (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0wOZWFsq2ChZI7Gu7WPqal"
       },
@@ -188,9 +204,9 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 330053,
-      "name": "Maybe Not Tonight",
-      "url": "https://open.spotify.com/track/09GpXIZcLM34XWmsQeCZR3"
+      "duration_ms": 350733,
+      "name": "Bird of Sorrow",
+      "url": "https://open.spotify.com/track/6FNDJvNoycZg6wvQSTJejG"
     },
     {
       "added_at": null,
@@ -215,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 286466,
-      "name": "Her Mercy",
-      "url": "https://open.spotify.com/track/02ckSWja0a1uutSiZ2enQG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
       },
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 286466,
+      "name": "Her Mercy",
+      "url": "https://open.spotify.com/track/02ckSWja0a1uutSiZ2enQG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm And Repose (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0wOZWFsq2ChZI7Gu7WPqal"
       },
@@ -256,9 +272,9 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 350733,
-      "name": "Bird of Sorrow",
-      "url": "https://open.spotify.com/track/6FNDJvNoycZg6wvQSTJejG"
+      "duration_ms": 235080,
+      "name": "High Hope",
+      "url": "https://open.spotify.com/track/0A332vQjskOY6sjP00MgvA"
     },
     {
       "added_at": null,
@@ -287,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Once (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 166773,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/6nh6zDSvONACUF6M2st4iH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drive All Night",
         "url": "https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z"
       },
@@ -311,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 166773,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/6nh6zDSvONACUF6M2st4iH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm And Repose (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0wOZWFsq2ChZI7Gu7WPqal"
       },
@@ -336,9 +352,9 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 235080,
-      "name": "High Hope",
-      "url": "https://open.spotify.com/track/0A332vQjskOY6sjP00MgvA"
+      "duration_ms": 287601,
+      "name": "This Gift",
+      "url": "https://open.spotify.com/track/5E992ekvLksONA86pKVVS0"
     },
     {
       "added_at": null,
@@ -363,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Tender Mercies",
-      "url": "https://open.spotify.com/track/4nbePSLoFmsxVZRTzWdxvT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
       },
@@ -403,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Tender Mercies",
+      "url": "https://open.spotify.com/track/4nbePSLoFmsxVZRTzWdxvT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm And Repose (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0wOZWFsq2ChZI7Gu7WPqal"
       },
@@ -412,9 +428,25 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 287601,
-      "name": "This Gift",
-      "url": "https://open.spotify.com/track/5E992ekvLksONA86pKVVS0"
+      "duration_ms": 257293,
+      "name": "Love Don't Leave Me Waiting",
+      "url": "https://open.spotify.com/track/46Y60rjFW7VNqbwhNjh42o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Paying My Way",
+      "url": "https://open.spotify.com/track/2Xj9fZXhokEHpF7a3cNVk7"
     },
     {
       "added_at": null,
@@ -455,34 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+        "name": "Set List (Live)",
+        "url": "https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u"
       },
       "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Paying My Way",
-      "url": "https://open.spotify.com/track/2Xj9fZXhokEHpF7a3cNVk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm And Repose (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0wOZWFsq2ChZI7Gu7WPqal"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 257293,
-      "name": "Love Don't Leave Me Waiting",
-      "url": "https://open.spotify.com/track/46Y60rjFW7VNqbwhNjh42o"
+      "duration_ms": 220573,
+      "name": "Star Star | Pure Imagination",
+      "url": "https://open.spotify.com/track/1pWsNALhAMYEOdPAe3Cp23"
     },
     {
       "added_at": null,
@@ -507,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drive All Night",
+        "url": "https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 134022,
+      "name": "Step out of the Shadows",
+      "url": "https://open.spotify.com/track/4Ez56zhSkr9tgusv4EHDWk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
         "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
       },
@@ -519,26 +555,6 @@
       "duration_ms": 255993,
       "name": "What Happens When The Heart Just Stops (Funkhaus Version)",
       "url": "https://open.spotify.com/track/40gjFISWufq2pDTgRjeu1z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set List (Live)",
-        "url": "https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Star Star | Pure Imagination",
-      "url": "https://open.spotify.com/track/1pWsNALhAMYEOdPAe3Cp23"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 284626,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/6nuMBIXdGs2wL3mp49Ndf6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drive All Night",
-        "url": "https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 134022,
-      "name": "Step out of the Shadows",
-      "url": "https://open.spotify.com/track/4Ez56zhSkr9tgusv4EHDWk"
     },
     {
       "added_at": null,
@@ -775,6 +775,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Between Two Shores",
+        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 266242,
+      "name": "Time Will Be The Healer",
+      "url": "https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set List (Live)",
+        "url": "https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u"
+      },
+      "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 246693,
+      "name": "Lay Me Down | Ring of Fire",
+      "url": "https://open.spotify.com/track/1pAAM0sXQkFN8pnPkAm5xW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mavis Staples I'll Take You There: An All-Star Concert Celebration (Deluxe / Live)",
         "url": "https://open.spotify.com/album/6MJb2k5X1k25ebj7ZyixCb"
       },
@@ -859,42 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Two Shores",
-        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 266242,
-      "name": "Time Will Be The Healer",
-      "url": "https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set List (Live)",
-        "url": "https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Lay Me Down | Ring of Fire",
-      "url": "https://open.spotify.com/track/1pAAM0sXQkFN8pnPkAm5xW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
         "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
       },
@@ -907,26 +907,6 @@
       "duration_ms": 280339,
       "name": "Revelate (Funkhaus Version)",
       "url": "https://open.spotify.com/track/453oVdKnFk2PX89zV0QXfh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Flag Day",
-      "url": "https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk"
     },
     {
       "added_at": null,
@@ -955,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Flag Day",
+      "url": "https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don\u2019t Settle (Vol. 1 - Transmissions East)",
         "url": "https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1"
       },
@@ -967,26 +967,6 @@
       "duration_ms": 323540,
       "name": "Didn't He Ramble (Funkhaus Version)",
       "url": "https://open.spotify.com/track/52mNViayZN6tYChVWmaX01"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Not There (Music From The Motion Picture - Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "You Ain't Goin' Nowhere",
-      "url": "https://open.spotify.com/track/1vWgBZ8Uu89MMZaFkgJymR"
     },
     {
       "added_at": null,
@@ -1011,6 +991,26 @@
       "duration_ms": 218960,
       "name": "Sleeping",
       "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Not There (Music From The Motion Picture - Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "You Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/1vWgBZ8Uu89MMZaFkgJymR"
     }
   ],
   "unique_name": "This Is Glen Hansard",

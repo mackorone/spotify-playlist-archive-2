@@ -1,12 +1,12 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 392207,
+  "num_followers": 392002,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMyYKqSddaDR/H2WQASVPVgje/Bc",
+  "snapshot_id": "AAAAADihc3wGXFRGW0AIb1qisgxRbxke",
   "tracks": [
     {
       "added_at": "2024-06-14 04:59:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Pol\u00edtico",
-        "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
+        "name": "Los A\u00f1os Futuros",
+        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
       },
       "artists": [
         {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
         }
       ],
-      "duration_ms": 226742,
-      "name": "M\u00e9xico",
-      "url": "https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx"
+      "duration_ms": 187824,
+      "name": "Extranjero",
+      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Los A\u00f1os Futuros",
-        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
+        "name": "Pol\u00edtico",
+        "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
       },
       "artists": [
         {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
         }
       ],
-      "duration_ms": 187824,
-      "name": "Extranjero",
-      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
+      "duration_ms": 226742,
+      "name": "M\u00e9xico",
+      "url": "https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Pel\u00edcula",
-        "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
-      },
-      "artists": [
-        {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
-        }
-      ],
-      "duration_ms": 119632,
-      "name": "Pel\u00edcula",
-      "url": "https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Correspondencia",
         "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
       },
@@ -1011,22 +995,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Sexo en la playa",
-        "url": "https://open.spotify.com/album/0ncQYd7wRzoLdM4MFG6UGd"
+        "name": "Pel\u00edcula",
+        "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
       },
       "artists": [
         {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        },
-        {
-          "name": "Amaia",
-          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
         }
       ],
-      "duration_ms": 225697,
-      "name": "Sexo en la playa",
-      "url": "https://open.spotify.com/track/4hdq0AASkxYPua4kKwQ4jy"
+      "duration_ms": 119632,
+      "name": "Pel\u00edcula",
+      "url": "https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1047,6 +1027,26 @@
       "duration_ms": 213133,
       "name": "Murasaki",
       "url": "https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Sexo en la playa",
+        "url": "https://open.spotify.com/album/0ncQYd7wRzoLdM4MFG6UGd"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        },
+        {
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+        }
+      ],
+      "duration_ms": 225697,
+      "name": "Sexo en la playa",
+      "url": "https://open.spotify.com/track/4hdq0AASkxYPua4kKwQ4jy"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Prender un Fuego",
-        "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 196072,
-      "name": "La Casa de A",
-      "url": "https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Muchacha",
         "url": "https://open.spotify.com/album/47RB07x4FAdJZhkyNTEbPH"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 180200,
       "name": "Muchacha",
       "url": "https://open.spotify.com/track/2AAyhPcURpf7LqoqsiKZ1N"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Prender un Fuego",
+        "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 196072,
+      "name": "La Casa de A",
+      "url": "https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Sexo Con Modelos",
-        "url": "https://open.spotify.com/album/0chduE6pCglPaH32gP0ctx"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Enterrarte",
-      "url": "https://open.spotify.com/track/1426f7xQMhO5HTvKpv7TbI"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "SMS",
         "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 188660,
       "name": "Me Conecto (feat. Jorge Drexler)",
       "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Sexo Con Modelos",
+        "url": "https://open.spotify.com/album/0chduE6pCglPaH32gP0ctx"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "Enterrarte",
+      "url": "https://open.spotify.com/track/1426f7xQMhO5HTvKpv7TbI"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1423,22 +1423,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+        "name": "Run... The Sun Is Burning All Your Hopes",
+        "url": "https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
         }
       ],
-      "duration_ms": 268280,
-      "name": "Adelante",
-      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
+      "duration_ms": 189693,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1459,18 +1455,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Run... The Sun Is Burning All Your Hopes",
-        "url": "https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes"
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
       "artists": [
         {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 189693,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4"
+      "duration_ms": 268280,
+      "name": "Adelante",
+      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "O Marineros",
-        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Cae la Noche",
-      "url": "https://open.spotify.com/track/201whRJolw8g2KGGJaMa75"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Vueltas",
         "url": "https://open.spotify.com/album/6CCshZPonPq3626zN28AT4"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Who Me?",
-        "url": "https://open.spotify.com/album/03AalHNXM2fBTryvQGw8lA"
+        "name": "O Marineros",
+        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
       "artists": [
         {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
         }
       ],
-      "duration_ms": 156563,
-      "name": "Todo Termin\u00f3",
-      "url": "https://open.spotify.com/track/5BeLLbwf4RUDccIVdzjuIh"
+      "duration_ms": 265893,
+      "name": "Cae la Noche",
+      "url": "https://open.spotify.com/track/201whRJolw8g2KGGJaMa75"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1671,6 +1655,22 @@
       "duration_ms": 209577,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/4q3INV20vNx0BQYNTDLGEb"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Who Me?",
+        "url": "https://open.spotify.com/album/03AalHNXM2fBTryvQGw8lA"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        }
+      ],
+      "duration_ms": 156563,
+      "name": "Todo Termin\u00f3",
+      "url": "https://open.spotify.com/track/5BeLLbwf4RUDccIVdzjuIh"
     }
   ],
   "unique_name": "Lo Mejor del Indie Latino  ",

@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 196258,
       "name": "90s Bitch",
       "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
@@ -2365,6 +2365,28 @@
     },
     {
       "album": {
+        "name": "Dance To The Beat",
+        "url": "https://open.spotify.com/album/0Rsy2bAEllfxCx51biit4t"
+      },
+      "artists": [
+        {
+          "name": "RAVEKINGS",
+          "url": "https://open.spotify.com/artist/1mWqL90F7Hmnx0VLoDy6YQ"
+        },
+        {
+          "name": "JSPH",
+          "url": "https://open.spotify.com/artist/6To3udkIKAZLdJnqlrN7e5"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Dance To The Beat",
+      "url": "https://open.spotify.com/track/41k8u6SocCk1PvdqZ7Z3QI"
+    },
+    {
+      "album": {
         "name": "For The Love Of Progressive EP",
         "url": "https://open.spotify.com/album/69WyFAqNqj4nK0wjq5wmqs"
       },
@@ -3940,7 +3962,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 139714,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/10JsmLVZb3LAW0G7i1iOeN"
@@ -9688,7 +9710,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
@@ -9740,6 +9762,28 @@
       "duration_ms": 218031,
       "name": "Turn It Around Baby",
       "url": "https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq"
+    },
+    {
+      "album": {
+        "name": "Turn Up The Bass",
+        "url": "https://open.spotify.com/album/7CJm3F9qU26oPl30iRx81L"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147724,
+      "name": "Turn Up The Bass",
+      "url": "https://open.spotify.com/track/2QL5BIL8ngij9hgLjppSYW"
     },
     {
       "album": {

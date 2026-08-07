@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de julio 2026. Cover: KAROL G",
-  "num_followers": 1545302,
+  "num_followers": 1545092,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP02xk2BzZMAeJ4uWvHMcVLijzjE",
+  "snapshot_id": "AAAAAICzGxy8olTlEAY2r2U4S7BRNfwc",
   "tracks": [
     {
       "added_at": "2026-07-31 04:02:04",
@@ -171,6 +171,30 @@
     {
       "added_at": "2026-07-31 04:02:04",
       "album": {
+        "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+        "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 150944,
+      "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+      "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
+    },
+    {
+      "added_at": "2026-07-31 04:02:04",
+      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt"
       },
@@ -211,50 +235,6 @@
     {
       "added_at": "2026-07-31 04:02:04",
       "album": {
-        "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
-        "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 150944,
-      "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
-      "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
-    },
-    {
-      "added_at": "2026-07-31 04:02:04",
-      "album": {
-        "name": "SI SE ACABA EL MUNDO",
-        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
-      },
-      "artists": [
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 170812,
-      "name": "SI SE ACABA EL MUNDO",
-      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
-    },
-    {
-      "added_at": "2026-07-31 04:02:04",
-      "album": {
         "name": "pAL_veranito.mp3",
         "url": "https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z"
       },
@@ -283,38 +263,22 @@
     {
       "added_at": "2026-07-31 04:02:04",
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
+        "name": "SI SE ACABA EL MUNDO",
+        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
       },
       "artists": [
         {
-          "name": "Bon Calso",
-          "url": "https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu"
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
         },
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         }
       ],
-      "duration_ms": 250006,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
-    },
-    {
-      "added_at": "2026-07-31 04:02:04",
-      "album": {
-        "name": "Millon Freestyle",
-        "url": "https://open.spotify.com/album/4xVsVTOU6CxrB7jKLUs5uc"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 126620,
-      "name": "Millon Freestyle",
-      "url": "https://open.spotify.com/track/6EHfLvGE2osEmEbdOOJlBT"
+      "duration_ms": 170812,
+      "name": "SI SE ACABA EL MUNDO",
+      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
     },
     {
       "added_at": "2026-07-31 04:02:04",
@@ -355,6 +319,42 @@
       "duration_ms": 155294,
       "name": "Celosa",
       "url": "https://open.spotify.com/track/2PZH6ktoRWCLlkbn49Z1xq"
+    },
+    {
+      "added_at": "2026-07-31 04:02:04",
+      "album": {
+        "name": "Millon Freestyle",
+        "url": "https://open.spotify.com/album/4xVsVTOU6CxrB7jKLUs5uc"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 126620,
+      "name": "Millon Freestyle",
+      "url": "https://open.spotify.com/track/6EHfLvGE2osEmEbdOOJlBT"
+    },
+    {
+      "added_at": "2026-07-31 04:02:04",
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
+      },
+      "artists": [
+        {
+          "name": "Bon Calso",
+          "url": "https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 250006,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
     },
     {
       "added_at": "2026-07-31 04:02:04",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-07-31 04:02:04",
       "album": {
-        "name": "SE LLEG\u00d3 EL VERANO",
-        "url": "https://open.spotify.com/album/1t7899EeCip9KJJlL1jvFJ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 177408,
-      "name": "LA PLAYA",
-      "url": "https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC"
-    },
-    {
-      "added_at": "2026-07-31 04:02:04",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2026-07-31 04:02:04",
       "album": {
-        "name": "BESITO",
-        "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
+        "name": "SE LLEG\u00d3 EL VERANO",
+        "url": "https://open.spotify.com/album/1t7899EeCip9KJJlL1jvFJ"
       },
       "artists": [
         {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 179720,
-      "name": "BESITO",
-      "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
+      "duration_ms": 177408,
+      "name": "LA PLAYA",
+      "url": "https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC"
     },
     {
       "added_at": "2026-07-31 04:02:04",
@@ -491,6 +475,22 @@
       "duration_ms": 186874,
       "name": "beam",
       "url": "https://open.spotify.com/track/1O9MtYSAQiayzZN1V9k0y4"
+    },
+    {
+      "added_at": "2026-07-31 04:02:04",
+      "album": {
+        "name": "BESITO",
+        "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 179720,
+      "name": "BESITO",
+      "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
     },
     {
       "added_at": "2026-07-31 04:02:04",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-07-31 04:02:04",
       "album": {
+        "name": "Dulce Amargo",
+        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 129802,
+      "name": "TREMENDA",
+      "url": "https://open.spotify.com/track/3yaA1F3bvFbZyx5db6fm5M"
+    },
+    {
+      "added_at": "2026-07-31 04:02:04",
+      "album": {
         "name": "En bucle",
         "url": "https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2"
       },
@@ -611,18 +627,22 @@
     {
       "added_at": "2026-07-31 04:02:04",
       "album": {
-        "name": "Dulce Amargo",
-        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
+        "name": "HABLAR DE TI (...)",
+        "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 129802,
-      "name": "TREMENDA",
-      "url": "https://open.spotify.com/track/3yaA1F3bvFbZyx5db6fm5M"
+      "duration_ms": 218190,
+      "name": "HABLAR DE TI (...)",
+      "url": "https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf"
     },
     {
       "added_at": "2026-07-31 04:02:04",
@@ -643,26 +663,6 @@
     {
       "added_at": "2026-07-31 04:02:04",
       "album": {
-        "name": "TRX",
-        "url": "https://open.spotify.com/album/4TnfSIL4I2LqVikUEFbhdO"
-      },
-      "artists": [
-        {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "TRX",
-      "url": "https://open.spotify.com/track/26vQruwWC4spXD4rZl3ipC"
-    },
-    {
-      "added_at": "2026-07-31 04:02:04",
-      "album": {
         "name": "N\u00d3MADA",
         "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
       },
@@ -679,6 +679,26 @@
       "duration_ms": 185000,
       "name": "Estratosf\u00e9rico",
       "url": "https://open.spotify.com/track/7i2CjzSK2cHAQkkWNoQz2O"
+    },
+    {
+      "added_at": "2026-07-31 04:02:04",
+      "album": {
+        "name": "TRX",
+        "url": "https://open.spotify.com/album/4TnfSIL4I2LqVikUEFbhdO"
+      },
+      "artists": [
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "TRX",
+      "url": "https://open.spotify.com/track/26vQruwWC4spXD4rZl3ipC"
     },
     {
       "added_at": "2026-07-31 04:02:04",
@@ -719,22 +739,6 @@
     {
       "added_at": "2026-07-31 04:02:04",
       "album": {
-        "name": "Mi Vicio Tu",
-        "url": "https://open.spotify.com/album/2hihmF7TZmuO791GYAaQaU"
-      },
-      "artists": [
-        {
-          "name": "Julian Solorzano",
-          "url": "https://open.spotify.com/artist/1yTLd8bWq0I5wusOb3xK0D"
-        }
-      ],
-      "duration_ms": 293637,
-      "name": "Mi Vicio Tu",
-      "url": "https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg"
-    },
-    {
-      "added_at": "2026-07-31 04:02:04",
-      "album": {
         "name": "principiante",
         "url": "https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU"
       },
@@ -747,26 +751,6 @@
       "duration_ms": 205653,
       "name": "principiante",
       "url": "https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM"
-    },
-    {
-      "added_at": "2026-07-31 04:02:04",
-      "album": {
-        "name": "HABLAR DE TI (...)",
-        "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 218190,
-      "name": "HABLAR DE TI (...)",
-      "url": "https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf"
     },
     {
       "added_at": "2026-07-31 04:02:04",
@@ -787,6 +771,22 @@
       "duration_ms": 214000,
       "name": "Bajo Cero",
       "url": "https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o"
+    },
+    {
+      "added_at": "2026-07-31 04:02:04",
+      "album": {
+        "name": "Mi Vicio Tu",
+        "url": "https://open.spotify.com/album/2hihmF7TZmuO791GYAaQaU"
+      },
+      "artists": [
+        {
+          "name": "Julian Solorzano",
+          "url": "https://open.spotify.com/artist/1yTLd8bWq0I5wusOb3xK0D"
+        }
+      ],
+      "duration_ms": 293637,
+      "name": "Mi Vicio Tu",
+      "url": "https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg"
     },
     {
       "added_at": "2026-07-31 04:02:04",
@@ -815,42 +815,18 @@
     {
       "added_at": "2026-07-31 04:02:04",
       "album": {
-        "name": "Perreando a Escondidas",
-        "url": "https://open.spotify.com/album/7uzP3S8A1wIHXT294Ki3v7"
+        "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+        "url": "https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj"
       },
       "artists": [
         {
-          "name": "Juicy BAE",
-          "url": "https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
         }
       ],
-      "duration_ms": 146676,
-      "name": "Los Monsters",
-      "url": "https://open.spotify.com/track/6CFs11pe4834Zkm9tqJGB6"
-    },
-    {
-      "added_at": "2026-07-31 04:02:04",
-      "album": {
-        "name": "LINEAS PARALELAS",
-        "url": "https://open.spotify.com/album/1kwYFhLdteuvP0Qv1gJVB7"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 182820,
-      "name": "LINEAS PARALELAS",
-      "url": "https://open.spotify.com/track/0sqCdE6AyJnSO0TZIiOgdf"
+      "duration_ms": 181493,
+      "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+      "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
     },
     {
       "added_at": "2026-07-31 04:02:04",
@@ -875,50 +851,42 @@
     {
       "added_at": "2026-07-31 04:02:04",
       "album": {
-        "name": "Encontrarme Contigo",
-        "url": "https://open.spotify.com/album/5knAELxSn0BZOb1nmVuD2U"
+        "name": "LINEAS PARALELAS",
+        "url": "https://open.spotify.com/album/1kwYFhLdteuvP0Qv1gJVB7"
       },
       "artists": [
         {
-          "name": "Esp\u00edritu System",
-          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
         }
       ],
-      "duration_ms": 140198,
-      "name": "Encontrarme Contigo",
-      "url": "https://open.spotify.com/track/5PdbXImWW5Xi9UCKUSpBeF"
+      "duration_ms": 182820,
+      "name": "LINEAS PARALELAS",
+      "url": "https://open.spotify.com/track/0sqCdE6AyJnSO0TZIiOgdf"
     },
     {
       "added_at": "2026-07-31 04:02:04",
       "album": {
-        "name": "Te Vas A Arrepentir (Don't Hurt Him)",
-        "url": "https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj"
+        "name": "Perreando a Escondidas",
+        "url": "https://open.spotify.com/album/7uzP3S8A1wIHXT294Ki3v7"
       },
       "artists": [
         {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Te Vas A Arrepentir (Don't Hurt Him)",
-      "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
-    },
-    {
-      "added_at": "2026-07-31 04:02:04",
-      "album": {
-        "name": "in this body",
-        "url": "https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW"
-      },
-      "artists": [
+          "name": "Juicy BAE",
+          "url": "https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN"
+        },
         {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
         }
       ],
-      "duration_ms": 156909,
-      "name": "penso en voce",
-      "url": "https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow"
+      "duration_ms": 146676,
+      "name": "Los Monsters",
+      "url": "https://open.spotify.com/track/6CFs11pe4834Zkm9tqJGB6"
     },
     {
       "added_at": "2026-07-31 04:02:04",
@@ -935,6 +903,38 @@
       "duration_ms": 169446,
       "name": "a girl like me",
       "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
+    },
+    {
+      "added_at": "2026-07-31 04:02:04",
+      "album": {
+        "name": "Encontrarme Contigo",
+        "url": "https://open.spotify.com/album/5knAELxSn0BZOb1nmVuD2U"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00edritu System",
+          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+        }
+      ],
+      "duration_ms": 140198,
+      "name": "Encontrarme Contigo",
+      "url": "https://open.spotify.com/track/5PdbXImWW5Xi9UCKUSpBeF"
+    },
+    {
+      "added_at": "2026-07-31 04:02:04",
+      "album": {
+        "name": "in this body",
+        "url": "https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "penso en voce",
+      "url": "https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow"
     },
     {
       "added_at": "2026-07-31 04:02:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,585 likes - 1,113 songs - 2 day 22 hr 4 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,585 likes - 1,119 songs - 2 day 22 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1121,5 +1121,11 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1111 | [Breakdown](https://open.spotify.com/track/5AAy77zRxM2JHsJKEQFsFC) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 4:28 |
 | 1112 | [Wake up and Fight](https://open.spotify.com/track/3duWpO4oBjxoKrnyrlbiAy) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Heaven](https://open.spotify.com/album/42zMCWgOZdPBSZjFIRYzEX) | 2:45 |
 | 1113 | [Blu](https://open.spotify.com/track/3a0PWRmVydOg6S6o8JhmWh) | [Valley's Rim](https://open.spotify.com/artist/0genBNJjEU2iYudBf1UWTd) | [Blu](https://open.spotify.com/album/0YMSMiqbCV4KEzx0pQLAMi) | 4:52 |
+| 1114 | [Fuck It, Let’s Go Bowling](https://open.spotify.com/track/1nVy9utuNfq77uaQTm4v5t) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Too Broke For Money](https://open.spotify.com/album/7MX4Q2DfTrscHAIl5SoUtZ) | 1:35 |
+| 1115 | [Carpe Diem](https://open.spotify.com/track/1ePuMbJvzw6sYp715igXf0) | [Damaged & Co.](https://open.spotify.com/artist/4eFPVyywxPZeake2ATbQrk) | [Life's Grand Delusion](https://open.spotify.com/album/7v31yZRkX1t0b98BMlEjbd) | 3:29 |
+| 1116 | [Shadows in the Rain](https://open.spotify.com/track/5H1h9lPxcjDFHcF0AcUlQb) | [Nights Like Thieves](https://open.spotify.com/artist/4Cko9sylBuS1mZsqiU9692) | [Shadows in the Rain](https://open.spotify.com/album/5sRVHNjuHYpe18uOAZLBtu) | 3:37 |
+| 1117 | [Not Good Looking](https://open.spotify.com/track/18nzCaK563NXqbAISp4Ugc) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Not Good Looking](https://open.spotify.com/album/4vfFHUGpEigDldRb9SuhRo) | 3:34 |
+| 1118 | [Sechzehn ∞](https://open.spotify.com/track/1LUJwLn9sqGjO7n1ddGn14) | [Salomon](https://open.spotify.com/artist/4YKj15D8O9RCkEZ1mhA9tn) | [Sechzehn ∞](https://open.spotify.com/album/4Riqr5rLUZpvzgztN2nZFt) | 3:21 |
+| 1119 | [station to station](https://open.spotify.com/track/5IkE5yTdvCp8uQEG1cfKJr) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [station to station](https://open.spotify.com/album/3wKFIqTF9YtkNhoQ8LvamN) | 5:12 |
 
-Snapshot ID: `AAAEgpNo4qfixuAP63EE+xCj2OKW3WNv`
+Snapshot ID: `AAAEiW5rBcgvjfcSjyI0lsY+Dgq6IkHk`

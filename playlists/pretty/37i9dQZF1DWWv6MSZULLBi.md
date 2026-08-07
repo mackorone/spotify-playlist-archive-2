@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Kaia Kater
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,366 likes - 172 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,359 likes - 172 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 171 | [Pink Living Room](https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Pink Living Room](https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs) | 3:56 |
 | 172 | [Porch Light](https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Porch Light](https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q) | 4:22 |
 
-Snapshot ID: `AAAAAJHzOBsaL5euuVfk1mG6qrFOAkYV`
+Snapshot ID: `AAAAAJsj3JaEOHTIpxiTWCv+H3ZUF3hM`

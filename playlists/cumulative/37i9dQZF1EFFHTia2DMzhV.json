@@ -32,6 +32,28 @@
       },
       "artists": [
         {
+          "name": "Victoria Clark",
+          "url": "https://open.spotify.com/artist/2KSCnFEc7wBSpCZJsmZvhV"
+        },
+        {
+          "name": "Laura Osnes",
+          "url": "https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141533,
+      "name": "\"Impossible\"",
+      "url": "https://open.spotify.com/track/1S6e1Mkcx0KkCmXmxdDG1J"
+    },
+    {
+      "album": {
+        "name": "Rodgers + Hammerstein's Cinderella (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5"
+      },
+      "artists": [
+        {
           "name": "Laura Osnes",
           "url": "https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF"
         }
@@ -143,6 +165,24 @@
     },
     {
       "album": {
+        "name": "The King And I",
+        "url": "https://open.spotify.com/album/0tlzLJMJqzoYoc8Kb8UxRE"
+      },
+      "artists": [
+        {
+          "name": "Gertrude Lawrence",
+          "url": "https://open.spotify.com/artist/03MvlpAB5fFwixjw1AQQsP"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215120,
+      "name": "A Puzzlement",
+      "url": "https://open.spotify.com/track/5OvUiUMdZXjp0Lo88BIR4X"
+    },
+    {
+      "album": {
         "name": "The King And I: Music From The Motion Picture (Remastered 2001)",
         "url": "https://open.spotify.com/album/5EFwxguMRkFvuy1PJbZN9b"
       },
@@ -162,7 +202,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 207800,
       "name": "A Puzzlement - Remastered 2001",
       "url": "https://open.spotify.com/track/7Jiybd4axJSbH6J1c26ESv"
@@ -1165,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Beyond The Sea O.S.T.",
+        "url": "https://open.spotify.com/album/5ZfPr3L1QlCS4DAEhbMu67"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Sea - Kevin Spacey",
+          "url": "https://open.spotify.com/artist/5fb7kYoVnOzPNjZEzOvLmO"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111786,
+      "name": "Hello Young Lovers",
+      "url": "https://open.spotify.com/track/1PtxH2pq6ANzBa6vPQusxk"
+    },
+    {
+      "album": {
         "name": "My Cherie Amour",
         "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
       },
@@ -1176,7 +1234,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 194386,
       "name": "Hello Young Lovers",
       "url": "https://open.spotify.com/track/3MBtLt6wkxFt5PZNfrmzxW"
@@ -1194,10 +1252,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 105800,
       "name": "Honey Bun",
       "url": "https://open.spotify.com/track/3XYEV3l6Dfm0skHyzknAGn"
+    },
+    {
+      "album": {
+        "name": "Mitzi and Morris At the Movies",
+        "url": "https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4"
+      },
+      "artists": [
+        {
+          "name": "Mitzi Gaynor",
+          "url": "https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6"
+        },
+        {
+          "name": "Ray Walston",
+          "url": "https://open.spotify.com/artist/4s45u1B14sGpHW3tdumVgV"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108360,
+      "name": "Honey Bun (From \"South Pacific\")",
+      "url": "https://open.spotify.com/track/5GzKP0NRBRJIlv0Jg6UU6y"
     },
     {
       "album": {
@@ -1212,7 +1292,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 212124,
       "name": "I Bring a Love Song",
       "url": "https://open.spotify.com/track/0q8RmLBFnoIRD3uSddxdCF"
@@ -1248,7 +1328,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 238440,
       "name": "I Cain\u2019t Say No",
       "url": "https://open.spotify.com/track/3TKMuxhbBvGBeO8wyKAPzs"
@@ -1369,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Cascading Strings - 99 Original Recordings 1951 -1954",
+        "url": "https://open.spotify.com/album/4Lmzlh1v13RP81I3ZJ1Ogm"
+      },
+      "artists": [
+        {
+          "name": "Mantovani",
+          "url": "https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175946,
+      "name": "I Will Bring A Love Song",
+      "url": "https://open.spotify.com/track/4CVVspXJG94NNkH8UZ18tG"
+    },
+    {
+      "album": {
         "name": "I\u2019ll Take Romance",
         "url": "https://open.spotify.com/album/3uGAHnXuWQcBMBJ6IVej4d"
       },
@@ -1391,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Mitzi Gaynor Sings",
+        "url": "https://open.spotify.com/album/72BW0Dfh1Ms4CNwVD7KUGo"
+      },
+      "artists": [
+        {
+          "name": "Mitzi Gaynor",
+          "url": "https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "I'm Gonna Wash That Man Right Outta My Hair",
+      "url": "https://open.spotify.com/track/7j42cXsxhgClrigvlsBdej"
+    },
+    {
+      "album": {
         "name": "Mitzi and Morris At the Movies",
         "url": "https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4"
       },
@@ -1402,7 +1518,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 176533,
       "name": "I'm Gonna Wash That Man Right Outta My Hair (From \"South Pacific\")",
       "url": "https://open.spotify.com/track/3nMCmZay3np5RmUyYU8Hpb"
@@ -1540,7 +1656,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 167627,
       "name": "It - Remastered 2026",
       "url": "https://open.spotify.com/track/0m2kExLkgnlO2MLuctGn7p"
@@ -1682,7 +1798,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 150893,
       "name": "Kansas City",
       "url": "https://open.spotify.com/track/6gnfJ5EetG7MtU7Ra4Q9aM"
@@ -1743,6 +1859,54 @@
     },
     {
       "album": {
+        "name": "Passage of Time",
+        "url": "https://open.spotify.com/album/4Jm3FfpxzjVYXVqJMCxPOs"
+      },
+      "artists": [
+        {
+          "name": "Liz Callaway",
+          "url": "https://open.spotify.com/artist/4hcWMDrWJYyU66HA583nCb"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266320,
+      "name": "Make Someone Happy/Something Wonderful",
+      "url": "https://open.spotify.com/track/5cdXbtQ6i6OmALSrO01fBq"
+    },
+    {
+      "album": {
+        "name": "Oklahoma! (Original Broadway Cast 1943)",
+        "url": "https://open.spotify.com/album/1EqFgtBnrEQ3Uyp33jetaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Schwartzdorf",
+          "url": "https://open.spotify.com/artist/679Pb7DIAI00NbwbTlZKVA"
+        },
+        {
+          "name": "St. James Theatre Orchestra",
+          "url": "https://open.spotify.com/artist/29Wob3qbTCy4PYaOlsENO7"
+        },
+        {
+          "name": "St. James Theatre Chorus",
+          "url": "https://open.spotify.com/artist/6QQIOVSyQXu1MWzcDYOKNJ"
+        },
+        {
+          "name": "Joan Roberts",
+          "url": "https://open.spotify.com/artist/5sJ9YrCxG1476KaBL6RFxb"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178072,
+      "name": "Many a New Day",
+      "url": "https://open.spotify.com/track/48BRpMpXaopFrbkMvuqzrD"
+    },
+    {
+      "album": {
         "name": "Oklahoma! (Expanded Edition/Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8"
       },
@@ -1758,7 +1922,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 186426,
       "name": "Many A New Day - From \"Oklahoma!\" Soundtrack",
       "url": "https://open.spotify.com/track/37vZmkPWMYUnsFgykCqZsA"
@@ -1913,6 +2077,28 @@
     },
     {
       "album": {
+        "name": "South Pacific (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/4tNqn0l06EKcfVHZD0OQxg"
+      },
+      "artists": [
+        {
+          "name": "Bill Lee",
+          "url": "https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ"
+        },
+        {
+          "name": "Mitzi Gaynor",
+          "url": "https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99586,
+      "name": "My Girl Back Home",
+      "url": "https://open.spotify.com/track/33XFHLAzZj6sQt4qsKT0mm"
+    },
+    {
+      "album": {
         "name": "South Pacific (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN"
       },
@@ -1928,7 +2114,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 100226,
       "name": "My Girl Back Home",
       "url": "https://open.spotify.com/track/51olew3lXYIWqsNxeYUizR"
@@ -2068,10 +2254,36 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 198825,
       "name": "Oklahoma",
       "url": "https://open.spotify.com/track/4jY8gtspcMz2NYeuE6E3xy"
+    },
+    {
+      "album": {
+        "name": "Gordon MacRae - Greatest Hits",
+        "url": "https://open.spotify.com/album/7CanZpnDy3yEsP5DN7Az6x"
+      },
+      "artists": [
+        {
+          "name": "Gordon MacRae",
+          "url": "https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof"
+        },
+        {
+          "name": "Shirley Jones",
+          "url": "https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok"
+        },
+        {
+          "name": "Charlotte Greenwood",
+          "url": "https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "Oklahoma (From Oklahoma)",
+      "url": "https://open.spotify.com/track/6zKx9rkqsnFDIvIe8V41KH"
     },
     {
       "album": {
@@ -2132,7 +2344,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 67653,
       "name": "Oklahoma!, Act 2: No. 28, Oklahoma (Encore)",
       "url": "https://open.spotify.com/track/0DmlnqIVssAuN73KG5kvpf"
@@ -2377,6 +2589,28 @@
     },
     {
       "album": {
+        "name": "Essential Classics, Vol. 402: Shirley Jones",
+        "url": "https://open.spotify.com/album/0xvV06Wge36ieBJ2ltIAup"
+      },
+      "artists": [
+        {
+          "name": "Shirley Jones",
+          "url": "https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok"
+        },
+        {
+          "name": "Gordon MacRae",
+          "url": "https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256600,
+      "name": "Poor Jud is Dead",
+      "url": "https://open.spotify.com/track/1zTuSkHG9DmQq9JvYLYDSr"
+    },
+    {
+      "album": {
         "name": "Oklahoma! (2019 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP"
       },
@@ -2392,7 +2626,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 268506,
       "name": "Pore Jud Is Daid",
       "url": "https://open.spotify.com/track/4dbYEYqNVV1LIzdjqdhFqj"
@@ -2429,6 +2663,28 @@
     },
     {
       "album": {
+        "name": "Desert Song Soundtrack",
+        "url": "https://open.spotify.com/album/6vOEvhL5X9KveuSQEFKuFf"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Tozzi",
+          "url": "https://open.spotify.com/artist/4OEwK9zvDEcRKWnW4dYjv0"
+        },
+        {
+          "name": "Kathy Barr",
+          "url": "https://open.spotify.com/artist/4X5vWKhPyBHiJh3oR0sgHw"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229180,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/1kuZpqyUsagzWwYiZr6WM8"
+    },
+    {
+      "album": {
         "name": "The Desert Song",
         "url": "https://open.spotify.com/album/5S9xiZNFTodeT7SxIMshox"
       },
@@ -2444,7 +2700,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 223120,
       "name": "Romance",
       "url": "https://open.spotify.com/track/6qbBTFXjDXr6JV7c76wx3c"
@@ -2754,10 +3010,28 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 187061,
       "name": "Something New Is in My Heart",
       "url": "https://open.spotify.com/track/0jwV2S79JBskDy2oyX5FQB"
+    },
+    {
+      "album": {
+        "name": "Sigmund Romberg",
+        "url": "https://open.spotify.com/album/5UQlTOzFZPRoeYxFQ1rSVI"
+      },
+      "artists": [
+        {
+          "name": "Paul Weston And His Orchestra",
+          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185823,
+      "name": "Something New Is In My Heart",
+      "url": "https://open.spotify.com/track/7paZD2GsTE1lW1Rd60Il4T"
     },
     {
       "album": {
@@ -2798,7 +3072,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 171400,
       "name": "Something Wonderful",
       "url": "https://open.spotify.com/track/2F9Fa6OjqlWr41VgkulONg"
@@ -2816,7 +3090,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "South Pacific Overture",
       "url": "https://open.spotify.com/track/1qjQkToZIwvNjve8EG8u48"
@@ -2834,7 +3108,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 182760,
       "name": "South Pacific Overture (The Orchestra) - 2020 Digitally Remastered",
       "url": "https://open.spotify.com/track/6CQZ5ihFemOW20hlzUxUoj"
@@ -2928,10 +3202,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 157106,
       "name": "Tennessee Fish Fry",
       "url": "https://open.spotify.com/track/2yWWWB9UcebFOq5tc0aDrT"
+    },
+    {
+      "album": {
+        "name": "Mildred Bailey, The Queen of Jazz Vol 1",
+        "url": "https://open.spotify.com/album/3AkFiQxSGOKTKrYWcYzsBn"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163104,
+      "name": "Tennessee fish fry",
+      "url": "https://open.spotify.com/track/16eUKN8MrdsCgsk2e2b72A"
     },
     {
       "album": {
@@ -2964,10 +3256,36 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 200040,
       "name": "The Desert Song",
       "url": "https://open.spotify.com/track/2LoxwD3OEs3EIyMbdzh2A6"
+    },
+    {
+      "album": {
+        "name": "Mario Lanza Sings Songs From The Student Prince and The Desert Song",
+        "url": "https://open.spotify.com/album/2vkzY6KUTr9im79XOPdycM"
+      },
+      "artists": [
+        {
+          "name": "Sigmund Romberg",
+          "url": "https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr"
+        },
+        {
+          "name": "Mario Lanza",
+          "url": "https://open.spotify.com/artist/6yMT0qrnRJGfGMhaTvqEs0"
+        },
+        {
+          "name": "Constantine Callinicos",
+          "url": "https://open.spotify.com/artist/5q4QWdLMfB8Rxb3UwW8Pd2"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364773,
+      "name": "The Desert Song (From \"The Desert Song\") - 1989 Remastered",
+      "url": "https://open.spotify.com/track/36xyXcYB0jUrEYHekW2cbw"
     },
     {
       "album": {

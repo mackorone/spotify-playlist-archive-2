@@ -766,10 +766,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 246222,
       "name": "Con Tal de Que No Te Vays - En Vivo",
       "url": "https://open.spotify.com/track/2jXmAvQ6AEXS0EDMaTkCgK"
+    },
+    {
+      "album": {
+        "name": "Abreme la Puerta (New Edition)",
+        "url": "https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA"
+      },
+      "artists": [
+        {
+          "name": "Erika Ender",
+          "url": "https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253374,
+      "name": "Con Tal Que No Te Vayas",
+      "url": "https://open.spotify.com/track/6Q2i6mZbuZtmyfzU45Y6zE"
     },
     {
       "album": {
@@ -1109,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Cueste Lo Que Cueste",
+        "url": "https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd"
+      },
+      "artists": [
+        {
+          "name": "Erika Ender",
+          "url": "https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207538,
+      "name": "Desde Siempre",
+      "url": "https://open.spotify.com/track/5MYcupvftFz3c9ZCETH65A"
+    },
+    {
+      "album": {
         "name": "En Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx"
       },
@@ -1120,7 +1156,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 214550,
       "name": "Desde Siempre - En Vivo",
       "url": "https://open.spotify.com/track/4W9TrGS7HAFkYTTLN6XNDv"
@@ -1911,6 +1947,24 @@
     },
     {
       "album": {
+        "name": "Cueste Lo Que Cueste",
+        "url": "https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd"
+      },
+      "artists": [
+        {
+          "name": "Erika Ender",
+          "url": "https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238142,
+      "name": "Masoquista",
+      "url": "https://open.spotify.com/track/25l6LDYlbcIbcaN9Orsly6"
+    },
+    {
+      "album": {
         "name": "En Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx"
       },
@@ -1922,7 +1976,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 241625,
       "name": "Masoquista - En Vivo",
       "url": "https://open.spotify.com/track/7FPk7aYGKSTY3J1peYHvQm"

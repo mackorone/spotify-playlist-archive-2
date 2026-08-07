@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,051 likes - 131 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,258 likes - 131 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 36 | [Autumn](https://open.spotify.com/track/1xe1wWVugI7TiMcWJ9UZGX) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Autumn](https://open.spotify.com/album/6uRpVcUuIyLvp4ajEkrySG) | 2:26 |
 | 37 | [Back Together](https://open.spotify.com/track/6t4dYNa9xTzWYHpFZmfC7U) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Back Together](https://open.spotify.com/album/7aHIJMNdGIzqyNVowCJH52) | 2:48 |
 | 38 | [Planity](https://open.spotify.com/track/0fWHmVCprYHID87ETym6Kk) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Planity](https://open.spotify.com/album/5Jdh57PPMUQkm5TTUGpSuN) | 2:34 |
-| 39 | [My Oddysey](https://open.spotify.com/track/1eodu9waOyCx6RTwLpJI8v) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [My Odyssey](https://open.spotify.com/album/6g3Bmw75zzdlmm8GO34zum) | 2:16 |
+| 39 | [My Odyssey](https://open.spotify.com/track/1eodu9waOyCx6RTwLpJI8v) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [My Odyssey](https://open.spotify.com/album/6g3Bmw75zzdlmm8GO34zum) | 2:16 |
 | 40 | [valse de la fille](https://open.spotify.com/track/7fxJDIIC14LZjmbtRr4lsM) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [valse de la fille](https://open.spotify.com/album/7joqEdM1MFBHHja8R2sV6Q) | 2:34 |
 | 41 | [Seville](https://open.spotify.com/track/5PG8FLh4LZbWTtWX4F1wCw) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Seville](https://open.spotify.com/album/7b0pD04k9cAOX2li8p0wpl) | 2:17 |
 | 42 | [Silent Garden](https://open.spotify.com/track/189qwuSxX6gpsZVkIDfxUV) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Silent Garden](https://open.spotify.com/album/50SOQ3qzKnbgbDDjwOGNz4) | 2:51 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 130 | [Slow Morning](https://open.spotify.com/track/56sl3qMDGAqd8ktMI57h7S) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Slow Morning](https://open.spotify.com/album/72tckPxhIpV8L7KwBgSSiu) | 2:10 |
 | 131 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 |
 
-Snapshot ID: `AAAAABxh2HAIoVX2bVZq829TIUq2dJUo`
+Snapshot ID: `AAAAAKVtQ+lcNdCf8mBWcNJsN1nxJTm8`

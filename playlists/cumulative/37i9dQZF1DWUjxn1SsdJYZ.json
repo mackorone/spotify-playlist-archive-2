@@ -3651,6 +3651,28 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3hUrvTpfo0EuaMW2XWtUAM"
+      },
+      "artists": [
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        },
+        {
+          "name": "CAM3OOG",
+          "url": "https://open.spotify.com/artist/02sdxpzTCT9cD6tRfbjzBX"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144911,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0NowSHIyFaQLeFWhE2Aiij"
+    },
+    {
+      "album": {
         "name": "BLUETOOTH",
         "url": "https://open.spotify.com/album/1IhbJaEMHW7tmWLkCX9MnH"
       },
@@ -5978,7 +6000,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 216010,
       "name": "COP CAR",
       "url": "https://open.spotify.com/track/1UR9ItBdaMz6JqVS7Hxu91"
@@ -13825,6 +13847,24 @@
     },
     {
       "album": {
+        "name": "IDFK",
+        "url": "https://open.spotify.com/album/3PIqa7VvJcXMRG1HBBfveF"
+      },
+      "artists": [
+        {
+          "name": "takytheartist",
+          "url": "https://open.spotify.com/artist/43Wy4rxJRXDA9ybTkBz2Lf"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "IDFK",
+      "url": "https://open.spotify.com/track/0YQE5ifusjCPWgwYXc45St"
+    },
+    {
+      "album": {
         "name": "IDK",
         "url": "https://open.spotify.com/album/2Y0DM8tj6FtYo0jzkcQlPh"
       },
@@ -16982,7 +17022,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 239928,
       "name": "Lust & Luxury",
       "url": "https://open.spotify.com/track/0sVQ0pawcPeCE6LxVDpsL4"
@@ -20678,7 +20718,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 208466,
       "name": "ON THE DASH",
       "url": "https://open.spotify.com/track/2wWA2gT210rUjnC7xrGeJI"
@@ -27766,6 +27806,24 @@
       "duration_ms": 133543,
       "name": "TANGA",
       "url": "https://open.spotify.com/track/4nRtVXgY76Ge63RcRFGSwB"
+    },
+    {
+      "album": {
+        "name": "Taniwha",
+        "url": "https://open.spotify.com/album/5kMetK3yoM2cLkZqWmo1fR"
+      },
+      "artists": [
+        {
+          "name": "MOHI",
+          "url": "https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178860,
+      "name": "Taniwha",
+      "url": "https://open.spotify.com/track/6zIYJWxYRa70RP7946233h"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new dance tracks from independent artists & labels\. Featuring MAXARKA\. Curated with love by human Spotify editors.
 
-3,620 songs - 9 day 17 hr 41 min
+3,622 songs - 9 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2342,6 +2342,7 @@
 | [On Your Face](https://open.spotify.com/track/0QiOlPQbIBoGHO4mCp2cBC) | [Noise Cans](https://open.spotify.com/artist/1ECKbPx4YhCU4SgKq8pfAc) | [On Your Face](https://open.spotify.com/album/0rtSDOapzjp7Cp8HLfBVWd) | 2:22 | 2024-07-26 | 2024-09-21 |
 | [On Your Mind](https://open.spotify.com/track/5lipO9xkC68LREHy8kBPJH) | [RDGO](https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c) | [On Your Mind](https://open.spotify.com/album/14tIN4y03x4Zjv4XmY5teq) | 3:03 | 2023-09-27 | 2023-11-30 |
 | [ONANON \- DJ Carpenter Remix](https://open.spotify.com/track/2ajvSqhx9EcE8OH41WOkHv) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi) | [ONANON \(REMIXES\)](https://open.spotify.com/album/2o71AmAuALpi07SfBnmy0D) | 3:25 | 2025-02-19 | 2025-03-15 |
+| [Onda 7](https://open.spotify.com/track/3yvInCfyjakgmH50cXrE70) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko) | [ID](https://open.spotify.com/album/4HArTcixlcIpIla56geDfK) | 3:03 | 2026-08-06 |  |
 | [One](https://open.spotify.com/track/1069Ebu1HdfSVgbOB8O3zk) | [Berzingue](https://open.spotify.com/artist/1fxHgs4EJ0MS52b2u8bjKa) | [One](https://open.spotify.com/album/6J9JduAffjemdIszo50U47) | 4:35 | 2023-02-02 | 2023-03-02 |
 | [One \- Edit](https://open.spotify.com/track/6EW5n7EQKoBd306OB8penN) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [One \(Edit\)](https://open.spotify.com/album/3tixmIEv4JBngTWmWZFvor) | 4:00 | 2024-04-26 | 2025-01-16 |
 | [One By One \- Radio Edit](https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r) | [One By One](https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5) | 2:18 | 2022-01-26 | 2022-06-09 |
@@ -2471,6 +2472,7 @@
 | [Planet Rhythm](https://open.spotify.com/track/6UMGnCj33kIz4YBTOx87LY) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Planet Rhythm](https://open.spotify.com/album/2OclESonPCIqMWnnbJCvg8) | 2:49 | 2022-03-23 | 2022-04-28 |
 | [Plantera](https://open.spotify.com/track/0DnYIsHM37GSfLD0Z9WbPm) | [The Holy](https://open.spotify.com/artist/1TbvivzNnNhTp6UlWh1xqz) | [Plantera](https://open.spotify.com/album/1BhyIi6RluYOVqEuswY6Cm) | 4:46 | 2022-08-10 | 2022-10-27 |
 | [Play](https://open.spotify.com/track/2yscq5BPVUjmQgIXr7fqZx) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Play](https://open.spotify.com/album/5YEMhgJxSgvHmP7vaE9t1o) | 5:08 | 2022-07-06 | 2022-07-28 |
+| [Play it Loud \(Keep it Going\)](https://open.spotify.com/track/0sKBrx6EyavERCR0jx0iBJ) | [DJ Dings](https://open.spotify.com/artist/6pGgOtYuQJG4lVsswYpUTE), [Tim Rausch](https://open.spotify.com/artist/6fU3MewDiqM18TonERkX6K) | [Play it Loud \(Keep it Going\)](https://open.spotify.com/album/70x9g70S9QnwXbRHOgHiPz) | 4:03 | 2026-08-06 |  |
 | [Play My Heart](https://open.spotify.com/track/1j5FYHpCX7btJB3bNUIaRa) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Play My Heart](https://open.spotify.com/album/2i4DLnJcntISBRrlFnOB0Z) | 3:45 | 2023-05-17 | 2024-01-11 |
 | [Play With Fire](https://open.spotify.com/track/0Mft6nUX3bh3ZcgVJv1iwB) | [Normal Pleasure](https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI) | [MELBOURNE'S DEAD!!](https://open.spotify.com/album/1q465dLj8WqBV3hCPvzwgy) | 5:14 | 2025-01-15 | 2025-03-08 |
 | [Player](https://open.spotify.com/track/0OBS5q06C6kyUn4FrlhtbG) | [Toola](https://open.spotify.com/artist/0eEmBSFK88NKhgsRTtD19k) | [Player](https://open.spotify.com/album/7yjdADEVUYAm02AJrfnS3u) | 4:09 | 2026-02-06 | 2026-03-26 |

@@ -788,7 +788,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 221865,
       "name": "Dif\u00edcil Acreditar - Vers\u00e3o Ac\u00fastica",
       "url": "https://open.spotify.com/track/6dYVqy6IXckjRpYA5V1zxq"
@@ -2658,6 +2658,24 @@
       "duration_ms": 161255,
       "name": "V\u00ea Se N\u00e3o Me Esquece Mais",
       "url": "https://open.spotify.com/track/6Cm9ESWYCTs5eCqLzsRFgW"
+    },
+    {
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5W4dS7EDdMOT9i1rnIoOS9"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156176,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/5SsVGUftRUdEuiTfSFFYXq"
     },
     {
       "album": {

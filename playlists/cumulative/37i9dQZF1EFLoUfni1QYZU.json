@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Top Song's Karaoke -Vol 3",
+        "url": "https://open.spotify.com/album/1c7kIevmDnQPdvmeERdQj4"
+      },
+      "artists": [
+        {
+          "name": "Back Track Karaoke",
+          "url": "https://open.spotify.com/artist/0CG46RticezLidYhQ66gUW"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201544,
+      "name": "Dark Side (Instrumental Version) [Originally performed by Kelly Clarkson]",
+      "url": "https://open.spotify.com/track/0UIz6OBemLHhD8XW8t2acZ"
+    },
+    {
+      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/6VU1gU8DiUTwtBOglFMYGO"
       },

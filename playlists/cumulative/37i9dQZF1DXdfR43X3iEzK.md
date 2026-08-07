@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything ⚔️ cover: Charli xcx
 
-720 songs - 1 day 14 hr 47 min
+722 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [3x](https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:40 | 2025-07-24 | 2025-09-20 |
 | [4eva](https://open.spotify.com/track/6c0Vmwoz6Dgn0sZP3ZMO07) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 2:20 | 2024-06-07 | 2025-03-14 |
 | [69](https://open.spotify.com/track/7HThqZsl1l1YshgeZaoBRD) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [69](https://open.spotify.com/album/65AGTpy6jBYVi8KH4oVugq) | 3:29 | 2025-02-14 | 2025-04-04 |
-| [7th Floor](https://open.spotify.com/track/09zVY3bc1dyrNSQrZcJ9UB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Happiness Is Going To Get You](https://open.spotify.com/album/2MhRCfdhN8os29CovIIsqV) | 2:39 | 2025-11-07 |  |
+| [7th Floor](https://open.spotify.com/track/09zVY3bc1dyrNSQrZcJ9UB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Happiness Is Going To Get You](https://open.spotify.com/album/2MhRCfdhN8os29CovIIsqV) | 2:39 | 2025-11-07 | 2026-08-07 |
 | [9 2 5](https://open.spotify.com/track/4zz49nB3rFzVPrEQmwuSrU) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [9 2 5](https://open.spotify.com/album/1rLn3XFLdBGMkYThRRGtdF) | 4:29 | 2025-06-19 | 2025-07-18 |
 | [9\-5](https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [11:11](https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ) | 2:35 | 2025-02-14 | 2025-03-28 |
 | [\_\_\_\_, close to you.](https://open.spotify.com/track/2Z4VqvPcyjpNpWUCZ75ddH) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7), [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [\_\_\_\_, close to you.](https://open.spotify.com/album/2fo5NIYUfdWFSNLbC6bJuA) | 2:43 | 2025-07-17 | 2025-10-24 |
@@ -207,6 +207,7 @@
 | [eighteen](https://open.spotify.com/track/4Nbl1AJEFlECs2PhpxU7o9) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [eighteen](https://open.spotify.com/album/5YRU0weFWelGixTTLqqdoR) | 3:34 | 2025-04-03 | 2025-05-16 |
 | [Eleanor Close](https://open.spotify.com/track/0TSezrWHvsZtBg1OqbkXDt) | [Ava Joe](https://open.spotify.com/artist/1kExWfjjFzo8vNlmtBjCdj) | [Eleanor Close](https://open.spotify.com/album/3uBwyz9cflFhhsFABvuiNI) | 3:23 | 2025-04-17 | 2025-06-27 |
 | [ENAMORED](https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [ENAMORED](https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW) | 2:48 | 2026-06-11 | 2026-07-25 |
+| [End of the World](https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [End of the World](https://open.spotify.com/album/5omifXCLUvR9btSGKw90En) | 2:36 | 2026-08-06 |  |
 | [Enough](https://open.spotify.com/track/2ML4VS9oSGFAraTJdSuSmq) | [That Woman](https://open.spotify.com/artist/1Rcmz0mDudMNtuJoTjmAEG) | [Find Joy](https://open.spotify.com/album/4bh8Z4wmTQpemEYFaXpTmW) | 3:23 | 2024-08-08 | 2024-09-03 |
 | [Entertainer](https://open.spotify.com/track/2MTGcrlm3vnMdzlgS2eKe8) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Safe](https://open.spotify.com/album/3642b765vQWRQXzDyoPItp) | 3:23 | 2025-05-02 | 2025-06-27 |
 | [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 | 2025-07-24 | 2025-09-12 |
@@ -387,6 +388,7 @@
 | [L 4 U](https://open.spotify.com/track/6B7Wtk23dzqMMs74WPQPoj) | [ONUR](https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35) | [L 4 U](https://open.spotify.com/album/5nye3GvEkleWWUSjeUwxCl) | 1:54 | 2025-09-19 | 2025-12-12 |
 | [L.O.V.E.](https://open.spotify.com/track/5qwr6y7se6RKHijm7FXnUe) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [L.O.V.E.](https://open.spotify.com/album/2XGWlzeYSdqAyyq2dJqZ8L) | 3:56 | 2025-02-14 | 2025-04-18 |
 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2025-11-07 | 2026-01-16 |
+| [lao wai](https://open.spotify.com/track/1Kz4kdsoG9XqZReNL3RWZ4) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h), [Shushu](https://open.spotify.com/artist/1UNqLt4phNW6lI5mPSL52P) | [lao wai](https://open.spotify.com/album/4gaBhPu0VextnFP4Y86xsC) | 2:31 | 2026-08-06 |  |
 | [Lapinou](https://open.spotify.com/track/2GSTQtsqF1ISi2FWzTSPqY) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Detrimentors](https://open.spotify.com/album/2oNmy4VbIkoOU30KhgLrVN) | 3:31 | 2025-05-01 | 2025-06-27 |
 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 | 2025-04-03 | 2025-05-23 |
 | [Late to the Party](https://open.spotify.com/track/2Ks2VjMJthZ5sW7K7LljKS) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Late to the Party](https://open.spotify.com/album/0J7ZYI4k5S2uw7MW1BEtXN) | 3:12 | 2025-03-07 | 2025-07-18 |
@@ -421,7 +423,7 @@
 | [Made 2 Luv](https://open.spotify.com/track/7en5t6rDhWd40NcifSsZDK) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Made 2 Luv](https://open.spotify.com/album/61FAqGBl3ivf5hqjUSpXxi) | 2:26 | 2025-04-10 | 2025-06-07 |
 | [madly](https://open.spotify.com/track/7fmt9chGer2jvnUhysySW1) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [madly](https://open.spotify.com/album/1A04yD0uVhmPJgpRyia9Lc) | 2:42 | 2025-03-07 | 2025-04-04 |
 | [madonna](https://open.spotify.com/track/3jquMCbEytZmfXJpOU9pzx) | [ugly ozo](https://open.spotify.com/artist/1AUCiV4sfdNn5Ch5sTe4UI) | [madonna](https://open.spotify.com/album/0xD50sOwEbUZQuIur3c3Pe) | 3:15 | 2025-07-24 | 2025-08-29 |
-| [magic](https://open.spotify.com/track/3AvL90uEQrYKH5WbuPyKGY) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [magic](https://open.spotify.com/album/7Hhd8WM9WqX0kxXMFqvZpS) | 2:46 | 2026-03-27 |  |
+| [magic](https://open.spotify.com/track/3AvL90uEQrYKH5WbuPyKGY) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [magic](https://open.spotify.com/album/7Hhd8WM9WqX0kxXMFqvZpS) | 2:46 | 2026-03-27 | 2026-08-07 |
 | [Makeover](https://open.spotify.com/track/5jnYMwh1KAQrCyc6woj861) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Hold Onto Me Infinity](https://open.spotify.com/album/0rqMll4qDYKLlnYvqLPi4e) | 4:24 | 2026-05-21 |  |
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-07-10 | 2025-10-24 |
 | [mangetout \- The Dare remix](https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [mangetout \(The Dare remix\)](https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls) | 3:20 | 2026-02-13 | 2026-04-03 |

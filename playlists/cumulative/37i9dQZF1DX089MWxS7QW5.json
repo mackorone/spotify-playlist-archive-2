@@ -8603,6 +8603,28 @@
     },
     {
       "album": {
+        "name": "palm tree / a major",
+        "url": "https://open.spotify.com/album/09VyuUEzQDbhe91x2r0Vl2"
+      },
+      "artists": [
+        {
+          "name": "untell",
+          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
+        },
+        {
+          "name": "Summer Soul",
+          "url": "https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "palm tree (feat. Summer Soul)",
+      "url": "https://open.spotify.com/track/2qZ4n0v5FFUzYQ5lgT2EKm"
+    },
+    {
+      "album": {
         "name": "Too Passionate",
         "url": "https://open.spotify.com/album/6Oa5bo4s3FhAlfssUI0JTU"
       },
@@ -12894,7 +12916,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 253647,
       "name": "\uae30\ubd84\uc774 \uc544\uc8fc \uaf43\uac19\ub124 (What the Flower)",
       "url": "https://open.spotify.com/track/6kkU41vVNer11q6EaDFN9p"

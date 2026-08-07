@@ -40786,7 +40786,7 @@
       },
       "artists": [
         {
-          "name": "daisy",
+          "name": "daisy*",
           "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
         }
       ],
@@ -54582,6 +54582,24 @@
       "duration_ms": 300310,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/6SFFmZFiDoTjQG3kdECxZa"
+    },
+    {
+      "album": {
+        "name": "Swans Today",
+        "url": "https://open.spotify.com/album/0E3RzONlpsXq6Qn9GxoSma"
+      },
+      "artists": [
+        {
+          "name": "Paulie Swan",
+          "url": "https://open.spotify.com/artist/3gg7C3cr0fDp7MqpdZB9iQ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209750,
+      "name": "Shiner (The Cape)",
+      "url": "https://open.spotify.com/track/1gG709sk7yKhaoAK8fd9qd"
     },
     {
       "album": {

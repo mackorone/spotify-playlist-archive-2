@@ -8035,6 +8035,32 @@
     },
     {
       "album": {
+        "name": "She Got It Wrong",
+        "url": "https://open.spotify.com/album/0vk14QIJCJ6DSGU8hZYQXR"
+      },
+      "artists": [
+        {
+          "name": "Redrago",
+          "url": "https://open.spotify.com/artist/1xK643wA7N0ym7AhaEY2iB"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "Free The Drums",
+      "url": "https://open.spotify.com/track/1csNIbXIhGt3tdFyesyNtq"
+    },
+    {
+      "album": {
         "name": "Freedom 2",
         "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
       },
@@ -9088,7 +9114,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 286285,
       "name": "HARDSTYLE 2",
       "url": "https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r"

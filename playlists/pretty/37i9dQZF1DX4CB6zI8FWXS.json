@@ -1,12 +1,12 @@
 {
   "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Odeal",
-  "num_followers": 89361,
+  "num_followers": 89353,
   "original_name": "Groovin' R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH7GZ7nMeISJePfEVUT+lS9/kJhE",
+  "snapshot_id": "AAAAAKVaVEn2Pia8Y1+7ro9YCJZD7SSm",
   "tracks": [
     {
       "added_at": "2026-07-30 15:00:42",
@@ -759,6 +759,26 @@
       "duration_ms": 178150,
       "name": "HANABI",
       "url": "https://open.spotify.com/track/5kesvN1osXJYJJJ4RUkTim"
+    },
+    {
+      "added_at": "2026-07-30 15:00:42",
+      "album": {
+        "name": "Don't You Want Me",
+        "url": "https://open.spotify.com/album/4yMS0dBNInnEnN9R3KqPQj"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 286306,
+      "name": "I Knew You Were Waiting (For Me) (with Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/06cz05YQ32UqnLjxYGrOvj"
     },
     {
       "added_at": "2026-07-30 15:00:42",

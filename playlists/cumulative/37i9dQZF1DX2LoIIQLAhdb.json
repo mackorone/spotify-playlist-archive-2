@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Aya Nakamura",
   "name": "R&Bae",
   "tracks": [
     {
@@ -3728,6 +3728,24 @@
       "duration_ms": 193720,
       "name": "DONNE-MOI TOUT",
       "url": "https://open.spotify.com/track/79cegZJZ5KhXeDMlhnvLoM"
+    },
+    {
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/1TihwEVRCTG3DusEz0Rlr4"
+      },
+      "artists": [
+        {
+          "name": "0zaru",
+          "url": "https://open.spotify.com/artist/5LMCpz8qYwAGcVSyNX0gvH"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151719,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/36ntyJsQjDBDSAnjxz96MD"
     },
     {
       "album": {
@@ -12314,7 +12332,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 123310,
       "name": "Soko",
       "url": "https://open.spotify.com/track/6aEMbGeHmyih8FnAgoXQl1"

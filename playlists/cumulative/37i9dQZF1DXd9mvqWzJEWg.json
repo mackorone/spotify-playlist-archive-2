@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Mr Thela",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: Vanger Boyz",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -130,7 +130,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 293283,
       "name": "5 Men Mission (What's Poppin)",
       "url": "https://open.spotify.com/track/57ckGZVqMYpIFoo8cD1uo2"
@@ -9792,6 +9792,32 @@
       "duration_ms": 342500,
       "name": "Speed Limit",
       "url": "https://open.spotify.com/track/60LrKAurxTVnWjmU9sQVtG"
+    },
+    {
+      "album": {
+        "name": "Since 2012",
+        "url": "https://open.spotify.com/album/2V5Bxr9y2bTN1eqiALzCEn"
+      },
+      "artists": [
+        {
+          "name": "Vanger Boyz",
+          "url": "https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx"
+        },
+        {
+          "name": "Deejay Morgan",
+          "url": "https://open.spotify.com/artist/6H1B4o4Qt709VGBsGQNPvP"
+        },
+        {
+          "name": "Toolz Umazelaphi",
+          "url": "https://open.spotify.com/artist/6iwtuiIqXTyBvP3D1AOzIQ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311510,
+      "name": "Speed Point",
+      "url": "https://open.spotify.com/track/0W4MZfj3etsLMR3JAIqqf4"
     },
     {
       "album": {

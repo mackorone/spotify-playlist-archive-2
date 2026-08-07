@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: After
 
-2,486 songs - 5 day 12 hr 33 min
+2,487 songs - 5 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Cognitive Dissonance](https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Cognitive Dissonance](https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb) | 2:56 | 2022-07-22 | 2023-07-01 |
 | [Cold Charlie](https://open.spotify.com/track/3MGvORkRndr4qpEUroQ5mj) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [TV Boyfriends](https://open.spotify.com/album/1ReyIXP1ge46Vo1t5NFv9p) | 2:32 | 2022-06-01 | 2022-06-15 |
 | [Cold Shoulder](https://open.spotify.com/track/7lXB9BhHWe8E6OULBB5xew) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Cold Shoulder](https://open.spotify.com/album/4ZAigFYps8HNP9OUcrtpyQ) | 2:55 | 2020-11-10 | 2021-01-26 |
+| [Coldplay](https://open.spotify.com/track/5kxmDMKJYO8tj5FDX2x09w) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Coldplay](https://open.spotify.com/album/6ZfbvmcLM0zwWH42RnJ2BB) | 2:33 | 2026-07-31 |  |
 | [collagen](https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [juniper ring](https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw) | 3:28 | 2026-04-03 |  |
 | [Collateral Damage](https://open.spotify.com/track/32G0XbpBnYGUhUdkOp8tJh) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Collateral Damage](https://open.spotify.com/album/2HF8zmOrCOTGqQCbR4dJ8D) | 2:50 | 2024-02-27 | 2024-03-23 |
 | [Colorize](https://open.spotify.com/track/2ee4PslHxyyzSWgAsEA4qK) | [Pyralid](https://open.spotify.com/artist/3vfKOf2HvIzI5d1VV1YSc4) | [Colorize](https://open.spotify.com/album/04dIFI5ygCrpYZWLq3tTHd) | 2:42 | 2020-11-10 | 2021-01-15 |
@@ -1816,7 +1817,7 @@
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-24 | 2026-05-16 |
 | [Risk It All](https://open.spotify.com/track/110004u5CbqwZ6mD0elr6l) | [Jackson Harris](https://open.spotify.com/artist/0pW16l7mPsVjS9CdmvOstz) | [Risk It All](https://open.spotify.com/album/2RU5jhdjyOleSiJIBRJKvn) | 3:33 | 2021-05-07 | 2021-05-24 |
 | [Roadkill](https://open.spotify.com/track/3Rlj2kckSXwhcv1NarJyEn) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On a Conditional Form](https://open.spotify.com/album/65l2wbCvQ1XGtZ4PbKqF2i) | 2:55 | 2021-01-18 | 2021-06-03 |
-| [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 | 2026-02-20 |  |
+| [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 | 2026-02-20 | 2026-08-07 |
 | [Robbed](https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:44 | 2024-05-03 | 2025-01-18 |
 | [Rock Back & Forth](https://open.spotify.com/track/1pEpnFsBtUQEtA7TfKS1EH) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Rock Back & Forth](https://open.spotify.com/album/3VC2jwx5b1PTfiO6AQ2Pz2) | 3:05 | 2021-03-22 | 2021-05-28 |
 | [Rocket On My Feet](https://open.spotify.com/track/2VRuPvRr4dNrd7ITIu1ia7) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Rocket On My Feet](https://open.spotify.com/album/0TgONTUERlpYs61qIHb5IR) | 4:07 | 2022-02-25 | 2022-04-21 |

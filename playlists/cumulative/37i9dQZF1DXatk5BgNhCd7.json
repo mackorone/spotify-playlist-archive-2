@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Todo lo nuevo de m\u00fasica tropical \ud83d\udcf8  La Corea\u00f1era",
+  "description": "Todo lo nuevo de m\u00fasica tropical \ud83d\udcf8  Dyango & Damas Gratis",
   "name": "Novedades Tropicales",
   "tracks": [
     {
@@ -8174,7 +8174,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 194279,
       "name": "Atracci\u00f3n",
       "url": "https://open.spotify.com/track/7nMMgjehqTTKzu7yhJ8Nr8"
@@ -9052,7 +9052,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 184864,
       "name": "Baila Negra",
       "url": "https://open.spotify.com/track/4g1gfaV2vGn4GDx7Zokqmt"
@@ -18849,6 +18849,28 @@
     },
     {
       "album": {
+        "name": "Cuando Quieras, Donde Quieras",
+        "url": "https://open.spotify.com/album/31tGydJ6rbuv6oNqxPzTYY"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162375,
+      "name": "Cuando Quieras, Donde Quieras",
+      "url": "https://open.spotify.com/track/2uPTaUFNBj5blWcVau4rcp"
+    },
+    {
+      "album": {
         "name": "CUANDO SALE EL SOL",
         "url": "https://open.spotify.com/album/4RumX1vBmnP74qE5h0ZayI"
       },
@@ -20874,6 +20896,24 @@
       "duration_ms": 152190,
       "name": "CUMBIANEA",
       "url": "https://open.spotify.com/track/78jeznMwLkUFnc5sef5Ptd"
+    },
+    {
+      "album": {
+        "name": "Cumbias DesaKTadas (En Vivo)",
+        "url": "https://open.spotify.com/album/65C9kgdzmaf2dUyTEtz5fw"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489152,
+      "name": "Cumbias DesaKTadas - En Vivo",
+      "url": "https://open.spotify.com/track/1LuH4PNvR5ozRza29kxTZn"
     },
     {
       "album": {
@@ -25014,6 +25054,24 @@
       "duration_ms": 173621,
       "name": "Disparo al aire",
       "url": "https://open.spotify.com/track/3CU6HsYMhEpJKuQsG4mAc4"
+    },
+    {
+      "album": {
+        "name": "Disparo al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5GWQNBkxwaoZkRn98dXhZI"
+      },
+      "artists": [
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133328,
+      "name": "Disparo al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2ThPuadDYNptuCL94NH4Q9"
     },
     {
       "album": {
@@ -29188,7 +29246,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 216875,
       "name": "El Paso del Gigante - Discos Fant\u00e1stico! Version",
       "url": "https://open.spotify.com/track/1tZDazEEFij1ned2nTWroh"
@@ -53345,6 +53403,32 @@
     },
     {
       "album": {
+        "name": "IAN LUCAS En Vivo - Estadio V\u00e9lez",
+        "url": "https://open.spotify.com/album/7eEmqWAjMrfSQGB4P6ATt6"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132102,
+      "name": "ME CONT\u00d3 UN PAJARITO En Vivo - Estadio V\u00e9lez",
+      "url": "https://open.spotify.com/track/34GjZlf6gk1qERbaUI3x9N"
+    },
+    {
+      "album": {
         "name": "Me das cada d\u00eda m\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/6UqKdGO27oihu4A0Hlf5pO"
       },
@@ -57898,7 +57982,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 161797,
       "name": "Mira Beb\u00e9",
       "url": "https://open.spotify.com/track/76Xise1iS4Y0MroKPyaEi2"
@@ -59836,6 +59920,24 @@
       "duration_ms": 233493,
       "name": "Muri\u00f3 la flor / El reloj / Arrepentida",
       "url": "https://open.spotify.com/track/5Mj0hzzwRWj8dMPpfkhiA3"
+    },
+    {
+      "album": {
+        "name": "Murmullo Descuidado",
+        "url": "https://open.spotify.com/album/4uVdFrrorSwpa1xaUEcrQZ"
+      },
+      "artists": [
+        {
+          "name": "Las Culisueltas",
+          "url": "https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165935,
+      "name": "Murmullo Descuidado",
+      "url": "https://open.spotify.com/track/0gSPERt2jeuXX97fMahcRn"
     },
     {
       "album": {
@@ -66529,6 +66631,24 @@
     },
     {
       "album": {
+        "name": "Ojos Rojos",
+        "url": "https://open.spotify.com/album/2hQVB09tPS851G3zTtYZtU"
+      },
+      "artists": [
+        {
+          "name": "El Bloque 8",
+          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188864,
+      "name": "Ojos Rojos",
+      "url": "https://open.spotify.com/track/3lmDGxkPyNxGGufWnF7kat"
+    },
+    {
+      "album": {
         "name": "OJOS VERDES",
         "url": "https://open.spotify.com/album/5NAyNLjdgxLoP9tERZrUDD"
       },
@@ -71705,6 +71825,24 @@
     },
     {
       "album": {
+        "name": "Por Ese Palpitar (Show En Vivo En El Teatro Coliseo)",
+        "url": "https://open.spotify.com/album/1KJ5fKEQ90gVbMmNZ7ldfP"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262360,
+      "name": "Por Ese Palpitar - Show En Vivo En El Teatro Coliseo",
+      "url": "https://open.spotify.com/track/4UBooNjqqYoD8oEWP63dcK"
+    },
+    {
+      "album": {
         "name": "Por Fa No Te Vayas",
         "url": "https://open.spotify.com/album/2WXtUxTSuMmSjlsaivUrOt"
       },
@@ -74744,6 +74882,28 @@
       "duration_ms": 198295,
       "name": "Que No Se Acabe",
       "url": "https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i"
+    },
+    {
+      "album": {
+        "name": "Que No Se Muela La Muela",
+        "url": "https://open.spotify.com/album/5fv8PvwXUzTBOq0yRWs0iQ"
+      },
+      "artists": [
+        {
+          "name": "La Muela Y Sus Amigos",
+          "url": "https://open.spotify.com/artist/3jWZrDZ5vOGgWXyUs9OQfy"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197244,
+      "name": "Que No Se Muela La Muela",
+      "url": "https://open.spotify.com/track/374PzsEyToajuKm53TsLY4"
     },
     {
       "album": {
@@ -87053,6 +87213,24 @@
     },
     {
       "album": {
+        "name": "Te Estoy Filmando",
+        "url": "https://open.spotify.com/album/29PghPWMQCUDYkl6OTaEIn"
+      },
+      "artists": [
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174288,
+      "name": "Te Estoy Filmando",
+      "url": "https://open.spotify.com/track/6jDy5Kgbfbq5IFMw9rsBSo"
+    },
+    {
+      "album": {
         "name": "Te Estoy Perdiendo",
         "url": "https://open.spotify.com/album/3GTpOrAssWFYYoyEhW6d2e"
       },
@@ -96857,6 +97035,24 @@
     },
     {
       "album": {
+        "name": "Vengo De Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/1bePVP9kdUvpRuhtJXvdhJ"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191103,
+      "name": "Vengo De Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/0BE1DB2yq9fkLYsU01Z9TO"
+    },
+    {
+      "album": {
         "name": "Vengo de la Sombra",
         "url": "https://open.spotify.com/album/2myUwy7QyYdIjKgtPtnUJL"
       },
@@ -101396,6 +101592,32 @@
       "duration_ms": 135151,
       "name": "Yo Solo Quiero",
       "url": "https://open.spotify.com/track/4yUTI5d0bHHPAnlHYO2ZeF"
+    },
+    {
+      "album": {
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/1qHUQosiU3mCcGKFkP82OM"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        },
+        {
+          "name": "Fede Mestre",
+          "url": "https://open.spotify.com/artist/4kQCav3BRXxbuyGjxQDIy9"
+        },
+        {
+          "name": "Chofer",
+          "url": "https://open.spotify.com/artist/4k7AQUr1040ycCu71wNmfL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209599,
+      "name": "Yo Soy",
+      "url": "https://open.spotify.com/track/02OOfI99oxFzLHn7Gl9nc4"
     },
     {
       "album": {

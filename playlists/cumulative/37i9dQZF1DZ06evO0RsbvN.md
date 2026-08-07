@@ -4,7 +4,7 @@
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-298 songs - 14 hr 59 min
+299 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bo Weavil Blues \- Take 1](https://open.spotify.com/track/3QQqYDMoAeK7Gu3yNWDIj5) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Down the Road](https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO) | 2:39 | 2025-01-23 | 2025-02-11 |
 | [Bo\-Weavil Blues](https://open.spotify.com/track/4nCSymAmn2jk8L0qCwMhoc) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Mother of The Blues \- The Essentials \(Remastered\)](https://open.spotify.com/album/10DawRthpe6J8uhx3TGcDW) | 2:33 | 2026-08-01 |  |
 | [Bo\-Weavil Blues \(Take 1\)](https://open.spotify.com/track/0RAum262SZU1uF8JCye28r) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:34 | 2022-08-05 | 2026-07-03 |
+| [Bo\-Weavil Blues: 2](https://open.spotify.com/track/2SEkl3PdkKJGupqXnJXvkM) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD A](https://open.spotify.com/album/0RlfiAuNjindVUugIU0G3M) | 2:42 | 2026-08-07 |  |
 | [Booze And Blues](https://open.spotify.com/track/1SF9hCpHJ6gZ6FVz1heNA1) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 3:11 | 2022-08-05 |  |
 | [Broken Hearted Blues](https://open.spotify.com/track/1ehPXzZyqHis98Agh2byNX) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD C](https://open.spotify.com/album/2yLBLBIzFDd5oZDJRnA3j8) | 2:55 | 2026-04-18 | 2026-04-19 |
 | [Broken Hearted Blues](https://open.spotify.com/track/0tGoflWLyxvMhjLVjpvjVZ) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:57 | 2023-01-15 | 2023-12-30 |
@@ -92,7 +93,7 @@
 | [Down in the Basement](https://open.spotify.com/track/6W2lAYG8V3vQaKwMDG8BbG) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Sweet Man](https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU) | 3:07 | 2026-02-26 | 2026-06-09 |
 | [Dream Blues](https://open.spotify.com/track/3E5UIXFsJUO8M73il3du5S) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:45 | 2022-11-21 | 2024-12-19 |
 | [Dream Blues](https://open.spotify.com/track/7aj4OzROMRSbop2hvsfiqS) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:45 | 2022-08-05 | 2026-08-01 |
-| [Explaining the Blues](https://open.spotify.com/track/6mlsoT68jin8jXYG9iS5DC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Sweet Man](https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU) | 3:14 | 2026-04-06 |  |
+| [Explaining the Blues](https://open.spotify.com/track/6mlsoT68jin8jXYG9iS5DC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Sweet Man](https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU) | 3:14 | 2026-04-06 | 2026-08-07 |
 | [Explaining the Blues](https://open.spotify.com/track/5IaJtmugF9q7OoCIJg23r0) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Midnight Moods September Blues \- Ma Rainey's Timeless Tunes](https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ) | 3:14 | 2023-12-19 | 2026-03-02 |
 | [Explaining the Blues](https://open.spotify.com/track/0lyX9oQlgyZoAPZNF3Y87B) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Essential Classics, Vol\. 687: Ma Rainey](https://open.spotify.com/album/3QusH6dhyXSPkw3ocjc154) | 3:14 | 2025-09-16 | 2026-01-15 |
 | [Explaining the Blues](https://open.spotify.com/track/7il4L95CZqh0bzb2a9630n) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 3:27 | 2022-08-05 | 2023-08-31 |
@@ -151,7 +152,7 @@
 | [Lawd Send Me a Man Blues](https://open.spotify.com/track/59qNYlvIKsqEbt9yWXTN2K) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:47 | 2024-04-09 | 2024-11-03 |
 | [Leavin' This Morning](https://open.spotify.com/track/1bvymGG2KkmARE54FrnchN) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:06 | 2024-06-19 | 2024-06-21 |
 | [Leavin' This Morning](https://open.spotify.com/track/0EW4KSIplt6RVBgjAkZZYr) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9) | 3:07 | 2022-08-05 | 2023-04-04 |
-| [Leaving This Morning](https://open.spotify.com/track/6R73IyuMx4cbGXRkEXgHQZ) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Highlights of Ma Rainey](https://open.spotify.com/album/5gUDNmnw9YIjdlAWq3izXn) | 3:09 | 2022-08-06 | 2024-07-23 |
+| [Leaving This Morning](https://open.spotify.com/track/6R73IyuMx4cbGXRkEXgHQZ) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Highlights of Ma Rainey](https://open.spotify.com/album/5gUDNmnw9YIjdlAWq3izXn) | 3:09 | 2022-08-06 |  |
 | [Let's Get It Straight](https://open.spotify.com/track/24ZVqUW4YiOsnAK1jIvtbp) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [First of the Great Blues Singers](https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ) | 2:56 | 2023-04-01 | 2023-05-04 |
 | [Levee Camp Moan](https://open.spotify.com/track/1UTphFJdgJ6xrKCUcRulDC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Booze and Blues](https://open.spotify.com/album/0QBW52anY4yPNHKvTAjUsQ) | 2:48 | 2022-08-06 | 2023-06-14 |
 | [Levee Camp Moan](https://open.spotify.com/track/27ZSI8nnSugJzkqdWdzFoh) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 2:48 | 2023-06-13 | 2026-04-02 |
@@ -262,7 +263,7 @@
 | [Southern Blues](https://open.spotify.com/track/5zeFs3tJsUxWYrDE4GcLOC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:54 | 2022-09-24 | 2026-07-17 |
 | [Stack O' Lee Blues](https://open.spotify.com/track/2mFgUOrezBPYhfiEtc1VLX) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43) | 2:55 | 2026-01-15 | 2026-02-11 |
 | [Stack O' Lee Blues](https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [1923\-1928](https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC) | 2:57 | 2022-08-05 |  |
-| [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 | 2022-08-05 |  |
+| [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 | 2022-08-05 | 2026-08-07 |
 | [Stack O'Lee Blues \- Alternate Take](https://open.spotify.com/track/0XgKLbFxVt0LT3CnsxgWVg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 2:55 | 2025-03-28 | 2026-01-15 |
 | [Stormy Sea Blues](https://open.spotify.com/track/5ruTFfl1a6p0ox63nlRpQW) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 2:43 | 2022-08-08 | 2026-03-14 |
 | [Stormy Sea Blues](https://open.spotify.com/track/3ZV3VNFFPkrOhVTaQ2laML) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Midnight Moods September Blues \- Ma Rainey's Timeless Tunes](https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ) | 2:43 | 2023-12-13 | 2025-11-06 |

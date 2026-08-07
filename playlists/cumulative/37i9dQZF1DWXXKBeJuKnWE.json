@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The sound of the underground. Cover: Imminence",
+  "description": "The sound of the underground. Cover: Northlane",
   "name": "The Pit",
   "tracks": [
     {
@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 216083,
       "name": "AFTERLIFE",
       "url": "https://open.spotify.com/track/4OAP0t2AbljWcYfHdAPBmb"
@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 142464,
       "name": "Coagulate",
       "url": "https://open.spotify.com/track/4pDNSsl8Vh4Mi6TQHh4KhU"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 226500,
       "name": "Cold - 2025 VERSION",
       "url": "https://open.spotify.com/track/3iJD97o04av0fRPMmciboH"
@@ -2971,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "CUT_it",
+        "url": "https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194597,
+      "name": "CUT_it",
+      "url": "https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB"
+    },
+    {
+      "album": {
         "name": "Scoring The End Of The World",
         "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
       },
@@ -3065,6 +3083,24 @@
     },
     {
       "album": {
+        "name": "dark heaven",
+        "url": "https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212272,
+      "name": "dark heaven",
+      "url": "https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR"
+    },
+    {
+      "album": {
         "name": "Tell Me Your Dream",
         "url": "https://open.spotify.com/album/1kTGPhQpZfXDaqKMorgpn7"
       },
@@ -3076,7 +3112,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 235253,
       "name": "Dark Summer",
       "url": "https://open.spotify.com/track/3LIcmUJ28o3q9Ak35ORrFB"
@@ -4662,7 +4698,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 215266,
       "name": "Feed (feat. DeathbyRomy)",
       "url": "https://open.spotify.com/track/6E07yIbMpOaZFisNCajNk4"
@@ -5468,7 +5504,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 268042,
       "name": "Giraffe",
       "url": "https://open.spotify.com/track/7DQ3JbZ8JmjjxoGmOYkjoR"
@@ -5512,6 +5548,24 @@
       "duration_ms": 142153,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/2dlI4jB1PPW9SSChz7foYc"
+    },
+    {
+      "album": {
+        "name": "Give Me Dirt",
+        "url": "https://open.spotify.com/album/64gq0H6qzkiRRf0tFPtxWG"
+      },
+      "artists": [
+        {
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "Give Me Dirt",
+      "url": "https://open.spotify.com/track/03A8fV79d1nMZXMo3vdw3u"
     },
     {
       "album": {
@@ -5887,6 +5941,24 @@
     },
     {
       "album": {
+        "name": "H.A.T.E",
+        "url": "https://open.spotify.com/album/2HXpMqgZeSHb4EBGMmDa1l"
+      },
+      "artists": [
+        {
+          "name": "Kid Bookie",
+          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "H.A.T.E",
+      "url": "https://open.spotify.com/track/5hOJXXHeOEnrgKFdVYHhEQ"
+    },
+    {
+      "album": {
         "name": "H8 MY SELF",
         "url": "https://open.spotify.com/album/5m02Ruds7RdGQ4QMWtyxmx"
       },
@@ -5960,6 +6032,24 @@
       "duration_ms": 169243,
       "name": "Halo",
       "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
+    },
+    {
+      "album": {
+        "name": "Hand Me A Halo",
+        "url": "https://open.spotify.com/album/6OVLPlT4Eqw244iwqqbELe"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199251,
+      "name": "Hand Me A Halo",
+      "url": "https://open.spotify.com/track/5YNpcySo8CtJhZQpE8l3m5"
     },
     {
       "album": {
@@ -6166,6 +6256,24 @@
       "duration_ms": 181043,
       "name": "Headstones",
       "url": "https://open.spotify.com/track/4nHFfSDh3pX9uBr86FLVwf"
+    },
+    {
+      "album": {
+        "name": "TANZNEID",
+        "url": "https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187642,
+      "name": "Heartclub",
+      "url": "https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR"
     },
     {
       "album": {
@@ -7002,7 +7110,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 263198,
       "name": "Impose",
       "url": "https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII"
@@ -7154,6 +7262,28 @@
       "duration_ms": 212577,
       "name": "infinite source",
       "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
+    },
+    {
+      "album": {
+        "name": "Intertwined (feat. Jessie Powell)",
+        "url": "https://open.spotify.com/album/1XHXYQiIAvaB9xPjIyXMv6"
+      },
+      "artists": [
+        {
+          "name": "Vicious Rain",
+          "url": "https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp"
+        },
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235285,
+      "name": "Intertwined (feat. Jessie Powell)",
+      "url": "https://open.spotify.com/track/3nacMJqs7z60ocGlnBqoqh"
     },
     {
       "album": {
@@ -7570,7 +7700,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 201960,
       "name": "Killher",
       "url": "https://open.spotify.com/track/73fQhw7b0rTJa73YnxGeXZ"
@@ -7942,6 +8072,24 @@
       "duration_ms": 343329,
       "name": "Like the Fourth Wall",
       "url": "https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3"
+    },
+    {
+      "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/0EPu0Y8gcdsRWd7bcFYGuv"
+      },
+      "artists": [
+        {
+          "name": "Any Given Sin",
+          "url": "https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/3QFVFxNgz4JZse0FnhFoeG"
     },
     {
       "album": {
@@ -9268,7 +9416,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 185945,
       "name": "Nice Guy (feat. Ekoh)",
       "url": "https://open.spotify.com/track/1BbPTYq3fpY5qtDeublQM2"
@@ -10946,7 +11094,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 246946,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/6pfwu8OzVOuNWLY7aH6fzw"
@@ -11364,7 +11512,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 247493,
       "name": "Shapeshift",
       "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
@@ -11902,7 +12050,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 235760,
       "name": "Spared From The Guillotine",
       "url": "https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4"
@@ -12108,7 +12256,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 78618,
       "name": "Stillness Blues",
       "url": "https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F"
@@ -12386,7 +12534,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 203314,
       "name": "Swept From Under (Call of the Void)",
       "url": "https://open.spotify.com/track/6qOSf7vfYCwcQfeqI5QPgX"
@@ -13042,6 +13190,28 @@
       "duration_ms": 220799,
       "name": "The Rumbling",
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
+    },
+    {
+      "album": {
+        "name": "The Space In Between / who am i? (DLX)",
+        "url": "https://open.spotify.com/album/6uvTQ1rd7fN3b7Ee0ob8hf"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        },
+        {
+          "name": "postdrome",
+          "url": "https://open.spotify.com/artist/2xAMuwc0kfFedUVWO9fOQl"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193628,
+      "name": "The Space In Between - DLX",
+      "url": "https://open.spotify.com/track/6mAyBNFHwjuiTNnpejt3YR"
     },
     {
       "album": {
@@ -14199,6 +14369,24 @@
     },
     {
       "album": {
+        "name": "Cheap Heat",
+        "url": "https://open.spotify.com/album/4fcuCuXF4E22R8Imztwbio"
+      },
+      "artists": [
+        {
+          "name": "A Wilhelm Scream",
+          "url": "https://open.spotify.com/artist/6v7mkDKyZ50l4Jiqwx2JLg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129626,
+      "name": "Visitor: Unimpressed",
+      "url": "https://open.spotify.com/track/5t08uiyBQfAHrUgQec1gcx"
+    },
+    {
+      "album": {
         "name": "Vore",
         "url": "https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml"
       },
@@ -14778,6 +14966,24 @@
       "duration_ms": 193886,
       "name": "when we were young",
       "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
+    },
+    {
+      "album": {
+        "name": "Where the Quiet Devours Me Whole",
+        "url": "https://open.spotify.com/album/73goa6HpxvU7caNvTL6zAV"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Where the Quiet Devours Me Whole",
+      "url": "https://open.spotify.com/track/0WvR4onzFu05Lr1XLWxkON"
     },
     {
       "album": {

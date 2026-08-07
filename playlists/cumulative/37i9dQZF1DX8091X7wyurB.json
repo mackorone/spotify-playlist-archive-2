@@ -458,7 +458,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 772109,
       "name": "All In All - Live",
       "url": "https://open.spotify.com/track/0K7x07kZL0uoHkxK0FW5r8"
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 1050613,
       "name": "Bless the Lord - Live",
       "url": "https://open.spotify.com/track/0AKcZJ3Q8vkWkNSMyDcJB4"
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 337339,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/7BpGB2kuuSTuSX0vQUMe9u"
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 280424,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
@@ -2460,7 +2460,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 293533,
       "name": "Chukwu Oma",
       "url": "https://open.spotify.com/track/7vU6lU4ZNubUeE3yWgTYD6"
@@ -2526,6 +2526,24 @@
       "duration_ms": 214989,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
+    },
+    {
+      "album": {
+        "name": "GENEVIEVE",
+        "url": "https://open.spotify.com/album/0V1Rrp14485VaTdp07aTc1"
+      },
+      "artists": [
+        {
+          "name": "GENEEMUSIC",
+          "url": "https://open.spotify.com/artist/1nNYJF9D2yJFJCsvQOP6tI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240692,
+      "name": "Close To Your Heart",
+      "url": "https://open.spotify.com/track/3VaG5piaBR0mjuDiIhqfOC"
     },
     {
       "album": {
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 252000,
       "name": "Cover Cover - Live",
       "url": "https://open.spotify.com/track/3tyxCqeZOBt2VgOzookCxM"
@@ -3714,6 +3732,24 @@
       "duration_ms": 319180,
       "name": "Elohim",
       "url": "https://open.spotify.com/track/206d91DwnGAY1quOz8auKi"
+    },
+    {
+      "album": {
+        "name": "Elohim (Live)",
+        "url": "https://open.spotify.com/album/06DFB744gZ2gz66oHxffkV"
+      },
+      "artists": [
+        {
+          "name": "Eunice Ojo",
+          "url": "https://open.spotify.com/artist/4NNB6zlRndbf7fkwBix5Un"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407014,
+      "name": "Elohim (Live)",
+      "url": "https://open.spotify.com/track/6RFYj6PyYe0aJThegeE1AG"
     },
     {
       "album": {
@@ -5572,6 +5608,24 @@
       "duration_ms": 183213,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
+    },
+    {
+      "album": {
+        "name": "Good (Psalms 145)",
+        "url": "https://open.spotify.com/album/5r2bZd6oJTGTbCzDN5Hs27"
+      },
+      "artists": [
+        {
+          "name": "Toluwanimee",
+          "url": "https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242352,
+      "name": "Good (Psalms 145)",
+      "url": "https://open.spotify.com/track/41ooM5xnCXgj0iat09QJoa"
     },
     {
       "album": {
@@ -8922,7 +8976,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 312000,
       "name": "Iyo Iyo",
       "url": "https://open.spotify.com/track/4TPcxjP5jGe061jKDcOYfM"
@@ -9644,7 +9698,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 284853,
       "name": "Kulungile Baba",
       "url": "https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i"
@@ -9880,6 +9934,24 @@
       "duration_ms": 443614,
       "name": "Lifter Of Men - Higher",
       "url": "https://open.spotify.com/track/01m5OjBL4EFhWWd14nC6aZ"
+    },
+    {
+      "album": {
+        "name": "Worship Wells",
+        "url": "https://open.spotify.com/album/6b3NHJK7lx7CGBrhdsu0QK"
+      },
+      "artists": [
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350000,
+      "name": "Lifter of my head",
+      "url": "https://open.spotify.com/track/4IahJFgVlxlQd7xzNEDV7Q"
     },
     {
       "album": {
@@ -12236,7 +12308,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 176565,
       "name": "Nothing Without Him",
       "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
@@ -12538,6 +12610,28 @@
       "duration_ms": 378795,
       "name": "Ogo",
       "url": "https://open.spotify.com/track/48cvOppznTu76T12L5RCF9"
+    },
+    {
+      "album": {
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/7lGvrCjr0JDjMNDyy8Wdgr"
+      },
+      "artists": [
+        {
+          "name": "ToLmusic",
+          "url": "https://open.spotify.com/artist/4cCnxbnfiFhwZQnEmQf5Dt"
+        },
+        {
+          "name": "Ronke Starlyte",
+          "url": "https://open.spotify.com/artist/254M6u7PwogLo03iiYeUxA"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288750,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/35ixzUagMotA5kyGMV2kCd"
     },
     {
       "album": {
@@ -13105,6 +13199,24 @@
     },
     {
       "album": {
+        "name": "Onyeoma",
+        "url": "https://open.spotify.com/album/62XXNEAyEIMsPHSDvJeb41"
+      },
+      "artists": [
+        {
+          "name": "Timipah",
+          "url": "https://open.spotify.com/artist/5hUchSk6fAUCxrUHgq5Bju"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246263,
+      "name": "Onyeoma",
+      "url": "https://open.spotify.com/track/4PmFb1SxM2HZ4zfjWwDnNw"
+    },
+    {
+      "album": {
         "name": "Onyeoma (Good God)",
         "url": "https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM"
       },
@@ -13214,7 +13326,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 357500,
       "name": "Our Maker",
       "url": "https://open.spotify.com/track/5soAf7qf5UKdwiYxttQZUY"
@@ -13949,6 +14061,28 @@
     },
     {
       "album": {
+        "name": "Rafiki",
+        "url": "https://open.spotify.com/album/3brcdzwtTWgILOS5dTtuUL"
+      },
+      "artists": [
+        {
+          "name": "Neema Gospel Choir",
+          "url": "https://open.spotify.com/artist/0Rj46magWSjvL3hnxTaNGy"
+        },
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 703171,
+      "name": "Rafiki",
+      "url": "https://open.spotify.com/track/0cSMbkqNF20ryCR8rKfs70"
+    },
+    {
+      "album": {
         "name": "Rahama (Live)",
         "url": "https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI"
       },
@@ -14018,7 +14152,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 333386,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
@@ -14725,6 +14859,24 @@
     },
     {
       "album": {
+        "name": "Silawule (Live)",
+        "url": "https://open.spotify.com/album/3FD1NloKwsEmpD7XpWsUxv"
+      },
+      "artists": [
+        {
+          "name": "Busi Sibiya",
+          "url": "https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397000,
+      "name": "Silawule - Live",
+      "url": "https://open.spotify.com/track/2A6gGJlu0Tsxqfk0vZwtaH"
+    },
+    {
+      "album": {
         "name": "Strike The Ground",
         "url": "https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs"
       },
@@ -15396,6 +15548,24 @@
       "duration_ms": 477280,
       "name": "Tare (Live)",
       "url": "https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB"
+    },
+    {
+      "album": {
+        "name": "Highly Lifted",
+        "url": "https://open.spotify.com/album/0lr2KKVfyzpkmoQkPccGtg"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319164,
+      "name": "Tasted",
+      "url": "https://open.spotify.com/track/0VSRo5qR7cP9PVtoFC9U3M"
     },
     {
       "album": {
@@ -16558,7 +16728,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 931034,
       "name": "Tumi Wura",
       "url": "https://open.spotify.com/track/47qGbczBW70Gp9FvCQ4juO"
@@ -16978,7 +17148,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 503240,
       "name": "Way Maker - Live",
       "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
@@ -18017,6 +18187,24 @@
     },
     {
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/4TSkvCtAs2TgDRTLvQlYg5"
+      },
+      "artists": [
+        {
+          "name": "Evans Ogboi",
+          "url": "https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297570,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/7ArJZp3hh9Hudq3lWxq7AP"
+    },
+    {
+      "album": {
         "name": "How To Start A Housefire (Pt. III)",
         "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
       },
@@ -18156,7 +18344,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 224000,
       "name": "Worthy to be Praised",
       "url": "https://open.spotify.com/track/1ACRUpV6HQul9s1cLUERGf"

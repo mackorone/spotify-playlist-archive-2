@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/54ESPf0Xqi6rsuGfH0mH8z"
+      },
+      "artists": [
+        {
+          "name": "Sand\u00e9",
+          "url": "https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144480,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/5VTnuQokgQ5wXxt5u5nhxM"
+    },
+    {
+      "album": {
         "name": "Only Love, L (More Love Edition)",
         "url": "https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK"
       },
@@ -752,6 +770,24 @@
       "duration_ms": 148000,
       "name": "Irgendwie auch nicht",
       "url": "https://open.spotify.com/track/0KcYpVzF1lc6m49JsTjgkC"
+    },
+    {
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/1ZJ25L8SzfSSBrQzMrX0vL"
+      },
+      "artists": [
+        {
+          "name": "VILLFORTH",
+          "url": "https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162256,
+      "name": "June",
+      "url": "https://open.spotify.com/track/3HTSInPBCaG6mpwRGDc0Ss"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38430,
+  "num_followers": 38429,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAACxeoHOlLekIYkGsVgflSM0",
+  "snapshot_id": "anJ9AAAAAAAVIdTNKOd8oMzp5nTgjVoV",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go Down",
-        "url": "https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq"
+        "name": "Hi This Is Flume (Mixtape)",
+        "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
       },
       "artists": [
         {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
         }
       ],
-      "duration_ms": 146069,
-      "name": "Go Down",
-      "url": "https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M"
+      "duration_ms": 114645,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/3xP1Pvjs45aUMap2kk8okL"
     },
     {
       "added_at": null,
@@ -235,26 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hi This Is Flume (Mixtape)",
-        "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
+        "name": "Go Down",
+        "url": "https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
         },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
         }
       ],
-      "duration_ms": 114645,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/3xP1Pvjs45aUMap2kk8okL"
+      "duration_ms": 146069,
+      "name": "Go Down",
+      "url": "https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M"
     },
     {
       "added_at": null,
@@ -531,22 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunscreen",
-        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
+        "name": "Forever (SOPHIE Remix)",
+        "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
       },
       "artists": [
         {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
         },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 187320,
-      "name": "Sunscreen",
-      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
+      "duration_ms": 219212,
+      "name": "Forever - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
     },
     {
       "added_at": null,
@@ -575,22 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever (SOPHIE Remix)",
-        "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
       },
       "artists": [
         {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
         },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 219212,
-      "name": "Forever - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
+      "duration_ms": 187320,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
     },
     {
       "added_at": null,
@@ -683,22 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHEETAH BEND",
-        "url": "https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb"
+        "name": "MF GHOST PRESENTS SUPER EUROBEAT \u00d7 ORIGINAL SOUNDTRACK NEW COLLECTION Vol.3",
+        "url": "https://open.spotify.com/album/6cowExK3KKvoM26QqcQxm5"
       },
       "artists": [
-        {
-          "name": "JIMMY EDGAR",
-          "url": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
-        },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 200287,
-      "name": "METAL",
-      "url": "https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G"
+      "duration_ms": 303800,
+      "name": "WONDERFUL LOVE",
+      "url": "https://open.spotify.com/track/4nBJYU9oQsbXjuFhXOQHjM"
     },
     {
       "added_at": null,
@@ -719,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MF GHOST PRESENTS SUPER EUROBEAT \u00d7 ORIGINAL SOUNDTRACK NEW COLLECTION Vol.3",
-        "url": "https://open.spotify.com/album/6cowExK3KKvoM26QqcQxm5"
+        "name": "CHEETAH BEND",
+        "url": "https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb"
       },
       "artists": [
+        {
+          "name": "JIMMY EDGAR",
+          "url": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
+        },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 303800,
-      "name": "WONDERFUL LOVE",
-      "url": "https://open.spotify.com/track/4nBJYU9oQsbXjuFhXOQHjM"
+      "duration_ms": 200287,
+      "name": "METAL",
+      "url": "https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G"
     },
     {
       "added_at": null,

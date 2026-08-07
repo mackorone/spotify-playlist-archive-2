@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,907 likes - 58 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,909 likes - 58 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 57 | [Er du med mig?](https://open.spotify.com/track/0IcZtFpwvgf6zQw3aPwyFe) | [WESTA](https://open.spotify.com/artist/0GH52FVEqAU8uWFlPUofqb) | [Er du med mig?](https://open.spotify.com/album/5CF47ZbFyakSVTPkavX5CC) | 2:57 |
 | 58 | [Sig Det](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr), [Phil](https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 3:05 |
 
-Snapshot ID: `AAAAAJQ21iuM0dWiIwAQAq3CpB9WtEtS`
+Snapshot ID: `AAAAAABgEg9vGtF2j7ZjvVIhl+6Suwlr`

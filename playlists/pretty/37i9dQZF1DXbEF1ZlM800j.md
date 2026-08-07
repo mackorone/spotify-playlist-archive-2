@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 
 > Get your kids in the holiday spirit with this collection of Hanukkah tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,554 likes - 45 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,553 likes - 45 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Like a Maccabee](https://open.spotify.com/track/40hnTLTBV601qZsh0K0UOt) | [Joanie Leeds](https://open.spotify.com/artist/4KOQZQuOdq1Zllyn7Nr4hK), [Josh Shriber](https://open.spotify.com/artist/6o7Jq8bpYbuQfg2A0bGESo) | [Like a Maccabee](https://open.spotify.com/album/08RVPNHJa9gWVYRqr4Mx6F) | 2:34 |
 | 2 | [Feast of Lights](https://open.spotify.com/track/3EsiksrSSBmEuanX0WzD8X) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Holidayland](https://open.spotify.com/album/4bvXrtNvwSeuthHvMqR16Z) | 2:36 |
 | 3 | [How Do You Spell Channukkahh?](https://open.spotify.com/track/3ZjCGpTXLUpg7cAaZzgwBP) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 4:54 |
-| 4 | [Dreidel, Dreidel, Dreidel](https://open.spotify.com/track/3it0KRH0znJ29RhDRwfjKP) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Holiday Classics](https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk) | 1:25 |
+| 4 | [Dreidel, Dreidel, Dreidel](https://open.spotify.com/track/3it0KRH0znJ29RhDRwfjKP) | [Rob Cantor For Kids!](https://open.spotify.com/artist/0sEDLWlvde4D2GLUFufjSO) | [Disney Junior Music: Holiday Classics](https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk) | 1:25 |
 | 5 | [Oh Hanukkah](https://open.spotify.com/track/5ec60jot43VDKVDSyXGwaT) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Hanukkah+](https://open.spotify.com/album/75tzhQxgxrZkqfIb4fE5rT) | 1:55 |
 | 6 | [Lighting The Menorah](https://open.spotify.com/track/28jaI4AtF5bnttCIALzQ5M) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Lighting The Menorah](https://open.spotify.com/album/7v3pgS9gjeRU9oY2AuMmKp) | 3:04 |
 | 7 | [Hanukkah Medley](https://open.spotify.com/track/6dwS0GqDNVYJxzLXdR8Oz1) | [Julia Lester](https://open.spotify.com/artist/5aTwY2xyrJy4cS1jlFg1oG) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 2:16 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 | 44 | [Dreidel, Dreidel, Dreidel](https://open.spotify.com/track/2fEgP1wvKAZhEd7efiGmCy) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Let's Eat](https://open.spotify.com/album/3jI01rsHAcPPO1XFFlCdWR) | 1:01 |
 | 45 | [Latke Clan](https://open.spotify.com/track/4heo0xAg2VijivVKMUwBKG) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 2:51 |
 
-Snapshot ID: `AAAAAPWanLqjmX/D5koSl0kJpDsFSNRc`
+Snapshot ID: `AAAAAK4XF24YUkiCqqeaqalMRJBxC0dQ`

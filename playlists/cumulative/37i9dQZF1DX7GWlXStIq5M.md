@@ -2,9 +2,9 @@
 
 ### [Palco POP](https://open.spotify.com/playlist/37i9dQZF1DX7GWlXStIq5M)
 
-> Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mateus Carrilho, DUPÊ
+> Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Vitão
 
-1,194 songs - 2 day 11 hr 11 min
+1,195 songs - 2 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,7 +649,7 @@
 | [Mil Vezes \- Remix](https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mil Vezes \(Remix\)](https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1) | 2:07 | 2024-01-05 | 2024-06-01 |
 | [Milkshake](https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Gente Crazy](https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC) | 2:31 | 2023-02-14 | 2023-06-24 |
 | [Mimada](https://open.spotify.com/track/6cI2mAtILbeXx9Els5Qqur) | [ELLA A](https://open.spotify.com/artist/5kLSJkxgNnkg9r5bEgEuKS) | [Mimada](https://open.spotify.com/album/2Olb8VjYRbKmv6SdUGNvLU) | 2:10 | 2024-06-28 | 2024-08-31 |
-| [MINA](https://open.spotify.com/track/6bms1AEgjJDu6TQaSTAEcR) | [Tuly](https://open.spotify.com/artist/51FBlpp5BhrDRz1ldnxeSk), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [MINA](https://open.spotify.com/album/7cxjGHFf1LdQyGE4JqzW1g) | 2:44 | 2025-10-24 |  |
+| [MINA](https://open.spotify.com/track/6bms1AEgjJDu6TQaSTAEcR) | [Tuly](https://open.spotify.com/artist/51FBlpp5BhrDRz1ldnxeSk), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [MINA](https://open.spotify.com/album/7cxjGHFf1LdQyGE4JqzW1g) | 2:44 | 2025-10-24 | 2026-08-07 |
 | [Minha Arte](https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Minha Arte](https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt) | 3:43 | 2023-11-24 | 2025-07-12 |
 | [Minha Opinião](https://open.spotify.com/track/6rK1HZYFcmB6UKcWVuG2Jf) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH) | [Minha Opinião](https://open.spotify.com/album/5QCfoe3PWZi7907yAlMMrU) | 3:40 | 2025-08-15 | 2025-10-18 |
 | [Minissaia](https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Minissaia](https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr) | 2:19 | 2025-03-28 | 2026-02-07 |
@@ -696,6 +696,7 @@
 | [No Idea](https://open.spotify.com/track/3VyjsVV24RmBIbWJAeUJNu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea](https://open.spotify.com/album/1jAxVdQ2FFtbHu6kLNM0au) | 2:34 | 2020-10-20 | 2022-07-29 |
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2020-10-20 | 2023-02-15 |
 | [No Mar](https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh) | [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa), [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x) | [No Mar](https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i) | 2:51 | 2026-04-10 |  |
+| [No Pain No Gain](https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [MOSAICO](https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL) | 3:44 | 2026-08-07 |  |
 | [no seu tempo](https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [no seu tempo](https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg) | 2:38 | 2026-03-20 |  |
 | [Nocaute](https://open.spotify.com/track/38y1KFdUpHjUIWXcUYS8aC) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acrônico](https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr) | 3:55 | 2024-11-22 | 2025-07-26 |
 | [NOITE DE CAÇA](https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [NOITE DE CAÇA](https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH) | 2:38 | 2023-02-14 | 2023-04-29 |

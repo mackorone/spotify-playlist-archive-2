@@ -4,7 +4,7 @@
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Danae
 
-317 songs - 16 hr 9 min
+318 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Granita Lemoni](https://open.spotify.com/track/1d7mMTCDkPB6No9nvJ6Lhc) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Granita Lemoni](https://open.spotify.com/album/6QusMyuqgtSe2W2naYg85e) | 3:36 | 2026-06-18 |  |
 | [GREEK LOVE](https://open.spotify.com/track/5FrtqrsOJd15eXWtKA88vD) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Athena Manoukian](https://open.spotify.com/artist/22YSp71UhSbFP7OP5jx3r0) | [Cruel Summer 3](https://open.spotify.com/album/5PLaA1KlPRZx1DUm7PhN15) | 2:24 | 2026-06-11 |  |
 | [Gremos](https://open.spotify.com/track/3srqDkqUYOt6aEtB0hY9Pt) | [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [Gremos](https://open.spotify.com/album/5WMCQnseeaKn9Cq3fJ9MCJ) | 3:00 | 2025-06-26 | 2025-11-28 |
-| [Gypsy Girl](https://open.spotify.com/track/1YLbaW7lnYHbYBe805jsn2) | [Tania Breazou](https://open.spotify.com/artist/0kLn8jOEDFY8KfArE2wn8r), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Gypsy Girl](https://open.spotify.com/album/6P5HUKAvskokExIqXTZuRr) | 2:22 | 2026-06-25 |  |
+| [Gypsy Girl](https://open.spotify.com/track/1YLbaW7lnYHbYBe805jsn2) | [Tania Breazou](https://open.spotify.com/artist/0kLn8jOEDFY8KfArE2wn8r), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Gypsy Girl](https://open.spotify.com/album/6P5HUKAvskokExIqXTZuRr) | 2:22 | 2026-06-25 | 2026-08-07 |
 | [Gyrismos](https://open.spotify.com/track/4LQd54eTyzSTld755Ke7yY) | [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu), [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [Gyrismos](https://open.spotify.com/album/1dAWCzUopvEyjmSg7py5Cp) | 3:32 | 2024-11-14 | 2025-07-11 |
 | [Gyrna](https://open.spotify.com/track/122ZMmDRmRWfUsMJchWgtx) | [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [Gyrna](https://open.spotify.com/album/15Tqk5XWNfjSJWRZcHM2rq) | 2:37 | 2026-07-09 |  |
 | [Halima](https://open.spotify.com/track/51IOc0jl3D1jzh9gxmYB0n) | [KONY](https://open.spotify.com/artist/0uf238oeLAQXNuy8WNKgce), [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Halima](https://open.spotify.com/album/2Zt6kRIh2TjWqEW1G4y8b7) | 2:49 | 2024-06-27 | 2024-09-13 |
@@ -226,6 +226,7 @@
 | [Oneiro Tha 'Nai Ksana \- Kounia](https://open.spotify.com/track/25JqyktP3AJulyV4wfthln) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Oneiro Tha 'Nai Ksana \(Kounia\)](https://open.spotify.com/album/61gWlmayYlMAWCewqGCTqB) | 4:04 | 2025-07-31 | 2026-01-16 |
 | [Oneiro Vathi](https://open.spotify.com/track/0VU2t3vtbGI8TiVzR0PoFt) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Oneiro Vathi](https://open.spotify.com/album/641o0ItNropWRYCAUZkoTD) | 3:16 | 2026-05-07 |  |
 | [OOH AHH](https://open.spotify.com/track/4myl74vHJYTlDxwWnudejJ) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [OOH AHH](https://open.spotify.com/album/62n0BTJr8prTACfVMLHzw1) | 3:02 | 2025-10-16 | 2026-03-13 |
+| [OPOU KI AN PAS](https://open.spotify.com/track/0MHTVZhRsPi9PcbTceEMq8) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [I TRIED](https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH) | 2:38 | 2026-08-06 |  |
 | [OPWS EGW](https://open.spotify.com/track/0Sr2dBNlujbvwSk29BiGA9) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [KATO](https://open.spotify.com/artist/0AhOwQ26N0W0Q3TlaB9yPK), [Màdu](https://open.spotify.com/artist/6atzjQLN3Lki197lQuscOI) | [XWRA TOU POTE](https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs) | 2:46 | 2025-07-03 | 2026-03-27 |
 | [OUD](https://open.spotify.com/track/7lnUfMqY7VnGPj4KUVHhGP) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [OUD](https://open.spotify.com/album/6mJlXt54EyXm62syGPWMla) | 3:22 | 2026-06-11 | 2026-07-03 |
 | [Our Groove](https://open.spotify.com/track/5uj9FIJ6JsKvvkINJepyCi) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Playmen](https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c), [AD\-1](https://open.spotify.com/artist/0ZrxrZPM8c0HFRJpruO3sJ) | [Our Groove](https://open.spotify.com/album/086ljKcGJjZ5l9RRwPIpyK) | 2:19 | 2024-11-28 | 2025-02-21 |

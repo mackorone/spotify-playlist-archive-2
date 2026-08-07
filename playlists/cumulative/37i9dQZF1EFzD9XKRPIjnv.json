@@ -4083,6 +4083,24 @@
     },
     {
       "album": {
+        "name": "Classics - The Fabulous Cadillacs",
+        "url": "https://open.spotify.com/album/2IJa1TA0j0t06LWl1dt8Ft"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Cadillacs",
+          "url": "https://open.spotify.com/artist/1pxfJicxxf1Ce8OEJnorT3"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110419,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5h09Ksb1ctl0naenwVkrau"
+    },
+    {
+      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },

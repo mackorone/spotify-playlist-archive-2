@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,663 songs - 10 day 10 hr 28 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,667 songs - 10 day 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4671,5 +4671,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4661 | [Memento](https://open.spotify.com/track/1TB66UcMEeZgO6ll0CCkno) | [Zeronne](https://open.spotify.com/artist/2PZeD3cV1t2nYO80gl6pqw) | [Memento](https://open.spotify.com/album/7lWFp6qoGIQ89fRAW3UrX6) | 2:26 |
 | 4662 | [Falling in the Dark](https://open.spotify.com/track/01zOtRs3ClJ6SZrmIKaS1K) | [Light Off](https://open.spotify.com/artist/5uYuktR3yWTTxykLPNHcUu) | [Falling in the Dark](https://open.spotify.com/album/1si9sSzG0ASlUuKRfr5n5A) | 4:00 |
 | 4663 | [If Love Could Touch](https://open.spotify.com/track/5w9YhAAVMcaOYqrlP8NyyO) | [Rixmey Virik](https://open.spotify.com/artist/2kBEpaCHPcPAz4pVFizgpT) | [If Love Could Touch](https://open.spotify.com/album/4vZsap6tVVqQCJKAVYIiSK) | 4:04 |
+| 4664 | [Venom Era](https://open.spotify.com/track/4BxCmLkY01OrdmwCRRGj1x) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [Venom Era](https://open.spotify.com/album/4v10iyNKix3Sn7tHL934di) | 3:25 |
+| 4665 | [LOADSTONE \- SINGOLO](https://open.spotify.com/track/2yLJnJl5fZWU1r5AUkNiBl) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [LOADSTONE \(SINGOLO\)](https://open.spotify.com/album/1Cx5pyhdifjYwPVZESXdJT) | 3:23 |
+| 4666 | [OPEN AND CLOSE YOURSELF](https://open.spotify.com/track/2FxLjv7GfqP0csK1Xc5Br3) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:59 |
+| 4667 | [BLACK STAR \- SINGOLO](https://open.spotify.com/track/7In4JGEpZPLTyuckV69bBV) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [BLACK STAR \(SINGOLO\)](https://open.spotify.com/album/6DrwTjhBvwsIpDHGdGRUdi) | 3:50 |
 
-Snapshot ID: `AAAJissaSWJl+txy/Wl9dxxz7ImPF92T`
+Snapshot ID: `AAAJjmsSSxd7FD+eDyCz8PTmQdxzBwbe`

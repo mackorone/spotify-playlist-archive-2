@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ariana Grande, Shaboozey, Karol G, Slayyyter and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,609,763 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,609,501 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 56 | [SWAGGER](https://open.spotify.com/track/4J0vRdLrMZxr4svgC9olrf) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [SWAGGER](https://open.spotify.com/album/431cOcJZLoFDJz5k1BYCfO) | 2:34 |
 | 57 | [Underneath Your Skin](https://open.spotify.com/track/1b5M5fSUn4P30H8aqD8oM2) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Underneath Your Skin](https://open.spotify.com/album/7e520ZOyJ5LpNG8Bn4qmYZ) | 4:00 |
 | 58 | [Hardwired \(feat\. Miranda Lambert\)](https://open.spotify.com/track/6A297r5nVjE6eXGI6h00SL) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Hardwired](https://open.spotify.com/album/7fDNpo4jPuAmeSN7j8OYPB) | 4:51 |
-| 59 | [Eja Meja](https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Eja Meja](https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA) | 2:38 |
+| 59 | [Eja Meja \(feat\. Asake\)](https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Eja Meja \(feat\. Asake\)](https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA) | 2:38 |
 | 60 | [Mill Town Flood](https://open.spotify.com/track/3Bpwb2QUEoRaHZIc9McVrt) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Mill Town Flood](https://open.spotify.com/album/2lDGkAfM7aHgpf3tQcSMu9) | 5:05 |
 | 61 | [No Effort 2](https://open.spotify.com/track/6M0ZCGGqpTOC0OGiFaJuAA) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [No Effort 2](https://open.spotify.com/album/0Lq5HQZnFwpDTyGzkcWr6Z) | 2:24 |
 | 62 | [Biggest Fan](https://open.spotify.com/track/3TvzWGbGv29XwXqmXO3AdE) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Biggest Fan](https://open.spotify.com/album/4Pd6Ujgk89QcWteQGRDZ2f) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Apple Juice](https://open.spotify.com/track/2YiVdq8CpwD6TL7g3AViG0) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Apple Juice](https://open.spotify.com/album/6bNK63sKEJn7ahzLFgPT3j) | 4:52 |
 | 100 | [Sugar Trap](https://open.spotify.com/track/0j38sAqoc1QL4MoccmWxD2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Sugar Trap](https://open.spotify.com/album/5R7ggWmHJEuPapIoiqfKR3) | 3:09 |
 
-Snapshot ID: `AAAAAPKMprK4enYaOJQV3lD9eTE2KYHA`
+Snapshot ID: `AAAAALZnYztJd/FggdLs+Q8ywx+sIg4X`

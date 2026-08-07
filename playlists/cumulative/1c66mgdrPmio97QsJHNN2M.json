@@ -5161,6 +5161,24 @@
     },
     {
       "album": {
+        "name": "Book Of The Year",
+        "url": "https://open.spotify.com/album/5I0bWkG5rFppcyHwWKjwvu"
+      },
+      "artists": [
+        {
+          "name": "Cardinal Verlengo",
+          "url": "https://open.spotify.com/artist/7qTS4fsJD0uBmFW0H7cdh1"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181160,
+      "name": "Book Of The Year",
+      "url": "https://open.spotify.com/track/3LWoSvKMSDb8u9fCe9AUk2"
+    },
+    {
+      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/044cF6YlHehBMx2N5pV0Jo"
       },
@@ -5640,6 +5658,24 @@
       "duration_ms": 178909,
       "name": "Bring Back the Feeling",
       "url": "https://open.spotify.com/track/09mfLrHrJZlJrzcogIIVCY"
+    },
+    {
+      "album": {
+        "name": "Hard Turn",
+        "url": "https://open.spotify.com/album/4lXWK5r5YmCjltZMO663p3"
+      },
+      "artists": [
+        {
+          "name": "Beat Riff",
+          "url": "https://open.spotify.com/artist/2TJdRHhIYmqaO5z7HhTKN7"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216920,
+      "name": "Bro-trayal",
+      "url": "https://open.spotify.com/track/3piWmDSJJ5okDmUImTT60Q"
     },
     {
       "album": {
@@ -24830,6 +24866,24 @@
       "duration_ms": 287100,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/3eLwumm3ieQzPeFtVPTO5p"
+    },
+    {
+      "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/30FKjn2avplJWAnskG85st"
+      },
+      "artists": [
+        {
+          "name": "PM Boredom",
+          "url": "https://open.spotify.com/artist/6dzLWk82ZkShCKRdU5q7pO"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184627,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/3yz43mqNcGvfcGZib491i5"
     },
     {
       "album": {

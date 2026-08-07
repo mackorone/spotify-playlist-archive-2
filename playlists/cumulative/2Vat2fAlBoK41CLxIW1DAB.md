@@ -4,7 +4,7 @@
 
 > 
 
-1,113 songs - 2 day 22 hr 4 min
+1,119 songs - 2 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Can You Feel My Love \(Again\)](https://open.spotify.com/track/6uaCOuFgcFoMQ0HdGF0IWp) | [Gtarzee](https://open.spotify.com/artist/3kaWNk0UpFsWvRe0OlFlxF) | [Ducks in a Row](https://open.spotify.com/album/3670Hwno3gWqxhmqfciuZ4) | 6:02 | 2025-09-04 |  |
 | [Can You Hear It?](https://open.spotify.com/track/44RkWmQ2u6H4x4b9f9iABQ) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It? \(The Deluxe Edition\)](https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89) | 3:21 | 2025-11-20 |  |
 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/22skzmqfdWrjJylampe0kt) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1), [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 4:18 | 2024-11-02 |  |
+| [Carpe Diem](https://open.spotify.com/track/1ePuMbJvzw6sYp715igXf0) | [Damaged & Co.](https://open.spotify.com/artist/4eFPVyywxPZeake2ATbQrk) | [Life's Grand Delusion](https://open.spotify.com/album/7v31yZRkX1t0b98BMlEjbd) | 3:29 | 2026-08-06 |  |
 | [Carry Me Home](https://open.spotify.com/track/1zuLW7VWtbrvNtdn2KVE9j) | [Bad Valentines](https://open.spotify.com/artist/3xVdUhudpYUp6NH3Pim0sd) | [Memory Tattoos](https://open.spotify.com/album/225MfCZIbTNTA5m9tOollK) | 3:43 | 2025-10-09 |  |
 | [Catching Matches](https://open.spotify.com/track/4lz4R6m5RGwov6GMn6K3XC) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Catching Matches](https://open.spotify.com/album/4Gw7FiyA9Dn0V6QUIadeMQ) | 3:28 | 2026-01-06 |  |
 | [Catching Matches](https://open.spotify.com/track/6E6mN52PjtMl9I0fEtPdLL) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [The End Is Always Nigh, The End Is Never Now](https://open.spotify.com/album/7azdUfeULBd4TBHO1NKoUy) | 3:28 | 2026-06-21 |  |
@@ -340,6 +341,7 @@
 | [FROZEN](https://open.spotify.com/track/5UzSYODh9a42aHQ38jGWH7) | [Jo\. Flip](https://open.spotify.com/artist/2Rxtawadh37wL5T3Oq3kMS) | [FROZEN](https://open.spotify.com/album/2ZRZoQXqvurnNjxvDjQy1b) | 1:57 | 2024-12-04 |  |
 | [Frozen Lusters of Shattered Purity](https://open.spotify.com/track/7s4A4kjY9ZEqioiu08jPyU) | [Trails of Anguish](https://open.spotify.com/artist/6LUo6fHv3BDFWskGqljGlP) | [Frozen Lusters of Shattered Purity](https://open.spotify.com/album/7wk0cRINe5xCLEIb3zzb3h) | 4:24 | 2026-03-06 |  |
 | [Fruit Flies](https://open.spotify.com/track/6rY8QNp26wvxJIZcOLpLLp) | [Semachos](https://open.spotify.com/artist/1CG5ZIyrRrIWEBMMu6cvLH) | [Fruit Flies](https://open.spotify.com/album/28WvifoppUEl3lL0iRmxfT) | 2:42 | 2025-10-09 |  |
+| [Fuck It, Let’s Go Bowling](https://open.spotify.com/track/1nVy9utuNfq77uaQTm4v5t) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Too Broke For Money](https://open.spotify.com/album/7MX4Q2DfTrscHAIl5SoUtZ) | 1:35 | 2026-08-06 |  |
 | [Future \#1](https://open.spotify.com/track/2MbuXgY5GbsbeDtTA22v8T) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Strains](https://open.spotify.com/album/1sSopvKkS0Y38hLgXBGyVx) | 3:23 | 2025-05-15 |  |
 | [Galaxy Of Delights](https://open.spotify.com/track/1sHlpl3JBOzquWXye4KQ7j) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 3:31 | 2026-05-15 |  |
 | [Ganância](https://open.spotify.com/track/52exrDs5KivzWvtg4e7LEc) | [BRAVA HC](https://open.spotify.com/artist/5xCfJYUnnIkUjjuIA0tfUn) | [Ganância](https://open.spotify.com/album/5bvIVnNAxlGJLVcKpm2pWY) | 3:16 | 2025-09-04 |  |
@@ -629,6 +631,7 @@
 | [Nordrvindr](https://open.spotify.com/track/5ykbhRr5pjeaZAQ4eSbWcW) | [Mazze](https://open.spotify.com/artist/5xK3y54jgC0trOcG18yFsF) | [Nordrvindr](https://open.spotify.com/album/5Q0EwjsNZVzPSBTkcohMgL) | 4:30 | 2025-09-19 |  |
 | [Nosferatu I Am](https://open.spotify.com/track/7sZudFcX8k2nTqwFqMcsIL) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Nosferatu I Am](https://open.spotify.com/album/5Q3P0mQdUDQ8XRQ45CHz9j) | 3:21 | 2025-08-06 |  |
 | [Not Another Eve](https://open.spotify.com/track/3GKyiNlqeseN66aagi5siy) | [Lilith Rising](https://open.spotify.com/artist/6OL9gPy8ipfdwLCSaH5vrs) | [Not Another Eve](https://open.spotify.com/album/5yuVAkWRJnCuuuFzoxUtzu) | 5:54 | 2025-02-07 |  |
+| [Not Good Looking](https://open.spotify.com/track/18nzCaK563NXqbAISp4Ugc) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Not Good Looking](https://open.spotify.com/album/4vfFHUGpEigDldRb9SuhRo) | 3:34 | 2026-08-06 |  |
 | [not the same](https://open.spotify.com/track/3y5BPGWQ5LhGKiUgXTA6SP) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [not the same](https://open.spotify.com/album/4UwcCpTP14Q8rOS6T5IShF) | 2:59 | 2024-12-12 |  |
 | [Nothing Left to Say](https://open.spotify.com/track/06nWF6GnNLNx6L2v4UhXdy) | [Fortune Teller](https://open.spotify.com/artist/6xllSn5EskHUgWGzc7cAsm) | [Nothing Left to Say](https://open.spotify.com/album/2VdtNNQqbvNACHeqGDYoLp) | 2:58 | 2025-07-28 |  |
 | [Nothing's Missing](https://open.spotify.com/track/5MQfnGPzdOb87WxCdXXhOf) | [Libricide](https://open.spotify.com/artist/7mwWvfYHOf6bIrvCH96hzE) | [Nothing's Missing](https://open.spotify.com/album/2fbNqeNfdQ4gGw9VpuZHia) | 3:57 | 2025-09-16 |  |
@@ -787,6 +790,7 @@
 | [Schlachthaus der Welt](https://open.spotify.com/track/3bhV3wfxe4g3wpxQXMBaSL) | [ARTIKEL 5](https://open.spotify.com/artist/2PJXx1qJZ40679Bvv0vkeU) | [Schlachthaus der Welt](https://open.spotify.com/album/1SpggzfzC7zV01IUz6srWG) | 3:41 | 2025-07-17 |  |
 | [Scream & Shout](https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [\#willpower](https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb) | 4:43 | 2024-11-12 |  |
 | [Search for Reality](https://open.spotify.com/track/6qmb4yo0OoFrAigCklReBt) | [van HOB](https://open.spotify.com/artist/7v8PUdfmhuEtfM8WthheHS), [Hagen Bleeck](https://open.spotify.com/artist/0TXUCVJe1FJ71naHn3NPfF) | [Search for Reality](https://open.spotify.com/album/45TYvZcc4S8AvzLBVPN8vA) | 9:56 | 2024-12-12 |  |
+| [Sechzehn ∞](https://open.spotify.com/track/1LUJwLn9sqGjO7n1ddGn14) | [Salomon](https://open.spotify.com/artist/4YKj15D8O9RCkEZ1mhA9tn) | [Sechzehn ∞](https://open.spotify.com/album/4Riqr5rLUZpvzgztN2nZFt) | 3:21 | 2026-08-06 |  |
 | [See](https://open.spotify.com/track/431jUylIf8fz1Sp2r3u6k0) | [Clouds Indoor](https://open.spotify.com/artist/5p1Y1a5nA5iYrGhgTG8egU) | [See](https://open.spotify.com/album/3OWxsEHk8EYwyDd26sQGGE) | 3:28 | 2025-09-16 |  |
 | [Seeing Signs](https://open.spotify.com/track/55AdDz3Acqw57YCtjvswVX) | [Nicole Ash](https://open.spotify.com/artist/53Zt8SoJ4qBvKLwdE5h0QH) | [Seeing Signs](https://open.spotify.com/album/2GVZQcyBJMFM16DDZuL2DE) | 3:28 | 2025-09-04 |  |
 | [Selection](https://open.spotify.com/track/73QgeFPtGEvsZyq44q6sdE) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Selection](https://open.spotify.com/album/6smzkuQH1bt4CaQeOsLTjM) | 3:26 | 2026-05-30 |  |
@@ -795,6 +799,7 @@
 | [SEN&MEN](https://open.spotify.com/track/1IFvymGeO3inUDGNJ1rlmi) | [qoñyr äwen](https://open.spotify.com/artist/3rKOiVVoe3lMcH0CSJ8ciU) | [SEN&MEN](https://open.spotify.com/album/7fzqGrb7b1j8qOMlueA4GY) | 3:32 | 2025-06-12 |  |
 | [Sereno na Cidade](https://open.spotify.com/track/6UyV1lCHlh0eC04sgDLrTD) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz) | [Sereno na Cidade](https://open.spotify.com/album/6hgys6Aq2K3lxskVGBdqTx) | 2:22 | 2024-11-30 |  |
 | [Set Me Free](https://open.spotify.com/track/6seMH1qLayGXcFXfsLVTvA) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Set Me Free](https://open.spotify.com/album/6XsmQHBLa8LCRBAgJmW05D) | 3:41 | 2025-07-17 |  |
+| [Shadows in the Rain](https://open.spotify.com/track/5H1h9lPxcjDFHcF0AcUlQb) | [Nights Like Thieves](https://open.spotify.com/artist/4Cko9sylBuS1mZsqiU9692) | [Shadows in the Rain](https://open.spotify.com/album/5sRVHNjuHYpe18uOAZLBtu) | 3:37 | 2026-08-06 |  |
 | [Shakeout](https://open.spotify.com/track/5UxnEbI9VDRiyxcEMhVOaU) | [Summer Colds](https://open.spotify.com/artist/1KO4w7F0yxQpGqN6w5unBn) | [Shakeout](https://open.spotify.com/album/1tuHXOe3br042DLr0UEoqS) | 3:19 | 2026-04-12 |  |
 | [Shattered Glass](https://open.spotify.com/track/0hCJ2A6ENHF1p1WsflnlkA) | [C\_J](https://open.spotify.com/artist/2YVPBrRzDMRfRimq2jCUxD) | [3 Song EP](https://open.spotify.com/album/3EN7cWng3p6z90TeayWbLM) | 4:01 | 2025-11-04 |  |
 | [she needs me](https://open.spotify.com/track/1NHRpdyBfMRi9NP0fT7Jdm) | [sweet spot](https://open.spotify.com/artist/5g6lh5OdzecBe9pZMADJ94) | [catalyst](https://open.spotify.com/album/0aYadRD3G74uO6MM5A6g81) | 3:42 | 2025-06-30 |  |
@@ -862,6 +867,7 @@
 | [Staring Death in the Eye](https://open.spotify.com/track/5ToKpeFR1VAZaiQnT6udXF) | [My Escape](https://open.spotify.com/artist/1r5qGHsIkbMAUVD0hQw2AF) | [Staring Death in the Eye](https://open.spotify.com/album/1yddAnpTpuzjKNZh42oqRO) | 4:04 | 2024-12-12 |  |
 | [Stars Align](https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stars Align](https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S) | 3:36 | 2025-02-05 |  |
 | [Starting to Remember How Much I Forgot](https://open.spotify.com/track/4DPRKTginZ5orODg84OVyd) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Starting to Remember How Much I Forgot](https://open.spotify.com/album/5A9Ct6ApsEwbNlcobRXSvC) | 3:53 | 2026-05-02 |  |
+| [station to station](https://open.spotify.com/track/5IkE5yTdvCp8uQEG1cfKJr) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [station to station](https://open.spotify.com/album/3wKFIqTF9YtkNhoQ8LvamN) | 5:12 | 2026-08-06 |  |
 | [Stay Around](https://open.spotify.com/track/0Yc74kLuqZa7aCwuWwitpI) | [Saio drmz.](https://open.spotify.com/artist/3OJYsG9A6SkbLijxYy3P4F) | [Message to Myself](https://open.spotify.com/album/6VE8exUJSCbILUvB1ocaXC) | 2:49 | 2025-07-17 |  |
 | [Stay At Home](https://open.spotify.com/track/0zMVaRYrNEMaCqcr92Yc3R) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Stay At Home](https://open.spotify.com/album/2v2AqG7Ct5A8qWJEsz7fwo) | 3:32 | 2025-07-25 |  |
 | [Stays the Same](https://open.spotify.com/track/5Ew8XPwCxXcw54xu02usGc) | [We Like Roy](https://open.spotify.com/artist/2ZCiTJNBxKhzZEap4jxbUd) | [Stays the Same](https://open.spotify.com/album/2I9H2U9iVxrfk4fjq1fi9P) | 2:48 | 2026-04-26 |  |

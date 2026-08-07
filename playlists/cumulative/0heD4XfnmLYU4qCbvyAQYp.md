@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-146 songs - 9 hr 24 min
+150 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Durango 99](https://open.spotify.com/track/6VDuKcHNgUY77G5ySWOFIX) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Durango 99](https://open.spotify.com/album/6fC5Q1eFDunGgY2BSUpUfZ) | 1:35 | 2025-11-02 |  |
 | [Dutch for a Day](https://open.spotify.com/track/4A3j2sJk5lygsZ1cwrd4mk) | [Urs Ruf](https://open.spotify.com/artist/0KPIxZ2aLcB0Zlu14GPk1d) | [Dutch for a Day](https://open.spotify.com/album/3krX4MJQw2alLPlFSnO13Z) | 3:03 | 2025-05-04 | 2025-12-08 |
 | [Every Where](https://open.spotify.com/track/4y2chq4TIDQr6dVnMuvB0X) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 4:45 | 2025-09-09 | 2025-12-08 |
+| [Eyes Closed](https://open.spotify.com/track/6X12EdM1tB2fPOjlwTIFul) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Eyes Closed](https://open.spotify.com/album/0jsMmLjYnphdPmOBgiAuvV) | 3:17 | 2026-08-06 |  |
 | [Fake Empire](https://open.spotify.com/track/65aZDJQwNllPxuLPixJ4YO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:25 | 2025-07-31 |  |
 | [Feeling](https://open.spotify.com/track/1aac1kuHZNKvUCPbNkPrjd) | [Amber View](https://open.spotify.com/artist/4PFFRw0s8pAuo96glIcFBC) | [Feeling](https://open.spotify.com/album/6ixZhNfLmOmNP07YNXBpvw) | 3:42 | 2025-12-10 | 2026-02-07 |
 | [Felt Cute, Might Delete Later](https://open.spotify.com/track/78RMNtziAVWymdQK6kj1r6) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk) | [Felt Cute, Might Delete Later](https://open.spotify.com/album/3RhJ9xe3wPepN4GZwnx1mK) | 3:12 | 2025-11-24 | 2026-02-07 |
@@ -96,6 +97,7 @@
 | [Naive](https://open.spotify.com/track/1pwJ5C8Zk7nJOPWp1TaTho) | [Chuck Mullen](https://open.spotify.com/artist/341qXStb1CSIdiK1Mn8sWO) | [Naive](https://open.spotify.com/album/4tPRMAuDEMULUguQjnCjjc) | 3:45 | 2025-11-04 | 2025-12-08 |
 | [Neanderthal](https://open.spotify.com/track/5RTMnfJSu8lRZOZcKSgQde) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 2:28 | 2026-04-04 |  |
 | [Night Crawls](https://open.spotify.com/track/1nhRmnr2vlqzE6B1rqChJx) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz), [Sick Century](https://open.spotify.com/artist/59hC0TFyMDFOLBEpYcsgFZ) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:40 | 2025-11-04 | 2025-12-08 |
+| [No Way Out](https://open.spotify.com/track/7bqpJArivuugIHtOWnPWPf) | [DH Litra](https://open.spotify.com/artist/3BPt1GOuVCLI4qdCAJvv47) | [No Way Out](https://open.spotify.com/album/7xObv5MyYgaSJirgoBPmDa) | 3:08 | 2026-08-06 |  |
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2025-12-17 | 2026-02-07 |
 | [One More Second](https://open.spotify.com/track/7GMHFVwsXtccxFVa90ORkY) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Alice Gerschpacher](https://open.spotify.com/artist/5S2264Wy4QpAv1NEXn2Boy) | [One More Second](https://open.spotify.com/album/4w7qh1fyGEA7fSwAK39NMk) | 5:20 | 2025-05-04 |  |
 | [Open Mind \- Radio Edit](https://open.spotify.com/track/1Th8P3kgdtBbjkrkUmLRfY) | [Pol Sembrano](https://open.spotify.com/artist/5n6eyDpDiKTKxG9BTPAC00) | [Open Mind \(Radio Edit\)](https://open.spotify.com/album/6sMLueYKYIsJE6aa5JBvVh) | 3:40 | 2026-03-11 | 2026-05-16 |
@@ -112,6 +114,7 @@
 | [See You In The Wind](https://open.spotify.com/track/4zV9OGWWiW64XkdwvV8GYD) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [See You In The Wind](https://open.spotify.com/album/3lJRKYhDtNEI2rcDP3q4Do) | 3:02 | 2026-01-19 | 2026-02-07 |
 | [Seen It There](https://open.spotify.com/track/1ggOQJscEnaCqZbqYalW0Z) | [Pjn](https://open.spotify.com/artist/4T4eiCiGgdTxxCXbaxNYkt) | [Fragments Remain](https://open.spotify.com/album/02YCm3On9kVVdljckcMwLk) | 4:03 | 2026-05-15 |  |
 | [Shadows](https://open.spotify.com/track/2XNu31N13CPRtrlzLRzdPq) | [Tiszavirag](https://open.spotify.com/artist/2wSUuggTn3dmDSjR5kLhsR) | [Shadows](https://open.spotify.com/album/1lY64IUTTZg7BLfAPpIevO) | 3:15 | 2025-11-02 | 2026-04-05 |
+| [Shatter The Silence](https://open.spotify.com/track/3X8OW5FgyBs1KLhCS4A2rw) | [The Quiet Violence](https://open.spotify.com/artist/4UQ6F6qyHBEBWa2LyUFmLd) | [Shatter The Silence](https://open.spotify.com/album/6m1TGafjhdLDythkXvNtjW) | 4:00 | 2026-08-06 |  |
 | [shine!](https://open.spotify.com/track/12FJOrGXlwUjyZoVHEQRnC) | [Bishesh Silwal](https://open.spotify.com/artist/0gh2ztSK87CtLjYwEDSITZ) | [shine!](https://open.spotify.com/album/0PQROcnMgrVm3ajmdIoItH) | 3:15 | 2025-12-17 | 2026-02-07 |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-11-14 | 2025-12-08 |
 | [Silent code](https://open.spotify.com/track/6aYkXZKiZtZdzKogJ5ghFn) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Puppets Know](https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy) | 5:03 | 2025-11-24 | 2026-02-07 |
@@ -119,6 +122,7 @@
 | [Slave to the Algorithm](https://open.spotify.com/track/1vm5UoeZJpV7XA3OpfMJSp) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Slave to the Algorithm](https://open.spotify.com/album/1apolZrhmYbQKVRkEgMFiP) | 3:00 | 2025-11-09 | 2026-05-16 |
 | [Someone](https://open.spotify.com/track/2f73kinXdRlLhCjjza6aUe) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Someone](https://open.spotify.com/album/76vWBdmlbLoYJrrKPAvbEp) | 4:45 | 2025-05-04 |  |
 | [starbound](https://open.spotify.com/track/2lrsKVxuYrmodpdmNhnsOd) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [starbound](https://open.spotify.com/album/08OpQIuyaFZftKaf9r1FuK) | 3:04 | 2025-11-04 | 2025-12-08 |
+| [Still Here](https://open.spotify.com/track/5bAdS7FIyNwWxitOWY6XTu) | [Long Before Sunday](https://open.spotify.com/artist/0KZx907RBfXzptJlIyFrGi) | [Still Here](https://open.spotify.com/album/0JBrgQlWV3rHV3zkWD9uga) | 4:24 | 2026-08-06 |  |
 | [Storm](https://open.spotify.com/track/4zco59LEN14IqrtaKHVIQq) | [Under The Pendulum](https://open.spotify.com/artist/2lQOBQMkqxOvrVdphflRKP) | [Storm](https://open.spotify.com/album/3VpAsksWzfNm6r7cHL8w6t) | 3:52 | 2025-12-11 | 2026-02-07 |
 | [Super Eroe](https://open.spotify.com/track/0fttEm7huFVdnnsuTJIah7) | [L'orca](https://open.spotify.com/artist/3Otlm558Nxk1NbixN4qgmp) | [Super Eroe / La Stazione Più Vicina](https://open.spotify.com/album/1dYn12PDPIJDnsb1ADPnlc) | 3:46 | 2025-05-04 | 2026-05-16 |
 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 | 2025-11-24 | 2026-02-07 |

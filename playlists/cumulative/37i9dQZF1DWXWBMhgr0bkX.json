@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New pop releases from the UK & Ireland \ud83c\udf1f\ncover: Natanya",
+  "description": "New pop releases from the UK & Ireland \ud83c\udf1f\ncover: Sebastian Schub",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 232666,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/1N9IeARyJvRI9Fv5XMpih4"
@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178822,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+    },
+    {
+      "album": {
         "name": "Babyline",
         "url": "https://open.spotify.com/album/47AXiuVNP3ShLjhVjep2TW"
       },
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 242345,
       "name": "Babyline",
       "url": "https://open.spotify.com/track/4Y6qlDD9AQ6BfDHqloSeP4"
@@ -7925,6 +7943,24 @@
     },
     {
       "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/6iOmQwUeqAxqksudddIRbv"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Steer",
+          "url": "https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/59k6IKbmZ41Nb7AHWkD44E"
+    },
+    {
+      "album": {
         "name": "flicker",
         "url": "https://open.spotify.com/album/2n9gFIJb9vyxlnz6YZR7pM"
       },
@@ -8322,6 +8358,24 @@
       "duration_ms": 182395,
       "name": "Freckleface",
       "url": "https://open.spotify.com/track/01vJXrCDBBRfQcZmK76VsM"
+    },
+    {
+      "album": {
+        "name": "French Kiss",
+        "url": "https://open.spotify.com/album/704OaJFjAJpcWmraZTxgZo"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168600,
+      "name": "French Kiss",
+      "url": "https://open.spotify.com/track/2LC05eWnoUgeQaTK7mGZgp"
     },
     {
       "album": {
@@ -9377,6 +9431,24 @@
     },
     {
       "album": {
+        "name": "haven\u2019t found love.",
+        "url": "https://open.spotify.com/album/5adelMOkx04sITILgdP5tw"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176324,
+      "name": "haven\u2019t found love.",
+      "url": "https://open.spotify.com/track/2SMQtb6HabOW6Uo8ocVske"
+    },
+    {
+      "album": {
         "name": "He Wants Me",
         "url": "https://open.spotify.com/album/1T2Rmm0ey67cVxLsg1oQHg"
       },
@@ -10098,7 +10170,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 160961,
       "name": "HOMECOMING",
       "url": "https://open.spotify.com/track/3Mp3dTqoABUhSbkTiTR6pg"
@@ -11373,6 +11445,24 @@
     },
     {
       "album": {
+        "name": "If You Ever Loved Me",
+        "url": "https://open.spotify.com/album/1H4V4rCppexGI2Ubqs1N8V"
+      },
+      "artists": [
+        {
+          "name": "Hope Winter",
+          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172349,
+      "name": "If You Ever Loved Me",
+      "url": "https://open.spotify.com/track/1RzL3slVvnwjo06s4rgM6x"
+    },
+    {
+      "album": {
         "name": "if you were gone",
         "url": "https://open.spotify.com/album/2CoYSM7kuuPTGp2SWDJ84G"
       },
@@ -11698,6 +11788,24 @@
       "duration_ms": 139778,
       "name": "Infinity (123)",
       "url": "https://open.spotify.com/track/0hxm1fqvdrGLRbf1RF6wID"
+    },
+    {
+      "album": {
+        "name": "Heavenly Bodies",
+        "url": "https://open.spotify.com/album/3bEdIVHkADHY128d4jRy2i"
+      },
+      "artists": [
+        {
+          "name": "Alex Amor",
+          "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344347,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/0nxSTxDxITyqRnYETEIRKG"
     },
     {
       "album": {
@@ -12821,6 +12929,24 @@
     },
     {
       "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/6Uel6cr5Fpp6WSlQDkbsxJ"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gordon",
+          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212013,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk"
+    },
+    {
+      "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/3W6KU0JXAeC0CyX7tjssQg"
       },
@@ -12854,6 +12980,24 @@
       "duration_ms": 146474,
       "name": "let me love you",
       "url": "https://open.spotify.com/track/2RYbGQvmeIs1ybAV7oLfKr"
+    },
+    {
+      "album": {
+        "name": "Let's Make A (Fucking) Baby",
+        "url": "https://open.spotify.com/album/16i1l4ektijapcSxpTaqxG"
+      },
+      "artists": [
+        {
+          "name": "Polly Money",
+          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184651,
+      "name": "Let's Make A (Fucking) Baby",
+      "url": "https://open.spotify.com/track/4Bpq0ra8YsD9nFuiFGZLkB"
     },
     {
       "album": {
@@ -16505,6 +16649,24 @@
     },
     {
       "album": {
+        "name": "Perfect (Idols)",
+        "url": "https://open.spotify.com/album/0i8dPvsHJSsGLXvxYheshX"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187857,
+      "name": "Perfect (Idols)",
+      "url": "https://open.spotify.com/track/0qHwXpXv9Yib4aZMzW21bX"
+    },
+    {
+      "album": {
         "name": "Perfectly",
         "url": "https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD"
       },
@@ -18080,7 +18242,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 193803,
       "name": "Roses In The Dark",
       "url": "https://open.spotify.com/track/7jWryoFLkDR1jeht78uUeQ"
@@ -19197,6 +19359,24 @@
     },
     {
       "album": {
+        "name": "sickofmyself",
+        "url": "https://open.spotify.com/album/4ZYBoNjGD3MnfpJgFX2HW2"
+      },
+      "artists": [
+        {
+          "name": "Saskia",
+          "url": "https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211753,
+      "name": "sickofmyself",
+      "url": "https://open.spotify.com/track/6raJqhmnpOyHr5n7QJI1cC"
+    },
+    {
+      "album": {
         "name": "Sidekick",
         "url": "https://open.spotify.com/album/2ZjO30TBy2hCRoFdZj2gUv"
       },
@@ -19208,7 +19388,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 197176,
       "name": "Sidekick",
       "url": "https://open.spotify.com/track/2dnkypL7uPTydT483Ptaoj"
@@ -21884,7 +22064,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 207959,
       "name": "The Swell",
       "url": "https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS"
@@ -23964,6 +24144,24 @@
       "duration_ms": 173691,
       "name": "you already know",
       "url": "https://open.spotify.com/track/6E2w1MMP88fB2aiZTxa3RJ"
+    },
+    {
+      "album": {
+        "name": "You Are Never Gone From Me",
+        "url": "https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ"
+      },
+      "artists": [
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212055,
+      "name": "You Are Never Gone From Me",
+      "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
     },
     {
       "album": {

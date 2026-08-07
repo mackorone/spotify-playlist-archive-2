@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-336 songs - 18 hr 53 min
+337 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Aquarela: Aviador](https://open.spotify.com/track/2zHfO8ye2LPw4r8cjgh7UD) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Juliano Moreira](https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL), [Aquarela](https://open.spotify.com/artist/0ly4o2fdFAf19DOOC0vv8m), [Brenda Luce](https://open.spotify.com/artist/0Tlf2OcP0TAOc6Y3RqJ9Qz), [Glenda Rolim](https://open.spotify.com/artist/2NqjLcW1LVMYcIcTV5J1WO) | [Aquarela: Aviador](https://open.spotify.com/album/180pnhueoUeVKiOyiRR2DO) | 4:25 | 2022-02-18 | 2026-03-06 |
 | [Aquele Frevo Axé](https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 3:52 | 2022-04-01 | 2022-04-20 |
 | [Asas](https://open.spotify.com/track/1lmcHmrnwCl21OcPRY3ZVb) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 4:34 | 2022-04-01 | 2022-04-20 |
-| [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 | 2025-07-18 |  |
+| [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 | 2025-07-18 | 2026-08-07 |
 | [Azul Piscina](https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Azul Piscina](https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW) | 3:19 | 2026-05-29 |  |
 | [Bahia](https://open.spotify.com/track/1aPcMCHhZKe7Q01We5t95u) | [Victor Cali](https://open.spotify.com/artist/2ZWCKKr8IDfkWL54yTLBVt) | [Bahia](https://open.spotify.com/album/3N0W10HmqZgRGSh7McYWCg) | 2:09 | 2025-02-07 | 2025-02-22 |
 | [Baiana](https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:53 | 2022-04-01 |  |
@@ -150,6 +150,7 @@
 | [Eu Me Lembro](https://open.spotify.com/track/5V5yANPr6BTgo11cztb1YQ) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/0akQmF4V1Y5aR1ndGmrbKC) | 3:37 | 2022-04-01 | 2022-04-20 |
 | [Farol](https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Farol](https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z) | 2:25 | 2022-04-01 | 2022-04-16 |
 | [Faz Bem \(Remoto\)](https://open.spotify.com/track/519dlI8wnI3klKGhUiNhPv) | [Sávio](https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz), [Júlia Pinho](https://open.spotify.com/artist/069jZOSC75oYXarD6wc7PB) | [Faz Bem \(Remoto\)](https://open.spotify.com/album/7rWbIKgjwSob2fD8NrN0ph) | 2:59 | 2022-04-01 | 2022-07-24 |
+| [Faço Parar de Chover](https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Faço Parar de Chover](https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu) | 3:19 | 2026-08-07 |  |
 | [FEBRE](https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:58 | 2024-08-19 | 2026-01-20 |
 | [Felicidade](https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:12 | 2022-02-18 |  |
 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 | 2022-02-18 |  |

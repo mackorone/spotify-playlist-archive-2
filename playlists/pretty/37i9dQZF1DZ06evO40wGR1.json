@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 42340,
+  "num_followers": 42349,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am/aAAAAAAC2YvaTbdO/nMqYC/o9X9dR",
+  "snapshot_id": "anJ9AAAAAAC2Hzu8kLpuQzwQoPenBtNW",
   "tracks": [
     {
       "added_at": null,
@@ -415,38 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cham\u00e1n",
-        "url": "https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 285893,
-      "name": "Cham\u00e1n",
-      "url": "https://open.spotify.com/track/4RWdBsWdQ2VBEOMz58EXa8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D.F.",
-        "url": "https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "Un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/452k6YfwmgEowaTVupBo9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Diablo",
         "url": "https://open.spotify.com/album/3bLB1fxupRpzlj3heJkAzP"
       },
@@ -459,22 +427,6 @@
       "duration_ms": 235000,
       "name": "El Tren",
       "url": "https://open.spotify.com/track/7FEVzk8oZ43d1s09X6zrdd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "Josefina",
-      "url": "https://open.spotify.com/track/3hI44ZnraKYADDH5tKo71q"
     },
     {
       "added_at": null,
@@ -495,6 +447,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cham\u00e1n",
+        "url": "https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 285893,
+      "name": "Cham\u00e1n",
+      "url": "https://open.spotify.com/track/4RWdBsWdQ2VBEOMz58EXa8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "Josefina",
+      "url": "https://open.spotify.com/track/3hI44ZnraKYADDH5tKo71q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D.F.",
+        "url": "https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "Un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/452k6YfwmgEowaTVupBo9s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siguiendo La L\u00ednea",
         "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 254615,
       "name": "Sin Tu Latido",
       "url": "https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cambios",
-        "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 239583,
-      "name": "Eres Fuego",
-      "url": "https://open.spotify.com/track/5gk0b8wA06lvW2xxVHTbu7"
     },
     {
       "added_at": null,
@@ -543,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Aniversario",
-        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+        "name": "Cambios",
+        "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
       },
       "artists": [
         {
@@ -552,9 +536,25 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 200388,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv"
+      "duration_ms": 239583,
+      "name": "Eres Fuego",
+      "url": "https://open.spotify.com/track/5gk0b8wA06lvW2xxVHTbu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Va por Ti",
+        "url": "https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/2iSj3AfJodVCat05Pp7a7r"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va por Ti",
-        "url": "https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT"
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 195413,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/2iSj3AfJodVCat05Pp7a7r"
+      "duration_ms": 200388,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 258438,
-      "name": "No Puedo So\u00f1ar",
-      "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
         "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 272146,
       "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
       "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 258438,
+      "name": "No Puedo So\u00f1ar",
+      "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juntos por el Rock, Vol. 2",
-        "url": "https://open.spotify.com/album/3QkDfFUpzoOUYlIo9feu9a"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 260186,
-      "name": "El Pasado",
-      "url": "https://open.spotify.com/track/4NjpCEcK6ja9lysf1mNqky"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 288293,
       "name": "Le Dir\u00e9 a las Estrellas",
       "url": "https://open.spotify.com/track/4kstyJBA1kmcBmvVJu9SDv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juntos por el Rock, Vol. 2",
+        "url": "https://open.spotify.com/album/3QkDfFUpzoOUYlIo9feu9a"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 260186,
+      "name": "El Pasado",
+      "url": "https://open.spotify.com/track/4NjpCEcK6ja9lysf1mNqky"
     }
   ],
   "unique_name": "This Is Liran' Roll",

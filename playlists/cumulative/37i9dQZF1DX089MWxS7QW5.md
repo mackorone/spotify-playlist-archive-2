@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: siso & ALICE U\)
 
-662 songs - 1 day 11 hr 25 min
+663 songs - 1 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Over \(feat\. Minna Seo\)](https://open.spotify.com/track/73yIDUabO9HGpA71KsMwIP) | [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq), [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [Over \(feat\. Minna Seo\)](https://open.spotify.com/album/0Hh6ZWhJU9WzsN8PMEscEh) | 3:49 | 2023-12-18 | 2024-05-24 |
 | [pado ballad](https://open.spotify.com/track/7sKi4MTWJJIPXCik8yLmRV) | [Lahne](https://open.spotify.com/artist/2f6UH261iYhBitmwklLAlH) | [Blue Interior](https://open.spotify.com/album/5laWpGYSMaZiscOja0W4u1) | 3:42 | 2022-07-04 | 2022-11-15 |
 | [palindrome](https://open.spotify.com/track/1dVkhC11bocbMGiJw8RZ0I) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [palindrome](https://open.spotify.com/album/7KSmXVUSnMZRG0jQghsTVh) | 3:08 | 2024-08-04 | 2024-09-14 |
+| [palm tree \(feat\. Summer Soul\)](https://open.spotify.com/track/2qZ4n0v5FFUzYQ5lgT2EKm) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [palm tree / a major](https://open.spotify.com/album/09VyuUEzQDbhe91x2r0Vl2) | 2:25 | 2026-08-07 |  |
 | [Passion \(Feat\. PENOMECO\)](https://open.spotify.com/track/1w6ao8wqrRg5rOEKsZ3Qyy) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Too Passionate](https://open.spotify.com/album/6Oa5bo4s3FhAlfssUI0JTU) | 2:55 | 2024-07-09 | 2024-09-14 |
 | [PATIO](https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [sunkissed](https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb) | 2:40 | 2025-10-22 | 2026-05-15 |
 | [PBNJ](https://open.spotify.com/track/1HW6b28Olu5p1g8ukN3uBi) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [PBNJ](https://open.spotify.com/album/7n9kECSkb9t0NWvmNJBwxl) | 2:24 | 2025-10-22 | 2026-05-01 |
@@ -661,7 +662,7 @@
 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 | 2024-05-14 | 2024-08-11 |
 | [Zero gravity \(feat\. Blueday\)](https://open.spotify.com/track/4CHZmHfpzinqUwWiSYWPn7) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Zero gravity](https://open.spotify.com/album/1EyyquQhOTZzRuuwcN1VCF) | 3:16 | 2022-10-04 | 2023-03-28 |
 | [겨울길 \(feat\. 영준\)](https://open.spotify.com/track/7s9ueFmPRPZvu2WnKJPeI9) | [Ray Hill](https://open.spotify.com/artist/37Ez82I2tYUegLiKXfOkUw), [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt) | [나의 겨울](https://open.spotify.com/album/7m8rPBnClStMMpVT7BXt9y) | 3:59 | 2022-12-15 | 2023-07-08 |
-| [기분이 아주 꽃같네 \(What the Flower\)](https://open.spotify.com/track/6kkU41vVNer11q6EaDFN9p) | [Maya](https://open.spotify.com/artist/3j9SRkVRY2vwwTrWaPpwI2) | [기분이 아주 꽃같네 \(What the Flower\)](https://open.spotify.com/album/3OtEuPwNryxB1JmNSE7bSe) | 4:13 | 2026-04-13 |  |
+| [기분이 아주 꽃같네 \(What the Flower\)](https://open.spotify.com/track/6kkU41vVNer11q6EaDFN9p) | [Maya](https://open.spotify.com/artist/3j9SRkVRY2vwwTrWaPpwI2) | [기분이 아주 꽃같네 \(What the Flower\)](https://open.spotify.com/album/3OtEuPwNryxB1JmNSE7bSe) | 4:13 | 2026-04-13 | 2026-08-07 |
 | [꿈에서라도 만나](https://open.spotify.com/track/4URmaE5l4iqz29hb4FD650) | [gemtarot](https://open.spotify.com/artist/2dKRiCpkG0U7n9nN94kDue) | [헤어지고 나서 듣고 싶은 노래 part.1](https://open.spotify.com/album/3Ka3La2kkXHA3eKWYz404x) | 2:09 | 2024-09-24 | 2025-02-15 |
 | [내가 죽으려고 생각한 것은 僕が死のうと思ったのは \(The Reason Why I Thought I'd Die\)](https://open.spotify.com/track/2OBptPww39taCRvg856hiU) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [내가 죽으려고 생각한 것은 僕が死のうと思ったのは \(The Reason Why I Thought I'd Die\)](https://open.spotify.com/album/7yp8qU7xrdgRSMAYTU27RA) | 4:50 | 2026-04-13 |  |
 | [너와 함께라면 \(With You\) \(Feat\. Vahn, ilipp\)](https://open.spotify.com/track/3HsXb5j17myslAHsyLWylm) | [Wavycake](https://open.spotify.com/artist/2fwYaw5xb32ox263Uo7nPR), [Vahn](https://open.spotify.com/artist/5snxmL23WuzHdNccHE7qvN), [ilipp](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [너와 함께라면 \(With You\)](https://open.spotify.com/album/7MMnN3Ymj8GTC7qSSQw7pS) | 3:41 | 2024-03-08 | 2024-07-10 |

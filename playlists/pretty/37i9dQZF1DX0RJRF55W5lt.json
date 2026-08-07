@@ -1,12 +1,12 @@
 {
   "description": "Classic anthems from a classic era. Cover: Sunship",
-  "num_followers": 687104,
+  "num_followers": 687209,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANEXmTX5VLm6ohZVGvQL9M+XUUNR",
+  "snapshot_id": "AAAAACTzci22sgNFOmaKpEw+OSKqnUVV",
   "tracks": [
     {
       "added_at": "2026-03-11 09:40:56",
@@ -1359,50 +1359,38 @@
     {
       "added_at": "2026-03-11 09:40:56",
       "album": {
-        "name": "Girls Like Us",
-        "url": "https://open.spotify.com/album/2hmf2BtDupXSYz3TbXq2be"
+        "name": "Unleash The Dragon (UK COMM EXTRA TRACKS)",
+        "url": "https://open.spotify.com/album/2Q059JIZOx97MuuggN6PvU"
       },
       "artists": [
         {
-          "name": "B15 Project",
-          "url": "https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc"
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
         },
         {
-          "name": "Crissy D",
-          "url": "https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh"
-        },
-        {
-          "name": "Lady G",
-          "url": "https://open.spotify.com/artist/6dvIEb67jvtYQnnXrgwrxJ"
+          "name": "M.C. Alastair",
+          "url": "https://open.spotify.com/artist/687vo1Cb1bX0JYVRUJDRFJ"
         }
       ],
-      "duration_ms": 356106,
-      "name": "Girls Like Us - Radio Edit",
-      "url": "https://open.spotify.com/track/2OiFLUUvtJg03Zh2xr7HOU"
+      "duration_ms": 334240,
+      "name": "Thong Song - Artful Dodger Remix",
+      "url": "https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm"
     },
     {
       "added_at": "2026-03-11 09:40:56",
       "album": {
-        "name": "Woman Trouble",
-        "url": "https://open.spotify.com/album/6zxF5nIPACXqtxnfnLiSdj"
+        "name": "Pure Garage Reload - The Very Best Of Old Skool Garage",
+        "url": "https://open.spotify.com/album/4FVSogOmseVSnVJwvFEwQa"
       },
       "artists": [
         {
-          "name": "Artful Dodger",
-          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
-        },
-        {
-          "name": "Robbie Craig",
-          "url": "https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+          "name": "Shola Ama",
+          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
         }
       ],
-      "duration_ms": 423250,
-      "name": "Woman Trouble - Remix",
-      "url": "https://open.spotify.com/track/5i4ZghBHu5Eamihz9Zsbhc"
+      "duration_ms": 341413,
+      "name": "Imagine - Asylum Remix",
+      "url": "https://open.spotify.com/track/7cQjdDB3ihCB7awAOZcfuE"
     }
   ],
   "unique_name": "UK Garage Classics",

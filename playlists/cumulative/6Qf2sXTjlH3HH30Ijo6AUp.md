@@ -2,9 +2,9 @@
 
 ### [100 Uplifting Songs](https://open.spotify.com/playlist/6Qf2sXTjlH3HH30Ijo6AUp)
 
-> Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
+> Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower! A good playlist for pickme pop, feel good pop, and other positive music to boost your mood!
 
-414 songs - 23 hr 48 min
+415 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2025-01-10 | 2026-04-01 |
 | [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/track/05N2CVEkUbEd0slHLapdER) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/album/6Rhl0PXrNpvezhUrwXZnBa) | 3:06 | 2024-09-06 | 2024-09-21 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-24 | 2023-04-07 |
+| [Let Her Go](https://open.spotify.com/track/2pUpNOgJBIBCcjyQZQ00qU) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe\)](https://open.spotify.com/album/5te4yFMdnzpJ1s6fa5TIZG) | 4:12 | 2026-08-06 |  |
 | [Let It Go](https://open.spotify.com/track/7fPFxJ7UskvCOF2v6qDTph) | [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U), [ZILO](https://open.spotify.com/artist/4u2VdhzxFUoCpV9uLcjLWP) | [Let It Go](https://open.spotify.com/album/1mMwqyaq9KU1IcS5RJo1uJ) | 2:36 | 2026-06-18 | 2026-06-26 |
 | [LET ME BE](https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR) | [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30) | [LET ME BE](https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op) | 3:09 | 2026-04-14 | 2026-06-19 |
 | [Let Me Down Easy](https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Let Me Down Easy](https://open.spotify.com/album/0vfLqxkAHmpgjTsxCk33cs) | 3:24 | 2023-08-18 | 2023-12-14 |
@@ -407,7 +408,7 @@
 | [What You Need \- A COLORS SHOW](https://open.spotify.com/track/49ceA6VvdgxF5LmXRPeIFA) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [What You Need \- A COLORS SHOW](https://open.spotify.com/album/2QCIt3Hun6RkRBug3DIz27) | 3:51 | 2026-03-31 | 2026-05-13 |
 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 | 2026-03-31 | 2026-05-13 |
 | [Whatcha Say](https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Jason Derulo](https://open.spotify.com/album/0aVJmVAeEx78nAA1rAKYf7) | 3:41 | 2024-02-09 | 2026-04-01 |
-| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2026-07-23 |  |
+| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2026-07-23 | 2026-08-07 |
 | [Wide Awake](https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Tom Did It](https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ) | [Wide Awake](https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe) | 4:16 | 2026-03-27 | 2026-06-19 |
 | [Wildflowers \- Bonus Track](https://open.spotify.com/track/75To9uF11PYY0vAkXnDWvW) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:58 | 2023-05-05 | 2023-05-27 |
 | [Wings](https://open.spotify.com/track/1D4XFKolp63mNqqMXJJL1V) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within](https://open.spotify.com/album/0r94AFhRLvpfXvha7vx2dK) | 4:12 | 2022-06-07 | 2022-07-19 |

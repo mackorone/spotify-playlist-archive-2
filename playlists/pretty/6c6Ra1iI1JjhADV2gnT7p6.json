@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60420,
+  "num_followers": 60428,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABO+hZZFTwOIOG7sXnor7CV6yXNwtoC",
+  "snapshot_id": "AABO/xJKIKmaQ9YyBfwzswkOK+Sn9PbF",
   "tracks": [
     {
       "added_at": "2026-07-31 11:24:45",
@@ -3868,7 +3868,7 @@
           "url": "https://open.spotify.com/artist/2t7QTR605blWfLiAQaEG7y"
         }
       ],
-      "duration_ms": 220177,
+      "duration_ms": 221565,
       "name": "UFO Sightings",
       "url": "https://open.spotify.com/track/2f4sNvqRFsJZWdo7OFraMv"
     },
@@ -8968,7 +8968,7 @@
       },
       "artists": [
         {
-          "name": "daisy",
+          "name": "daisy*",
           "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
         }
       ],
@@ -9119,6 +9119,22 @@
       "duration_ms": 174597,
       "name": "Swamp",
       "url": "https://open.spotify.com/track/6W2LJGwqHF4uuYFQEDS8Vj"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
+        "name": "Hercules",
+        "url": "https://open.spotify.com/album/5QWEWV25nYifxXjOYPkxjA"
+      },
+      "artists": [
+        {
+          "name": "Tracey Nelson",
+          "url": "https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J"
+        }
+      ],
+      "duration_ms": 225098,
+      "name": "That's More Like A Lover",
+      "url": "https://open.spotify.com/track/413ERE8O6R40jL4PtsWXVG"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -9347,38 +9363,6 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
-        "name": "through the moods",
-        "url": "https://open.spotify.com/album/5djhXNofGrfBy5bGnvUlsf"
-      },
-      "artists": [
-        {
-          "name": "papaya noon",
-          "url": "https://open.spotify.com/artist/1kad4KLyjedst1upnsLNy1"
-        }
-      ],
-      "duration_ms": 187659,
-      "name": "blush",
-      "url": "https://open.spotify.com/track/3fVMqvqvJCRhdfSgeY62Rt"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "Hercules",
-        "url": "https://open.spotify.com/album/5QWEWV25nYifxXjOYPkxjA"
-      },
-      "artists": [
-        {
-          "name": "Tracey Nelson",
-          "url": "https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J"
-        }
-      ],
-      "duration_ms": 225098,
-      "name": "That's More Like A Lover",
-      "url": "https://open.spotify.com/track/413ERE8O6R40jL4PtsWXVG"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
         "name": "You Don't Have to Be Anyone",
         "url": "https://open.spotify.com/album/11l4BTJWR1vJO9RyR9d0mY"
       },
@@ -9459,6 +9443,22 @@
       "duration_ms": 194422,
       "name": "Thought It Wouldn't Happen",
       "url": "https://open.spotify.com/track/7jA5va2sTH4Fa36lYwYQUP"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
+        "name": "through the moods",
+        "url": "https://open.spotify.com/album/5djhXNofGrfBy5bGnvUlsf"
+      },
+      "artists": [
+        {
+          "name": "papaya noon",
+          "url": "https://open.spotify.com/artist/1kad4KLyjedst1upnsLNy1"
+        }
+      ],
+      "duration_ms": 187659,
+      "name": "blush",
+      "url": "https://open.spotify.com/track/3fVMqvqvJCRhdfSgeY62Rt"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -9779,18 +9779,18 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
-        "name": "puncture wounds",
-        "url": "https://open.spotify.com/album/1cfXyVLRYABb6f8rdMZxua"
+        "name": "Bike",
+        "url": "https://open.spotify.com/album/5sazTHa8B6TU9iBbEVAjgj"
       },
       "artists": [
         {
-          "name": "scorched lungs",
-          "url": "https://open.spotify.com/artist/5xU0z43wpSSKEhyNyijh2l"
+          "name": "Exiter",
+          "url": "https://open.spotify.com/artist/6RDlvIWT15CvS3IPnVQlEy"
         }
       ],
-      "duration_ms": 189591,
-      "name": "puncture wounds",
-      "url": "https://open.spotify.com/track/5zBPbN7YoyrfEWnl3CuMvF"
+      "duration_ms": 69166,
+      "name": "Bike",
+      "url": "https://open.spotify.com/track/3ed4G04UEJVg4DYUtQkWNS"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -9807,22 +9807,6 @@
       "duration_ms": 207189,
       "name": "Pendle Hill",
       "url": "https://open.spotify.com/track/4WH5PrOQemiD8kxArK582K"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "Bike",
-        "url": "https://open.spotify.com/album/5sazTHa8B6TU9iBbEVAjgj"
-      },
-      "artists": [
-        {
-          "name": "Exiter",
-          "url": "https://open.spotify.com/artist/6RDlvIWT15CvS3IPnVQlEy"
-        }
-      ],
-      "duration_ms": 69166,
-      "name": "Bike",
-      "url": "https://open.spotify.com/track/3ed4G04UEJVg4DYUtQkWNS"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -10591,6 +10575,22 @@
       "duration_ms": 230840,
       "name": "Mexico Unlimited",
       "url": "https://open.spotify.com/track/24bWAiHGHFYa5VH4pfI9MR"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
+        "name": "puncture wounds",
+        "url": "https://open.spotify.com/album/1cfXyVLRYABb6f8rdMZxua"
+      },
+      "artists": [
+        {
+          "name": "scorched lungs",
+          "url": "https://open.spotify.com/artist/5xU0z43wpSSKEhyNyijh2l"
+        }
+      ],
+      "duration_ms": 189591,
+      "name": "puncture wounds",
+      "url": "https://open.spotify.com/track/5zBPbN7YoyrfEWnl3CuMvF"
     },
     {
       "added_at": "2026-07-14 16:06:34",

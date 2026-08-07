@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 106997,
+  "num_followers": 107012,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANPLMg7Dd49OUGkRAc+RCDaoj8lc",
+  "snapshot_id": "AAAAAK11XlxF0+IIB4dym2uMCuAFCJ1D",
   "tracks": [
     {
       "added_at": "2025-12-19 04:59:16",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
-        "name": "Aguerrida",
-        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 206908,
-      "name": "Si No Est\u00e1s para Mi",
-      "url": "https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn"
-    },
-    {
-      "added_at": "2025-12-19 04:59:16",
-      "album": {
         "name": "50 Canciones Inmortales",
         "url": "https://open.spotify.com/album/0AsotWNMYZ9CjhK7Y57AXy"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 223546,
       "name": "Tu Me Acostumbraste - 2001 Digital Remaster",
       "url": "https://open.spotify.com/track/4BxqpVTYLzdLBTY3Y4DmMf"
+    },
+    {
+      "added_at": "2025-12-19 04:59:16",
+      "album": {
+        "name": "Aguerrida",
+        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 206908,
+      "name": "Si No Est\u00e1s para Mi",
+      "url": "https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn"
     },
     {
       "added_at": "2025-12-19 04:59:16",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
-        "name": "Lucho Barrios - In Memoriam 1935 - 2010",
-        "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
-      },
-      "artists": [
-        {
-          "name": "Lucho Barrios",
-          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
-        }
-      ],
-      "duration_ms": 178918,
-      "name": "Me Enga\u00f1as Mujer",
-      "url": "https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR"
-    },
-    {
-      "added_at": "2025-12-19 04:59:16",
-      "album": {
         "name": "Divas Peruanas del Bolero, Vol. 1",
         "url": "https://open.spotify.com/album/7aU7bwPKjedcZdNNuzNMvd"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 218720,
       "name": "Verdad Amarga",
       "url": "https://open.spotify.com/track/3IFP8kVXqDOwh3sMlfpaJ7"
+    },
+    {
+      "added_at": "2025-12-19 04:59:16",
+      "album": {
+        "name": "Lucho Barrios - In Memoriam 1935 - 2010",
+        "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
+      },
+      "artists": [
+        {
+          "name": "Lucho Barrios",
+          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
+        }
+      ],
+      "duration_ms": 178918,
+      "name": "Me Enga\u00f1as Mujer",
+      "url": "https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR"
     }
   ],
   "unique_name": "Boleros en Casa",

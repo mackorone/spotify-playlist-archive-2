@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-631 songs - 1 day 13 hr 29 min
+632 songs - 1 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Les pommiers envahis](https://open.spotify.com/track/0iYZ8hkEx9POpr0TlS87pl) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Pays](https://open.spotify.com/album/6qNk4o8WSwbaT95aJuoW1n) | 4:59 | 2022-07-08 | 2023-06-17 |
 | [Les pommiers envahis](https://open.spotify.com/track/2NKZj5P2qpPZAH98ERdWc8) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Les pommiers envahis](https://open.spotify.com/album/6lJg8jJu2VKZOqAFTzQ4Ux) | 4:59 | 2021-01-15 | 2022-07-29 |
 | [Les salades de l'amour](https://open.spotify.com/track/1CuzE9zBtKzfsDvxR4moPf) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Les salades de l'amour](https://open.spotify.com/album/2uZv8Yba51eLH2sP4a8WoG) | 3:20 | 2021-02-12 | 2022-07-29 |
-| [Les serpents dans l'eau](https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu) | [cécile](https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH) | [Les serpents dans l'eau](https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge) | 3:37 | 2026-07-10 |  |
+| [Les serpents dans l'eau](https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu) | [cécile](https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH) | [Les serpents dans l'eau](https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge) | 3:37 | 2026-07-10 | 2026-08-07 |
 | [Les travaux](https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère](https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv) | 3:50 | 2021-02-27 | 2025-08-04 |
 | [Les vents aimants](https://open.spotify.com/track/7hknXKrXWA2l4DKO1L9W31) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Les vents aimants](https://open.spotify.com/album/5DJaV9O0iPbyFgueY0WgV8) | 2:21 | 2021-03-17 | 2022-07-24 |
 | [Les épousailles](https://open.spotify.com/track/3YBtUOXgW8FwxkAzphFAzx) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petite plage](https://open.spotify.com/album/2YH5Fvzzf55VORIDHcTqmc) | 2:38 | 2021-01-15 | 2022-07-29 |
@@ -370,6 +370,7 @@
 | [Martine](https://open.spotify.com/track/0K4u23NQWXl8MWFzkal13R) | [Camaromance](https://open.spotify.com/artist/6MiaQkFU6CoconRyRYko7X) | [Martine](https://open.spotify.com/album/0SgdKJsbN49Uxxptds7axE) | 4:03 | 2021-01-03\* | 2022-07-14 |
 | [Mathieu et Gloria](https://open.spotify.com/track/6PxHMyDTD2ugw6kSxNjtq6) | [Ombre!](https://open.spotify.com/artist/4RvNQrx95ubI5E1woJER6o) | [Les grands vents](https://open.spotify.com/album/2UWAAvO2RTCYRmegk0cYUp) | 4:14 | 2021-01-03\* | 2022-07-12 |
 | [mauvais sort](https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [mauvais sort](https://open.spotify.com/album/5jOqIFY6fLelCZPJ9snTq9) | 4:51 | 2025-12-19 | 2026-03-22 |
+| [maybe i think](https://open.spotify.com/track/6sslSA1MP4zJS1RO2wemux) | [Nick Bellerose](https://open.spotify.com/artist/6Rx0M4DvtX6RFbVTJNspwt) | [maybe i think](https://open.spotify.com/album/4OYELnP5UQBBelvamEjIz0) | 2:06 | 2026-07-31 |  |
 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 | 2022-02-11 | 2025-02-14 |
 | [Menteuse](https://open.spotify.com/track/5c48Kqk8la8I8EjugIDdrF) | [Andromède](https://open.spotify.com/artist/5h1tsxylgwuGvYdyPOEHQy) | [Andromède](https://open.spotify.com/album/26P6KIVuLYtFNyQGiMnXZx) | 4:01 | 2021-09-13 | 2021-09-24 |
 | [Merci de rien](https://open.spotify.com/track/1HULX1oWsUEA39EGptA3fh) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Merci de rien](https://open.spotify.com/album/0DP8QzBD2f8oQESLiukLVE) | 3:11 | 2021-08-14 | 2022-07-25 |

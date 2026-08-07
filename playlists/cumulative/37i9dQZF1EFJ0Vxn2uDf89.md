@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-182 songs - 10 hr 18 min
+183 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Better By Myself](https://open.spotify.com/track/77ixMBo91onYG37mAZiaUj) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Better By Myself](https://open.spotify.com/album/4i3djYXopqVlgvJcIWVmV3) | 3:14 | 2026-07-27 |  |
 | [Biting My Tongue](https://open.spotify.com/track/3yUuElWQqnDLhxfb3gy1Fm) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/4RYoxrJMKyyIMAdDxO1Io3) | 3:33 | 2026-07-27 |  |
 | [Black Widow](https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 2:50 | 2026-07-27 |  |
-| [Bloodshot](https://open.spotify.com/track/1QAH5HMnoDt76yBNpLUsHo) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Warplanes](https://open.spotify.com/album/1advQR4gEU8KH8jBKxdBWP) | 3:20 | 2026-07-27 |  |
+| [Bloodshot](https://open.spotify.com/track/1QAH5HMnoDt76yBNpLUsHo) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Warplanes](https://open.spotify.com/album/1advQR4gEU8KH8jBKxdBWP) | 3:20 | 2026-07-27 | 2026-08-07 |
+| [Bloodshot](https://open.spotify.com/track/72SQbtwyjWOsHQn0CCXrkh) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Warplanes](https://open.spotify.com/album/4gRHkiOgkz3whV2wvuNrPt) | 3:20 | 2026-08-06 |  |
 | [Bloodtype](https://open.spotify.com/track/63fm2Xluo70j5rs8h5kPoq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 1:54 | 2026-07-27 |  |
 | [Blue Banisters](https://open.spotify.com/track/4U9ACZETPOqGuJkWtjkjLF) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:53 | 2026-07-27 |  |
 | [bon iver](https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:16 | 2026-07-27 |  |

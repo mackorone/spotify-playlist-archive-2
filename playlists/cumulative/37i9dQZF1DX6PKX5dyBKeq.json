@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Nemzzz",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Travy",
   "name": "Rap UK",
   "tracks": [
     {
@@ -422,7 +422,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 162306,
       "name": "12am in Milan",
       "url": "https://open.spotify.com/track/3nP7GDxbWL9UqT5vkAqZb7"
@@ -6914,7 +6914,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 192544,
       "name": "boss_",
       "url": "https://open.spotify.com/track/1eTFEhKwOhyiVCwFosZ1RG"
@@ -8778,7 +8778,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 130588,
       "name": "Cardi B",
       "url": "https://open.spotify.com/track/7GhPsPkDqSGBCeJOHL4e9y"
@@ -19155,6 +19155,28 @@
     },
     {
       "album": {
+        "name": "All Things Can Be True",
+        "url": "https://open.spotify.com/album/0J87ta1o0Cg76yWyZJD3jd"
+      },
+      "artists": [
+        {
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
+        },
+        {
+          "name": "Ossi Grace",
+          "url": "https://open.spotify.com/artist/6fEdaMsmpGlBN8z0WvEWSr"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224147,
+      "name": "Halos Fade (feat. Ossi Grace)",
+      "url": "https://open.spotify.com/track/308z0aSAMRIKIvKUeYKS0c"
+    },
+    {
+      "album": {
         "name": "Hands On",
         "url": "https://open.spotify.com/album/4K563lnAPDq7kDxBw5BP6v"
       },
@@ -19422,7 +19444,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 183000,
       "name": "HEAR DAT STYL",
       "url": "https://open.spotify.com/track/1BtH6sE4Q5HFWwQl9FJ0QH"
@@ -23143,6 +23165,24 @@
     },
     {
       "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3NzDCbjZaErLctPH77vbaV"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/1W7NwoNXkeQHtPNykbXwaP"
+    },
+    {
+      "album": {
         "name": "Home Alone 2",
         "url": "https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA"
       },
@@ -23248,7 +23288,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 213617,
       "name": "Kill The Buddha",
       "url": "https://open.spotify.com/track/2bsusDVxGFVWKZec5tjAP2"
@@ -28649,6 +28689,24 @@
     },
     {
       "album": {
+        "name": "Morgan Rogers",
+        "url": "https://open.spotify.com/album/6Xbvpa8LhOgz70plPrZVON"
+      },
+      "artists": [
+        {
+          "name": "Marnz Malone",
+          "url": "https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Morgan Rogers",
+      "url": "https://open.spotify.com/track/3gXsOg3m0RtYF9zaWG24Bp"
+    },
+    {
+      "album": {
         "name": "Mortal Kombat (Remix)",
         "url": "https://open.spotify.com/album/3TXqiLvDzTYwr3SS3w23vg"
       },
@@ -32514,7 +32572,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 120827,
       "name": "Pac-Man",
       "url": "https://open.spotify.com/track/7CT6uTCmVIMnFR9VVag8Hr"
@@ -34546,6 +34604,28 @@
       "duration_ms": 131200,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/1s8of3zPu47Y4EtrNtaU4F"
+    },
+    {
+      "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136533,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC"
     },
     {
       "album": {
@@ -39469,6 +39549,24 @@
     },
     {
       "album": {
+        "name": "Slipknot",
+        "url": "https://open.spotify.com/album/2gKzFGOd66j3qnJZxqjudc"
+      },
+      "artists": [
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "Slipknot",
+      "url": "https://open.spotify.com/track/54RdZvjWuq1Rm8fvN3EzuB"
+    },
+    {
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/5rigvshbbuljrrceGXxMrD"
       },
@@ -43765,6 +43863,24 @@
     },
     {
       "album": {
+        "name": "Too High",
+        "url": "https://open.spotify.com/album/3Af8Zj9zUUC6EPHm5dFBtM"
+      },
+      "artists": [
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166480,
+      "name": "Too High",
+      "url": "https://open.spotify.com/track/3JdLb8ixDa67E3zKZaxo6N"
+    },
+    {
+      "album": {
         "name": "Too Loyal for My Own Good",
         "url": "https://open.spotify.com/album/39SJXfvhdYT3pWyfKqLO83"
       },
@@ -47125,6 +47241,28 @@
     },
     {
       "album": {
+        "name": "Which One",
+        "url": "https://open.spotify.com/album/3AipAgLfi9mnI0hFewZvUx"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        },
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Which One",
+      "url": "https://open.spotify.com/track/3URpUsUUv4Kr7l1hVnWy1K"
+    },
+    {
+      "album": {
         "name": "Whip That Work",
         "url": "https://open.spotify.com/album/3Iz2XFN5ZIAU5yKM37vtPQ"
       },
@@ -48546,7 +48684,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 195762,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/1yCuloYO2IJNmKoMwWjlno"

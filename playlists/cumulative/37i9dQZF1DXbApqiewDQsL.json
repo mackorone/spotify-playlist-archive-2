@@ -4449,6 +4449,24 @@
     },
     {
       "album": {
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/1tktkOQNG1CT9WONe4EvIu"
+      },
+      "artists": [
+        {
+          "name": "Angel Tumbado",
+          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195525,
+      "name": "Enero",
+      "url": "https://open.spotify.com/track/6BDtDqVnx53X8WCGiqBe0o"
+    },
+    {
+      "album": {
         "name": "Enfermo de Riqueza",
         "url": "https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr"
       },
@@ -12070,7 +12088,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 176496,
       "name": "Un Leve",
       "url": "https://open.spotify.com/track/5NrR1FbyOwL3g97hnKwCIV"

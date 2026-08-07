@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Alice Barlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,552 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,562 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 47 | [SIMP 4 U](https://open.spotify.com/track/1VrREfQ1MXoiRULw3eYl3N) | [YAII](https://open.spotify.com/artist/7MvPAMS30HN4K095Vm4N30) | [SIMP 4 U](https://open.spotify.com/album/4oqQMSGJ8PImETmerljN5Q) | 2:15 |
 | 48 | [if i had one wish.](https://open.spotify.com/track/2P58L8iRKiwZ0UcDkqJVpz) | [Floetic](https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v), [J2](https://open.spotify.com/artist/6OXH8PrAhJqYkfPvHbKPld), [Awaiting Kvng](https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW), [Dylan Hingston](https://open.spotify.com/artist/4rG2Yk2nM1rVtTlMKS91jX) | [no more nostalgia.](https://open.spotify.com/album/6Tk7ldAIIVj1enbMoffE72) | 2:27 |
 | 49 | [In Yr Right Hand Reveal Heaven](https://open.spotify.com/track/5XupJq5fBAe68ZTNP6056a) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [In Yr Right Hand Reveal Heaven](https://open.spotify.com/album/0Dhknp1ZINLIp1TV8QJpH2) | 4:41 |
-| 50 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
+| 50 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
 
-Snapshot ID: `AAAAADJajrtmqPgdGBumYqSLzfio+g4D`
+Snapshot ID: `AAAAAPcC4Sxm22S0fUYG6tmVbKA0xiLY`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Pezet",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Malik Montana",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -54,6 +54,28 @@
       "duration_ms": 187000,
       "name": "1 na 100",
       "url": "https://open.spotify.com/track/7q2axmQBSD88VaASEJ9oX4"
+    },
+    {
+      "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/46qvpzsvGTiKEbRkSBXamd"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164028,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/2gZen0T9LD9bgz0NjxKT6W"
     },
     {
       "album": {
@@ -2052,7 +2074,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 188159,
       "name": "bby blue",
       "url": "https://open.spotify.com/track/3SAxzUBcOd4KykAarxwCAs"
@@ -4861,6 +4883,28 @@
     },
     {
       "album": {
+        "name": "JEZU CHRYSTE KUBI",
+        "url": "https://open.spotify.com/album/7zL2CHSVPxPpviqfJaL8wu"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "CZARNA GODZINA",
+      "url": "https://open.spotify.com/track/4vf3GbwkHt915od6hhsNP8"
+    },
+    {
+      "album": {
         "name": "Czarna Per\u0142a",
         "url": "https://open.spotify.com/album/4yL9yrzZHVkIro6o4evAYs"
       },
@@ -5941,6 +5985,32 @@
     },
     {
       "album": {
+        "name": "Cartel Season",
+        "url": "https://open.spotify.com/album/6b63vubXV8gSjUjG7MyZ50"
+      },
+      "artists": [
+        {
+          "name": "Hellfield",
+          "url": "https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q"
+        },
+        {
+          "name": "Macias",
+          "url": "https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173357,
+      "name": "Dominikana",
+      "url": "https://open.spotify.com/track/1IIeF6t1HqFa8ikU0gy5cB"
+    },
+    {
+      "album": {
         "name": "Don Alvarez",
         "url": "https://open.spotify.com/album/3zS53BAFQKFwg2PGS7HJgQ"
       },
@@ -6572,7 +6642,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 147428,
       "name": "ECHO",
       "url": "https://open.spotify.com/track/4Z9nSvXEBRsj10fVZAFz0x"
@@ -7070,6 +7140,36 @@
       "duration_ms": 224493,
       "name": "False flag",
       "url": "https://open.spotify.com/track/5OARsPvmd9bxhCtNLlVlhd"
+    },
+    {
+      "album": {
+        "name": "SCADI HOUSE VOL. 2",
+        "url": "https://open.spotify.com/album/7lQqVFsQsk2VMKprJphG90"
+      },
+      "artists": [
+        {
+          "name": "SCADI HOUSE",
+          "url": "https://open.spotify.com/artist/13WK9RiSZAaAXGqLjccy1v"
+        },
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "Hellfield",
+          "url": "https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/6IQLa7EfhTnjc1go6CkpC7"
     },
     {
       "album": {
@@ -8076,6 +8176,36 @@
       "duration_ms": 198979,
       "name": "Gigachat",
       "url": "https://open.spotify.com/track/4wNZ9e2tM91kFZLAeB9Uy6"
+    },
+    {
+      "album": {
+        "name": "GLOBAL",
+        "url": "https://open.spotify.com/album/3mOaQWXMW7YjPNMef7HZDm"
+      },
+      "artists": [
+        {
+          "name": "Pusher",
+          "url": "https://open.spotify.com/artist/0fK8tIJvuUipbExfySWTVb"
+        },
+        {
+          "name": "Oska030",
+          "url": "https://open.spotify.com/artist/5mk5cvluGcQc8liUhNc8nO"
+        },
+        {
+          "name": "Baba Hassan",
+          "url": "https://open.spotify.com/artist/0bnklE4AY6Jf8Y3gfDSli4"
+        },
+        {
+          "name": "DeeVoe",
+          "url": "https://open.spotify.com/artist/7avn0wHSO3cny6OM46NALL"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "GLOBAL",
+      "url": "https://open.spotify.com/track/3x3wnyRHpnTTzyyUwzDbYm"
     },
     {
       "album": {
@@ -11103,6 +11233,40 @@
     },
     {
       "album": {
+        "name": "JEZU CHRYSTE KUBI",
+        "url": "https://open.spotify.com/album/7zL2CHSVPxPpviqfJaL8wu"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Sapi Tha King",
+          "url": "https://open.spotify.com/artist/2qsaCzPED3iK3HIRLOtRMW"
+        },
+        {
+          "name": "kuqe 2115",
+          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
+        },
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "KOSZT BYCIA BOSS",
+      "url": "https://open.spotify.com/track/3otQrfJgd2ncNj3s36XzTX"
+    },
+    {
+      "album": {
         "name": "Kot Schr\u00f6dingera",
         "url": "https://open.spotify.com/album/3dfvYJ7T7U2hIyy41tq9e4"
       },
@@ -11518,7 +11682,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 166256,
       "name": "Latamy",
       "url": "https://open.spotify.com/track/0tC7avt8CixFIGIpR2uJaV"
@@ -13652,6 +13816,28 @@
       "duration_ms": 168329,
       "name": "MOJA WINA",
       "url": "https://open.spotify.com/track/117KifGYCTOCz3lFev5urW"
+    },
+    {
+      "album": {
+        "name": "Moja wina",
+        "url": "https://open.spotify.com/album/0AWDibZYrq7U4t1Fmd1qjE"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177833,
+      "name": "Moja wina",
+      "url": "https://open.spotify.com/track/0fRuValcwoKXwOzFWeoR13"
     },
     {
       "album": {
@@ -16882,7 +17068,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 142080,
       "name": "OSH TY",
       "url": "https://open.spotify.com/track/1n9PPqmn5rmkoUPkOAmGzy"
@@ -18285,6 +18471,32 @@
     },
     {
       "album": {
+        "name": "Pogwarzymy",
+        "url": "https://open.spotify.com/album/00asx7ifsxwIatumLVJySH"
+      },
+      "artists": [
+        {
+          "name": "Sok\u00f3\u0142",
+          "url": "https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        },
+        {
+          "name": "ENKLAWA",
+          "url": "https://open.spotify.com/artist/6ZqdYXFVRXIOIx7ymVrexG"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155875,
+      "name": "Pogwarzymy",
+      "url": "https://open.spotify.com/track/6zE62W5LPURESCtDGL3eZi"
+    },
+    {
+      "album": {
         "name": "Pokolenie Hoodville",
         "url": "https://open.spotify.com/album/7yxozwLT6w0PG7z7aQHsnV"
       },
@@ -19076,7 +19288,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 195400,
       "name": "PSYCHOZAZA",
       "url": "https://open.spotify.com/track/54XlEj78BUBOC6LqwTXQ32"
@@ -22674,7 +22886,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 166736,
       "name": "Trash talk vol. 1",
       "url": "https://open.spotify.com/track/5d9R3bVOERBlXv1ePTo6is"
@@ -23828,7 +24040,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 166680,
       "name": "WALDEK KIEPSKI",
       "url": "https://open.spotify.com/track/1AWHemRVAmzAqaQfQcyqfM"
@@ -25104,7 +25316,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-07",
       "duration_ms": 266840,
       "name": "ZAKOCHA\u0141EM SI\u0118 POD APTEK\u0104",
       "url": "https://open.spotify.com/track/6F9Xu5kvOMQNCPFkoa2yST"
